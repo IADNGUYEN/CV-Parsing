@@ -1,0 +1,22 @@
+      Vu Hoang Phuc  
+Apply for: AI/ Machine Learning Internship 
+PERSONAL INFORMATION 
+Email: phucvu4697@gmail.com 
+Phone number: 0902490300 
+EDUCATION 
+2015-2019: University of Science 
+Speciality:  Mathematics and Computer Science 
+TECHNICAL SKILLS 
+Math, Machine Learning 
+Algorithms 
+Python, Matlab, C/C++ 
+PROJECTS 
+Ebolavirus classification 
+OTHER SKILLS 
+Being able to understand and communicate in English 
+Logical thinking, problem-solving skills 
+Team work skills 
+2014 
+Description: Extracting features from protein sequences and classifying 
+them in Ebola species. 
+Method: Feature Engineering, PCA, Naive Bayes Classification 

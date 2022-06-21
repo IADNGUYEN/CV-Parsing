@@ -1,0 +1,63 @@
+VU ANH TAI
+FULL-STACK DEVELOPER
+ May 18, 1997
+ Male
+ 0929307205
+ vuanhtai1997@gmail.com
+ TPHCM, Vietnam
+ facebook.com/VuAnhTai1997
+SKILLS
+PHP
+NODEJS
+REACTJS/VUEJS
+JQUERY/BOOTSTRAP/HTML/CSS
+ENGLISH
+TEAM PLAYER
+CREATIVITY
+OBJECTIVE
+To get into a reputable organization for
+entry-level position to start my career
+where I could potentially utilize my
+knowledge and skills for better growth
+of the organization.
+INTERESTS
+Read new technology
+Play games
+Listen to music.
+EVOLABLE ASIA
+JUNE 2018  PRESENT
+GRADUATION PROJECT
+MARCH 2019  PRESENT
+FAST
+OCT 2017  DEC 2017
+UNIVERSITY OF SCIENCE
+OCT 2015  OCT 2014
+COMPUTER CENTER KHTN
+AUG 2017   OCT 2017
+Strengths:  Ability to learn and research quickly.  Work well under pressure of the time.  Enthusiasm, considerate and hard-working.
+Weaknesses:  Speaking English is my weakness.  Focus too much on the details.  Have trouble saying “no.”
+
+WORK EXPERIENCE
+FULLSTACK DEVELOPER
+Get involved in the project of selling air tickets online.In addition, join the build and design of
+the user interface.
+Languages & techs:  PHP (Laravel, zend)  MYSQL  JAVASCIPT, HTML, CSS  Source control: Github
+FULLSTACK DEVELOPER
+Develop intelligent management software to care for students for training centers
+Languages & techs:  NODEJS (Express)  MONGODB  REACTJS  Source control: Github
+Github Project: https://github.com/vansti/DATN
+Back-end: https://learning-management-system-102.herokuapp.com
+Front-end: https://trung-tam-dao-tao.herokuapp.com/
+BACK-END INTERN
+Supports build API calculate taxes
+Languages & techs:  JAVA- XML  JAVASCIPT, HTML, CSS  Source control: Github
+
+EDUCATION
+Major: Software technology
+GPA: 7/10
+Project personal in github: https://github.com/VuAnhTai
+Major: Design
+GPA: 9/10
+
+STRENGTHS AND WEAKNESSES
+© topcv.vn

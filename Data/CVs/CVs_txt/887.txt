@@ -1,0 +1,33 @@
+ 
+Contact information 
+Trần Quốc Trọng 
+► Career Goal:  
+Improve own skill and develop better  IoT equipment  
+Date of Birth: 04/01/1996  
+Gender: Male 
+Mobile: 0963216478   
+Email: trongcr781@gmail.com  
+Address: 3/2, highway 10, town 
+3, Linh Trung precinct, Thu 
+Duc district, Ho Chi MInh 
+Language 
+English:  
+Skills 
+C/C++: 
+Office: 
+Teamwork: 
+Presentation: 
+Android : 
+HTML: 
+Proteus: 
+► Work Experience  The project had made 
++ Switch IoT 
++ Measure precipitation flow 
++ Temperature, humidity submitted ThingSpeak 
++ Calculator the calories cyclists 
+► Education: 
+9/2014  9/2018 
+Ho Chi Minh University of Technology and Education 
+Major: Computer Engineering Technology 
+GPA: 6.6 
+GPA 8.0 

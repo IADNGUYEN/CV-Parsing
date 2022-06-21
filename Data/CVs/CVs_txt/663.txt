@@ -1,0 +1,89 @@
+ 
+2.0 years experience as iOS developer.   
+Year of birth: 1992 
+SeX: Male 
+Email: Nguyenduan29@gmail.com 
+Skype: nguyenduan292@outlook.com 
+Mobile: +841675051755 
+PROFESSIONAL EXPERIENCE 
+Software Developer, Bee Sight Software 
+Apr 2015 – Jan 2016  
+iOS developer (Objective-C) 
+Software Developer, Bee Sight Software 
+Jun 2016 – Jun 2017 
+iOS developer (Objective-C/Swift). 
+Work on many large projects with various technologies, troubleshoot customer's system. 
+Study new technologies, frameworks and libraries. 
+AREA OF EXPERTISE 
+Language 
+Objective-C 
+Swift 
+Database 
+SQL 
+SQLite 
+Realm 
+CoreData 
+Platform: 
+iOS 
+Libraries  Framework 
+Typhoon (IoC) 
+CocoaPods for dependency 
+management 
+AFNetworking/RestKit/Ala
+moFire for REST API 
+Bolts for asynchronous 
+programming 
+mBaaS: Google Firebase 
+Social network (FB, G+, 
+Youtube) 
+Programming skill 
+OOP & Design Pattern 
+MVC/MVP/MVVM IoC 
+NGUYEN DUAN 
+Developer Staff 
+EDUCATION 
+School:  
+Ho Chi Minh University of Technology – Computer science and engineering. 
+ADDENDUM – PROJECTS IN DETAILS 
+Project 
+: Mexu 
+Position 
+: iOS Developer 
+AppStore link : https://itunes.apple.com/vn/app/id1016860541 
+Description 
+: iOS/Android application for people who improves English Skill (Speak/Read). 
+Technologies 
+: Objective-C, consume REST APIs, used Sqlite database, Coredata, Social network API 
+(Facebook, Google+), Speech recognition technologies, Localization, Build mini Game 
+(using Sprite Kit), game center, In-App Purchase 
+Project 
+: F1 Accounting 
+Position 
+: iOS Developer 
+AppStore link  : https://itunes.apple.com/us/app/id1069852015 
+Description 
+: A mobile client access module. 
+Technologies 
+: Objective-C, consume SOAP APIs from C# backend, Custom UI & animations, manage 
+data synchronization for offline and online, Coredata. 
+Project 
+: Fatigue Tracker. 
+Position 
+: iOS Developer 
+Description 
+: A timer tracking application for driver. 
+Technologies 
+: Objective C, consume REST APIs, build timer and logic for alarm, push notification 
+(One signal, Local Notification) 
+Project 
+: Learn Korean Languages 
+Position 
+: iOS Developer 
+Client 
+: https://itunes.apple.com/us/app/id1242995597  
+Description 
+: Applications for people who Learn Korean Languages. 
+Technologies 
+: Swift, Consume Sqlite database(GRDB), Realm database, Social network (Facebook),  
+Google Firebase analytics/admob, Speech recognition (Speech sdk, Open Ears), manage 
+and play audio files. 

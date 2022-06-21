@@ -1,0 +1,39 @@
+ 
+DO HUYNH PHUONG 
+AI/ML Fresher  My name is Huỳnh Phương, I’m an IT student at 
+Huflit University. Recently, I completed my graduate 
+thesis on Deep Learning about classifying Malaria 
+cells with an excellent point. I’m still improving my 
+AI knowledge every day for an AI job opportunity.  I am responsible and hardworking in my work and I 
+always want to improve myself to become better. 
+EXPERIENCE 
+SUMMARY 
+❖ Computer Vision  I made a face recognition with pet filter application 
+using Google Vision framework.  Using OpenCV methods to process images and know 
+how to an image is processed. 
+❖ Deep Learning  I have knowledge about CNN architectures and I can 
+build models for the problems.  Understanding basic concepts, problems in Deep 
+Learning.  I have researched about Malaria disease topic, 
+experimenting and modifying LeNet, VGGNet and 
+ResNet architectures to classify Malaria cells for 6 
+months. Build an application to classify Malaria cells. 
+❖ Python Programing  I build a basic chatbot project using python and 
+django. 
+EDUCATION 
+HUFLIT University Ho Chi Minh  (2015 – 09/2019) 
+Studying Software Engineering. 
+Senior-year student in University. 
+GPA: 8.06 
+SKILLS 
+❖ Technology skills 
+Programming Languages:  Python 
+Frameworks  TensorFlow  Keras  OpenCV  Sklearn 
+❖ Soft skills  Teamwork  Communication  Self-movitation 
+INTERESTS 
+Phone: 098 48 38 725 
+Email: huynhphuong1597@gmail.com 
+Address: 35 Tan Tru Street, Ward 15, 
+Tan Binh Distrist, Ho Chi Minh City. 
+CONTACT  I am keen on reading IT blogs or 
+books in my free time.  My other hobbies are traveling and 
+watching blockbuster movies. 

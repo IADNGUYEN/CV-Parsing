@@ -1,0 +1,122 @@
+CONTACT
+Address: 758/5 XVNT, HCMC
+Phone: 01628824168
+Email: duc.t.m.47@gmail.com
+SKILLS
+Critical Thinking
+Teamwork
+Leadership
+Creativity
+Organization
+Management
+Presentation
+Presentation
+English
+Programming
+7/10
+7/10
+6/10
+7/10
+6/10
+5/10
+7/10
+7/10
+7/10
+2/10
+SOFTWARE
+Matlab
+Python
+def EDUCATION():
+“Uni of Technology & Education”
+“Uni of Technology & Education”
+“Coursera”
+“Coursera”
+Bachelor degree of Automatical and 
+Controlling Technology.(2014-2018)
+Machine Learning by 
+Stanford University (Mar-Nov/2018)
+Leader of Organizer of ECO-Days 
+IV.(Aug-Dec/2016)
+Member of Design team of Media 
+Committee.(Aug-Dec/2016)
+return
+def PROFILE():
+To prepare well for my career, I am 
+looking for a professional environment 
+for working and studying, especially 
+about Machine Learning. I am excited to 
+get any challenges, achieve it to improve 
+myself and always make myself creative to 
+solve problems. To me, challenges are 
+opportunities.
+opportunities.
+def EXPERIENCE():
+“Setting plan AI project”
+#In_Process
+“Setting plan AI project”
+#In_Process
+I am learning NLP and getting used to 
+with NLTK, Stanford NLP and API.AI to 
+get the data in text to set up plans in 
+calendar app. This is my first step on 
+the path to gain experience in 
+progamming a real software with NLP.
+return
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+14
+15
+16
+17
+18
+19
+20
+21
+21
+22
+23
+24
+25
+26
+27
+28
+28
+29
+30
+31
+32
+33
+34
+35
+35
+36
+37
+38
+39
+40
+41
+42
+42
+43
+44
+45
+46
+47
+48
+49
+49
+50
+TRAN MINH DUC
+Interns

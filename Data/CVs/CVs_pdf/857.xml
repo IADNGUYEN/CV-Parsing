@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1701" width="2551">
+	<fontspec id="0" size="30" family="VTSYUS+ArialMT" color="#000000"/>
+	<fontspec id="1" size="83" family="STSYUS+Tahoma" color="#000000"/>
+	<fontspec id="2" size="29" family="STSYUS+Tahoma" color="#000000"/>
+	<fontspec id="3" size="30" family="STSYUS+Tahoma" color="#000000"/>
+	<fontspec id="4" size="26" family="TTSYUS+Tahoma" color="#000000"/>
+	<fontspec id="5" size="26" family="STSYUS+Tahoma" color="#000000"/>
+	<fontspec id="6" size="35" family="TTSYUS+Tahoma" color="#000000"/>
+	<fontspec id="7" size="30" family="UTSYUS+Arial" color="#000000"/>
+	<fontspec id="8" size="24" family="VTSYUS+ArialMT" color="#000000"/>
+	<fontspec id="9" size="26" family="VTSYUS+ArialMT" color="#000000"/>
+	<fontspec id="10" size="22" family="VTSYUS+ArialMT" color="#000000"/>
+	<fontspec id="11" size="21" family="VTSYUS+ArialMT" color="#000000"/>
+	<fontspec id="12" size="26" family="UTSYUS+Arial" color="#000000"/>
+</page>
+</pdf2xml>

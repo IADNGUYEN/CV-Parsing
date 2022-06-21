@@ -1,0 +1,116 @@
+RESUME
+INFORMATION OF PERSONALITY 
+Full Name: PHẠM THÁI MỸ Sex: Female 
+Date of birth: 07/14/1984. 
+Place of birth: Tay Ninh. 
+Marital status: Single. 
+Health status: Good. 
+Contact address: 726/10/23/20 Le Trong Tan Street, Binh Hung Hoa Ward, Binh Tan District Ho Chi Minh City. 
+Phone number
+: 093.3115885 
+Email
+: mypham1407@gmail.com. 
+Nationality
+: Viet Nam.
+RESUME OF STUDY AND WORK 
+From 08/2004 – 08/2008: Student with major in Information of Technology at Infoworld School. 
+From 11/2008 – 03/2009: Trainee, the CMC Solution company. 
+From 05/2009 – 07/2009: QC engineer at Vu Thao Company. 
+From 8/2009 – 7/2011: Test Leader at Vu Thao Company. 
+From 08/2011 – 02/2012: QC Engineer at the Data Agent Company. 
+From 03/2012 – Now: QC Engineer at the Logigear VietNam Company.
+SOFT SKILLS: 
+Ability to research and understand quickly. 
+Ability to work independently and teamwork spirit. 
+Ability to problem solve, work under pressure, and to effectively managers stress. 
+Good interpersonal and communication skills. 
+Ability to work overtime if needed.
+KNOWLEDGE IN THE FOLLOWING FIELD 
+Software Testing 
+SQL server 2010 basic.
+ABILITY 
+Experienced working with web application testing.
+1.
+May 2009 – Jul 2011: have worked at Vu Thao Company
+Have attended  projects: 
+http://www.phunuonline.com.vn 
+http://www.thanhnien.com.vn 
+http://www.ninhthuan.gov.vn. 
+Write test plan
+Design test cases
+Execute test cases
+Create and execute detailed test procedures and test cases.
+Evaluate and report test execution results.
+Receive  business  requirements,  analysis  and  design  test  plan,  find  solutions  and
+techniques will be applied to plan and ensure project schedule, assign task to testers,
+review all member’s report…
+Perform testing: 
+GUI testing 
+Function testing 
+Integration testing 
+Regression testing
+Report test result by TFS in Visual Studio 2010: 
+Post bug 
+Verify bug 
+Close bug, … 
+Report to Project manager
+2.
+Aug 2011 – Feb 2012: working at Data Agent Company
+Attending FORM PF project: 
+Reporting Form for Investment Advisers
+Write test plan
+Design test cases
+Execute test cases
+Create and execute detailed test procedures and test cases.
+Receive business requirements, analysis and design test plan, find solutions and
+techniques  will  be  applied  to  plan  and  ensure  project  schedule,  assign  task  to
+members, review all member’s report…
+Designed and developed: 
+Test suites 
+GUI Checklist Test Cases 
+Functional Test Case (Test Scenarios, Test Procedures)
+Executed: 
+Functional Test Cases 
+GUI Checklist Test Cases
+Perform testing: 
+GUI testing 
+Function testing 
+Integration testing 
+Regression testing 
+Install / Uninstall test
+SQL Server 2010: 
+Write query to compare data between database and interface
+Report and manage test result by Bugzilla web: 
+Post bug 
+Verify bug 
+Close bug, … 
+Report to Project manager
+3.
+Mar 2012 – Now: QC Engineer at the Logigear VietNam Company
+Attending Kaplan project
+Design test suites
+Design test cases
+Execute test cases
+Write test script on Selenium tool 
+Perform testing: 
+GUI testing 
+Function testing 
+Integration testing 
+Regression testing
+Report and manage test result by Jira web: 
+Post bug 
+Verify bug 
+Close bug, … 
+Report to Test Leader
+LANGUAGES 
+English:       Intermediate.
+PINE FOR JOB 
+Place of work : Ho Chi Minh. 
+Position
+: QC Engineer.
+CAREER OBJECTIVE 
+Stable my job. 
+Learning experience
+Thank for your attention.
+Declared by
+Pham Thai My

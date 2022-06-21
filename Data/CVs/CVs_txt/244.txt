@@ -1,0 +1,31 @@
+           
+CURRICULUM  VITAE 
+Mai Kim Vũ 
+Electronic And Telecommunication Engineer 
+Date of birth:     19 October 1992 
+Address:             27/71/20R2 Dien Bien Phu, District Binh Thanh, Ho 
+Chi Minh City 
+Mobile:               01673236827 
+Email:                 maikimvu1992@gmail.com 
+EDUCATION 
+Graduated  Ho Chi Minh  City  University  of  Technology  (HCMUT)  professional  
+electronic  and  telecommunication  engineer  at October   2015 (GPA: 6.82).  
+Project/ Thesis: “monitoring and control equipment in the home by wifi, rf and gsm 
+(SmartHome) ” (score : 9.14), Supervisor : ThS. Tran Van Hoang. 
+ABOUT ME 
+Electronic  engineer  with  good  interpersonal  skill,  active, enthusiastic,  truthful,  willing to 
+learn something new. 
+Knowledge : Professional skill,  understand of the electronic industry. 
+Independent-work  skill  and team-work skill,  work under high pressure. 
+Personality: Respect other  people,  hardworking and  responsible  in work. 
+Health: Play sport,  healthy  lifestyle, no smoking. 
+PERSONAL SKILL 
+Computer: Word, Excel, PowerPoint, Internet. 
+Language: English (basis), toeic  495.    
+Fluent in programming microcontrollers: pic16f877a, 8051, STM32f4, TI. 
+Expert software : ocad, proteus, eagle, pic c, ccs .  
+Understanding of Fundamentals of Synchronous logic design.     
+Some topics, assignments done: 
+design led cube 5x5x5, led matrix 32x8,  circuit limit amplitude acoustic signals, digital clock 
+synchronized with RF, electronic scale, Project/ Thesis: “monitoring and control equipment in 
+the home by wifi, rf and gsm (SmartHome). 

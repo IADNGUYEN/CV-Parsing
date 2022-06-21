@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="46" family="TimesNewRomanPSMT" color="#ffffff"/>
+	<fontspec id="1" size="18" family="TimesNewRomanPS" color="#bd95aa"/>
+	<fontspec id="2" size="16" family="TimesNewRomanPSMT" color="#494949"/>
+	<fontspec id="3" size="27" family="TimesNewRomanPSMT" color="#9f224e"/>
+	<fontspec id="4" size="16" family="TimesNewRomanPSMT" color="#333333"/>
+	<fontspec id="5" size="16" family="TimesNewRomanPS" color="#333333"/>
+	<fontspec id="6" size="16" family="TimesNewRomanPSMT" color="#9f224e"/>
+<text top="102" left="35" width="315" height="51" font="0">Thanh Tinh Tran</text>
+<text top="162" left="35" width="115" height="20" font="1"><b>DEVELOPER</b></text>
+<text top="636" left="35" width="29" height="18" font="2">C++</text>
+<text top="684" left="35" width="232" height="18" font="2">C#(Winform, WPF, ASP.net/MVC)</text>
+<text top="733" left="35" width="32" height="18" font="2">OOP</text>
+<text top="781" left="35" width="22" height="18" font="2">VB</text>
+<text top="829" left="35" width="30" height="18" font="2">PHP</text>
+<text top="878" left="35" width="31" height="18" font="2">Ajax</text>
+<text top="926" left="35" width="65" height="18" font="2">AngularJs</text>
+<text top="975" left="35" width="134" height="18" font="2">SQL Server/MySQL</text>
+<text top="1023" left="35" width="122" height="18" font="2">Cordova Onsen UI</text>
+<text top="1071" left="35" width="67" height="18" font="2">JavaScript</text>
+<text top="1120" left="35" width="146" height="18" font="2">HTML/CSS/Bootstrap</text>
+<text top="1168" left="35" width="65" height="18" font="2">SVN / Git</text>
+<text top="1217" left="35" width="77" height="18" font="2">Objective C</text>
+<text top="303" left="35" width="223" height="31" font="3">Contact information</text>
+<text top="350" left="35" width="82" height="18" font="4">Date of birth</text>
+<text top="350" left="151" width="87" height="18" font="2">July 16, 1995</text>
+<text top="381" left="35" width="47" height="18" font="4">Gender</text>
+<text top="381" left="151" width="33" height="18" font="2">Male</text>
+<text top="412" left="35" width="40" height="18" font="4">Phone</text>
+<text top="412" left="151" width="102" height="18" font="2">[protected data]</text>
+<text top="443" left="35" width="38" height="18" font="4">Email</text>
+<text top="443" left="151" width="131" height="18" font="2">protected@topcv.vn</text>
+<text top="474" left="35" width="53" height="18" font="4">Address</text>
+<text top="474" left="151" width="150" height="18" font="2">Ho Chi Minh, Vietnam</text>
+<text top="506" left="35" width="53" height="18" font="4">Website</text>
+<text top="506" left="151" width="102" height="18" font="2">[protected data]</text>
+<text top="589" left="35" width="63" height="31" font="3">Skills</text>
+<text top="303" left="386" width="112" height="31" font="3">Education</text>
+<text top="374" left="386" width="203" height="18" font="5"><b>Cao Thang Technical College</b></text>
+<text top="399" left="386" width="206" height="18" font="6">Major: Information Technology</text>
+<text top="425" left="386" width="90" height="18" font="2">GPA: 8.07/10</text>
+<text top="342" left="731" width="134" height="18" font="6">Sep 2013 - Sep 2016</text>
+<text top="502" left="386" width="189" height="31" font="3">Work experience</text>
+<text top="574" left="386" width="66" height="18" font="5"><b>HPB JSC</b></text>
+<text top="599" left="386" width="67" height="18" font="6">Developer</text>
+<text top="624" left="386" width="156" height="18" font="2">►Main responsibilities:</text>
+<text top="650" left="386" width="329" height="18" font="2">- Analysis and design solutions from requirements.</text>
+<text top="675" left="386" width="207" height="18" font="2">- Implement designed solutions.</text>
+<text top="700" left="386" width="142" height="18" font="2">- Maintain old source.</text>
+<text top="751" left="386" width="108" height="18" font="2">►Skills gained: </text>
+<text top="776" left="386" width="317" height="18" font="2">- Development environment: Windows, Mac OS.</text>
+<text top="802" left="386" width="303" height="18" font="2">- Working independent and team work as well.</text>
+<text top="827" left="386" width="142" height="18" font="2">- Language and techs:</text>
+<text top="852" left="386" width="468" height="18" font="2"> • C#: Winform, Aspx, Asp.net MVC 5 Entity Framework, Asp.net Core</text>
+<text top="878" left="386" width="36" height="18" font="2"> • VB</text>
+<text top="903" left="386" width="123" height="18" font="2"> • PHP: Cake PHP.</text>
+<text top="929" left="386" width="194" height="18" font="2"> • SQL Server, MySQL, Linq.</text>
+<text top="954" left="386" width="262" height="18" font="2"> • Cordova Onsen UI, Html 5, AngularJs</text>
+<text top="979" left="386" width="120" height="18" font="2"> • JavaScript, Ajax</text>
+<text top="1005" left="386" width="153" height="18" font="2"> • Html, Css, Bootstrap.</text>
+<text top="1030" left="386" width="95" height="18" font="2"> • Objective C.</text>
+<text top="1055" left="386" width="161" height="18" font="2"> • Open Layer: Leaflet Js</text>
+<text top="1106" left="386" width="144" height="18" font="2">►Attending projects: </text>
+<text top="1131" left="386" width="256" height="18" font="2">- SmartHome: Iremocon, Leo Remocon</text>
+<text top="1157" left="386" width="301" height="18" font="2">- GTA: Bridge and Pave Management System.</text>
+<text top="1182" left="386" width="361" height="18" font="2">- NetsuGazouView: Solar Energy Management System.</text>
+<text top="1208" left="386" width="175" height="18" font="2">- Lights Management App.</text>
+<text top="1233" left="386" width="323" height="18" font="2">- Funeral's Calendar Management System(Cerex):</text>
+<text top="541" left="740" width="126" height="18" font="6">Nov 2016 - Present</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="7" size="12" family="TimesNewRomanPSMT" color="#999999"/>
+<text top="329" left="35" width="44" height="18" font="2">Soccer</text>
+<text top="329" left="198" width="40" height="18" font="2">Music</text>
+<text top="360" left="35" width="42" height="18" font="2">Travel</text>
+<text top="360" left="198" width="35" height="18" font="2">Book</text>
+<text top="391" left="35" width="38" height="18" font="2">Game</text>
+<text top="56" left="35" width="282" height="18" font="2">Follow excellence...Success will chase you.</text>
+<text top="9" left="35" width="180" height="31" font="3">PERSPECTIVE</text>
+<text top="133" left="35" width="203" height="31" font="3">Honors &amp; Awards</text>
+<text top="205" left="35" width="202" height="18" font="2">Got scholarship every semester</text>
+<text top="172" left="293" width="70" height="18" font="6">2013-2016</text>
+<text top="282" left="35" width="94" height="31" font="3">Interests</text>
+<text top="0" left="386" width="417" height="18" font="2">- Ishigakuen: create Template Csv, export Csv in module School</text>
+<text top="25" left="386" width="88" height="18" font="2">Management.</text>
+<text top="92" left="386" width="74" height="18" font="5"><b>Freelancer</b></text>
+<text top="117" left="386" width="67" height="18" font="6">Developer</text>
+<text top="142" left="386" width="294" height="18" font="2">- Development environment: Windows, POS.</text>
+<text top="168" left="386" width="325" height="18" font="2">- Analysis and design solutions from requirements</text>
+<text top="193" left="386" width="203" height="18" font="2">- Implement designed solutions</text>
+<text top="218" left="386" width="138" height="18" font="2">- Maintain old source</text>
+<text top="244" left="386" width="142" height="18" font="2">- Language and techs:</text>
+<text top="269" left="386" width="78" height="18" font="2"> • C# WPF .</text>
+<text top="295" left="386" width="272" height="18" font="2"> • SQL Server: Store Procedure, Function.</text>
+<text top="320" left="386" width="78" height="18" font="2"> • Web API.</text>
+<text top="345" left="386" width="144" height="18" font="2">►Attending projects: </text>
+<text top="371" left="386" width="286" height="18" font="2">- Pos Nail: Nail Store Management System. </text>
+<text top="59" left="740" width="126" height="18" font="6">Nov 2017 - Present</text>
+<text top="437" left="386" width="77" height="18" font="5"><b>Maple JSC</b></text>
+<text top="463" left="386" width="67" height="18" font="6">Developer</text>
+<text top="488" left="386" width="329" height="18" font="2">- Analysis and design solutions from requirements.</text>
+<text top="514" left="386" width="207" height="18" font="2">- Implement designed solutions.</text>
+<text top="539" left="386" width="142" height="18" font="2">- Maintain old source.</text>
+<text top="590" left="386" width="108" height="18" font="2">►Skills gained: </text>
+<text top="615" left="386" width="211" height="18" font="2">- Software development process.</text>
+<text top="640" left="386" width="81" height="18" font="2">- Using Svn.</text>
+<text top="666" left="386" width="142" height="18" font="2">- Language and techs:</text>
+<text top="691" left="386" width="74" height="18" font="2"> • C# WPF.</text>
+<text top="716" left="386" width="124" height="18" font="2"> • JavaScript, Ajax.</text>
+<text top="742" left="386" width="137" height="18" font="2"> • SQL Server,  Linq.</text>
+<text top="405" left="723" width="142" height="18" font="6">Aug 2016 - Nov 2016</text>
+<text top="809" left="386" width="203" height="18" font="5"><b>Cao Thang Technical College</b></text>
+<text top="834" left="386" width="65" height="18" font="6">Internship</text>
+<text top="859" left="386" width="108" height="18" font="2">►Skills gained: </text>
+<text top="885" left="386" width="184" height="18" font="2">- Web development process.</text>
+<text top="910" left="386" width="142" height="18" font="2">- Language and techs:</text>
+<text top="935" left="386" width="116" height="18" font="2"> • Asp.net MVC 5</text>
+<text top="961" left="386" width="124" height="18" font="2"> • JavaScript, Ajax.</text>
+<text top="986" left="386" width="94" height="18" font="2"> • SQL Server.</text>
+<text top="1012" left="386" width="144" height="18" font="2">►Attending projects: </text>
+<text top="1037" left="386" width="195" height="18" font="2">-  Store Management System. </text>
+<text top="776" left="726" width="139" height="18" font="6">Nov 2015 - Feb 2016</text>
+<text top="1239" left="810" width="57" height="14" font="7">© topcv.vn</text>
+</page>
+</pdf2xml>

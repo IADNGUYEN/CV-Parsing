@@ -1,0 +1,62 @@
+  
+PERSONAL INFORMATION 
+NGUYEN NGOC HUNG 
+Phu Nhuan , Ho Chi Minh City, Viet Nam. 
+(+84) 1638 648 480       
+hungnguyenngoc92@gmail.com  
+Gender Male | Nationality Viet Nam  
+TECHNICAL KNOWLEDGE 
+PERSONAL PROFILE 
+Working ability :  I’m hardworking and responsible .  I can work under pressure .  I accept challenges .  I would like to learn more about algorithms and java technologies . 
+Weak Point :  I’m not an excellent student and I have not much experience of real working environment 
+but i can try all my best to get an expected result .  
+Programming Languages 
+Java   elementary ; C++  elementary . 
+Database  
+MySQL  elementary ; SQL Server  elementary ; Oracle  elementary . 
+Operating Systems 
+Ubuntu   intermediate ;  Windows   intermediate ; CentOS  elementary . 
+Tools 
+Eclipse – advanced ;  NetBeans – advanced ; IntelliJ IDEA  elementary ;  
+Git – elementary . 
+Mini Projects 
+SEARCHING  
+Description : This project solves 8-puzzle and finds the result of 2048 game as fast as 
+possible using Hill Climbing algorithm .  
+Programing language : java .  
+Team : 1 member .  
+STARSTRETCH  
+Description : It ‘s a remake of “untangle game “ for android .  
+Team : 2 members .  
+My responsibility : write java code that reads map information , creates, checks and 
+saves mission state .  
+ETEST  
+Description : Online Test . Intern at Technologic Art Incorporate .  
+Language : Java , using Play framework for back-end , AngularJS for front-end.  
+Team : 3 members .  
+My responsibility : implements the controllers of the application .  
+NURSE ROSTERING SYSTEM  
+Description : My thesis project , the project deals with a real world nurse scheduling 
+problem at a ward of a hospital . The generated schedule must satisfy all hard 
+constraints and many soft constraints at possible . The problem is solved by combining 
+Backtracking with Forward Checking (BT-FC) algorithm with Tabu Search algorithm .  
+Team : 1 member .  
+Language : Java , Eclipse SWT framework for GUI and H2 Embedded Database 
+Engine .   
+LANGUAGE SKILLS 
+Language 
+UNDERSTANDING  
+SPEAKING  
+WRITING  
+Listening  
+Reading  
+Spoken 
+interaction  
+Spoken 
+production  
+English 
+Average 
+Good 
+Average 
+Average 
+Average 

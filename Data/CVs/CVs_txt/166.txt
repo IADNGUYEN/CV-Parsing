@@ -1,0 +1,55 @@
+Applicant for:
+R&D Engineer (Java/Python/C), all levels
+TMA Solutions
+29 December 2018
+Nguyễn Thái Thiện
+nguyenthaithien.91@gmail.com
+Main interests: Python, C#, Linux, C++, Java
+What skills, work projects or achievements make you a strong candidate for this
+position?
+Strong self-learning skill, passion in C++ programming!
+Top Jobs for IT People
+"The right people are your most important asset."  Jim Collins
+itviec.com
+08 6681 1397
+itviec@itviec.com
+N 
+Objective 
+A fresh graduated student from second Bachelor, which is Science in Information Technology, 
+with very strong and fast self-learning skill, looking for a work experience opportunity in  C++ 
+Programming. 
+Skill Profile 
+Programming 
+Solid skills in C++ programming, familiar with OOP programming. Know about  
+DirectX 9 and DirectX 11, 2D and 3D game programming. Can construct a simple 
+game engine from scratch, include: Data management,2D and 3D rendering, 
+character animation, physics and collision, basic game controls. 
+Love to work in low-level programming such as: Data structure and Algorithms. 
+Very good at manipulating  low-level data and assembly-level code flow. 
+Good knowledge in x86 and x64 assembling language (Intel), can use those 
+programs: IDA (x64, x32), x64dbg, Cheat Engine (with Lua). 
+Basic knowledge of other programming languages such as: Visual Basic, C#, 
+Python. 
+Networking 
+Understanding how low-level TCP/IP protocol implementation. 
+Operation System in general 
+Understand how Windows system internals work. 
+Security 
+Good knowledge in software security. Deep understanding on how software 
+vulnerabilities are exploited, such as: overflows (buffer, heap), string-format, 
+privilege escalation, code injection…  
+Can reverse engineering a PC game, inject and write a bot (internal memory 
+access ) that can do many automatic tasks. 
+English skill 
+Toeic: 820 points. Strong reading and listening skill: Can fully understand books, 
+documents and video lesions in Information Technology. 
+Education 
+Bachelor of Law 
+The People’s Police University (2009 – 2014) 
+Bachelor of Science in Information Technology 
+Viet Nam National University Ho Chi Minh city – University of Science (2014 – 2017) 
+Student with highest Grade Point Average in High school. 
+Pic 
+NGUYEN THAI THIEN 
+498 Ben Cau ward, Ben Cau District, Tay Ninh province | C: 0961-878-369 
+nguyenthaithien.91@gmail.com | DoB: 18th October 1991 

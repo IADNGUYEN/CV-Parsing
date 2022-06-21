@@ -1,0 +1,105 @@
+Page 1
+Minh Phan
+Machine Learning
+anhminhphanle@gmail.com
+Summary
+Dropout of Architecture school & self-taught Software-Engineer. 
+Highly interested in Deep Learning & Artificial Intelligence. 
+Specialized in eCommerce applications.
+Minh is highly self-driven, quick in learning new languages and fast adapting in new places or cultures.
+Have been working in many startups as various roles, Minh understands the big picture from management,
+cultural and technical perspective. Whatever difficult the task that benefit customers and organisation are, he
+would love to solve it to the root and help company accomplish customer's happiness. He believe honesty,
+knowledge and critical thinking are the success driving factors of an individual and organisation. 
+Experience
+Deep Learning Researcher at Self-learner
+June 2016   Present
+CS229: Machine Learning  Stanford
+CS231n: Convolutional Neural Networks for Visual Recognition  Stanford
+CS224n: Natural Language Processing with Deep Learning  Stanford
+CS109: Probability for Computer Scientists  Stanford
+Deep Learning by  Google  Udacity
+Deep Learning  by Andrew Ng  Coursera
+Practical Deep Learning For Coders  Fast.ai
+Softwares: Keras, Tensorflow, Pytorch
+Researching fields: Computer Vision, NLP, Machine Translation, Reinforcement Learning
+Interests: Artificial Intelligence in eCommerce, Siri-like applications, Deep Learning on Mobiles 
+Head of Product Support at TIKI Corporation
+April 2016   May 2016 (2 months)
+Dashboard, Auto chatbot builder
+Mission & Accomplishment:
+Make all employees happy using Tiki's software.
++84 934 945 148
+Page 2
+KPIs: SLA, CSAT, Created vs Solved
+Before: 70% SLA
+After: 95% SLA, 4.5 rating, 99% created vs solved (in 1 month)
+What I do:
+Set up internal system to distribute and monitor tickets across departments.
+Proactively work with all departments to achieve SLAs.
+Build tools, dashboards, reports, reminder system that delivery real-time messages to chat/email to service
+desk engineers in order to achieve SLAs.
+Automation, workload optimization expert.
+Customer Service Manager at Tiki.vn
+January 2015   December 2015 (1 year)
+Building Data-Driven Customer Service Team
+Accomlishment:
+Build, grow and triple a CS team in a challenging time
+Serving hundred thousands of customers
+Meet 90% of CSAT
+Product & Technology:
+Set up CS Technology internally and externally 
+Identify service bottom necks, develop solutions and drive projects to completion with cross-organizational
+team.
+Improve product base on customer feedback to increase customer satisfaction
+Proactive leadership:
+HR & infrastructure planning by predicting orders
+Build & Train team members to use and create dashboards, reports
+Develop KPIs and internal policies to motivate and ensure high productivity amongst team members and
+customer satisfaction base on historical and future data
+Product Manager, Business Intelligence Analyst at TIKI Corporation
+December 2013   December 2014 (1 year 1 month)
+Using data to explore opportunities
+Use external and internal data to build data-driven products to grow revenue, optimize cost and help other
+departments make decisions base on analytics report.  Gained Business Knowledge with Sales, Marketing, Customer Service, Operation, Finance team.
+Page 3  Offline Recommendation System: MLib on Spark, Apriori on R.  Pricing System: Crawling, Comparison & Suggestion for MD team  Order Cancellation Prediction: scikit-learn  Customer Lifetime Value, Cohort Churning Rate report: SQL, Excel
+Product Manager at Affle
+July 2011   November 2013 (2 years 5 months)
+Delivering customer's happiness
+We work with the best clients like Ogilvy, Nestle, Singapore Tourism Board to provide creative digital
+marketing solutions and games consultancy, design and development. Solving problems creatively and
+building perfect products are our goal.  Managed UX/Creative Design/QA/Software Development.  Manage clients oversea from UK, Australia, America & Singapore. Successfully delivering lots of projects
+with client satisfaction.
+Sales Manager at Trails of Indochina
+January 2011   July 2011 (7 months)
+Gained great knowledge with restaurant & tourism business.
+Corporated with local & other cities tourism companies to boost sales.
+Product designer, Business Development at i-POP Networks Pte Ltd
+September 2008   September 2010 (2 years 1 month)
+i-POP makes mobile happen, holding trusted connections with more than 50 networks spanning 15 countries
+and over 700 million subscribers in Asia Pacific.
+i-POP To Facilitate Nationwide Voting & Mobile Content Partnerships For First Ever "VIETNAM IDOL"
+and Vietnam Idol 2008. i-POP also partner with StarWorld to allow audience from all over Asia to vote for
+their favourite in American Idol and Asian Idol.
+i-POP's Clients: ESPN, MTV Asia, CNBC, Sony Pictures, Yahoo, Fremantle, Sony Ericsson, Nokia, Google
+and more... 
+My role is Product development, Market research, marketing planning supporting for both company and
+strategic partners.  Market Research & Developed Football Service for Mobile in Vietnam market partners with Telcos.  Developed Stars gossiping service on Wap, Mobile based on Twitter platform enabling fans to become
+followers and receive updates, gossips of their favorite stars.  Worked with designer to design wap site for Banks.  Designed layout and functions for Friendster app on Blackberry.  Marketing plan for The Apprentice reality TV show integrated social media marketing.  Marketing plan for Tan Hiep Phat, the biggest beverage company in Vietnam.  Business Proposals for TV Game Shows: Holes in the Wall.
+Page 4  Business Proposal for Nokia applications.  Market research for Marvel comic on mobile game opportunity in Vietnam.
+Advisor
+January 2010   May 2010 (5 months)
+Hand made products. My role is to find distribution channels.
+Education
+University of Architecture of HCMC
+Undergraduate, Building Architecture, 2006  2011
+Activities and Societies: Urban planning, creative methods, arts
+Quoc Hoc Hue High School
+High school, Special Maths Class, 2003  2006
+Activities and Societies: Being trained for 2 years for Calculation Methodology. Attended the Calculation
+Contest by Calculator and won honor prize.
+Page 5
+Minh Phan
+Machine Learning
+anhminhphanle@gmail.com
+Contact Minh on LinkedIn

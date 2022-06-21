@@ -1,0 +1,39 @@
+Curriculum Vitae 
+1. PERSONAL INFORMATION 
+Kiều Hoàng Long 
+Lecturer in Software Engineering 
+Address: Thu Duc district, HCM city 
+Phone: 01698659788 
+Email: kieuhoanglong39@gmail.com 
+2. EDUCATION 
+2014:  Certificate in Teaching Methodology, Hanoi National University of Education. 
+Certificate in VMware Cloud Foundations. 
+Certificate in VMware Data Center Virtualization Foundations. 
+2011-2013: Master degree in Informatics, major in Software Engineering, University of  
+Bordeaux, France. 
+2004-2008: Bachelor degree in Mathematics and Computer Sciences, University of Natural 
+Sciences, Vietnam National University, Ho Chi Minh City, Vietnam. 
+3. PROFESSIONAL EXPERIENCE 
+2009-2010: Java developer, GameLoft Co.,  E. Town 2 Building, HCM city. 
+2011-2015: Freelancer as a Java developer. 
+2013-2015: Research internship and member of  SAVE lab, Laboratory for Systems Analysis 
+and Verification, Ho Chi Minh City University of Technology. 
+2014-2015: Lecturer, Department of Information Technology, Dong Nai University of 
+Technology, Bien Hoa city, Dong Nai Province.  
+4. COURSES TAUGHT 
+Data Structures and Algorithms 
+Software Engineering 
+Object-Oriented Programming 
+Java Programming 
+Web Programming 
+Mobile Devices Programming 
+English for Information Technology 
+5. RESEARCH INTERESTS 
+Formal Method, Formal Design 
+Machine Learning, Data Mining 
+Software Methodologies 
+6. REFERENCES 
+Professor Anne Dicky at University of Bordeaux , France 
+Email: anne.dicky@labri.fr 
+Ms. Nguyen Thi Ngoc An at PUF HCMC 
+Email: an.nguyenngoc@pufhcm.edu.vn 

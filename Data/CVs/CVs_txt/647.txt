@@ -1,0 +1,51 @@
+Duong Lu Dien
+Machine Learning Engineer
+Can Tho, Vietnam
++84 (0)964 027 522
+duongludien@gmail.com
+www.duongludien.com
+duongludien
+duongludien
+"Pursue excellence, and success will follow."
+Education
+2014 – 2018
+BE. in Information Technology, Can Tho University, Vietnam, 3.32/4.0.
+Activities and societies: IT Club, Korean Students Exchange, Thais Students Exchange,
+AUN-QA interview
+Experience
+July, 2018 –
+Present
+Software Engineer OJT, FPT Software HCM  Can Tho Branch, Vietnam.
+I am participating an on-job-training program for 6 months. My responsibilities are:
+Finding solutions for many Computer Vision problems.
+Implementing Deep Learning algorithms using TensorFlow.
+Deploying Machine Learning algorithms in production environment.
+May, 2018 –
+July, 2018
+Software Engineer Intern, FPT Software HCM  Can Tho Branch, Vietnam.
+I have implemented some deep learning algorithms that are related to Natural Language
+Processing and Computer Vision.
+August, 2015 –
+Present
+Private Tutor, Duong Lu Dien Training, Vietnam.
+I have worked as a private tutor at a unoﬃcial organization called Duong Lu Dien Training.
+I made some oﬄine courses to help my friends in CTU learn programming. I also wrote
+tutorials and made videos about C programming language, object-oriented programming
+and algorithms. Some courses which were taught by me are Fundamentals of Computer
+Programming, Data Structures, Object-oriented Programming.
+Languages
+Vietnamese
+Native
+English
+Professional working proﬁciency
+Professional skills
+Career Fields
+Machine Learning, Deep Learning
+Programming
+Python, Java, C
+Frameworks TensorFlow, PyTorch, OpenCV
+Others
+Data Structures and Algorithms, Linux, Computer Network, SQL
+Grants and awards
+Outstanding Undergraduate Student Award (2016)
+Student Exchange: CTU  PSU in Hat Yai, Thailand (2016)

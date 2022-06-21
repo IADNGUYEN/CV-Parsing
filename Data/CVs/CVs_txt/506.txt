@@ -1,0 +1,63 @@
+AN TRAN
+BIOMEDICAL ENGINEERING
+CONTACT
+SKILLS
+Phone: 
+01663-233-263
+Email:
+Address:
+trannhuphuan@gmail.com
+Investigate glucose measurement by Near-infrared light
+Programmer | 2015  Mar 2018
+To investigate and perform the scientific projects.
+To investigate and evaluate the Machine Learning model.
+To handle Raspberry with k-NN method.
+To use the Kalman filter.
+To use Tensorflow framework.
+The DICOM image website
+Programmer in Taiwan | Apr- July 2018
+English
+Teamwork
+Critical thinking 
+Soft skills
+Microsoft-office
+Become an expert AI engineer in
+medical and finance fields.
+OBJECTIVE
+WORK EXPERIENCES
+REFERENCES
+Micro-controllers: Arduino, Raspberry
+Pi, STM32F4 PhD. Pham Thi Thu Hien 
+Biomedical Engineering, IU, VNU-HCMC Prof, Ching-Chun Huang 
+Engineer College, CCU, Taiwan
+How the big picture of any project is performed.
+To develop the website based on Flask framework.
+To handle DICOM image (anonymize private patient's
+information, segment desired regions) by javascript on
+the client-side.  
+To use SQL database.
+Drug powder blender
+Programmer | Sep  Dec 2016
+To control Arduino completely for the powder blender.
+How the performance value is promoted.
+How to read and writing article skills.
+SCHOOL ACTIVITIES
+To mark my student life | 2013  Mar 2017
+ACTIVITIES
+2016: Leader of Prom Night. 
+2016: Volunteer of The 6th International Conference on
+the Development of Biomedical Engineering.
+2014: Volunteer of Ao Dai Show; Summer Trip; StudyTrip.
+2013: Volunteer for BME 5th Birthday; Prom Night 
+SOCIAL ACTIVITIES
+To enjoy my life | 2015  now
+Member of Nhan Ai Club 
+Volunteer of Sunwah Organization 
+Ho Chi Minh city, Vietnam
+Full name: 
+Tran Nhu Phu An
+Programming language: C/C++, Python
+Day of birth:
+22-05-1995
+Education:
+International University, VNU-HCMC

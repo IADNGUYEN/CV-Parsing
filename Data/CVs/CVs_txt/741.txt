@@ -1,0 +1,127 @@
+1 
+Curriculum Vitae
+PHAM NHAT VIN 
+Personal information
+Name:  
+Pham Nhat Vin 
+Gender:  
+Female 
+Nationally:  
+Vietnamese 
+Email:   
+pnhatvin@gmail.com 
+Phone:   
+0944346416 
+Address:  
+487/47 Huynh Tan Phat, Tan Thuan Dong Ward,  
+District 7, Ho Chi Minh City, Viet Nam. 
+Hometown:  
+Tu Nghia, Quang Ngai. 
+Hobby:   
+Listening to music, jogging and drawing. 
+Talent:  
+Drawing, singing and playing guitar. 
+Objective
+Become an expert in Automation Test. 
+Become a project leader/manager. 
+Soft skill
+Problem solving 
+Self-investigation 
+Creative, Innovative 
+Teamwork 
+Adaptability 
+Time management 
+Reporting 
+Communication 
+Working under pressure 
+2 
+Working Skills 
+Tool sets
+Managing/leading software testing 
+project(s). 
+Communicating directly with US/UK, JPN 
+customer via conference call, chat, email. 
+Training and coaching new members for 
+testing activities. 
+Understanding requirement, functional 
+specification from customer, proposing idea 
+and raising Q&A to them if any 
+Working with outsourcing, manage and 
+review their output 
+Using automation tools to create test scripts  
+Reporting project status to manager and 
+raising alarm if any 
+Creating detail test report, bug report 
+Applying CMMI level 3 to project 
+Thunderbird, Skype, Outlook 
+Trac, Jira, Redmine 
+Microsoft office 
+Intergraded Develop Environment: 
+Eclipse, Visual studio 
+Tortoise SVN, Git, Hg  
+Automation testing skill
+Testing tools: Jubula, Auto hotkey, RCPTT. 
+Designing and creating stable scripts. 
+Manual testing skill
+Creating and executing thousands of test cases. 
+Creating detail test report, bug report by JIRA, Redmine, Trac. 
+Analyzing requirement from customer, creating test plan, test design. 
+Setting environment to execute testing. 
+3 
+Programming language
+Language 
+Experience (years) 
+C/C++ 
+3 
+Java 
+1 
+Python 
+2 
+C# 
+0.5 
+Work Experience by Companies
+From Mar. 01, 2015 – Present: 
+Renesas Design Vietnam Co. , Ltd. 
+Working in Software Tool Solution group – Verification team. 
+Finding and detecting bug of product (e2 studio, CS+) 
+Became the ‘best bug detector’ of team. 
+4 
+Work Experience by Projects
+Testing for product: 
+Project 
+Role 
+Achievements 
+e2 studio ticket verification 
+Member  Became a key member of this project.  Having knowledge most of plug-ins  Investigating new features or improvements of 
+product, creating and verifying to guarantee they work 
+correctly.  Creating and verifying to guarantee the reported bug 
+is fixed by developer correctly.  Reviewing output of outsourcing or other members 
+in team.  Creating document to share knowledge to other 
+members  Discussing, making Q&A or getting request directly 
+with customer  Joining a business trip to discuss, confirm task status 
+and share knowledge directly with outsourcing 
+member.  On behalf of project leader, making project status 
+report to group manager (in some specific cases)  Problem solving in team. 
+e2 studio regression test 
+Member  Investigating new testing tool and share knowledge in 
+team.  Understanding requirement from customer.  Reviewing output of outsourcing or other members 
+in team.  Executing thousands of test case  Working overtime to support other members  Problem solving in team. 
+Intergration test for 
+Python Console plugin 
+(CubeSuite+ IDE) 
+Leader  Getting requirement directly from customer  Making test plan, test design  Creating and executing automation or manual test 
+case  Making detail test report  Reporting bug using Redmine 
+CubeSuite+ Regression test Member  Reviewing test script of outsourcing  Using programming language: C# 
+5 
+Certifications and Trainings
+Bachelor of Science in Information Technology  
+TOEIC 540 
+Achievement and Recognition: 
+Creating and executing thousands of test cases, releases 
+Making customer satisfied.  
+Became the ‘best bug detector’ of team 
+Became a key member of projects 
+Working with outsourcing 
+Education
+University of Natural sciences  Bachelor of science in Information Technology 
+TOEIC 540 

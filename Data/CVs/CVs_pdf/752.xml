@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="39" family="CIDFont+F1" color="#1f497d"/>
+	<fontspec id="1" size="43" family="CIDFont+F1" color="#1f497d"/>
+	<fontspec id="2" size="28" family="CIDFont+F2" color="#000000"/>
+	<fontspec id="3" size="43" family="CIDFont+F2" color="#000000"/>
+	<fontspec id="4" size="16" family="CIDFont+F1" color="#000000"/>
+	<fontspec id="5" size="16" family="CIDFont+F2" color="#000000"/>
+	<fontspec id="6" size="16" family="CIDFont+F2" color="#0000ff"/>
+	<fontspec id="7" size="7" family="CIDFont+F2" color="#1f497d"/>
+	<fontspec id="8" size="24" family="CIDFont+F2" color="#1f497d"/>
+	<fontspec id="9" size="16" family="CIDFont+F3" color="#000000"/>
+	<fontspec id="10" size="16" family="CIDFont+F4" color="#000000"/>
+	<fontspec id="11" size="16" family="CIDFont+F5" color="#000000"/>
+<text top="51" left="383" width="152" height="46" font="0">RESUME</text>
+<text top="47" left="536" width="10" height="51" font="1"> </text>
+<text top="118" left="119" width="135" height="33" font="2">Lê Chí Tâm</text>
+<text top="104" left="254" width="10" height="51" font="3"> </text>
+<text top="157" left="119" width="197" height="20" font="4">Full stack web developer </text>
+<text top="157" left="316" width="152" height="20" font="5">| Male | 10/03/1983 </text>
+<text top="194" left="119" width="440" height="20" font="5">Experience: 1 year (Full stack web developer – asp.net MVC) </text>
+<text top="230" left="119" width="4" height="20" font="5"> </text>
+<text top="230" left="170" width="302" height="20" font="5">          6 year (IT – Hardware/Networking) </text>
+<text top="267" left="119" width="651" height="20" font="5">Latest company: Yan Media Group (Công ty cổ phần Công nghệ và Tầm nhìn Yêu âm nhạc) </text>
+<text top="304" left="119" width="214" height="20" font="5">Highest education: Bachelors </text>
+<text top="341" left="119" width="467" height="20" font="5">Languages: English – Intermediate, Vietnamese: native language </text>
+<text top="378" left="119" width="50" height="20" font="5">Email: </text>
+<text top="378" left="169" width="186" height="20" font="6">lechitam.web@gmail.com</text>
+<text top="378" left="355" width="4" height="20" font="5"> </text>
+<text top="415" left="119" width="159" height="20" font="5">Phone: 0989 002 078 </text>
+<text top="452" left="119" width="587" height="20" font="5">Address: 265/2 Binh Quoi Street, Ward 28, Binh Thanh District, Ho Chi Minh City </text>
+<text top="489" left="119" width="2" height="8" font="7"> </text>
+<text top="513" left="119" width="207" height="28" font="8">TECHNICAL SKILLS </text>
+<text top="559" left="119" width="216" height="20" font="9">Software, website application: </text>
+<text top="603" left="145" width="6" height="19" font="10">-</text>
+<text top="603" left="150" width="5" height="19" font="11"> </text>
+<text top="602" left="170" width="598" height="20" font="5">Good knowledge and experience in web - ASP.NET MVC 5.0 (Dependency Injection </text>
+<text top="622" left="170" width="64" height="20" font="5">pattern) </text>
+<text top="643" left="145" width="6" height="19" font="10">-</text>
+<text top="643" left="150" width="5" height="19" font="11"> </text>
+<text top="642" left="170" width="345" height="20" font="5">Knowledge in Web API, Angular JS, Memcached </text>
+<text top="662" left="170" width="4" height="20" font="5"> </text>
+<text top="682" left="145" width="6" height="19" font="10">-</text>
+<text top="682" left="150" width="5" height="19" font="11"> </text>
+<text top="681" left="170" width="324" height="20" font="5">Knowledge in SQL Server  2012,  2014, 2016 </text>
+<text top="701" left="170" width="4" height="20" font="5"> </text>
+<text top="722" left="145" width="6" height="19" font="10">-</text>
+<text top="722" left="150" width="5" height="19" font="11"> </text>
+<text top="721" left="170" width="528" height="20" font="5"> Good knowledge and experience in HTML5, CSS3, Bootstrap frame work </text>
+<text top="741" left="170" width="4" height="20" font="5"> </text>
+<text top="762" left="145" width="6" height="19" font="10">-</text>
+<text top="762" left="150" width="5" height="19" font="11"> </text>
+<text top="761" left="170" width="404" height="20" font="5">Good knowledge in JavaScript (JQuery, AJax, Json), LinQ </text>
+<text top="781" left="170" width="4" height="20" font="5"> </text>
+<text top="802" left="145" width="6" height="19" font="10">-</text>
+<text top="802" left="150" width="5" height="19" font="11"> </text>
+<text top="801" left="170" width="632" height="20" font="5">Visual Studio 2013, Visual Studio 2015 ,  GIT and Source Tree, Photoshop CS6, a little of </text>
+<text top="821" left="170" width="231" height="20" font="5">Illustrator, Dreamweaver CS6… </text>
+<text top="840" left="170" width="4" height="20" font="5"> </text>
+<text top="880" left="119" width="172" height="20" font="9">Hardware/Networking: </text>
+<text top="918" left="145" width="6" height="19" font="10">-</text>
+<text top="918" left="150" width="5" height="19" font="11"> </text>
+<text top="917" left="170" width="601" height="20" font="5">Install, manage, maintenance local network system with MS Windows server 2008, </text>
+<text top="940" left="170" width="522" height="20" font="5">2012 (DHCP, DNS and Active directory, backup data and system state…) </text>
+<text top="963" left="170" width="590" height="20" font="5">Good knowledge and experience in installing, configuring, managing, maintaining </text>
+<text top="985" left="170" width="631" height="20" font="5">windows operating: XP, window 7, window 8, window 10, windows server 2003, 2008, </text>
+<text top="1008" left="170" width="394" height="20" font="5">2012, Microsoft office 2003, 2007, 2010, 2013, 2016… </text>
+<text top="1032" left="145" width="6" height="19" font="10">-</text>
+<text top="1031" left="150" width="5" height="19" font="11"> </text>
+<text top="1031" left="170" width="149" height="20" font="5">Manage mail server, </text>
+<text top="1032" left="319" width="78" height="19" font="10">web server,</text>
+<text top="1031" left="397" width="264" height="20" font="5"> file server, print server, ftp server… </text>
+<text top="1055" left="145" width="6" height="19" font="10">-</text>
+<text top="1055" left="150" width="5" height="19" font="11"> </text>
+<text top="1054" left="170" width="554" height="20" font="5">Manage network printer, local printer, scanner, fax, photocopy, support staff </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="16" family="CIDFont+F6" color="#000000"/>
+	<fontspec id="13" size="15" family="CIDFont+F7" color="#0000ff"/>
+<text top="51" left="119" width="207" height="28" font="8">CAREER SUMMARY </text>
+<text top="97" left="119" width="154" height="20" font="4">05/2016 – Present: </text>
+<text top="134" left="119" width="382" height="20" font="4">Position: Full stack web developer (asp.net MVC) </text>
+<text top="171" left="119" width="613" height="20" font="5">Company: Yan Media Group (Công ty cổ phần Công Nghệ và Tầm Nhìn Yêu Âm Nhạc) </text>
+<text top="208" left="119" width="391" height="20" font="5">Add: 12 Ton Dan Street, Ward 13, District 4, HCM City </text>
+<text top="245" left="119" width="88" height="20" font="5">Main duties </text>
+<text top="283" left="170" width="13" height="19" font="12"></text>
+<text top="283" left="183" width="5" height="19" font="11"> </text>
+<text top="282" left="195" width="574" height="20" font="5">Convert  psd file to responsive layout (using HTML, SCSS (SASS), CSS, Boostrap, </text>
+<text top="302" left="195" width="74" height="20" font="5">Jquery,…) </text>
+<text top="323" left="170" width="13" height="19" font="12"></text>
+<text top="323" left="183" width="5" height="19" font="11"> </text>
+<text top="322" left="195" width="555" height="20" font="5">Writing code behind for website using C#, ADO.Net, Linq, Entity framwork,… </text>
+<text top="343" left="170" width="13" height="19" font="12"></text>
+<text top="343" left="183" width="5" height="19" font="11"> </text>
+<text top="342" left="195" width="458" height="20" font="5">Maintenance, upgrade function, write more function, fix error,.. </text>
+<text top="362" left="119" width="71" height="20" font="5">Projects:  </text>
+<text top="400" left="170" width="13" height="19" font="12"></text>
+<text top="399" left="183" width="5" height="19" font="11"> </text>
+<text top="399" left="195" width="137" height="20" font="6">http://dienanh.net</text>
+<text top="399" left="332" width="353" height="20" font="5">: full stack (backend, frontend and maintenance) </text>
+<text top="419" left="170" width="13" height="19" font="12"></text>
+<text top="419" left="183" width="5" height="19" font="11"> </text>
+<text top="418" left="195" width="99" height="20" font="6">http://yan.vn</text>
+<text top="418" left="294" width="303" height="20" font="5">: layout (mobile, desktop and responsive) </text>
+<text top="439" left="170" width="13" height="19" font="12"></text>
+<text top="439" left="183" width="5" height="19" font="11"> </text>
+<text top="439" left="195" width="116" height="20" font="6">http://bestie.vn</text>
+<text top="439" left="312" width="440" height="20" font="5">: maintenance (add, update some function, update layout, …) </text>
+<text top="459" left="170" width="13" height="19" font="12"></text>
+<text top="459" left="183" width="5" height="19" font="11"> </text>
+<text top="458" left="195" width="163" height="20" font="5">Some other microsite: </text>
+<text top="458" left="358" width="165" height="20" font="6">http://yan.vn/rio2016</text>
+<text top="458" left="524" width="7" height="20" font="5">, </text>
+<text top="458" left="531" width="207" height="20" font="6">http://yan.vn/bungnhipvibe</text>
+<text top="459" left="739" width="4" height="19" font="13">,</text>
+<text top="458" left="743" width="51" height="20" font="5">… (full </text>
+<text top="479" left="195" width="48" height="20" font="5">stack) </text>
+<text top="499" left="195" width="4" height="20" font="5"> </text>
+<text top="518" left="119" width="4" height="20" font="5"> </text>
+<text top="555" left="119" width="133" height="20" font="4">2013 – 04/2016: </text>
+<text top="592" left="119" width="473" height="20" font="4">I work as a freelancer about web projects by ASP.NET MVC 5. </text>
+<text top="629" left="119" width="215" height="20" font="5">Some of websites (full stack): </text>
+<text top="666" left="119" width="161" height="20" font="6">http://sagotravel.com</text>
+<text top="666" left="280" width="214" height="20" font="5"> – MVC5 –responsive website </text>
+<text top="703" left="119" width="147" height="20" font="6">http://pidtours.com</text>
+<text top="703" left="266" width="218" height="20" font="5"> – MVC5 – responsive website </text>
+<text top="740" left="119" width="112" height="20" font="6">http://fuvn.org</text>
+<text top="740" left="231" width="335" height="20" font="5">  - MVC5 –responsive website – two languages </text>
+<text top="777" left="119" width="179" height="20" font="6">http://daongoccorp.com</text>
+<text top="777" left="298" width="335" height="20" font="5"> (MVC4– responsive website – two languages) </text>
+<text top="814" left="119" width="137" height="20" font="6">http://vithinh.com</text>
+<text top="814" left="256" width="219" height="20" font="5"> (MVC5 – responsive website) </text>
+<text top="851" left="119" width="17" height="20" font="4">… </text>
+<text top="888" left="119" width="4" height="20" font="4"> </text>
+<text top="888" left="322" width="4" height="20" font="4"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="51" left="119" width="169" height="20" font="4">Sep 2014 – 04/2016:  </text>
+<text top="88" left="119" width="192" height="20" font="4">Position: IT Engineering </text>
+<text top="125" left="119" width="673" height="20" font="5">Name: KEI-NE-OCG-TEDI Joint Venture - North-South Expressway Construction Project - Ben </text>
+<text top="148" left="119" width="176" height="20" font="5">Luc Long Thanh Section </text>
+<text top="185" left="119" width="520" height="20" font="5">Add: No 3 My Phu 1C Street, Tan Phu Ward, District 7, Ho Chi Minh City. </text>
+<text top="222" left="119" width="88" height="20" font="5">Main duties </text>
+<text top="264" left="145" width="13" height="19" font="12"></text>
+<text top="264" left="158" width="5" height="19" font="11"> </text>
+<text top="264" left="170" width="631" height="19" font="10">Build server, manage local network system, manage all of software and hardware in systems </text>
+<text top="284" left="145" width="13" height="19" font="12"></text>
+<text top="283" left="158" width="5" height="19" font="11"> </text>
+<text top="284" left="170" width="287" height="19" font="10">Server maintenance (AD, DNS, DHCP...) </text>
+<text top="304" left="145" width="13" height="19" font="12"></text>
+<text top="304" left="158" width="5" height="19" font="11"> </text>
+<text top="305" left="170" width="278" height="19" font="10">Set up and manage file server, ftp server </text>
+<text top="325" left="145" width="13" height="19" font="12"></text>
+<text top="325" left="158" width="5" height="19" font="11"> </text>
+<text top="325" left="170" width="144" height="19" font="10">Backup and storages </text>
+<text top="346" left="145" width="13" height="19" font="12"></text>
+<text top="346" left="158" width="5" height="19" font="11"> </text>
+<text top="346" left="170" width="238" height="19" font="10">Setup and manage network printer </text>
+<text top="367" left="145" width="13" height="19" font="12"></text>
+<text top="367" left="158" width="5" height="19" font="11"> </text>
+<text top="367" left="170" width="310" height="19" font="10">Setup and manage network camera in system </text>
+<text top="387" left="145" width="13" height="19" font="12"></text>
+<text top="387" left="158" width="5" height="19" font="11"> </text>
+<text top="388" left="170" width="252" height="19" font="10">Staff support and pc troubleshooting </text>
+<text top="420" left="119" width="165" height="20" font="4">Sep 2010 – 09/2014: </text>
+<text top="457" left="119" width="192" height="20" font="4">Position: IT Engineering </text>
+<text top="494" left="119" width="291" height="20" font="5">Company: Total Building Systems (TBS) </text>
+<text top="531" left="119" width="573" height="20" font="5">Add: 199 Dien Bien Phu Street, Ward 15, Binh Thanh District, Ho Chi Minh City. </text>
+<text top="568" left="119" width="88" height="20" font="5">Main duties </text>
+<text top="605" left="170" width="13" height="19" font="12"></text>
+<text top="605" left="183" width="5" height="19" font="11"> </text>
+<text top="605" left="195" width="563" height="20" font="5">Manage network system, assist staff about computer technology and internet. </text>
+<text top="626" left="170" width="13" height="19" font="12"></text>
+<text top="625" left="183" width="5" height="19" font="11"> </text>
+<text top="625" left="195" width="526" height="20" font="5">Manage company website and email, local domain: AD, DHCP, and DNS… </text>
+<text top="645" left="170" width="13" height="19" font="12"></text>
+<text top="645" left="183" width="5" height="19" font="11"> </text>
+<text top="645" left="195" width="598" height="20" font="5">Manage all of hardware devices: all of PCs, laptop, network printer, scan machines, </text>
+<text top="664" left="195" width="298" height="20" font="5">fax machines, and photocopy machines… </text>
+<text top="685" left="170" width="13" height="19" font="12"></text>
+<text top="685" left="183" width="5" height="19" font="11"> </text>
+<text top="684" left="195" width="450" height="20" font="5">Manage license software’s, set up PC, laptop, install software... </text>
+<text top="705" left="170" width="13" height="19" font="12"></text>
+<text top="705" left="183" width="5" height="19" font="11"> </text>
+<text top="704" left="195" width="388" height="20" font="5">Manage file server, ftp server, backup - restore data… </text>
+<text top="724" left="195" width="4" height="20" font="5"> </text>
+<text top="744" left="119" width="140" height="20" font="4">2009 – Sep 2010:  </text>
+<text top="781" left="119" width="229" height="20" font="4">Position: Technician Support </text>
+<text top="818" left="119" width="175" height="20" font="5">Company: FPT Telecom </text>
+<text top="855" left="119" width="388" height="20" font="5">Add: Tan Thuan Industrial Parks, District 7, HCM City </text>
+<text top="892" left="119" width="88" height="20" font="5">Main duties </text>
+<text top="929" left="170" width="13" height="19" font="12"></text>
+<text top="929" left="183" width="5" height="19" font="11"> </text>
+<text top="928" left="195" width="310" height="20" font="5">Receive and assist customer solve internet </text>
+<text top="929" left="506" width="107" height="19" font="10">troubleshooting</text>
+<text top="928" left="613" width="4" height="20" font="5"> </text>
+<text top="949" left="170" width="13" height="19" font="12"></text>
+<text top="949" left="183" width="5" height="19" font="11"> </text>
+<text top="949" left="195" width="559" height="20" font="5">Assist customer about technology and computer: office, email, modern, wifi… </text>
+<text top="969" left="170" width="13" height="19" font="12"></text>
+<text top="969" left="183" width="5" height="19" font="11"> </text>
+<text top="968" left="195" width="247" height="20" font="5">Support voice IP and internet TV.  </text>
+<text top="989" left="170" width="13" height="19" font="12"></text>
+<text top="989" left="183" width="5" height="19" font="11"> </text>
+<text top="988" left="195" width="456" height="20" font="5">Manage the bandwidth and ADSL, FTTH profile in the system… </text>
+<text top="1008" left="119" width="5" height="28" font="8"> </text>
+<text top="1054" left="119" width="5" height="28" font="8"> </text>
+<text top="1054" left="322" width="5" height="28" font="8"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="14" size="24" family="CIDFont+F4" color="#1f497d"/>
+<text top="51" left="119" width="133" height="28" font="8">EDUCATION </text>
+<text top="98" left="145" width="6" height="19" font="10">-</text>
+<text top="98" left="150" width="5" height="19" font="11"> </text>
+<text top="97" left="170" width="608" height="20" font="5">Graduated: University – Bachelor of engineering – HCMC University of Technology – </text>
+<text top="120" left="170" width="45" height="20" font="5">2013. </text>
+<text top="158" left="145" width="6" height="19" font="10">-</text>
+<text top="158" left="150" width="5" height="19" font="11"> </text>
+<text top="157" left="170" width="601" height="20" font="5">Certificate: ASP.Net MVC 4.0 and Visual Studio 2012 – Nhat Nghe School (Microsoft </text>
+<text top="180" left="170" width="119" height="20" font="5">partner) – 2013 </text>
+<text top="218" left="145" width="6" height="19" font="10">-</text>
+<text top="218" left="150" width="5" height="19" font="11"> </text>
+<text top="217" left="170" width="565" height="20" font="5">Certificate: Website Developer – Nhat Nghe School (Microsoft partner) – 2009 </text>
+<text top="255" left="145" width="6" height="19" font="10">-</text>
+<text top="255" left="150" width="5" height="19" font="11"> </text>
+<text top="254" left="170" width="543" height="20" font="5">Certificate: Microsoft Certified Systems Administrator (MCSA) – Nhat Nghe </text>
+<text top="277" left="170" width="246" height="20" font="5">School(Microsoft partner) – 2009 </text>
+<text top="315" left="145" width="6" height="19" font="10">-</text>
+<text top="315" left="150" width="5" height="19" font="11"> </text>
+<text top="314" left="170" width="439" height="20" font="5">Graduated: College – Major: Information Technology – 2005. </text>
+<text top="350" left="119" width="241" height="28" font="8">OTHER SKILLS AND CH</text>
+<text top="352" left="360" width="118" height="27" font="14">ARACTER </text>
+<text top="398" left="145" width="6" height="19" font="10">-</text>
+<text top="398" left="150" width="5" height="19" font="11"> </text>
+<text top="397" left="170" width="340" height="20" font="5">Having ability communication &amp; team working </text>
+<text top="435" left="145" width="6" height="19" font="10">-</text>
+<text top="435" left="150" width="5" height="19" font="11"> </text>
+<text top="434" left="170" width="381" height="20" font="5">Hard, to know arrange work and have responsibility </text>
+<text top="471" left="145" width="6" height="19" font="10">-</text>
+<text top="471" left="150" width="5" height="19" font="11"> </text>
+<text top="471" left="170" width="223" height="19" font="10">Loving to study new technology </text>
+<text top="509" left="145" width="6" height="19" font="10">-</text>
+<text top="509" left="150" width="5" height="19" font="11"> </text>
+<text top="508" left="170" width="219" height="20" font="5">Self-starter and active learner </text>
+<text top="546" left="145" width="6" height="19" font="10">-</text>
+<text top="546" left="150" width="5" height="19" font="11"> </text>
+<text top="545" left="170" width="133" height="20" font="5">Honestly, friendly </text>
+<text top="582" left="145" width="6" height="19" font="10">-</text>
+<text top="582" left="150" width="5" height="19" font="11"> </text>
+<text top="581" left="170" width="10" height="20" font="5">V</text>
+<text top="582" left="180" width="34" height="19" font="10">ery g</text>
+<text top="581" left="214" width="392" height="20" font="5">ood at MS Office, keyboard, email and Google search… </text>
+<text top="619" left="119" width="4" height="20" font="5"> </text>
+<text top="656" left="119" width="83" height="28" font="8">SALARY</text>
+<text top="657" left="203" width="6" height="27" font="14"> </text>
+<text top="702" left="119" width="193" height="20" font="5">Expected: 750USD/month </text>
+</page>
+</pdf2xml>

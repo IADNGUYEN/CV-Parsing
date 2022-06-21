@@ -1,0 +1,112 @@
+LAM MINH QUANG
+PERSONAL SUMMARY 
+11+ years’ experience in programming software application, web and data streaming system  
+Good experience in Python, Selenium,ASP.Net 3.5 (C#), JavaScript, Jquery, VB.Net, Rest, Ajax,  
+SilverLight, LinQ for .Net 3.0, 3.5, or 4.0
+Data pipeline(streaming system), micro service, RabbitMQ, Python, Aws, Docker
+Good experience in Database:MongoDB,Postgres,ElasticSearch, Redis, MySQL 5.0, MS SQL 
+2000, MS SQL 2005, MS SQL 2008, SQLite
+Seasoned command of analyzing and designing database 
+Strong competence in using C, C++, VB, C#, Python 2.5-2.7, Selenium WebDriver, .Net 3.0, 3.5, 
+or 4.0 
+Solid knowledge and experience in MS Visual Studio, Eclipse
+Strong experience in programming for IPhone and App store  
+Solid knowledge and experience in Xcode 4.3.2 base Objective C 
+Ability to communicate well in English  
+PROFESSIONAL EXPERIENCE 
+SENTIFI Viet Nam: From August 2016 – Present
+Senior Data Engineer
+Responsibilities:
+Building streaming system, collect raw data (twitter, moreover, rss) from third party.
+Processing Raw data to Relevant data based on Keyword rule, coefficient, score,algorithms,…and
+a lot of step transform, enrichment data
+Storing big data in optimal data storage solutions in transformed and in raw formats
+Work closely with Data Scientist team to build Model (financial service, relevant score, best 
+message…) based on Machine Learning algorithms, Natural Language Processing, Tensorflow, 
+Keras, Sentiment Analysis and others
+Build portal to manage data, keyword, rule, searching…
+Technologies:
+Micro service, RabbitMQ, MongoDB, Postgres, ElasticSearch, Redis, Python, Aws, Docker
+Posiba Viet Nam : From Mar 2015 – Aug 2016
+Senior Data Engineer
+Project description: 
+Get and Analysis requirements from customer US.
+Designing and Implement feature from these analysis.
+Scrape web sites for public sources of data using proprietary scripts and tools.
+Responsibilities:
+Develop data acquisition scripts that are highly fault-tolerant and reliable.
+Develop and maintain automated scripts to consistently update databases when new data appears 
+at public sources.
+Responsible for initial intake of data into intake databases
+Build data management tool and storage data to portal
+Testing and create documentations for the functions  
+Technologies:  
+Django, Python Selenium, Ckan, Pentaho, MicroService, ETL, Postgresql, Mysql, Linux..
+Lanworks Pte Ltd : From Jan 2013 – Jan 2015
+Senior Program Analyst
+Project description: 
+Working onsite at Singapore in 6 months for a web based application which will help to manage 
+nursing home, patients profile, treatments, medication, inventory, invoicing & other nursing 
+related activities
+The application integrates with the following third party software/tools 
+Responsibilities: 
+Created End to end development of Web Based Application using C#.NET/VB.NET and SQL 
+Server 
+Responsible for providing application design, application development, system testing and real‐
+time business solutions  
+Created system documentation and liaise with end‐users and provision of technical support 
+Technologies:  
+VB.net 3.5, SQL 2008 
+ITD GROUP: From Oct 2009 – Dec 2012  
+SENIOR SOFTWARE ENGINEER 
+Project description: 
+The project is to develop POS, inventory, customer loyalty, and report function   
+The product can run on IPhone, Ipad, Android phone to take order and payment at table, carry out
+printing to kitchen printer, and is useful for restaurant which have many customers at one time 
+Responsibilities:  
+Research and Development POS and Hospitality software  Analysis and design database as 
+customer’s requirements.
+Deploy Cuscapi software at Viet Nam market.  
+Team leader sale and technical of Cuscapi POS software 
+Solid knowledge and experience in Software Programming and software development process  
+Involved in working closely with engineers, technician, managers and professional staff in a 
+variety of projects across commercial and industrial environment  
+Good communication skills and capacity of working as a team member and under pressure as 
+well as challenges 
+SWISSITBRIDGE: From Sep 2006 – Aug 2009  
+SOFTWARE ENGINEER
+Project description: 
+Site support V1, V2: The project involves managing department, franchise, user, issue of 
+customer, creating rule, role distribute automatic to system 
+Search Engine: Improved search method and apply to current projects    
+Ecommerce for customer site: Shopping online and payment online using Paypal to payment 
+Q & A issue and automatic: Management user, news, article, product, forum and multi 
+languages Responsibilities:  
+Created the solution and complete the project through choosing which feasible solution  
+Programed the web following customer’s requirements by coordinating with marketing 
+department 
+Designed supporting customer website for Hostway with some characteristics managing 
+customer, reporting customer service and security  
+Improved web speed by REST technology  Embed 
+Search Engine (Lucene and Sphinx) for some project which required high speed  
+Developed e-commerce system and payment online such as Paypal. 
+Gained experience working together with teams in foreign countries 
+Technologies:  
+Asp.net 2.0, python 2.5, Lucene engine, Asp.net 2.0, python 2.5, Asp.net 3.5, Asp.net 2.0, 
+Python ,Sql 2005, Sql 2008 
+STRONG TECHNICAL EXPERTISE 
+Strong technical background with more than 11+ years’ experience in IT industry  
+Able to work under high pressure, in a team or independently  
+Solid knowledge and experience in Software Programming and software development process  
+Involved in working closely with engineers, technician, managers and professional staff in a 
+variety of projects across commercial and industrial environment  
+Good communication skills and capacity of working as a team member and under pressure as 
+well    as challenges 
+ACADEMIC QUALIFICATIONS 
+2002 ‐ 2006   BA Degree in Information Technology.
+Dalat University, Department of Information Technology.
+CONTACT DETAIL:
+Name: Lam Minh Quang
+Phone number: (+84) 902835388
+Emai: minhquang153@gmail.com
+Skype: quanglamminh

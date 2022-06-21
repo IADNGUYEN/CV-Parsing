@@ -1,0 +1,77 @@
+Page 1 of 2 
+TRAN DINH KHUYEN 
+Personal Information 
+Full name:  TRẦN ĐÌNH KHUYÊN 
+Nationality:  Vietnamese  
+Place of birth: Binh Dinh / Viet Nam  
+Date of Birth:  30/01/1994 
+Gender:   
+Male  
+Marital status: Single 
+Phone:  
+0163.975.8457 
+Email: khuyen94@gmail.com 
+Languages: Vietnamese (Native), English (Normal) 
+Skills Summary 
+Soft Skills 
+Team work 
+English: Fair (Read, write and speak) 
+Programming Skills 
+JAVA: CORE 
+C#: ASP.NET MVC, WINDOWS FORM, WCF Service WPF, Entity, Linq 
+BACKGROUND OF OOP, Design Pattern 
+Knowlegde of HTML, Javascript, CSS  
+MSQL Server 2012  
+Software 
+Platforms: Windows 7/8/10,  Linux(Ubuntu) 
+Others: Eclipse, Netbeans, Visual Studio 2013 
+Education Summary 
+Name of University/ College: University of Science HCMC, Ho Chi Minh City, 
+Vietnam  
+Field of Study:  Information technology. 
+Year of Graduation:  2015 
+GPA:  6.58 
+Page 2 of 2 
+Career Summary 
+Company Name 
+ITD Group 
+Working time 
+08/2015 – 01/2016 
+Job Title 
+Interns 
+Responsibilities 
+Requirement analysis 
+Implement code 
+Design UI 
+Analysis and design database  
+Achievements 
+Knowledge and experience in IT industry 
+Increase team work skill and communication skill 
+Agile method applicability 
+References 
+Name: Vo Dinh Huy – Manage interns team 
+Email: huy.vo@itd.com.vn 
+Skype: dinhhuy10_02 
+Hobbies & Interests 
+Reading books. 
+Playing football 
+Project(s) participated in University/College 
+Project of Web Application          
+Project 
+: Laptop Shopping Center  
+Languages  
+: Programming using ASP.NET MVC, SQL Server 2012  
+Webform Version: 
+Link online: http://www.kukymobile.somee.com/ 
+Link GitHub: https://github.com/khuyen94/QLBH-webform 
+Web MVC5 Version: 
+Link GitHub: https://github.com/khuyen94/QLBH-MVC5  
+Additional Infomation 
+Project Traffic Light Detection          
+Project 
+: Traffic Light Detection 
+Languages  
+: C#, Window Form, Emgu CV Framework. 
+Description 
+: System receive image from traffic light camera and return status traffic 
+light (red/yellow/green) . 

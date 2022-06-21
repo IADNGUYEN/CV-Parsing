@@ -1,0 +1,159 @@
+ 
+MY INFORMATION 
+Full Name 
+Tran Van Lam 
+Year of Birth 
+12/02/1986 
+Phone 
+0937774338 
+Email 
+lamtv86@gmail.com 
+Apply Position 
+Senior Software Engineer 
+desired salary 
+800$ > 1000$ 
+Education, Qualifications & Special Achievements 
+Education 
+The University of Natural Science – HCM 2010 
+English 
+Intermediate 
+Overview 
+Personal Statement 
+To become an expert in Microsoft technologies. 
+Skills Summary 
+3 years of experience in software development with Microsoft platform technologies; 
+.NET Framework, C# and Web development 
+1 year of experience in software and web development with Java technologies such 
+as Spring MVC, Seam, Hibernet 
+Strong in C# OOP, Web Development with ASP.NET, MVC , Entity Framework and 
+SQL Database programming language 
+Knowledge in CSS, HTML, AJAX, Java Script 
+Knowledge and skills in new technology of service oriented programming such as 
+WCF   
+Intermediate English level for writing and speaking 
+Ability to quickly learn new technologies. 
+Technical Skills 
+OS 
+Windows 
+Languages 
+C#, ASP.NET,  Entity Framework, .NET, MVC, HTML, WCF, Java 
+Databases 
+SQL Server 2008 and 2008R2, Oracle 11g 
+Methodologies 
+& Tools 
+Visual Studio 2010 and 2013. 
+RECENT ASSIGNMENTS 
+Project 
+Inside Reseller, June 2011 – June 2013 
+Position 
+Developer 
+Project 
+Description 
+This project is to provide functions such as selling domains, hosting, and 
+managing retail system, website services such as domain extension, services 
+packages, hosting, users and resellers, etc. 
+Website : http://reseller.fptdata.com.vn/Default.aspx (link local) 
+My 
+Responsibility 
+Coded applications based on technical specification documents (TSD), and 
+functional  specification Documents (FSD) 
+Researched, analysed solutions, and designed databases 
+Fixed Incidents and bugs 
+Performed unit testing. 
+Technology 
+ASP.NET AJAX , JAVA Script, SQL Server 2008R2 
+Project 
+Inside Admin Reseller, June 2011 – June 2013 
+Position 
+Developer 
+Project 
+Description 
+This project is to provide functions such as managing reseller details and 
+domains, hosting, registering hosting, money of reseller time using domains, 
+security website, monthly report, statistics, etc. for customer better support.  
+My 
+Responsibility 
+Coded applications based on technical specification documents (TSD), and 
+functional  specification Documents (FSD) 
+Researched, analysed solutions, and designed databases 
+Fixed Incidents and bugs 
+Performed unit testing. 
+Technology 
+MVC 3.0 , AJAX , Java Script, SQL Server 2008R2 
+Project 
+Inside Cambodia, June 2012 – June 2014 
+Position 
+Developer 
+Project 
+Description 
+The Project manages materials, equipment in Vietnam and Cambodia. It also 
+creates new contracts, and liquidates contracts. The project provides deployment 
+surveys, and customer support. The Inside Cambodia System grows extensively 
+in Cambodia. Website : http://insideglobal.net/(link local) 
+My 
+Responsibility 
+Coded applications based on technical specification documents (TSD), and 
+functional  specification Documents (FSD) 
+Researched,  analysed solutions, and designed databases 
+Fixed Incidents and bugs 
+Performed unit testing. 
+Technology 
+Web ASP.NET, CSS, Java Script , SQL Server, AJAX 
+Project 
+Thukyluat.vn, thuvienphapluat.vn, 2015 
+Position 
+Senior developer 
+Project 
+Description 
+The Project provides service law soft , it help for ( enterprise, community law, 
+student, ...) easy reading online document, edit online own document, download 
+and managing document on website, handy of website such as : speed search 
+documents, advance search , look up contract, look up WTO ASIA tax form, 
+property price, ...   
+Payment online if your register member (Basic, Pro budget) online. 
+SEO top Google 
+My 
+Responsibility 
+Coded applications based on technical specification documents (TSD), and 
+functional  specification Documents (FSD) 
+Researched,  analysed solutions, and designed databases 
+Fixed Incidents and bugs 
+Performed unit testing. 
+Technology 
+SEO, MVC 5 entity framework , AJAX , CSS, Java Script , Sorl server, SQL 
+Server 
+Project 
+BMS, June 2014 – June 2015 
+Position 
+Senior developer 
+Project 
+Description 
+The Project is to provide a system that manages the finance of company, budget 
+planning for all departments, PO/PR, contract payment. It also provides reports 
+such as accrual, actual, monthly reports and dashboards.  
+My 
+Responsibility 
+Coded using Rational Rose tool to analyse and design the system  
+Assigned the tasks to each members 
+Maintained, modified function 
+Managed server Linux, deployed project 
+Performed unit testing. 
+Technology 
+Java Spring MVC, AJAX, JSP, Oracle 11g. 
+Project 
+Offline Quotation, June 2014 – June 2015 
+Position 
+Senior developer 
+Project 
+Description 
+The Project provides an insurance application which allows customer to buy 
+insurance, to calculate yearly customer benefits for the life circle of contract. 
+My 
+Responsibility 
+Coded, analysed and designed the system  
+Assigned the tasks for team members 
+Maintained, modified functions 
+Administered Linux server, and deployed project 
+Performed unit testing. 
+Technology 
+SWT, XML, Crystal Report 

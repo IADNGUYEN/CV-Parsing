@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="ABCDEE+Calibri,Bold" color="#000000"/>
+	<fontspec id="1" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="2" size="16" family="ABCDEE+Calibri" color="#0000ff"/>
+<text top="112" left="108" width="132" height="17" font="0"><b>TRẦN MINH HÙNG </b></text>
+<text top="112" left="394" width="4" height="17" font="0"><b> </b></text>
+<text top="112" left="548" width="4" height="17" font="0"><b> </b></text>
+<text top="387" left="378" width="4" height="17" font="1"> </text>
+<text top="133" left="394" width="89" height="17" font="1">Date of birth </text>
+<text top="153" left="394" width="100" height="17" font="1">(mm/dd/yyyy) </text>
+<text top="133" left="548" width="83" height="17" font="1">01/13/1994 </text>
+<text top="174" left="394" width="103" height="17" font="1">Phone number </text>
+<text top="174" left="548" width="115" height="17" font="1">+84 935 311 895 </text>
+<text top="195" left="394" width="40" height="17" font="1">Email </text>
+<text top="195" left="548" width="195" height="17" font="2"><a href="mailto:hungminhtran@outlook.com">hungminhtran@outlook.com</a></text>
+<text top="195" left="744" width="4" height="17" font="1"><a href="mailto:hungminhtran@outlook.com"> </a></text>
+<text top="215" left="394" width="71" height="17" font="1">University </text>
+<text top="215" left="548" width="193" height="17" font="1">University of Science, HCMC </text>
+<text top="236" left="394" width="43" height="17" font="1">Skype </text>
+<text top="236" left="548" width="195" height="17" font="2"><a href="mailto:hungminhtran@outlook.com">hungminhtran@outlook.com</a></text>
+<text top="236" left="744" width="4" height="17" font="1"><a href="mailto:hungminhtran@outlook.com"> </a></text>
+<text top="403" left="108" width="194" height="17" font="0"><b>EDUCATION AND TRAINING </b></text>
+<text top="424" left="108" width="4" height="17" font="1"> </text>
+<text top="424" left="394" width="94" height="17" font="1">2013-present </text>
+<text top="424" left="548" width="143" height="17" font="1">University of Science </text>
+<text top="444" left="548" width="81" height="17" font="0"><b>Honor Class</b></text>
+<text top="444" left="629" width="161" height="17" font="1">, Faculty of Information </text>
+<text top="465" left="548" width="81" height="17" font="1">Technology </text>
+<text top="486" left="108" width="102" height="17" font="0"><b>ENGLISH SKILL </b></text>
+<text top="486" left="394" width="4" height="17" font="0"><b> </b></text>
+<text top="486" left="548" width="4" height="17" font="0"><b> </b></text>
+<text top="506" left="108" width="4" height="17" font="1"> </text>
+<text top="506" left="394" width="64" height="17" font="1">Speaking </text>
+<text top="506" left="548" width="60" height="17" font="1">Medium </text>
+<text top="527" left="108" width="4" height="17" font="1"> </text>
+<text top="527" left="394" width="64" height="17" font="1">Listening </text>
+<text top="527" left="548" width="60" height="17" font="1">Medium </text>
+<text top="548" left="108" width="4" height="17" font="1"> </text>
+<text top="548" left="394" width="58" height="17" font="1">Reading </text>
+<text top="548" left="548" width="40" height="17" font="1">Good </text>
+<text top="569" left="108" width="4" height="17" font="1"> </text>
+<text top="569" left="394" width="54" height="17" font="1">Writing </text>
+<text top="569" left="548" width="60" height="17" font="1">Medium </text>
+<text top="590" left="108" width="156" height="17" font="0"><b>PROGRAMMING SKILL </b></text>
+<text top="611" left="108" width="69" height="17" font="0"><b>Language </b></text>
+<text top="611" left="394" width="39" height="17" font="0"><b>Level </b></text>
+<text top="611" left="548" width="49" height="17" font="0"><b>Memo </b></text>
+<text top="632" left="108" width="44" height="17" font="1">C/C++ </text>
+<text top="632" left="394" width="78" height="17" font="1">Knowledge </text>
+<text top="632" left="548" width="254" height="17" font="1">Strong knowledge about Pointer in C, </text>
+<text top="652" left="548" width="210" height="17" font="1">Windows API on Windows SDK </text>
+<text top="672" left="548" width="202" height="17" font="1">Experience in object-oriented </text>
+<text top="692" left="548" width="99" height="17" font="1">programming  </text>
+<text top="712" left="548" width="175" height="17" font="1">Experience in MFC socket </text>
+<text top="733" left="548" width="95" height="17" font="1">programming </text>
+<text top="753" left="108" width="51" height="17" font="1">Python </text>
+<text top="753" left="394" width="78" height="17" font="1">Knowledge </text>
+<text top="753" left="548" width="226" height="17" font="1">Experience in Django framework  </text>
+<text top="774" left="548" width="232" height="17" font="1">Experience in  compute large data </text>
+<text top="794" left="548" width="173" height="17" font="1">using matrix in numpy lib </text>
+<text top="815" left="108" width="32" height="17" font="1">Java </text>
+<text top="815" left="394" width="78" height="17" font="1">Knowledge </text>
+<text top="815" left="548" width="213" height="17" font="1">Experiences in develop android </text>
+<text top="835" left="548" width="78" height="17" font="1">application </text>
+<text top="855" left="548" width="246" height="17" font="1">Experiences in develop the compiler </text>
+<text top="875" left="548" width="94" height="17" font="1">using antlr lib </text>
+<text top="896" left="108" width="30" height="17" font="1">Perl </text>
+<text top="896" left="394" width="78" height="17" font="1">Knowledge </text>
+<text top="896" left="548" width="226" height="17" font="1">Experience on regular expression </text>
+<text top="916" left="548" width="211" height="17" font="1">Experience on writing unit-test </text>
+<text top="937" left="108" width="21" height="17" font="1">C# </text>
+<text top="937" left="394" width="78" height="17" font="1">Knowledge </text>
+<text top="937" left="548" width="193" height="17" font="1">Experience on ASP.Net, .Net </text>
+<text top="957" left="548" width="80" height="17" font="1">Framework </text>
+<text top="978" left="108" width="63" height="17" font="0"><b>PROJECT </b></text>
+<text top="999" left="108" width="90" height="17" font="1">Android app  </text>
+<text top="999" left="394" width="99" height="17" font="1">Who is absent </text>
+<text top="999" left="548" width="241" height="17" font="1">User set a number N, when camera </text>
+<text top="1019" left="548" width="265" height="17" font="1">detect N face, it will automatically take </text>
+<text top="1039" left="548" width="63" height="17" font="1">a picture </text>
+<text top="1059" left="548" width="5" height="17" font="1"><a href="https://drive.google.com/open?id=0B-5LSEuAMvXfeFJiTHV1Y0UwTG8">(</a></text>
+<text top="1059" left="553" width="39" height="17" font="2"><a href="https://drive.google.com/open?id=0B-5LSEuAMvXfeFJiTHV1Y0UwTG8">demo</a></text>
+<text top="1059" left="592" width="9" height="17" font="1"><a href="https://drive.google.com/open?id=0B-5LSEuAMvXfeFJiTHV1Y0UwTG8">)</a> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="112" left="548" width="230" height="17" font="1">User train app to detect a person, </text>
+<text top="132" left="548" width="207" height="17" font="1">when camera recognize, it will </text>
+<text top="152" left="548" width="196" height="17" font="1">automatically take a picture <a href="https://drive.google.com/open?id=0B-5LSEuAMvXfdzFtUlBKanZ0MGc">(</a></text>
+<text top="152" left="744" width="39" height="17" font="2"><a href="https://drive.google.com/open?id=0B-5LSEuAMvXfdzFtUlBKanZ0MGc">demo</a></text>
+<text top="152" left="783" width="9" height="17" font="1"><a href="https://drive.google.com/open?id=0B-5LSEuAMvXfdzFtUlBKanZ0MGc">)</a> </text>
+<text top="173" left="108" width="195" height="17" font="1">C++ project base on OpenCV </text>
+<text top="173" left="394" width="60" height="17" font="1">Tracking </text>
+<text top="173" left="548" width="262" height="17" font="1">Tracking people, can continue tracking </text>
+<text top="193" left="548" width="200" height="17" font="1">either on conflict or changing </text>
+<text top="213" left="548" width="88" height="17" font="1">background<a href="https://drive.google.com/open?id=1kgNpAuALcnVbsU7tEicITLySY7RZZFLrmmbo4c9G-fw"> (</a></text>
+<text top="213" left="636" width="43" height="17" font="2"><a href="https://drive.google.com/open?id=1kgNpAuALcnVbsU7tEicITLySY7RZZFLrmmbo4c9G-fw">report</a></text>
+<text top="213" left="679" width="9" height="17" font="1"><a href="https://drive.google.com/open?id=1kgNpAuALcnVbsU7tEicITLySY7RZZFLrmmbo4c9G-fw">)</a> </text>
+<text top="234" left="108" width="245" height="17" font="1">C project base on WinAPI (Windows </text>
+<text top="254" left="108" width="35" height="17" font="1">SDK) </text>
+<text top="234" left="394" width="83" height="17" font="1">Vietnamese </text>
+<text top="254" left="394" width="106" height="17" font="1">teencode input </text>
+<text top="275" left="394" width="57" height="17" font="1">method </text>
+<text top="234" left="548" width="225" height="17" font="1">Enter correct grammar and spell, </text>
+<text top="254" left="548" width="258" height="17" font="1">program will insert the teencode spell </text>
+<text top="275" left="548" width="5" height="17" font="1"><a href="https://drive.google.com/open?id=0B-5LSEuAMvXfa2pkWkI0NHNfVGs">(</a></text>
+<text top="275" left="553" width="39" height="17" font="2"><a href="https://drive.google.com/open?id=0B-5LSEuAMvXfa2pkWkI0NHNfVGs">demo</a></text>
+<text top="275" left="592" width="9" height="17" font="1"><a href="https://drive.google.com/open?id=0B-5LSEuAMvXfa2pkWkI0NHNfVGs">)</a> </text>
+<text top="295" left="108" width="95" height="17" font="1">Webpage(C#) </text>
+<text top="295" left="394" width="95" height="17" font="1">E-commercial </text>
+<text top="316" left="394" width="56" height="17" font="1">website </text>
+<text top="295" left="548" width="257" height="17" font="1">Display product;  add to cart function, </text>
+<text top="316" left="548" width="237" height="17" font="1">migration database; set admin and </text>
+<text top="336" left="548" width="252" height="17" font="1">user role; checkout with baokim.com </text>
+<text top="356" left="548" width="161" height="17" font="1">(a “paypal” of Vietnam) </text>
+<text top="377" left="108" width="235" height="17" font="1">Webpage (python base on django) </text>
+<text top="377" left="394" width="41" height="17" font="1">Shopi </text>
+<text top="377" left="548" width="260" height="17" font="1">A startup provide user coupon, deal in </text>
+<text top="397" left="548" width="200" height="17" font="1">shop/store. Shop/store could </text>
+<text top="417" left="548" width="240" height="17" font="1">adversative itself through this. Win-</text>
+<text top="437" left="548" width="89" height="17" font="1">Win strategy </text>
+<text top="458" left="108" width="90" height="17" font="0"><b>OTHER SKILL </b></text>
+<text top="479" left="108" width="346" height="17" font="1">Strong knowledge on use and configure Ubuntu OS </text>
+<text top="500" left="108" width="235" height="17" font="1">Experience work in SQL, MongoDB </text>
+<text top="521" left="108" width="4" height="17" font="1"> </text>
+</page>
+</pdf2xml>

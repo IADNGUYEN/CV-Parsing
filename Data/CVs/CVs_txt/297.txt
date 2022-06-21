@@ -1,0 +1,99 @@
+   
+Education                   
+Seattle University 
+Seattle, WA | 2018  2020 
+GPA: 3.61./4.0 
+Bachelor of Computer Science  
+Member of Tau Sigma Honor 
+Society 
+Seattle Central College  
+Seattle, WA 
+GPA: 3.96/4.0 
+Associate of Degree of Accounting & 
+Computer Science  
+Member of Phi Theta Kappa 
+Dean's List 2018 
+Certificate of Leader 
+Achievement 
+Skills                              
+C/C++ 
+C# 
+CSS 
+HTML5 
+Java 
+JavaScript 
+jQuery 
+Python 
+SQL 
+Coursework                 
+Data Structures and Algorithms 
+Database Management 
+Computer Programming, I & II 
+(Java) 
+Languages and Computation 
+(Python & F#) 
+Computing Systems 
+Thao Truong 
+Seattle, WA, 98188                                                    
+(206) 637-9560                                                     
+truongthaoth@seattleu.edu                                                        
+in/thao-truong  
+thaophuong truong                                                  
+Thao97 
+Projects  
+Memory Game  
+2D Game Development (JavaScript & CSS) | May 2019  June 2019 
+When the game starts, all tiles are turned face down. The player then flips 
+over two cards, selecting them by clicking on them. If the two tiles have the 
+same image, they remain face up. The game has a limit of time, so the score 
+is based on how many pairs of cards are matched within that time period. 
+Front-End and Back-End Projects | June 2018 – September 2018 
+A collection of small projects in Java, Python, JavaScript, CSS, HTML, along 
+with a variety of frameworks and databases. 
+GitHub : https://github.com/thao97py 
+Work History 
+2018-03  
+2018-06 
+Executive of Student Success 
+Seattle Central College, Seattle, WA 
+Responsible for collecting and compiling the weekly 
+Committee Reports from the chairs of all Associated 
+Student Council committees. 
+Chair committee to recruit for Salutatorian and 
+Valedictorian of the President Medal Award. 
+Chair of the Legacy Committee & compile a record of 
+accomplishments and recommendations for the future 
+governing ASC. 
+2017-10  
+2018-03 
+Associate Member 
+Seattle Central College, Seattle, WA. 
+Worked towards the Student Success Committee by 
+connecting students with resources that encourage and 
+promote student success. 
+Participated in campus showcases, demonstrations, and 
+tabling to educate students about the mission and 
+resources of the ASC to educate students about the 
+mission and resources of the ASC. 
+2016-11  
+2017-06 
+Mathematical Tutor 
+Seattle Central College, Seattle, WA 
+Reviewed class material, discussed the text, monitored 
+student progress, identified areas needing improvement, 
+helped with homework and preparing students for tests. 
+Volunteers  
+Vendor Program Assistance | Apr 2017 – Oct 2017 
+Real Change Homeless Empowerment Project, Seattle, WA  Data entry into Excel/Database and front desk customer service. 
+Object-Oriented Development 
+(C# & C++) 
+Computer Graphics 
+Accounting Principle I, II, &III 
+Micro/Macro economics 
+Program Support Coordinator | Apr 2017 – Jun 2017 
+Helping Link / Mot Dau Noi, Seattle, WA  Provide clerical support in internal and external administrative tasks  Process and file administrative documents 
+Activities  
+Robotics Club 
+Computer science Club 
+Society of Women Engineers (SWE) 
+.  

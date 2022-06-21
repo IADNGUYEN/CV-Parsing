@@ -1,0 +1,73 @@
+Applicant for:
+R&D Engineer
+TMA Solutions
+11 December 2017
+Chinh NGUYEN TRUNG
+ntc0402@gmail.com
+Main interests: Python, Java
+What skills, work projects or achievements make you a strong candidate for this
+position?
+Note from ITviec: Chinh NGUYEN TRUNG skipped the cover letter.
+Top Jobs for IT People
+"The key for us, first, has always been hiring very smart people."  Bill Gates
+itviec.com
+08 6681 1397
+itviec@itviec.com
+Chinh NGUYEN TRUNG 
+Mobile: +84 (0) 165 7379 544 
+Email : ntc0402@gmail.com 
+No. 99, Chua Lang str. 
+Hanoi, Vietnam 
+01/2017 – 05/2017 
+(5 months) 
+Techcombank  Vietnam Technological and Commercial Joint- stock Bank (Vietnam) 
+Strategy Analyst – Manager level  Analysing business operations for cross – sale & up-sale in the existing customers and 
+acquire new customers programs based on Mc Kinsey methodology (customer centric strategy 
+, customer journey management, data analytics )   
+05/2016 – 12/2016 
+(8 months) 
+PricewaterhouseCoopers Consulting Ltd. (Vietnam) 
+Associate Senior  – Credit risk modelling advisory  Consolidating and cleansing population data for segmentation and sampling.  Develop PD, EAD, LGD models through IRB approach in Basel II projects for Bank for 
+Investment and Development of Vietnam JSC (BIDV). 
+10/2014 – 12/2015 
+(1 year 3 months) 
+WorldQuant LLC, Headquarters, Connecticut(US)-Software research office, Hanoi(Vietnam)  
+Quantitative trading researcher  Low turnover & high capacity alpha project: study alpha strategies with high performance 
+and low turnover for trading in equity markets (USA, Euro, Tokyo, Singapore) based on 
+different types of financial datasets (price-volume, fundamental, analyst, news, relationship).  Implement alpha algorithms in C++ and integrate into alpha library of WorldQuant LLC. 
+04/2013 – 10/2013 
+(6 months) 
+Thomson Reuters Corporation, Paris (France)  
+Quantitative analyst – Project: Generic pricing by using Partial Differential Equations  Review and implement different PDE techniques  Study accuracy and performance of several numerical methods: θ-Scheme (Explicit, Implicit, 
+Crank-Nicolson), ADE scheme, ADI scheme (with and without of exponential fitted method)  Implement vanilla pricers for Heston stochastic volatility model (in C++)  Integrate these production pricers into Adfin (C++ pricing library of Thomson Reuters Corp.) 
+12/2005 – 08/2010 
+(4 years 9 months) 
+Foreign Trade University, Hanoi (Vietnam) 
+Lecturer & Researcher at Faculty of Basic Sciences 
+Subjects:  Econometrics, Probability and Statistics  
+2012 – 2013 
+Master 2: Risk Engineering: Finance and Insurance 
+University of Paris 1 Sorbonne, France  Market risk (VaR, CVaR, Stress test), credit  risk (credit default risk), regulation of risk 
+management (Basel I, Basel II, Basel III), portfolio management, asset & liability 
+management, derivative products (vanilla options, exotic options, CDS, swap, interest rate 
+derivatives) 
+2011 – 2012   
+Master 2: Mathematics and Mathematical Methods in Economics and Finance, 2nd year 
+University of Paris1 Panthéon-Sorbonne, France  Stochastic calculus, Malliavin calculus, PDEs, calibration, yield curve models, numerical 
+methods (Monte Carlo method, finite difference method, tree method)  Algorithmic trading, arbitrage theory 
+2010 – 2012 
+Master Erasmus Mundus: QEM  Models and Methods of Quantitative Economics, 1st year  
+University of Paris 1 Panthéon-Sorbonne & Bielefeld University, France & Germany  Probability, Optimization, Statistics, Econometrics, Microeconomics, Macroeconomics  Time series analysis (AR, MA, ARMA, ARIMA, ARCH, GARCH) 
+2001 – 2005 
+Bachelor in Mathematics  Certificate of merit for excellent student  
+Hanoi National University of Education, Vietnam  
+Language 
+English (fluency), French (pre-intermediate), Vietnamese (mother tongue) 
+Computer science  
+C++, Python, VBA, SQL, Matlab, R, STATA, EVIEWS, LATEX, Unix/Linux 
+Activities 
+Football, chess, reading 
+PROFESSIONAL EXPERIENCES 
+EDUCATIONS 
+LANGUAGES AND SKILLS 
+ACTIVITIES & DIVERS 

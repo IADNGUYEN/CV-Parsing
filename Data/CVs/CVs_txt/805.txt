@@ -1,0 +1,107 @@
+ 
+1 
+Mai Hieu Huy 
+[Birthday: 13/01/1988] 
+[Born in :Vinh Long province]   
+[Tel: 01687799039] 
+[Email: maihieuhuy88@gmail.com] 
+OBJECTIVE  Get new salary and new challenge.  Improve my skill and learn more new technology  Find opportunity. 
+EXPERIENCES 
+In current job 
+Project name 
+OPUS Container 
+Description  
+A web application: manage shipping, transport Container, warehouse…  
+Many Shipping Company of many country use: Hanjin shipping, Hung-A…  
+Over 3000 UIs.  
+Programing language: Java, HTML, Javascript. 
+Job  
+Contact with partner (Cyberlogitec – Korea company).  
+Make new module.  
+Maintain whole UIs. 
+Experiences  
+Resolve problems, process job as a sub-leader.  
+Communication is good. 
+Project name 
+Blueprint 
+Description  
+A web application: manage task of my company, processing and  
+Programing language: Flex, java. 
+Job  
+Make new module. 
+Experiences  
+More SQL skill.  
+Communication is good. 
+Project name 
+Outside Project 
+Description  
+Sometime I receive the outside job as a freelancer.  
+Programing language: PHP, Javascript. 
+Job  
+Make new module. 
+Experiences  
+More PHP skill 
+2 
+SKILLS  Program with Java about 2 years in real job.  Program with PHP about 6 months (Phalcon framework).  Program with C/C# on .NET framework 1 year in real job.  Use Javascript, HTML, CSS.  Knowledge about  MVC model.  Experience with SQL Server, Oracal, mySQL. 
+SOFT SKILLS  
+Ability to read and write in English.  
+Teamwork is good.  
+Good communication skill.  
+Ability of self- studying/ researching.  
+Good at logical thinking.  
+Be able to work under pressure.  
+Fluency in information technology and working with software tools.  
+Organize myself well. 
+EMPLOYMENT HISTORY 
+[.Net Developer, SONET Software Solutions] 
+(website: www.sonet.com.vn ) 
+3/1/2013 — 2/15/2014 
+[Thu Duc District, HCM city] 
+JOB:  
+Programming web asp.net, coding accounting software for medium and small company.  
+Meeting customer and get requirement.  
+Implement completed software or finished website by ASP.NET MVC.  
+Report to manager. 
+RESULT:  
+Managing SQL database.  
+More experiences in .Net, HTML, Java Script.  
+Complete about 80% project IntBox(web to manage producing).  
+Building accouting software on web platform.  
+Report every day to manager. 
+[DOU Networks] 
+4/25/2014 — Now 
+[Tan Binh District, HCM city] 
+JOB:  
+Make new module  
+Maintain system which is running in real  
+Contact with partner (Korea, American…)  
+Support and training new member 
+3 
+RESULT:  
+Create many module of Container project (shipping on Ocean)  
+Create a new system: TMS, IMC project (shipping on Rail/Truck)  
+Create new module of Blueprint (task management  web application)  
+Work as a sub-leader. 
+EDUCATION 
+[Degree] 
+[School Name] 
+[Major] 
+[Date of Graduation]  
+Diploma  
+Bachelor  
+University of Natural 
+Sciences  
+University of Natural 
+Sciences  
+Information 
+Technology  
+Information 
+Technology  
+11/25/2010  
+3/7/2013 
+HOBBIES  
+Programming as a freelancer.  
+Researching major documents, new technology.  
+Playing badminton, football.  
+Traveling.  
+Listen to music. 

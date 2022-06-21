@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="46" family="Roboto" color="#ffffff"/>
+	<fontspec id="1" size="16" family="Roboto" color="#494949"/>
+	<fontspec id="2" size="27" family="Roboto" color="#479b9d"/>
+	<fontspec id="3" size="16" family="Roboto" color="#333333"/>
+	<fontspec id="4" size="16" family="Roboto" color="#333333"/>
+	<fontspec id="5" size="16" family="Roboto" color="#479b9d"/>
+	<fontspec id="6" size="12" family="Roboto" color="#999999"/>
+<text top="100" left="35" width="338" height="54" font="0">Trieu Trang Vinh</text>
+<text top="617" left="35" width="327" height="19" font="1">Currently,  I  am  in  the  last  year  student  of</text>
+<text top="639" left="35" width="328" height="19" font="1">Computer  Science  major  which  the  research</text>
+<text top="661" left="35" width="303" height="19" font="1">in Computer Vision and Machine Learning.</text>
+<text top="682" left="35" width="328" height="19" font="1">Eager to learn new technologies and improve</text>
+<text top="704" left="35" width="223" height="19" font="1">oneself  to work professionally.</text>
+<text top="810" left="35" width="199" height="19" font="1">Full stack web development</text>
+<text top="855" left="35" width="38" height="19" font="1">Linux</text>
+<text top="900" left="35" width="52" height="19" font="1">English</text>
+<text top="945" left="35" width="76" height="19" font="1">Teamwork</text>
+<text top="990" left="35" width="119" height="19" font="1">Computer Vision</text>
+<text top="1035" left="35" width="128" height="19" font="1">Machine Learning</text>
+<text top="301" left="35" width="246" height="32" font="2">Contact information</text>
+<text top="345" left="35" width="88" height="19" font="3">Date of birth</text>
+<text top="345" left="151" width="96" height="19" font="1">May 11, 1996</text>
+<text top="372" left="35" width="51" height="19" font="3">Gender</text>
+<text top="372" left="151" width="35" height="19" font="1">Male</text>
+<text top="400" left="35" width="46" height="19" font="3">Phone</text>
+<text top="400" left="151" width="122" height="19" font="1">+84 1286080753</text>
+<text top="428" left="35" width="40" height="19" font="3">Email</text>
+<text top="428" left="151" width="193" height="19" font="1">vinh.trieutrang@gmail.com</text>
+<text top="455" left="35" width="59" height="19" font="3">Address</text>
+<text top="455" left="151" width="113" height="19" font="1">HCMC, Vietnam</text>
+<text top="483" left="35" width="58" height="19" font="3">Website</text>
+<text top="483" left="151" width="169" height="19" font="1">https://goo.gl/RZGqYM</text>
+<text top="505" left="151" width="71" height="19" font="1">(Linkedin)</text>
+<text top="573" left="35" width="117" height="32" font="2">Summary</text>
+<text top="766" left="35" width="65" height="32" font="2">Skills</text>
+<text top="301" left="386" width="123" height="32" font="2">Education</text>
+<text top="369" left="386" width="348" height="19" font="4"><b>University of Information Technology VNU-HCM</b></text>
+<text top="391" left="386" width="181" height="19" font="5">Major: Computer Science</text>
+<text top="413" left="386" width="96" height="19" font="1">GPA: 8.14/10</text>
+<text top="435" left="386" width="295" height="19" font="1">Demo applications: https://goo.gl/2Ckrqr</text>
+<text top="456" left="386" width="442" height="19" font="1">Research: Computer Vision in image stitching, image retrieval,</text>
+<text top="478" left="386" width="443" height="19" font="1">image classification, face recognition. Apply machine learning</text>
+<text top="500" left="386" width="382" height="19" font="1">methods: classification, clustering, deep learning, etc.</text>
+<text top="337" left="732" width="134" height="19" font="5">Sep 2014 - Present</text>
+<text top="562" left="386" width="204" height="32" font="2">Work experience</text>
+<text top="631" left="386" width="77" height="19" font="4"><b>Freelancer</b></text>
+<text top="652" left="386" width="145" height="19" font="5">Full-stack Developer</text>
+<text top="674" left="386" width="412" height="19" font="1">  - Node js framework with Express js module to build web</text>
+<text top="696" left="386" width="83" height="19" font="1">application.</text>
+<text top="718" left="386" width="337" height="19" font="1">  - Implementing MySQL, PostgreSQL database.</text>
+<text top="740" left="386" width="256" height="19" font="1">  - RESTful Web API, Git, Linux, Java.</text>
+<text top="762" left="386" width="378" height="19" font="1">  - Design Web page by using HTML, CSS, Susy SASS.</text>
+<text top="784" left="386" width="459" height="19" font="1">  - Using React JS, Angular JS to render, control and interact with</text>
+<text top="806" left="386" width="221" height="19" font="1">the Web page from Client Side.</text>
+<text top="598" left="720" width="146" height="19" font="5">Sep 2015 - Dec 2016</text>
+<text top="869" left="386" width="104" height="19" font="4"><b>VLAB CO.,LTD</b></text>
+<text top="891" left="386" width="232" height="19" font="5">Back-end Developer and DevOps</text>
+<text top="913" left="386" width="444" height="19" font="1">  - Developing APIs services for Urban Planning HCMC (Django</text>
+<text top="935" left="386" width="235" height="19" font="1">Framework) for scalable system.</text>
+<text top="957" left="386" width="416" height="19" font="1">  - Maintaining and troubleshooting Linux Server (for Urban</text>
+<text top="979" left="386" width="124" height="19" font="1">Planning servers)</text>
+<text top="1001" left="386" width="422" height="19" font="1">  - Install packages and configure settings on Linux system:</text>
+<text top="1022" left="386" width="237" height="19" font="1">Iptables, Nginx, Squid, Docker etc</text>
+<text top="1044" left="386" width="429" height="19" font="1">  - Develop and deploy application on Linux server (Cent OS).</text>
+<text top="1066" left="386" width="418" height="19" font="1">  - Handling and implementing data functionality to MySQL,</text>
+<text top="1088" left="386" width="241" height="19" font="1">PostgreSQL (PostGIS) databases.</text>
+<text top="1110" left="386" width="451" height="19" font="1">  - Implementing functionality of image processing on cadastral</text>
+<text top="1132" left="386" width="124" height="19" font="1">map with Python.</text>
+<text top="837" left="720" width="146" height="19" font="5">July 2017 - Feb 2018</text>
+<text top="1239" left="806" width="61" height="15" font="6">© topcv.vn</text>
+</page>
+</pdf2xml>

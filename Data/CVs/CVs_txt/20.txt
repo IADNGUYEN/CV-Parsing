@@ -1,0 +1,72 @@
+NGUY N  VÕ THU  TRANG
+Ễ
+Ỳ
+Phone: 086 927 2603
+Date of birth: 26 / 03 / 1995
+Email: nguyenguyen2635@gmail.com
+Address: 52 Man Thien Street, District 9, Ho Chi Minh City
+SUMMARY                                                                                                                                   
+. 
+A Software Engineer with firm knowledge and capable practice about Machine Learning algorithm and 
+model. I have experienced programming Android assistant application, OCR, OpenCV, Selenium by 
+Python. I known as a team player with a passion to learn and contribute, very eager to explore and learn 
+new technology.
+EDUCATION                                                                                                                                 .
+Posts and Telecommunications Institute of Technology                                 Graduate on May 2018
+Bachelor of Information Technology
+GPA:    3.47 / 4.0 (86.75%)
+Thesis:  9.3 / 10
+TECHNICAL
+SKILLS                                                                                                                   . 
+Programming expertise in C#, Python, HTML5, JQuery, CSS3, Bootstrap and SQL
+Proficiency of ASP.NET MVC, SQL, Python for Machine Learning, 
+Natural Language Processing
+Knowledge of Assembly, C++, JavaScript, Java, KnockoutJS, AngularJS, Machine Learning, 
+Native app (Android), NodeJS, TypeScripts
+Understanding of data structures and algorithms, object oriented programming
+Some applications experience in using: Visual Studio, Eclipse, Android Studio, Atom, 
+Sublime Text, MSSQL server, Source Tree, Git, Beanstalk, Business Rule Composer, Jira
+WORK
+EXPERIENCE                                                                                                                 .  
+Software Enginneer
+May 2017  
+Present
+AsWhite Global VietNam 
+Domain: Health insurance project
+Maintain some MVC .Net webs and WCF services
+Contribute to develop an API 
+Self develop an automation test web tool by Python using Selenium and PhantomJS
+Self develop a tool which can get data from windows app by Python and OCR
+Self develop a console app support generate report data get from database by C#
+Study how to use Business Rule Composer and maintain a console app which run rules
+Analyze and fix bugs, special production issues
+Support deploy all apps manual and automation by CI Jenkins
+Support QCs test apps if it is urgent case
+Work with BA to clear requirement
+Have daily catch up in English with client
+Front-end Developer
+June 2016  December 2016
+Agilsun Co., Ltd
+Program Front-end web by HTML5, CSS3, jQuery, JavaScript, Bootstrap based on 
+file design .psd
+Proficiency of responsive technical
+Have knowledge about UX/UI, SEO
+Android AI Assistant               
+December 2017
+Thesis
+Programmed an android native app AI assistant support user make a call, sent a message, 
+set an alarm, find the way, … by voice  
+Used Java to program android native app, and Python for machine learning API
+Understand what is supervised learning, unsupervised learning, semi-supervised learing,
+or reinforcement learning
+Have knowleage about some popular AI algorithms and AI models, especially 
+K-means clustering algorithm and Conditional Random Field model
+Design data set to support train and test process
+Understand natural language processing (NLP), model of NLP tool
+Apply tokenization, word segmentation, pos-tagging, N-gram model 
+Proficiency of using Python library such as pyvi for vietnamese NLP, numpy, matplotlib,
+scipy, scikit learn
+LANGUAGE
+SKILLS                                                                                                                 .
+English: TOEFC 750
+Vietnamese: Native 

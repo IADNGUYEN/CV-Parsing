@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="BCDEEE+Calibri" color="#000000"/>
+	<fontspec id="1" size="19" family="BCDEEE+Calibri" color="#000000"/>
+	<fontspec id="2" size="18" family="BCDFEE+Calibri" color="#000000"/>
+	<fontspec id="3" size="18" family="BCDEEE+Calibri" color="#000000"/>
+	<fontspec id="4" size="16" family="BCDEEE+Calibri" color="#000000"/>
+	<fontspec id="5" size="21" family="BCDFEE+Calibri" color="#000000"/>
+	<fontspec id="6" size="23" family="BCDFEE+Calibri" color="#000000"/>
+	<fontspec id="7" size="19" family="ArialMT" color="#000000"/>
+	<fontspec id="8" size="19" family="BCDGEE+CourierNewPSMT" color="#000000"/>
+<text top="111" left="337" width="9" height="21" font="0">  </text>
+<text top="112" left="346" width="4" height="19" font="1"> </text>
+<text top="141" left="281" width="189" height="19" font="1">NGUYEN THANH THUC  </text>
+<text top="170" left="281" width="494" height="19" font="1">313/31 Quang Trung street, Go Vap District, Ho Chi Minh City  </text>
+<text top="200" left="281" width="177" height="19" font="1">Phone: 0902706779    </text>
+<text top="200" left="607" width="9" height="19" font="1">  </text>
+<text top="229" left="281" width="303" height="19" font="1">Email: thanhthuc041293@gmail.com  </text>
+<text top="258" left="281" width="213" height="19" font="1">Date of birth: 04/12/1993  </text>
+<text top="284" left="283" width="9" height="19" font="1">  </text>
+<text top="309" left="283" width="4" height="19" font="1"> </text>
+<text top="338" left="108" width="113" height="18" font="2"><b>MY OBJECTIVE </b></text>
+<text top="337" left="221" width="4" height="19" font="1"> </text>
+<text top="363" left="108" width="693" height="18" font="3">Amaris  is  the  excellent  working  environment,  great  opportunity  to  get  ahead  and  develop </text>
+<text top="386" left="108" width="693" height="18" font="3">myself, especial to improve my technical skill and knowledge about mobile programing. This is </text>
+<text top="410" left="108" width="538" height="18" font="3">also friendly working place to improve my communication skill in English. </text>
+<text top="434" left="108" width="4" height="19" font="1"> </text>
+<text top="463" left="108" width="86" height="18" font="2"><b>SUMMARY </b></text>
+<text top="462" left="194" width="4" height="19" font="1"> </text>
+<text top="488" left="108" width="693" height="18" font="3">Almost  1-year  experiment  of  working  from  4/2016  to  current  time.  I  have  strong,  in-deep </text>
+<text top="511" left="109" width="692" height="18" font="3">knowledge  about  develop  iOS  application.  I  have  experienced  and  familiar  with </text>
+<text top="534" left="109" width="137" height="18" font="3">Swift/Objective-C. </text>
+<text top="560" left="108" width="4" height="17" font="4"> </text>
+<text top="557" left="112" width="4" height="19" font="1"> </text>
+<text top="594" left="108" width="253" height="21" font="5"><b>PROFESSIONAL EXPERIENCE  </b></text>
+<text top="594" left="361" width="5" height="21" font="0"> </text>
+<text top="622" left="108" width="693" height="18" font="3">iOS Developer, 04/2016 to present. Working as iOS developer of mobile team at FPT software </text>
+<text top="645" left="109" width="648" height="18" font="3">Ho Chi Minh from 04/2016 up to now, with three project, all this projects were succeed. </text>
+<text top="679" left="107" width="109" height="24" font="6"><b>May 2016  </b></text>
+<text top="709" left="108" width="693" height="18" font="3">FHoken project: This is sale product, i join to this project to learn about business, learn how to </text>
+<text top="733" left="109" width="692" height="18" font="3">design layout for iOS product, learn how to implement layout flow using Interface Builder, Auto </text>
+<text top="756" left="109" width="126" height="18" font="3">layout and UIKit. </text>
+<text top="780" left="134" width="12" height="22" font="7">• </text>
+<text top="785" left="161" width="118" height="18" font="2"><b>Responsibility:  </b></text>
+<text top="808" left="188" width="12" height="20" font="8">o</text>
+<text top="811" left="200" width="5" height="18" font="7"> </text>
+<text top="811" left="215" width="296" height="18" font="3">Joining to learn about product business. </text>
+<text top="842" left="188" width="12" height="20" font="8">o</text>
+<text top="844" left="200" width="5" height="18" font="7"> </text>
+<text top="845" left="215" width="262" height="18" font="3">Implement layout flow for product. </text>
+<text top="875" left="188" width="12" height="20" font="8">o</text>
+<text top="878" left="200" width="5" height="18" font="7"> </text>
+<text top="878" left="215" width="280" height="18" font="3">Implement some small business logic. </text>
+<text top="913" left="107" width="188" height="24" font="6"><b>June-August 2016  </b></text>
+<text top="943" left="108" width="693" height="18" font="3">NFCLock project about security by software method for stored data into SD card, this card was </text>
+<text top="967" left="109" width="692" height="18" font="3">owned by iOS device. In this project, we implement three methods for data security: by GPS, </text>
+<text top="990" left="109" width="198" height="18" font="3">by Time and by password.  </text>
+<text top="1014" left="134" width="12" height="22" font="7">• </text>
+<text top="1018" left="161" width="118" height="18" font="2"><b>Responsibility:  </b></text>
+<text top="1042" left="188" width="12" height="20" font="8">o</text>
+<text top="1044" left="200" width="5" height="18" font="7"> </text>
+<text top="1045" left="215" width="172" height="18" font="3">Writing SRS document. </text>
+<text top="112" left="118" width="4" height="18" font="3"> </text>
+<text top="135" left="118" width="4" height="18" font="3"> </text>
+<text top="113" left="145" width="4" height="18" font="3"> </text>
+<text top="112" left="150" width="5" height="18" font="7"> </text>
+<text top="289" left="244" width="4" height="18" font="3"> </text>
+<text top="288" left="249" width="5" height="18" font="7"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="19" family="BCDHEE+CourierNewPSMT" color="#000000"/>
+	<fontspec id="10" size="19" family="BCDFEE+Calibri" color="#000000"/>
+<text top="109" left="188" width="12" height="20" font="8">o</text>
+<text top="111" left="200" width="5" height="18" font="7"> </text>
+<text top="111" left="215" width="288" height="18" font="3">Joining analyze customer requirement. </text>
+<text top="135" left="188" width="12" height="20" font="8">o</text>
+<text top="138" left="200" width="5" height="18" font="7"> </text>
+<text top="138" left="215" width="586" height="18" font="3">Joining  implement  layout  flow  for  home  screen  (with  more  cool  animation), </text>
+<text top="162" left="215" width="586" height="18" font="3">setting screen, change mode screen, and popup set mode screen. All most layout </text>
+<text top="185" left="215" width="517" height="18" font="3">in this project be done by me, I really make a great UI for this product. </text>
+<text top="209" left="188" width="12" height="20" font="8">o</text>
+<text top="212" left="200" width="5" height="18" font="7"> </text>
+<text top="212" left="215" width="586" height="18" font="3">Using  nal  library  (this  is  private  library  from  Toshiba  Inc.)  to  communicate </text>
+<text top="236" left="215" width="586" height="18" font="3">between iPhone Bluetooth and Card Reader (SD Card use to read/write data to </text>
+<text top="259" left="215" width="71" height="18" font="3">SD Card). </text>
+<text top="283" left="188" width="12" height="20" font="8">o</text>
+<text top="286" left="200" width="5" height="18" font="7"> </text>
+<text top="286" left="215" width="446" height="18" font="3">Implement 3 security method according with business logic:  </text>
+<text top="310" left="243" width="12" height="20" font="9">▪</text>
+<text top="312" left="255" width="5" height="18" font="7"> </text>
+<text top="313" left="270" width="531" height="18" font="3">Using Apple map to view place, choose GPS for GPS mode setting, set </text>
+<text top="336" left="270" width="142" height="18" font="3">rule for GPS mode. </text>
+<text top="360" left="243" width="12" height="20" font="9">▪</text>
+<text top="362" left="255" width="5" height="18" font="7"> </text>
+<text top="363" left="270" width="340" height="18" font="3">Choosing time, set rule for time mode setting. </text>
+<text top="387" left="243" width="12" height="20" font="9">▪</text>
+<text top="389" left="255" width="5" height="18" font="7"> </text>
+<text top="389" left="270" width="370" height="18" font="3">Set password, set rule for password mode setting. </text>
+<text top="413" left="188" width="12" height="20" font="8">o</text>
+<text top="416" left="200" width="5" height="18" font="7"> </text>
+<text top="416" left="215" width="240" height="18" font="3">Design and write test (unit test). </text>
+<text top="440" left="188" width="12" height="20" font="8">o</text>
+<text top="442" left="200" width="5" height="18" font="7"> </text>
+<text top="443" left="215" width="136" height="18" font="3">Maintain product. </text>
+<text top="466" left="134" width="12" height="22" font="7">• </text>
+<text top="470" left="161" width="95" height="18" font="2"><b>Technology: </b></text>
+<text top="494" left="188" width="12" height="20" font="8">o</text>
+<text top="496" left="200" width="5" height="18" font="7"> </text>
+<text top="497" left="215" width="121" height="18" font="3">Core animation. </text>
+<text top="521" left="188" width="12" height="20" font="8">o</text>
+<text top="523" left="200" width="5" height="18" font="7"> </text>
+<text top="523" left="215" width="120" height="18" font="3">Core Bluetooth. </text>
+<text top="547" left="188" width="12" height="20" font="8">o</text>
+<text top="550" left="200" width="5" height="18" font="7"> </text>
+<text top="550" left="215" width="88" height="18" font="3">Persistence </text>
+<text top="574" left="188" width="12" height="20" font="8">o</text>
+<text top="576" left="200" width="5" height="18" font="7"> </text>
+<text top="576" left="215" width="316" height="18" font="3">Multithreading (GCD/NSOperationQueue). </text>
+<text top="600" left="188" width="12" height="20" font="8">o</text>
+<text top="603" left="200" width="5" height="18" font="7"> </text>
+<text top="603" left="215" width="132" height="18" font="3">Push notification. </text>
+<text top="627" left="188" width="12" height="20" font="8">o</text>
+<text top="629" left="200" width="5" height="18" font="7"> </text>
+<text top="630" left="215" width="72" height="18" font="3">Unit test. </text>
+<text top="657" left="108" width="4" height="19" font="1"> </text>
+<text top="686" left="107" width="287" height="24" font="6"><b>September - November 2016</b></text>
+<text top="690" left="394" width="4" height="19" font="10"><b> </b></text>
+<text top="686" left="399" width="5" height="24" font="6"><b> </b></text>
+<text top="716" left="108" width="693" height="18" font="3">PartyPrint project, this project to serve user can take photo, choose, valid, review and upload </text>
+<text top="740" left="109" width="513" height="18" font="3">image file to server (this image use to print for user) via LAN network. </text>
+<text top="764" left="134" width="12" height="22" font="7">• </text>
+<text top="768" left="161" width="114" height="18" font="2"><b>Responsibility: </b></text>
+<text top="792" left="162" width="12" height="20" font="8">o</text>
+<text top="794" left="173" width="5" height="18" font="7"> </text>
+<text top="795" left="189" width="209" height="18" font="3">Writing SRS, SDS document. </text>
+<text top="818" left="162" width="12" height="20" font="8">o</text>
+<text top="821" left="173" width="5" height="18" font="7"> </text>
+<text top="821" left="189" width="288" height="18" font="3">Joining analyze customer requirement. </text>
+<text top="845" left="162" width="12" height="20" font="8">o</text>
+<text top="847" left="173" width="5" height="18" font="7"> </text>
+<text top="848" left="189" width="613" height="18" font="3">Joining implement layout flow for: home screen (this screen can be change depend </text>
+<text top="871" left="189" width="613" height="18" font="3">on  status  of  network),  choose  image  screen,  preview  image  screen,  sent  image </text>
+<text top="895" left="189" width="337" height="18" font="3">screen. Some pretty animation in this screens </text>
+<text top="919" left="162" width="12" height="20" font="8">o</text>
+<text top="921" left="173" width="5" height="18" font="7"> </text>
+<text top="922" left="189" width="530" height="18" font="3">Using Alamofire to make convenience to transfer image data by stream. </text>
+<text top="946" left="162" width="12" height="20" font="8">o</text>
+<text top="948" left="173" width="5" height="18" font="7"> </text>
+<text top="948" left="189" width="613" height="18" font="3">Working  with  image  handling:  cached  image,  compress  image,  change  image </text>
+<text top="972" left="189" width="81" height="18" font="3">dimension </text>
+<text top="996" left="162" width="12" height="20" font="8">o</text>
+<text top="998" left="173" width="5" height="18" font="7"> </text>
+<text top="999" left="189" width="413" height="18" font="3">Working with user permission when use camera, photo. </text>
+<text top="1022" left="162" width="12" height="20" font="8">o</text>
+<text top="1025" left="173" width="5" height="18" font="7"> </text>
+<text top="1025" left="189" width="613" height="18" font="3">Load API setting from server and handle use case depend on business logic, depend </text>
+<text top="1049" left="189" width="194" height="18" font="3">on status of app lifecycle.  </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="18" family="SymbolMT" color="#000000"/>
+	<fontspec id="12" size="18" family="Arial" color="#000000"/>
+	<fontspec id="13" size="18" family="BCDIEE+Calibri" color="#000000"/>
+	<fontspec id="14" size="18" family="ArialMT" color="#000000"/>
+	<fontspec id="15" size="18" family="BCDEEE+Calibri" color="#0462c1"/>
+<text top="109" left="162" width="12" height="20" font="8">o</text>
+<text top="111" left="173" width="5" height="18" font="7"> </text>
+<text top="111" left="189" width="612" height="18" font="3">Working with Exif image: valid Exif image according time to determine whether if </text>
+<text top="135" left="189" width="613" height="18" font="3">this photo can be allowed to select or send, keep this Exif image on server same with </text>
+<text top="159" left="189" width="142" height="18" font="3">original Exif image. </text>
+<text top="183" left="162" width="12" height="20" font="8">o</text>
+<text top="185" left="173" width="5" height="18" font="7"> </text>
+<text top="185" left="189" width="149" height="18" font="3">Testing for product. </text>
+<text top="209" left="162" width="12" height="20" font="8">o</text>
+<text top="212" left="173" width="5" height="18" font="7"> </text>
+<text top="212" left="189" width="136" height="18" font="3">Maintain product. </text>
+<text top="236" left="134" width="12" height="22" font="7">• </text>
+<text top="240" left="161" width="99" height="18" font="2"><b>Technology:  </b></text>
+<text top="264" left="162" width="12" height="20" font="8">o</text>
+<text top="266" left="173" width="5" height="18" font="7"> </text>
+<text top="266" left="189" width="117" height="18" font="3">Core animation </text>
+<text top="290" left="162" width="12" height="20" font="8">o</text>
+<text top="292" left="173" width="5" height="18" font="7"> </text>
+<text top="293" left="189" width="87" height="18" font="3">Core image </text>
+<text top="317" left="162" width="12" height="20" font="8">o</text>
+<text top="319" left="173" width="5" height="18" font="7"> </text>
+<text top="319" left="189" width="186" height="18" font="3">Apple photos framework </text>
+<text top="343" left="162" width="12" height="20" font="8">o</text>
+<text top="346" left="173" width="5" height="18" font="7"> </text>
+<text top="346" left="189" width="88" height="18" font="3">Persistence </text>
+<text top="370" left="162" width="12" height="20" font="8">o</text>
+<text top="372" left="173" width="5" height="18" font="7"> </text>
+<text top="372" left="189" width="34" height="18" font="3">ARC </text>
+<text top="396" left="162" width="12" height="20" font="8">o</text>
+<text top="399" left="173" width="5" height="18" font="7"> </text>
+<text top="399" left="189" width="269" height="18" font="3">REST API (working with XML format) </text>
+<text top="423" left="162" width="12" height="20" font="8">o</text>
+<text top="425" left="173" width="5" height="18" font="7"> </text>
+<text top="426" left="189" width="80" height="18" font="3">Alamofire  </text>
+<text top="450" left="162" width="12" height="20" font="8">o</text>
+<text top="452" left="173" width="5" height="18" font="7"> </text>
+<text top="452" left="189" width="275" height="18" font="3">NSURLSession and NSURLConnection </text>
+<text top="476" left="162" width="12" height="20" font="8">o</text>
+<text top="478" left="173" width="5" height="18" font="7"> </text>
+<text top="479" left="189" width="311" height="18" font="3">Multithreading (GCD/NSOperationQueue) </text>
+<text top="503" left="162" width="12" height="20" font="8">o</text>
+<text top="505" left="173" width="5" height="18" font="7"> </text>
+<text top="505" left="189" width="128" height="18" font="3">Push notification </text>
+<text top="529" left="162" width="12" height="20" font="8">o</text>
+<text top="532" left="173" width="5" height="18" font="7"> </text>
+<text top="532" left="189" width="67" height="18" font="3">Unit test </text>
+<text top="559" left="189" width="4" height="19" font="1"> </text>
+<text top="591" left="108" width="138" height="18" font="2"><b>TECHNICAL SKILLS </b></text>
+<text top="590" left="246" width="4" height="19" font="1"> </text>
+<text top="612" left="135" width="8" height="22" font="11">•</text>
+<text top="617" left="143" width="5" height="17" font="12"><b> </b></text>
+<text top="616" left="162" width="190" height="18" font="2"><b>Programming Languages:</b></text>
+<text top="616" left="352" width="122" height="18" font="3"> Swift, Objective</text>
+<text top="616" left="475" width="9" height="18" font="13">–</text>
+<text top="616" left="484" width="317" height="18" font="3">C, C/C++, Java, C#, HTML/CSS, Javascripts, </text>
+<text top="640" left="162" width="324" height="18" font="3">SQL. (strong with Swift/Objective-C, C/C++)  </text>
+<text top="659" left="135" width="8" height="22" font="11">•</text>
+<text top="665" left="143" width="5" height="17" font="12"><b> </b></text>
+<text top="664" left="162" width="146" height="18" font="2"><b>Operation Systems:</b></text>
+<text top="664" left="309" width="208" height="18" font="3"> macOS, Windows, Ubuntu.  </text>
+<text top="684" left="135" width="8" height="22" font="11">•</text>
+<text top="689" left="143" width="5" height="17" font="12"><b> </b></text>
+<text top="688" left="162" width="150" height="18" font="2"><b>Development Tools:</b></text>
+<text top="688" left="312" width="223" height="18" font="3"> Xcode, Eclipse, Visual Studio.  </text>
+<text top="708" left="135" width="8" height="22" font="11">•</text>
+<text top="713" left="143" width="5" height="17" font="12"><b> </b></text>
+<text top="713" left="162" width="122" height="18" font="2"><b>Version Control:</b></text>
+<text top="713" left="284" width="131" height="18" font="3"> GIT, Subversion.  </text>
+<text top="736" left="108" width="8" height="18" font="3">  </text>
+<text top="775" left="108" width="93" height="18" font="2"><b>SOFT SKILLS </b></text>
+<text top="774" left="201" width="4" height="19" font="1"> </text>
+<text top="796" left="135" width="8" height="22" font="11">•</text>
+<text top="801" left="143" width="5" height="17" font="14"> </text>
+<text top="800" left="162" width="267" height="18" font="3">Good communication skill in English </text>
+<text top="823" left="162" width="4" height="18" font="3"> </text>
+<text top="851" left="108" width="94" height="18" font="2"><b>EDUCATION </b></text>
+<text top="850" left="202" width="4" height="19" font="1"> </text>
+<text top="872" left="135" width="8" height="22" font="11">•</text>
+<text top="877" left="143" width="5" height="17" font="14"> </text>
+<text top="876" left="162" width="384" height="18" font="3">2011-2016: Ho Chi Minh University of Technology.    </text>
+<text top="896" left="135" width="8" height="22" font="11">•</text>
+<text top="902" left="143" width="5" height="17" font="14"> </text>
+<text top="901" left="162" width="199" height="18" font="3">Major: Computer Science.  </text>
+<text top="925" left="162" width="4" height="18" font="3"> </text>
+<text top="958" left="108" width="97" height="18" font="2"><b>CERTIFICATE </b></text>
+<text top="957" left="205" width="4" height="19" font="1"> </text>
+<text top="979" left="135" width="8" height="22" font="11">•</text>
+<text top="984" left="143" width="5" height="17" font="14"> </text>
+<text top="983" left="162" width="79" height="18" font="3">TOEIC 550 </text>
+<text top="1007" left="108" width="4" height="18" font="3"> </text>
+<text top="1031" left="108" width="89" height="21" font="5"><b>My github</b></text>
+<text top="1034" left="197" width="13" height="18" font="2"><b>: <a href="https://github.com/thanhthucbkinfo?tab=repositories"> </a></b></text>
+<text top="1034" left="210" width="397" height="18" font="15"><a href="https://github.com/thanhthucbkinfo?tab=repositories">https://github.com/thanhthucbkinfo?tab=repositories</a></text>
+<text top="1034" left="608" width="4" height="18" font="3"><a href="https://github.com/thanhthucbkinfo?tab=repositories"> </a></text>
+</page>
+</pdf2xml>

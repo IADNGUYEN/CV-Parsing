@@ -1,0 +1,84 @@
+Võ Thanh Thiên
+SOFTWARE ENGINEER
+Soccer
+Game
+For a year as a programmer at FPT Software
+HCM, we have learned a lot in problem solving
+skills and teamwork skills. With the desire to
+create products of great value, I hope with the
+company achieve the goals.I will contribute to
+development of  Company.
+Databases: SQL Server , Oracle, Postgres
+Languages: C#, WPF, WCF, MVC, VB, JavaScript
+Back-end Frameworks: Entites Framework
+Front-end Frameworks:HTML, CSS, Javascript,
+Bootstrap, Jquery
+Support Tools : Jira, SVN, Git
+Contact information
+Date of birth
+July 06, 1994
+Gender
+Male
+Phone
+0368104780
+Email
+mr.vothanhthien@gmail.com
+Address
+HoChiMinh, Vietnam
+Website
+https://www.facebook.co
+m/VoThThien
+Objective
+Technical Skills
+Certifications
+English Certificate B  issued by HUTECH
+University
+2017
+Interests
+Education
+Ho Chi Minh City University of Technology (HUTECH)
+Major: Information System
+GPA: 2.55/4
+June 2012  May 2016
+Work experience
+Wisepass company
+.NET Developer
+Manager Web
+Project Description
+Management major of company 
+Responsibilities:
+Get requirements
+Coding 
+Technologies and Tools Used: 
+MVC, C#, SQL Server, VSTS
+December 2017  Present
+FPT Software HCM
+.NET Developer
+Purpose Project (5 month)
+Project Description
+Application manage and celling gas, electric for Purpose         
+company
+Responsibilities:
+Study requirements  
+Coding and Unit testing
+Technologies and Tools Used: 
+VB, Oracle, SVN
+Daily Report System Project (10 month) 
+Project Description 
+Application manage, statistical, report for deduct                     
+information product of Cannon company
+Responsibilities:
+Study requirements
+Detail Design   
+Coding and Unit testing
+Test  
+Technologies and Tools Used: 
+Wpf, Wcf, Oracle, Postgres, Git, Jira
+June 2016  November 2017
+January 2016   May 2016
+Center for Interdisciplinary Research in Technology(CIRTECH)
+Intership
+Build tool support project
+Technologies and Tools Used:
+Html, Css, Jquery, bootstrap , MVC, Git
+© topcv.vn

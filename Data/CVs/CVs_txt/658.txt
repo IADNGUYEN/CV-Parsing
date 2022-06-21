@@ -1,0 +1,127 @@
+Luong Quoc Phong’s CV  Confidential 
+1 
+LUONG QUOC PHONG 
+CONTACT DETAILS 
+Address: 4/3 Ta Quang Buu St, Ward 1, District 8, Ho Chi Minh City, Vietnam 
+Mobile: (+84) 93 797 8133 
+E-mail: phongluong.sg@gmail.com 
+EDUCATIONAL BACKGROUND 
+Bachelor of Engineering Degree in Information System, Saigon University, 2014 
+Ho Chi Minh City, Vietnam 
+PROFESSIONAL SUMMARY 
+2 years experience in Android development. 
+Good knowledge and skills in web development: Spring, Struts, REST, EJB, Hibernate, 
+HTML/CSS, JavaScript, Google Cloud Computing. 
+Have knowledge using database such as: SQLSever, MySQL, Oracle, SQLite, Datastore. 
+SKILLS 
+Languages:  
+Android 
+J2EE 
+HTM/CSS, JavaScript, MySQL 
+Frameworks and Libs: 
+Smack API, ButterKnife, Volley, Dagger, Retrofit, Picasso, Gson, EventBus, RxJava 
+Omniture, Heartbeat, comScore. 
+EJB, Spring, Struts, RESTful Web Service, AJAX 
+Operating Systems:  
+Mac OS X 
+Windows XP/7/8/8.1 
+Ubuntu 
+Development, Design Tools: 
+Android Studio 
+Eclipse 
+Google App Engine 
+SVN, Git 
+Jira, Jenkins, Docker 
+Photoshop 
+Databases:  
+SQLite, MS SQL Server, MySQL, Oracle, Datastore 
+Other:  
+OOP, AOP, Design Patterns 
+Luong Quoc Phong’s CV  Confidential 
+2 
+WORKING EXPERIENCE 
+2014/07 – Current: FPT Software HCMC 
+2013/09 – 2014/07: Gameloft 
+PROFESSIONAL EXPERIENCE 
+2015/8 – Current: Android Developer 
+Project: Next Generation TV 
+Project Description: 
+An Android application for browsing, purchasing and watching movies and TV show 
+online. 
+Domain: Entertainment 
+Team Size: 10 
+Technologies Used: Android SDK, JSON, Retrofit, Omniture, Conviva, Nielson, comScore 
+Analytics, NexPlayer, Docker, Jenkins. 
+Responsibilities:  
+Implement Omniture, Heartbeat SDK functionalities. 
+2015/4 – 2015/07: Android Developer 
+Project: MDC Messenger SDK 
+Project Description: 
+An XMPP SDK supports to create a messenger application as well as In-App Support for 
+another project. It simplifies process of integrating XMPP function into application, 
+supports sending text, file, group chat and voice call. 
+Domain: Communication 
+Team Size: 3 
+Technologies Used: Android SDK, JSON, XML, Smack, OpenFire. 
+Responsibilities: 
+Develop core functions. 
+Implement interaction features with the server. 
+Test and fix bugs. 
+Modify build definition for various build definition (development/test build definition). 
+2015/1 – 2015/03: Android Developer 
+Project: NGTV  Kids Video Player 
+Project Description: 
+A video player application for kids with unique UI and UX, used for integrating into another 
+app. 
+Domain: Entertainment 
+Team size: 2 
+Luong Quoc Phong’s CV  Confidential 
+3 
+Technologies Used: Android SDK, Sprite Sheet, XML, Custom UI, Animation, 
+DiskLruCache, BitmapCache. 
+Responsibilities:  
+Implement UI functions.  
+Modify build definition for various build definition (development/test build definition). 
+2014/8 – 2014/12: Android Developer 
+Project: Customer Assets Management System 
+Project Description: 
+Build an assets management system using J2EE and Android. This application is used for 
+managing assets of customer, make it easier for user to manage and track. This system 
+can work as a web-based application as well as an Android application.  
+Domain: Management 
+Team Size: 3 
+Technologies Used: Android SDK, JSON, Volley Library, Pull to refresh Library, REST, 
+LDAP. 
+Responsibilities:   
+Develop UI functions. 
+Implement integration features with Exchange ActiveSync Server.  
+Participate in testing and bug fixing.  
+Modify build definition for various build definition (development/test build definition). 
+2014/07 – 2014/07: Android Developer 
+Project: Karaoke Lookup 
+Project Description: 
+Build an application to lookup song’s karaoke code by enter song’s name, author, singer 
+or lyrics. The application can work with Arirang, California or MusicCore karaoke system. 
+Application supports voice searching for English songs. 
+Domain: Entertainment 
+Technologies Used: Android SDK, SQLite, Pull to refresh Library, Volley Library, Android 
+Studio. 
+Responsibilities:  
+Develop UI functions. 
+Implement voice search functions. 
+Participate in testing and bug fixing. 
+Luong Quoc Phong’s CV  Confidential 
+4 
+2013/01 – 2013/08: Android Developer 
+Project: Advanced Hotspot Project 
+Project Description: 
+Build a hotspot application with advanced functions to improve Android hotspot’s security 
+and functionalities. It allows user to control client’s access, configure DHCP Server, URL 
+filter and data plan. This app also protects hotspot’s network from DoS Attack. 
+Domain: Communication 
+Team Size: 2 
+Technologies Used: Android SDK, Linux, SQLite, Eclipse. 
+Responsibilities:  
+Develop core functions. 
+Implement Linux’s applets on Android.  
+Test and fix bugs.  

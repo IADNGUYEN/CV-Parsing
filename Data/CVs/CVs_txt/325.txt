@@ -1,0 +1,155 @@
+Applicant for:
+Senior Data Scientist (Machine Learning)
+TMA Solutions
+29 December 2018
+Nguyen Ba Dinh
+dinhnb1412@gmail.com
+Main interests: Python, MySQL, Database, SQL, Oracle
+What skills, work projects or achievements make you a strong candidate for this
+position?
+Note from ITviec: Nguyen Ba Dinh skipped the cover letter.
+Top Jobs for IT People
+"Recruiting is the most important job you do."  Steve Jobs
+itviec.com
+08 6681 1397
+itviec@itviec.com
+NGUYEN BA DINH 
+Software Engineering 
+Applying position : Database, Data Analyst 
+Salary : 1300 USD 
+Full name 
+Nguyen Ba Dinh  
+Date of birth 
+11/14/1990 
+Sex                                Male 
+Working experience 
+6 Years 
+Skype : phoenix.firebird.1412 
+2008 – 2012: FPT University, HCM Campus 
+2005 – 2008: Le Quy Don gifted high School, Vung Tau City, Ba Ria-Vung Tau Province 
+2001 – 2005: Nguyen An Ninh school, Vung Tau City, Ba Ria-Vung Tau Province 
+1996 – 2001: Nguyen Thai Hoc school, Vung Tau City, Ba Ria-Vung Tau Province 
+October 2018 to now: Working at VietNam International Bank (VIB) 
+Position: Data Analyst 
+Tools: Database : Oracle,  
+Application Type: Web application, Jasper Report 
+Job description:  
+Develop and integrating report  
+Business analysis  
+Database structure  
+ETL data warehouse 
+PERSONAL INFORMATION 
+179/8/9 KP2, District 12, Ho Chi 
+Minh City 
+0938301100 
+dinhnb1412@gmail.com 
+EDUCATION 
+WORK EXPERIENCES  
+Manage  
+Project name: ESI report , SOA ACB, Demo Oracle BI Cloud for Toyota Financial Services, VP Bank 
+24Adhoc 
+October 2016 to September 2018: Working at ESI company 
+Position: Developer, Analyst 
+Tools: Database : Oracle, MySQL 
+Application Type: Web application, IBM Integration Bus 
+Job description:  
+Develop and integrating report  
+Business analysis  
+Database structure  
+Write WSDL, Swagger for REST API using IBM Integration Bus  
+Take part in  IBM Integration Bus V10 Application Development class, Oracle BI Cloud class  
+Create Demo OLAP for ESI report  
+Project name: ESI report , SOA ACB, Demo Oracle BI Cloud for Toyota Financial Services, VP Bank 
+24Adhoc 
+June 2015 to October 2016: Working at JUST-IN-TIME SOLUTIONS company 
+Position: Developer 
+Tools: Database : Oracle, MySQL 
+Language: Java 1.7 
+Application Type: Web application 
+Frameworks: EJB 3.1, GWT, GXT 
+Tool/IDEs: Type: Eclipse, Jasper Report, Toad, MySQL, SVN 
+Web Service: JBoss 
+Job description:  
+Convert database system from Oracle to MySQL 
+Develop database system for report bank system 
+Create report with iReport (Jasper Report) 
+Develop and integrating 
+Research and develop Oracle Service Bus 
+Research Data mining 
+Project name: BI-Core report implement 
+October 2013 to April 2015: Working at Financial Software Solution company 
+Position: Developer 
+Job description:  
+Prepare the necessary tools  for  programming 
+Develop and integrating 
+Review and test code 
+Deploy tools install for system 
+Support issues relating to programming 
+Implementation modify system follow  requirements analysis document 
+Technical support after go-live system 
+Tools: Database: Oracle 11GR2 
+Langage: Oracle PL/SQL, VB.net, Java, Crystal report 
+Project name: Provide and implement Core securities software FLEX 
+September 2012 to December 2012 : Capstone Project (FPT University) 
+Position: C# developer 
+Job description: Managing process, design database, prepare documents, support technique, Coding, 
+creating test cases, testing. 
+Tools: Visual Studio 2010, Microsoft SQL 2008, TortoiseSVN, DevExpress 10.2, StartUML, SmartDraw 
+2012 
+Project name: Petroleum Chain Store Management 
+The benefits of Petroleum Chain Store Management system:  
+Minimize the effort for management. 
+Support daily, monthly, yearly information statistic. 
+Control daily changes of information. 
+Soft information can stay very long time. 
+Support cooperated companies view debt and pay in your web. 
+Project size: 4 people 
+GPA: 7.9 
+XML Project 
+Position: Java developer with XML 
+Job description: Managing process, design database, prepare documents, Coding. 
+Tools: NetBean IDE 6.9.1, Microsoft SQL 2008, TortoiseSVN, StartUML 
+Project name: Coffee Shop 
+The benefits of Coffee Shop project : 
+Support view all detail food. 
+Create order and send chef or manager 
+View all money statistic 
+Project size: 2 people 
+August 2011 – May 2012: FPT Software – FDS( F-Town Building, Lot T2, D1 Street, Saigon Hi-Tech Park, Tan 
+Phu Ward, District 9, Ho Chi Minh City, Vietnam ) 
+Position: C# developer 
+Job description: Analyze product requirement & deploy software to customer. 
+Project name: Ajinomoto Sales Manager 
+Project size: 8->10 people 
+Technical Skills: 
+Language:   
+Good at Java, Java script, HTML 
+Crystal Reports 
+Database: 
+Good at Oracle 
+Familiar SQL server, MySQL 
+OS: 
+Good at Windows 
+Others:  
+Language: 
+English: Good at communication and reading.  
+Japanese: Beginner 
+Work in group skill 
+Presentation skill 
+Leadership skill 
+Business Communication skill 
+To gain employment or experiences with a company that offers me positive atmosphere to learn the way of 
+running project, new technologies and how to communicate well with other people. I will try my best at 
+working in the company to achieve my long term that is project manager.   
+Always interested in new technologies. 
+Try to learn as much as possible to complete myself and contribute to company. 
+2005  2008: Team member of Volunteer of Le Quy Don high school. Our work is helping the people in 
+poverty area to go to the school and training more and more people to be active and helpful in social 
+activities. 
+2008 – Present: Sometimes doing disability charity to support disable person. 
+Sport: Football, Basketball 
+Music: US-UK R&B  
+SKILLS 
+CAREER OBJECTIVE 
+SOCIAL ACTIVITIES 
+HOBBIES 

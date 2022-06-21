@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="29" family="DejaVuSans" color="#2a7bb8"/>
+	<fontspec id="1" size="16" family="DejaVuSans" color="#58595b"/>
+	<fontspec id="2" size="12" family="DejaVuSans" color="#ffffff"/>
+	<fontspec id="3" size="14" family="DejaVuSans" color="#58595b"/>
+	<fontspec id="4" size="14" family="DejaVuSans" color="#58595b"/>
+	<fontspec id="5" size="20" family="DejaVuSans" color="#2a7bb8"/>
+<text top="82" left="176" width="281" height="34" font="0"><b>VŨ THỊ KIM HIỀN</b></text>
+<text top="136" left="176" width="135" height="19" font="1">Software Tester</text>
+<text top="208" left="195" width="86" height="14" font="2"> 0989564742</text>
+<text top="208" left="345" width="159" height="14" font="2"> kimhien2203@gmail.com</text>
+<text top="195" left="559" width="234" height="14" font="2">175 Ky Dong Apartment, Truong Dinh</text>
+<text top="210" left="559" width="257" height="14" font="2">Street, Ward 9, District 3, HCMC, District</text>
+<text top="224" left="559" width="148" height="14" font="2">3, Ho Chi Minh, Vietnam</text>
+<text top="306" left="29" width="54" height="17" font="3">Gender</text>
+<text top="308" left="179" width="60" height="17" font="3">: Female</text>
+<text top="332" left="29" width="59" height="17" font="3">Birthday</text>
+<text top="334" left="179" width="92" height="17" font="3">: 20/03/1993</text>
+<text top="358" left="29" width="98" height="17" font="3">Marital status</text>
+<text top="360" left="179" width="51" height="17" font="3">: Single</text>
+<text top="384" left="29" width="77" height="17" font="3">Nationality</text>
+<text top="386" left="179" width="96" height="17" font="3">: Vietnamese</text>
+<text top="410" left="29" width="57" height="17" font="3">Country</text>
+<text top="412" left="179" width="70" height="17" font="3">: Vietnam</text>
+<text top="436" left="29" width="59" height="17" font="3">Address</text>
+<text top="438" left="179" width="611" height="17" font="3">: 175 Ky Dong Apartment, Truong Dinh Street, Ward 9, District 3, HCMC, District 3, Ho</text>
+<text top="458" left="179" width="126" height="17" font="3">Chi Minh, Vietnam</text>
+<text top="560" left="29" width="38" height="17" font="3">Level</text>
+<text top="562" left="179" width="215" height="17" font="3">: Experienced (Non - Manager)</text>
+<text top="586" left="29" width="43" height="17" font="3">Salary</text>
+<text top="588" left="179" width="88" height="17" font="3">: Negotiable</text>
+<text top="612" left="29" width="60" height="17" font="3">Job type</text>
+<text top="614" left="179" width="68" height="17" font="3">: Full time</text>
+<text top="638" left="29" width="58" height="17" font="3">Industry</text>
+<text top="640" left="179" width="258" height="17" font="3">: IT - Software, Telecommunications</text>
+<text top="664" left="29" width="62" height="17" font="3">Location</text>
+<text top="666" left="179" width="193" height="17" font="3">: Ho Chi Minh , International</text>
+<text top="755" left="29" width="252" height="17" font="3">Tester (Major: Information System)</text>
+<text top="897" left="29" width="432" height="17" font="4"><b>8/2016 - Now : Software Tester - Easy IT Solutions</b></text>
+<text top="923" left="29" width="207" height="17" font="3">EZITs is a product company. </text>
+<text top="943" left="29" width="827" height="17" font="3">I mainly test for EZConnect software. And I used to test data for some applications of my company as EZPaysuite,</text>
+<text top="964" left="29" width="43" height="17" font="3">Saas. </text>
+<text top="985" left="29" width="789" height="17" font="3">EZConnect is a C# .NET application (Windows form). It is used to map data from a type to another type (Data</text>
+<text top="1006" left="29" width="832" height="17" font="3">types as Database, EDI, EDIFact, Flat File, XML). It supports several functions as AS2, FTP/ SFTP, PGP, Web Services,..</text>
+<text top="1026" left="29" width="328" height="17" font="3">And it supports for SQL Server, Oracle, ODBC.</text>
+<text top="1075" left="29" width="263" height="17" font="4"><b>7/2015 - 9/2015 : Intern - Fsoft</b></text>
+<text top="1101" left="29" width="614" height="17" font="3">Participating Global Software Talent Program to know the process creates software: </text>
+<text top="1122" left="29" width="236" height="17" font="3">- Taking customer requirements </text>
+<text top="1142" left="29" width="348" height="17" font="3">- Analyzing and designing data model, database </text>
+<text top="1163" left="29" width="225" height="17" font="3">- Code (C#, SQL server mainly) </text>
+<text top="1184" left="29" width="80" height="17" font="3">- Unit test </text>
+<text top="1204" left="29" width="126" height="17" font="3">- Write document</text>
+<text top="254" left="29" width="203" height="24" font="5">PERSONAL PROFILE</text>
+<text top="508" left="29" width="235" height="24" font="5">CAREER INFORMATION</text>
+<text top="715" left="29" width="121" height="24" font="5">OBJECTIVES</text>
+<text top="801" left="29" width="128" height="24" font="5">EXPERIENCE</text>
+<text top="841" left="29" width="172" height="17" font="3">Year(s) of Experience: 2</text>
+<text top="869" left="29" width="310" height="17" font="3">Current Level: Experienced (Non - Manager)</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="6" size="11" family="NimbusSanL-Regu" color="#6d6e70"/>
+<text top="99" left="29" width="207" height="17" font="4"><b>Completion date 5-2016</b></text>
+<text top="120" left="29" width="624" height="17" font="4"><b>Bachelor - Posts and Telecommunications Institute of Technology HCMC</b></text>
+<text top="220" left="29" width="396" height="17" font="3">Encourage Learning Scholarship 2013 - 2014 (GPA: 8.08)</text>
+<text top="241" left="29" width="396" height="17" font="3">Encourage Learning Scholarship 2014 - 2015 (GPA: 8.44)</text>
+<text top="349" left="29" width="205" height="17" font="3">Database SQL Server MySQL</text>
+<text top="375" left="29" width="25" height="17" font="3">Net</text>
+<text top="400" left="29" width="39" height="17" font="3">HTML</text>
+<text top="426" left="29" width="29" height="17" font="3">CSS</text>
+<text top="452" left="29" width="68" height="17" font="3">Javascript</text>
+<text top="478" left="29" width="29" height="17" font="3">Java</text>
+<text top="504" left="29" width="113" height="17" font="3">Problem Solving</text>
+<text top="530" left="29" width="75" height="17" font="3">Teamwork</text>
+<text top="294" left="29" width="70" height="24" font="5">SKILLS</text>
+<text top="349" left="472" width="50" height="17" font="3">English</text>
+<text top="294" left="472" width="131" height="24" font="5">LANGUAGES</text>
+<text top="31" left="29" width="122" height="24" font="5">EDUCATION</text>
+<text top="71" left="29" width="226" height="17" font="3">Highest Degree Level: Bachelor</text>
+<text top="166" left="29" width="219" height="24" font="5">CAREER HIGHLIGHTS</text>
+<text top="1247" left="761" width="100" height="14" font="6">© CareerBuilder.vn</text>
+</page>
+<outline>
+<item page="1">VŨ THỊ KIM HIỀN</item>
+<outline>
+<item page="1">Software Tester</item>
+<item page="1">PERSONAL PROFILE</item>
+<item page="1">CAREER INFORMATION</item>
+<item page="1">OBJECTIVES</item>
+<item page="1">EXPERIENCE</item>
+<item page="2">EDUCATION</item>
+<item page="2">CAREER HIGHLIGHTS</item>
+<item page="2">SKILLS</item>
+<item page="2">LANGUAGES</item>
+</outline>
+</outline>
+</pdf2xml>

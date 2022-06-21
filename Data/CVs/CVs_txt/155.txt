@@ -1,0 +1,83 @@
+ Sep 2012  Jun 2015
+Le Quy Don High School
+Good graduation
+Sep 2015  Jun 2019
+INDUSTRIAL UNIVERSITY OF HOCHIMINH CITY
+Major: Electronic Automation
+4th year student
+Jun 2015  Aug 2015
+Take part in summer social activities at local
+Jun 2016  Aug 2016
+Take part in summer social activities at local
+2016
+Basic office computing.
+Language
+English (Basic)
+Language
+Vietnamese (Native)
+Computer
+Word, Excel, Powerpoint
+Communication skill
+Fair
+Team work
+Good
+Cao Anh Duong
+Date of birth:  March 09, 1997
+Gender:
+Male
+Phone:
+0345892911
+Email:
+anhduongtk97@gmail.com
+Address:
+36, Ly Thuong Kiet Street, Go Vap District, Ho
+Chi Minh City, Vietnam
+Website:
+https://www.facebook.com/nhatkioanhon
+OBJECTIVE
+Use knowledge and skills to complete the study case of your company.
+RESEARCH PROJECT
+Project name: Adjustment automation value of conveyor production of fruits.
+Target:   Build a automated conveyor that can quantitative and classify many different fruits.   Ability to supervise, control and self-adjust parameters.   Classify fruit by weight and size.
+EDUCATION
+ACTIVITIES
+CERTIFICATIONS
+PERSONAL SKILLS
+Presentation skill
+Fair 
+Data analysts
+Good
+Internet skill
+Good   
+Name: Tran Huu Toan
+Email: huutoancdt@gmail.com
+Mobile: 0909023713
+PROJECTS
+Project Electronic Base
+(2017  2017)
+Customer
+Lecturers Nguyen Duy Khanh
+Description  This is project which i built circuit of lift.
+Team size
+2
+My position
+Leader
+My responsibilities  Analysis and design  Development  Bug Fixing
+Technologies used  Proteus, Altium
+Project Advanced Electronic
+(2018  2018)
+Customer
+Lecturers Huynh Minh Ngoc
+Description  This is project which i control and supervise the speed of engine DC
+through algorithm PID digital
+Team size
+2
+My position
+Leader
+My responsibilities  Analysis and design  Development  Review Code  Build Code  Bug Fixing
+Technologies used  Proteus, Arduino, Visual Studio 2012, Visio, Configure Virtual Serial
+Port Driver.
+INTERESTS
+I like to learn about technology, watching movies, traveling, ...
+REFERENCES
+© topcv.vn

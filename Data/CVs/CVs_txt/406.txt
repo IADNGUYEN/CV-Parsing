@@ -1,0 +1,135 @@
+Nguyen Thanh Cuong
+District 10, Ho Chi Minh City, Viet Nam
+(+84) 97 455 0897
+cuongnguyen149@gmail.com
+OBJECTIVE
+To acquire a challenging career with a solid company utilizing the opportunity to offer proven 
+and developing skills within the company.
+SUMMARY
+2+ year experience in Mobile Application Development, both Android and Cross-
+platform application.
+1+ year experience of Backend and Database development including: NodeJS, Bluemix,
+Amazon Web Service …
+Experience in Web Development (HTML5/CSS3/Javascripts)
+TECHNICAL SKILL
+Languages
+Proficient in: Java, Java Script
+Familiar with: C#
+Frameworks: 
+Mobile: Android, Hybrid
+Backend: NodeJS, Bluemix, Amazon Web Services…
+Database:SQLite, MongoDB, CouchDB, MS SQL…
+Additional Skills: iBeacon, Photoshop, Illustrators, Corel Draw, Dreamweaver, Jenkins…
+EXPERIENCE
+Mobile Software Engineer
+CSC VietNam
+Responsibilities:
+Develop applications in multiple platforms (Android, cross-platform, web-
+based applications) as per the requirements both Front-end and Backend.
+Assist in preparation of web based, production applications and 
+prototypes.
+Analyze and troubleshooting any production issue at spot
+Technical support international conference 
+7/2014 to present
+Android Developer
+Daon Studio
+Responsibilities:
+Implement development tasks for Android games.
+Assisted in publishing applications to Google Play.
+3/2014-5/2014
+5/2013-3/2014
+Android Developer
+AllianceIT
+Responsibilities:
+Implement UI designs and development tasks for Android applications
+Assisted in publishing applications to Google Play.
+Support interns and new comers.
+PROJECT DETAILS
+MOBILE PLATFORM AS A SERVICE  MPASS
+Period
+: July 2014 to present
+Team size
+: 8
+Description: A development platform for feature rich enterprise mobile apps. Clients can "rent" 
+entire MEAP INSTANCES on mPaaS to allow them to build and host their own mobile 
+apps for the enterprise on them or to contract a service provider to develop the 
+enterprise app for them.
+Environment
+: NodeJS, Worklight (MobileFirst), JSON, GitHub, Amazon, Jenkin, AngularJS,   
+Ubuntu14.04, d3js… 
+Role
+: System Administrator, Front-end and Back-end developer.
+Responsibilities:
+Implement development task in both front-end and back-end
+Setup, build and deploy project on Amazon Web Service (using UC2 and S3)
+Automatic deployment using Jenkin
+JPAY
+Period
+: May 2015 to July 2015 
+Team size
+: 7
+Description: A joint project being undertaken by Mediback, TAC, EFTPOS and CSC which 
+envisages the development for a Health Industry Mobile, Online and Card solution 
+that will broaden the services and product choice available to the payers providers 
+and consumers in the Health, Disability and Injury Sectors
+Environment
+: NodeJS, Bluemix Cloud, MongoDB
+Role
+: Backend developer
+Responsibilities:
+Analyze project requirement for designing of data structure, public and private API.
+Implement development task for backend/service side.
+Analyze and troubleshoot any production issue at spot during the time of conference.
+SCAVENGER HUNT
+Client
+: CSC 
+Period
+: Feb 2015 to Apr 2015 
+Team size
+: 4
+Description: A small game for participants in CSC Global Sales Conference 2015, using iBeacon 
+to track users’ location in short range
+Environment
+: NodeJS, HTML5/CSS3/Javascript, Bluemix Cloud, Android SDK, iBeacon 
+SDK...
+Role
+: Android/Backend Developer
+Responsibilities:
+Implement UI design and development tasks for Android version.
+Analyze and troubleshoot any production issue at spot during the time of conference.
+Build and deploy app to real devices (iOS and Android).
+MOBILE ASSET CATALOG
+Period
+:May 2014 to May 2014 
+Team size
+: 4
+Description: Application list all internal application and allow user install other application which 
+in list. An admin page allow add, delete, update application.
+Environment : NodeJS, Titanium Appcelerator, Alloy Framework, HTML3/CSS/Javascript, Bluemix
+Cloud
+Role
+: Developer
+Responsibilities:
+Implement UI design/development tasks in various technologies and frameworks for both
+front-end and back-end side
+Build and deploy app to real device (iOS, Android and Windows Phone)
+SUNNY FLOWER
+Period
+: May 2013 to March 2014 
+Team size
+: 5
+Description: An application that helps users to order/purchase flower online via Sunny Flower 
+application
+Environment
+: Android SDK, PHP, Eclipse.
+Role
+: Android Developer
+Responsibilities:
+Implement UI design and development tasks.
+Integrate application with server.
+Analyze and troubleshoot any production issue at spot during the time of conference.
+EDUCATION
+Open University
+2009 to 2013
+Bachelor Of Science
+Major: Management Information System

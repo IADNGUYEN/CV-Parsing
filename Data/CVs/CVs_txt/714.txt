@@ -1,0 +1,83 @@
+ 
+December, 2015 
+Page 1 of 4 
+To Hoang Dinh Long 
+PERSONAL INFORMATION 
+Full name: 
+To Hoang Dinh Long 
+Date of Birth:     
+23/12/1988 
+Place of Birth:     
+Ho Chi Minh City  
+Mobile Phone:    
++84(0)1225835858 
+Address:               
+100 Bui Huu Nghia Street, Ward 2, Binh Thanh District, HCMC 
+Email:                    
+tohoangdinhlong2312@gmail.com  
+3 years working as Embedded System Engineer, with deep understanding about 
+design, develop and test in Embedded Software. Result in several handheld devices 
+from Automotive Diagnostic Tools to Smartcard Reader, which currently in market for 
+end users.  
+2 years working as Software Engineer, both design and test for CoreMW, part of 
+Ericsson’s CBA Project, which is developed on Linux Platform.  
+Strengths include ability for self-learning and fast-learning. 
+Technical knowledge                   
+Level  
+C 
+Good 
+C++ 
+Good  
+Bash Scripting 
+Good 
+Objective C 
+Fair 
+FreeRTOS/Linux platforms  
+Fair 
+ARM Cortex M3 
+Good 
+Device driver competence 
+Good 
+Agile development 
+Good 
+Others: Qt, Autotools, GIT, GDB, Jenkins, SVN, Java , JCAT, Python… 
+December, 2015 
+Page 2 of 4 
+Education                   
+2006  2011: Bachelor of Engineering: Electrical – Electronics Engineer  Ho Chi Minh 
+City University of Technology 
+Thesis: 
+Wireless Sensor Network using Zigbee 
+Communication between MCU and SmartPhone (Android, iOS) via Bluetooth 
+Thesis Score : 8.8 
+English: Upper –Intermediate 
+Japanese: 3-Kyu 
+December, 2015 
+Page 3 of 4 
+Assignments 
+01/2014 – Now 
+DEK Technologies 
+Software Designer  Software development for CoreMW, part of CBA (Component Based Architecture) 
+(CoreMW is based on OpenSAF and includes software management function. The whole project will 
+provide common functionality as high availability, scalability, openness and independent component. 
+So the applications can reuse these functions for their products that will reduce the time to develop.)  Analysis and implement requirements from customer  Maintain and resolve bugs  Responsible for continuous integration and delivery.  Design, implement features, Function tests, System tests and Join Integrate test, using 
+C++, bash scripting, java, python, rpm, autotools… on Linux systems (Ubuntu, SLES, 
+RHEL).  Agile working. 
+03/2013 – 12/2013 
+Molisys Solutions Co. 
+Branch of STYL Solutions – Singapore 
+Embedded System Engineer  Develop Company’s first CEPAS Card Reader with LCD and KeyPad. Reader is used by 
+CAPITASTAR in Singapore.  Write Application Layer and Drivers for NXP’s ARM Cortex M3 LPC1768, using FreeRTOS. 
+Use emWIN GUI lib to develop User Interface.  Intergate smartcard reader into Vending Machines (work for Singapore’s NETs). Develop 
+prototype using BeagleBone Black (ARM Cortex A8) running Angstrom Linux. Develop 
+Application using Qt. 
+11/2010 – 05/2013 
+Innova Electronics 
+Embedded System Engineer  Design and develop Diagnostics Tool “Innova Pro”-line products – handheld device using 
+ARM Cortex M3.  
+Results: http://www.pro.innova.com/  Design and develop Diagnostics Tool for Chinese, Australia and Japanese market.  Design and develop Diagnostics Tool communicate with Smartphone (iOS and 
+Android) via Bluetooth and new BLE (Bluetooth 4.0 Low Energy).  Write iOS application (External Accessory, Core Location, Accelerometer, WebView …). 
+December, 2015 
+Page 4 of 4  Write driver (USB, UART, I2C, SPI ...) and application layer for ARM MCU cortex M3, 
+including STM32, TI Luminary.  Work with Automotive ECU.  Work with Protocols used in the OBDII vehicle diagnostics standard (CAN, ISO, WPW, 
+PWM, K2000, …)  Design and develop USB communication between Tool and Smartphone. 

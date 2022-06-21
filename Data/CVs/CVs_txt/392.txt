@@ -1,0 +1,36 @@
+Trần Thanh Tỉnh 
+Email: thanhtinh160896@gmail.com  Phone: 0985518987   
+Ho Chi Minh, Vietnam 
+EDUCATION 
+RESEARCH  
+ACTIVITIES 
+SKILLS  
+C/C++, Java, PHP, Verilog HDL.  
+Processing image, video.  
+English communication skills. 
+University of Information Technology 
+Aug 2014 – Sep 2018  
+Faculty: Computer Engineering 
+GPA: 7.12/10 
+Aug 2017  Present 
+Project 
+Design IP core part used to motion detect. 
+Key capabilities: 
+Using Hardware Description Languages (Verilog HDL). 
+C/C++ on Linux. 
+Using AXI-Stream bus, AXI-Lite bus. 
+. 
+Jan 2017  
+Jun 2017 
+Design Gabor filter used in processing fingerprint  
+Main abilities: 
+Using Hardware Description Languages (Verilog HDL). 
+Using digital signal processing knowledge 
+Part-time Job 
+Jan 2017    Present 
+AEC center (American English Communication center) 
+Program counseling. 
+Trainee management. 
+Education supporter 
+University of Information Technology 
+technology 

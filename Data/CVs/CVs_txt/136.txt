@@ -1,0 +1,196 @@
+PHAM HONG LONG 
+Mobile: 0932402086 
+Email: blake_master1986@yahoo.com 
+Senior Java Developer 
+Personal Information: 
+Name 
+Pham Hong Long 
+Birthday 
+21/12/1986 
+Languages Known 
+English Advance 
+Marital Status  
+Married 
+Alternative E-Mail 
+Hobbies 
+Hearing music and football and play game 
+Current Address 
+163A – Go Dua St – Tam Binh Ward – Thu Duc Dist  HCMC 
+Education 
+Bachelor of Information Technology University of Natural Science HCM City(2004-
+2008) 
+Summary 
+6 years of experience in software development for desktop applications (Rich Client 
+Platform), Web applications and server application based on Java, Spring 
+framework, Hibernate, EJB, JPA, Web services Axis2, Struts1x, and Struts2x 
+framework, JSF , JSP , HTML5 ,CSS3, Google Map, Google Web Toolkit. 
+Good experience in networking programming: Socket programming over TCP, 
+NETCONF over SSH2. 
+Good knowledge in software development process based on Rational Unified 
+Process and Agile/Scrum process. 
+Good knowledge in MVC model. 
+Strong experience in managing and handling all issues on frameworks: Spring, 
+Hibernate, EJB, JPA, and Web Service. 
+Experience at working with many platforms of Windows and Linux server/client. 
+Well communicating in English. 
+Good at time management, task prioritizing, and problem solving are development 
+tasks and be technically competent with regards to the software products utilized. 
+Technical Skills 
+Programming Languages: Java, C/C++, Visual C, VB.Net, and XML. 
+Java Technologies: Java Core, Design Pattern, Spring, Hibernate, EJB, JPA, 
+Servlet/JSP, JSF 2.0, Java Web Services Axis2, Eclipse Rich Client Platform (based 
+on Eclipse  Plug-in), SWT, Jasper report , Birt report. 
+Build and packaged Tools: Ant, Maven, Cruise Control Auto Build, and packaged 
+software (NSIS Tool). 
+Web Technologies: Google Map API, HTML5, CSS3. 
+Networking programming: TCP, NETCONF over SSH2, TELNET. 
+Networking and Server service: Router, Switch, Routing, VLAN L2/L3, DNS, DHCP, 
+VPN, FTP/TFTP, NAT, PIX Firewall, etc. 
+Databases: Oracle, SQL Server, MySQL, Postgres 
+J2EE Server Application: JBOSS, Web Logic, Tomcat 
+Tools and IDE:  Eclipse, Visual studio, Microsoft .Net, Netbean, Wireshark, SVN. 
+Operating Systems: Windows 64/32 bits (Windows server 2003/2008 R2/not, 
+Windows 7, Windows Vista, WindowsXP), Linux (RedHat, Ubuntu, Fedora, Android, 
+iOS and Windows mobile 
+Working process: Agile/Scrum 
+Work Experience  
+Company: FSoft 
+Project: DTSS(DIRECTV Traffic and Scheduling System) 
+Duration: 12/2013 – Now 
+Role: Senior Java Developer 
+Description: The DIRECTV Traffic and Scheduling System, or DTSS, is a software system 
+that is central and indispensible to the DIRECTV broadcast.  Among the services it 
+provides are the following: 
+Definition of channels 
+Definition of programming inventory 
+Scheduling of the defined inventory onto the defined channels 
+Generation of event-oriented playlists for broadcast center automation systems, 
+based on the defined schedules 
+Generation of data to be broadcast with the video, which defines which customers 
+are authorized to watch it 
+Notification of DIRECTV guide systems to define which channels are to appear in 
+customers’ on-screen program guides 
+Notification of DIRECTV guide systems to provide lists of some of the programming 
+to appear in customers’ on-screen program guides 
+Definitions of blackout regions to be applied to appropriate programming 
+Merging of externally-supplied advertising schedules into the internally-scheduled 
+playlists 
+Assignment of broadcast center hardware resources to every playlist event 
+Responsibilities: 
+Communicate with customer to clarify requirements. 
+Responsible to deploy, package and deliver product to customer. 
+Perform technical support for new member. 
+Technologies: 
+Java application: EJB and Google Web Toolkit 
+Web Server: Web Logic 
+IDE: Eclipse RCP 
+Achievements: 
+Company: Infonam 
+Project: Huawei 
+Duration: 04/2013 – 10/2013 
+Role: Senior Java Developer (Team Lead) 
+Description: Huawei is a Java application to perform RPC request to Huawei router and 
+handle all response are returned from device based on NETCONF over SSH2 protocol. 
+Responsibilities: 
+Design framework/structure project. 
+Communicate with customer to clarify requirements. 
+Manage time and resource as well. 
+Responsible to deploy, package and deliver product to customer. 
+Perform technical support for new member and customer as well. 
+Technologies: 
+Java application: Java core and Design Pattern 
+Networking programming: Socket programming, NetConf over SSH2. 
+IDE: Eclipse RCP 
+Achievements: 
+Company: Infonam 
+Project: Celcom 
+Duration: 12/2012 – 04/2013 
+Role: Senior Java Developer (Team Lead) 
+Description:  Celcom project had 2 sub projects (Data Collector and Report Generation).  
+Data Collector is a Java application that is used for reading and collecting raw data 
+from log files in customer system then refine and aggregate to gather expected 
+data and then import them into database. 
+Report Generation is a Java web application that used Jasper Report API as third 
+party library to query and generate report from existing data that were collected 
+by Data Collector before. 
+Responsibilities: 
+Design framework/structure for Data Collector project 
+Communicate with customer to clarify requirements in needs. 
+Develop almost features for project 
+Responsible to deploy, package and deliver product to customer 
+Perform technical support for new member and customer as well 
+Technologies: 
+J2EE Server Application: Tomcat 10.3.5 
+Database: Oracle 11g 
+UI Technology: JSF 2.0 and PrimeFaces , Jasper Report API 
+IDE: Eclipse Indigo 
+Achievements: 
+Successfully and on-time delivered to customer with high quality products 
+Company: Infonam 
+Project: NSP project 
+Duration: 06/2012 – 12/2012 
+Role: Senior Java Developer (Team Lead) 
+Description:  Syniverse is a company who provides telecom services in Hong Kong. NSP 
+project aimed to develop a Web application for managing their subscriber’s information. 
+Responsibilities: 
+Make plan, design framework/structure for project 
+Develop almost features for project 
+Responsible to deploy, package and deliver product to customer 
+Perform technical support for new member and customer as well 
+Technologies: 
+J2EE Server Application: WebLogic 10.3.5, EJB, JPA, Web Services Axis2 
+Database: Oracle 11g 
+UI Technology: JSF 2.0 and PrimeFaces 
+IDE: Eclipse Indigo 
+Achievements: 
+Successfully and on-time delivered to customer with high quality products 
+Company: Axon Active 
+Project: IKool – Have 5 sub projects 
+Duration: 11/2011 – 06/2012 
+Role: Senior Java Developer (Key member) 
+Description: Xpert Line is a company from Switzerland, focuses on BPM (Business 
+Process Management) technologies. Their IDE tool was developed based on Eclipse Plug-in 
+architecture. During the project, I was working for 5 sub projects: 
+Business Task Reminder: manage all tasks of employees 
+Citizen Arrival Manage: manage all information of citizen in country and 
+when citizen arrival to destination 
+Expert Security: manage the level and permission of employees in 
+organization 
+Scale Vector Graphic: draw the relationship in bubble between citizens or  
+organization in company 
+Google map component: display information of citizen in map likes address, 
+building, floor and house hold details that citizen arrival 
+Responsibilities: 
+Develop new features for 5 projects following the pre-defined user stories 
+Perform testing for all user stories that are developed myself 
+Daily report to PO (Product Owner in Switzerland) 
+Technologies: 
+Ivy technology, BPMN 2.0 , Web Services , J2EE , EJB , JPA , HTML5 , 
+Google Map , RIA , Birt Report 
+IDE: Ivy IDE 
+Database: Oracle, SQL Server, MySQL 
+Achievements: 
+Successfully delivered Business Task Reminder for customer 
+Successfully delivered Expert Security for customer 
+Successfully integrated Google map component, Scale Vector Graphic into 
+Citizen Arrival Manage 
+Company: TMA Solution 
+Project: NETIL 
+Duration: 01/2008 – 11/2011 
+Role: Java Developer 
+Description: NetIL was a project focused on Network Management System to manage all 
+devices into real lab; you can discover all nodes in network and draw a topology on UI. 
+NetIL supports almost vendors like Cisco, HP, etc…  
+Responsibilities: 
+Manage and handle all issues on JBOSS server, Spring framework, 
+Hibernate and database 
+Join to design framework structure for project 
+Join to develop new features for product 
+Technologies: 
+Server platform: JBOSS Server, Spring framework, Hibernate, JMS, JMX, 
+HornetQ 
+Client platform: Eclipse Rich Client Platform (based on Eclipse  Plug-in) 
+Database: Postgres 
+Achievements: 
+Successfully delivered 7.9.1 release 
+Thanks for watching 

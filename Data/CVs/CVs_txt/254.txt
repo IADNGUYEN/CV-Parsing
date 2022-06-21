@@ -1,0 +1,64 @@
+VO MINH DUC 
+Email: mjnhduc9x@gmail.com | Phone: +84 968 017 347 
+Date of Birth: January 10th, 1993. 
+Place of Birth: Khanh Hoa Province. 
+Address: 149/4 Binh Quoi Street, 28 Ward, Binh Thanh District, Ho Chi Minh City. 
+OBJECTIVE 
+To be good staff, improve myself 
+Challenging position with a creative work environment to enhance expertise in web 
+development and interact with customer. 
+PROFESSIONAL EXPERIENCE 
+Larion Computing 
+Position: Internship 
+Duration: 09/2015  12/2015 
+Joining to real project with low responsibility to: 
+Know how to real project to work. 
+Know how to work with team, work independence. 
+Using knowledge was studied in university to work with project. 
+Increate skill to adapt with work. 
+Camino Information Services 
+Position: Web Developer 
+Duration: 01/2016 – present 
+Using flow chart to know what will do and implement it. 
+Work with other Developer, QC, Tester to complete any task which assigned by team leader. 
+Design UI (User Interface) follow customer’s template and implement it. 
+Using company’s framework combine with database to implement functions. 
+Provider solution and idea to resolve problem, task, bug, function, … 
+Observe, check, debug background service system (run automatic). 
+Build another tool to adapt with project (Some tools: Get all zipcode, city, county, state of 
+USA import to system; Import big data to sysytem, auto update some table, …) 
+Freelancer 
+Management server dedicated system by using vSphere.  
+Provide, support customer about VPS, Vmware, Web hosting, … 
+TECHNICAL SKILL S 
+Programming language: C#, .NET, ASP.NET MVC, JavaScript, HTML, XML, CSS, 
+AnguarJs, jQuery. 
+Databases: MS SQL, MySQL. 
+Software: Visual Studio .NET, MS Office Suite, notepad++, sublimetext, … 
+Platforms: Windows 7/8/10, Windows Server, Centos, Ubuntu, SVN, … 
+Other: Wordpress, PHP, Linux, VPS, … 
+LANGUAGE 
+English 
+Writing, Reading: Good. 
+Speaking, Listening: Normal. 
+PROJECTS 
+Interspect(exists):  
+Description: Project using windows form. Capture all information about a house such as: 
+bed room, kitchen, windows, door, … to buy. 
+Responsibility: Add new function, fix bug. 
+Libris(start): Web application about healthcare. Capture all information of patient 
+disabilities who can’t take care of itself. Then calculator the hours to take care of patient and 
+from that calculator money. 
+Responsibility: Design UI, implement function, Debug service, fix bug, test code, … 
+EDUCATION 
+University of Transport in Ho Chi Minh City 
+Bachelor’s Degree in Computer Science Information System 
+09/2011 – 11/2015 
+Aptech CNC 
+09/2013 – 11/2015 
+Developer. 
+ADDITION 
+Always improve myself. With working hard, active, self-training and “I can do” attitude. I 
+hope I will contribute grown up your team, your company. 
+This is all information about me. If you need more something. Please contact me. I will 
+answer any question from you. Thanks! 

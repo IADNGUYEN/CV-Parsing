@@ -1,0 +1,123 @@
+Nghia Trong MAI  
+Trnghia1105@gmail.com 
+84 Heukseok-Ro, Dongjak-Gu, Seoul, Republic 
+of Korea.  
+May 11th, 1989 
+Male 
+EDUCATION 
+Course Certificate, Machine Learning 
+Stanford University 
+2018 – 2019 
+Taught by: Andrew Ng, Co-founder, Coursera; Adjunct 
+Professor, Stanford University; formerly head of Baidu AI 
+Group/Google Brai 
+Ph.D. in Mechanical Engineering 
+Chung-Ang University, Seoul, Republic of Korea 
+Sep. 2014 – Feb. 2018 
+3 SCI papers 
+M.S. in Mechanical Engineering  
+University of Ulsan, Ulsan, Republic of Korea 
+Aug. 2012 – Aug. 2014 
+1 SCI paper 
+Bachelor of Engineering in Material Science 
+Ho Chi Minh University of Technology, Vietnam 
+Sep. 2007 – Aug. 2012 
+Vietnamese-French Training Program of Excellent 
+Engineers (PFIEV). 
+Bachelor in Advance Materials, Atomic Structure 
+and Functional Materials. 
+AWARDS 
+Excellent Paper Award 
+Dec. 2016, Korean Society of Mechanical Engineers (KSME), 
+Republic of Korea. 
+Title: Mixed-mode Fracture of Grain Boundaries in Graphene  
+The Young Scientist Scholarship 
+Feb. 2016 – Feb. 2018 
+Chung-Ang University, Republic of Korea 
+The International Student Scholarship 
+Aug. 2012 – Feb. 2016 
+University of Ulsan, Republic of Korea 
+EXPERIENCE 
+Present Position 
+Postdoctoral Researcher at Functional Materials 
+Applied 
+Mechanics 
+Lab, 
+School 
+of 
+Mechanical 
+Engineering, Chung-Ang University, Seoul, Republic of 
+Korea.  
+Mar. 2018 – Present 
+1 accepted SCI paper and 3 submitted SCI 
+papers.    
+Projects 
+2018 – present: Development of hierarchical 
+multiscale analysis technique for microstructure and 
+creep evolution of polycrystalline material. 
+Principle investigator (PI) 
+Implementation of the elasto-viscoplasticity 
+equations into peridynamics to study the 
+material behaviors and predict the remaining 
+life time of boiler tube materials. 
+2016 – present: Development of creep damage and 
+life prediction method of boiler tube materials. 
+Team leader 
+Implementation of the elasto-viscoplasticity 
+theory into user subroutine UMAT for finite 
+element simulations to predict the remaining 
+life time of boiler tube materials. 
+2012 – 2015: Development of Nanoscale Far-Field 
+Projection 
+Method 
+and 
+Identification 
+of 
+Embrittlement of Grain Boundary. 
+Team member 
+A study on the effect of micro and nano-sized 
+defects 
+in 
+numerical 
+simulation 
+and 
+experimental measurements using the far-field 
+projection. 
+SKILLS 
+Programming Language: Intermediate level in Matlab, Fortran, Python and C++ 
+Software: Abaqus, Ansys, Dream.3D 
+English – Highly proficient in spoken and written English 
+Korean – Basic communication skills 
+International Publications 
+Nghia Trong Mai, Phuoc Quang Phi, Vinh Phu Nguyen and Seung Tae Choi, Atomic-Scale Mode 
+Separation for Mixed-Mode Intergranular Fracture in Polycrystalline Metals, Theoretical and 
+Applied Fracture Mechanics, (IF: 2.659, JCR Top 20% in Mechanics). (Published in 2018)  
+Nghia Trong Mai and Seung Tae Choi, Atomic-Scale Mutual Integrals for Mixed-Mode Fracture: 
+Abnormal Fracture Toughness of Grain Boundaries in Graphene, International Journal of Solids 
+and Structures, (IF: 2.760, JCR Top 20% in Mechanics). (Published in 2018) 
+Ahmed Tamer Al-Motasem, Nghia Trong Mai, Seung Tae Choi and Matthias Posselt, Atomistic 
+study on mixed-mode fracture mechanism of ferrite iron interacting with coherent copper and 
+nickel nanoclusters, Journal of Nuclear Materials, (IF: 2.048, JCR Top 10% in Nuclear Science & 
+Technology). (Published in 2016)  
+Nghia Trong Mai, Seung Tae Choi, Koo-Hyun Chung, Seung Ryoon Lee, Dong Kil Shin and Youn 
+Young Earmme, Time-dependent adhesion of a polydimethylsiloxane (PDMS) elastomer film to 
+a flat indenter tip characterized using a cohesive-zone law, Philosophical Magazine Letters, (IF: 
+0.941, JCR Q2 in Metallurgy & Metallurgical Engineering). (Published in 2014)  
+Hung Viet Tran, Nghia Trong Mai and Seung Tae Choi, Molecular dynamics study on hydrogen 
+segregation near symmetric-tilt grain boundaries in body-centered cubic iron under uniaxial 
+strain, The Physics of Metals and Metallography, (IF: 0.884, SCI). (Accepted for Publication, 
+2018)  
+Nghia Trong Mai, Vinh Phu Nguyen and Seung Tae Choi, Atomic Mixed-Mode Cohesive-Zone 
+Laws of Impurity-Embrittled Grain Boundaries in Polycrystalline Solids via Nanoscale Field 
+Projection Method, Computer Methods in Applied Mechanics and Engineering, (IF: 4.44, JCR 
+Top 1% in Mathematics, Interdisciplinary Applications). (Submitted in 2018)  
+Nghia Trong MAI, Li Qui PHAM, Vinh Phu NGUYEN, Seung Tae CHOI, Tae Min JEONG, Kee Bong 
+YOON, Keesam SHIN, and Yinsheng HE, Heirachical Multiscale Analysis and Creep Cavitation 
+Model-Based Creep Lifetime Prediction of New and Service-Exposed Super304H Austenitic 
+Stainless Steel Boiler Tubes, Materials Characterization, (IF: 2.89, JCR Top 5% in Materials 
+Science Characterization & Testing). (Submitted in 2018)  
+Li Qui PHAM, Nghia Trong MAI, Vinh Phu NGUYEN, Seung Tae CHOI, Moon Ki KIM, Keesam 
+SHIN, and Yinsheng HE, Heirachical Multiscale Analysis and Creep Cavitation Model-Based 
+Creep Lifetime Prediction of New and Service-Exposed 9Cr-1Mo (Grade T91) Steel Boiler Tubes, 
+Materials Characterization, (IF: 2.89, JCR Top 5% in Materials Science Characterization & 
+Testing). (Submitted in 2018) 

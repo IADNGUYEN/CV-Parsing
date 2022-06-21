@@ -1,0 +1,95 @@
+ 1/3 
+Ta Luc Gia Hoang 
+Address : Binh Thanh District, Ho Chi Minh City, Vietnam 
+Email : talucgiahoang@gmail.com 
+Phone No : 0122 975 8988 
+INTRODUCTION  
+I consider myself have strong passion in embedded system and image processing.  
+I would love to work for an organization applying image processing to data collection and surveillance 
+camera or involving precision agriculture field thus I could contribute my enthusiasm, satisfy customer 
+demands and effort to innovate the company where I work. 
+I want to work somewhere where I will have opportunities to develop my skills, take on interesting 
+projects, and work with people I can really learn from.  
+EDUCATION  
+2012 – 2017 
+BACH KHOA UNIVERSITY CITY (BKU)   
+VIETNAM NATIONAL UNIVERSITY – HO CHI MINH CITY 
+Faculty of Electrical & Electronics Engineering 
+Major Electronics – Telecommunication 
+GPA: 7.21 
+4/2016 
+IIG VIETNAM 
+TOEIC Certificate – Total score: 695 
+TECHNICAL SKILLS 
+Strong in Embedded C/C++ coding  
+Good Knowledge & Work Experience in Image Processing 
+Familiar with OpenCV: Image Transformations, Background Subtraction, Object Detection, Tracking, 
+Machine Learning 
+Minicomputer: Raspberry Pi, BeagleBone Black 
+MCU: Tiva C Series TM4C123G, MSP430G2553, Arduino UNO R3, 8051, PIC16F87A 
+OS: Ubuntu/Linux, Debian/Linux, Windows 
+Embedded software building, debugging, testing 
+Be able to read Hardware Manual  
+Good Knowledge in common communication protocols: UART, SPI, I2C, TCP, UDP 
+Basic Knowledge in using APIs: V4L2 , FreeRTOS, Basler Pylon 
+Simulation software: Proteus, MATLAB, CST Studio 
+Socket Programming 
+Basic in Assembly, Java , Python  
+2/3 
+ACADEMIC PROJECTS 
+2048 Game : console application program in C++ 
+Horn Antenna : design and simulate using CST Studio 
+Digital Clock : using LCD16x2 and 8051 program in Assembly 
+Simple Hi-Fi Audio Amplifier : design and implement circuit 
+Mini Calculator : using LCD16x2 , 4x4 Keypad and Tiva C Series TM4C123G 
+Simple Digital Multi Meter: Design and develop simple measurement device using PIC16F87A 
+Streaming video : studying a minicomputer – BeageBone Black and create a sample application for it 
+People Counting Camera: Develop an application using OpenCV for processing and counting people 
+IP Camera : using a Raspberry Pi grabs images from a webcam and transmit to a PC, both of them 
+connected to a LAN 
+Wireless sensor networks in agriculture (Graduation Thesis) : Collect data (humidity, temperature, 
+light intensity)and send to center node by RF; design and develop both hardware and software using 
+Raspberry Pi, MSP430 MCU, RF modules and sensors 
+EXPERIENCE 
+Internship 
+June 13, 2016 – August 19, 2016 
+Vigilant Video   
+Investigate and set up working environment for Raspberry Pi 
+Investigate how to use Basler Camera  
+Self-study some basic video streaming concept: color space, image compression, Socket 
+programming, TCP/UDP, V4L2 API 
+Develop an IP Camera using Raspberry and Basler Camera to grab and stream video to connected PC  
+Embedded Software Engineer 
+March 1, 2017 – Present 
+Renesas Design Vietnam Co., Ltd. 
+Building customized Linux Image with Yocto 
+Testing image processing chip, video performance 
+Creating demo for Image Processing API (similar to OpenCV API): People detection 
+Testing, Debugging, Porting 
+Developing Use Case Test as Customer Requirement 
+Mainly working on INTEGRITY RTOS and Linux 
+Linux kernel driver 
+Creating automation test script using CANTATA software 
+Reporting issue, creating notes and guidelines clearly for teammate 
+3/3 
+SOCIAL ACTIVITIES 
+8/2014  1/2018 
+Volunteer Teacher at Giac Quang Pagoda  Teaching children who are poor or live in slums, basic Mathematics and 
+Literatures, communication skills and make them self-confident. 
+7/2015 
+Green Summer Volunteer Campaign 2015  
+13/1/2014 
+Blood Donation 
+6/2013 
+National University Entrance Exam Support Campaign 2013 
+PERSONAL PROFILE 
+Skills: 
+Able to read English documents 
+Strong analysis skill and ability to work independently 
+Capacity for managing time and working under high pressure and take 
+responsibilities  
+Smart-worker and good attitude. 
+Presentation 
+Teamwork 
+Hobbies: 
+Reading, watching, biking, travelling, playing guitar and games 

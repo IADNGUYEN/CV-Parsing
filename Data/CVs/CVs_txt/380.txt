@@ -1,0 +1,184 @@
+Designed by Showeet.com 
+TRAN KIM 
+PHUONG 
+SENIOR JAVA 
+DEVELOPER 
+66 Nguyen Thoi Trung St. 
+Dist 5, HCMC 
+March 8, 1989 
+kimphuong1989@live.com 
+More than 5 years 
+experiences specializing in 
+web application. 
+Independent, high demand 
+on the perfectness. Love 
+challenges and exploring  
+new technologies.  
+EXPERIENCE 
+May 2014  now 
+June 2013  April 2014 
+EDUCATION 
+DIPLOMA 
+Hoa Sen University — 2007-2011 
+DIPLOMA 
+— 
+Ltd 
+November 2011 – May 2013 
+SKILLS 
+LANGUAGES AND SCRIPTS 
+Java, HTML, Javascript, JQuery, Angular JS, Node JS 
+FRAMEWORKS 
+Spring, Hibernate, Tapestry, Struts, iBatis, myBatis, Spring 
+HATEOUS 
+WEB SERVERS 
+Tomcat, Jetty, GlassFish 
+DATABASE SERVERS 
+MS SQL, MySQL, Postgres, Oracle 
+CONFIGURATION MANAGEMENT TOOLS 
+Gradle, Maven, JHispter 
+OTHERS 
+JSP, EJB, Servlet, Web Service, Elastic Search, CSS, 
+SCSS 
+SENIOR JAVA DEVELOPER , Formos VN
+JAVA DEVELOPER, Cosatech Vietnam  
+University of Information Technology 
+2007-2010
+JAVA DEVELOPER, NTT Data Vietnam Co., 
+Tel: 0909909893
+Designed by Showeet.com 
+WORKING PROJECTS 
+POWER2PRACTICE HEALTHCARE SYSTEM 
+September 2016 – present 
+Website: http://www.power2practice.com 
+Project Overview: Power2Practice is an essential software solution designed for Integrative and Functional 
+Medicine. The platform includes a robust EMR and intuitive patient portal along with practice management and 
+clinical support tools that were designed to support Integrative care. 
+Project Team Size: 10 
+Roles: Team Leader 
+Responsibilities: 
+Manage and assign tickets on JIRA to another team members everyday. 
+Join in the technical and business discussion with onshore team in the daily scrum. 
+Participate in the SDLC  of software application; contribute to the design, development and maintenance 
+of software products. 
+Support team members about the business flow of system as well as the difficult technical points. 
+Technologies: 
+Front End: HTML, Javascript, JQuery, CSS, Ajax. 
+Back End: 
+Framework: Hibernate, Tapestry. 
+Web server: Tomcat 8, Jetty. 
+Report: Jasper Report, Docmosis, wkhtmltox. 
+Configuration Management Tool: Maven. 
+Database: Postgres. 
+NOAPPFEE 
+March 2016 – September 2016 
+Website: https://noappfee.com 
+Project Overview: This website helps renter finding their dream house. This website also provides service 
+pulling background check, screening you against every vacancy in pour database, and shows you all of the 
+rental units for which you qualify. 
+Project Team Size: 7 
+Roles: Technical Leader 
+Responsibilities: 
+Work in the tight deadline meet many difficulty at the first time since all team have no knowledge about 
+JHipster and Angular JS. 
+Build the basement of the application and then support other team members continue development on this. 
+Propose best practices to team members. 
+Doing code review and code optimization for other team members. 
+Support PM on the technical issue and analyze business workflow of the system. 
+Technologies: 
+Front End: HTML, Bootstrap , Javascript, JQuery, CSS, SCSS, Ajax, Angular JS, NodeJS. 
+Back End: 
+Framework: Spring HATEOUS, JPA. 
+Web server: Tomcat 8, Jetty. 
+Report: Jasper Report, iText. 
+Configuration Management Tool: JHipster, Gulp, Bower. 
+Other: Google Map API 
+Database: MySQL 
+Designed by Showeet.com 
+WORKING PROJECTS 
+DISCOVERORG 
+March 2015 – February 2016 
+Website: https://discoverorg.com/ 
+Project Overview: Best-in-class sales intelligence platform that helps sales, marketing andstaffing 
+professionals sell smarter and more effectively. Its datasets contain accurate and comprehensive intel on the 
+IT, Finance and Marketing decision makers at some of the world’s leading companies. Besides that, 
+seamlessly integrates with Salesforce, Marketo and other leading sales and marketing platforms for added 
+value and convenience. 
+Project Team Size: 5 
+Roles: Senior JAVA Developer 
+Responsibilities: Working on JIRA tickets, every ticket will have detailed description as requirement from 
+customer. For every ticket, I will: 
+Coding function for backend processes and calling as web service; write data mappers for querying, 
+updating, inserting or deleting data; create service, controller for passing & receiving AJAX request 
+Creating directives for common component, which helps easily maintenance, optimization and high 
+reusability in the future. 
+Update UI Layout, Bootstrap for faster and easier web development. 
+Supported junior members. 
+Contribute in the design and maintenance of the application. 
+Technologies: 
+Front End: HTML, Bootstrap, Javascript, JQuery, CSS, SCSS, Ajax, Angular JS, NodeJS. 
+Back End: 
+Framework: Spring HATEOUS, myBatis. 
+Web server: Tomcat 8, Jetty. 
+Configuration Management Tool: JHipster, Gulp, Bower. 
+Other: Elastic Search. 
+Database: MySQL. 
+JHKELLY 
+May 2014 – October 2015 
+Website: https://www.jhkelly.com/ 
+Project Overview: One of the largest industrial mechanical contractors in the nation. It is a fourth generation, 
+family-owned construction firm that provides mechanical services to commercial facility owners while also 
+acting as a self-performing industrial general contractor at process plants throughout the greater Pacific 
+Northwest. 
+Project Team Size: 4 
+Roles: Senior JAVA Developer 
+Responsibilities: 
+Fixing bugs as customer requirement. 
+Optimize codes as well as update some related features. 
+Technologies: 
+Front End: HTML, Javascript, JQuery, CSS, Ajax. 
+Back End: 
+Framework: Tapestry, Hibernate. 
+Web server: Tomcat 6, Jetty. 
+Configuration Management Tool: Maven. 
+Database: MS SQL. 
+Other: C#, ASP .NET, Telerik, LINQ. 
+Designed by Showeet.com 
+WORKING PROJECTS 
+MONE 
+July 2013 – May 2014 
+Project Overview: CBOE (Chicago Board Option Exchange)  the world's largest options exchange & the 
+leader in product innovation, options education and trading volume. The main target of this project is catch 
+exceptions and violations for CBOE (Chicago Board Option Exchange).. 
+Project Team Size: 10 
+Roles: Senior JAVA Developer 
+Responsibilities: 
+Create SQL batch using Oracle Database for checking exception in stock and option exchange 
+transactions. 
+Develop code to display exceptions for the customers to review. 
+Create all of software design documents from Functional Specification Document, Technical Design 
+Document... 
+Create test plans and test cases for both Batch and GUI. 
+Join code review meeting frequently and discuss with team members to optimize coding in order to 
+satisfy customer’s requirements. 
+Technologies: 
+Front End: HTML. 
+Back End: 
+Framework: Struts, Spring, CORBA (IDL Language), Hibernate. 
+Web server: Tomcat 6. 
+Configuration Management Tool: Maven. 
+Database: Oracle. 
+HOUSE MANAGEMENT SYSTEM 
+March 2012 – March 2013 
+Project Overview: Manage projects and construction plans. 
+Project Team Size: 7 
+Roles: JAVA Developer 
+Responsibilities: 
+Fixing bugs as customer requirement. 
+Optimize codes as well as update some related features. 
+Technologies: 
+Front End: HTML, Bootstrap, Javascript, JQuery, CSS, Ajax. 
+Back End: 
+Framework: Terasoluna (Spring, Struts and iBatis) 
+Report: Jasper Report. 
+Web server: Tomcat 6. 
+Database: MS SQL. 

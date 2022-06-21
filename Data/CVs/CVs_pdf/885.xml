@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="50" family="HGJUQH+LMSans17" color="#000000"/>
+	<fontspec id="1" size="25" family="QXAXJI+LMSans17" color="#727272"/>
+	<fontspec id="2" size="14" family="JZSRYH+MarVoSym" color="#727272"/>
+	<fontspec id="3" size="14" family="SSQIQJ+LMSans10" color="#727272"/>
+	<fontspec id="4" size="21" family="ETXCNI+LMSans12" color="#7f54cc"/>
+	<fontspec id="5" size="16" family="JZSRYH+MarVoSym" color="#7f54cc"/>
+	<fontspec id="6" size="16" family="YNRVRJ+LMSans10" color="#000000"/>
+	<fontspec id="7" size="16" family="RKYWPY+LMSans10" color="#000000"/>
+	<fontspec id="8" size="16" family="SSQIQJ+LMSans10" color="#000000"/>
+	<fontspec id="9" size="16" family="FBZAMN+LMRomanCaps10" color="#000000"/>
+<text top="101" left="89" width="255" height="46" font="0">COULIBALY</text>
+<text top="138" left="88" width="170" height="46" font="0">ADAMA</text>
+<text top="197" left="89" width="172" height="23" font="1"><i>Curriculum Vitae</i></text>
+<text top="186" left="670" width="13" height="16" font="2">H</text>
+<text top="187" left="688" width="110" height="13" font="3"><i>(+84) 983521482</i></text>
+<text top="204" left="475" width="13" height="16" font="2">B</text>
+<text top="205" left="494" width="305" height="13" font="3"><a href="mailto:coulibalysadama@gmail.com, coulibaly@ifi.edu.vn"><i>coulibalysadama@gmail.com, coulibaly@ifi.edu.vn</i></a></text>
+<text top="300" left="197" width="210" height="19" font="4">Academic Qualifications</text>
+<text top="345" left="88" width="9" height="18" font="5">{</text>
+<text top="336" left="118" width="82" height="15" font="6">2017 - 2019</text>
+<text top="336" left="213" width="308" height="15" font="7"><b>MSc, Intelligent and Multimedia Systems</b></text>
+<text top="336" left="521" width="4" height="15" font="6">,</text>
+<text top="336" left="531" width="238" height="15" font="8"><i>Vietnam National University (VNU)</i></text>
+<text top="336" left="769" width="54" height="15" font="6">, Hanoi-</text>
+<text top="356" left="213" width="72" height="15" font="6">Vietnam, .</text>
+<text top="381" left="88" width="9" height="18" font="5">{</text>
+<text top="382" left="118" width="82" height="15" font="6">2017 - 2019</text>
+<text top="382" left="213" width="335" height="15" font="7"><b>MSc, Enterprise Digital Content Engineering</b></text>
+<text top="382" left="549" width="5" height="15" font="6">,</text>
+<text top="382" left="559" width="130" height="15" font="8"><i>Rochelle University</i></text>
+<text top="382" left="688" width="131" height="15" font="6">, Rochelle-France, .</text>
+<text top="407" left="88" width="9" height="18" font="5">{</text>
+<text top="408" left="118" width="82" height="15" font="6">2010 - 2013</text>
+<text top="408" left="213" width="177" height="15" font="7"><b>BSc, Computer Science</b></text>
+<text top="408" left="390" width="5" height="15" font="6">,</text>
+<text top="408" left="400" width="287" height="15" font="8"><i>University Institute of Management (IUG)</i></text>
+<text top="408" left="687" width="115" height="15" font="6">, Bamako-Mali, .</text>
+<text top="445" left="197" width="45" height="19" font="4">Skills</text>
+<text top="477" left="88" width="9" height="18" font="5">{</text>
+<text top="478" left="106" width="81" height="15" font="7"><b>Technical :</b></text>
+<text top="478" left="195" width="611" height="15" font="6">Python, Java, C++, C# , Javascript, PHP, Prolog..., Data Mining techniques, Github,</text>
+<text top="498" left="106" width="368" height="15" font="6">Docker, Kubernet, Matlab, LaTeX, Photoshop, Gimp.</text>
+<text top="518" left="88" width="9" height="18" font="5">{</text>
+<text top="518" left="106" width="34" height="15" font="7"><b>IDE:</b></text>
+<text top="518" left="145" width="432" height="15" font="6">(Eclipse, NetBean, Visual Studio, CodeBlock IDE, JetBrains...)</text>
+<text top="538" left="88" width="9" height="18" font="5">{</text>
+<text top="539" left="106" width="144" height="15" font="7"><b>Machine Learning :</b></text>
+<text top="539" left="257" width="549" height="15" font="6">( Tensorflow(currently learning), Keras, KNN, K-MEANS, OpenCV, Matplotlib,</text>
+<text top="559" left="106" width="67" height="15" font="6">Numpy...)</text>
+<text top="579" left="88" width="9" height="18" font="5">{</text>
+<text top="579" left="106" width="134" height="15" font="7"><b>GAMA Platform :</b></text>
+<text top="579" left="247" width="309" height="15" font="6">(Modeling and Simulation Complex Systems)</text>
+<text top="599" left="88" width="9" height="18" font="5">{</text>
+<text top="600" left="106" width="131" height="15" font="7"><b>Computer Vision:</b></text>
+<text top="600" left="243" width="129" height="15" font="6">(OpenCV, STIF...)</text>
+<text top="619" left="88" width="9" height="18" font="5">{</text>
+<text top="620" left="106" width="157" height="15" font="7"><b>Pattern recognition :</b></text>
+<text top="620" left="271" width="533" height="15" font="6">(Bayesian classification, SVM-based classification, classification using neural</text>
+<text top="640" left="106" width="66" height="15" font="6">networks)</text>
+<text top="660" left="88" width="9" height="18" font="5">{</text>
+<text top="661" left="106" width="243" height="15" font="7"><b>Virtual and Augmented Reality :</b></text>
+<text top="661" left="356" width="173" height="15" font="6">(Unity, Blender, Vuforia.)</text>
+<text top="680" left="88" width="9" height="18" font="5">{</text>
+<text top="681" left="106" width="213" height="15" font="7"><b>Reasoning and Uncertainty :</b></text>
+<text top="681" left="326" width="444" height="15" font="6">(Propositional logic, modal logic, fuzzy logic, Bayesian networks)</text>
+<text top="701" left="88" width="9" height="18" font="5">{</text>
+<text top="701" left="106" width="356" height="15" font="7"><b>Multi-Agent System and Artificial Intelligence :</b></text>
+<text top="701" left="469" width="136" height="15" font="6">(GAMA and JADE)</text>
+<text top="721" left="88" width="9" height="18" font="5">{</text>
+<text top="722" left="106" width="240" height="15" font="7"><b>Interactive systems engineering:</b></text>
+<text top="722" left="352" width="452" height="15" font="6">(Simulation of a development using the Scrum method, Framework</text>
+<text top="742" left="105" width="198" height="15" font="6">XNA/monogame, Métrique).</text>
+<text top="762" left="88" width="9" height="18" font="5">{</text>
+<text top="762" left="106" width="225" height="15" font="7"><b>Indexing multimedia content :</b></text>
+<text top="762" left="338" width="465" height="15" font="6">(Clustering and Indexation, Multiscale and multi-orientation invariant</text>
+<text top="783" left="106" width="407" height="15" font="6">signatures for pattern recognition and multimedia indexing)</text>
+<text top="802" left="88" width="9" height="18" font="5">{</text>
+<text top="803" left="106" width="226" height="15" font="7"><b>Web design and development:</b></text>
+<text top="803" left="338" width="271" height="15" font="6">Java EE, Spring, Hibernate, Wordpress.</text>
+<text top="823" left="88" width="9" height="18" font="5">{</text>
+<text top="823" left="106" width="72" height="15" font="7"><b>Systems :</b></text>
+<text top="826" left="178" width="137" height="14" font="9">Windows, Linux.</text>
+<text top="849" left="88" width="9" height="18" font="5">{</text>
+<text top="850" left="106" width="83" height="15" font="7"><b>Languages:</b></text>
+<text top="850" left="196" width="198" height="15" font="6">English, French, Vietnamese.</text>
+<text top="887" left="197" width="71" height="19" font="4">Projects</text>
+<text top="919" left="88" width="9" height="18" font="5">{</text>
+<text top="919" left="106" width="403" height="15" font="7"><b>Software engineering : Software Assurance and Quality</b></text>
+<text top="919" left="509" width="295" height="15" font="6">, The criteria of a quality software that meets</text>
+<text top="940" left="106" width="122" height="15" font="6">the requirements;</text>
+<text top="940" left="233" width="165" height="15" font="7"><b>Housing Management</b></text>
+<text top="940" left="398" width="405" height="15" font="6">, Application design of a housing or building management</text>
+<text top="960" left="106" width="31" height="15" font="6">tool.</text>
+<text top="980" left="88" width="9" height="18" font="5">{</text>
+<text top="980" left="106" width="528" height="15" font="7"><b>Project management:Tracking the progress of a development project</b></text>
+<text top="980" left="634" width="170" height="15" font="6">, with the agile method</text>
+<text top="1001" left="105" width="59" height="15" font="6">(scrum);</text>
+<text top="1001" left="169" width="178" height="15" font="7"><b>Internship Management</b></text>
+<text top="1001" left="347" width="456" height="15" font="6">, Design of an internship management tool, facilitating the search</text>
+<text top="1021" left="106" width="188" height="15" font="6">for end-of-cycle internships.</text>
+<text top="1061" left="88" width="9" height="18" font="5">{</text>
+<text top="1062" left="106" width="201" height="15" font="7"><b>Personal work Supervised :</b></text>
+<text top="1062" left="314" width="489" height="15" font="6">Package and redeploy the IFI Online Schedule with Docker and GitHub.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="10" size="17" family="RKYWPY+LMSans10" color="#7f54cc"/>
+	<fontspec id="11" size="14" family="YNRVRJ+LMSans10" color="#000000"/>
+	<fontspec id="12" size="16" family="SQTJQN+LMMathSymbols10" color="#000000"/>
+<text top="105" left="88" width="9" height="18" font="5">{</text>
+<text top="106" left="106" width="108" height="15" font="7"><b>Data- mining :</b></text>
+<text top="106" left="221" width="583" height="15" font="6">Prediction of type 2 diabetes in a group of pima indian women living in Arizona, United</text>
+<text top="126" left="106" width="143" height="15" font="6">States with Tanagra.</text>
+<text top="166" left="88" width="9" height="18" font="5">{</text>
+<text top="167" left="106" width="307" height="15" font="7"><b>Image processing and Computer Vision:</b></text>
+<text top="167" left="423" width="380" height="15" font="6">Image enhancement, contrast, segmentation, contour</text>
+<text top="187" left="106" width="698" height="15" font="6">detection, face recognition with Convolutional Neural Network (CNN), skin detection, motion detection</text>
+<text top="208" left="106" width="269" height="15" font="6">in a video stream... in C++ &amp; Python.</text>
+<text top="248" left="88" width="9" height="18" font="5">{</text>
+<text top="248" left="106" width="150" height="15" font="7"><b>Pattern recognition:</b></text>
+<text top="248" left="263" width="541" height="15" font="6">Object recognition, objects and people detection in an image or video in Python.</text>
+<text top="288" left="88" width="9" height="18" font="5">{</text>
+<text top="289" left="106" width="195" height="15" font="7"><b>Man Machine Interaction:</b></text>
+<text top="289" left="308" width="474" height="15" font="6">Prototype of a tool that improves the user’s sleep with multi-tasking.</text>
+<text top="329" left="88" width="9" height="18" font="5">{</text>
+<text top="330" left="106" width="225" height="15" font="7"><b>Indexing multimedia content :</b></text>
+<text top="330" left="338" width="468" height="15" font="6">Indexing of images by content using Hu Moments, color histograms,</text>
+<text top="350" left="106" width="127" height="15" font="6">KNN..., in python.</text>
+<text top="390" left="88" width="9" height="18" font="5">{</text>
+<text top="391" left="106" width="239" height="15" font="7"><b>Virtual Reality and Augmented:</b></text>
+<text top="391" left="353" width="453" height="15" font="6">HumanoidProject, creating a humanoid avatars with animations,</text>
+<text top="411" left="106" width="567" height="15" font="6">modeling objects in a real environment with tools like Blender, Unity, Vuforia, C#.</text>
+<text top="451" left="88" width="9" height="18" font="5">{</text>
+<text top="452" left="106" width="152" height="15" font="7"><b>Multi-Agent System</b></text>
+<text top="452" left="263" width="543" height="15" font="6">Modeling and simulation of air traffic, evacuation of a flood case, traffic (car-</text>
+<text top="472" left="106" width="698" height="15" font="6">refour), ants, K-mean, Predator and prey, Traffic in a crossroads, Evacuation in a fire, with Gama</text>
+<text top="492" left="106" width="187" height="15" font="6">platform and JADE (Java).</text>
+<text top="532" left="88" width="9" height="18" font="5">{</text>
+<text top="533" left="106" width="193" height="15" font="7"><b>Constraint programming :</b></text>
+<text top="533" left="306" width="500" height="15" font="6">Realization with the Java OpenCBLS (local searches) and CHOCO (pro-</text>
+<text top="553" left="106" width="698" height="15" font="6">gramming by constraints exhaustive and optimal search) libraries of course scheduling and optimization</text>
+<text top="574" left="106" width="326" height="15" font="6">programs (Course scheduling and Bin Packing).</text>
+<text top="614" left="88" width="9" height="18" font="5">{</text>
+<text top="614" left="106" width="256" height="15" font="7"><b>Network Design and Architecture:</b></text>
+<text top="614" left="369" width="212" height="15" font="6">The project &#34;Linux in network&#34;</text>
+<text top="634" left="88" width="9" height="18" font="5">{</text>
+<text top="635" left="106" width="211" height="15" font="7"><b>Ontology &amp; Semantic Web :</b></text>
+<text top="635" left="324" width="480" height="15" font="6">Social network simulation with python library Rdflib for the construction</text>
+<text top="655" left="106" width="402" height="15" font="6">of the RDF and Jenna Serveur for deployment of RDF file.</text>
+<text top="710" left="197" width="271" height="19" font="4">Employment Work Experience</text>
+<text top="761" left="88" width="9" height="18" font="5">{</text>
+<text top="743" left="113" width="87" height="15" font="6">March - July</text>
+<text top="763" left="167" width="33" height="15" font="6">2014</text>
+<text top="743" left="213" width="111" height="15" font="7"><b>ORANGE-Mali</b></text>
+<text top="743" left="324" width="5" height="15" font="6">,</text>
+<text top="743" left="334" width="67" height="15" font="8"><i>Internship</i></text>
+<text top="743" left="401" width="110" height="15" font="6">, Bamako, Mali.</text>
+<text top="779" left="215" width="7" height="16" font="10"><b>-</b></text>
+<text top="781" left="229" width="293" height="13" font="11">Computer networks troubleshooting assistance.</text>
+<text top="829" left="88" width="9" height="18" font="5">{</text>
+<text top="812" left="110" width="92" height="15" font="6">March 2015 -</text>
+<text top="832" left="129" width="70" height="15" font="6">April 2016</text>
+<text top="812" left="213" width="121" height="15" font="7"><b>ORANGE-MALI</b></text>
+<text top="812" left="334" width="5" height="15" font="6">,</text>
+<text top="812" left="344" width="197" height="15" font="8"><i>computer network technician</i></text>
+<text top="812" left="541" width="110" height="15" font="6">, Bamako, Mali.</text>
+<text top="848" left="215" width="7" height="16" font="10"><b>-</b></text>
+<text top="850" left="229" width="395" height="13" font="11">Installation equipment and troubleshooting computer networks.</text>
+<text top="892" left="88" width="9" height="18" font="5">{</text>
+<text top="874" left="110" width="92" height="15" font="6">March 2017 -</text>
+<text top="895" left="134" width="65" height="15" font="6">Nov 2017</text>
+<text top="874" left="213" width="107" height="15" font="7"><b>STOP-SAHEL</b></text>
+<text top="874" left="327" width="5" height="15" font="6">,</text>
+<text top="874" left="337" width="224" height="15" font="8"><i>Community Development Officer</i></text>
+<text top="874" left="561" width="84" height="15" font="6">, Kita, Mali.</text>
+<text top="910" left="215" width="7" height="16" font="10"><b>-</b></text>
+<text top="913" left="229" width="454" height="13" font="11">Sensitization, education and formalization of women’s and youth groups.</text>
+<text top="948" left="197" width="93" height="19" font="4">References</text>
+<text top="989" left="88" width="9" height="18" font="5">{</text>
+<text top="990" left="106" width="210" height="15" font="7"><b>Mr. Ho Tuong Vinh, Phd,</b></text>
+<text top="990" left="323" width="480" height="15" font="6">Head of Training &amp; Vice Director at the IFI (Institut Francophone</text>
+<text top="1010" left="106" width="349" height="15" font="6">International), Vietnam National University; Email:</text>
+<text top="1010" left="462" width="190" height="15" font="7"><b>ho.tuong.vinh@gmail.com</b></text>
+<text top="1039" left="88" width="9" height="18" font="5">{</text>
+<text top="1039" left="106" width="249" height="15" font="7"><b>Mrs. Nguyen Hong Quang, PhD,</b></text>
+<text top="1039" left="360" width="443" height="15" font="6">Professor (Network design and architecture, GNU-LINUX) at the</text>
+<text top="1060" left="106" width="478" height="15" font="6">IFI (Institut Francophone International), Vietnam National University;</text>
+<text top="1080" left="106" width="174" height="15" font="6">Phone: +84 912 751 749</text>
+<text top="1079" left="296" width="5" height="15" font="12">·</text>
+<text top="1080" left="311" width="43" height="15" font="6">Email:</text>
+<text top="1080" left="361" width="224" height="15" font="7"><b>nguyen.hong.quang@ifi.edu.vn</b></text>
+</page>
+<outline>
+<item page="1">Academic Qualifications</item>
+<item page="1">Skills</item>
+<item page="1">Projects</item>
+<item page="2">Employment  Work Experience</item>
+<item page="2">References</item>
+</outline>
+</pdf2xml>

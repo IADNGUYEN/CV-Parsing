@@ -1,0 +1,54 @@
+Curriculum Vitae 
+PERSONAL DETAILS 
+Name:       Nguyen Hoang Tuan. 
+Birth:        14-08-1992. 
+Address:   43 Nguyen Thanh Tuyen Street, Tan Binh District, HCMC  
+Phone:       0169 277 3141. 
+Email:       nghoangtuan92@gmail.com 
+OBJECTTIVE 
+I would like to work hard and implement my abilities as well as polish my knowledge through 
+techniques in a challenging company. 
+EDUCATION 
+University: SAIGON UNIVERSITY 2010 – 2015 
+Major: Software Engineering 
+English: Reading documents 
+Certificate: PHP programmer at Nhat Nghe center  Ho Chi Minh city and  Java 
+programmer at computer science center  University of Science  Ho Chi Minh city  
+JOB EXPERIENCES 
+Web Developer – VACS Technology 
+May 2016 – February 2017 (10 months) 
+Developing AMS (Accounting Management System):  Management accounting period.  Management upload/download file and Document viewer. 
+Developing PAS  Managing staff absence.  Management timekeeping and payroll salary calculator for staff. 
+Programming server-side by C# .NET, MVC, Entity framework, LINQ. 
+With client-side using HTML, CSS, JS, JQUERY and jqGrid to application development. 
+Fix bugs and optimize coding. 
+Web Developer – FPT Shop 
+March 2015 – April 2016 (1 year 2 months) 
+Developing BI (Export big data system)  System focused to export big report with hundreds megabyte data.  Receive data from order team and analytical to report for customers.  Programming with languages as C#, Web Forms, ADO.NET, SQL Server.  Web design with by HTML, CSS, Javascript and Telerik.  
+Developing MRP (Material requirements planning system)  Plan manufacturing activities, delivery schedules and purchasing activities between shops.  Application developed by VB.NET, Win Forms, WCF service, SQL Server and using 
+Devexpress for UI. 
+Create and Developing Rebate  System created to calculate amount paid by way of reduction, return, or refund on what 
+has already been paid or contributed  Project window application with languages as VB.NET, Win Forms, Devxpres, WCF 
+service. 
+Calculator Bonus with Inside Database 
+Working Data Warehouse  Synchronize Data from CRM, POS, SAP, Mobile by SQL Server, Stored Procedures, 
+Linked Server.  Return data has been analyzed and statistically analyzed. 
+Fix bugs and optimize coding and support users export big reports 
+Web Developer Internship  HCMC Tax 
+(March 2014 – May 2014) 
+Developing Web Taxpayer Information (C# Web Forms) 
+Working with C#, .NET, MS SQL, Crystal Reports, HTML, CSS, JS 
+SKILLS 
+Analysing and debugging code. 
+Ability to work independently and groups 
+Html, CSS, Bootstrap, JavaScript, JQuery, jqGrid, dhtmlx 
+ASP.NET Webforms + Telerik 
+ASP.NET Winforms + DevExpress + WCF service 
+ASP.NET MVC + Entity framework. + LINQ 
+SQL Server 2008/2012 + Stored Procedure  
+Basic PHP Yii Framework, MySQL, Java JSP, Photoshop 
+INTERESTS 
+Researching, learning new technology. 
+Read Book 
+Watch TV and Listen Music 
+Play Game 

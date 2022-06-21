@@ -1,0 +1,49 @@
+OBJECTIVE 
+To gain practical work experience. 
+To apply my programming knowledge to real tasks and 
+gain a deeper understanding of machine learning. 
+Pursue a career in Computer Vision and Machine 
+Learning. 
+EDUCATION 
+BACH KHOA UNIVERSITY HCM CITY 
+GPA: 6.58 
+MY PROJECTS 
+Object Detection: use OpenCV (Deep Learning) and Raspberry 
+Pi 3 (camera module and USB Webcam) 
+to recognize objects in real-time video. 
+OCR of Handwritten Data: use OpenCV (SVM and kNN) to 
+recognize handwritten characters. 
+Image Classification: use Keras and Deep Learning to 
+recognize which photos have smile face in a bunch 
+of photos 
+CERTIFICATION 
+TOEIC (915/990) 
+(2017) 
+ACTIVITIES 
+Learn useful programming languages like C/C++, Python and 
+Lua. 
+Read blogs about Machine Learning, Computer Vision, Big 
+Data, Network and IoT on Medium and other websites. 
+Used to work part-time at an electronics DIY shop. The work 
+included managing a website and a facebook fanpage, sale and 
+support costumers in technical problems. 
+NGUYEN HUYNH DUC 
+AI/MACHINE LEARNING INTERNSHIP 
+PERSONAL INFORMATION 
+DoB: 01/05/1995 
+Addr: Nguyen Thi Nho, Dist 11, HCM 
+Tel: (+84 164 778 4481) 
+Email: duc.h.nguyen15@gmail.com 
+SKILLS & ABILITIES 
+English  
+ 
+Teamwork  
+ 
+Programming 
+  
+Work alone 
+ 
+Communication 
+ 
+Planning 
+ 

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="32" family="ABCDEE+Tahoma" color="#000000"/>
+	<fontspec id="1" size="18" family="ABCDEE+Tahoma" color="#ffffff"/>
+	<fontspec id="2" size="18" family="ABCDEE+Tahoma" color="#000000"/>
+	<fontspec id="3" size="18" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="4" size="18" family="Arial" color="#000000"/>
+	<fontspec id="5" size="18" family="ABCDEE+Tahoma,Bold" color="#000000"/>
+	<fontspec id="6" size="18" family="ABCDEE+Tahoma" color="#0066ff"/>
+	<fontspec id="7" size="16" family="ABCDEE+Tahoma" color="#000000"/>
+	<fontspec id="8" size="21" family="ABCDEE+Tahoma" color="#000000"/>
+<text top="108" left="297" width="310" height="40" font="0">CURRICULUM VITAE </text>
+<text top="182" left="342" width="216" height="22" font="1">PERSONAL INFORMATION </text>
+<text top="216" left="116" width="6" height="22" font="2"> </text>
+<text top="240" left="143" width="14" height="20" font="3"></text>
+<text top="243" left="157" width="5" height="17" font="4"> </text>
+<text top="238" left="170" width="95" height="22" font="5"><b>Full name:</b></text>
+<text top="238" left="265" width="161" height="22" font="2">  Phát, Tấn Nguyễn </text>
+<text top="262" left="143" width="14" height="20" font="3"></text>
+<text top="265" left="157" width="5" height="17" font="4"> </text>
+<text top="260" left="170" width="245" height="22" font="5"><b>Date of Birth: 28/07/1994 </b></text>
+<text top="283" left="143" width="14" height="20" font="3"></text>
+<text top="287" left="157" width="5" height="17" font="4"> </text>
+<text top="282" left="170" width="84" height="22" font="5"><b>Address: </b></text>
+<text top="282" left="254" width="325" height="22" font="2"> 139 Bạch Đằng, Phường 2, Q Tân Bình, </text>
+<text top="303" left="143" width="74" height="22" font="2"> TP HCM </text>
+<text top="327" left="143" width="14" height="20" font="3"></text>
+<text top="330" left="157" width="5" height="17" font="4"> </text>
+<text top="325" left="170" width="121" height="22" font="5"><b>Mobile phone</b></text>
+<text top="325" left="292" width="116" height="22" font="2">: 0949007563 </text>
+<text top="349" left="143" width="14" height="20" font="3"></text>
+<text top="352" left="157" width="5" height="17" font="4"> </text>
+<text top="347" left="170" width="50" height="22" font="5"><b>Email</b></text>
+<text top="347" left="220" width="12" height="22" font="2"><a href="mailto:phattx11@gmail.com">: </a></text>
+<text top="347" left="232" width="168" height="22" font="6"><a href="mailto:phattx11@gmail.com">phattx11@gmail.com</a></text>
+<text top="347" left="400" width="6" height="22" font="2"><a href="mailto:phattx11@gmail.com"> </a></text>
+<text top="370" left="143" width="14" height="20" font="3"></text>
+<text top="373" left="157" width="5" height="17" font="4"> </text>
+<text top="368" left="170" width="86" height="22" font="5"><b>Facebook</b></text>
+<text top="368" left="256" width="174" height="22" font="2">: fb.com/phattx10ccc </text>
+<text top="392" left="143" width="14" height="20" font="3"></text>
+<text top="395" left="157" width="5" height="17" font="4"> </text>
+<text top="390" left="170" width="354" height="22" font="5"><b>Skype: nguyentanphat.312@gmail.com</b></text>
+<text top="390" left="524" width="6" height="22" font="2"> </text>
+<text top="457" left="398" width="103" height="22" font="1">EDUCATION </text>
+<text top="492" left="143" width="16" height="20" font="3"></text>
+<text top="495" left="159" width="5" height="17" font="4"> </text>
+<text top="490" left="170" width="503" height="22" font="2">Students College of Economics - Engineering Can Tho, Science </text>
+<text top="512" left="170" width="326" height="22" font="2">Communications and Computer Network </text>
+<text top="565" left="116" width="6" height="22" font="1"> </text>
+<text top="565" left="439" width="37" height="22" font="1">AIM </text>
+<text top="600" left="143" width="16" height="20" font="3"></text>
+<text top="603" left="159" width="5" height="17" font="4"> </text>
+<text top="598" left="170" width="612" height="22" font="2">To practice and develop their skills in Information Technology, in particular, </text>
+<text top="620" left="170" width="612" height="22" font="2">Computer  Network.  Studying  in  a  dynamic  environment  and  professional, </text>
+<text top="642" left="170" width="612" height="22" font="2">gather  advanced  experience.  Can  exchange  expertise  and  compelling  job </text>
+<text top="664" left="170" width="63" height="22" font="2">search. </text>
+<text top="696" left="390" width="120" height="22" font="1">Advanced Skill </text>
+<text top="729" left="143" width="16" height="20" font="3"></text>
+<text top="733" left="159" width="5" height="17" font="4"> </text>
+<text top="729" left="170" width="590" height="20" font="7">Having knowledge about networks and network protocol such as TCP, IP, HTTP, </text>
+<text top="749" left="170" width="103" height="20" font="7">FTP, SMTP, ...</text>
+<text top="748" left="273" width="6" height="22" font="2"> </text>
+<text top="778" left="143" width="16" height="20" font="3"></text>
+<text top="782" left="159" width="5" height="17" font="4"> </text>
+<text top="778" left="170" width="561" height="20" font="7">Having basic knowledge test, was used for the testing process programming </text>
+<text top="798" left="170" width="275" height="20" font="7">exercises while studying at university.</text>
+<text top="797" left="445" width="6" height="22" font="2"> </text>
+<text top="829" left="143" width="16" height="20" font="3"></text>
+<text top="832" left="159" width="5" height="17" font="4"> </text>
+<text top="829" left="170" width="532" height="20" font="7">Knowledge platform on the telecommunications equipment, terminals, ...</text>
+<text top="827" left="702" width="6" height="22" font="2"> </text>
+<text top="882" left="143" width="16" height="20" font="3"></text>
+<text top="886" left="159" width="5" height="17" font="4"> </text>
+<text top="882" left="170" width="561" height="20" font="7">Taking high thinking, able to work independently and good team work. High </text>
+<text top="902" left="170" width="367" height="20" font="7">pressure, easily adaptable to work, eager to learn.</text>
+<text top="901" left="537" width="6" height="22" font="2"> </text>
+<text top="936" left="143" width="16" height="20" font="3"></text>
+<text top="939" left="159" width="5" height="17" font="4"> </text>
+<text top="936" left="170" width="521" height="20" font="7">Detecting and handling errors in hardware and computer software well.</text>
+<text top="934" left="691" width="6" height="22" font="2"> </text>
+<text top="972" left="116" width="6" height="22" font="2"> </text>
+<text top="1006" left="342" width="214" height="22" font="1">ACTIVITIES &amp; INTERESTS </text>
+<text top="1041" left="143" width="16" height="20" font="3"></text>
+<text top="1044" left="159" width="5" height="17" font="4"> </text>
+<text top="1039" left="170" width="536" height="22" font="2">Activities in Ho Chi Minh Communist Youth Union in the Economy - </text>
+<text top="1061" left="170" width="122" height="22" font="2">Technical Tho  </text>
+<text top="1084" left="143" width="16" height="20" font="3"></text>
+<text top="1088" left="159" width="5" height="17" font="4"> </text>
+<text top="1083" left="170" width="572" height="22" font="2"> Like fake foreign travel, play League of Legends, FIFA Online 3, Music, </text>
+<text top="1104" left="170" width="76" height="22" font="2">News, ... </text>
+<text top="1126" left="108" width="7" height="25" font="8"> </text>
+</page>
+</pdf2xml>

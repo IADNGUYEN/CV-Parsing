@@ -1,0 +1,54 @@
+Nguyễn Bá Bình
+Computer Engineer
+0969 052.523
+nguyenbabinhcse@gmail.com
+linkedin.com/in/binhnb
+Every champion was once a contender that refused to give
+up.
+Education
+2013–2018
+Bachelor Computer Engineering Talent Program,
+Faculty of Computer Science and Engineering, Bách Khoa University,
+Major: Comupter Engineering.
+GPA: 7.5/10
+Experience
+2018–Present
+Hardware Developer, CyberCore VietNam, Hồ Chí Minh City.
+Deploy a Machine Learning solution for Object Classification in FPGA platform.
+Detailed achievements:
+Deep Learning Specialization Certificate (link)
+Object Classification using Binarized Neural Networks;  Network: Binarized Neural Networks (W1A1)  Platform: PYNQ.  Board: ZC706, Ultra96.  Video demo: link
+Handwritten Text Recognition using Neutral Network  Network: Neutral Network.  Platform: Pure Verilog HDL.  Board: ZC706, KC705.  Video demo: link
+2017–2018
+Software Developer, FPT Software, Hồ Chí Minh City.
+Building a Crawler to collect data from multiple sources
+Detail achievements:
+Social Network API: Facebook, Twitter.
+Crawling framework: Scrapy.
+Familiar with AWS Infrastructure: EC2, ECS, Lambda. . .
+Learn about design patterns.
+Hard Skill
+Programming
+Language
+Python, Verilog
+Machine
+Learning
+Image Classification, NLP
+Crawler
+Facebook, Twitter
+Soft Skill
+Teamwork
+Software development process
+and management
+Languages
+English
+TOIEC 835/990
+Interests
+Professional
+Design system, beautiful coding
+Personal
+Game Online, music, reading book
+References
+Technical Leader
+Mr. Nguyen Quoc Khai (nqkhai1706@gmail.com)
+Mr. Ho Lai Tuan (holaituan@gmail.com)

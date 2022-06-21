@@ -1,0 +1,43 @@
+ 
+EDUCATION 
+Bachelor of Electronics and communications engineering technology (2011-2015) 
+Electronics Department – Hanoi University of Industry, Viet Nam 
+Grade: 3.11/4    Thesis score: 9/10 
+Thesis title: Design the Low Noise Amplifier in 130nm CMOS technology 
+RESEARCH INTERESTS 
+Analog and Digital circuit design 
+RF integrated circuit design 
+Wireless communication 
+Amplifier Design, Cmos Design, Oscilator. 
+EXPERIENCES 
+Design Count circuit from theory to the real product 
+Design audio Amplifier circuit from theory to the real product. 
+Have ever stimulated Inverter ( not layout), Different pair ( not layout), Oscilator ( not layout), Low 
+noise amplifier ( not layout). 
+Graduation project 
+Understanding the structure and working methods of Low Noise Amplifier circuit  
+Design and simulation on Cadence Virtuoso. 
+In 2017: Work at WINSLAB ( KYUNG HEE university ) in Korea  
+Research Neural network 
+Implement Handwritten digit recognition on FPGA (using verilog) 
+1/2/2018: Work at ZTE in Da nang 
+GSM RF Optimization Engineer 
+CAREER SKILLS 
+Have programming skills in C language (a few), Verilog. 
+Experience in using  Cisco Packet Tracer, Orcad,Verilog  and CadenceVirtuoso, ModelSim. 
+Computer software : Word, Excel, Power Point 
+CERTIFICATION 
+Toeic : 740 
+PERSONAL DETAILS 
+Name 
+Le Van Dong 
+Place and date of birth 
+Viet Nam, 26th November  1992 
+Sex 
+Male 
+Marital status   
+Single 
+Telephone number 
+0967421223 
+Email 
+Levandongnd26111992@gmail.com 

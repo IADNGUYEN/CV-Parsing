@@ -1,0 +1,82 @@
+ 
+Hiep Dang 
+Full name 
+Nationality 
+Date of Birth 
+Gender 
+Phone  
+Email 
+Languages:     
+Dang Le Minh Hiep 
+Viet Nam 
+April 24, 1989 
+Male 
+0120 373 3688 
+dangleminhhiep@gmail.com 
+Vietnamese (Native), English (Intermediate) 
+SUMMARY 
+3+ years of software development  experience  
+Solid experience in Java, PHP  programming language 
+Strong experience in OOP, MVC programming 
+Experience working in many types of software project: Development, 
+Migration, Design 
+EDUCATION 
+Bachelor of Electric- Electronic Engineering (University of Technical Education 
+Ho Chi Minh City – 2012) 
+SKILLS 
+Java                                                       
+Spring MVC, Struts 2, Hibernate, 
+Internal Frameworks 
+1.5 years 
+PHP 
+CakePHP, 
+Internal Frameworks 
+1.5 years 
+Perl 
+Native Perl 
+0.5 year 
+DBMS 
+MySQL, Oracle 
+Others 
+HTML5, Javascipt, CSS, VBA 
+English 
+Reading, Listening (TOEIC 700) 
+Speaking, Writing 
+Intermediate 
+Level 
+SOFTWARE 
+Eclipse, PHPStorm 
+Oracle SQL Developer, MySQL Workbench 
+SVN, PuTTY 
+Microsoft Office 
+EXPERIENCE 
+FPT SOFTWARE HCM 
+Junior Software Developer  
+2014 – Now 
+2017 – Now 
+2016 – 2017  
+2015 – 2016 
+2014 – 2015 
+implement Multi Roll User Management System  
+Skill: PHP5, Oracle, HTML, Javascript 
+enhance Management System of Enterprise Website 
+Skill: CakePHP, MySQL, HTML, Design, Management 
+document and migrate a Japanese retail website 
+Skill: PHP, Perl, MySQL, Documentation, Management 
+implement Japanese Transport System application on 
+mobile device 
+Skill: Java, SQLite, HTML, Javascript, Test 
+develop a module to investigate and balance the 
+electric load 
+Skill: Java(Struts), Oracle, HTML, Design, Test 
+develop an internal application to manage the 
+infrastructure of electric system 
+Skill: Java, Oracle, HTML, Test 
+D 
+Team 
+Leader 
+Team 
+Leader 
+RENESAS DESIGN VIET NAM 
+Hardware design engineer 
+2011 – 2013 

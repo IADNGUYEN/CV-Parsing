@@ -1,0 +1,54 @@
+CURRICULUM VITAE 
+PERSONAL INFORMATION: 
+Full Name:  Dong Vo Duy 
+Gender: Male 
+Birthday: 12 – 02 – 1995 
+Nationality: Viet Nam 
+Address: Trung Doai – Cam Lac – Ha Tinh 
+Telephone:  0989325842 
+Email: voduydong2112hitu@gmail.com 
+CAREER INFORMATION: 
+Years of experiences: 2. 
+Current position: Software Engineer. 
+Qualification: Mechatronics engineer. 
+CAREER OBJECTIVE: 
+Expectation of position: Software Engineer. 
+Expectation of salary: 500-1000 USD 
+Working place:  Ho Chi Minh, Viet Nam 
+Type of job: Official 
+Career objective : I want to work in a dynamic environment, to be able to dedicate 
+myself to work, to promote my abilities. Contribute to the company development, 
+long-term attachment to the company. 
+WORKING EXPERIENCES: 
+COMPANY NAME: Nghiên Cứu & Sản Xuất Phần Mền D6-34. 
+Date Started – Date Ended: 9/2014 to current. 
+Working Time: 
+9/2014  9/2016:  Study programming languages C/C ++ and programming algorithms.  Study communication protocols such as I2C, CAN-Bus, UART, 
+SPI, Modbus-TCP/IP of ARM microcontrollers and embedded 
+computers using ARM architecture.  Work on environment Linux and Windows.  Tools use Qt, Eclipse, Keil C or Makefile, Scons.  Works on boards like STM32, Beaglebone Black, Raspberry 
+Pi, Orange Pi Zero, AR9331, Arduino. 
+10/2016  11/2016:  
+Programming robots line follower.  
+Programming language C.  
+Tools: Makefile, Eclipse.  
+Using STM32F103 chip.  
+Algorithm: PID controller (proportional-integral) and the interpolation 
+sensor. 
+11/2016 – 1/2017:  
+Programming Self-Balancing Robot.  
+Programming language C.  
+Tools: Makefile, Eclipse.  
+Use STM32F407 chip, MPU 9250 sensor.  
+Algorithm : PID controller, Kalman filter. 
+2/2017 to Current:  
+Research field IoT.  
+Product: Environmental monitoring of vegetable growing by 
+aquatic scene.  
+Work environment Linux.  
+Programming language C/C++.  
+Tools: Makefile, Scons, Qt, Eclipse.  
+Use framework: Alljoyn customize.  
+Building cloud computing base openfire use protocol XMPP.  
+Board STM32, Orange Pi Zero, Rasberry Pi, Beaglebone, AR9331.  
+Sensor Ph meter, SHT75, BH1750, PPM… 
+End. 

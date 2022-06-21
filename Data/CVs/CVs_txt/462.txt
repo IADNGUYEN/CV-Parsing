@@ -1,0 +1,68 @@
+Do Thanh Binh
++4915213342694
+binhtd.hust@gmail.com
+peace195.github.io
+magic10995
+linkedin.com/in/binhtd
+github.com/peace195
+Education
+B.Sc. Informatics
+Technical University of Munich, Germany
+Apr 2018  Oct 2018
+B.Sc. Computer Science
+Hanoi University of Science and Technology, Vietnam
+Aug 2013  present
+Working Experience
+Intern
+Technical University of Munich, Germany
+Apr 2018  present
+Improved prediction accuracy of protein secondary structure by multi-task learning (secondary structure prediction,
+b-values prediction, solvent-accessibility prediction). code
+Wrote a paper for microRNA identiﬁcation results and submitted to CVPR 2019 conference. code
+Researching and improving the microRNA target prediction task.
+Research Consultant
+WorldQuant LLC
+Jul 2017  present
+Developed statistical arbitrage & trading models based on ﬁnancial datasets using technical indicators, fundamental
+analysis, stochastic processes, and statistical learning.
+Machine Learning Developer
+VC Corporation
+Aug 2016  Sep 2017
+Deep Learning for opinion mining and recommendation systems.
+Obtained signiﬁcant improvements in sentence & aspect based sentiment analysis.
+Research Assistant
+International Research Institute MICA
+Jun 2016  Jan 2018
+Deep Learning for each single plant organ identiﬁcation.
+Improved the plant identiﬁcation accuracy by late fusion of multiple organs.
+Other Activities
+Present at the International Day 2018, TUM, Germany  Team Vietnam.
+May, Jun 2018
+Owning a small phone accessories shop. Managing, optimizing the marketing and sales.
+Oct 2016  present
+Software Engineering intern at Eastgate Software Co., Ltd.
+Aug 2016  Jan 2017
+Network Security Engineering intern at Bkav Corp.
+Nov 2014  Feb 2015
+Publications
+Nhan Nguyen, Binh Do, Hoang Nguyen, Hai Vu, Hai Tran, Lan Le, "Score-Based Fusion Schemes for Plant Identiﬁcation From
+Multi-organ Images", VNU Journal of Science: Computer Science and Communication Engineering, 2018, in under review.
+Binh Do, "Aspect-Based Sentiment Analysis Using Bitmask Bidirectional Long Short Term Memory Networks", 31st International
+Conference of the Florida Artiﬁcial Intelligence Research Society, AAAI, 2018, pages 259  264.
+Binh Do, Hoang Nguyen, Nhan Nguyen, Hai Vu, Hai Tran, Lan Le, "Plant Identiﬁcation Using Score-Based Fusion of
+Multi-Organ Images", 9th International Conference on Knowledge and Systems Engineering, IEEE, 2017, pages 191  196.
+Honor and Awards
+Vietnam National Foundation for Science and Technology Development travel Grant Award for FLAIRS, USA.
+2018
+ERASMUS scholarship for studying at the Technical University of Munich, Germany.
+2018
+Achieved Gold Level 1 status (top 1%) in WorldQuant Challenge  2017 Spring Alphathon.
+2017
+HUST encouraging study scholarships.
+2014, 2015, 2016
+Odon Vallet scholarships for excellent national students.
+2012
+Third prize at Vietnam National Mathematical Olympiad contest for high school students.
+2012
+References
+Assoc. Prof. Thi-Lan Le, Head of Computer Vision department, MICA, HUST, Thi-Lan.Le@mica.edu.vn.

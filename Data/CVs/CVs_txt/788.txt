@@ -1,0 +1,36 @@
+TRAN ANH DUY
+STUDENT  SENIOR YEAR AT UNIVERSITY
+BASIC INFO
+27/12/1996
+0969430659
+duy34city@gmail.com
+Male
+Ho Chi Minh City, Viet Nam
+HOBBY  Play Badminton  Listen to music  Read a book
+SKILL
+Good communication
+Team works
+English Skill
+TARGET
+Network  System:  Gain working experience from professional and skillful colleagues  Practice knowledge acquired from schools in empirical working
+environment  Master building system for customer with a real project
+Programing:  Develop team-work skills and create a software serving the users’
+demand  Increase experience about coding from experts -> Broaden professional experience in Networking, System and
+Programming.
+EDUCATION
+HO CHI MINH UNIVERSITY TECHNOLOGY
+Oct-2014  2018
+major: Computer science
+Classiﬁcation: Good (GPA 3.15/4)
+EXPERIENCE
+HO CHI MINH UNIVERSITY TECHNOLOGY
+Oct-2014  2018
+Student
+Throughout the studying period in university, I have participated in some
+projects such as:  Deploying basic services on Server.  Routing a network.  Conﬁguring router, switch, security for router, switch,...  Monitoring Server: Nagios.  Programming: Chat App, Backdoor Program (Used Java)
+Nguyen Hoang Nam  nh.nam@hutech.edu.vn
+PRIZE
+Scholarship Holder
+2017
+Frist Prize in Hutech IT Got Tanlent competition
+2018

@@ -1,0 +1,383 @@
+ 
+NGO MINH TRI 
+Email: nmtri1987@gmail.com 
+SENIOR SOFTWARE ENGINEER 
+Cell phone: 098 706 6780 
+Date of birth: October 7th, 1987 
+Gender: Male 
+Address: 47/79  Lac Long Quan Street,  Ward 1, District 11, HCM City 
+Linkedin: https://www.linkedin.com/in/tri-m-ngo 
+SUMMARY  
+7 years of experience in software development.  
+Extensive experience in development of Windows and Web-based applications with Microsoft 
+.NET technology (C#, VB.NET), ASP.NET, ASP.NET MVC, HTML/CSS, Javascript languages.  
+Experience in DotnetNuke and SharePoint.  
+Extensive experience in designing database applications using SQL Server.  
+More than 1 year of experience in negotiating & working with the clients in freelance jobs. 
+CAREER OBJECTIVE:  
+A position in IT industry which utilizes my programming skills and allows me to contribute to the 
+success of an organization through the knowledge and experience that I have gained. 
+EDUCATION LEVEL:  
+Software Engineering, Bachelor of Science – University of Science – Ho Chi Minh, Viet Nam  
+o Graduation year: September, 2009 
+o GPA: 7.6 
+o Academic transcript: 
+Academic transcript P1 
+Academic transcript P2 
+EMPLOYMENT HISTORY:  
+June 2009 > June 2012:  Software Developer  FPT Software Development Company  
+June 2012 > June 2014:  Software Developer/Senior Software Developer  Harvey Nash Viet Nam  
+June 2014 > Now:  Senior Software Engineer  Identifix 
+ACHIEVEMENT:  
+Excellence technician – FPT Software Development Company (Dec 2010)  
+Good performance – Harvey Nash Viet Nam(Dec2012) 
+7 YEARS OF EXPERIENCE IN DETAIL 
+Senior Software Engineer 
+2 year+ (June 2014 > Now) 
+Project: Direct-Hit 
+Duration: 2 year+ 
+Description: Direct-Hit by Identifix is the automotive service, maintenance 
+and repair industry’s largest and most reliable online and on demand 
+database of continually updated, experience-based information for what 
+breaks on vehicles and how to fix it. 
+Position: Senior Software Engineer 
+Project Team Size: 20+ 
+My Responsibility:  
+Upgrade, enhance, maintain legacy systems.  
+Design, develop new modules.  
+Unit tests, Intergration test, automation test 
+Technology:  
+ASP.NET MVC 5  
+MS SQL Server 2012  
+Selenium (Automation test)  
+WCF  
+TFS 2010/2012  
+JQuery  
+SimpleIoc  
+PostSharp  
+JQuery  
+BrowserHawk  
+AWS 
+Senior Software Engineer 
+8 months (Nov 2013 > June 2014) 
+Project: Civica Core Team 
+Duration: 5 months 
+Description: Civica Housing Cx is a solution for use by Housing Management 
+Organisations in the UK. Typically organisations who will use this will be local 
+authorities, housing associations (HA) and registered providers (RP). They will 
+use Civica Housing Cx as they main line of business application to support 
+the service they deliver to their tenants and customers. The common industry 
+term for solutions like Civica Housing Cx is an Integrated Housing 
+Management System, as it provides many functional business solutions in a 
+single application. 
+Position: Senior Software Engineer 
+Project Team Size: 8 
+My Responsibility:  
+Work directly with onshore team(Developers, QCs, Development 
+manager…) as well as offshore team(Developers, QCs, TAs) to fix 
+regression bugs, performance issues, implement the change requests.  
+Merge code between branches.  
+Unit tests.  
+Maintain the whole civica housing system(Civica Repairs, CommEngine, 
+Civica Rents…). 
+Technology:  
+Single Page Application  
+ASP.NET MVC4  
+MS SQL Server 2008  
+LocalDB(Intergration test)  
+MEF  
+Fluent NHibernate  
+TFS 2010/2012  
+AutoMapper  
+Autofac  
+SignalR  
+SQLDependency  
+KendoUI  
+JQuery  
+Moq 
+Software Engineer 
+1 year 5 months (June 2012 > Oct 2013) 
+Project: Civica Repairs 
+Duration: 1 year 2 months 
+Description: Civica Housing Cx is a solution for use by Housing Management 
+Organisations in the UK. Typically organisations who will use this will be local 
+authorities, housing associations (HA) and registered providers (RP). They will 
+use Civica Housing Cx as they main line of business application to support 
+the service they deliver to their tenants and customers. The common industry 
+term for solutions like Civica Housing Cx is an Integrated Housing 
+Management System, as it provides many functional business solutions in a 
+single application. 
+Position: Software Engineer 
+Project Team Size: 22 
+My Responsibility:  
+Propose services for UI team.  
+Implement, develop new modules.  
+Write unit tests. 
+Technology:  
+Single Page Application  
+ASP.NET MVC4  
+MS SQL Server 2008  
+LocalDB(Intergration test)  
+MEF  
+Fluent NHibernate  
+TFS 2010/2012  
+AutoMapper  
+Autofac  
+SignalR  
+SQLDependency  
+KendoUI  
+JQuery  
+Moq 
+Software Engineer 
+3 years (June 2009 > June 2012) 
+Project: HSCIS 
+Duration: 6 months 
+Description: System manages athletes and coaches in Ho Chi Minh 
+City (Phu Tho Stadium, Thong Nhat Stadium, …). 
+Position: Software Engineer 
+Project Team Size: 6 
+My Responsibility:  
+Get requirements from customer.  
+Design database.  
+Implement, develop new modules.  
+Setup, deploy the system. 
+Technology:  
+ASP.NET 3.5(C#)  
+DotnetNuke 6.1  
+MS SQL Server 2008  
+Crystal Report  
+Telerik Control  
+ERWin  
+GUI Design Studio  
+JQuery 
+Project: Electronic One-door 
+Duration: 1 year 
+Description: The one-door electronic model has been applied for the 
+first time in Tan Binh district of Ho Chi Minh City since 2005 and 
+started in Thuan An (Binh Duong) in December 2008. It is showed that 
+the state administrative agencies in districts are closest to the people, 
+serving them the most directly with huge information to process. 
+Therefore, a number of provinces and cities have defined the 
+implementation of the electronic one-door model as the key IT 
+application. 
+Position: Software Engineer 
+Project Team Size: 10 
+My Responsibility:  
+Get requirements from customer.  
+Design database.  
+Implement, fix bug.  
+Setup and deploy the system. 
+Technology:  
+ASP.NET 3.5 (VB.NET)  
+Window Sharepoint Service 3.0  
+MS SQL Server 2005  
+Crystal Report  
+Telerik controls  
+WCF  
+JQuery 
+Project: eDMS 
+Duration: 1 year 
+Description: The one-door electronic model has been applied for the 
+first time in Tan Binh district of Ho Chi Minh City since 2005 and 
+started in Thuan An (Binh Duong) in December 2008. It is showed that 
+the state administrative agencies in districts are closest to the people, 
+serving them the most directly with huge information to process. 
+Therefore, a number of provinces and cities have defined the 
+implementation of the electronic one-door model as the key IT 
+application. 
+Position: Software Engineer 
+Project Team Size: 10 
+My Responsibility:  
+Get requirements from customer.  
+Design database.  
+Implement, fix bug.  
+Setup and deploy the system. 
+Technology:  
+ASP.NET 3.5 (VB.NET)  
+Window Sharepoint Service 3.0  
+MS SQL Server 2005  
+Crystal Report  
+Telerik controls  
+WCF  
+JQuery 
+Freelancer 
+1 year (Sep2012 > Sep 2013) 
+Projects: Sirius Sales, Sirius TR, Sirius Relations, Kim Hoa Restaurant  
+Duration: 1 year 
+Description: Outsourcing some websites and WPF application from 
+Australian client. 
+Positions: Software Engineer, Team Leader 
+Project Team Size: 5 
+My Responsibility:  
+Work directly with client to get the requirements.  
+Implement, brainstorm with offshore team. 
+Technology:  
+ASP.NET 3.5  
+WPF  
+MS SQL Server 2008  
+Prism 
+SKILL RATING TABLE: 
+Self-rating(5) 
+Year(s) of experience 
+Last used 
+Notes 
+Programming and Scripting Languages 
+VB.NET 
+2 
+2012 
+C# 
+8 
+2016 
+HTML/CSS 
+7 
+2016 
+Javascript 
+7 
+2016 
+Java 
+2 
+2011 
+XML 
+7 
+2016 
+Database 
+Oracle 10g 
+1 
+2011 
+MS SQL Server 
+8 
+2016 
+2005, 2008, 2012 
+My SQL 
+1 
+2010 
+SQL LocalDB 
+2 
+2014 
+Web Server 
+IIS 
+7 
+2016 
+6, 7, 8, Express 
+Apache 
+1 
+2010 
+Web Service 
+WCF 
+3 
+2016 
+Web API 
+2 
+2014 
+Operating System 
+Windows  
+8 
+2016 
+XP, Server 
+2003/2008, 
+Windows 7, 8, 10 
+Library/Framework 
+JQuery 
+7 
+2016 
+Sharepoint  
+3 
+2012 
+Server/Windows 
+Sharepoint 
+Service 
+DotnetNuke 
+2 
+2012 
+NHibernate/Fluent 
+NHibernate 
+2 
+2014 
+Entity Framework 
+1 
+2015 
+ASP.NET MVC 
+5 
+2016 
+ASP.NET MVC 4, 5 
+AngularJS 
+1 
+2016 
+Bootstrap 
+1 
+2016 
+Source Control 
+SVN 
+4 
+2015 
+Visual SourceSafe 
+4 
+2012 
+6.0, 2005 
+TFS 
+5 
+2016 
+2010, 2012, 2013 
+Analysis and Design Tools 
+UML/StarUML 
+1 
+2014 
+Report 
+Crystal Report 
+3 
+2012 
+Aspose.NET 
+3 
+2012 
+Aspose 
+Word/Excel 
+Tools 
+Visual Studio, GUI 
+Design Studio, 
+ERWin, Sublime 
+Text… 
+8 
+2016 
+Visual Studio 
+2003/ 2005/ 
+2008/ 2012/ 2013 
+3rd Party Control 
+DevExpress 
+1 
+2011 
+Telerik 
+2 
+2012 
+KendoUI 
+2 
+2014 
+Others 
+Automapper, 
+Autofac, Moq, 
+SignalR, 
+SQLDependency… 
+2 
+2015 
+SOFT SKILL:  
+Time management.  
+Teamwork.  
+Self-motivation. 
+COURSES/ CONFERENCE ATTENDED:  
+PACE (http://www.pace.edu.vn/) 
+o Effective Communication Skills 
+o Time Management Skills 
+o Sucessful Negotiation 
+o Critical Thinking & Problem Solving Skills 
+o Managing People 
+o Life Management Program 
+o Possitive thinking  
+Sharepoint Saturday.  
+Mobile Marketing Club. 
+LANGUAGES:  
+Vietnamese: Native.  
+English: Professional Working Proficiency. 
+HOBBIES:  
+Bike riding.  
+Playing football.  
+Reading books.  
+Backpackering. 

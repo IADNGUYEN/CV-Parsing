@@ -1,0 +1,51 @@
+ 
+QUANG MINH PHUONG 
+Email: phuongminhquang@gmail.com 
+Mobile phone: +84 (0) 935710181 
+Kaggle: https://www.kaggle.com/phuongminhquang 
+Experience: 
+Contract Executive  Petroleum Offshore Trading & Services Co. Ltd – present 
++ Managing and executing contracts for the commercial department, from the contract 
+negotiation to complete delivery to customers and getting payments. 
++ Liaising with suppliers and customers for any matters arising during the project execution, for 
+technical and commercial issues. 
+Project Engineer – Petroleum Offshore Trading & Services Co. Ltd (June 2010 – 
+June 2018): 
+Assigned to Bien Dong 1  CRA Clad Line Pipes project, stationed in the pipe factory (Thailand) 
+to: 
++ Supervised and expedited daily production, procurement, documentation and logistics. 
+and expedite actions in order to increase the production throughput. 
++ Worked with procurement and production teams to ensure no shortage of supplies during 
+production and timely maintenance on machine and equipment. 
++ Work with logistics teams to complete shipping products out of the factory to Viet Nam. 
+Graduate Assistant  Industrial Assessment Center- WVU, USA. (5/2008 – 5/2010) : 
++ Performed data analysis, prepared documentation for the Accreditation Board for Engineering 
+and Technology (ABET) to assure the undergraduate program at Industrial Management and 
+Systems Engineering department at West Virginia University complete ABET standards and 
+certification. 
++ Visited various industrial plants in the U.S, collected data and performed energy assessments 
+using software, reported calculations and recommendations to present the opportunities for saving 
+costs and increasing energy usage’s efficiencies of manufacturing facilities and systems. 
++ Completed the Enhancement of Galvanize Energy Profile Decision Support System project, 
+funded by the International Lead Zinc Research Organization (ILZRO). A computer based model 
+(programmed in Visual Basic.Net using Microsoft’s Visual Studio) was developed to evaluate the 
+costs of producing different galvanized products. The project was presented at multiple 
+conferences in Baltimore, MD, St.Louis, MO, Louisville, KY, Pittsburgh, PA, and Liege, 
+Belgium. The model was used in the U.S Steel plant in Fairless, PA and SSAB plant in 
+Borlange, Sweden. 
+Education: 
+West Virginia University (2007 – 2010) – United States of America 
+Master of Science in Industrial Engineering  
+Majoring in Decision Sciences (Operations Research) 
+University Technology PETRONAS (2002-2007)  Malaysia 
+Bachelor of Science in Mechanical Engineering  
+Majoring in Manufacturing Engineering 
+Skills: 
+Programing (Python, C++, R) 
+Optimization using mathematical models 
+and software 
+Data analysis (Python, R) 
+Computer Vision (OpenCV, Python) 
+Online courses: 
+PyImageSearch Gurus (Computer Vision and OpenCV): expected to graduate Sept 2018 
+Machine Learning  (Coursera) completed 

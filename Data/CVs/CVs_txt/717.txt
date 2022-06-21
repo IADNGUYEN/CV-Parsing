@@ -1,0 +1,110 @@
+Page | 1  
+Resume of NGUYỄN NGỌC VIỆT 
+Personal Information 
+Full Name 
+NGUYỄN NGỌC VIỆT 
+Gender 
+Male 
+Date of Birth 
+29-12-1991 
+Contact 
+info 
+Phone: 
+0933490403 
+Email: 
+Vietngoc129@gmail.com 
+Education 
+Name of University/ 
+College 
+The University of Information Technology  HCM, Vietnam 
+Field of Study 
+Software engineering 
+Year of Graduation 
+6.5 
+GPA 
+Skills and Knowledge 
+Like to learning new technology. 
+Independent or team work. 
+Hard working & fast learning. 
+Communication and interpersonal skills.       
+The best programming language is C#, C/C++, in addition, knowledge of java , Python. 
+To be full of experience with analyse and design database. 
+Knowledge of OOP, MVC model, Design Patterns(Singleton, Factory object, Abstract 
+factory, Adapter). 
+Knowledge of Store procedure, trigger, function… in SQL. 
+Project(s) participated in University/College 
+Project Name 
+Game Rockman 
+Duration 
+(month) 
+3 
+Responsibilities 
+Create sprite, texture, map for game. 
+Building Game model by using Directx 9 and .Net. 
+Achievements 
+7.5 GPA 
+Page | 2  
+Project Name 
+Lottery Management 
+Duration 
+(month) 
+3 
+Responsibilities 
+Analysis requirement. 
+Build database with SQL  server. 
+Using 3 tier architecture and .Net for application development. 
+Achievements 
+7.5 GPA 
+Project Name 
+Photoviewer 
+Duration 
+(month) 
+1 
+Responsibilities 
+Build Small application for management Photo in PC. 
+Using Some API for .NET. 
+Achievements 
+8 GPA 
+Project Name 
+Game Sudoku online 
+Duration 
+(month) 
+1 
+Responsibilities 
+Build Game by RMI model and Java. 
+Achievements 
+6 GPA  
+Foreign Language(s) 
+English 
+Good 
+Japanese 
+N/A 
+French 
+N/A 
+Employment Experience 
+Company 
+Name 
+Twin Software solution 
+Working time 
+03/2015 – 10/2015 
+Job Title 
+Developer 
+Responsibilities 
+Updating, repairing, modifying and developing Mobivi Portal  
+Building T-billing application for management billing  system of HTVC with 
+Python. 
+Achievements 
+Provided user requirements analysis, design and programming support for 
+enhancement of Web application accessed by 1 million users in Vietnam. 
+T-billing is using for some branch of HTVC. 
+References: 
+Mr. Pham Phuc Toan 
+Mr. Nguyễn Đức Tiến 
+Developer 
+Business Analyst 
+Twin software solution 
+Twin software solution 
+Tel: 01228833055 
+Tel: 0989730346 
+Mail: toanpp@twin.vn 
+Mail: tiennd@twin.vn 

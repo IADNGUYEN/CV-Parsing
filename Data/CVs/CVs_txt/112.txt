@@ -1,0 +1,474 @@
+Curriculum Vitae 
+Name:     TRAN QUANG DUY 
+SUMMARY 
+General Information: 
+Gender: 
+Male 
+Date of birth:  
+20/02/1980 
+Education: 
+Bachelor Degree in Information Technology 
+Foreign Language: 
+English 
+Required notice: 
+To be negotiated 
+Reason for leaving: 
+Looking for better working environment 
+Career Summary: 
+08/2013 – now: 
+Swiss Outsourcing Company (Kloon Ldt).  
+Business Analyst and Senior 
+Developers 
+01/2013 – 08/2013: 
+NOVA Communication and Technology Group 
+Corporation.  
+Project Manager, Solutions 
+Architect. 
+12/2011 – 09/2012: 
+VIDIRECT Securities JSC, 
+Production Development and 
+Research (R&D) 
+05/2011 – 09/2011: 
+Free Working 
+01/2009 – 04/2011: 
+HANEL Software & Communications JSC, 
+Project Leader. 
+06/2005 – 12/2008: 
+Team Leader 
+10/2003 – 05/2005: 
+Developers 
+Experience & Skills: 
+Knowledge of participation in all stages of full software development life cycle. 
+Knowledge in design Mockup and Prototype and Analysis System with UML 
+Extensive experiences with business systems, as ERP System, Finance and Stock System, Assets 
+Management System, Sales and Warehouse systems and e-Commerce and more outsourcing 
+projects 
+Project Management skills, especially Planning and Estimation and Technical Te`am Management 
+Ability in give the initiatives and build business process improvement documentation  
+Have knowledge about Agile Scrum and uses work management tools such as TFS. 
+Many years of working experience with .Net Framework technology. 
+Good knowledge with Microsoft technologies including: .NET Framework versions, C#, ASP.NET and      
+.Net Core, MVC, Web API, WCF, CQRS. 
+Have knowledge about client site and frameworks such as HTML5, CSS3, JQuery, Angular 2  4, 
+TypeScript, Bootstraps controls and DevExtreme, Kendo UI Controls. 
+Good knowledge with Design Parterms and Solid  Dependences Injection  IoC, 
+Knowledge with the Database Design and Management. 
+A little of knowledge in Big data issues. 
+Knowledge with Data Warehouse and design OLTP, OLAP and BI. 
+Knowledge with Microsoft Dynamic CRM and have been involved MS CRM training course of 
+Microsoft at No 92 Nguyen Du  TP HCM (from 25th-29th April 2016) and previously joined to 
+customize older version of CRM system while working at VNDirect Securities Jsc. 
+Personal Information 
+Full name 
+Tran Quang Duy 
+Date of birth 
+February 20th, 1980 
+Place of birth 
+Hanoi, Vietnam 
+Nationality 
+Vietnamese 
+Gender 
+Male 
+Marital status 
+Married 
+Address 
+Room No. 404, A5, 128C Dai La Alley, Hai Ba Trung district, Hanoi 
+Phone number 
+0928.568.568 
+Email address 
+tduy80@gmail.com 
+ Education 
+Bachelor’s degree  
+Study 
+Post and Telecommunications Institute of Technology  
+Major 
+Information Technology 
+Foreign Languages 
+Language 
+Skills 
+Native 
+Fluent 
+Good 
+Fair 
+Weak 
+English 
+Listening 
+Speaking 
+Reading 
+Writing 
+Have knowledge of IT professional English 
+Professional Skills 
+Programming Languages & Technologies 
+Level (from 1 to 5) 
+0 : No skills at all                                         3: Sometimes have to use manuals 
+1 : Beginner Level                                       4: Can solve problems 
+2 : Always have to use manuals                  5: Can teach others (Expert Level) 
+.Net 
+Desktop Application 
+4 
+Web Application 
+4 
+Mobile Application 
+1 
+Services and WCF and Web API 
+4 
+Crystal Report 
+4 
+Java 
+Core Java 
+2 
+J2SE 
+1 
+J2ME 
+1 
+J2EE 
+1 
+Networking Technologies 
+1 
+Solaris 
+1 
+XML Technologies 
+1 
+Operating System 
+Windows Client 
+4 
+Windows Server 
+4 
+Linux 
+2 
+Unix 
+1 
+QNX 
+2 
+Analysis & Design 
+UML 
+4 
+Database 
+MS SQL 
+4 
+Oracle 
+3 
+MySQL 
+3 
+MS Access 
+4 
+Mongo DB 
+3 
+Graphics 
+Adobe Photoshop 
+3 
+Image Processing 
+3 
+Macromedia Flash MX 
+3 
+Corel Draw 
+1 
+Employment History 
+From September 2013 to now 
+Company 
+SWISS OUTSOURCING COMPANY (Kloon Ltd Company) 
+Address 
+Floor 15, Building B14 Kim Lien, Dong Da, Ha Noi 
+Date: 
+Job Title: 
+Job Description: 
+September 2013– now 
+Major Senior Developer. 
+Secondary Business Analysis. 
+Technology research and development of products that Outsourcing 
+Reference: 
+Name 
+Mr.  Andreas Soehnlein 
+Position 
+Director  
+From January 2013 to September 2013 
+Company 
+NOVA COMMUNICATION AND TECHNOLOGY GROUP 
+CORPORATION 
+Address 
+18-4 Building, No 8 Pham Hung, Cau Giay, Hanoi 
+Date: 
+Job Title: 
+Job Description: 
+January 2013– August 2013 
+Construction the Nova ERP System 
+Technology research and development of products that ERP system have to 
+managed all of Nova business. 
+Reference: 
+Name 
+Mr.  Quy NguyenMinh 
+Position 
+Director  
+From December 2011 to October 2012 
+Company 
+VNDIRECT SECURITIES JOINT STOCK COMPANY 
+Address 
+No 01 Nguyen Thuong Hien Street, Hai Ba Trung District,  Hanoi 
+Date: 
+Job Title: 
+Job Description: 
+December  2011 – September 2012 
+Production Research and Services Development 
+Technology research and development of products in the securities business under 
+my leader’s instruction.. 
+Business documentation. 
+Besides, I also coordinate with IT department to operate systems 
+Used to trained MS CRM 
+Reference: 
+Name 
+Mr.  Giang NguyenHoang 
+Position 
+Director  
+From October 2004 to April 2011 
+Company 
+HANEL SOFTWARE AND COMMUNICATIONS JOINT STOCK 
+COMPANY (HSC) 
+Address 
+No 27 Hoang Van Thai Stress, Thanh Xuan District,  Hanoi 
+Date: 
+Job Title: 
+Job Description: 
+Date: 
+Job Title: 
+Job Description: 
+January 2009 – April 2011 
+Project Manager 
+Overall in charge of software development for all of my company’s projects under 
+my director’s instruction. Besides, I am also the main developer for all projects. 
+I also help to handle administrative tasks such of the department, example, 
+recruiting new staff, office moving, etc. 
+June 2005 – December 2008  
+Technical Team Leader 
+I mostly involved in leading technical team to produce the software project. My 
+tasks included team planning, organizing and training. I was also the main solution 
+Date: 
+Job Title: 
+Job Description: 
+architecture and developer in the company.  
+October 2003 – May 2005  
+Junior Coder 
+My main job was coding and testing system functions in the company projects. I 
+also helped with preparing the systems documentation.  
+Reference: 
+Name 
+Mr.  Khanh Tran 
+Position 
+Director  
+Projects Experience at Kloon Ltd Company 
+Project Name 
+KLIB Net System 
+Customer 
+My customer is Swiss 
+Position(s) 
+Senior Developer and BA 
+Project Duration August  2013 – now 
+Project 
+Description 
+This project our team have developed to respond business my customer that in 
+Switzerland. My projects is serial big software systems that related Europe’s social 
+welfare fund of business. 
+Projects Experience at Nova Joint Stock Company 
+Project Name 
+ERP System 
+Customer 
+The Company 
+Position(s) 
+PM 
+Project Duration January 2013  August 2013 
+Project 
+Description 
+This project our team have developed to respond business at our company, help they 
+can manage advertising campaigns of our customer and more related business. 
+Technology used 
+Programming Languages:  ASP.NET, JavaScript, JQuery, HTML 
+Using Duplicate Channel Communication of WCF technology and Multiple 
+Threading, Entity Framework. 
+Projects Experience at VNDriect Securities Company 
+Project Name 
+PRICE BOARD ONLINE (Desktop Application, Web Application and 
+Mobile) 
+Customer 
+The Company 
+Project size 
+21 man-months 
+Position(s) 
+System Analyst, Designer and coding 
+Project Duration January 2012  August 2012 
+Project 
+This project our team have developed to respond stock investors, help they can 
+Description 
+monitoring stock market information in anywhere through Internet without go to the 
+trading floor. 
+Direct connection to the trading floor to get the data. 
+The Price board is showing real time of data with high speed. 
+Detailed monitoring information of each stock and categories. 
+Allow investors to place orders online through the BO@ System. 
+Ability to customize private categories and many other features. 
+Technology used 
+Programming Languages:  C#.NET, Java, JavaScript,  HTML 
+Using Duplicate Channel Communication of WCF technology and Multiple 
+Threading. 
+Solution Database: ORACLE.                   
+Besides, during this period, I also participated in several other projects in the company as 
+o Customize for Microsoft Dynamic CRM 5 System. 
+o Business Analyze for Securities Core  System (BO@ ) 
+Key Projects Experience at HanelsoftCom Company 
+Project Name 
+CONSTRUCTION MATERIALS & ASSETS MANAGEMENT SYSTEM 
+Customer 
+Song Da 5 Joint Stock Company and Vietnam Container Joint Stock 
+Company and more 
+Project size 
+30 man-months 
+Position(s) 
+Project Manager, 
+System Analyst, Designer & Coder 
+Project 
+Description 
+In this project, our team  have developed and deployed a Construction Materials  and 
+Assets Management System in order to help our customer, who is a leading 
+construction company in Vietnam , solve their complex materials and assets 
+management problems such as: 
+Manage facilities and equipments, trucks, construction machines: control of 
+working time, overheads cost, labor cost, warranty and maintenance activities. 
+Manage construction materials for large construction projects such as Son La 
+Hydro Power Plant  Project and other Hydro Power Plant Projects of Song Da 5 
+JSC. 
+Accurate and timely management reports for decision making. 
+Appropriate user access controls on the system data. 
+Major System Functionalities: 
+Assets Consolidation Management 
+Investment Plans Management 
+Assets  Information Maintenance 
+Assets Portfolio Management 
+Assets Movement Management 
+Assets Operation Scheduling Management 
+Assets Maintenance Plans Management 
+Assets Maintenance Management 
+Assets Warranty Management 
+Assets Liquidation Management 
+Materials Planning for Construction Projects 
+Materials Balancing Worksheet 
+Sales Order 
+Materials Receiving & Materials Issuing Management 
+Stock Card  
+Materials tracking by warehouse 
+User Access Rights Control functions at data access level 
+Reporting functions 
+As Project Manager, System Analyst,  Designer and Coder, I have involved in all 
+project stages from  project planning and diagnosing , analysis, design, development 
+and deployment. 
+Technology used 
+Programming Languages:  C#.NET, ASP.NET, JavaScript,  HTML 
+Connection Solution Database: .Net Framework Data provider for MS  SQL.                   
+Runtime Environment  Hardware: Intel x86 PC/Server.  Software: Desktop Application, Web Application and Services 
+Development Environment:  Hardware: Intel x86 PC/Server.  Software:  Visual Studio .NET, Crystal Report, VSS Source Control, MS SQL 
+Server 2000, MS Excel, Windows 2003  Server.                  
+Network Environment:  LAN, WAN with  Client/Server Architecture                
+Project Name 
+WAREHOUSE AND SALES MANAGEMENT SYSTEM 
+Customer 
+South Asia  Information Technology Joint Stock Company 
+Project size 
+15 man-months 
+Position(s) 
+Technical Team Leader, 
+System Analyst, Designer & Coder 
+Project Duration 
+From December 2008 to March 2009 
+Project 
+Description 
+In this project, a Sales Management System  was requested by South Asia 
+Information Technology in order to help the  company solve their  sales and 
+warehouse operations issues. 
+As our customer company has a substantial distributors network all over the country, 
+the new system  helps them to centralize business data in one single system. As the 
+results, distributors can flexibly and accurately  manage delivery to customers.  
+When customer places a sales order, the sales staff of a distributor can check for 
+their stock availability in the system, including reserved items. In case their  stock is 
+not enough, they can view other distributor’s stock information and request for the 
+transfer of stock from other distributors or request the company central office to  buy 
+items from suppliers to meet the customer’s demands. 
+The system can manage hundreds of transactions daily. The system can also control 
+user access rights at detail data level. 
+As  System Analyst,  Designer and Coder,  I have involved in  project stages from  
+analysis, design, development and deployment. 
+Technology used 
+Programming Languages:  C#.NET, ASP.NET, JavaScript,  HTML 
+Connection Solution Database: .Net Framework Data provider for  Oracle 10g.                   
+Runtime Environment  Hardware: Intel x86 PC/Server.  Software: Desktop Application, Web Application and Services 
+Development Environment:  Hardware: Intel x86 PC/Server.  Software: Visual Studio .NET, Crystal Report, VSS Source Control,  Oracle 
+10g,   MS Excel, Windows 2003  Server.                  
+Network Environment: LAN, WAN with  Client/Server Architecture                
+Project Name 
+WAREHOUSE MANAGEMENT SYSTEM (WMS) 
+Customer 
+Dragon Logistics Ltd. 
+Project size 
+30 man-months 
+Position(s) 
+Technical Team Leader, 
+System Analyst, Designer & Coder 
+Project Duration 
+From March 2006 to January  2007 
+Project 
+Description 
+In this project, we helped our customer, who is a Logistics company, to solve 
+their existing problems in Warehouse management. Particularly, The 
+Warehouse Management software is used to manage data, summarize and report 
+on the warehouse-in, warehouse-out activities and services at the customer 
+requests. This software is developed for the warehouse management of the 
+Domestic Transportation Department of Dragon Logistics Ltd. 
+The software was built using Client / Server Software Architectures and  
+includes many functions  such as: 
+Customers List Management 
+Goods List Management 
+Warehouse List Management 
+Units Measurement List Management 
+Specification List Management 
+Services List Management 
+Goods location List Management 
+Contracts Management 
+Warehouse In Management 
+Warehouse Out Management 
+Import/ Export Data in form MS Excel 
+Reporting 
+As  System Analyst,  Designer and Coder,  I have involved in  project stages from  
+analysis, design, development and deployment. 
+Technology used 
+Programming Languages:  C#.NET 
+Connection Solution Database: .Net Framework Data provider for MS  SQL.                   
+Runtime Environment  Hardware: Intel x86 PC/Server.  Software: Desktop Application, Web Application and Services 
+Development Environment:  Hardware: Intel x86 PC/Server.  Software:  Visual Studio .NET, Crystal Report, VSS Source Control, MS SQL 
+Server 2000, MS Excel, Windows 2003  Server.                  
+Network Environment:  LAN, WAN with  Client/Server Architecture                
+Project Name 
+STATE BUDGET MANAGEMENT SYSTEM. 
+Customer 
+Ministry of Finance 
+Project size 
+60 man-months 
+Position(s) 
+Coder, Tester 
+Project Duration 
+From April 2005 to June 2005 
+Project Description 
+State Budget Management System is a software built to help manage budget 
+allocation and budget usage by Provinces, Districts, Communes and others 
+government units that use the state budgets.  
+The system provides functions that supports all budget management processes, 
+particularly:  Budget Apportion  Estimation (Monitor ratified estimates)  Budget Issue Management (Issues of Financial Agency)  Actual Budget Expense Management (Real Expense Amount of the Treasury )  Budget Receipts Management  Budget Receipts and Expenses Accounting. (Financial and Accounting 
+periodically).  Budget Receipts and Expenses balance sheet  
+In this project I involved in coding and testing of all system functions. 
+Technology used 
+Programming Languages:  C#.NET, ASP.NET, XML 
+Connection Solution Database: .Net Framework Data provider for  Oracle 9i.                   
+Runtime Environment  Hardware: Intel x86 PC/Server.  Software: Desktop Application, Web Application and Services 
+Development Environment:  Hardware: Intel x86 PC/Server.  Software:  Visual Studio .NET, Crystal Report, VSS Source Control, Oracle 9i, 
+MS Excel, Windows 2003  Server.                  
+Network Environment:  LAN, WAN with  Client/Server Architecture                
+And more …. 
+Hobbies 
+Computers, computer games and musical 
+Reading IT book, research new technologies and sports news. 
+Playing football, ping-pong, tennis, swimming 

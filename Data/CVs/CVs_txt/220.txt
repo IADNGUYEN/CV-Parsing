@@ -1,0 +1,322 @@
+Huynh Quoc Kiet  
+Page 1 of 5 
+I. PERSONNAL DATA: 
+Name 
+:  HUYNH QUOC KIET 
+Address 
+:  451/2/7 To Hien Thanh, District 10, Ho Chi Minh City. 
+E-mail 
+:  kiethuynh4286@gmail.com 
+Telephone  
+:  38 637 510 (home) – 0908 803 124 
+II. CAREER OBJECTIVE  
+To build a long-term career in IT field for advancement, use all skills and knowledge to 
+contribute to company and widen knowledge for own.  
+III. EDUCATION BACKGROUND:  
+Qualification: 
+Year 
+College/University 
+Degree 
+Major 
+Remark 
+3 
+Hoa Sen NIIT 
+Diploma 
+Network Engineering – Linux 
+Technologies 
+Graduation 
+(Good) 
+NIIT quarter score  
+Quarter 
+Number 
+Overall 
+Marks 
+Grade 
+Isas Topic 
+Projects Topic 
+Project Results 
+2 
+2.88 
+Good 
+Impact of IT to 
+Society 
+Hotel Setup, Home 
+Space Hospital , Save 
+Life Inc 
+3 
+2.78 
+Good 
+Video Over ATM 
+New Project ltd 
+Showman House 
+4 
+2.93 
+Good 
+Wireless 
+Network 
+Project1 : Setup 
+system domain for 
+small enterprise and 
+management. 
+Project 2 : Setup 
+database SQL server   
+Experience: 
+Implement 
+and 
+administrate Windows 
+with user and group, 
+active directory.  
+Build database SQL 
+server 
+2003 
+and 
+administration 
+5 
+2.38 
+Satisfactory 
+CDMA 
+Project1 :  Plan the 
+network system with 
+OS Linux 
+Experience: 
+Design and plan the 
+network many 
+CURRICULUM VITAE 
+Huynh Quoc Kiet  
+Page 2 of 5 
+Project 2 : Implement 
+Shell script on Red 
+hat Linux 4.0 
+components Linux 
+Implement Shell script 
+on Red hat Linux 4.0 
+6 
+2.93 
+Good 
+Presentation 
+Testing 
+Project1 : Install 
+Linux OS and 
+configure many 
+components on Red 
+Hat Linux 
+Project 2 : Configure 
+Red Hat on server, 
+Windows for Clients 
+and 
+the 
+network 
+infrastructure services  
+Experience: 
+Implement 
+and 
+configure 
+many 
+utilities on Red Hat 
+Linux (Create partition 
+and swap, create user 
+and group, configure 
+soft RAID and SSH, 
+NFS server) 
+Implement 
+and 
+configure 
+many 
+services on Red hat 
+Linux 4.0(DHCP, DNS 
+server, Squid proxy, 
+FTP server and Web 
+server Apache. 
+7 
+2.60 
+Average 
+Routing Cisco 
+Router 
+Project1: Install and  
+configure the Open 
+LDAP Server + 
+Kerberos  
+Project2: 
+Setup 
+monitor server using 
+MRTG, Nagios 
+Experience: 
+Install Linux minimum.  
+Configure and secure 
+network 
+with 
+Open 
+LDAP, Kerberos, TLS 
+on Red hat Linux. 
+Configure and monitor 
+server 
+with 
+Nagios, 
+MRTG on Red hat 
+Linux  
+8 
+3.11 
+Excellent 
+Web-Shopping 
+cart 
+Project1:  Setup multi 
+domain with windows 
+server 
+Project2: 
+Planning, 
+analysis 
+and 
+procurement 
+of 
+equipment 
+IT 
+preparing to establish 
+a new office 
+Experience: 
+Setup 
+system 
+administrative office  
+Analyze business and 
+technical requirement, 
+Calculate TCO, Plan 
+and 
+solution 
+troubleshoot. 
+Huynh Quoc Kiet  
+Page 3 of 5 
+Certificates: 
+Year 
+College/University  
+Certificate 
+Major 
+Marks 
+2013 
+Greennet Center 
+JNCIA 
+Juniper Networks Certified 
+Internet Associate 
+Completed 
+2012 
+Nhất Nghệ Center 
+MCITP-EA 
+Microsoft Certified IT 
+Professional Enterprise 
+Administrator 
+Completed 
+2011 
+Nhất Nghệ Center 
+MCSE 
+Microsoft Certified System 
+Engineer 
+Completed 
+2010 
+Vnpro Center 
+CCNA 
+Cisco Certified Network 
+Association 
+Completed 
+2009 
+Nhất Nghệ Center 
+MCSA 
+Microsoft Certified Systems 
+Administrator 
+Completed  
+IV. WORKING EXPERIENCE:  
+Oct 2014 – Present 
+TRANSCOSMOS GROUP 
+IT Officer 
+Manage system network at head office and sites, using 
+windows server 2008, 2012 and Linux CentOS, Ubunu   
+Configure router, switch (HP, Cisco, Mikrotik). 
+Configure and management firewall Sophos Astara SG 310. 
+Build monitoring system Cacti. 
+Deploy VPN site to site and Load balancing WAN, LAN  using 
+Peplink device. 
+Deploy and management VMware Vphere. 
+Configure the web server (IIS, Apache) and Ftp server using 
+SSL.  
+Managing data storage with QNAP NAS device. 
+Backup Data using Symantec Netbackup. 
+Management mail server Exchange 2010. 
+Apr 2013 – July 2014   
+POPSWORLDWIDE 
+IT officer 
+Manage system network with OS Windows (Windows server 
+2003, 2008 R2) and Linux (CentOS, RedHat). 
+Manage LAN, WAN network and server located in the 
+datacenter. 
+Deploy firewall ISA server and monitoring Nagios. 
+Building linux systems for project development team (VPS 
+OpenVZ, LAMP,  SVN, DNS, Squid Proxy, NIS, FTP 
+server….) 
+Management NAS system using Free NAS. 
+Support end user. 
+Huynh Quoc Kiet  
+Page 4 of 5 
+Achievement:  Applied and environmental work on the Linux OS.  Advanced skills themselves. 
+Jun 2011 – Mar 2013 
+MISA JOINT STOCK COMPANY 
+IT officer  
+Manage system network 
+Deploy VPN server, firewall ISA 2006 Microsoft, hard firewall 
+Juniper SRX 210, Windows Server 2008 , Windows Server 
+2003 with multi domain, Monitoring PRTG, Vmware Vsphere 
+ESXI, Hyper-V, VOIP telephone, Netsupport Manager, Video 
+conference, LAN, WAN Office, Anti-virus Kaspersky Security 
+Endpoint 8 client-server. 
+IT administration support for end-users.  
+Be in charge of purchase IT devices  
+Apply policies to make sure all network management process 
+to comply with ISO 9001:2008. 
+Achievement:  Apply the ISO process to IT work  Improved office network by configuring the new network service more convenient for   
+managing  Improved communication skills at work 
+Jul 2010 – Apr 2011 
+KINGCORP COMPANY 
+IT staff  
+Deploy Windows Server 2008, Windows Server2003 with 
+domain controller 
+Evaluate existing systematic reviews. 
+Troubleshoot PC, Networking, Printer… 
+Master the system diagram. 
+Understand basic how it works Monitoring System, Squid, 
+Mail Server, Active directory, DNS, DHCP, Backup data, 
+hostind domain. 
+Besides, participate the outdoor activities in the company 
+(football, ….) 
+Achievement:  The exposure and networking systems work in practice  Building team work ability 
+Apr 2010 – Jul 2010  
+VIETNAM NETWORK COMPANY 
+Internship as Network devices tester  
+PC station device 
+Wireless devices 
+IP camera devices 
+Huynh Quoc Kiet  
+Page 5 of 5 
+Achievement:  To learn and to implement practical Wireless.  Know more about the network devices  Be rubbed in the real working environment. 
+V. SKILLS 
+Network and System:  
+Understanding TCP / IP, LAN, WAN Office… 
+Deploy and configure system services on Windows 2008,2012 (DHCP, 
+DNS, multie domain, FTP, IIS, DPM, DFS…). 
+Deploy and configure system services on Linux Centos (DHCP, DNS, FTP, 
+NFS server, NIS server, Samba, Squid proxy, LAMP, SVN, Redmine, 
+Gitlab…) 
+Virtualization with Vmware Vsphere ESXI, Hyper-V, OpenVZ. 
+Monitoring server with PRTG, Cacti. 
+Management mail server Mdaemon, Exchange 2010 and Zimbra. 
+Backup Data Symantec Netbackup. 
+NAS device (QNAP, WD, Synology).  
+Configure router and switch (HP, Cisco, Juniper, Mikrotik). 
+Security system with Microsoft ISA 2006 and Hard Firewall (Juniper SRX 
+210, Fortigate 200B, Sophos Astaro UTM and SG). 
+Load Balancing inbound and outbound WAN using Peplink device. 
+Language:   
+Vietnamese – mother tongue  
+English  Fair (Reading, Writing) 
+Soft skill:  
+Communication skill. 
+Team work.  
+VI. HOBBIES 
+Collection of e-books in information technology. 
+Research and study information technology. 
+Watching action movies, football games, billards. 

@@ -1,0 +1,125 @@
+Trinh Dinh Phuc
+Curriculum Vitae
+16 Kha Van Can Str.
+Linh Dong, Thu Duc, HCMC
+0121 658 5084
+Phuccoi996@gmail.com
+DOB: March 16, 1996
+Education
+2014–2018
+Bachelor’s Degree of Information Technology, Department of Computer Science,
+Telecommunications University (TCU), Nha Trang, Khanh Hoa, Vietnam.  CGPA: 3.35/4 via 204 credits.  Thesis: Pneumonia
+Diagnosis
+using
+Lung’s
+XRay
+with
+Depthwise
+Convolution.
+Final grade: 91/100 (top of the class).
+Internship
+03/2018 –
+Machine Learning Engineer intern (Part time intern), CBD Robotics, 125 Dong Van
+Cong Str. District 2, Ho Chi Minh City, Vietnam.
+Work
+Learn about and work on the technical side with focus on data analytics with using Machine
+Learning, Deep Learning.
+Mini-projects
+House price prediction, Amazon Reviews, Airline Arrivals, Boston marathon, Author
+classiﬁcation.
+04/2018 – 7/2018
+Data Analyst intern (Full time intern), DevNet, 101b Mai Xuan Thuong, Vinh Hai,
+Nha Trang, Khanh Hoa, Vietnam.
+Work
+Query performance tuning.
+Created A/B testing.
+07/2017 – 10/2017
+.Net developer intern (Full time intern), SweetSoft Solutions, 30A Tran Quy Cap,
+Nha Trang, Khanh Hoa, Vietnam.
+Work
+Developed referral marketing system with .Net and MCV framework.
+Lectures
+Software Architecture Development, SCRUM process, Company Culture.
+Certiﬁcations
+Intro to Python for
+Data Science Course
+Datacamp: Introduction fundamental programming concepts including data structures,
+networked application program interfaces, and databases, using Python to harvest insights
+and get a competitive edge.
+Intermediate Python
+for Data Science
+Course
+Datacamp: Learn to visualize real data with matplotlib’s functions and get to know new
+data structures such as the dictionary and the Pandas DataFrame. After covering key
+concepts such as boolean logic, control ﬂow and loops in Python.
+Deep Learning in
+Python Course
+Datacamp: Gain hands-on, practical knowledge of how to use deep learning with Keras
+2.0. Optimization a neural network with backward propagation, building deep learning
+models, Fine-tuning keras model.
+Python for Data
+Science
+edX: Applied experience in major areas of Machine Learning, including Prediction, Classiﬁ-
+cation, Clustering, and Information Retrieval.
+Python for
+Everybody
+Specialization
+University of Michigan: Introduction advanced programming concepts including data
+structures, networked application program interfaces, and databases, using the Python
+programming language.
+Projects
+June 2018
+Lung nodule Analysis.  Extract data from DICOM ﬁle.  Doing Erosion and Dilation in image processing.  Doing Instance Segmentation.  Using U-net deep learning architecture, training, testing and validating the model.
+April 2018
+Prediction of the FIFA World Cup 2018 using Random Forest.  Scraping, crawling data using Scrapy, Beautiful Soup.  Extract, Transform, Load (ETL).  Cleaning and doing Exploratory Data Analysis (EDA).  Tuning machine learning model using Grid Search with Cross-Validation.
+March 2018
+Pneumonia Diagnosis using Lung’s XRay with Depthwise Convolution.  Sampling, ﬁltering images, pooling, convolving images for cleaning data.  Using Inception-v3 deep learning architecture, training, testing and validating the model  Evaluating learning model with using Precision and Recall.
+Awards
+July 2018
+Entropy 2018  Data Analytics Competition.
+Advanced to the semi-ﬁnal round of ENTROPY 2018 by JVN (John Von Neumann).
+Feb 2008
+English speaking competition (India  Vietnam) 2018.
+The ﬁrst prize in English speaking competition of celebrating 13 years of India  Vietnam relations.
+Dec 2016
+CTF Information security competition in Da Nang.
+The third prize team in capture the ﬂag competition.
+Voluntary Experience
+September 2016
+Challenge Vietnam  wearetriathlon!, cycling leader team.
+With more than 40 races all over the world, athletes from over 30 countries, converged in Nha
+Trang to face one of the biggest challenges of the year, 1.9km Swim, 90km Bike and 21km Run.
+Assist athletes medical supports throughout the 90km race by leading volunteers taking their duties.
+Skills & Abilities
+Programming
+Languages
+Python, C/C++, C-Sharp, Java, HTML, CSS, JavaScript, PHP, SQL.
+DataBase
+LiteSQL, MySQL, SQL Sever, DB2.
+Mathematics
+Algebra, Calculus, Probability/Statistic.
+NLP
+Text summary, sentiment classiﬁcation, text clustering, topic modeling, Bag-of-Words,
+Word2Vector, Sen2Vec, n-grams, TF/IDF, LDA, LSA, NNMF.
+Computer Vision
+Corner Detector, Homographies, Image Warping, Augmented Reality.
+IDE
+Anaconda, Jupyter Notebook, Eclipse, Pycharm, pgAdmin4, Navicat.
+Oﬃce tools
+Latex, Microsoft Oﬃce (Word, Excel, Powerpoint).
+System
+Linux, Windows.
+Interests
+Academic
+Research in digital signal/image processing algorithms, exploration in data analysis, machine
+learning and big data.
+Social
+Traveling, swimming and hanging out.
+Languages  English: IELTS 6.5, Toeic 750  Vietnamese: Native Speaker
+Sources
+Linkedin
+Linkedin.com/in/phuccoi96
+Github
+Github.com/TrinhDinhPhuc
+Medium
+Medium.com/@phuccoi996

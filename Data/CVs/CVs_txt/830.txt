@@ -1,0 +1,116 @@
+ 
+1 
+Phone: 0965 966 567 | Skype : thongld90 |  E-mail: thongld90@gmail.com 
+Date of Birth: 19th March 1990 
+Address: 281 Le Van Sy Street, Tan Binh District, Ho Chi Minh City 
+RESUME 
+Thong Le 
+PERSONAL SUMMARY 
+Over 4years’experience in software development, web application development especially 
+Strong Java back-end, Object Oriented Programming and Design Pattern 
+Strong skills and practical knowledge in analysis, design, development and implementation of 
+applications using Java, Spring MVC, HTML5/CSS3, JavaScript/ jQuery,  AngularJS,  AJAX, JSON 
+Good competence in database: MySQL, Store Procedure 
+Technical background in CMS & framework: Hibernate, Open Cart 
+Seasoned knowledge and skills in Application Server: Apache, Nginx 
+Strong experience in using tools: Eclipse, Netbean, Redmine, Jira, Maven, Ant,GitHub, SVN 
+Solid knowledge and skills in Windows, Linux/Ubuntu, Centos 
+Server Jboss, Tomcat, Glassfish, SmartFoxServer 
+Have knowledge about Hybris, GuideWire 
+Able to quickly learn new technologies, frameworks 
+Strong interpersonal and communications skills, both oral and written 
+Able to work in a dynamic and ever-changing industry 
+2
+PROFESSIONAL EXPERIENCE 
+Company: TMA Solution 
+Project name: AxS  Access Management System (AMS) Application 
+Members: 150 
+Project description: 
+A software system management bandwidth settings and other network services for Alcatel 
+Lucent/Nokia company 
+Application Desktop 
+Responsibilities: 
+Work as Java Developer 
+Communicate and clarify requirements with customer 
+Create estimation, schedule for tasks 
+Provide technical solutions 
+Implement features 
+Fix bugs 
+Unit test 
+Report to customer and leader 
+Technologies: 
+Java 5 
+Hibernate 
+Database MySQL 
+Bootstrap 
+HTML5/CSS3/JavaScript/JQuery 
+SOAP 
+RESTful APIs 
+Apache Axis Service 
+3 . 2 0 1 3  –   3 . 2 0 1 6  
+D e v e l o p e r  
+3
+Jira 
+SVN 
+Maven 
+Implemented GUI use Eclipse RCP 
+Environment development use Linux 
+Tools: Eclipse 
+JBoss server 
+Company: TPS Software/PAL TECH 
+Project name: Merito  Betting Games Online 
+Members: 20 
+Project description: 
+The project is website system to play bet games online: 
+Sabong game betting online 
+Casino games betting online 
+Football/Tennis/cricket/basketball/Horse Racing game betting online 
+Manage user account 
+Setup configurations for game 
+Place bet/Settlement a game 
+Game report management 
+Withdraw/Deposit money 
+Web application 
+Responsibilities: 
+Work as senior Web Developer 
+Get requests/features from business administration(BA) 
+Create estimation/schedule for tasks 
+Implement features on web and mobile view 
+Give idea and implement APIs for partner integration 
+Write API document 
+Integrate with third party APIs which provided by other partners 
+0 3 .  2 0 1 6  –  1 1 .  2 0 1 7  
+S e n i o r  D e v e l o p e r  
+4
+Getting feedback from user 
+Give quick solution 
+Fix bugs 
+Deploy application server 
+Technologies: 
+Java 8 
+Spring MVC 
+JSP/Servlet 
+HTML5/CSS3 
+JavaScript/jQuery/AJAX/angularJS 
+Bootstrap framework 
+Database: MySQL/JDBC/ Stored Procedure 
+Webserver: Glassfish 
+Redmine 
+SVN 
+Tools: Netbean 
+5
+HOBBIES 
+Reading books about technology. 
+Travelling and discovering new things. 
+Swimming sport 
+6
+OBJECTIVE 
+Become a technical lead 
+Full stack java developer 
+Improve English communication skill 
+7
+CERTIFICATES & QUALIFICATIONS 
+2008  2013 
+Bachelor of Engineering in Computer Engineering 
+University of Information Technology 
+Ho Chi Minh City 

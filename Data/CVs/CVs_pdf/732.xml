@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="30" family="BAAAAA+LiberationSerif" color="#0066cc"/>
+	<fontspec id="1" size="21" family="BAAAAA+LiberationSerif" color="#0066cc"/>
+	<fontspec id="2" size="18" family="CAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="3" size="18" family="CAAAAA+LiberationSerif" color="#0463c1"/>
+	<fontspec id="4" size="12" family="DAAAAA+OpenSymbol" color="#000000"/>
+	<fontspec id="5" size="18" family="BAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="6" size="12" family="EAAAAA+DejaVuSans" color="#666666"/>
+<text top="86" left="303" width="311" height="33" font="0"><b>CURRICULUM VITAE</b></text>
+<text top="186" left="85" width="273" height="23" font="1"><b>PERSONAL INFORMATION</b></text>
+<text top="234" left="137" width="43" height="20" font="2">Name</text>
+<text top="234" left="351" width="128" height="20" font="2">Lieu Le Thi  Bich</text>
+<text top="263" left="137" width="53" height="20" font="2">Gender</text>
+<text top="263" left="351" width="53" height="20" font="2">Female</text>
+<text top="292" left="137" width="95" height="20" font="2">Date of Birth</text>
+<text top="292" left="351" width="143" height="20" font="2">November 29, 1985</text>
+<text top="321" left="137" width="101" height="20" font="2">Email address</text>
+<text top="368" left="137" width="104" height="20" font="2">Phone number</text>
+<text top="321" left="351" width="177" height="20" font="3"><a href="mailto:Lieule2911@yahoo.com">Lieule2911@yahoo.com</a></text>
+<text top="368" left="354" width="90" height="20" font="2">0937672773</text>
+<text top="474" left="85" width="111" height="23" font="1"><b>SUMMARY</b></text>
+<text top="511" left="112" width="10" height="12" font="4">●</text>
+<text top="504" left="139" width="114" height="20" font="5"><b>Primary skills:</b></text>
+<text top="531" left="139" width="7" height="12" font="4"></text>
+<text top="525" left="166" width="634" height="20" font="2">Nearly 6 years of experience in manual testing for web, desktop and mobile application </text>
+<text top="552" left="139" width="7" height="12" font="4"></text>
+<text top="546" left="166" width="448" height="20" font="2">1 year of experience in automation testing with Selenium tool </text>
+<text top="577" left="139" width="7" height="12" font="4"></text>
+<text top="571" left="166" width="409" height="20" font="2">Good knowledge in Database: SQL Server 2000, Oracle.</text>
+<text top="602" left="139" width="7" height="12" font="4"></text>
+<text top="596" left="166" width="453" height="20" font="2">Good at working group, dynamic, careful and easily adaptable.</text>
+<text top="628" left="139" width="7" height="12" font="4"></text>
+<text top="621" left="166" width="416" height="20" font="2">Good time management skill to ensure the work progress.</text>
+<text top="653" left="139" width="7" height="12" font="4"></text>
+<text top="646" left="166" width="234" height="20" font="2">Well communicating in English.</text>
+<text top="684" left="112" width="10" height="12" font="4">●</text>
+<text top="678" left="139" width="227" height="20" font="5"><b>Education and qualifications:</b></text>
+<text top="705" left="139" width="7" height="12" font="4"></text>
+<text top="699" left="166" width="664" height="20" font="2">Graduate  of  The  University  Natural  of  Sciences  in  HCM  city,  Faculty  of Information </text>
+<text top="719" left="166" width="144" height="20" font="2">System 2007 - 2010</text>
+<text top="800" left="85" width="207" height="23" font="1"><b>TECHNICAL SKILLS</b></text>
+<text top="849" left="356" width="35" height="20" font="5"><b>Skill</b></text>
+<text top="849" left="679" width="138" height="20" font="5"><b>Experience (Year)</b></text>
+<text top="879" left="91" width="101" height="20" font="5"><b>Selenium RC</b></text>
+<text top="879" left="359" width="32" height="20" font="2">Java</text>
+<text top="879" left="743" width="9" height="20" font="2">1</text>
+<text top="908" left="91" width="149" height="20" font="5"><b>Application servers</b></text>
+<text top="908" left="359" width="114" height="20" font="2">Apache/Tomcat</text>
+<text top="908" left="743" width="9" height="20" font="2">1</text>
+<text top="942" left="91" width="71" height="20" font="5"><b>Database</b></text>
+<text top="942" left="359" width="85" height="20" font="2">SQL Server</text>
+<text top="942" left="743" width="9" height="20" font="2">2</text>
+<text top="971" left="359" width="48" height="20" font="2">Oracle</text>
+<text top="971" left="743" width="9" height="20" font="2">2</text>
+<text top="1000" left="91" width="176" height="20" font="5"><b>System Administration</b></text>
+<text top="1000" left="359" width="68" height="20" font="2">Windows</text>
+<text top="1000" left="743" width="9" height="20" font="2">9</text>
+<text top="1030" left="91" width="55" height="20" font="5"><b>Testing</b></text>
+<text top="1030" left="359" width="300" height="20" font="2">Test cases development based on various </text>
+<text top="1050" left="359" width="237" height="20" font="2">techniques such as: Equivalence </text>
+<text top="1071" left="359" width="286" height="20" font="2">Partitioning, Boundary Value Analysis, </text>
+<text top="1030" left="743" width="9" height="20" font="2">5</text>
+<text top="1120" left="787" width="40" height="14" font="6">Page 1</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="18" family="FAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="8" size="16" family="BAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="9" size="18" family="EAAAAA+DejaVuSans" color="#000000"/>
+	<fontspec id="10" size="16" family="CAAAAA+LiberationSerif" color="#000000"/>
+<text top="90" left="359" width="238" height="20" font="2">Decision Table, State Diagram,.. </text>
+<text top="197" left="85" width="212" height="23" font="1"><b>WORK EXPERIENCE</b></text>
+<text top="238" left="117" width="10" height="12" font="4">●</text>
+<text top="231" left="144" width="87" height="20" font="5"><b>2015 - 2016</b></text>
+<text top="231" left="345" width="168" height="20" font="5"><b>LARION Computing </b></text>
+<text top="267" left="144" width="7" height="12" font="4"></text>
+<text top="260" left="171" width="53" height="20" font="7"><i><b>Project</b></i></text>
+<text top="260" left="345" width="345" height="18" font="8"><b>Bomeba- PCS Extraction and Correction module</b></text>
+<text top="296" left="171" width="8" height="12" font="4">✔</text>
+<text top="289" left="198" width="59" height="20" font="2">Position</text>
+<text top="289" left="345" width="146" height="20" font="2">Senior QC Engineer</text>
+<text top="325" left="171" width="8" height="12" font="4">✔</text>
+<text top="318" left="198" width="86" height="20" font="2">Project Size</text>
+<text top="318" left="345" width="88" height="20" font="2">13 members</text>
+<text top="354" left="171" width="8" height="12" font="4">✔</text>
+<text top="347" left="198" width="47" height="20" font="2">Period</text>
+<text top="347" left="345" width="190" height="20" font="2">Septemper 2015 – Current</text>
+<text top="383" left="171" width="8" height="12" font="4">✔</text>
+<text top="376" left="198" width="84" height="20" font="2">Description</text>
+<text top="376" left="345" width="459" height="20" font="2">The Bomeba system is a solution for automating bookekeeping.</text>
+<text top="397" left="345" width="483" height="20" font="2">The PCS Extraction module is responsible for extracting Preferred </text>
+<text top="417" left="345" width="431" height="20" font="2">Character Strings (P.C.S.) from the plain text version of the </text>
+<text top="438" left="345" width="440" height="20" font="2">submitted transaction document. It then gets analysed by the </text>
+<text top="459" left="345" width="370" height="20" font="2">automation process in other modules of the system.</text>
+<text top="480" left="345" width="475" height="20" font="2">The Correction module is responsible for correcting the results of </text>
+<text top="500" left="345" width="422" height="20" font="2">the PCS extraction when due to one of several reasons the </text>
+<text top="521" left="345" width="384" height="20" font="2">information could not be located in the usual manner.</text>
+<text top="542" left="345" width="459" height="20" font="2">The specification of some of the desired behaviours of the PCS </text>
+<text top="562" left="345" width="466" height="20" font="2">Extraction and Correction modules is provided in this document.</text>
+<text top="618" left="171" width="8" height="12" font="4">✔</text>
+<text top="612" left="198" width="115" height="20" font="2">Responsibilities</text>
+<text top="825" left="171" width="8" height="12" font="4">✔</text>
+<text top="819" left="198" width="85" height="20" font="2">Technology</text>
+<text top="616" left="372" width="6" height="21" font="9">-</text>
+<text top="617" left="399" width="309" height="20" font="2">Create Test Plan and estimate testing tasks.</text>
+<text top="637" left="372" width="6" height="21" font="9">-</text>
+<text top="638" left="399" width="420" height="20" font="2">Create and update Test case from Document Requirement.</text>
+<text top="658" left="372" width="6" height="21" font="9">-</text>
+<text top="659" left="399" width="429" height="20" font="2">Ask question and push respondent from client before writ-</text>
+<text top="680" left="399" width="196" height="20" font="2">ing TCs and during testing.</text>
+<text top="700" left="372" width="6" height="21" font="9">-</text>
+<text top="700" left="399" width="224" height="20" font="2">Execute testing and report bug.</text>
+<text top="730" left="372" width="6" height="21" font="9">-</text>
+<text top="731" left="399" width="264" height="20" font="2">Review and assign bug to Developer</text>
+<text top="751" left="372" width="6" height="21" font="9">-</text>
+<text top="752" left="399" width="151" height="20" font="2">Manage testing tasks</text>
+<text top="772" left="372" width="6" height="21" font="9">-</text>
+<text top="773" left="399" width="106" height="20" font="2">Weekly report </text>
+<text top="814" left="372" width="6" height="21" font="9">-</text>
+<text top="814" left="399" width="370" height="20" font="2">Environment: SQL server, Windows 7, Visual 2010</text>
+<text top="835" left="372" width="6" height="21" font="9">-</text>
+<text top="836" left="399" width="207" height="20" font="2">Development Language:  C#</text>
+<text top="947" left="117" width="10" height="12" font="4">●</text>
+<text top="941" left="144" width="87" height="20" font="5"><b>2010 - 2015</b></text>
+<text top="941" left="338" width="174" height="20" font="5"><b>Harvey Nash Vietnam </b></text>
+<text top="976" left="144" width="7" height="12" font="4"></text>
+<text top="970" left="171" width="53" height="20" font="7"><i><b>Project</b></i></text>
+<text top="969" left="338" width="208" height="18" font="8"><b>Civica -  Planned &amp; Servicing</b></text>
+<text top="1005" left="171" width="8" height="12" font="4">✔</text>
+<text top="999" left="198" width="59" height="20" font="2">Position</text>
+<text top="999" left="338" width="94" height="20" font="2">QC Engineer</text>
+<text top="1034" left="171" width="8" height="12" font="4">✔</text>
+<text top="1028" left="198" width="86" height="20" font="2">Project Size</text>
+<text top="1028" left="338" width="88" height="20" font="2">50 members</text>
+<text top="1063" left="171" width="8" height="12" font="4">✔</text>
+<text top="1056" left="198" width="47" height="20" font="2">Period</text>
+<text top="1056" left="338" width="166" height="18" font="10">March 2015 to July 2015</text>
+<text top="1120" left="787" width="40" height="14" font="6">Page 2</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="96" left="171" width="8" height="12" font="4">✔</text>
+<text top="90" left="198" width="84" height="20" font="2">Description</text>
+<text top="90" left="338" width="150" height="18" font="8"><b>Planned &amp; Servicing </b></text>
+<text top="90" left="488" width="332" height="18" font="10">is an asset management function present in nearly </text>
+<text top="109" left="338" width="466" height="18" font="10">all social housing providers.  It usually sits alongside an organizations </text>
+<text top="128" left="338" width="471" height="18" font="10">reactive repair provision, and is by its nature closely related to reactive </text>
+<text top="147" left="338" width="472" height="18" font="10">repairs, but with important differences. It's planned by the organization.</text>
+<text top="181" left="171" width="8" height="12" font="4">✔</text>
+<text top="174" left="198" width="115" height="20" font="2">Responsibilities</text>
+<text top="367" left="171" width="8" height="12" font="4">✔</text>
+<text top="360" left="198" width="85" height="20" font="2">Technology</text>
+<text top="181" left="338" width="7" height="12" font="4">–</text>
+<text top="174" left="365" width="420" height="20" font="2">Create and update Test case from Document Requirement.</text>
+<text top="201" left="338" width="7" height="12" font="4">–</text>
+<text top="195" left="365" width="455" height="20" font="2">Ask question  and push respondent  from client before  writing </text>
+<text top="216" left="365" width="423" height="20" font="2">TCs and during testing.(Chatting,  call,  share  screen  via  </text>
+<text top="236" left="365" width="447" height="20" font="2">Skype or  send  email  or  handovermeeting to clarify all DRs </text>
+<text top="257" left="365" width="135" height="20" font="2">before each sprint)</text>
+<text top="284" left="338" width="7" height="12" font="4">–</text>
+<text top="278" left="365" width="263" height="20" font="2">Review and sssign bug to Developer</text>
+<text top="305" left="338" width="7" height="12" font="4">–</text>
+<text top="298" left="365" width="110" height="20" font="2">Execute testing</text>
+<text top="326" left="338" width="7" height="12" font="4">–</text>
+<text top="319" left="365" width="151" height="20" font="2">Manage testing tasks</text>
+<text top="367" left="338" width="7" height="12" font="4">–</text>
+<text top="360" left="365" width="462" height="20" font="2">Environment: SQL Server, Windows 7, Web application, Visual </text>
+<text top="381" left="365" width="154" height="20" font="2">Studio 2012, .Net 4.5</text>
+<text top="408" left="338" width="7" height="12" font="4">–</text>
+<text top="402" left="365" width="257" height="20" font="2">Development Language:  C#, MVC</text>
+<text top="479" left="144" width="7" height="12" font="4"></text>
+<text top="472" left="171" width="53" height="20" font="7"><i><b>Project</b></i></text>
+<text top="472" left="338" width="116" height="18" font="8"><b>BCC AdSystems</b></text>
+<text top="508" left="171" width="8" height="12" font="4">✔</text>
+<text top="501" left="198" width="59" height="20" font="2">Position</text>
+<text top="501" left="338" width="94" height="20" font="2">QC Engineer</text>
+<text top="537" left="171" width="8" height="12" font="4">✔</text>
+<text top="530" left="198" width="86" height="20" font="2">Project Size</text>
+<text top="530" left="338" width="88" height="20" font="2">30 members</text>
+<text top="566" left="171" width="8" height="12" font="4">✔</text>
+<text top="559" left="198" width="47" height="20" font="2">Period</text>
+<text top="559" left="338" width="214" height="20" font="2">April 2012 – September 2015</text>
+<text top="594" left="171" width="8" height="12" font="4">✔</text>
+<text top="588" left="198" width="84" height="20" font="2">Description</text>
+<text top="588" left="338" width="433" height="20" font="2">BCC AdSystems is meant to provide a complete solution to </text>
+<text top="609" left="338" width="436" height="20" font="2">businesses in adverting and media services sector. The BCC </text>
+<text top="629" left="338" width="486" height="20" font="2">AdSystems ecosystem comprises of multiple components including</text>
+<text top="650" left="338" width="479" height="20" font="2">yet not limited to Enterprise the Accounting-and-more subsystem, </text>
+<text top="671" left="338" width="458" height="20" font="2">Media Desktop the Book, Bill and Pay subsystem, the decision </text>
+<text top="692" left="338" width="479" height="20" font="2">making supporting subsystem and Advantage the cloud version of </text>
+<text top="712" left="338" width="224" height="20" font="2">Enterprise and Media Desktop.</text>
+<text top="748" left="171" width="8" height="12" font="4">✔</text>
+<text top="741" left="198" width="115" height="20" font="2">Responsibilities</text>
+<text top="1017" left="171" width="8" height="12" font="4">✔</text>
+<text top="1010" left="198" width="85" height="20" font="2">Technology</text>
+<text top="748" left="338" width="7" height="12" font="4">–</text>
+<text top="741" left="365" width="420" height="20" font="2">Create and update Test case from Document Requirement.</text>
+<text top="768" left="338" width="7" height="12" font="4">–</text>
+<text top="762" left="365" width="455" height="20" font="2">Ask question  and push respondent  from client before  writing </text>
+<text top="783" left="365" width="423" height="20" font="2">TCs and during testing.(Chatting,  call,  share  screen  via  </text>
+<text top="803" left="365" width="447" height="20" font="2">Skype or  send  email  or  handovermeeting to clarify all DRs </text>
+<text top="824" left="365" width="135" height="20" font="2">before each sprint)</text>
+<text top="851" left="338" width="7" height="12" font="4">–</text>
+<text top="845" left="365" width="365" height="20" font="2">Give issues to confirm with client in daily meeting</text>
+<text top="872" left="338" width="7" height="12" font="4">–</text>
+<text top="865" left="365" width="110" height="20" font="2">Execute testing</text>
+<text top="893" left="338" width="7" height="12" font="4">–</text>
+<text top="886" left="365" width="264" height="20" font="2">Review and assign bug to Developer</text>
+<text top="913" left="338" width="7" height="12" font="4">–</text>
+<text top="907" left="365" width="151" height="20" font="2">Manage testing tasks</text>
+<text top="934" left="338" width="7" height="12" font="4">–</text>
+<text top="927" left="365" width="448" height="20" font="2">Help  team  member  in  her/his  own  tasks.  (EX:  write  TC, </text>
+<text top="948" left="365" width="221" height="20" font="2">update  TC,regression testing).</text>
+<text top="975" left="338" width="7" height="12" font="4">–</text>
+<text top="969" left="365" width="298" height="20" font="2">Demonstrate with client after each sprint.</text>
+<text top="1017" left="338" width="7" height="12" font="4">–</text>
+<text top="1010" left="365" width="412" height="20" font="2">Environment: Oracle, Windows 7, Visual 2010, .Net 3.5, </text>
+<text top="1031" left="365" width="84" height="20" font="2">Devexpress</text>
+<text top="1058" left="338" width="7" height="12" font="4">–</text>
+<text top="1052" left="365" width="207" height="20" font="2">Development Language:  C#</text>
+<text top="1120" left="787" width="40" height="14" font="6">Page 3</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="18" family="GAAAAA+UnDotum" color="#000000"/>
+<text top="125" left="144" width="7" height="12" font="4"></text>
+<text top="119" left="171" width="53" height="20" font="7"><i><b>Project</b></i></text>
+<text top="119" left="338" width="352" height="20" font="7"><i><b>Weatherbys -  Entries &amp; Declarations (Phase 2)</b></i></text>
+<text top="154" left="171" width="8" height="12" font="4">✔</text>
+<text top="148" left="198" width="59" height="20" font="2">Position</text>
+<text top="148" left="338" width="94" height="20" font="2">QC Engineer</text>
+<text top="183" left="171" width="8" height="12" font="4">✔</text>
+<text top="177" left="198" width="86" height="20" font="2">Project Size</text>
+<text top="177" left="338" width="88" height="20" font="2">15 members</text>
+<text top="212" left="171" width="8" height="12" font="4">✔</text>
+<text top="206" left="198" width="47" height="20" font="2">Period</text>
+<text top="206" left="338" width="211" height="20" font="2">November 2011 – April 2012</text>
+<text top="241" left="171" width="8" height="12" font="4">✔</text>
+<text top="235" left="198" width="84" height="20" font="2">Description</text>
+<text top="235" left="338" width="463" height="20" font="2">The business objective of this area of functionality is to create a </text>
+<text top="255" left="338" width="441" height="20" font="2">new area, called“View Entries and Declarations”, which will </text>
+<text top="276" left="338" width="368" height="20" font="2">replace the existing web pages listedbelow (within </text>
+<text top="297" left="338" width="176" height="20" font="3"><a href="http://www.racingadmin.co.uk/">www.racingadmin.co.uk</a></text>
+<text top="297" left="515" width="11" height="20" font="2"><a href="http://www.racingadmin.co.uk/">)</a>:</text>
+<text top="317" left="365" width="6" height="21" font="9">-</text>
+<text top="318" left="392" width="124" height="20" font="2"> Entries Tracking</text>
+<text top="338" left="365" width="6" height="21" font="9">-</text>
+<text top="339" left="392" width="177" height="20" font="2"> Confirmations Tracking</text>
+<text top="359" left="365" width="6" height="21" font="9">-</text>
+<text top="360" left="392" width="429" height="20" font="2"> Declarations Tracking  Provisional Entries  Confirmed </text>
+<text top="358" left="556" width="18" height="22" font="11"></text>
+<text top="358" left="716" width="18" height="22" font="11"></text>
+<text top="381" left="392" width="51" height="20" font="2">Entries</text>
+<text top="401" left="365" width="6" height="21" font="9">-</text>
+<text top="401" left="392" width="378" height="20" font="2"> Provisional Declarations  Confirmed Declarations</text>
+<text top="400" left="574" width="18" height="22" font="11"></text>
+<text top="422" left="365" width="6" height="21" font="9">-</text>
+<text top="423" left="392" width="340" height="20" font="2"> Early Closing Entries (will be a separate page)</text>
+<text top="443" left="365" width="6" height="21" font="9">-</text>
+<text top="444" left="392" width="117" height="20" font="2"> Condensed List</text>
+<text top="479" left="171" width="8" height="12" font="4">✔</text>
+<text top="473" left="198" width="115" height="20" font="2">Responsibilities</text>
+<text top="624" left="171" width="8" height="12" font="4">✔</text>
+<text top="618" left="198" width="85" height="20" font="2">Technology</text>
+<text top="477" left="365" width="6" height="21" font="9">-</text>
+<text top="477" left="392" width="299" height="20" font="2">Create and update TC, test script on time.</text>
+<text top="498" left="365" width="6" height="21" font="9">-</text>
+<text top="498" left="392" width="436" height="20" font="2">I understand requirement and follow the task. And I com-</text>
+<text top="520" left="392" width="291" height="20" font="2">pleted my current task with good result. </text>
+<text top="540" left="365" width="6" height="21" font="9">-</text>
+<text top="540" left="392" width="110" height="20" font="2">Execute testing</text>
+<text top="561" left="365" width="6" height="21" font="9">-</text>
+<text top="561" left="392" width="435" height="20" font="2">Strong skill in T-SQL query so I can get easily data from</text>
+<text top="582" left="392" width="29" height="20" font="2">DB.</text>
+<text top="632" left="365" width="6" height="21" font="9">-</text>
+<text top="634" left="392" width="91" height="18" font="10">Environment:</text>
+<text top="634" left="392" width="4" height="18" font="10"> </text>
+<text top="634" left="479" width="251" height="18" font="10">  Oracle, Windows 7, Web application</text>
+<text top="653" left="365" width="6" height="21" font="9">-</text>
+<text top="655" left="392" width="162" height="18" font="10">Development Language:</text>
+<text top="655" left="392" width="4" height="18" font="10"> </text>
+<text top="655" left="551" width="243" height="18" font="10">  Java/J2EE, JSP, JQuery/Javascript, </text>
+<text top="675" left="392" width="116" height="18" font="10">Html, XML. CSS</text>
+<text top="693" left="365" width="6" height="21" font="9">-</text>
+<text top="695" left="392" width="83" height="18" font="10">Web Servers</text>
+<text top="695" left="392" width="4" height="18" font="10"> </text>
+<text top="695" left="471" width="191" height="18" font="10"> : Apache Tomcat. 7.x, JBoss</text>
+<text top="714" left="365" width="6" height="21" font="9">-</text>
+<text top="716" left="392" width="76" height="18" font="10">Framework</text>
+<text top="716" left="392" width="4" height="18" font="10"> </text>
+<text top="716" left="464" width="176" height="18" font="10"> : Spring MVC, Spring 3.0</text>
+<text top="735" left="365" width="6" height="21" font="9">-</text>
+<text top="737" left="392" width="56" height="18" font="10">Browser</text>
+<text top="737" left="392" width="4" height="18" font="10"> </text>
+<text top="737" left="444" width="301" height="18" font="10"> : IE v8, Fire Fox v3.5.5, Chrome 10, Safari 5</text>
+<text top="756" left="365" width="6" height="21" font="9">-</text>
+<text top="758" left="392" width="150" height="18" font="10">Automation Test Tools</text>
+<text top="758" left="392" width="4" height="18" font="10"> </text>
+<text top="758" left="538" width="157" height="18" font="10"> :  Selenium version 2.0</text>
+<text top="855" left="144" width="7" height="12" font="4"></text>
+<text top="848" left="171" width="53" height="20" font="7"><i><b>Project</b></i></text>
+<text top="848" left="338" width="37" height="20" font="7"><i><b>Volly</b></i></text>
+<text top="884" left="171" width="8" height="12" font="4">✔</text>
+<text top="877" left="198" width="59" height="20" font="2">Position</text>
+<text top="877" left="338" width="94" height="20" font="2">QC Engineer</text>
+<text top="913" left="171" width="8" height="12" font="4">✔</text>
+<text top="906" left="198" width="86" height="20" font="2">Project Size</text>
+<text top="906" left="338" width="90" height="20" font="2">12 Members</text>
+<text top="942" left="171" width="8" height="12" font="4">✔</text>
+<text top="935" left="198" width="47" height="20" font="2">Period</text>
+<text top="935" left="338" width="252" height="20" font="2">September 2013 – November 2013</text>
+<text top="971" left="171" width="8" height="12" font="4">✔</text>
+<text top="964" left="198" width="84" height="20" font="2">Description</text>
+<text top="964" left="338" width="480" height="20" font="2">Volly is your new personal assistant – one that helps you pay your </text>
+<text top="985" left="338" width="440" height="20" font="2">bills, remindsyou when they’re due (just like your Mom, but </text>
+<text top="1005" left="338" width="470" height="20" font="2">without the nagging), keeps yourlife neatly organized and makes </text>
+<text top="1026" left="338" width="463" height="20" font="2">sure you never pay a late fee again. This easy-to-use online bill  </text>
+<text top="1047" left="338" width="483" height="20" font="2">payment system helps you manage all  of  your accounts soyou’re  </text>
+<text top="1068" left="338" width="473" height="20" font="2">always in  the  loop when it  comes to  bills,  statements  and day-</text>
+<text top="1120" left="787" width="40" height="14" font="6">Page 4</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="90" left="338" width="481" height="20" font="2">to-daynotices. No more surprises. No more overdue payments. No </text>
+<text top="111" left="338" width="91" height="20" font="2">more clutter.</text>
+<text top="146" left="171" width="8" height="12" font="4">✔</text>
+<text top="140" left="198" width="115" height="20" font="2">Responsibilities</text>
+<text top="498" left="171" width="8" height="12" font="4">✔</text>
+<text top="492" left="198" width="85" height="20" font="2">Technology</text>
+<text top="146" left="338" width="7" height="12" font="4">–</text>
+<text top="140" left="365" width="384" height="20" font="2">Create  Function list file  from  PRD  and User Story </text>
+<text top="160" left="365" width="82" height="20" font="2">documents.</text>
+<text top="188" left="338" width="7" height="12" font="4">–</text>
+<text top="181" left="365" width="462" height="20" font="2">Write and update TC file found on User Story Export files from </text>
+<text top="202" left="365" width="44" height="20" font="2">client.</text>
+<text top="229" left="338" width="7" height="12" font="4">–</text>
+<text top="222" left="365" width="442" height="20" font="2">Ask question and push respondent from client before writing </text>
+<text top="243" left="365" width="29" height="20" font="2">Tcs.</text>
+<text top="270" left="338" width="7" height="12" font="4">–</text>
+<text top="264" left="365" width="462" height="20" font="2"> Give  issues  to  confirm  with  client  in  daily  report  as  soon </text>
+<text top="285" left="365" width="408" height="20" font="2">as  I  meet problems about authorization, new features,...</text>
+<text top="312" left="338" width="7" height="12" font="4">–</text>
+<text top="305" left="365" width="411" height="20" font="2">Update UC file as soon as customer has changed request.</text>
+<text top="332" left="338" width="7" height="12" font="4">–</text>
+<text top="326" left="365" width="461" height="20" font="2">Execute testing in IE8, Firefox 6.0 and raise defect in Exelarate </text>
+<text top="347" left="365" width="118" height="20" font="2">system of client.</text>
+<text top="374" left="338" width="7" height="12" font="4">–</text>
+<text top="367" left="365" width="295" height="20" font="2">Run End2End test through each Round.  </text>
+<text top="395" left="338" width="7" height="12" font="4">–</text>
+<text top="388" left="365" width="238" height="20" font="2">Verify defect before each Round.</text>
+<text top="415" left="338" width="7" height="12" font="4">–</text>
+<text top="409" left="365" width="345" height="20" font="2">Execute regression testing of defect from client.</text>
+<text top="436" left="338" width="7" height="12" font="4">–</text>
+<text top="429" left="365" width="452" height="20" font="2">Help  team  member  in  her/his  own  tasks.  (EX:  write  TC,  </text>
+<text top="450" left="365" width="221" height="20" font="2">update  TC,regression testing).</text>
+<text top="498" left="338" width="7" height="12" font="4">–</text>
+<text top="492" left="365" width="459" height="20" font="2">Environment: SQL Server 2008 , .NET framework , Windows 7</text>
+<text top="519" left="338" width="7" height="12" font="4">–</text>
+<text top="512" left="365" width="333" height="20" font="2">Development Language: C#, Web application.</text>
+<text top="539" left="338" width="7" height="12" font="4">–</text>
+<text top="533" left="365" width="174" height="20" font="2">Browsers:  IE8 on Win7</text>
+<text top="560" left="338" width="7" height="12" font="4">–</text>
+<text top="554" left="365" width="80" height="20" font="2">Firefox 6.0</text>
+<text top="610" left="144" width="7" height="12" font="4"></text>
+<text top="603" left="171" width="53" height="20" font="7"><i><b>Project</b></i></text>
+<text top="603" left="338" width="314" height="20" font="7"><i><b>SCC (Saigon Children’s Charity) - Phase2</b></i></text>
+<text top="639" left="171" width="8" height="12" font="4">✔</text>
+<text top="632" left="198" width="59" height="20" font="2">Position</text>
+<text top="632" left="338" width="94" height="20" font="2">QC Engineer</text>
+<text top="668" left="171" width="8" height="12" font="4">✔</text>
+<text top="661" left="198" width="86" height="20" font="2">Project Size</text>
+<text top="661" left="338" width="82" height="20" font="2">4 Members</text>
+<text top="697" left="171" width="8" height="12" font="4">✔</text>
+<text top="690" left="198" width="47" height="20" font="2">Period</text>
+<text top="690" left="338" width="216" height="20" font="2"> April 2011 – September 2011</text>
+<text top="726" left="171" width="8" height="12" font="4">✔</text>
+<text top="719" left="198" width="84" height="20" font="2">Description</text>
+<text top="719" left="338" width="479" height="20" font="2">SCC  is looking for CMS(content management system) that could </text>
+<text top="740" left="338" width="472" height="20" font="2">help them tosolve all problems and could reduce expense for this </text>
+<text top="761" left="338" width="287" height="20" font="2">each year.And add functions in phase 2:</text>
+<text top="788" left="365" width="7" height="12" font="4">–</text>
+<text top="781" left="392" width="104" height="20" font="2">Manage Ecard</text>
+<text top="808" left="365" width="7" height="12" font="4">–</text>
+<text top="802" left="392" width="82" height="20" font="2">Send Ecard</text>
+<text top="829" left="365" width="7" height="12" font="4">–</text>
+<text top="823" left="392" width="187" height="20" font="2">Book Ticket Management</text>
+<text top="850" left="365" width="7" height="12" font="4">–</text>
+<text top="843" left="392" width="88" height="20" font="2">Book Ticket</text>
+<text top="870" left="365" width="7" height="12" font="4">–</text>
+<text top="864" left="392" width="272" height="20" font="2">Book Place, Book Place Management</text>
+<text top="891" left="365" width="7" height="12" font="4">–</text>
+<text top="885" left="392" width="171" height="20" font="2">Manage Announcement</text>
+<text top="912" left="365" width="7" height="12" font="4">–</text>
+<text top="905" left="392" width="171" height="20" font="2">Manage Announcement</text>
+<text top="933" left="365" width="7" height="12" font="4">–</text>
+<text top="926" left="392" width="157" height="20" font="2">Manage E-Newsletter</text>
+<text top="962" left="171" width="8" height="12" font="4">✔</text>
+<text top="955" left="198" width="115" height="20" font="2">Responsibilities</text>
+<text top="962" left="338" width="7" height="12" font="4">–</text>
+<text top="955" left="365" width="225" height="20" font="2">Create TC from SRS document</text>
+<text top="982" left="338" width="7" height="12" font="4">–</text>
+<text top="976" left="365" width="331" height="20" font="2">Deploy application in my PC after each build.</text>
+<text top="1003" left="338" width="7" height="12" font="4">–</text>
+<text top="996" left="365" width="354" height="20" font="2">Execute testing and raise bug in Bugzilla system.</text>
+<text top="1024" left="338" width="7" height="12" font="4">–</text>
+<text top="1017" left="365" width="335" height="20" font="2">Weekly report about my tasks to QC Manager </text>
+<text top="1044" left="338" width="7" height="12" font="4">–</text>
+<text top="1038" left="365" width="166" height="20" font="2">Create final test report.</text>
+<text top="1120" left="787" width="40" height="14" font="6">Page 5</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="18" family="HAAAAA+LiberationSerif" color="#000000"/>
+<text top="96" left="171" width="8" height="12" font="4">✔</text>
+<text top="90" left="198" width="85" height="20" font="2">Technology</text>
+<text top="96" left="338" width="7" height="12" font="4">–</text>
+<text top="90" left="365" width="459" height="20" font="2">Environment: SQL Server 2008 , .NET framework , Windows 7</text>
+<text top="117" left="338" width="7" height="12" font="4">–</text>
+<text top="111" left="365" width="333" height="20" font="2">Development Language: C#, Web application.</text>
+<text top="167" left="144" width="7" height="12" font="4"></text>
+<text top="160" left="171" width="53" height="20" font="7"><i><b>Project</b></i></text>
+<text top="160" left="338" width="324" height="20" font="7"><i><b>PCM (Publication Catalogue Management)</b></i></text>
+<text top="196" left="171" width="8" height="12" font="4">✔</text>
+<text top="189" left="198" width="59" height="20" font="2">Position</text>
+<text top="189" left="338" width="94" height="20" font="2">QC Engineer</text>
+<text top="225" left="171" width="8" height="12" font="4">✔</text>
+<text top="218" left="198" width="86" height="20" font="2">Project Size</text>
+<text top="218" left="338" width="82" height="20" font="2">3 Members</text>
+<text top="254" left="171" width="8" height="12" font="4">✔</text>
+<text top="247" left="198" width="47" height="20" font="2">Period</text>
+<text top="247" left="338" width="168" height="20" font="2">April 2011 – May 2011</text>
+<text top="283" left="171" width="8" height="12" font="4">✔</text>
+<text top="276" left="198" width="84" height="20" font="2">Description</text>
+<text top="276" left="365" width="414" height="20" font="2">1. PCM is a web application to help customers, account </text>
+<text top="297" left="392" width="406" height="20" font="2">managers to placeorders for main catalogues and flyers, </text>
+<text top="318" left="392" width="353" height="20" font="2">maintain orders, and view statusesof their orders.</text>
+<text top="338" left="365" width="451" height="20" font="2">2. Allow customers to pick different main catalogue designs, </text>
+<text top="359" left="392" width="434" height="20" font="2">to review and toapprove  customised  main catalogues  and  </text>
+<text top="380" left="392" width="350" height="20" font="2">flyers  with  their  logos  andcompany names on.</text>
+<text top="400" left="365" width="452" height="20" font="2">3. Establish a consolidated place to manage customised main </text>
+<text top="421" left="392" width="429" height="20" font="2">cataloguesand flyers, art proofs for customers’ reviews and </text>
+<text top="442" left="392" width="171" height="20" font="2">final fine PDFs to print.</text>
+<text top="462" left="365" width="414" height="20" font="2">4. Allow users on PCM to update statuses of orders and </text>
+<text top="483" left="392" width="56" height="20" font="2">artwork</text>
+<text top="504" left="365" width="455" height="20" font="2">5. PCM users will be tailored with proper orders, work items, </text>
+<text top="525" left="392" width="332" height="20" font="2">and actions for orders according to their roles.</text>
+<text top="560" left="171" width="8" height="12" font="4">✔</text>
+<text top="554" left="198" width="115" height="20" font="2">Responsibilities</text>
+<text top="705" left="171" width="8" height="12" font="4">✔</text>
+<text top="698" left="198" width="85" height="20" font="2">Technology</text>
+<text top="560" left="338" width="7" height="12" font="4">–</text>
+<text top="554" left="365" width="406" height="20" font="2">Create and update TC of all UC that QCL assigns to me.</text>
+<text top="581" left="338" width="7" height="12" font="4">–</text>
+<text top="574" left="365" width="278" height="20" font="2"> Help QC Lead reviewing his own TC.</text>
+<text top="601" left="338" width="7" height="12" font="4">–</text>
+<text top="595" left="365" width="441" height="20" font="2"> Confirm immediately with BA when UC hasn’t been clearly.</text>
+<text top="622" left="338" width="7" height="12" font="4">–</text>
+<text top="616" left="365" width="220" height="20" font="2">Execute testing and report bug</text>
+<text top="643" left="338" width="7" height="12" font="4">–</text>
+<text top="636" left="365" width="89" height="20" font="2">Verified bug</text>
+<text top="663" left="338" width="7" height="12" font="4">–</text>
+<text top="657" left="365" width="223" height="20" font="2">Regression test after new build</text>
+<text top="705" left="338" width="7" height="12" font="4">–</text>
+<text top="698" left="365" width="459" height="20" font="2">Environment: SQL Server 2008 , .NET framework , Windows 7</text>
+<text top="726" left="338" width="7" height="12" font="4">–</text>
+<text top="719" left="365" width="333" height="20" font="2">Development Language: C#, Web application.</text>
+<text top="755" left="144" width="7" height="12" font="4"></text>
+<text top="748" left="171" width="53" height="20" font="7"><i><b>Project</b></i></text>
+<text top="748" left="338" width="281" height="20" font="7"><i><b>PIMS (Prisoner Irish Manage System</b></i></text>
+<text top="783" left="171" width="8" height="12" font="4">✔</text>
+<text top="777" left="198" width="59" height="20" font="2">Position</text>
+<text top="777" left="338" width="95" height="20" font="12"><i>QC Engineer</i></text>
+<text top="812" left="171" width="8" height="12" font="4">✔</text>
+<text top="806" left="198" width="86" height="20" font="2">Project Size</text>
+<text top="806" left="338" width="90" height="20" font="2">25 Members</text>
+<text top="841" left="171" width="8" height="12" font="4">✔</text>
+<text top="835" left="198" width="47" height="20" font="2">Period</text>
+<text top="835" left="338" width="209" height="20" font="2">December 2010 – April 2011</text>
+<text top="870" left="171" width="8" height="12" font="4">✔</text>
+<text top="864" left="198" width="84" height="20" font="2">Description</text>
+<text top="864" left="338" width="429" height="20" font="2">PIMS is a window application that helps user  manages the </text>
+<text top="885" left="338" width="400" height="20" font="2">information of allprisoners of IPS(Irish Prison System).</text>
+<text top="920" left="171" width="8" height="12" font="4">✔</text>
+<text top="914" left="198" width="115" height="20" font="2">Responsibilities</text>
+<text top="920" left="338" width="7" height="12" font="4">–</text>
+<text top="914" left="365" width="401" height="20" font="2">Write and update TC of all UC that QCL assigns for me</text>
+<text top="941" left="338" width="7" height="12" font="4">–</text>
+<text top="934" left="365" width="443" height="20" font="2">Finish testing and post bug in Bugzilla system of all function </text>
+<text top="955" left="365" width="176" height="20" font="2">that QCLassigns for me.</text>
+<text top="982" left="338" width="7" height="12" font="4">–</text>
+<text top="976" left="365" width="461" height="20" font="2"> Work with the BA to clarify the Exit criteria before writing Tcs.</text>
+<text top="1003" left="338" width="7" height="12" font="4">–</text>
+<text top="996" left="365" width="358" height="20" font="2">Run smoke testing after I had received new build.</text>
+<text top="1023" left="338" width="7" height="12" font="4">–</text>
+<text top="1017" left="365" width="352" height="20" font="2">Run the Regression Testing before each delivery.</text>
+<text top="1044" left="338" width="7" height="12" font="4">–</text>
+<text top="1038" left="365" width="444" height="20" font="2">Help  to  team  member  in  her/his  tasks.  (EX:  test,  verify  </text>
+<text top="1058" left="365" width="201" height="20" font="2">bugs and regression testing)</text>
+<text top="1120" left="787" width="40" height="14" font="6">Page 6</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="221" left="171" width="8" height="12" font="4">✔</text>
+<text top="214" left="198" width="85" height="20" font="2">Technology</text>
+<text top="96" left="338" width="7" height="12" font="4">–</text>
+<text top="90" left="365" width="439" height="20" font="2"> Go to BA’s desk to confirm immediately with BA when UC </text>
+<text top="111" left="365" width="139" height="20" font="2">hasn’t been clearly.</text>
+<text top="138" left="338" width="7" height="12" font="4">–</text>
+<text top="131" left="365" width="462" height="20" font="2">Remind BA to update UC by email  or raise on Bugzilla  system</text>
+<text top="152" left="365" width="267" height="20" font="2">When customer has changed request.</text>
+<text top="179" left="338" width="7" height="12" font="4">–</text>
+<text top="173" left="365" width="427" height="20" font="2">Discuss with BA and Dev to give the best way to apply for </text>
+<text top="194" left="365" width="84" height="20" font="2">application.</text>
+<text top="221" left="338" width="7" height="12" font="4">–</text>
+<text top="214" left="365" width="431" height="20" font="2">Environment: Oracle 10g , .NET framework , Windows XP </text>
+<text top="235" left="365" width="126" height="20" font="2">professional SP3 </text>
+<text top="262" left="338" width="7" height="12" font="4">–</text>
+<text top="256" left="365" width="355" height="20" font="2">Development Language: Visual Basic, Win form.</text>
+<text top="312" left="144" width="7" height="12" font="4"></text>
+<text top="305" left="171" width="53" height="20" font="7"><i><b>Project</b></i></text>
+<text top="305" left="338" width="48" height="20" font="7"><i><b>Vielife</b></i></text>
+<text top="341" left="171" width="8" height="12" font="4">✔</text>
+<text top="334" left="198" width="59" height="20" font="2">Position</text>
+<text top="334" left="338" width="95" height="20" font="12"><i>QC Engineer</i></text>
+<text top="370" left="171" width="8" height="12" font="4">✔</text>
+<text top="363" left="198" width="86" height="20" font="2">Project Size</text>
+<text top="363" left="338" width="81" height="20" font="2">9 Members</text>
+<text top="399" left="171" width="8" height="12" font="4">✔</text>
+<text top="392" left="198" width="47" height="20" font="2">Period</text>
+<text top="392" left="338" width="236" height="20" font="2">October 2010 to December 2010</text>
+<text top="428" left="171" width="8" height="12" font="4">✔</text>
+<text top="421" left="198" width="84" height="20" font="2">Description</text>
+<text top="421" left="341" width="451" height="20" font="2">-      Vielife  Tobacco project  builds  a website  application to  </text>
+<text top="442" left="341" width="476" height="20" font="2">support user  toleave tobacco off their life. User joins program by </text>
+<text top="462" left="341" width="469" height="20" font="2">taking all pre-programquestionnaires. Then, the system will give </text>
+<text top="483" left="341" width="338" height="20" font="2">advances and guide them howto leave tobacco.</text>
+<text top="510" left="338" width="7" height="12" font="4">–</text>
+<text top="504" left="365" width="450" height="20" font="2"> Paper  Assessment:  Manage  the  reports  that  need  printing </text>
+<text top="525" left="365" width="445" height="20" font="2">including:Search  for  items  to  print  (reports,  cover  letter), </text>
+<text top="545" left="365" width="456" height="20" font="2">Create/Delete/Print  abatch of reports, Reconcile batches, Print </text>
+<text top="566" left="365" width="459" height="20" font="2">Reconciliation Report,… recorda form which has been received</text>
+<text top="587" left="365" width="249" height="20" font="2">and has failed the initial validation</text>
+<text top="614" left="338" width="7" height="12" font="4">–</text>
+<text top="607" left="365" width="289" height="20" font="2"> IPHT: Integrated Personal Health Team</text>
+<text top="635" left="338" width="7" height="12" font="4">–</text>
+<text top="628" left="365" width="365" height="20" font="2"> ODMP: Online Depression Management Program</text>
+<text top="655" left="338" width="7" height="12" font="4">–</text>
+<text top="649" left="365" width="305" height="20" font="2"> WMP: Weight loss Management Program</text>
+<text top="684" left="171" width="8" height="12" font="4">✔</text>
+<text top="678" left="198" width="115" height="20" font="2">Responsibilities</text>
+<text top="850" left="171" width="8" height="12" font="4">✔</text>
+<text top="843" left="198" width="89" height="20" font="2">Technology </text>
+<text top="684" left="338" width="7" height="12" font="4">–</text>
+<text top="678" left="365" width="284" height="20" font="2">Smoke test IPHT &amp;amp; WPM project.</text>
+<text top="705" left="338" width="7" height="12" font="4">–</text>
+<text top="698" left="365" width="274" height="20" font="2">Create TCs Paper Assessment project.</text>
+<text top="726" left="338" width="7" height="12" font="4">–</text>
+<text top="719" left="365" width="411" height="20" font="2"> Test Paper Assessment project and raise bug in Bugzilla </text>
+<text top="740" left="365" width="54" height="20" font="2">system.</text>
+<text top="767" left="338" width="7" height="12" font="4">–</text>
+<text top="761" left="365" width="85" height="20" font="2"> Verify bug.</text>
+<text top="788" left="338" width="7" height="12" font="4">–</text>
+<text top="781" left="365" width="279" height="20" font="2"> Test hostfix ‘Tobacco, IPHT’ projects.</text>
+<text top="808" left="338" width="7" height="12" font="4">–</text>
+<text top="802" left="365" width="316" height="20" font="2"> Restore  Database  and  deploy  application</text>
+<text top="850" left="338" width="7" height="12" font="4">–</text>
+<text top="843" left="365" width="450" height="20" font="2">Environment: SQL Server 2005 , .NET framework , Windows </text>
+<text top="864" left="365" width="23" height="20" font="2">XP</text>
+<text top="891" left="338" width="7" height="12" font="4">–</text>
+<text top="885" left="365" width="333" height="20" font="2">Development Language: C#, Web application.</text>
+<text top="1120" left="787" width="40" height="14" font="6">Page 7</text>
+</page>
+</pdf2xml>

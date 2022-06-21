@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="16" family="Arimo" color="#494949"/>
+	<fontspec id="1" size="17" family="Arimo" color="#1fbc89"/>
+	<fontspec id="2" size="14" family="Arimo" color="#494949"/>
+	<fontspec id="3" size="16" family="Arimo" color="#494949"/>
+	<fontspec id="4" size="40" family="Arimo" color="#ffffff"/>
+	<fontspec id="5" size="18" family="Arimo" color="#ffffff"/>
+	<fontspec id="6" size="16" family="FontAwesome" color="#1fbc89"/>
+	<fontspec id="7" size="27" family="Arimo" color="#1fbc89"/>
+<text top="973" left="23" width="50" height="18" font="0">Soccer</text>
+<text top="973" left="179" width="66" height="18" font="0">Traveling</text>
+<text top="1001" left="23" width="107" height="18" font="0">Listen to music</text>
+<text top="1001" left="179" width="115" height="18" font="0">Watching movie</text>
+<text top="408" left="23" width="258" height="18" font="0">I am a university student majoring in</text>
+<text top="430" left="23" width="303" height="18" font="0">Computer Science. Currently, I am looking</text>
+<text top="452" left="23" width="296" height="18" font="0">for an internship opportunity in the field of</text>
+<text top="474" left="23" width="296" height="18" font="0">Front-end and Back-end. I consider this a</text>
+<text top="496" left="23" width="270" height="18" font="0">great opportunity for me to have more</text>
+<text top="518" left="23" width="267" height="18" font="0">knowledge and experience in the real</text>
+<text top="540" left="23" width="304" height="18" font="0">working environment as well as to improve</text>
+<text top="561" left="23" width="147" height="18" font="0">my skills in my work.</text>
+<text top="707" left="23" width="276" height="18" font="0">- I have already finished about thinking</text>
+<text top="729" left="23" width="273" height="18" font="0">proramming and OOP couse for JAVA</text>
+<text top="751" left="23" width="310" height="18" font="0">programming in cybersoft academy center. </text>
+<text top="772" left="23" width="282" height="18" font="0">- I have been learning front-end course </text>
+<text top="794" left="23" width="254" height="18" font="0">about html, css, bootstrap 4, SASS,</text>
+<text top="816" left="23" width="237" height="18" font="0">JavaScript, AnglarJS, ReactJS in</text>
+<text top="838" left="23" width="310" height="18" font="0">CyberSoft center.The course is expected to</text>
+<text top="860" left="23" width="207" height="18" font="0">end in early December, 2019</text>
+<text top="408" left="383" width="226" height="19" font="1"><b>University of Greenwich VN</b></text>
+<text top="409" left="609" width="4" height="18" font="0"> </text>
+<text top="410" left="618" width="118" height="17" font="2">(Oct 2015 &gt; Now)</text>
+<text top="431" left="383" width="194" height="19" font="3"><b>Major: Computer Science</b></text>
+<text top="453" left="383" width="165" height="18" font="0">Undergraduate student</text>
+<text top="566" left="383" width="359" height="19" font="1"><b>Employee manager project [Course project]</b></text>
+<text top="567" left="741" width="4" height="18" font="0"> </text>
+<text top="568" left="750" width="119" height="17" font="2">(June 2019 &gt; July</text>
+<text top="590" left="383" width="38" height="17" font="2">2019)</text>
+<text top="610" left="383" width="188" height="19" font="3"><b>Technology: JAVA, OOP</b></text>
+<text top="633" left="383" width="124" height="18" font="0">Software: Eclipse</text>
+<text top="655" left="383" width="397" height="18" font="0">- This is a employee management sytem for a company</text>
+<text top="677" left="383" width="498" height="18" font="0">- the user can add new employee, delete employee,  display list of the</text>
+<text top="699" left="383" width="441" height="18" font="0">employee, calculating for salary for each position of employee</text>
+<text top="721" left="383" width="481" height="18" font="0">- Result: The application does not errors and all functionalities meet</text>
+<text top="742" left="383" width="99" height="18" font="0">their purpose.</text>
+<text top="782" left="383" width="346" height="19" font="1"><b>Layout VUS home page [Excerse practice]</b></text>
+<text top="783" left="727" width="4" height="18" font="0"> </text>
+<text top="784" left="737" width="139" height="17" font="2">(15 -June, 2019 &gt; 25</text>
+<text top="806" left="383" width="84" height="17" font="2">- june, 2019)</text>
+<text top="826" left="383" width="197" height="19" font="3"><b>Techonology: HTML, CSS</b></text>
+<text top="849" left="383" width="210" height="18" font="0">Software: Visual Studio Code</text>
+<text top="870" left="383" width="461" height="18" font="0">- Must design home page of VUS similar to Home page Explame</text>
+<text top="910" left="383" width="350" height="19" font="1"><b>ABCosmetics online shop [School project]</b></text>
+<text top="911" left="732" width="4" height="18" font="0"> </text>
+<text top="912" left="741" width="119" height="17" font="2">((Feb 2017 &gt; May</text>
+<text top="934" left="383" width="38" height="17" font="2">2017)</text>
+<text top="954" left="383" width="200" height="19" font="3"><b>Technology: C#, ASP.NET</b></text>
+<text top="976" left="383" width="340" height="18" font="0">Software: Visual Studio 2016, SQL Server 2014</text>
+<text top="998" left="383" width="85" height="18" font="0">Description:</text>
+<text top="1020" left="383" width="375" height="18" font="0">- This is an application created with win form in .NET</text>
+<text top="1042" left="383" width="344" height="18" font="0">- Customer can view products and create orders</text>
+<text top="1064" left="383" width="362" height="18" font="0">- Admin can assign status to the orders or cancel it</text>
+<text top="1086" left="383" width="446" height="18" font="0">Result: The application runs smoothly on all tested devices. All</text>
+<text top="1108" left="383" width="245" height="18" font="0">functionalitiesrun without any error</text>
+<text top="1147" left="383" width="377" height="19" font="1"><b>Student Management System [School project]</b></text>
+<text top="1148" left="760" width="4" height="18" font="0"> </text>
+<text top="1149" left="769" width="85" height="17" font="2">(May 2016 &gt;</text>
+<text top="1171" left="383" width="66" height="17" font="2">Oct 2016)</text>
+<text top="1191" left="383" width="188" height="19" font="3"><b>Technology: JAVA, OOP</b></text>
+<text top="1214" left="383" width="210" height="18" font="0">Software: EclipseDescription:</text>
+<text top="1236" left="383" width="281" height="18" font="0">-This is a student management system.</text>
+<text top="103" left="257" width="394" height="45" font="4"><b>Trương Tăng Quang</b></text>
+<text top="157" left="257" width="314" height="21" font="5"><b>Intership For Front-End &amp; Back-End</b></text>
+<text top="224" left="285" width="92" height="18" font="0">Oct 25, 1997</text>
+<text top="225" left="261" width="15" height="16" font="6"></text>
+<text top="225" left="260" width="15" height="16" font="6"></text>
+<text top="224" left="593" width="35" height="18" font="0">Male</text>
+<text top="225" left="569" width="13" height="16" font="6"></text>
+<text top="225" left="569" width="13" height="16" font="6"></text>
+<text top="250" left="285" width="90" height="18" font="0">0799759531</text>
+<text top="251" left="262" width="13" height="16" font="6"></text>
+<text top="251" left="261" width="13" height="16" font="6"></text>
+<text top="250" left="593" width="248" height="18" font="0">truongtangquang1997@gmail.com</text>
+<text top="251" left="568" width="16" height="16" font="6"></text>
+<text top="251" left="567" width="16" height="16" font="6"></text>
+<text top="277" left="285" width="187" height="18" font="0">TP. Hồ Chí Minh, Vietnam</text>
+<text top="278" left="263" width="9" height="16" font="6"></text>
+<text top="278" left="263" width="9" height="16" font="6"></text>
+<text top="277" left="593" width="270" height="18" font="0">https://www.facebook.com/quang.truo</text>
+<text top="299" left="593" width="49" height="18" font="0">ngtang</text>
+<text top="278" left="568" width="15" height="16" font="6"></text>
+<text top="278" left="568" width="15" height="16" font="6"></text>
+<text top="363" left="23" width="157" height="31" font="7"><b>OBJECTIVE</b></text>
+<text top="629" left="23" width="170" height="31" font="7"><b>ADDITIONAL</b></text>
+<text top="662" left="23" width="195" height="31" font="7"><b>INFORMATION</b></text>
+<text top="928" left="23" width="155" height="31" font="7"><b>INTERESTS</b></text>
+<text top="363" left="383" width="164" height="31" font="7"><b>EDUCATION</b></text>
+<text top="521" left="383" width="273" height="31" font="7"><b>WORK EXPERIENCE</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="8" size="13" family="ArialMT" color="#555555"/>
+<text top="7" left="383" width="281" height="18" font="0">-This is a student management system.</text>
+<text top="29" left="383" width="418" height="18" font="0">-The user can choose to add, view, delete, edit students or</text>
+<text top="51" left="383" width="497" height="18" font="0">lecturers.Result: The application does not errors and all functionalities</text>
+<text top="73" left="383" width="134" height="18" font="0">meet theirpurpose.</text>
+<text top="1230" left="813" width="65" height="15" font="8">© topcv.vn</text>
+</page>
+</pdf2xml>

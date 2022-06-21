@@ -1,0 +1,126 @@
+ pg. 1 
+CURRICULUM VITAE 
+1.  PERSONAL INFORMATION 
+Full name:                    Em Le Hong 
+Sex:                               Male 
+Nationality:                  Vietnam 
+Date of Birth:               September 12th, 1989 
+Place of birth:              Ca Mau Province 
+Address:                       62, Bong Sao St, Ward 5, District 8, HCMC 
+Marital status:             Single 
+Number Phone:           +84 126 7171 650 
+Email:                           em.hispvietnam@gmail.com 
+2.  EDUCATION AND TRAINING 
+2012: Graduated Saigon Institute of Technology 
+Major in: Software development using Java (AAS degree by Houston 
+Community College) 
+2012: Attended DHIS Mobile Workshop in Mui Ne – Vietnam 
+2013: Attended short training program about Public Health Informatics 
+Methodology in Ha Noi  Vietnam 
+2014: Attended DHIS Academy Asia in Vung Tau – Vietnam 
+2014: Attended DHIS Mobile workshop and training at Manila – Philippine 
+2015: Attended DHIS Academy Asia in Da Nang – Vietnam 
+3.  WORKING EXPERIENCES 
+From February 2012 to December 2014: During this time, I was working as 
+Mobile developer for Health Information System, University of Oslo: 
+DHIS2 (District Health Information System 2 – www.dhis2.org) 
+Description: DHIS 2 is a web-based tool for collection, validation, analysis, 
+and presentation of aggregate and transactional data in health management 
+information system.
+pg. 2 
+Role and responsibility: software developer 
+DHIS Mobile 
+Description: an expansion of DHIS2 for mobile phone that bring DHIS2 
+feature to handheld devices. DHIS Mobile includes a J2ME solution and a 
+browser-based solution 
+Role and responsibility: mobile developer 
+From December 2014 to present: Since December 2014, working as 
+implementator for HISP-VN. HISP-VN is a Southeast Asian node of DHIS2  HISP 
+Job description: 
+Customize DHIS2 application based on different heath reporting 
+systems 
+Training health workers using DHIS2 application to collect, quality 
+checking, and analysis health data. 
+Training newbie who wants to use, customize and developing DHIS2 
+applications. 
+4.  TECHNICAL SKILLS 
+Programming languages: 
+Java (J2EE, J2ME, LWUIT), Android, Javascript, C# (ASP.NET), 
+HTML, CSS 
+Subjects: 
+Business Computer Applications, Database Theory and Design, 
+Extensible Markup Language (XML), Web Programming Using 
+JavaServer Pages and Servlets, ASP.NET Programming, Systems 
+Analysis and Design. Working with GIS tools and create HTML 
+standard report in DHIS2 
+Websever: 
+Apache Tomcat, Glassfish, Jetty, NGINX 
+Database: 
+Postgres SQL, My SQL, MS SQL 
+Frameworks: 
+NET Framework, Spring, Struts, Hibernate, Velocity Framework 
+Platforms: 
+Android, J2ME, web-application 
+pg. 3 
+5.  OTHERS SKILLS AND EXPERIENCES 
+Experience in training for district users using DHIS2. In February 
+2015, I went to Lao for training for 2 provinces (trainer assistant 
+for Luang Namtha Province  Laos, main trainer for Xayabury 
+Province – Laos). 
+Customize Mobile J2ME Aggregate application for Nigeria. 
+Help to configure and customize Aggregate, Tracker mobile 
+J2ME application for Uganda, Nigeria 
+Customize data entry report from and create html report DRC (TB 
+program) 
+Working with Bao System (www.baosystem.com) 
+3 years working in international environment (working with Manila 
+Team on DHIS2 Mobile projects). 
+Setting up server and training for users at Thai Nguyen province 
+(Vietnam) in July 2015. 
+Working on integrating HMIS and DHIS2 system and creating 
+reports based on Circular No 27 – Vietnam MOH under 
+supervising by Pathfinder International Organization (Vietnam 
+office). 
+Attending DHIS2-PEPFAR Training program in Bangkok 
+(Thailand) in December 2015 as training assistant. 
+Setting up server and training for users at Hai Duong province 
+(Vietnam) in May 2016. 
+Attending DHIS2 Academy in Ho Chi Minh City in June 2016 as 
+training assistant. 
+Setting up Malaria Registration program for WHO Cambodia in 
+July 2016 which using Tablet for capturing data. 
+Travelling to Myanmar 2 times for DHIS2 training at national 
+level in 2016 
+Setting up Malaria Event capture for Vanuatu in 2016 
+Setting up programs for NIHE in Vietnam (HFM Disease, 
+Dengue, Zika) in 2016 
+Setting HIV aggregate and tracker program for LAO HMIS in 
+2016 and training HIV program for district level in Northern 
+provinces of LAO PDR 
+Introducing DHIS2 integrated system for province level in LAO 
+PDR in February 2017 
+Review the Pilot Case-based Surveillance in Cambodia in March 
+2017 
+Setting up SARI program for Vietnam in 2017 
+pg. 4 
+Setting up Aggregate and Event Case report about Communicable 
+and Non Communicable diseases for Grenada in 2017. 
+Attending DHIS2 training of trainer in June 2017 in Oslo, 
+Norway as participant 
+Travelling to Vanuatu in June 2017 for integrating Malaria 
+program into HMIS system, also get requirements for creating 
+standard reports. 
+Travelling to Laos PDR in September 2017 to setup Tuberculosis 
+program and support training using Tuberculosis program in 
+province. 
+Language 
+Vietnamese (Native) 
+English (Second)  TOEFL Certificate 
+6.  REFERENCE 
+Mr. Ngo Thanh Long 
+HISP-VN mobile leader 
+Phone: +84 935 084 665 
+Email: long.hispvietnam@gmail.com 
+Ms. Nguyen Tran Do Xuan Thuy 
+HISP-VN implementator leader 
+Email: thuy.hispvietnam@gmail.com 

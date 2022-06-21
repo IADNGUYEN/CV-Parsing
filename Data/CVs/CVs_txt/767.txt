@@ -1,0 +1,80 @@
+Tran Trung Kien
+Dec 28, 1993
+kientrancm@gmail.com
+www.linkedin.com/in/kientranvn
+www.fb.com/kientrancm
+Phone: +84 88881 5552
+333/7A Le Van Sy Street, Ward 1, Tan Binh District, HCMC, Vietnam
+PERSONAL STATEMENT
+I have 3 years of experience as Embedded Software Test Engineer. Ability to quickly adapt to
+different project environments, work well independently and as part of a team. Ability to
+prioritize tasks and meet deadlines. Experience with unit testing, system testing and
+generated test reports. Experienced over automotive testing tools that include RTRT, Vector
+Cast, Canoe. Report and track the issues using ALM, Clear-case, ClearQuest, HP QC.
+Experienced with requirement specifications and changing requirement sheets using IBM
+DOORS tool.
+* Proactively, honestly, self-motivation, like challenging, willing to take responsibility.
+* Worked on-site in India and willing to work on-site for short, long term.
+* Experienced in on-site working for international company and stakeholders.
+* Work-life integration styles.
+EDUCATION
+Sep 2011 – July 2015
+Can Tho University
+Major is Computer Engineering  Grade: 3.0/4.0
+EXPERIENCE
+MDN SAVIWAVE Ltd
+32 Ton That Tung, District 1, HCMC
+Software Test Engineer
+July 2015 – October 2016 
+Validate embedded software (RTOS, GSM) 
+Design and implement automation test script 
+Execute test case and analyse test report 
+Open AT Platform, Python, HP Quality Center
+Robert Bosch Engineering and Business Solution Vietnam
+364 Cong Hoa Street, Tan Binh District, HCMC
+Automotive Embedded Software Test Engineer
+November 2016 – Present 
+Implement unit testing 
+Worked on-site in India 8 months. 
+5 projects 
+Unit testing 
+Customer: German, Indian
+Team Coordinator
+October 2018 – Present 
+Project coordinator between Vietnam team and customer, stakeholders. 
+Mentor, training for new team member
+Organizer  Come to Suburb 2016 and 2017  Thanh Loc Ward, District 12, HCMC
+Dec 2016  Dec 2017
+Organize activities and support facilities for children. Host the knowledge contest “Ring the
+Golden Bell”. Clean up the polluted channels and streets in Thanh Loc Ward.
+PROFESSIONAL CERTIFICATES 
+The degree of engineer: Computer Engineering 
+TIIC – MCU Design Contest 2014 – Texas Instrument 
+Volunteer of Learning Resource Center at CTU (2011 – 2015) 
+Success through superior professionalism (23 October 2017) 
+BMI Hackathon in Robert Bosch Engineering and Business Solution Vietnam
+(November 2018)
+KEY SKILLS
+Skills 
+Strong in software testing skills, testing techniques 
+Good English communication skills 
+Analytical and problem-solving 
+Debugging 
+The ability to learn quickly 
+Teamwork 
+ISO26262, ISTQB, ASPICE, AGILE
+Programming Language 
+Strong in C programming for Embedded Software 
+PTU script language in RTRT 
+Python Script 
+Open AT Platform 
+C#
+Micro-controller 
+Raspberry Pi 2, Galileo Intel, Arduino, MSP430, Nuvoton NUC140, SIM900,ZigBee 
+Sensor(HMC5883L, MPU6050, Temperature, pH, Oxygen)
+IDE 
+RTRT  Rational Test Real Time 
+Clear-Case, AEEE, DOOR, ClearQuest, RADAR, ALM, HP Quality Center 
+Arduino IDE, Galileo IDE
+PERSONAL INTERESTS
+Traveling | Eating | Reading | Fashion

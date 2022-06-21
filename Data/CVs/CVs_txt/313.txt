@@ -1,0 +1,364 @@
+1  
+Full name:  
+DANG NHU TOAN  
+Sex:  
+Male 
+Date of birth:  
+3/29/1985  
+Place of birth:  
+Thua Thien Hue 
+Education:  
+Master in Information Technology 
+Phone:  
+0983991715  
+Email:  
+dangnhutoan@gmail.com 
+Permanent address:  50 Phan Chau Trinh Street, Truong An Ward, Hue city, Thua 
+Thien Hue province. 
+Current address:  
+234/1A Le Duc Tho Street, Ward 6, Go Vap District, Ho Chi 
+Minh city. 
+EDUCATION 
+2009  2011:  
+Master of Science in Information Technology, Lac Hong 
+University, Bien Hoa City, Dong Nai Province 
+2004  2009:  
+Engineer of Information Technology, Lac Hong University, 
+Bien Hoa City, Dong Nai Province 
+Other:  
+Certificate in University Teaching, HCMC University of Pedagogy 
+Project Management Fundamentals Certificate. 
+2  
+10/2008  2/2009:  
+Studying (last year student) and working for Education and 
+Training Department of Lac Hong University as temporary 
+jobs. 
+Designed database and developed Student Management software based on 
+Mapinfo software (Programming Language MapBasic) 
+Designed and developed Internal Material Management software for Education 
+and Training Department ( MS SQL 2005 with VC#.NET 2005) 
+3/2009 – 5/2010:  
+Worked at Information Technology Department of Lac Hong 
+University 
+3/2009 – 12/2009:  
+Worked as English Lab Room Manager  
+Technique 
+Setup, configured and managed network and database. 
+Installed, and helped teachers using H-CLASS V system. 
+Checked, observed and reported states of system in Lab Room. 
+Handled all the jobs arising. 
+Profession skill 
+Taught Programming C, Data Structure and Database Management 
+System subjects at Ispace College of information technology in Bien Hoa 
+city. 
+01/2010 – 5/2011:  
+Worked as Multimedia Room Manager 
+Management 
+Setup, configured and managed network and database. 
+Installed, and helped teachers using system. 
+Checked, observed and reported states of system in Lab Room. 
+3  
+Handled all the jobs arising. 
+Professional skill 
+Taught the Programming Language C/C++, Data Structure and 
+Algorithm, Analysis and Design Object Oriented System. SQL Database 
+Management System, and Information Technology Project Management 
+Led the students doing science topic. 
+Analyzed and designed database for “Building specified information 
+system for influenza in Vietnam”  project  (MS SQL 2005) 
+Analyzed, designed and developed “Building tool to display flu affected 
+areas in Vietnam” project (MS SQL 2005 and VC#.NET 2005) 
+Analyzed, designed and developed Construction Invoice Management 
+software for Phi Truong Limited Company (MS SQL 2005 and VB.NET 
+2005) (part-time job) 
+Publish Research topic 
+Phan Manh Thuong, Lam Thi Hoa Binh, Dang Nhu Toan, Tran Thien 
+Minh and Tran Van Lang, “Indexing the structural proteins database”, 
+Teacher Science Research Conference of Lac Hong University, 2011. 
+Dang Nhu Toan, Master Research Topic, “Paralleling the finding shortest 
+path algorithm in the large data with MPI”, 2011 
+6/2011 – 12/2011:  
+Worked for MMSoftware Company Limited as Research and 
+Development Team as Team Leader. 
+Management 
+Managed Research and Development Team  
+Communicated with customers and analyzed user requirements 
+(Documents: functional requirements, Project change request, Project 
+scope and Proposal) 
+Researched the new technology for new requirements/projects 
+Developed all .NET projects 
+Coordinated member of each project 
+Managed quality of .NET projects 
+4  
+Contacted with clients to receive requirements or deliver software 
+Managed QA Team 
+Tested the software and wrote technical documents reports (Documents: 
+Deployment for UAT, Issue log, and UAT Test Case) 
+Ensured the software development cycle (Documents: SQA report and 
+QA Performance report)  
+Managed System Admin Team  
+Developed, supported for Management Information System, Web 
+applications, business applications (include: Configured, deployed, and 
+maintained database and system)  (Documents: Deployment Setting and 
+Instruction,  and Deployment Plan) 
+Summarized and reported to CEO all .NET projects status (Project status 
+report, Time sheet report, R&D Action Plan, QA Action Plan, Summary of 
+Equipment, Computer Configuration, Daily/Weekly/Monthly report) 
+Professional skill 
+Developed the Point of Sale software system (DB2 of IBM with VB.NET 
+2003) 
+Supported other developers about .NET technical 
+Supported System Admin deploying some services and database of MS 
+SQL Server 2005 
+Optimized source code (structure and syntax) to improve performance 
+Optimized SQL query to improve I/O data  
+Customized CMS (Drupal, WordPress, Joomla)  
+Followed secure coding standard: Common Weakness Enumeration (CWE) 
+and Open Web Application Security Project (OWASP) to ensure security of 
+website and database 
+5  
+1/2012 – 9/2014: 
+Working for Fairfield Vietnam Company Limited as Software 
+Developer Team Leader 
+Management 
+Coordinated Software Developers for each projects in each developing 
+period. 
+Supported all Software Developer to ensured deliver source code on time. 
+Training and providing for new software developers about framework, 
+system library, specified open source library (LAPACK, Kriging, GSLIB, 
+FFTW, etc.), programming environment (FORTRAN, JAVA, MATLAB, 
+etc.) 
+Summarized status of all projects and reported directly to Software 
+Development Group Manager 
+Professional skill 
+Developed module/software on Linux environment 
+Supported technical staff (geophysics) process seismic data  
+Detected system errors in seismic data processing 
+Respond to training new programmers about frameworks, software 
+development standard and technical programming (logic, language, data 
+structure, etc.)  
+Responded to developing all projects about parallel programming (MPI, 
+OPENMP) for performance (time) 
+Researched and optimized algorithms to enhance seismic data quality 
+Tested other modules (User interface and manual test) 
+Supported System Admin team deployed local website system on Linux 
+Solved system issues (conflicted between old and new library, using wrong 
+library version, incompatibility library, etc. 
+Packaged, delivered release modules for Houston (the main owner of the 
+company) and Indonesia (branch). Contacted with them to solve occurred 
+problems (fixed bugs, upgraded library, helped configure system, etc.) 
+6  
+Project Information 
+Developed 3D-SRME project as Team Leader (From Feb-2012 to Aug-
+2012)  
+3D-SRME (3-Dimensional Surface Related Multiple Elimination)  is a 
+standard-lone software which was implemented in FORTRAN and 
+C/C++ by Fairfield Nodal Company (Houston, USA) 
+It used to process seismic data with very large calculation and data 
+amount. 
+Solved memory issue: The memory of node (workstation) is not enough 
+to allocate  for input data (requires about 54GB allocated memory/node)  
+Solved bottlenecks of network bandwidth issue: in the same time, many 
+node access to a RAID and read/write a large data 
+Solved run-time issue: it takes very long time to processing a production 
+seismic data (4-6 months with 30 nodes, 12-cores/node and 48GB/node) 
+Result: Applied MPI to distribute data from a RAID to many different 
+RAID. It solved bottlenecks of network bandwidth. After that, combined 
+MPI (distributed-memory) with OPENMP (shared-memory) to reduce 
+allocated memory (reduce allocated memory to 43GB/node) and enhance 
+performance (reduce run-time to 1-1.5 months with the same nodes) 
+This was a most important project of company in period 2012-2013 because 
+some bidding resumes in 3-D seismic data processing required 3-D SRME 
+module/software. 
+7  
+Researched and developed EMD project as Researcher and Team Leader 
+(From Sep-2012 to Jul-2013) 
+EMD (Empirical Mode Decomposition) is a module to attenuate noise in 
+both time-domain and frequency-domain  
+Researched EMD method and implemented demo in Matlab. 
+Converted Matlab code to C++ code in WKG (an environment was 
+developed by Fairfield Nodal Company, based on ProMAX 3D software 
+of Landmark) for 1-D in frequency-domain and 1-D & 2-D in time-
+domain  
+This is new module. It can remove cable and swell noises in time-domain 
+and attenuate criss-crossing artifact and background noise in frequency-
+domain.  
+Developed 3D GBM project as Developer (From Aug-2013 to Mar-2014) 
+3D GBM (3-Dimensional Gauss Beam Migration) is a module to enhance 
+seismic data quality. Migration is an important step in seismic data 
+processing 
+Implemented new algorithms which were developed by Team Leader and 
+Researcher (PhD in Geophysics from Houston and Mathematics from 
+company) 
+Solved memory issue: The memory of node (workstation) is not enough 
+to allocate  for input data (requires about 28GB allocated memory/1 
+node/1 core)  
+Solved run-time issue: it takes long time to processing a production 
+seismic data (4-6 weeks in one node, 12-cores/node and 48GB/node) 
+Result: improved performance (memory and run-time) by implementing 
+PVM combined with OPENMP. The current module can use all cores in 
+a workstation with least allocated memory, and reduce run-time to 1 
+week/1 node. 
+This is a most important module of company in present period.  As 3D-
+SRME module, almost bidding resumes in 3D seismic data processing 
+required 3D GBM module. 
+8  
+Developed BROADBAND project as Software Developer (From Feb-2014 
+to Aug-2014) 
+BROADBAND is a module to enhance resolution of seismic image. It 
+support user to detect multi-layout of geometry.  
+Implemented some functions in BROADBAND, Q-PSDM (Q-Post Stack 
+Depth Migration) projects: In 2014, the Broadband is a most hot topic 
+which oil/gas care. To get new contracts, Fairfield must developing 
+Broadband project to satisfy requirements of bidding resumes. 
+Publish Research topic 
+Le Anh Ha, Tran Thanh Do, Dang Nhu Toan, “A preliminary application 
+of the empirical mode decomposition to seismic noise attenuation at 
+Fairfield Vietnam”, 2012 
+10/2014 – present: 
+Working for FPT-Software Company Limited as Solution 
+Architect and Project Manager 
+Management 
+Training for new fresher about process, technical programming, and soft 
+skill. 
+Standardizes detail design document, unit test document 
+Standardizes maintenance process 
+Coaching member improve programming skill, document skill 
+Interview junior (JAVA, .NET, C++) and senior developers (.NET, C++) 
+Evaluate staff when contract is expired  
+Professional skill 
+Join to new projects which are new systems, high priority (for business) 
+or complex projects to investigate and propose solution with other high 
+level developers. 
+Support other project managers to solve issues which occurred in 
+projects. 
+9  
+Project Information 
+Develop Restructure Patient Database as Team Leader (From Oct-2014 to 
+Dec-2014) 
+Project information: In current system (ultrasound machine) of JP’s 
+Customer, the performance when query patient information from 
+database is low.  The project divides to 2 steps. Step 1, migrate patient 
+information from Access database to SQLite database, build the new 
+mechanism that allow use the same as DAO of Microsoft Access. Step 2, 
+restructure patient database that reduce duplicate information, enhance 
+access speed. 
+Technical uses: C++, SQLite database 
+Project size: 5 members. 
+Develop Patient Information Screen as Team Leader (50%, from Jan-
+2015 to Sep-2015) 
+Project information: ID Screen allow user manage patient information in 
+ultrasound machine. The old system uses ID Screen to contain 
+information as an object. The target of project is developing new ID 
+Screen that operates independent with system, migrate patient 
+information to share memory. 
+Technical uses: C++, MFC, SQLite database 
+Project size: min: 5 members, max: 13 members 
+Support main project as Project Technical Leader (50%, from Jan-2015 to 
+Sep-2015) 
+Project information: this is a main project of a specific Customer. Every 
+month, this customer will order some requirements, and ID Screen 
+project above is a sub project. 
+As project technical leader, I support all sub projects about solution, 
+technical, contact to customer to clear requirements 
+10  
+Develop Matlab project as Project Manager (50%, from Jul-2015 to Sep-
+2015, 100% from Sep-2015 to present) 
+Project information: this project includes 3 modules: Automatically 
+measures Bi-Parietal Diameter (BPD), Femur length (FL) and Abdominal 
+Circumference (AC). The target of project is converting Customer’s 
+algorithm from Matlab to C++, create corresponding DLL. The risk of 
+project is leak resource with Matlab programming skill, Mathematic 
+knowledge. Almost member is fresher and distribute in 2 locations. To 
+solve technical problem, I must break down all functions, evaluate weight 
+for each function and break-down training, investigation strategy for all 
+member, includes high level members. 
+Technical uses: C++, LAPACK, OpenCV 
+Project size: 13 member (8 in HCM, 5 in Can Tho) from Jul-2015 to Sep-
+2015, 5 member from Sep-2015 to present 
+11  
+ADVANCED SKILL 
+Knowledge of principle 
+Object Oriented Programming 
+Analysis and design database management system (object oriented, related) 
+Software Development cycle (Agile, Scrum Master) 
+Software testing 
+Knowledge of system 
+Linux system (CentOS 5.5/6.0, Ubuntu Server) (basic) 
+MS Windows Server 2003/2008 (basic and advanced) 
+Webserver (Linux, Windows) 
+MS SQL 2005/2008 (basic and advanced), MySQL (basic) 
+Knowledge of Mobile Application (Android)  
+Android SDK 
+Phonegap 
+PERSONAL SKILL 
+Ability to setup plans (football, team building and etc.) for Trace Union or 
+company (as Vice Chairman of Trade Union) 
+Proactive, creative, careful, enthusiastic 
+Ability to read and write technical documents in English 
+Ability to oral communicate in English 
+Ability to work independent and teamwork 
+Ability to work under high pressure 
+12  
+APPENDIX: PROGRAMMING EXPERIENCE 
+SKILL PROGRAMMING 
+Programming Languages 
+Experience-year 
+Programming Principle  
+C,C++ 
+7 
+Parallel 
+OpenMP, MPI, PVM, CUDA 
+5 
+Windows Message, Thread 
+1 
+Framework  
+.Net 
+ADO.Net 
+7 
+ASP.Net 
+7 
+C#.Net 
+7 
+VB.Net 
+7 
+MVC 
+7 
+Java 
+Java 
+3 
+J2EE 
+3 
+Mobile 
+Android 
+2 
+Phonegap 
+2 
+Database Management 
+MS SQL Server 2005/2008 
+7 
+MySQL 
+2 
+DB2  
+2 
+Analysis & Design 
+UML 
+7 
+OOP 
+7 
+Operating System 
+Windows Server 2003/2008 
+3 
+Linux (CentOS 5.5, Ubuntu 
+Server) 
+3 
+Others 
+Science Computing 
+MATLAB, Fortran, … 
+5 
+Network 
+Configure Router (Cisco) 
+2 
+13  
+APPENDIX: CERTIFICATE 
+14  

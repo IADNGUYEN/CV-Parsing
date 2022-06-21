@@ -1,0 +1,265 @@
+ 
+Page 1 of 4 
+CURRICULUM VITAE 
+NGUYEN DUY CONG 
+PERSONAL DETAILS 
+Full Name  
+NGUYEN DUY CONG 
+Job Titles 
+Mobile Game Developer 
+Date of Birth 
+October 9th , 1992 
+Place of Birth 
+Ha Noi, Vietnam 
+Gender 
+Male 
+Marital Status 
+Single 
+Home Address  
+Le Thi Rieng street,  12 dist, Ho Chi Minh, Viet Nam 
+Home Phone   
+Mobile 
+(+84) 948601035 
+Email                   congcoi123@gmail.com  
+SUMMARY INFORMATION 
+Have 3 years of experience in development of Mobile Game (cross-platform frameworks, engine). 
+Have 1 year of experience in backend development with Java. 
+Good software design skills, especially in object-oriented design. 
+Have experience in UI design for Mobile Application. 
+EDUCATION HISTORY 
+From: 06/2010 
+To: 01/2016 
+University/School: Ha Noi University of Science and Technology 
+EMPLOYMENT HISTORY 
+From: 11/2015 
+To: Present 
+Studio: Ten Games (http://tengames.info/) 
+Job: Game Developer 
+From: 07/2015 
+To: 11/2015 
+Company: RikkeiSoft (http://rikkeisoft.com/) 
+Job Title: Software Engineer 
+Job Description: Developer 
+From: 02/2014 
+To: 07/2015 
+Studio: Viguys Entertainment (http://viguysentertainment.com/) 
+Job: Game Developer 
+From: 04/2013 
+To: 02/2014 
+Company: Sunnet ITC Solution (http://sunnet.vn/en/) 
+Job Title: Software Engineer 
+Job Description: Mobile Game Developer 
+Nguyen Duy Cong  Developer 
+Page 2 of 4 
+APPENDIX  PROJECT REFERENCE AND SKILL SET 
+ATTENDED PROJECTS 
+From: 05/2016 
+To: 01/2017 
+Project Name 
+Gold Miner Online 
+Company 
+NA 
+Client 
+NA 
+Project Size 
+1 person 
+Position 
+Client, Server Developer 
+Responsibilities 
+Development 
+Project  Description 
+Develop the both server & client sides for game. Deploy 
+and build game in multiplatform (Android, iOS)  Reference: https://goo.gl/xpto2n  Preview: https://goo.gl/eafnkY 
+Used Programming Languages 
+C++, Java 
+Used Technologies 
+Cocos2dx 3.13.1, Netty, Jetty 
+From: 02/2016 
+To: 04/2016 
+Project Name 
+Turn-based Card Game Online 
+Company 
+NA 
+Client 
+NA 
+Project Size 
+2 people 
+Position 
+Client Developer 
+Responsibilities 
+Development 
+Project  Description 
+Develop the client-side for game. Deploy and build game in 
+multiplatform (Android, iOS) 
+Used Programming Languages 
+C++ 
+Used Technologies 
+Cocos2dx 3.8.1, SmartFox  SDK 1.6 
+From: 08/2015 
+To: 01/2016 
+Project Name 
+Player Highscore Saving System 
+Company 
+NA 
+Client 
+NA 
+Project Size 
+1 person 
+Position 
+Developer 
+Responsibilities 
+Development 
+Project  Description 
+Develop a web base system  for saving the best score of 
+players in mobile games 
+Used Programming Languages 
+Java, Javascript 
+Used Technologies 
+GWT (Google Web Toolkit), GAE (Google App Engine) 
+From: 08/2015 
+To: 11/2015 
+Project Name 
+ZUA 
+Company 
+Rikkeisoft 
+Nguyen Duy Cong  Developer 
+Page 3 of 4 
+Client 
+NA 
+Project Size 
+NA 
+Position 
+Developer 
+Responsibilities 
+Development 
+Project  Description 
+Use the ZENRIN map data to build a simple map 
+Used Programming Languages 
+C# 
+Used Technologies 
+Unity 3D 
+From: 04/2013 
+To: 02/2014 
+Project Name 
+Android Casual Games Store 
+Company 
+Sunnet ITC Solution 
+Client 
+NA 
+Project Size 
+1 person 
+Position 
+Developer 
+Responsibilities 
+Development 
+Project  Description 
+Develop serveral mini casual games (about 15 games) for 
+Android store 
+Used Programming Languages 
+Java, C++ 
+Used Technologies 
+Libgdx, Cocos2dx 
+Nguyen Duy Cong  Developer 
+Page 4 of 4 
+INFORMATION TECHNOLOGY SKILLS 
+Experiences: 
+0:  0 month 
+2:  6 – 12 months 
+4:  2 – 5 years 
+1:  1 – 6 months 
+3:  1 – 2 years 
+5:  > 5 years 
+Last used: 
+Last year used 
+Expert level: 
+1:  Beginner Level 
+3:  Sometimes have to use   
+manuals 
+5:  Expert Level 
+2:  Always have to use manuals 
+4:  Can solve problems 
+Experiences 
+Last used 
+Expert level 
+1 
+2 
+3 
+4 
+5 
+Platform 
+Linux 
+2 
+2016 
+x 
+Database 
+MySQL 
+1 
+2016 
+x 
+MongoDB 
+1 
+2016 
+x 
+Programming 
+Java 
+3 
+2017 
+x 
+C/C++ 
+3 
+2017 
+x 
+C# 
+1 
+2015 
+x 
+JavaScript 
+1 
+2017 
+x 
+Frameworks/Middleware 
+Libgdx 
+3 
+2015 
+x 
+Cocos2dx 
+3 
+2017 
+x 
+Netty, Jetty 
+2 
+2017 
+x 
+FOREIGN LANGUAGE 
+Experiences: 
+0:  0 month 
+2:  6 – 12 months 
+4:  2 – 5 years 
+1:  1 – 6 months 
+3:  1 – 2 years 
+5:  > 5 years 
+Last used: 
+Last year used 
+Expert level: 
+1:  Beginner 
+3:  Fluent 
+5:  Translator 
+2:  Conversational 
+4:  Expert 
+Experiences 
+Last used 
+Expert level 
+1 
+2 
+3 
+4 
+5 
+Languages 
+English 
+2 
+2016 
+x 
+Japanese 
+4 
+2016 
+x 

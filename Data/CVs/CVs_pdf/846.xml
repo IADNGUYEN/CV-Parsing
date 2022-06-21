@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="30" family="ABCDEE+Georgia,Bold" color="#000000"/>
+	<fontspec id="1" size="14" family="ABCDEE+Georgia" color="#000000"/>
+	<fontspec id="2" size="18" family="ABCDEE+Georgia,Bold" color="#000000"/>
+	<fontspec id="3" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="4" size="16" family="Arial" color="#000000"/>
+	<fontspec id="5" size="16" family="ABCDEE+Georgia" color="#000000"/>
+	<fontspec id="6" size="16" family="ABCDEE+Georgia" color="#0000ff"/>
+	<fontspec id="7" size="18" family="ABCDEE+Cambria,Bold" color="#000000"/>
+	<fontspec id="8" size="16" family="ABCDEE+Georgia,Bold" color="#000000"/>
+	<fontspec id="9" size="16" family="ABCDEE+Georgia,Italic" color="#000000"/>
+	<fontspec id="10" size="16" family="Arial,Italic" color="#000000"/>
+<text top="108" left="319" width="287" height="34" font="0"><b>DAO THANH DAT </b></text>
+<text top="142" left="238" width="445" height="17" font="1">99/9/15,  To Hieu Street, Hiep Tan Ward, Tan Phu District, HCMC </text>
+<text top="159" left="459" width="4" height="17" font="1"> </text>
+<text top="185" left="108" width="301" height="20" font="2"><b>PERSONAL INFORMATION </b></text>
+<text top="223" left="108" width="8" height="20" font="3"></text>
+<text top="228" left="116" width="5" height="15" font="4"> </text>
+<text top="224" left="135" width="198" height="19" font="5">Full name: Dao Thanh Dat </text>
+<text top="252" left="108" width="8" height="20" font="3"></text>
+<text top="257" left="116" width="5" height="15" font="4"> </text>
+<text top="253" left="135" width="195" height="19" font="5">Date of Birth: 25/09/1993 </text>
+<text top="281" left="108" width="8" height="20" font="3"></text>
+<text top="286" left="116" width="5" height="15" font="4"> </text>
+<text top="283" left="135" width="188" height="19" font="5">Place of Birth: Lam Dong </text>
+<text top="310" left="108" width="8" height="20" font="3"></text>
+<text top="315" left="116" width="5" height="15" font="4"> </text>
+<text top="312" left="135" width="161" height="19" font="5">Phone: 096.367.9865 </text>
+<text top="340" left="108" width="8" height="20" font="3"></text>
+<text top="344" left="116" width="5" height="15" font="4"> </text>
+<text top="341" left="135" width="52" height="19" font="5">Ema<a href="mailto:thanhdat2599@gmail.com">il: </a></text>
+<text top="341" left="187" width="195" height="19" font="6"><a href="mailto:thanhdat2599@gmail.com">thanhdat2599@gmail.com</a></text>
+<text top="341" left="382" width="4" height="19" font="5"><a href="mailto:thanhdat2599@gmail.com"> </a></text>
+<text top="369" left="108" width="4" height="19" font="5"> </text>
+<text top="397" left="108" width="224" height="20" font="2"><b>POSITION APPLIED </b></text>
+<text top="397" left="810" width="5" height="20" font="2"><b> </b></text>
+<text top="434" left="108" width="189" height="19" font="5">JAVA Software Engineer. </text>
+<text top="462" left="108" width="4" height="19" font="5"> </text>
+<text top="490" left="108" width="181" height="21" font="7"><b>CAREER SUMMARY</b></text>
+<text top="490" left="291" width="5" height="20" font="2"><b> </b></text>
+<text top="528" left="108" width="8" height="20" font="3"></text>
+<text top="533" left="116" width="5" height="15" font="4"> </text>
+<text top="530" left="135" width="309" height="19" font="5">Having nearly 2 years of JAVA Developer. </text>
+<text top="557" left="108" width="8" height="20" font="3"></text>
+<text top="562" left="116" width="5" height="15" font="4"> </text>
+<text top="559" left="135" width="313" height="19" font="5">Strong knowledge in JAVA core and OOP.  </text>
+<text top="587" left="108" width="8" height="20" font="3"></text>
+<text top="591" left="116" width="5" height="15" font="4"> </text>
+<text top="588" left="135" width="455" height="19" font="5">Good understanding of Data Structures and coding standards. </text>
+<text top="616" left="108" width="8" height="20" font="3"></text>
+<text top="621" left="116" width="5" height="15" font="4"> </text>
+<text top="617" left="135" width="463" height="19" font="5">Good team working and ability to perform well under pressure. </text>
+<text top="645" left="108" width="8" height="20" font="3"></text>
+<text top="650" left="116" width="5" height="15" font="4"> </text>
+<text top="646" left="135" width="342" height="19" font="5">Responsibility, self-motivation, independence  </text>
+<text top="674" left="108" width="8" height="20" font="3"></text>
+<text top="679" left="116" width="5" height="15" font="4"> </text>
+<text top="676" left="135" width="237" height="19" font="5">Passion for Java and technology </text>
+<text top="703" left="108" width="4" height="19" font="5"> </text>
+<text top="731" left="108" width="242" height="20" font="2"><b>WORK &amp; EDUCATION </b></text>
+<text top="769" left="108" width="293" height="19" font="8"><b>NashTech (Harvey Nash Vietnam) </b></text>
+<text top="769" left="646" width="164" height="19" font="9"><i>TanBinh Distr, HCMC</i></text>
+<text top="769" left="810" width="4" height="19" font="8"><b> </b></text>
+<text top="800" left="108" width="134" height="15" font="10"><i>Software engineer</i></text>
+<text top="797" left="242" width="8" height="19" font="8"><b>  </b></text>
+<text top="797" left="729" width="81" height="19" font="9"><i>2015 - now</i></text>
+<text top="797" left="810" width="4" height="19" font="8"><b> </b></text>
+<text top="825" left="108" width="221" height="19" font="8"><b>Ton Duc Thang University</b></text>
+<text top="825" left="329" width="4" height="19" font="5"> </text>
+<text top="825" left="703" width="111" height="19" font="5">Distr 7, HCMC </text>
+<text top="856" left="108" width="72" height="15" font="10"><i>Student - </i></text>
+<text top="853" left="180" width="140" height="19" font="5">Computer Science  </text>
+<text top="853" left="723" width="91" height="19" font="5">2011 – 2015 </text>
+<text top="881" left="108" width="4" height="19" font="5"> </text>
+<text top="908" left="108" width="185" height="20" font="2"><b>JOB OBJECTIVE </b></text>
+<text top="946" left="108" width="8" height="20" font="3"></text>
+<text top="951" left="116" width="5" height="15" font="4"> </text>
+<text top="947" left="135" width="640" height="19" font="5">To become a staff member working in an active, creative and professional environment. </text>
+<text top="975" left="108" width="8" height="20" font="3"></text>
+<text top="980" left="116" width="5" height="15" font="4"> </text>
+<text top="977" left="135" width="274" height="19" font="5">To improve my knowledge and skills. </text>
+<text top="1004" left="108" width="8" height="20" font="3"></text>
+<text top="1009" left="116" width="5" height="15" font="4"> </text>
+<text top="1006" left="135" width="178" height="19" font="5">Having a long-term job. </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="14" family="ABCDEE+Georgia,Bold" color="#000000"/>
+	<fontspec id="12" size="14" family="ABCDEE+Cambria,Bold" color="#000000"/>
+	<fontspec id="13" size="14" family="ABCDEE+Cambria" color="#000000"/>
+<text top="108" left="108" width="233" height="20" font="2"><b>LANGUAGES SKILLS </b></text>
+<text top="154" left="108" width="193" height="17" font="11"><b>1: Beginning -&gt; 5: Expert </b></text>
+<text top="190" left="108" width="145" height="17" font="11"><b>Foreign languages </b></text>
+<text top="190" left="271" width="76" height="17" font="11"><b>Listening </b></text>
+<text top="190" left="406" width="75" height="17" font="11"><b>Speaking </b></text>
+<text top="190" left="548" width="68" height="17" font="11"><b>Reading </b></text>
+<text top="190" left="676" width="64" height="17" font="11"><b>Writing </b></text>
+<text top="225" left="108" width="54" height="17" font="1">English </text>
+<text top="225" left="326" width="12" height="17" font="1">4 </text>
+<text top="225" left="465" width="12" height="17" font="1">3 </text>
+<text top="225" left="600" width="12" height="17" font="1">4 </text>
+<text top="225" left="731" width="12" height="17" font="1">3 </text>
+<text top="261" left="108" width="4" height="17" font="1"> </text>
+<text top="261" left="271" width="4" height="17" font="1"> </text>
+<text top="261" left="406" width="4" height="17" font="1"> </text>
+<text top="261" left="548" width="4" height="17" font="1"> </text>
+<text top="261" left="676" width="4" height="17" font="1"> </text>
+<text top="297" left="108" width="8" height="20" font="3"></text>
+<text top="302" left="116" width="5" height="15" font="4"> </text>
+<text top="299" left="135" width="203" height="19" font="5">English for communication </text>
+<text top="326" left="108" width="8" height="20" font="3"></text>
+<text top="331" left="116" width="5" height="15" font="4"> </text>
+<text top="328" left="135" width="290" height="19" font="5">Reading, writing documents and email. </text>
+<text top="355" left="108" width="8" height="20" font="3"></text>
+<text top="360" left="116" width="5" height="15" font="4"> </text>
+<text top="357" left="135" width="679" height="19" font="5">I have experienced to work directly with foreigners customers (England, Italy, Sweden, Hong </text>
+<text top="376" left="135" width="53" height="19" font="5">Kong). </text>
+<text top="404" left="108" width="4" height="19" font="5"> </text>
+<text top="431" left="108" width="406" height="20" font="2"><b>TECHNICAL SKILLS &amp; KNOWLEDGE </b></text>
+<text top="477" left="198" width="110" height="18" font="12"><b>Technical skills </b></text>
+<text top="477" left="502" width="268" height="18" font="12"><b>Skill matrix (1: Beginning -&gt; 5: Expert) </b></text>
+<text top="514" left="425" width="12" height="18" font="12"><b>1 </b></text>
+<text top="514" left="513" width="12" height="18" font="12"><b>2 </b></text>
+<text top="514" left="607" width="12" height="18" font="12"><b>3 </b></text>
+<text top="514" left="708" width="12" height="18" font="12"><b>4 </b></text>
+<text top="514" left="810" width="12" height="18" font="12"><b>5 </b></text>
+<text top="550" left="108" width="36" height="18" font="13">JAVA </text>
+<text top="550" left="386" width="3" height="18" font="13"> </text>
+<text top="550" left="481" width="3" height="18" font="13"> </text>
+<text top="550" left="562" width="3" height="18" font="13"> </text>
+<text top="550" left="670" width="3" height="18" font="13"> </text>
+<text top="550" left="764" width="10" height="18" font="13">x </text>
+<text top="586" left="108" width="84" height="18" font="13">C#, ASP.NET </text>
+<text top="586" left="386" width="3" height="18" font="13"> </text>
+<text top="586" left="481" width="3" height="18" font="13"> </text>
+<text top="586" left="562" width="10" height="18" font="13">x </text>
+<text top="586" left="670" width="3" height="18" font="13"> </text>
+<text top="586" left="764" width="3" height="18" font="13"> </text>
+<text top="623" left="108" width="44" height="18" font="13">C/C++ </text>
+<text top="623" left="386" width="3" height="18" font="13"> </text>
+<text top="623" left="481" width="10" height="18" font="13">x </text>
+<text top="623" left="562" width="3" height="18" font="13"> </text>
+<text top="623" left="670" width="3" height="18" font="13"> </text>
+<text top="623" left="764" width="3" height="18" font="13"> </text>
+<text top="659" left="108" width="56" height="18" font="13">Android </text>
+<text top="659" left="386" width="3" height="18" font="13"> </text>
+<text top="659" left="481" width="10" height="18" font="13">x </text>
+<text top="659" left="562" width="3" height="18" font="13"> </text>
+<text top="659" left="670" width="3" height="18" font="13"> </text>
+<text top="659" left="764" width="3" height="18" font="13"> </text>
+<text top="695" left="108" width="31" height="18" font="13">PHP </text>
+<text top="695" left="386" width="3" height="18" font="13"> </text>
+<text top="695" left="481" width="3" height="18" font="13"> </text>
+<text top="695" left="562" width="10" height="18" font="13">x </text>
+<text top="695" left="670" width="3" height="18" font="13"> </text>
+<text top="695" left="764" width="3" height="18" font="13"> </text>
+<text top="732" left="108" width="36" height="18" font="13">Scala </text>
+<text top="732" left="386" width="10" height="18" font="13">x </text>
+<text top="732" left="481" width="3" height="18" font="13"> </text>
+<text top="732" left="562" width="3" height="18" font="13"> </text>
+<text top="732" left="670" width="3" height="18" font="13"> </text>
+<text top="732" left="764" width="3" height="18" font="13"> </text>
+<text top="768" left="108" width="70" height="18" font="13">Angular JS </text>
+<text top="768" left="386" width="3" height="18" font="13"> </text>
+<text top="768" left="481" width="10" height="18" font="13">x </text>
+<text top="768" left="562" width="3" height="18" font="13"> </text>
+<text top="768" left="670" width="3" height="18" font="13"> </text>
+<text top="768" left="764" width="3" height="18" font="13"> </text>
+<text top="804" left="108" width="154" height="18" font="13">Facebook Development </text>
+<text top="804" left="386" width="3" height="18" font="13"> </text>
+<text top="804" left="481" width="3" height="18" font="13"> </text>
+<text top="804" left="562" width="10" height="18" font="13">x </text>
+<text top="804" left="670" width="3" height="18" font="13"> </text>
+<text top="804" left="764" width="3" height="18" font="13"> </text>
+<text top="841" left="108" width="31" height="18" font="13">OOP </text>
+<text top="841" left="386" width="3" height="18" font="13"> </text>
+<text top="841" left="481" width="3" height="18" font="13"> </text>
+<text top="841" left="562" width="3" height="18" font="13"> </text>
+<text top="841" left="670" width="3" height="18" font="13"> </text>
+<text top="841" left="764" width="10" height="18" font="13">x </text>
+<text top="877" left="108" width="124" height="18" font="13">Spring Framework </text>
+<text top="877" left="386" width="3" height="18" font="13"> </text>
+<text top="877" left="481" width="3" height="18" font="13"> </text>
+<text top="877" left="562" width="10" height="18" font="13">x </text>
+<text top="877" left="670" width="3" height="18" font="13"> </text>
+<text top="877" left="764" width="3" height="18" font="13"> </text>
+<text top="913" left="108" width="78" height="18" font="13">Spring boot </text>
+<text top="913" left="386" width="3" height="18" font="13"> </text>
+<text top="913" left="481" width="10" height="18" font="13">x </text>
+<text top="913" left="562" width="3" height="18" font="13"> </text>
+<text top="913" left="670" width="3" height="18" font="13"> </text>
+<text top="913" left="764" width="3" height="18" font="13"> </text>
+<text top="950" left="108" width="97" height="18" font="13">JPA/Hibernate </text>
+<text top="950" left="386" width="3" height="18" font="13"> </text>
+<text top="950" left="481" width="3" height="18" font="13"> </text>
+<text top="950" left="562" width="10" height="18" font="13">x </text>
+<text top="950" left="670" width="3" height="18" font="13"> </text>
+<text top="950" left="764" width="3" height="18" font="13"> </text>
+<text top="986" left="108" width="42" height="18" font="13">Struts </text>
+<text top="986" left="386" width="3" height="18" font="13"> </text>
+<text top="986" left="481" width="10" height="18" font="13">x </text>
+<text top="986" left="562" width="3" height="18" font="13"> </text>
+<text top="986" left="670" width="3" height="18" font="13"> </text>
+<text top="986" left="764" width="3" height="18" font="13"> </text>
+<text top="1022" left="108" width="36" height="18" font="13">JDBC </text>
+<text top="1022" left="386" width="3" height="18" font="13"> </text>
+<text top="1022" left="481" width="3" height="18" font="13"> </text>
+<text top="1022" left="562" width="3" height="18" font="13"> </text>
+<text top="1022" left="670" width="11" height="18" font="13">x </text>
+<text top="1022" left="764" width="3" height="18" font="13"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="118" left="108" width="60" height="18" font="13">JSP/JSTL </text>
+<text top="118" left="386" width="3" height="18" font="13"> </text>
+<text top="118" left="481" width="3" height="18" font="13"> </text>
+<text top="118" left="562" width="10" height="18" font="13">x </text>
+<text top="118" left="670" width="3" height="18" font="13"> </text>
+<text top="118" left="764" width="3" height="18" font="13"> </text>
+<text top="154" left="108" width="131" height="18" font="13">Restful Web Service </text>
+<text top="154" left="386" width="3" height="18" font="13"> </text>
+<text top="154" left="481" width="3" height="18" font="13"> </text>
+<text top="154" left="562" width="3" height="18" font="13"> </text>
+<text top="154" left="670" width="11" height="18" font="13">x </text>
+<text top="154" left="764" width="3" height="18" font="13"> </text>
+<text top="190" left="108" width="38" height="18" font="13">SOAP </text>
+<text top="190" left="386" width="3" height="18" font="13"> </text>
+<text top="190" left="481" width="10" height="18" font="13">x </text>
+<text top="190" left="562" width="3" height="18" font="13"> </text>
+<text top="190" left="670" width="3" height="18" font="13"> </text>
+<text top="190" left="764" width="3" height="18" font="13"> </text>
+<text top="227" left="108" width="43" height="18" font="13">HTML </text>
+<text top="227" left="386" width="3" height="18" font="13"> </text>
+<text top="227" left="481" width="3" height="18" font="13"> </text>
+<text top="227" left="562" width="3" height="18" font="13"> </text>
+<text top="227" left="670" width="3" height="18" font="13"> </text>
+<text top="227" left="764" width="10" height="18" font="13">x </text>
+<text top="263" left="108" width="27" height="18" font="13">CSS </text>
+<text top="263" left="386" width="3" height="18" font="13"> </text>
+<text top="263" left="481" width="3" height="18" font="13"> </text>
+<text top="263" left="562" width="3" height="18" font="13"> </text>
+<text top="263" left="670" width="11" height="18" font="13">x </text>
+<text top="263" left="764" width="3" height="18" font="13"> </text>
+<text top="299" left="108" width="154" height="18" font="13">JavaScript/JQuery/Ajax </text>
+<text top="299" left="386" width="3" height="18" font="13"> </text>
+<text top="299" left="481" width="3" height="18" font="13"> </text>
+<text top="299" left="562" width="3" height="18" font="13"> </text>
+<text top="299" left="670" width="11" height="18" font="13">x </text>
+<text top="299" left="764" width="3" height="18" font="13"> </text>
+<text top="336" left="108" width="67" height="18" font="13">Bootstrap </text>
+<text top="336" left="386" width="3" height="18" font="13"> </text>
+<text top="336" left="481" width="3" height="18" font="13"> </text>
+<text top="336" left="562" width="3" height="18" font="13"> </text>
+<text top="336" left="670" width="11" height="18" font="13">x </text>
+<text top="336" left="764" width="3" height="18" font="13"> </text>
+<text top="372" left="108" width="105" height="18" font="13">XML Processing </text>
+<text top="372" left="386" width="3" height="18" font="13"> </text>
+<text top="372" left="481" width="3" height="18" font="13"> </text>
+<text top="372" left="562" width="10" height="18" font="13">x </text>
+<text top="372" left="670" width="3" height="18" font="13"> </text>
+<text top="372" left="764" width="3" height="18" font="13"> </text>
+<text top="409" left="108" width="108" height="18" font="13">JSON Processing </text>
+<text top="409" left="386" width="3" height="18" font="13"> </text>
+<text top="409" left="481" width="3" height="18" font="13"> </text>
+<text top="409" left="562" width="3" height="18" font="13"> </text>
+<text top="409" left="670" width="11" height="18" font="13">x </text>
+<text top="409" left="764" width="3" height="18" font="13"> </text>
+<text top="445" left="108" width="48" height="18" font="13">MSSQL </text>
+<text top="445" left="386" width="3" height="18" font="13"> </text>
+<text top="445" left="481" width="3" height="18" font="13"> </text>
+<text top="445" left="562" width="3" height="18" font="13"> </text>
+<text top="445" left="670" width="11" height="18" font="13">x </text>
+<text top="445" left="764" width="3" height="18" font="13"> </text>
+<text top="481" left="108" width="48" height="18" font="13">MySQL </text>
+<text top="481" left="386" width="3" height="18" font="13"> </text>
+<text top="481" left="481" width="3" height="18" font="13"> </text>
+<text top="481" left="562" width="3" height="18" font="13"> </text>
+<text top="481" left="670" width="11" height="18" font="13">x </text>
+<text top="481" left="764" width="3" height="18" font="13"> </text>
+<text top="518" left="108" width="72" height="18" font="13">PostgreSql </text>
+<text top="518" left="386" width="3" height="18" font="13"> </text>
+<text top="518" left="481" width="10" height="18" font="13">x </text>
+<text top="518" left="562" width="3" height="18" font="13"> </text>
+<text top="518" left="670" width="3" height="18" font="13"> </text>
+<text top="518" left="764" width="3" height="18" font="13"> </text>
+<text top="554" left="108" width="45" height="18" font="13">SQLite </text>
+<text top="554" left="386" width="10" height="18" font="13">x </text>
+<text top="554" left="481" width="3" height="18" font="13"> </text>
+<text top="554" left="562" width="3" height="18" font="13"> </text>
+<text top="554" left="670" width="3" height="18" font="13"> </text>
+<text top="554" left="764" width="3" height="18" font="13"> </text>
+<text top="590" left="108" width="45" height="18" font="13">Oracle </text>
+<text top="590" left="386" width="3" height="18" font="13"> </text>
+<text top="590" left="481" width="10" height="18" font="13">x </text>
+<text top="590" left="562" width="3" height="18" font="13"> </text>
+<text top="590" left="670" width="3" height="18" font="13"> </text>
+<text top="590" left="764" width="3" height="18" font="13"> </text>
+<text top="627" left="108" width="202" height="18" font="13">JUnit/ Mockito/Power Mockito </text>
+<text top="627" left="386" width="3" height="18" font="13"> </text>
+<text top="627" left="481" width="3" height="18" font="13"> </text>
+<text top="627" left="562" width="3" height="18" font="13"> </text>
+<text top="627" left="670" width="11" height="18" font="13">x </text>
+<text top="627" left="764" width="3" height="18" font="13"> </text>
+<text top="663" left="108" width="110" height="18" font="13">Automation Test </text>
+<text top="663" left="386" width="3" height="18" font="13"> </text>
+<text top="663" left="481" width="3" height="18" font="13"> </text>
+<text top="663" left="562" width="10" height="18" font="13">x </text>
+<text top="663" left="670" width="3" height="18" font="13"> </text>
+<text top="663" left="764" width="3" height="18" font="13"> </text>
+<text top="699" left="108" width="97" height="18" font="13">Tomcat Server </text>
+<text top="699" left="386" width="3" height="18" font="13"> </text>
+<text top="699" left="481" width="3" height="18" font="13"> </text>
+<text top="699" left="562" width="10" height="18" font="13">x </text>
+<text top="699" left="670" width="3" height="18" font="13"> </text>
+<text top="699" left="764" width="3" height="18" font="13"> </text>
+<text top="736" left="108" width="37" height="18" font="13">Jboss </text>
+<text top="736" left="386" width="3" height="18" font="13"> </text>
+<text top="736" left="481" width="12" height="18" font="13">X </text>
+<text top="736" left="562" width="3" height="18" font="13"> </text>
+<text top="736" left="670" width="3" height="18" font="13"> </text>
+<text top="736" left="764" width="3" height="18" font="13"> </text>
+<text top="772" left="108" width="95" height="18" font="13">Apache/Nginx </text>
+<text top="772" left="386" width="3" height="18" font="13"> </text>
+<text top="772" left="481" width="3" height="18" font="13"> </text>
+<text top="772" left="562" width="10" height="18" font="13">x </text>
+<text top="772" left="670" width="3" height="18" font="13"> </text>
+<text top="772" left="764" width="3" height="18" font="13"> </text>
+<text top="808" left="108" width="143" height="18" font="13">Hosting/VPS/Domain </text>
+<text top="808" left="386" width="3" height="18" font="13"> </text>
+<text top="808" left="481" width="3" height="18" font="13"> </text>
+<text top="808" left="562" width="3" height="18" font="13"> </text>
+<text top="808" left="670" width="11" height="18" font="13">x </text>
+<text top="808" left="764" width="3" height="18" font="13"> </text>
+<text top="845" left="108" width="110" height="18" font="13">Hadoop/Bigdata </text>
+<text top="845" left="386" width="3" height="18" font="13"> </text>
+<text top="845" left="481" width="10" height="18" font="13">x </text>
+<text top="845" left="562" width="3" height="18" font="13"> </text>
+<text top="845" left="670" width="3" height="18" font="13"> </text>
+<text top="845" left="764" width="3" height="18" font="13"> </text>
+<text top="881" left="108" width="46" height="18" font="13">Maven </text>
+<text top="881" left="386" width="3" height="18" font="13"> </text>
+<text top="881" left="481" width="3" height="18" font="13"> </text>
+<text top="881" left="562" width="10" height="18" font="13">x </text>
+<text top="881" left="670" width="3" height="18" font="13"> </text>
+<text top="881" left="764" width="3" height="18" font="13"> </text>
+<text top="917" left="108" width="56" height="18" font="13">Git/SVN </text>
+<text top="917" left="386" width="3" height="18" font="13"> </text>
+<text top="917" left="481" width="3" height="18" font="13"> </text>
+<text top="917" left="562" width="10" height="18" font="13">x </text>
+<text top="917" left="670" width="3" height="18" font="13"> </text>
+<text top="917" left="764" width="3" height="18" font="13"> </text>
+<text top="954" left="108" width="53" height="18" font="13">Eclipse/</text>
+<text top="954" left="161" width="4" height="17" font="1"> </text>
+<text top="954" left="165" width="76" height="18" font="13">Intellij Idea </text>
+<text top="954" left="386" width="3" height="18" font="13"> </text>
+<text top="954" left="481" width="3" height="18" font="13"> </text>
+<text top="954" left="562" width="3" height="18" font="13"> </text>
+<text top="954" left="670" width="11" height="18" font="13">x </text>
+<text top="954" left="764" width="3" height="18" font="13"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="108" left="108" width="5" height="20" font="2"><b> </b></text>
+<text top="137" left="108" width="5" height="20" font="2"><b> </b></text>
+<text top="167" left="108" width="274" height="20" font="2"><b>PRODUCTS DEVELOPED </b></text>
+<text top="204" left="108" width="4" height="19" font="5"> </text>
+<text top="232" left="108" width="105" height="19" font="5">Project name: </text>
+<text top="232" left="214" width="149" height="19" font="8"><b>Project Database.</b></text>
+<text top="232" left="362" width="4" height="19" font="5"> </text>
+<text top="260" left="135" width="8" height="20" font="3"></text>
+<text top="265" left="143" width="5" height="15" font="4"> </text>
+<text top="262" left="162" width="499" height="19" font="5">Environment: Java, Bootstrap, Spring MVC, Hibernate, SQL Server. </text>
+<text top="289" left="135" width="8" height="20" font="3"></text>
+<text top="294" left="143" width="5" height="15" font="4"> </text>
+<text top="291" left="162" width="323" height="19" font="5">Tools used: Eclipse,  MS SQL Server Studio. </text>
+<text top="319" left="135" width="8" height="20" font="3"></text>
+<text top="323" left="143" width="5" height="15" font="4"> </text>
+<text top="320" left="162" width="500" height="19" font="5">Description: A web application to help QAs  manage their job easier. </text>
+<text top="348" left="135" width="8" height="20" font="3"></text>
+<text top="352" left="143" width="5" height="15" font="4"> </text>
+<text top="349" left="162" width="384" height="19" font="5">My Responsibilities:  Designing, developing, testing. </text>
+<text top="377" left="162" width="4" height="19" font="5"> </text>
+<text top="405" left="108" width="105" height="19" font="5">Project name: </text>
+<text top="405" left="214" width="122" height="19" font="8"><b>Internal Tool. </b></text>
+<text top="432" left="135" width="8" height="20" font="3"></text>
+<text top="437" left="143" width="5" height="15" font="4"> </text>
+<text top="434" left="162" width="439" height="19" font="5">Environment: Java, J2ee, Struts, SQL Server, Jasper report. </text>
+<text top="462" left="135" width="8" height="20" font="3"></text>
+<text top="466" left="143" width="5" height="15" font="4"> </text>
+<text top="463" left="162" width="323" height="19" font="5">Tools used: Eclipse,  MS SQL Server Studio. </text>
+<text top="491" left="135" width="8" height="20" font="3"></text>
+<text top="496" left="143" width="5" height="15" font="4"> </text>
+<text top="492" left="162" width="645" height="19" font="5">Description: A web application to help accountants of company can manage, stats, order </text>
+<text top="511" left="162" width="174" height="19" font="5">new asset for company. </text>
+<text top="539" left="135" width="8" height="20" font="3"></text>
+<text top="543" left="143" width="5" height="15" font="4"> </text>
+<text top="540" left="162" width="592" height="19" font="5">My Responsibilities:  coding for  new features, bug fixing and maintenance of the </text>
+<text top="559" left="162" width="90" height="19" font="5">application. </text>
+<text top="587" left="108" width="4" height="19" font="5"> </text>
+<text top="615" left="108" width="96" height="19" font="5">Project name</text>
+<text top="615" left="204" width="198" height="19" font="8"><b>: Open University (UK) </b></text>
+<text top="642" left="135" width="8" height="20" font="3"></text>
+<text top="647" left="143" width="5" height="15" font="4"> </text>
+<text top="644" left="162" width="333" height="19" font="5">Environment: Java core, Servlet, SQL Server. </text>
+<text top="671" left="135" width="8" height="20" font="3"></text>
+<text top="676" left="143" width="5" height="15" font="4"> </text>
+<text top="673" left="162" width="323" height="19" font="5">Tools used: Eclipse,  MS SQL Server Studio. </text>
+<text top="701" left="135" width="8" height="20" font="3"></text>
+<text top="705" left="143" width="5" height="15" font="4"> </text>
+<text top="702" left="162" width="509" height="19" font="5">Description: System of University to manage students courses, time… </text>
+<text top="730" left="135" width="8" height="20" font="3"></text>
+<text top="735" left="143" width="5" height="15" font="4"> </text>
+<text top="731" left="162" width="569" height="19" font="5">My Responsibilities: Designing, developing, testing for new features required. </text>
+<text top="759" left="108" width="4" height="19" font="5"> </text>
+<text top="787" left="108" width="106" height="19" font="5">Project name: </text>
+<text top="787" left="214" width="115" height="19" font="8"><b>Letter Engnie</b></text>
+<text top="787" left="329" width="8" height="19" font="5">. </text>
+<text top="815" left="135" width="8" height="20" font="3"></text>
+<text top="819" left="143" width="5" height="15" font="4"> </text>
+<text top="816" left="162" width="507" height="19" font="5">Environment: Java, Spring MVC, Spring Boot, Angular JS, Selenium. </text>
+<text top="844" left="135" width="8" height="20" font="3"></text>
+<text top="849" left="143" width="5" height="15" font="4"> </text>
+<text top="845" left="162" width="276" height="19" font="5">Tools used: Intellij Idea, Source Tree. </text>
+<text top="873" left="135" width="8" height="20" font="3"></text>
+<text top="878" left="143" width="5" height="15" font="4"> </text>
+<text top="875" left="162" width="624" height="19" font="5">Description:  A system to creating/manage  letters templates for insurance company.  </text>
+<text top="902" left="135" width="8" height="20" font="3"></text>
+<text top="907" left="143" width="5" height="15" font="4"> </text>
+<text top="904" left="162" width="567" height="19" font="5">My Responsibilities: Designing, developing for features,  building and writing </text>
+<text top="922" left="162" width="225" height="19" font="5">automation test for all system. </text>
+<text top="950" left="108" width="4" height="19" font="5"> </text>
+<text top="978" left="108" width="105" height="19" font="5">Project name: </text>
+<text top="978" left="214" width="72" height="19" font="8"><b>Finantix</b></text>
+<text top="978" left="285" width="4" height="19" font="5"> </text>
+<text top="1006" left="135" width="8" height="20" font="3"></text>
+<text top="1010" left="143" width="5" height="15" font="4"> </text>
+<text top="1007" left="162" width="430" height="19" font="5">Environment: Java core, Servlet, PostgreSql, Free Maker… </text>
+<text top="1035" left="135" width="8" height="20" font="3"></text>
+<text top="1040" left="143" width="5" height="15" font="4"> </text>
+<text top="1036" left="162" width="224" height="19" font="5">Tools used: Eclipse, pgAdmin. </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="108" left="135" width="8" height="20" font="3"></text>
+<text top="113" left="143" width="5" height="15" font="4"> </text>
+<text top="109" left="162" width="425" height="19" font="5">Description:  A big system for financial solution company. </text>
+<text top="137" left="135" width="8" height="20" font="3"></text>
+<text top="142" left="143" width="5" height="15" font="4"> </text>
+<text top="139" left="162" width="552" height="19" font="5">My Responsibilities: developing, bug fixing and maintenance of the system. </text>
+<text top="166" left="108" width="5" height="20" font="2"><b> </b></text>
+<text top="196" left="108" width="308" height="20" font="2"><b>PROJECTS AT UNIVERSITY </b></text>
+<text top="233" left="108" width="8" height="20" font="3"></text>
+<text top="238" left="116" width="5" height="15" font="4"> </text>
+<text top="235" left="135" width="431" height="19" font="5">Android: Alarm Clock App, Camera App with photo editor. </text>
+<text top="263" left="108" width="8" height="20" font="3"></text>
+<text top="267" left="116" width="5" height="15" font="4"> </text>
+<text top="264" left="135" width="229" height="19" font="5">JAVA: Catering Online website </text>
+<text top="292" left="108" width="8" height="20" font="3"></text>
+<text top="297" left="116" width="5" height="15" font="4"> </text>
+<text top="293" left="135" width="189" height="19" font="5">Scala web: Photo Sharing </text>
+<text top="321" left="108" width="8" height="20" font="3"></text>
+<text top="326" left="116" width="5" height="15" font="4"> </text>
+<text top="323" left="135" width="430" height="19" font="5">asp.NET web: Photo Sharing, Site Checker with Scheduler. </text>
+<text top="350" left="108" width="8" height="20" font="3"></text>
+<text top="355" left="116" width="5" height="15" font="4"> </text>
+<text top="352" left="135" width="290" height="19" font="5">PHP :  A site is the same as  phongvu.vn</text>
+<text top="352" left="425" width="4" height="19" font="8"><b> </b></text>
+<text top="371" left="135" width="4" height="19" font="5"> </text>
+<text top="398" left="108" width="109" height="20" font="2"><b>HOBBIES </b></text>
+<text top="436" left="108" width="332" height="19" font="5">Watching movie, reading news and traveling. </text>
+<text top="464" left="108" width="4" height="19" font="5"> </text>
+</page>
+</pdf2xml>

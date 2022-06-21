@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="47" family="JGEHBY+Roboto-Thin" color="#5d5d5d"/>
+	<fontspec id="1" size="47" family="RSFSEA+Roboto" color="#333333"/>
+	<fontspec id="2" size="11" family="VRMGVM+SourceSansPro" color="#dc3521"/>
+	<fontspec id="3" size="11" family="BMLSYP+Roboto" color="#999999"/>
+	<fontspec id="4" size="10" family="BSOQGR+FontAwesome" color="#333333"/>
+	<fontspec id="5" size="10" family="IPZOZB+Roboto" color="#333333"/>
+	<fontspec id="6" size="13" family="MSVTKZ+SourceSansPro-It-Identity-H" color="#414141"/>
+	<fontspec id="7" size="16" family="VFQHLO+SourceSansPro" color="#414141"/>
+	<fontspec id="8" size="13" family="VOAHIY+SourceSansPro-LightIt-Identity-H" color="#5d5d5d"/>
+	<fontspec id="9" size="13" family="VRMGVM+SourceSansPro" color="#5d5d5d"/>
+	<fontspec id="10" size="14" family="YLQOEY+SourceSansPro-Semibold-Identity-H" color="#414141"/>
+	<fontspec id="11" size="20" family="VFQHLO+SourceSansPro" color="#dc3521"/>
+	<fontspec id="12" size="20" family="VFQHLO+SourceSansPro" color="#333333"/>
+	<fontspec id="13" size="14" family="GMQFCP+SourceSansPro-Light-Identity-H" color="#5d5d5d"/>
+	<fontspec id="14" size="14" family="YLQOEY+SourceSansPro-Semibold-Identity-H" color="#5d5d5d"/>
+	<fontspec id="15" size="11" family="VRMGVM+SourceSansPro" color="#999999"/>
+<text top="35" left="501" width="249" height="48" font="0">Nguyen Van</text>
+<text top="35" left="762" width="73" height="48" font="1"><b>Qui</b></text>
+<text top="82" left="674" width="162" height="11" font="2">STUDENT · BACH KHOA UNIVERSITY</text>
+<text top="101" left="567" width="269" height="12" font="3"><i>497 Hoa Hao, Wark 7, Districs 10, Ho Chi Minh City</i></text>
+<text top="121" left="377" width="4" height="10" font="4"></text>
+<text top="122" left="384" width="100" height="10" font="5">(+84) 969-88-1202 |</text>
+<text top="121" left="494" width="10" height="10" font="4"><a href="mailto:nvqui97@gmail.com"></a></text>
+<text top="122" left="506" width="94" height="10" font="5"><a href="mailto:nvqui97@gmail.com">nvqui97@gmail.com</a></text>
+<text top="122" left="610" width="98" height="10" font="5">| <a href="birth:12/02/1997">Birth: 12/02/1997</a></text>
+<text top="122" left="718" width="3" height="10" font="5">|</text>
+<text top="121" left="731" width="9" height="10" font="4"><a href="http://www.posq?uit0.com"></a></text>
+<text top="122" left="743" width="93" height="10" font="5"><a href="http://www.posq?uit0.com">www.posq?uit0.com</a></text>
+<text top="163" left="625" width="210" height="13" font="6"><i>“It is the first step that is troublesome.”</i></text>
+<text top="254" left="60" width="42" height="16" font="7"><b>FORM</b></text>
+<text top="256" left="770" width="63" height="13" font="8"><i>May 18, 2018</i></text>
+<text top="289" left="60" width="135" height="13" font="9">INTERNSHIP APPLICATION</text>
+<text top="367" left="60" width="174" height="15" font="10"><b>Machine Learning Engineer</b></text>
+<text top="437" left="60" width="36" height="21" font="11"><b>Abo</b></text>
+<text top="437" left="95" width="51" height="21" font="12"><b>ut Me</b></text>
+<text top="474" left="90" width="606" height="15" font="13">• I am a third year student at Bach Khoa University from Telecommunication–Electronic department.</text>
+<text top="505" left="90" width="77" height="15" font="13">• ID: 1512702</text>
+<text top="505" left="216" width="132" height="15" font="13">Graduation year: 2019</text>
+<text top="505" left="397" width="49" height="15" font="13">GPA: 6.8</text>
+<text top="537" left="90" width="743" height="15" font="13">• I have a passion for Machine Learning especially Deep Learning. In pursuit of that passion, I have completed my image</text>
+<text top="558" left="103" width="476" height="15" font="13">processing course at school . I also learned more about algorithm optimization.</text>
+<text top="590" left="90" width="632" height="15" font="13">• My favorite: research computer, science, machine learning. Entertainment: listen to music, swimming,...</text>
+<text top="635" left="60" width="29" height="21" font="11"><b>Ski</b></text>
+<text top="635" left="88" width="21" height="21" font="12"><b>lls</b></text>
+<text top="671" left="90" width="4" height="15" font="13">•</text>
+<text top="671" left="103" width="257" height="15" font="14"><b>Programming: C/C++, Python, Matlab,…</b></text>
+<text top="703" left="90" width="4" height="15" font="13">•</text>
+<text top="703" left="103" width="178" height="15" font="14"><b>I have good teamwork skills</b></text>
+<text top="735" left="90" width="4" height="15" font="13">•</text>
+<text top="735" left="103" width="293" height="15" font="14"><b>I knowledge using Keras, TFLearn/TensorFlow</b></text>
+<text top="766" left="90" width="4" height="15" font="13">•</text>
+<text top="766" left="103" width="232" height="15" font="14"><b>I know using algorithm optimization</b></text>
+<text top="798" left="90" width="4" height="15" font="13">•</text>
+<text top="798" left="103" width="422" height="15" font="14"><b>Microcontroller(8051, PIC, Arduino, TIVA TM4C123), IoT, Embedded</b></text>
+<text top="830" left="90" width="4" height="15" font="13">•</text>
+<text top="830" left="103" width="214" height="15" font="14"><b>OS Preference: linux, windows,…</b></text>
+<text top="862" left="90" width="4" height="15" font="13">•</text>
+<text top="862" left="103" width="191" height="15" font="14"><b>Language: using English basic</b></text>
+<text top="893" left="90" width="4" height="15" font="13">•</text>
+<text top="893" left="103" width="222" height="15" font="14"><b>Other: Latex, MS office, Photoshop</b></text>
+<text top="939" left="60" width="32" height="21" font="11"><b>Pro</b></text>
+<text top="939" left="92" width="85" height="21" font="12"><b>jects - ML</b></text>
+<text top="975" left="90" width="159" height="15" font="13">• 2017 - image processing:</text>
+<text top="975" left="253" width="314" height="15" font="14"><b>On-Road Vehicle and Lane Detection wit h Matlab</b></text>
+<text top="1007" left="90" width="85" height="15" font="13">• 2017 - MNIS:</text>
+<text top="1007" left="178" width="278" height="15" font="14"><b>Handwritten digits classification with Keras</b></text>
+<text top="1038" left="90" width="86" height="15" font="13">• 2018 - IMDB:</text>
+<text top="1038" left="179" width="354" height="15" font="14"><b>IMDB Movie reviews sentiment classification with Keras</b></text>
+<text top="1070" left="90" width="109" height="15" font="13">• 2018 - Research:</text>
+<text top="1070" left="203" width="221" height="15" font="14"><b>Emotion Recognition with TFLearn</b></text>
+<text top="1102" left="90" width="124" height="15" font="13">• NOW - UT-Dataset:</text>
+<text top="1102" left="218" width="225" height="15" font="14"><b>Human Activity Video classification</b></text>
+<text top="1134" left="90" width="743" height="15" font="13">• Other: [Embedded-IoT]Smart light traffic, [Embedded-IoT]Smart home simple, [Embedded-Iot]Smart Garden, [Computer-</text>
+<text top="1155" left="103" width="148" height="15" font="13">Networking]Net chatting</text>
+<text top="1214" left="60" width="58" height="12" font="15">MAY 18, 2018</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="16" size="14" family="VFQHLO+SourceSansPro" color="#414141"/>
+	<fontspec id="17" size="14" family="VOAHIY+SourceSansPro-LightIt-Identity-H" color="#999999"/>
+<text top="36" left="60" width="36" height="21" font="11"><b>Abo</b></text>
+<text top="36" left="95" width="111" height="21" font="12"><b>ut Company</b></text>
+<text top="75" left="60" width="702" height="15" font="13">I would like to take an intership and collaborate in a real project to experience difficulties and enhance my skills likely.</text>
+<text top="107" left="60" width="774" height="15" font="13">I really hope to get a chance for attending in all your company’s project specialized in image processing, neural network, deep</text>
+<text top="128" left="60" width="193" height="15" font="13">learning, artificial intelligence …</text>
+<text top="164" left="60" width="204" height="15" font="13">I hope to practice at the company.</text>
+<text top="210" left="60" width="55" height="15" font="13">Sincerely</text>
+<text top="252" left="60" width="103" height="15" font="16"><b>Nguyen Van Qui</b></text>
+<text top="315" left="60" width="6" height="15" font="17"><i>.:</i></text>
+<text top="1214" left="60" width="58" height="12" font="15">MAY 18, 2018</text>
+</page>
+</pdf2xml>

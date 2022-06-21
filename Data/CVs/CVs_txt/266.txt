@@ -1,0 +1,46 @@
+TRAN TUAN MINH
+Software Tester
+ Jan 11, 1995
+ Male
+ 0938035963
+ ttuanminh95@gmail.com
+ 219 To Hien Thanh Street,
+Ward 13, District 10, Ho Chi
+Minh city, Vietnam
+ https://www.facebook.com/
+minh.tran.904108
+OBJECTIVE  Become a senior QC Engineer.  Learn more new technologies.  Have a chance and
+ennvironment to learn and 
+become a good Automation
+Tester.  Improve English
+communication skill.
+TON DUC THANG UNIVERSITY
+OCT 2013  JAN
+2018
+Bachelor's degree in information technology
+2018
+TOEIC Certificate with score 660 issued by IIG Vietnam
+2016
+IT SOLUTIONS & RESOURCES ,.JSC
+FEB 2018  PRESENT
+HARVEYNASH COMPANY
+AUG 2017  NOV
+2017
+
+EDUCATION
+Information Technology
+
+CERTIFICATIONS
+
+WORK EXPERIENCE
+Manual Software Tester
+Project name : AFC and Cholimex.
+Main responsibilities:  Tested Distributor Management System (DMS) on website and mobile.  Designed and updated testcases.  Read and analysed the requirement/ specification/ design fromclient.  Managed plan for testing.  Wrote user guide.  Reported bugs/ issues using IBM.  Managed cycle life of bugs by IBM and Trello.
+Achievements and skills gained:  Has knowledge about Agile process.  Improved Testing skill.  Improved problem solving skill.  Improved Teamwork and  Communication skill.
+Java Developer
+Project name : Music store website.
+Main responsibilities :  Analysed and designed system.  Designed database.  Coding and Unit test.  Technologies : Spring MVC, Spring Security, MySQL, Hibernate and
+MockMVC.
+Achievements and skills gained:  Had knowledge about web frameworks, database and testing.  Improved coding and testing skills.
+
+ADDITIONAL INFORMATION  Happy, sociable and cheerful.  Have the ability to work independently orteamwork.  Have the ability to work under pressure.  Careful, meticulous inworking.  Good at communication  Ability to read English documents  Adapt to new knowledges and technologies fast.

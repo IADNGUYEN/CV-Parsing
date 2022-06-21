@@ -1,0 +1,58 @@
+ 
+VÕ PHƯƠNG HÒA 
+Data Scientist Fresher 
+Personal Details 
+Date of birth: December 10, 1996 
+Gender: Female 
+Phone:  01695629075 
+Email: phuonghoa.nt000@gmail.com 
+Address: Tân Túc Street, Tân Túc Town, 
+Bình Chánh District, Hồ Chí Minh City 
+Career Objectives 
+Accumulating work experience in the 
+real environment 
+Learning new knowledge 
+Improving some needed soft skills 
+Skills 
+English 
+Listening 
+Speaking 
+Reading 
+Writing 
+Teamwork 
+Communication 
+Work independently 
+EDUCATION 
+University of Science  (2014 – 2018) 
+Bachelor’s Degree in Computer Science 
+GPA: 7.41 
+Certificate: 
+TOEIC 500 
+VNU-EPT 205 
+SPECIALIZED SKILLS 
+Program languages: C/C++, Python. 
+Proficient in object-oriented programming and data structures. 
+Understanding in machine learning algorithms such as Neural 
+Network, SVM, PLA and other. 
+Familiar with Linux. 
+IDE most used: Visual Studio, Ipython Notebook. 
+WORK EXPERIENCE 
+Projects by C/C++ 
+Caesar and Vigenere’s cipher 
+Racing game 
+Optimal the delivery road system 
+Radix sort (parallel programming on Linux) 
+Project by assembly 
+Programming with MIPS in MARS  
+Projects by Python 
+Book rating 
+Handwritten digits recognition by ANN 
+Ear recognition 
+Big exercises by Python 
+Algorithms about data hiding such as LSB, DE and other. 
+Algorithms about data mining such as apriori, kmean, DBScan 
+and other. 
+Algorithms about machine learning such as Linear Regression, 
+Softmax Regression, Logistic Regression, Neural Nets and 
+other. 
+Attached link: https://github.com/phuonghoa000 

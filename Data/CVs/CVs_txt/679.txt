@@ -1,0 +1,60 @@
+Curriculum Vitae
+Personal Information
+Full name: Nguyen Van Hong
+Nationality: Vietnamese 
+Place of birth: Tay Ninh / Viet Nam 
+Date of Birth: 12/03/1992
+Gender:  
+Male 
+Marital status: Single
+Phone: 
+01656363703
+Email:nguyenhong12392@gmail.com 
+Languages: Vietnamese (Native), English (Normal)
+Experience Summary
+I’m new graduate so I don’t have real work’s experience 
+In the learning process., i have done some project
+Manage group and create event.
+Skills
+Soft Skills
+Single Working :I can work alone with high concentration.
+Teamwork:I don’t think that I really have teamwork skill.I need improve it. 
+English: read,write and translate documents.Communication by English isn’t 
+good,but it is improving.
+Reading, understand and use technology
+Code
+Programming Skills
+JAVA
+Hibernate
+A part Spring frame works
+JSP,JSF,ZK
+SQL SERVER
+Software
+Platforms: Windows
+Others: Eclipse
+Page 1 of 2
+Education
+2010 – 2015: Nong Lam University, Ho Chi Minh City, Vietnam 
+Project
+Translate software: java core,collection
+Website share video:jsp,css,html5,jqueryUI.
+Library 3D(not complete):Web GL,JavaScript,AR
+Website MusicOnline:hibernate,ZK,css,html5
+Feedback:jsf-primeface,hibernate,spring orm
+ManagerSport (completing…):Hibernate,Steam AIP,Banking API,Restfull,Spring 
+Security.
+A bit for myself
+Hobby
++Reading book(technology,story,paper,documents,anime)
++Writing story.
++Music( jazz,pop-ballad…,listen and song-but so sad).
++Playing volleyball, badminton,esport.
++Watching discovery,wild life channels.
++Travel alone
+Reviews
++sociable, communication,easy intergration with new environment
++ concentrating on job
++ interesting new technology
++like competition, challenge
++frankly share my viewpoint
+Page 2 of 2

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="1" size="30" family="Times New Roman,Bold" color="#2d74b5"/>
+	<fontspec id="2" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="3" size="23" family="Times New Roman,Bold" color="#ffffff"/>
+	<fontspec id="4" size="18" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="5" size="18" family="Times New Roman" color="#0462c1"/>
+	<fontspec id="6" size="18" family="Arial" color="#000000"/>
+<text top="1097" left="802" width="12" height="17" font="0">1 </text>
+<text top="1117" left="108" width="4" height="17" font="0"> </text>
+<text top="115" left="108" width="329" height="27" font="1"><b>CURRICULUM  VITAE </b></text>
+<text top="165" left="459" width="8" height="27" font="1"><b> </b></text>
+<text top="210" left="810" width="5" height="16" font="2"> </text>
+<text top="247" left="495" width="321" height="22" font="3"><b>PERSONAL INFORMATION </b></text>
+<text top="287" left="108" width="83" height="16" font="4"><b>Full name:</b></text>
+<text top="287" left="191" width="130" height="16" font="2"> Tran Dang Khoa </text>
+<text top="321" left="108" width="64" height="16" font="4"><b>Gender:</b></text>
+<text top="321" left="172" width="46" height="16" font="2"> Male </text>
+<text top="355" left="108" width="105" height="16" font="4"><b>Date of birth:</b></text>
+<text top="355" left="213" width="96" height="16" font="2">  06/03/1991 </text>
+<text top="390" left="108" width="130" height="16" font="4"><b>Contact address:</b></text>
+<text top="390" left="238" width="576" height="16" font="2"> 22/7/1 1st Street, Hiep Binh Phuoc Ward, Thu Duc District, Ho Chi Minh City </text>
+<text top="424" left="108" width="112" height="16" font="4"><b>Mobile phone:</b></text>
+<text top="424" left="220" width="117" height="16" font="2"> 0123 248 4304 </text>
+<text top="458" left="108" width="115" height="16" font="4"><b>Email address:</b></text>
+<text top="458" left="223" width="5" height="16" font="2"><a href="khoatran6391@gmail.com"> </a></text>
+<text top="458" left="228" width="192" height="16" font="5"><a href="khoatran6391@gmail.com">khoatran6391@gmail.com</a></text>
+<text top="458" left="420" width="5" height="16" font="2"><a href="khoatran6391@gmail.com"> </a></text>
+<text top="493" left="108" width="5" height="16" font="2"> </text>
+<text top="529" left="572" width="244" height="22" font="3"><b>TECHNICAL SKILLS </b></text>
+<text top="569" left="108" width="143" height="16" font="2">Have experience in </text>
+<text top="569" left="251" width="117" height="16" font="4"><b>Source Control</b></text>
+<text top="569" left="369" width="102" height="16" font="2"> (Subversion) </text>
+<text top="603" left="108" width="120" height="16" font="4"><b>Design Pattern:</b></text>
+<text top="603" left="228" width="361" height="16" font="2"> Creational patterns (Abstract Factory, Singleton) </text>
+<text top="638" left="108" width="108" height="16" font="4"><b>Java – OOP:  </b></text>
+<text top="672" left="135" width="6" height="16" font="2">-</text>
+<text top="671" left="141" width="5" height="17" font="6"> </text>
+<text top="672" left="162" width="230" height="16" font="2">Package, class, access modifier </text>
+<text top="694" left="135" width="6" height="16" font="2">-</text>
+<text top="694" left="141" width="5" height="17" font="6"> </text>
+<text top="694" left="162" width="543" height="16" font="2">Attributes of OOP (abstraction, encapsulation, polymorphism, inheritance) </text>
+<text top="729" left="108" width="130" height="16" font="4"><b>Java – Android: </b></text>
+<text top="763" left="135" width="6" height="16" font="2">-</text>
+<text top="762" left="141" width="5" height="17" font="6"> </text>
+<text top="763" left="162" width="346" height="16" font="2">Android activity, life cycle, passing data, intent </text>
+<text top="785" left="135" width="6" height="16" font="2">-</text>
+<text top="785" left="141" width="5" height="17" font="6"> </text>
+<text top="785" left="162" width="634" height="16" font="2">Android UI: layout, control, event listener, menu, listview, list adapter, custom listview </text>
+<text top="808" left="135" width="6" height="16" font="2">-</text>
+<text top="807" left="141" width="5" height="17" font="6"> </text>
+<text top="808" left="162" width="257" height="16" font="2">SQLite: query and manipulate data </text>
+<text top="830" left="135" width="6" height="16" font="2">-</text>
+<text top="829" left="141" width="5" height="17" font="6"> </text>
+<text top="830" left="162" width="369" height="16" font="2">Location and map: implement Googlemap, marker </text>
+<text top="852" left="135" width="6" height="16" font="2">-</text>
+<text top="852" left="141" width="5" height="17" font="6"> </text>
+<text top="852" left="162" width="455" height="16" font="2">Thread: use asyncTask to update UI and request to webservice </text>
+<text top="875" left="135" width="6" height="16" font="2">-</text>
+<text top="874" left="141" width="5" height="17" font="6"> </text>
+<text top="875" left="162" width="291" height="16" font="2">SharedPreference: store, fetch, edit data </text>
+<text top="897" left="135" width="6" height="16" font="2">-</text>
+<text top="896" left="141" width="5" height="17" font="6"> </text>
+<text top="897" left="162" width="298" height="16" font="2">BroadcastReceiver: Intent Filter, Service </text>
+<text top="919" left="135" width="6" height="16" font="2">-</text>
+<text top="919" left="141" width="5" height="17" font="6"> </text>
+<text top="919" left="162" width="319" height="16" font="2">Send and receive JSON data, parsing JSON </text>
+<text top="954" left="108" width="77" height="16" font="4"><b>Database:</b></text>
+<text top="954" left="185" width="129" height="16" font="2"> MySQL, SQLite </text>
+<text top="988" left="108" width="95" height="16" font="4"><b>Webservice:</b></text>
+<text top="988" left="203" width="575" height="16" font="2"> PHP webservice (API: login, register, download, upload, list files, delete files) </text>
+<text top="1022" left="108" width="5" height="16" font="2"> </text>
+<text top="1057" left="108" width="5" height="16" font="2"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="1097" left="802" width="12" height="17" font="0">2 </text>
+<text top="1117" left="108" width="4" height="17" font="0"> </text>
+<text top="114" left="663" width="146" height="22" font="3"><b>EDUCATION</b></text>
+<text top="118" left="810" width="5" height="16" font="2"> </text>
+<text top="154" left="108" width="86" height="16" font="4"><b>University:</b></text>
+<text top="154" left="194" width="363" height="16" font="2"> University of Information and Technology (UIT) </text>
+<text top="188" left="108" width="96" height="16" font="4"><b>Graduation:</b></text>
+<text top="188" left="204" width="68" height="16" font="2"> 02/2015 </text>
+<text top="222" left="108" width="64" height="16" font="4"><b>English:</b></text>
+<text top="222" left="172" width="271" height="16" font="2"> Read and understand document well </text>
+<text top="257" left="108" width="88" height="16" font="4"><b>Certificate:</b></text>
+<text top="257" left="196" width="107" height="16" font="2"> TOEIC – 770 </text>
+<text top="291" left="108" width="5" height="16" font="2"> </text>
+<text top="327" left="477" width="339" height="22" font="3"><b>EXPERIENCE AND PROJECT </b></text>
+<text top="367" left="108" width="471" height="16" font="2">I had 3 months (25/05/2015 – 14/08/2015) experience training at </text>
+<text top="367" left="579" width="172" height="16" font="4"><b>TMA Training Center</b></text>
+<text top="367" left="751" width="35" height="16" font="2"> and </text>
+<text top="390" left="108" width="254" height="16" font="2">developed an Android application: </text>
+<text top="390" left="362" width="132" height="16" font="4"><b>Mobile ShareFile</b></text>
+<text top="390" left="495" width="5" height="16" font="2"> </text>
+<text top="424" left="108" width="157" height="16" font="4"><b>Project description: </b></text>
+<text top="458" left="135" width="6" height="16" font="2">-</text>
+<text top="458" left="141" width="5" height="17" font="6"> </text>
+<text top="458" left="162" width="241" height="16" font="2">Project Manager: Mr. Phong Bui </text>
+<text top="481" left="135" width="6" height="16" font="2">-</text>
+<text top="480" left="141" width="5" height="17" font="6"> </text>
+<text top="481" left="162" width="315" height="16" font="2">User can upload files from device to server </text>
+<text top="503" left="135" width="6" height="16" font="2">-</text>
+<text top="502" left="141" width="5" height="17" font="6"> </text>
+<text top="503" left="162" width="208" height="16" font="2">Download files from server  </text>
+<text top="525" left="135" width="6" height="16" font="2">-</text>
+<text top="525" left="141" width="5" height="17" font="6"> </text>
+<text top="525" left="162" width="226" height="16" font="2">Share their files (url) via email </text>
+<text top="548" left="135" width="6" height="16" font="2">-</text>
+<text top="547" left="141" width="5" height="17" font="6"> </text>
+<text top="548" left="162" width="151" height="16" font="2">Search and sort files </text>
+<text top="582" left="108" width="45" height="16" font="4"><b>Role: </b></text>
+<text top="617" left="135" width="6" height="16" font="2">-</text>
+<text top="616" left="141" width="5" height="17" font="6"> </text>
+<text top="617" left="162" width="87" height="16" font="2">Main coder </text>
+<text top="639" left="135" width="6" height="16" font="2">-</text>
+<text top="638" left="141" width="5" height="17" font="6"> </text>
+<text top="639" left="162" width="225" height="16" font="2">Assign tasks to other members </text>
+<text top="661" left="135" width="6" height="16" font="2">-</text>
+<text top="661" left="141" width="5" height="17" font="6"> </text>
+<text top="661" left="162" width="321" height="16" font="2">Building webservice with PHP and MySQL </text>
+<text top="683" left="135" width="6" height="16" font="2">-</text>
+<text top="683" left="141" width="5" height="17" font="6"> </text>
+<text top="683" left="162" width="164" height="16" font="2">Hosting webservice a<a href="http://www.hostinger.vn/">t </a></text>
+<text top="683" left="326" width="133" height="16" font="5"><a href="http://www.hostinger.vn/">www.hostinger.vn</a></text>
+<text top="683" left="460" width="5" height="16" font="2"><a href="http://www.hostinger.vn/"> </a></text>
+<text top="718" left="108" width="122" height="16" font="4"><b>Link to project:</b></text>
+<text top="718" left="230" width="5" height="16" font="2"><a href="https://ttc.edu.vn/svn/TTC-EXTERNAL/K029/Android1/Group%202/Source%20Code/Members/khoa.tran/"> </a></text>
+<text top="718" left="234" width="196" height="16" font="5"><a href="https://ttc.edu.vn/svn/TTC-EXTERNAL/K029/Android1/Group%202/Source%20Code/Members/khoa.tran/">https://ttc.edu.vn/svn/TTC-</a></text>
+<text top="740" left="108" width="583" height="16" font="5"><a href="https://ttc.edu.vn/svn/TTC-EXTERNAL/K029/Android1/Group%202/Source%20Code/Members/khoa.tran/">EXTERNAL/K029/Android1/Group%202/Source%20Code/Members/khoa.tran/</a></text>
+<text top="740" left="692" width="5" height="16" font="2"><a href="https://ttc.edu.vn/svn/TTC-EXTERNAL/K029/Android1/Group%202/Source%20Code/Members/khoa.tran/"> </a></text>
+<text top="774" left="108" width="5" height="16" font="2"> </text>
+<text top="811" left="655" width="161" height="22" font="3"><b>SOFT SKILLS </b></text>
+<text top="851" left="135" width="6" height="16" font="2">-</text>
+<text top="850" left="141" width="5" height="17" font="6"> </text>
+<text top="851" left="162" width="193" height="16" font="2">Learn and acquire quickly </text>
+<text top="873" left="135" width="6" height="16" font="2">-</text>
+<text top="872" left="141" width="5" height="17" font="6"> </text>
+<text top="873" left="162" width="119" height="16" font="2">Logical thought </text>
+<text top="895" left="135" width="6" height="16" font="2">-</text>
+<text top="895" left="141" width="5" height="17" font="6"> </text>
+<text top="895" left="162" width="343" height="16" font="2">Take a strong concentration on particular work </text>
+<text top="929" left="108" width="5" height="16" font="2"> </text>
+<text top="966" left="564" width="252" height="22" font="3"><b>CAREER OBJECTIVE </b></text>
+<text top="1006" left="135" width="6" height="16" font="2">-</text>
+<text top="1005" left="141" width="5" height="17" font="6"> </text>
+<text top="1006" left="162" width="653" height="16" font="2">Have a stable job with my major to maximize the knowledge and personal excellence in </text>
+<text top="1028" left="162" width="290" height="16" font="2">the field of IT, as an Android developer </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="1097" left="802" width="12" height="17" font="0">3 </text>
+<text top="1117" left="108" width="4" height="17" font="0"> </text>
+<text top="112" left="135" width="6" height="16" font="2">-</text>
+<text top="111" left="141" width="5" height="17" font="6"> </text>
+<text top="112" left="162" width="652" height="16" font="2">An active and progressive working environment which provides many opportunities and </text>
+<text top="134" left="162" width="80" height="16" font="2">challenges </text>
+<text top="157" left="135" width="6" height="16" font="2">-</text>
+<text top="156" left="141" width="5" height="17" font="6"> </text>
+<text top="157" left="162" width="559" height="16" font="2">Gain experiences and have more skills with the development of the company </text>
+<text top="179" left="135" width="6" height="16" font="2">-</text>
+<text top="178" left="141" width="5" height="17" font="6"> </text>
+<text top="179" left="162" width="367" height="16" font="2">Contribute to the success of company and projects </text>
+<text top="213" left="108" width="5" height="16" font="2"> </text>
+<text top="250" left="503" width="313" height="22" font="3"><b>HOBBIES AND INTERESTS </b></text>
+<text top="290" left="135" width="6" height="16" font="2">-</text>
+<text top="289" left="141" width="5" height="17" font="6"> </text>
+<text top="290" left="162" width="116" height="16" font="2">Listen to music </text>
+<text top="312" left="135" width="6" height="16" font="2">-</text>
+<text top="311" left="141" width="5" height="17" font="6"> </text>
+<text top="312" left="162" width="160" height="16" font="2">Play computer games </text>
+<text top="334" left="135" width="6" height="16" font="2">-</text>
+<text top="333" left="141" width="5" height="17" font="6"> </text>
+<text top="334" left="162" width="158" height="16" font="2">Handout with friends </text>
+<text top="368" left="108" width="5" height="16" font="2"> </text>
+<text top="405" left="560" width="256" height="22" font="3"><b>TOEIC CERTIFICATE </b></text>
+<text top="750" left="810" width="5" height="16" font="2"> </text>
+</page>
+</pdf2xml>

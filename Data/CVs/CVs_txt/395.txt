@@ -1,0 +1,55 @@
+Gia-Huy Dang
+Resumé title
+606B Go Dau street
+Tan Phu district
+Ho Chi Minh city
++84 933 489 246
+huygdng@gmail.com
+Education
+2013–Now
+Undergraduate of Appilied Mathematics, Ho Chi Minh International University.
+Major in Financial Engineering and Risk Management
+GPA (in the scale of 4.0) – 3.30
+Thesis
+2018 – now
+Deep Reinforcement Learning for Portfolio Optimization with switching
+regime
+Experience
+Vocational
+2017
+Research Intern, Jacobs University, Bremen, Germany.
+Detailed achievements:
+Product diversity and Network structure: A minimal model
+This was done under the supervision of Prof. Julia Bendul and Prof. Marc-Thorsten H tt.
+In this project, I tried to ﬁnd a way to control the synchronization of a speciﬁc type of
+manufacturing network while maintaining its performance as well as robustness
+The whole project was written in Python, and could be viewed at
+https://github.com/dngghuy/gLINK.
+2016
+Data Analyst, BioTuring Inc., Ho Chi Minh city.
+Detailed achievements:
+Visualized high-dimensional data into statistical plots, using PCA, t-SNE and other
+dimension-reduced algorithms.
+Data crawling and data munging
+Created and validated models of classic tools that are used in medical research (Kaplan-
+Meier Survival plot, Diﬀerent genes expression analyisis)
+All the tasks were written in R and Python
+Computer skills
+Python
+Familiar with some machine learning framework, such as:
+Tensorﬂow: Most of my projects were done by using this framework.
+Keras: I approached Keras recently, through courses in deeplearning.ai.
+Some other libraries for data preprocessing and data analysis: Sklearn, Pandas
+R
+I used ggplot2, CART and some other packages that belong to R-base.
+Self-employed projects and achievements
+Projects  Dog-Cat classiﬁcation
+https://github.com/dngghuy/Kaggle-Dog-vs-Cat
+Numer.ai competition
+This was a weekly competition, and I played here for some weeks. The method
+that I used was Neural network and some other algorithms from sklearn.
+Certiﬁcates  Statistical Learning
+https://github.com/dngghuy/Others/blob/master/Lagunita-Stanford/
+Statement.pdf
+Deep Learning Specialization (4/5)
+https://github.com/dngghuy/Others/tree/master/Deeplearning.ai

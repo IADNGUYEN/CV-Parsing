@@ -1,0 +1,52 @@
+ 
+Vo Duy Tung 
+(+84) 33 9868148​ 
+tung007@e.ntu.edu.sg  
+​https://www.linkedin.com/in/tony-v-1b5301120  
+Work Experience 
+Technology Consultant, Aodigy Asia Pacific Pte Ltd, Singapore 
+Jan 2018  Nov 2018 
+Developed CRM Applications for a financial institution, a government technology agency, a travel agency, a hardware 
+retailer and an insurance company using Salesforce platform 
+Managed and liaison with customers, gathered requirements, analyze business processes, wrote design documentation, 
+manage project timeline and progress 
+Retrieved data by writing ​SOQL​ queries, transform data from SAP to Salesforce using ​Excel VBA 
+Did integration between Salesforce and SAP, Azure, Outlook, Zoom, Slack, a travel booking system using ​RESTful API 
+Write unit tests, change sets and did deployment 
+Web Developer Intern, A*STAR Singapore Agency for Research & Technology, Singapore 
+Jan 2016  July 2016 
+Developed Enterprise Web Application using C#, ASP.NET, HTML5, CSS3, Javascript (jQuery & Ajax) & Python 
+Web Developer Assistant, Nanyang Technological University, Singapore  
+May 2015  Aug 2016 
+Developed Education web application for children using Python Django and developed mathematical model 
+Education & Research 
+Nanyang Technological University, Singapore​  ​Bachelor of Computer Science (Honours) 
+Publication​: ​SAFIN(FRIE)++ deep-learning system with application in option and 
+stock trading  
+Aug 2013   Dec 2017 
+Courseworks & Projects 
+Advanced Computer Architecture​: implemented pipelining in computer processor using Assembly 
+Compiler Techniques​: implemented a lexical analyzer, a parser, a semantic analyzer using JFlex 
+Algorithm & Data Structures: ​implemented different data structures using C and algorithms using Java 
+Object-oriented Design and Programming: ​developed food order application using UML & Java 
+Operating System: ​implemented Unix-style OS using C++ 
+Database Principles: ​designed and developed database application using Postgresql 
+Artificial Intelligence:​ developed intelligent application using Prolog 
+Computer Networks: ​developed client and server application using Java Websocket 
+Net-Centric Computing​: developed web application using HTML, CSS, Javascript & PHP 
+Software Engineering: ​developed an web application for travellers in Singapore using Django 
+Final Year Project: ​analysed stock price data using ​deep learning, ​technical analysis and developed smart option trading 
+system on Hong Kong stock market using Matlab with ​5% return​ on Hong Kong stock market. 
+Awards & Extracurricular Activities 
+NTU Undergraduate Research Experience on campus for first-class students 
+Publication & Publicity Director, NTU Institution of Engineering & Technology 
+Runner-up in Vietnam’s National Physics Competition 
+2014  2015 
+2015  2016 
+2008  2009 
+Skills, Certifications & Languages 
+Skills​:​ HTML5/ CSS3/ Javascript​ (Ajax/ jQuery)/ ​PHP​,  ​SQL (​MySQL/ Oracle/ PostgresQL), ​C/ C++​, ​Java,​ ​Python 
+(Django), ​AWS​, ​Unix/ Linux/ Git/ Github​/ ​Excel VBA 
+Certifications​: Salesforce Admin Certification, Salesforce Advanced Admin Certification, Salesforce App Builder 
+Certification 
+Languages​: English, Vietnamese 

@@ -1,0 +1,102 @@
+KHIEM DUC TRONG HUYNH 
+Email: khiem.d.t.huynh@gmail.com 
+Mobile: +84 904001363 
+30 16th Street Lu Gia Residential, Ward 15, District 11 
+EDUCATION 
+Master of Science in Electrical Engineering May 2018 
+Old Dominion University, Norfolk, Virginia 
+Bachelor of Science in Electrical-Electronics Engineering December 2016 
+Old Dominion University, Norfolk, Virginia 
+RESEARCH INTERESTS 
+Electromagnetic applications, Antenna theories and applications, Transformer designs and 
+applications, and Internet of Things (IOT). 
+TEACHING INTERESTS 
+Fundamental Circuit Analysis, Intelligent Machines, and Electrical Engineering Design.  
+EXPERIENCE 
+Director Assistant at 6M Insulation Company – Vietnam – June 2018 – Present 
+Head of R&D Department at 6m Insulation Company- Vietnam – June 2018  Present  
+Teaching Assistant, Electrical and Computer Engineering Department  Old Dominion 
+University – 2017  2018 
+Research Assistant, Frank Reidy Research Center for Bioelectrics – 2016  2018 
+Teaching Assistant, Mechanical and Aerospace Engineering Department  Old Dominion 
+University – 2015  2017 
+Research Assistant, Marine Lab – 2013  2015 
+Lab Assistant, Foreign Language –  2012  2014 
+TEACHING EXPERIENCE 
+Intelligent Machines (MAE/ECE 495)  Fall 2015, Spring 2016, Fall 2017, Spring 2017 
+Developed syllabus, and teaching materials.   
+Contributed three projects for this course: Path Tracking, Object Detection, and Mapping 
+Robots 
+Three projects were used as a guide for this course. 
+Electrical Engineering Design (ECE 485W) – Fall 2017, Spring 2018 
+Construct and analysis H-bridge model for the course. 
+Developed teaching material for H-bridge. 
+Graded students’ papers and projects. 
+Organized teaching materials 
+Fundamental Circuit Analysis (ECE201) – Spring 2018 
+Graded students’ projects in Matlab and Pspice 
+Tutoring students, and giving guidance for projects. 
+RESEARCH EXPERIENCE 
+Frank Reidy Research Center for Bioelectrics (2 years) 
+Dual Resonant Transformer 
+Dielectric Antenna 
+Antenna Theories and Development 
+Picosecond Pulses Regime 
+Applied  Electromagnetic Field Applications in vivo and vitro 
+Marine Lab (2 years) 
+Autonomous Surface Vehicle (ASV) 
+Computer Vision 
+Sensors Optimization 
+PUBLICATION 
+Shu Xiao, Xianbing Zou, Ross Petrella, Enbo Yang, Khiem Huynh (forthcoming). 
+Development of a High Power Dielectric Antenna for Delivery of Picosecond Pulses 
+THESIS 
+Thesis Defended: April 24, 2018 
+Dissertation Committee: Shu Xiao, Shirshak Dhali. Yucheng Zhang 
+A Dual Resonant Transformer and a Dielectric Antenna for Picosecond Pulse Radiation 
+This thesis discusses the development of a pulsed power system for high power picosecond 
+pulse radiation. In the system, a charging transformer, which generates a high voltage pulse of ~100 
+kV, can be used for charging a transmission line in less than 100 ns. Such a short pulse could cause 
+a peak gap switch to break down and generate a picosecond pulse transient for radiation. A 
+dielectric antenna, if fed with the high voltage picosecond pulses, can radiate them to targets made 
+of high dielectric materials. Biological tissues, for instance, can be targeted for electrostimulation. 
+The transformer was designed considering the needs to deliver a high gain and fast output. 
+We showed that a transformer in the dual resonant mode, in which the resonance of the primary and 
+the second is equal, can produce a voltage gain of approximately 6. The output voltage of the 
+transformer is more than 100kV with an input of 15kV. This shows the average gain of the 
+transformer is 7. The fast output requires the voltage at the secondary winding needs to be less than 
+100 ns in order for achieving a picosecond transient in the oil peak switch. This was done by low-
+inductance windings with an air core. Two winding configurations were explored: a cylindrical 
+winding and a toroidal winding. The cylindrical winding appears to be a better option in terms of 
+the gain. Experimental results show that for a capacitive load (30pF), the voltage can be charged up 
+to 33 kV in 20 ns. 
+A conical dielectric antenna was investigated through simulation and experiments. The 
+antenna is made of a V-shape transmission line on a ceramic conical body with dielectric constant 
+of 28. This antenna was immersed in transformer oil for high voltage insulation, which allowed for 
+the feed voltage to be as high as 50 kV. The antenna was characterized by an electric field sensor 
+immersed in water. We found that the emitted field increases as the voltage increases, but it reaches 
+a saturation for 40 kV. The highest electric field is 1.5 kV/cm even for the input voltage 50 kV. This 
+is 6 times less than simulation. We speculate that the discrepancy is caused by the dielectric tangent 
+loss, which was not taken into account in the simulation.  
+Future work towards a complete system includes a choice of a linear dielectric material 
+which is capable of sustaining its dielectric constant for a high electric field and the study of an oil 
+peak switch, which is a critical component between the transformer and the antenna. 
+COMPUTER SKILLS 
+Proficient in statistical analysis and software (CST Studio, SigmaPlot, Pspice, Multisim) 
+REFERENCES 
+Shu Xiao 
+Associate Professor in Electrical and Computer Engineering 
+Frank Battern College of Engineering 
+Suite 300 Frank Reidy Research Center 
+4211 Monarch Way 
+Norfolk, VA 23510 
+Department: (757) 683-2408 
+sxiao@odu.edu 
+Chen ChungHao 
+Associate Professor in Electrical and Computer Engineering 
+Frank Battern College of Engineering 
+231 Kaufman Hall 
+Old Dominion University 
+Norfolk, VA 23529 
+Department: (757) 683-3475 
+cxchen@odu.edu 

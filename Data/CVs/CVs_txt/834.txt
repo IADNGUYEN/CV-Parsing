@@ -1,0 +1,339 @@
+ 
+PROFILE 
+PERSONAL DETAILS 
+Name  
+LE NGUYEN TO OANH 
+Nationality 
+Vietnamese 
+Date of Birth 
+July, 09 1983 
+Cell phone 
+0903-711-747 
+Email 
+oanh_tiengiang@yahoo.com 
+LANGUAGES 
+Vietnamese 
+Mother tongue 
+English 
+Intermediate 
+EDUCATION 
+Bachelor of Business Administration  Economic of University, HCMC, Vietnam (2013) 
+Bachelor of Computer Science – Computer Science, University of Technology, HCMC, Vietnam 
+(2006) 
+Oracle Application Developer  Natural Science University of Ho Chi Minh City ( 2006 ) 
+SUMMARY 
+Have more than 6 years working at Quality Control department for an outsourcing Company. 
+Objective 
+Work in dynamic, professional and good policy environment. 
+Have opportunities and promotions to develop personal career path. 
+Have chances to go on business or oversea training. 
+Take part in many projects to get more knowledge.  I am able to work under pressure with high responsibility.  I can be active in working, supporting and monitoring member and give a lot of ideas to contribute 
+team.  I am able to work independently. Get acquainted with English professional environment.  I am able to create and improve on work with smart working style.  I have a lot of experiences in Application Testing, Web Testing, Stages of Testing (Integration Test, 
+System Test and Acceptance Test), Test Types (Ad Hoc Test, regression test and performance test…)  I have experience in Sharepoint Portal Testing  I like playing badminton and do it well. 
+PRACTICAL EXPERIENCE 
+Technical skills:  
+Have experiences testing the programs on Android. 
+Good knowledge about Application and Web Testing. 
+Knowledge about programming logic and estimation of testing.  
+Have knowledge about Database administration: Oracle , MSSQL 2000/2005/2008, My SQL. 
+[Insert  
+your 3x4 pic 
+here] 
+Operating System knowledge, Windows XP, Windows Vista and Windows 2000. 
+Networking and Internet knowledge. 
+Soft Skills 
+Time management and Self-Organization 
+Communication skills 
+Presentation skills 
+Guiding Skills 
+Teamwork skills 
+OPERATING SYSTEMS 
+Windows XP/2000/Vista, Mac OS 
+PROGRAMMING LANGUAGES & TOOLS 
+SQL: Oracle, MSSQL 2000/2005/2008, My SQL 
+Source Control Tool: Tortoise SVN, Visual SourceSafe 
+Management Tool: MS Project 
+Bug Tracking Tool: Mantis Tracking (Administrator). 
+DATABASES 
+Oracle 
+SQL Server 
+Access 
+My SQL 
+PACKAGES 
+Microsoft Office  
+PROJECTS  
+From 2008 to present: Work at Greensun JSC 
+Project name 
+ERP PROJECT 
+Position 
+Tester Lead 
+General 
+information 
+Team Size: 11 people 
+Project 
+Description 
+ERP system include modules: Common Information, Warehouse 
+Management, Fix Asset Management , Accounting,  Manufactory, 
+Oder Processing 
+Project Scope 
+Convert Code, customize by customer’s request  
+Unit Test: compare with the old system and Smoke Test. 
+Technology used 
+RUN-TIME ENVIRONMENT 
+Hardware 
+Windows XP, win 7, win 8 
+Browser  
+Firefox 
+Management Tool 
+MS Project 2007 
+MS Office 2007 
+Source Control Tool 
+Tortoise SVN 
+Tracking Bug Tool 
+Mantis Bug Tracking. 
+Development tools.    
+SQL2008 
+Specific technologies 
+.Net 
+Test Lead’s work 
+Description 
+Create test plan 
+Communicate directly with Consultant and BA to get and make 
+clearly requirements. 
+Contribute ideas to improve process. 
+Manage test team. 
+Estimate time for test team and make report to Project Manager. 
+Assign tasks to team member. 
+Test fixed bugs, which be given by customer from acceptance test. 
+Test compare with the old system and Smoke Test. 
+Project name 
+Indicator 
+Position 
+Tester 
+General 
+information 
+Team Size: 7 people 
+Project 
+Description 
+This project manage users, metting rooms, telops, status of 
+employee by flash 
+Project Scope 
+Detail Design, Coding, Testing 
+Technology used 
+RUN-TIME ENVIRONMENT 
+Hardware 
+Windows XP 
+Browser  
+IE 6, 7, 8 
+Management Tool 
+MS Project 2007 
+MS Office 2007 
+Source Control Tool 
+Tortoise SVN 
+Tracking Bug Tool 
+Mantis Bug Tracking. 
+Development tools.    
+SQL Server 2008 
+VS 2008 
+Specific technologies 
+Flash, xml 
+Tester’s work 
+Description 
+Create Functional test case, System Integration Test and test 
+reports 
+Execute Functional Test and System Integration Test.  
+Contribute ideas to improve process. 
+Review Detail design and Functional test case. 
+Project name 
+Eticket 
+Position 
+Tester 
+General 
+information 
+Customer: Redfox (Japan) 
+Team Size: 25 people (five testers) 
+Project 
+Description 
+Running in mobile phone, allow for live order of football show ticket 
+Project Scope 
+Detail Design, Coding, Testing. 
+Technology used 
+RUN-TIME ENVIRONMENT 
+Hardware 
+Simulator i-mode HTML Simulator II 
+Windows Server 2003 
+Management Tool 
+MS Project 2007 
+MS Office 2007 
+Source Control Tool 
+Tortoise SVN 
+Tracking Bug Tool 
+Mantis Bug Tracking 
+Development tools.    
+Oracle 11g 
+Apache Tomcat 6.0 
+Specific technologies 
+Java, Jsp 
+Tester’s work 
+Description 
+Tester 
+Create Functional test case, System Integration Test and test 
+reports 
+Execute Functional Test and System Integration Test.  
+Contribute ideas to improve process. 
+Review Detail design and Functional test case. 
+Project name 
+ECM (Employee Clock Management) 
+Position(s)  
+Tester 
+General 
+information 
+Team Size: 6 people 
+Description 
+This system set check in time, check out time of employees, manage 
+employees, send mail to managers…. 
+Project Scope 
+Detail Design, Coding, Testing 
+Technology used 
+RUN-TIME ENVIRONMENT 
+Hardware 
+Windows XP Japanese version 
+Management Tool 
+MS Project 2003 
+MS Office 2003 
+Source Control Tool 
+Visual Source Safe, Tortoise SVN 
+Tracking Bug Tool 
+Mantis Bug Tracking 
+Development tools.    
+MS Access 
+Specific technologies 
+.Net 
+Tester’s work 
+Description 
+Tester: 
+Create Functional test case, System Integration Test and test 
+reports 
+Execute Functional Test and System Integration Test.  
+Contribute ideas to improve process. 
+Review Detail design and Functional test case. 
+Project name 
+TB Tech 
+Position 
+Tester 
+General 
+information 
+Team Size: 7 people (8 months) 
+Project 
+Description 
+This project have functions as Microsoft Project include manage 
+task, assign task, view task assigned in calendar 
+Project Scope 
+Analysis, Design, Coding, Functional Test and System Integration 
+Test. 
+Technology used 
+RUN-TIME ENVIRONMENT 
+Hardware 
+Windows XP Japanese version 
+Management Tool 
+MS Project 2003 
+MS Office 2003 
+Source Control Tool 
+Visual Source Safe, Tortoise SVN 
+Tracking Bug Tool 
+Mantis Bug Tracking 
+Development tools.    
+Oracle 
+Specific technologies 
+.Net 
+Tester’s work 
+Description 
+Tester Leader 
+Create test plan 
+Communicate directly with Customer to get and make clearly 
+requirements. 
+Contribute ideas to improve process. 
+Manage test team for one member. 
+Estimate time for test team and make report to Project Manager. 
+Assign tasks to team member. 
+Test fixed bugs, which be given by customer from acceptance test. 
+From 2007 to 11- 2007: Work at Bamboo Solution Corp, HCMC 
+Project name 
+Tree View webpart 
+Position 
+Tester 
+General 
+information 
+Team Size: 5 people (5 months) 
+Project 
+Description 
+The Tree View Web Part provides users with the familiar Windows 
+Desktop Explorer navigation, allowing them to manuever through any 
+SharePoint list, document or picture library.  Using folders in document 
+libraries and grouping within the list views, users can organize any 
+SharePoint list, library, discussion, wiki or site collection to display the 
+hierarchy within.  Users can group and display similar items into folders, 
+such as high priority tasks, making it easier to navigate through large 
+data sets 
+Project Scope 
+Detail Design, Coding, Integration test, System test. 
+Technology used 
+RUN-TIME ENVIRONMENT 
+Hardware 
+Windows XP 
+Development tools.    
+SQL Server 
+Management Tool 
+Share Point Portal 
+Tracking Bug Tool 
+Share Point Portal 
+Specific technologies 
+asp.net c# 
+Tester’s work 
+Description 
+Tester 
+Create test case, test reports 
+Execute test case 
+Contribute ideas to improve process. 
+Estimate time for test and make report to Project Manager. 
+Test fixed bugs, which be given by customer from acceptance test. 
+Project name 
+List Integrity 
+Position 
+Tester 
+General 
+information 
+Team Size: 4 people (4 months) 
+Description 
+List Integrity allows you to quickly establish a relationship between 
+SharePoint lists that exist on the same or different sites within a site 
+collection to enforce various constraints and perform background 
+housekeeping tasks such as when deleting an item in the parent list, 
+all associated child list items are deleted as well  resulting in no 
+orphaned data. You can include parent list column data in the child 
+list forms as a reference for the user and create all associated child 
+List or Library items directly from the parent list through the Title 
+column context menu. 
+Project Scope  
+Basic design, Detail Design, Coding, Integration Testing, 
+Configuration system. 
+Technology used 
+RUN-TIME ENVIRONMENT 
+Hardware 
+Windows XP 
+Development tools.    
+SQL Server 
+Management Tool 
+Share Point Portal 
+Tracking Bug Tool 
+Share Point Portal 
+Specific technologies 
+asp.net c# 
+Tester ’s work 
+Description 
+Tester 
+Create test reports and test case 
+Execute test and test fixed bugs, which be given by customer from 
+acceptance test.  
+Contribute ideas to improve process. 
+Estimate time for test and make report to Project Manager. 

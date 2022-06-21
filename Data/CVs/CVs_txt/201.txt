@@ -1,0 +1,111 @@
+POSTS AND TELECOMMUNICATIONS INSTITUTE OF
+TECHNOLOGY
+2014  2018
+UNIVERSITY OF SCIENCE- HO CHI MINH CITY
+COMPUTER SCIENCE CENTER
+2016  2017
+Course “Java and Android Basic” at the University of Science 
+HCM city computer science center.
+Degree classification: Very Good
+2017
+ARIS VIETNAM
+NOVEMBER 2017 
+FEBRUARY 2018
+C/C++:
+2014  2016
+Objective
+Try learning and doing my best.
+Find a job in a professional environment for long-term commitment.
+Develop my skills and create new values for the community.
+Further research in IoT.
+ Education
+Information Technology
+GPA: 7.17/10
+Course: Java and Android Basic
+ Certifications
+ Work Experience
+Android Developer Internship
+Main responsibilities:
+Developing apps, games with Android platforms.
+ Skills Details
+Programming Languages: C/C++, Java, Android, NodeJS.
+Operating Systems: Windows, Android, Linux. 
+RDBMS: SQLite, MS-SQL Server, MySQL, Webservice SOAP and RESTful. 
+Android’s Knowledge: Android Studio. View and Controls, Activity, Layout, Intent,
+Adapter Customer, RecyclerView, Asset- SharePreference, SQLite, ContentProvider,
+AsyncTask, Service- Broadcast Receiver and Notification, Webservice, Retrofit,
+JSON, GSON, ProGuard, socket… 
+C/C++ Knowledge: DevC++, Visual Studio. Data structures and algorithms. 
+Embedded: Adruino IDE Adruino and ESP8266
+ Project
+Project in the University
++ Student Management Application in console
+  October 27, 1996
+ Male
+ [protected data]
+ protected@topcv.vn
+
+HCM, Vietnam
+
+[protected data]
+SKILLS
+SQL SERVER  MySQL
+HTML, CSS, JAVASCIPT
+NodeJS
+C/C++
+JAVA
+ANDROID
+INTERESTS
+Football
+Astronomy
+To Xuan Huong
+To Xuan Huong
+FRESHER C/C++/EMBEDDED
+01629821996
+xuanhuong27101996@gmail.com
+EMBEDDED
+2018  TODAY
+SQL SERVER
+SEPTEMBER 2017 
+NOVEMBER 2017
+JAVA
+2015  2017
+ANDROID
+2017  TODAY
++ Game snake in console, game Racing Car in console.
++ Use library “graphics.h” to draw and interact with graphs (The algorithm “Kruskal”
+finds the shortest path, Euler and Hamilton Paths, DFS, BFS,…) 
+Demo: https://youtu.be/8JVp5mWO5kE
+Project in the University
+SmartHome project, I use: 
++ A NodeJS Server 
++ ESP8266 in NodeMCU1.0 is Client 
++ Android App to control light system, door, anti-theft and warning system.
++ Data have saved in the MySQL database.
+Everything connected through socket. 
+Demo: https://youtu.be/dE1M5a6-vbA
+Project in the University
+Distributed database "Bank"  2 branches: (CN1), (CN2).  The "bank" is set on server1: contains information of clients and account opened
+branch 1.  The "bank" is set on server2: contains information of clients and account opened
+branch 2. 
+Two roles: Bank and Branch  The "bank" role allows for the input functions, account statements can belong to
+any branch.  The "branch" role is only allowed to work with data belonging to that branch.  Write all functions query, insert, update ... by Stored-Procedure 
+C# Application. 
+The application allows us to create login, password, and login to work with what
+powers. Based on this right when the user logs on to the system, we know that he
+or she is allowed to work with fragmented fragments or on all fragments.  Print a statement of account transactions in a time period  List of open accounts for a period of time
+Project in the University
+Student Management Application, Library Management Application with Java
+Swing, …
+Project in the University
++ Telephone Directory
++ Karaoke
++ Travel notebook
++ Reading News by The New York Times API
++ TESSE Find Expert, I use:  A NodeJS Server, RESTful API  GoogleMapAPI  Data have saved in the MySQL database.
+The application allows us to register the account, log in, become expert, find the
+expert, get expert's information, make an appointment with the expert, get
+map direction to appointment's place.
++ Control SmartHome 
++ ....
+© topcv.vn

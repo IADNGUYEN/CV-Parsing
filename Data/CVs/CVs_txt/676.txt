@@ -1,0 +1,96 @@
+TRẦN MINH HÙNG 
+Date of birth 
+(mm/dd/yyyy) 
+01/13/1994 
+Phone number 
++84 935 311 895 
+Email 
+hungminhtran@outlook.com 
+University 
+University of Science, HCMC 
+Skype 
+hungminhtran@outlook.com 
+EDUCATION AND TRAINING 
+2013-present 
+University of Science 
+Honor Class, Faculty of Information 
+Technology 
+ENGLISH SKILL 
+Speaking 
+Medium 
+Listening 
+Medium 
+Reading 
+Good 
+Writing 
+Medium 
+PROGRAMMING SKILL 
+Language 
+Level 
+Memo 
+C/C++ 
+Knowledge 
+Strong knowledge about Pointer in C, 
+Windows API on Windows SDK 
+Experience in object-oriented 
+programming  
+Experience in MFC socket 
+programming 
+Python 
+Knowledge 
+Experience in Django framework  
+Experience in  compute large data 
+using matrix in numpy lib 
+Java 
+Knowledge 
+Experiences in develop android 
+application 
+Experiences in develop the compiler 
+using antlr lib 
+Perl 
+Knowledge 
+Experience on regular expression 
+Experience on writing unit-test 
+C# 
+Knowledge 
+Experience on ASP.Net, .Net 
+Framework 
+PROJECT 
+Android app  
+Who is absent 
+User set a number N, when camera 
+detect N face, it will automatically take 
+a picture 
+(demo) 
+User train app to detect a person, 
+when camera recognize, it will 
+automatically take a picture (demo) 
+C++ project base on OpenCV 
+Tracking 
+Tracking people, can continue tracking 
+either on conflict or changing 
+background (report) 
+C project base on WinAPI (Windows 
+SDK) 
+Vietnamese 
+teencode input 
+method 
+Enter correct grammar and spell, 
+program will insert the teencode spell 
+(demo) 
+Webpage(C#) 
+E-commercial 
+website 
+Display product;  add to cart function, 
+migration database; set admin and 
+user role; checkout with baokim.com 
+(a “paypal” of Vietnam) 
+Webpage (python base on django) 
+Shopi 
+A startup provide user coupon, deal in 
+shop/store. Shop/store could 
+adversative itself through this. Win-
+Win strategy 
+OTHER SKILL 
+Strong knowledge on use and configure Ubuntu OS 
+Experience work in SQL, MongoDB 

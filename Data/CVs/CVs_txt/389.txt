@@ -1,0 +1,92 @@
+Hoàng Quý Phát
+Hoàng Quý Phát
+Data Scientist | Male | Single | 27 November
+1993
+Experience
+3 years
+3 years
+Latest company
+T echbase Viet nam
+T echbase Viet nam as Data Scientist
+Highest education
+Bachelors
+Bachelors
+Languages
+English
+English  Advanced
+Email
+hoangquyphat @gmail.com
+hoangquyphat @gmail.com
+Phone
+01656679332
+01656679332
+Address
+498/56 Lê Quang Định,Go Vap,H o
+498/56 Lê Quang Định,Go Vap,H o
+Chi Minh Cit y
+Chi Minh Cit y
+Preferred working
+location
+Ho Chi Minh
+Job
+industries/functions
+IT  Software
+Expected job level
+Experienced (non-manager)
+Expected salary
+(USD)
+1,300
+Preferred benefit
+Bonus | Healthcare Plan | Paid Leave |
+Awards | Laptop
+SUMMARY
+My interests are machine learning and natural language processing. I
+hope to work in a company that uses them to solve their challenges.
+SKILL
+Python
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Natural Language Processing
+Theano
+Scikit Learn
+Mongo DB
+Numpy
+Tensorflow
+WORK EXPERIENCE
+Nov 2017  Now
+Dat a Sc ient ist
+Dat a Sc ient ist
+Techbase Vietnam  Project: Ranking Recommendation System for Yahoo Auction app  Tools: Python, LibSVM, Pandas, NumPy, Scikit-learn
+Apr 2017  Nov 2017
+Mac hine Learning Engineer
+Mac hine Learning Engineer
+Med2Lab Inc.  Projects: Medical Entity Tagging and Word Representation of
+Medical Terms  Tools: TensorFlow, SyntaxNet, TensorBoard, Word2Vec  Main Instuctor at Med2Lab AI Class: http://class.med2lab.com/
+Aug 2015  Mar 2017
+Researc h Engineer
+Researc h Engineer
+Knorex
+Research and prototyping algorithms to solve natural language
+processing problems using machine learning and statistical models.  Projects: Keyphrase Extraction, Text Classification, Headline
+Generation  Tools: Scikit-learn, Theano, Keras, NLTK
+EDUCATION
+Oct 2011  Oct 2015
+Inf ormat ion T ec hnology
+Inf ormat ion T ec hnology
+Bachelors  University of Science  VNUHCM
+Vietnam National Olympiad in Informatics for undergraduate
+students, Consolation Prize (November 2014)
+REFERENCE
+Lươ ng Minh T hắng
+Lươ ng Minh T hắng
+AI Advisor at Med2Lab Inc.
+Med2Lab Inc.
+thangluong@google.com | +1 650-630-9876
+Lê T rườ ng Vĩnh Phú
+Lê T rườ ng Vĩnh Phú
+Country Manager and Research & Prototyping Leader at Knorex
+Knorex
+Viet nam
+Viet nam
+le_phu@knorex.com | 0907194823

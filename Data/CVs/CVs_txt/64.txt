@@ -1,0 +1,204 @@
+TRAN VIET ANH’S RESUME 
+Full Name: 
+Trần Việt Anh 
+Gender: 
+Male 
+Date of Birth: 
+10/09/1991 
+Address: 
+217/90 Bui Dinh Tuy Street,Ward 
+24,Binh Thanh District. 
+Email: 
+anh.tran.viet1009@gmail.com 
+Tel: 
+(+84) 943 833 378 
+OBJECTIVE 
+An enthusiastic and knowledgeable youth who want become a expert software engineer 
+Interesting with new technologies challenge, especial game development 
+To have good opportunities to get promotion in my job 
+Develop my skills with development of company, I want to improve myself 
+In future, I want to improve my English skill with international degrees 
+INTERESTS 
+Football, Game, Music instruments... 
+ACADEMIC QUALIFICATIONS 
+2009 ­ 2013: 
+The HoChiMinh University of Technology HCM – Ho Chi Minh city – Vietnam 
+Engineer of Software in Information Technology (Graduated ­ 2013) 
+KNOWLEDGE 
+Develop skill 
+Objective­c 
+3 
+Swiff 
+2 
+Java 
+2 
+OOP 
+2 
+MySQL, SQLite 
+2 
+Design Pattern 
+1 
+0 : None 
+1 : Beginner 
+2 : Intermediate (<6 month experience) 
+3 : Upper Intermediate (6 month ~ 2  year experience) 
+4 : Advanced (>2 year experience) 
+Foreign Language 
+English 
+2 
+Japanese 
+2 (N4) pass in 2015 
+0 : None 
+1 : Beginner 
+2 : Intermediate 
+3 : Advanced 
+EXPERIENCE RECORD 
+Mobile Developer in Intec­Vietnam (from 1­2014 to 7 ­ 2015) 
+Time 
+Project name 
+Language, Framework 
+Description 
+From 1­2014 to 6­2014   Poketora 
+Apple store link 
+Objective­C 
+­
+Framework : JSon, 
+Chart API, QRCode 
+Scan, Soap, Coredata 
+­
+Get JSon data from 
+webservice show in 
+UITableView 
+­
+Custom 
+UITableViewCell 
+­
+Create custom Popover 
+for IOS version 
+­
+Create UIScrollView 
+for the introduction 
+page 
+­
+Multiable support 
+iPhone and iPad 
+­
+Draw chart with 
+realtime update  
+Trained by Japanese 
+team about 
+Objective­C  language 
+in 2 month, after that 
+join IOS team in 
+Intec­Vietnam  
+Create version 1.5, 1.6, 
+1.7, 1.8 
+From 7­2014 to 2 ­ 
+2015 
+Tadaloto 
+Apple store link 
+Play store 
+Objective­C (IOS), Java 
+(Android) 
+­
+Framework : JSon, 
+Map, QRCode, 
+Facebook SDK, Map 
+­
+Customize QRCode 
+performance  
+Contact with customer 
+via Skype in Japanese 
+or English to get 
+request. 
+Create version 2.2, 2.3, 
+2.4 ,3.0 upload to 
+Apple store and Play 
+­
+Change flow of process 
+­
+Implement Push 
+notification function 
+­
+Fix code support 64­bit 
+in IOS application 
+­
+Create encrypt and 
+decrypt function 
+WebAdmin (Java) 
+­
+Create function create 
+QRcode 
+­
+Using Facebook SDK 
+for login 
+­
+Change the flow 
+store 
+From 3­2015 to 7 ­ 
+2015 
+Gurunabi  
+Apple Store link 
+Objective­C (IOS) 
+­
+Framework : Map, 
+GPS, Facebook SDK 
+­
+Search restaurants in 
+Japan  
+­
+Using Mapkit , GPS for 
+show list of restaurants 
+­
+Store in Coredata for 
+working offline Mode 
+­
+Login by Facebook, 
+Twitter 
+­
+Unit test 
+Join as team member 
+with 4 person 
+Apply Agile flow for 
+develop process 
+Get request from 
+Leader via Redmine   
+Create version 5.1, 5.3, 
+6.0 
+Mobile Developer in Transcosmos Technologic Arts (from 8­2015) 
+Time 
+Project name 
+Language, Framework 
+Description 
+From 8 ­ 2015 
+Smart Entry 
+Objective­C (IOS) 
+­
+Framework : 
+MyScript, OCMock, 
+Frabric, QRscan 
+­
+Database : SQlite, 
+Coredata  
+­
+To support to imput 
+character by 
+handwriting  
+­
+Custome UI by xml 
+Join as team member 
+with 6 person 
+Apply Agile flow for 
+develop process 
+Get request from 
+Leader via Redmine   
+configs file. 
+­
+Detect driver licence, 
+bar code 
+DESIRED PROJECT 
+I expect to work with IOS, Japanese Project. 
+PET PROJECT 
+Create demo Stock application in IOS : working with JSon data and Webservice, create chart view, Link 
+gihub :​demoStock 
+Personal technical share blog : ​http://tranvietanh1009.blogspot.com/ 

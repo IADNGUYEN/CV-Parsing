@@ -1,0 +1,115 @@
+ 
+PERSONAL 
+INFORMATION 
+Date of Birth  
+23 January 1993 
+Address 
+34A 494 Street, Tăng Nhơn Phú 
+A Ward, District 9., HCMC 
+Phone 
+01677860679 
+E-mail 
+vanphuoc11119035@gmail.com 
+SKILLS  
+Programming: C, C++, C# 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+IT support 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+MS Office/ Windows/ Linux 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+Database SQLServer /MySQL 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+Microcontrollers PIC/Arduino 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+Automation PLC, Sensor…… 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+TRAN VAN PHUOC 
+C O M P U T E R  E N G I N E E R  
+Faculty of Electrical and Electronics Engineering 
+Profile 
+HCMC University of Technology and Education – (09/2011 – 09/2015) 
+Project 
+o Project 1:  Data collection and interface with computer using RFID 
+technology 
+o Project 2:  A build of RFID based on Staff management system  
+o Graduation Thesis: Internet of Things for the Smart Home. 
+Achievement 
+o Motivation scholarships for distinction students in 2012 and 2014. 
+o Awards certificates for distinction students in 2014. 
+Internship 
+o I had two months to be trained and apprenticed about tools, 
+program design and test IC with Verilog or VHDL in ICDREC. 
+Experience 
+SAMSUNG ELECTRONICS HCMC CE COMPLEX   (9/2015 – NOW) 
+Production Innovation Part  System Development Engineer 
+Achievement 
+o SAMSUNG CERTIFICATE OF ACHIEVEMENT Best employee . 
+Experience 
+o More than 2 years of experience in computer science, analyze 
+production line performance and deploying solutions to improve. 
+o Working experience with Manufacturing Execution System, 
+development and debug of support software, system for production 
+management. 
+o Knowledge in INDUSTRIAL ENGINEERING – IE with loss analysis, 
+eliminate to improve productivity and efficiency. 
+o Executing equipment daily checklist activity, maintain and ensure 
+production system, machine, device running smoothly and good 
+condition for production. Problem solving which related devices, PCs, 
+machines to prevent LINE stop. 
+o To install, configure and manage new machine, PCs, Scanner: control 
+and maximize existing automation machine/device efficiency. 
+o Monitor equipment, check, write log file history, support user update 
+software, firmware, troubleshoot when production system problems. 
+o Make daily, weekly reports, countermeasures and apply solution for 
+improving the next lots. 
+o To work closely with others member in entire project to improve 
+production system more effectively and make new automation solution 
+to reduce manpower, control productivity and quality in Production.  
+PERSONALITY  
+Team Player 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+Problem solving 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+Communication 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+Creativity 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+Time management 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+Working under pressure 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+Responsible 
+⦿⦿⦿⦿⦿⦿⦿⦿⦿⦿ 
+HOBBIES 
+Reading Book 
+Playing Foolball/ Guitar 
+Researching on modern 
+technologies 
+Listen Music/ Travel 
+o Analyze, translate end-users issues and contact, coordinate with HQ 
+members to get support. Power User training: prepare system/process 
+manual. 
+o Build computer control « Foolproof system » to support operators. 
+Make work instruction and training operator for using equipment. 
+Projects and innovation 
+o Accessory Missing Detector project: Prevent accessory missing for 
+finished goods. 
+o Auto-print label project: In-line print box label automatically. 
+o Auto scan serial number: Design and setup hardware, software interface 
+with PLC. 
+o Auto capture image: Make program capture of box before input 
+packing. 
+o ESD Foolproof system: Prevent operator missing take ESD when 
+working. 
+o Follow and support vendor transfer equipment, machine, technology  
+o C# applications with SQL database, log file, Com port, PLC interface. 
+Career Objective 
+I want to work with challenging and progressive environment to develop 
+my skills and experience. 
+Learn more things when working in company to accumulate much 
+experience for future promotion. 
+Extra Activities 
+Taking part in “Green Summer” program,volunteer activities in 2013. 
+Member of the SAMSUNG SEHC foolball club, Guitar club 
+Create online lessons and lectures about basic knowledge of electronics and 
+micro-controller for high school students. 

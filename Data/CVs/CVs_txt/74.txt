@@ -1,0 +1,88 @@
+Page 1 of 3 
+Curriculum Vitae 
+PERSON INFOMATION 
+Full name: Nguyễn Hoàng Quân 
+Nationality:  Vietnamese  
+Place of birth: Thành Phố Hồ Chí Minh / Việt Nam  
+Date of Birth: 26 / 07 /1991 
+Gender:   
+Male  
+Marital status: Single 
+Phone:  
+01666 325 636 
+Email: nguyenhoangquan2007@gmail.com 
+Languages: Vietnamese (Native), English (Normal) 
+OBJECTIVE
+To be a good staff. 
+Try to learning as much as possible and doing my best in order to accompish my task. 
+To have good opportunities to get promotion in my job. 
+Develop my skills with development of company, I want to prove myself. 
+EXPERIENCE SUMMARY 
+More 1.5 years of software experience  
+Strong experiences in C#, Java, Javascript, jquery, HTML. 
+Good at MSSQL, Oracle. 
+Experienced working in Software Development Company Japan. 
+SKILLS 
+Soft Skills 
+Teamwork and Communication skills. 
+Problem solving. 
+English: Can read document in projects. 
+Subjects studied : 
+Programming languages: C#, Java, JavaFX., Python, HTML, Javascript, Jquery, Json, 
+XML. 
+Databases: MSQL Server, Oracle 10g, PL/SQL. 
+Auto Test: UnitTest, Selenium, Cucumber. 
+Software 
+Environment: Windows, Linux. 
+Development Environment: Eclipse, Netbeans, Visual Studio 2013. 
+Page 2 of 3 
+EDUCATION 
+2009 – 2014 Bachelor of University in University of Science, Ho Chi Minh City, 
+Vietnam  
+WORKING HISTORY 
+From 
+To 
+Company 
+Location 
+Title 
+4/2014 
+Today 
+Fujinet Software Development 
+Ho Chi Minh 
+City, Viet Nam 
+Senior 
+PROFESSIONAL EXPERIENCE 
+04/2014 – 03/2015  
+Software Development 
+Ho Chi Minh City, Viet Nam 
+Job description: 
+Design layout to POS machine. 
+Develop supermarket charges software for POS machine. 
+Development by Java, JavaFX, css, jquery. 
+Writing UnitTest, Selenium. 
+Environment: Netbeans. 
+Junior Project 
+Controlling Quality and Deadline. 
+Working with customers. 
+03/2015 – 10/2015 
+Software Development 
+Ho Chi Minh City, Viet Nam 
+Job description: 
+Converting Project from JP Map to GoogleMap. 
+Development by C#, Javascript, Jquery, Json and API GoogleMap. 
+Development flatform safari on IOS 7.0, IE11, Chorme and Firefox. 
+Using Database: SQL Server 2008. 
+Environment: Visual Studio 2013. 
+10/2015 – 12/2015 
+Software Development 
+Ho Chi Minh City, Viet Nam 
+Job description: 
+Maintenance and develop Import / Export Warehouse. 
+Development by PL/SQL and a few tools support of customers. 
+Using database: Oracle. 
+Page 3 of 3 
+01/2015 – 04/2015 
+Test Software 
+Ho Chi Minh City, Viet Nam 
+Job description: 
+Test and evidence testcase capture software that provides by customer. 

@@ -1,0 +1,107 @@
+1 
+NGUYỄN HUỲNH HOÀI MY 
+Curriculum Vitae 
+PERSONAL INFORMATION 
+Full Name 
+: Nguyễn Huỳnh Hoài My 
+Date of birth 
+: 05 December 1992 
+Gender  
+: Female 
+Nationality 
+: Vietnamese 
+Marital Status  
+: Single 
+Email Address  
+: mynguyen6512@gmail.com 
+Skype  
+: ryuu_mx 
+Phone Number  
+: (+84) 1262610148 
+Mailing Address  
+: 23B Lê Khắc Cần, Thuận Phước, Hải Châu, TP. Đà Nẵng 
+PROFILE 
+I am an experienced software developer with extensive knowledge of programming after years of formal 
+study and practical works. Throughout 3 years of working as a developer, I have taken part in multiple 
+projects, working with multiple platforms and languages. Aside from software development skills, I also 
+have plenty of experiences working with customers (using English), composing design documents and 
+working with complicated business system. 
+I am a bright, ambitious and self-motivated employee who possesses sharp skills of rational issue 
+resolving. I am also diligent, eager to learn new things and work well in group. 
+I am looking for a developer position where I could practice my skills as well as gain more experiences 
+and knowledge in information technology sector. I also hope to work in a flexible, motivational and 
+proactive work environment. 
+EMPLOYMENT HISTORY 
+FPT Software – FSU1.BU5 
+Đà Nẵng Industrial Zone, An Đồn, Sơn Trà, Đà Nẵng, VN 
+Developer & Junior Solution Architect 
+August 2015 – current  
+Pre-sale support and bidding.  
+Analyze technical requirements to propose solutions for new projects.  
+Develop & maintain web applications and web services. 
+Ramquest Inc 
+5801 Tennyson Pkwy, Plano, TX, 75024, USA 
+Developer (body-shopping) 
+September 2014 – August 2015  
+Work as a team member in RamQuest Closing Market team and in close liaison with external 
+customers from US Title Companies.  
+Maintain an existing software system – including website, web service and portal.  
+Analyze requirements and develop enhancement of the system.  
+Also work with external service APIs. 
+2 
+FPT Software – FSU1.BU5 
+Đà Nẵng Industrial Zone, An Đồn, Sơn Trà, Đà Nẵng, VN 
+Developer & Business Analyst 
+December 2013 – September 2015  
+Develop web applications and web services.  
+Create mock-up, prototypes.  
+Analyze business requirements.  
+Major projects: Pavaso Digital Closing, Agency DataBase, Closing Disclosure Form. 
+Brando Agency 
+K99/11 Núi Thành, Hòa Thuận Đông, Hải Châu, Đà Nẵng, VN 
+Developer 
+May 2012 – June 2013  
+Co-founder of OhYeap group – precursor of Brando Company (product: OhYeap Location Social 
+Network http://ohyeap.com)  
+Contribute to designing software architect and designing database.  
+Develop core features of system. 
+ACADEMIC QUALIFICATION  
+Diploma in Software Engineering – FPT University – 2014  
+Best performing student of FPT University Da Nang K6B (GPA 8.67/10)  
+Best performing student of FPT University – Semester Spring 2012  
+English  
+: IELTS 7.5  
+Japanese 
+: N4 certification 
+KEY SKILLS AND COMPETENT  
+Knowledge of: 
+o Non-relational database and relational database design 
+o OOP and SOP 
+o SOAP and REST – RESTful 
+o Web API design and implementation 
+o Android application development & PhoneGap application development 
+o Unit testing 
+o Amazon Web Service  
+Programming skills: 
+o javascript – Node.JS, Angular.JS, KnockOut.JS, jQuery 
+o C# – ASP.NET Webforms; ASP.NET MVC3, 4, 5; Web API 1, 2 
+o Java – Spring MVC; Struts 1, 2 
+o PHP – Yii framework  
+Database: 
+o MS SQL Server, MySQL, Oracle 
+o MongoDB  
+Experience of: 
+o HTML5 & CSS3 
+o UML diagrams 
+o XSLT, XML and JSON 
+3 
+o SRS and ADD composing 
+o GitHub platform, SVN, VSS, TFS  
+Fluency in English communication as well as documentation.  
+Ability to respond to pressure and meet tight deadlines.  
+PERSONAL INTERESTS  
+Sports – swimming, badminton  
+Singing, dancing  
+Reading 
+REFERENCES 
+Available on request. 

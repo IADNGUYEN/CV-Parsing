@@ -1,0 +1,54 @@
+CURRICULUM  VITAE 
+PERSONAL DETAILS 
+Full name 
+: Vũ Lê Trường 
+Day of birth 
+: 15 – 08 – 1989 
+Gender  
+: Male 
+Contact Address 
+: 12, 2A Street, Long Thanh My Ward,  
+District 9, Ho Chi Minh City 
+Phone Number   
+: 0909098233 
+Mail Address  
+: letruong158@gmail.com 
+EDUCATION AND CERTIFICATION  Bachelor’s Degree in Computer Networking issued by Hoa Sen University, Ho Chi Minh 
+City, Vietnam  Microsoft Certified Solutions Expert issued by Microsoft (MCSE 2012)  Microsoft Certified Solutions Associate issued by Microsoft (MCSA 2008)  Certification of completion: VMware vSphere 5.1: Install, Configure, Manage course issued 
+by VMware  VMware Certified Associate  Data Center Virtualization & Cloud & Workforce Mobility 
+issued by VMware (VCA)  VMware Sales Professional  Network Virtualization & Software Define Datacenter (VSP-
+NV, SDDC) 
+WORKING EXPERIENCE 
+LAC VIET COMPUTING CORPORATION 
+System Integration Center  
+07/2014 – Present 
+Position: IT System Engineer – Implementation and consultant 
+Responsibilities: Work under project with duties: implement, consultant, training, after sales support… A few representative projects for customers such as: 
+Natural Resources and Environment Department of Dong Nai province  Implement Data Center with virtualization technology vSphere of VMWare and HP 
+OneView solution to centralized management all of devices including: chassis HP 
+C7000, blade server HP 460 Gen9, San 3ParData 7400, rack. Backup solution: HP 
+Data Protector with Storeone server 4500, Smart UPS, Netbotz System to monitor 
+temperature, humidity…, migrate old servers to new system  
+SGH Asia Co,.Ltd  Upgrade Data Center running on vSphere VMWare, new SAN EMC2, new Server, 
+implement Symantec Backup solution, convert all of physical servers to VM run on 
+new system and migrate VMs to SAN 
+Deheus Co,.Ltd  DRSite Solution of VMWare  Implement Data Center, vCenter, vCOps, HA, disaster recovery site solution 
+(DRSite) for two branches between Dong Nai and Binh Duong to ensure IT System 
+always available when has any issues such as disaster, server failure… 
+Anheuser Busch  InBev Co,.Ltd  Deploy new Data Center with IBM servers, IBM SANs, Symantec backup solution, 
+tape library … with VMware vSphere environment, server cluster, services on 
+windows server 2008… 
+Pyramid Consulting Co,.Ltd  Upgrade VDI system with new SAN to enlarge more free space for datastore, extend 
+RAMs for servers. 
+PURATOS GRAND-PLACE VIETNAM CO,.LTD 
+Position: IT Executive                                            04/2013 – 06/2014 
+Responsibilities:  Manage IT system with over 200 users in 6 different locations  Manage Domain, DNS, DHCP, Files server, Google Apps…  Setup and maintenance Camera system, Alarm system, Time and Attendance systems, 
+Access Control Door system, PBX phone, printer, website…  Propose IT solution to easy control, improve IT service to effective supporting to other dept  Develop, deploy and training IT policy to secure IT system  Manage, procurement and maintenance hardware, software  Helpdesk end user 
+TTC-INFOTECH CO,.LTD 
+Position : IT Support On-site                                  09/2012 – 04/2013 
+WORK ON-SITE AT CSC VIETNAM CO,.LTD 
+Responsibilities :  Daily maintenance activities of over 600 computers, projectors, printer, 
+scanner, IP phones  Operate and maintenance for IT devices and network system  Setting, configure IT equipment, install software, windows license  Security control: Network, PC, IT equipment  Daily support user, help-desk and other IT trouble shootings  Cooperate with other departments to complete job 
+TECHNICAL SKILLS  Good skills on VMware vSphere, Windows Server  Experience of working with IBM, Dell, HP, EMC2, SAN, NAS, Cisco, Vigor, UPS, camera, 
+access door control, IT office equipments …  Setup, manage knowledge ISA server, mail Exchange server, VDI system  Backup, antivirus solution for enterprise system  Knowledge about Cisco system (CCNA)  Virtualization technology : vSphere, HyperV  Knowledge to work and write bash shell scripting on Linux OS  Strong support end user  Mail Lotus Notes Client  Microsoft Office: Outlook, Visio, Word, Excel, Power Point.. 
+PESONAL FEATURES  Writing, reading and communication in English  Willing to travel business  Fast-learning, able to quickly adapt to new situations and systems  Fast ability of researching and understanding technical documents  Hard-working, creativeness, high team-spirit and responsibility and reliability  Able to work well in a fact paced, high-stressed environment  Capable to handle all kind of requiring of customer 

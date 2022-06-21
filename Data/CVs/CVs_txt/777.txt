@@ -1,0 +1,140 @@
+ 
+SKILLS 
+Java 
+Android 
+ABAP (ERP) 
+SQL 
+Github 
+Teamwork 
+Active listening 
+INTERESTS 
+Technology 
+Virtual reality 
+Robots 
+OBJECTIVE 
+Can take care an opportunity and challenging position in your company. With my 
+good background experience in University, old company such as communication skill, 
+teamwork and my own passion for this position. I am committed to contributing to the 
+company be better. 
+EDUCATION 
+HO CHI MINH CITY UNIVERSITY OF TRANSPORTATION  
+From: OCT 2014 – MAY 2018 
+Major: Information technology   final year with GPA: 2.31/4 
+EXPERIENCE 
+GRADUATE TOPIC, COMPANY DOT SOLUTIONS  
+From: 04/2018 – 06/2018 
+Program language: Java  
+Job description:  
+Numbers: 2 people 
+Purpose: build application detect traffic violations by camera 
+Study OPENCV library ( apply for the car licence plate one line).  
+Use OpenCV library to process video from camera.  
+Draw rectangle and condition to identified picture the cars traffic violation.  
+The car picture be cut will go to steps convert color photo to gray photo to 
+binary photo and a few conditions to got license plates.  
+After determined the license  plates, use Tesseract statement of Test4J library to 
+convert characters to test type. 
+ERP DEVELOPMENT STAFF, COMPANY FPT INFORMATION SYSTEM HCM 
+From: 09/2018 – 01/2019  
+Program SAP system, ABAP language about report ALV, Smartforms, Excel...  
+Training about module MM, CO.  
+Write reports modules PA for AEON project.  
+Write, Fix and update issue the modules SD, CO, MM, QM... 
+Thanks for watching. 
+Vũ Đình Sơn 
+Fresher Devlopment 
+Birth     : 29/12/1996 
+Phone   : 0986172912                                           Mail: sonvudinh96@gmail.com 
+Address: 33 Phan Huy Ich, Sơn Trà, Đà Nẵng 
+I
+n
+t
+e
+r
+e
+s
+t
+s
+I
+n
+t
+e
+r
+e
+s
+t
+s 
+I
+n
+t
+e
+r
+e
+s
+t
+s
+I
+n
+t
+e
+r
+e
+s
+t
+s 
+I
+n
+t
+e
+r
+e
+s
+t
+s
+I
+n
+t
+e
+r
+e
+s
+t
+s 
+I
+I
+n
+t
+e
+r
+e
+s
+t
+s
+I
+n
+t
+e
+r
+e
+s
+t
+s 
+I
+I
+n
+t
+e
+r
+e
+s
+t
+s
+I
+n
+t
+e
+r
+e
+s
+t
+s 

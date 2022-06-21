@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="14" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="1" size="13" family="Arial" color="#000000"/>
+	<fontspec id="2" size="41" family="ABCDEE+Arial-Black" color="#0000ff"/>
+	<fontspec id="3" size="22" family="TimesNewRomanPS" color="#0000ff"/>
+	<fontspec id="4" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="5" size="16" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="6" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="7" size="10" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="8" size="16" family="SymbolMT" color="#000000"/>
+	<fontspec id="9" size="16" family="ArialMT" color="#000000"/>
+<text top="57" left="108" width="4" height="13" font="0"> </text>
+<text top="1196" left="715" width="47" height="12" font="1"><b>Page 1 </b></text>
+<text top="137" left="265" width="377" height="53" font="2"><b>Curriculum Vitae </b></text>
+<text top="240" left="108" width="198" height="20" font="3"><b>Personal Information </b></text>
+<text top="277" left="142" width="81" height="15" font="4"><b>Full name: </b></text>
+<text top="277" left="222" width="87" height="15" font="5">Toan Duc Le</text>
+<text top="277" left="309" width="4" height="15" font="4"><b> </b></text>
+<text top="305" left="142" width="79" height="15" font="4"><b>Nationality</b></text>
+<text top="305" left="220" width="9" height="15" font="5">: </text>
+<text top="305" left="229" width="76" height="15" font="6"><i>Vietnamese</i></text>
+<text top="305" left="305" width="12" height="15" font="5">   </text>
+<text top="333" left="142" width="101" height="15" font="4"><b>Place of birth:</b></text>
+<text top="333" left="242" width="4" height="15" font="5"> </text>
+<text top="333" left="247" width="115" height="15" font="6"><i>Ho Chi Minh city</i></text>
+<text top="333" left="362" width="4" height="15" font="5"> </text>
+<text top="333" left="366" width="71" height="15" font="6"><i>/ Viet Nam</i></text>
+<text top="333" left="436" width="12" height="15" font="5">   </text>
+<text top="333" left="486" width="102" height="15" font="4"><b>Date of Birth: </b></text>
+<text top="333" left="588" width="35" height="15" font="5">Jan 2</text>
+<text top="331" left="623" width="10" height="9" font="7">nd</text>
+<text top="333" left="633" width="41" height="15" font="5"> 1986 </text>
+<text top="361" left="142" width="59" height="15" font="4"><b>Gender:</b></text>
+<text top="361" left="200" width="21" height="15" font="5">     </text>
+<text top="361" left="236" width="34" height="15" font="6"><i>Male</i></text>
+<text top="361" left="270" width="31" height="15" font="5">     </text>
+<text top="361" left="360" width="12" height="15" font="5">   </text>
+<text top="361" left="423" width="4" height="15" font="5"> </text>
+<text top="361" left="486" width="168" height="15" font="4"><b>Marital status: </b><i>Married </i></text>
+<text top="389" left="142" width="50" height="15" font="4"><b>Phone:</b></text>
+<text top="389" left="191" width="12" height="15" font="5">   </text>
+<text top="389" left="236" width="230" height="15" font="5">0983.299.991 and 012.235.6868.9 </text>
+<text top="389" left="486" width="42" height="15" font="4"><b>Email</b></text>
+<text top="389" left="528" width="156" height="15" font="5">: ldtoan86@gmail.com </text>
+<text top="417" left="142" width="82" height="15" font="4"><b>Languages:</b></text>
+<text top="417" left="223" width="4" height="15" font="5"> </text>
+<text top="417" left="227" width="263" height="15" font="6"><i>Vietnamese (Native), English (Normal) </i></text>
+<text top="478" left="108" width="200" height="20" font="3"><b>Experience Summary </b></text>
+<text top="511" left="135" width="8" height="20" font="8"></text>
+<text top="516" left="142" width="5" height="15" font="9"> </text>
+<text top="516" left="161" width="129" height="15" font="5">Software engineer: </text>
+<text top="540" left="162" width="284" height="15" font="5">- 5+ years of software design experience.   </text>
+<text top="563" left="162" width="627" height="15" font="5">-  Strong experiences in  HTML5,  Css, Javascript,  PHP, SQL,  C++,  C#,  HTML,  Matlab and </text>
+<text top="582" left="162" width="38" height="15" font="5">Java. </text>
+<text top="606" left="162" width="627" height="15" font="5">-  Knowledgeable  of  the  Machine  Learning  system.  The  Stanford  Natural  Language </text>
+<text top="625" left="162" width="627" height="15" font="5">Processing platforms (Stanford NLP-Java) and Scikit Learning platforms (Python) for the big </text>
+<text top="644" left="162" width="627" height="15" font="5">data systems, the Hidden Markov Model (Matlab-HMM) algorithms for the Classification, the </text>
+<text top="663" left="162" width="506" height="15" font="5">Gabor Wavelet and image processing algorithms for the feature extraction.   </text>
+<text top="686" left="162" width="575" height="15" font="5">- Knowledgeable of the Selenium platform(Java,Python) for the data collected system. </text>
+<text top="710" left="162" width="627" height="15" font="5">-  Knowledgeable  of  the  Xamarin  cross-platform  (C#),  Cocos-2dx  platform  (C++),  Android </text>
+<text top="728" left="162" width="627" height="15" font="5">native platform (Java), the Communication Interface between languages (C#,C++ and Java) </text>
+<text top="747" left="162" width="199" height="15" font="5">for the mobile development.   </text>
+<text top="771" left="162" width="627" height="15" font="5">-  Knowledgeable  of  the  Wordpress  platforms  (PHP,  HTML5,  Css,  Javascript)  for  web </text>
+<text top="790" left="162" width="93" height="15" font="5">development. </text>
+<text top="813" left="162" width="627" height="15" font="5">- Good at using Git, SVN, CVS; Mantis Bug Tracker; Jetbrains IDEs for Java, PHP, C#, C++ </text>
+<text top="832" left="162" width="93" height="15" font="5">development. </text>
+<text top="856" left="162" width="494" height="15" font="5">- Experienced working in the star-up and out-source projects over 5 years. </text>
+<text top="879" left="162" width="603" height="15" font="5">- Own one page on the machine learning in the Nation Technical Conference (REV-2012). </text>
+<text top="899" left="135" width="8" height="20" font="8"></text>
+<text top="903" left="143" width="5" height="15" font="9"> </text>
+<text top="904" left="162" width="135" height="15" font="5">Hardware engineer: </text>
+<text top="928" left="162" width="287" height="15" font="5">- 8+ years of hardware design experiences. </text>
+<text top="951" left="162" width="578" height="15" font="5">- Strong experiences in VHDL, Verilog, System Verilog, Perl, CShell, Tcl and Matlab. </text>
+<text top="974" left="162" width="252" height="15" font="5">- Knowledgeable of hardware design. </text>
+<text top="998" left="162" width="484" height="15" font="5">- Good at synthesis, STA, DFT and Tetramax and simulation VCS tools. </text>
+<text top="1021" left="162" width="498" height="15" font="5">- Experienced working in Renesas Vietnam Company (RVC) over 4 years. </text>
+<text top="1045" left="162" width="627" height="15" font="5">- Experienced working in Integrated Circuit Design Research &amp; Education Center (ICDREC) </text>
+<text top="1064" left="162" width="89" height="15" font="5">over 4 years. </text>
+<text top="1087" left="162" width="627" height="15" font="5">- Own two papers of hardware design in the IEEE Joint Conference International Conference </text>
+<text top="1106" left="162" width="627" height="15" font="5">on  Integrated  Circuit  Design  and  Technology  (ICICDT-2016)  and  (ICICDT-2014)  with  the </text>
+<text top="1125" left="162" width="265" height="15" font="5">Japan-VietNam technology coopations. </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="10" size="14" family="ABCDEE+Tahoma" color="#000000"/>
+	<fontspec id="11" size="16" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="12" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="13" size="21" family="TimesNewRomanPS" color="#ffffff"/>
+	<fontspec id="14" size="14" family="ABCDEE+Tahoma" color="#000000"/>
+	<fontspec id="15" size="16" family="TimesNewRomanPSMT" color="#17365d"/>
+<text top="57" left="108" width="4" height="13" font="0"> </text>
+<text top="1196" left="715" width="47" height="12" font="1"><b>Page 2 </b></text>
+<text top="118" left="108" width="54" height="20" font="3"><b>Skills </b></text>
+<text top="142" left="111" width="4" height="18" font="10"><b> </b></text>
+<text top="160" left="108" width="15" height="18" font="11"></text>
+<text top="163" left="123" width="5" height="15" font="9"> </text>
+<text top="164" left="135" width="73" height="15" font="5">Soft Skills </text>
+<text top="183" left="135" width="8" height="20" font="8"></text>
+<text top="188" left="143" width="5" height="15" font="9"> </text>
+<text top="189" left="162" width="607" height="15" font="5">Team work and Careful: A project manager of the important projects in RVC and ICDREC </text>
+<text top="208" left="162" width="563" height="15" font="5">companies. The communication skills in convincing the team members to follow the </text>
+<text top="226" left="162" width="131" height="15" font="5">main-design flows. </text>
+<text top="246" left="135" width="8" height="20" font="8"></text>
+<text top="250" left="143" width="5" height="15" font="9"> </text>
+<text top="251" left="162" width="613" height="15" font="5">Workaholic: Spend most the home and weekend time to finish projects with non-relaxing or </text>
+<text top="270" left="162" width="624" height="15" font="5">non-traveling actions. Always work from 8 AM to 24 PM in many years from student to now. </text>
+<text top="289" left="135" width="8" height="20" font="8"></text>
+<text top="294" left="143" width="5" height="15" font="9"> </text>
+<text top="295" left="162" width="586" height="15" font="5">English: Can communicate to the customer in project context effectively. The 625-score </text>
+<text top="314" left="162" width="101" height="15" font="5">TOEIC level.   </text>
+<text top="333" left="135" width="8" height="20" font="8"></text>
+<text top="338" left="143" width="5" height="15" font="9"> </text>
+<text top="338" left="162" width="289" height="15" font="5">Writing paper: Own three technical papers. </text>
+<text top="358" left="108" width="15" height="18" font="11"></text>
+<text top="361" left="123" width="5" height="15" font="9"> </text>
+<text top="362" left="135" width="79" height="15" font="5">Hard Skills </text>
+<text top="382" left="135" width="8" height="20" font="8"></text>
+<text top="386" left="143" width="5" height="15" font="9"> </text>
+<text top="387" left="162" width="267" height="15" font="5">PHP, SQL, JavaScript, C++, C#, HTML</text>
+<text top="386" left="429" width="30" height="17" font="12">, Css</text>
+<text top="387" left="459" width="61" height="15" font="5"> and Java</text>
+<text top="386" left="520" width="4" height="17" font="12">.</text>
+<text top="387" left="524" width="4" height="15" font="5"> </text>
+<text top="407" left="135" width="8" height="20" font="8"></text>
+<text top="411" left="143" width="5" height="15" font="9"> </text>
+<text top="412" left="162" width="111" height="15" font="5">Git, SVN, CVS. </text>
+<text top="431" left="135" width="8" height="20" font="8"></text>
+<text top="436" left="143" width="5" height="15" font="9"> </text>
+<text top="437" left="162" width="423" height="15" font="5">JetBrain IDEs, Visual Studio IDE, Xamarin IDE, Linux IDEs.   </text>
+<text top="456" left="135" width="8" height="20" font="8"></text>
+<text top="461" left="143" width="5" height="15" font="9"> </text>
+<text top="461" left="162" width="377" height="15" font="5">Linux, Verilog, System Verilog, Perl, Tcl, CShell, Bash. </text>
+<text top="523" left="108" width="98" height="20" font="3"><b>Education </b></text>
+<text top="555" left="135" width="8" height="20" font="8"></text>
+<text top="560" left="142" width="5" height="15" font="9"> </text>
+<text top="561" left="161" width="604" height="15" font="5">2012: Student of master degree in Natural Science University, Ho Chi Minh City, Vietnam </text>
+<text top="580" left="135" width="8" height="20" font="8"></text>
+<text top="585" left="143" width="5" height="15" font="9"> </text>
+<text top="585" left="162" width="540" height="15" font="5">2004 – 2008: Student in Natural Science University, Ho Chi Minh City, Vietnam </text>
+<text top="647" left="108" width="154" height="20" font="3"><b>Working history </b></text>
+<text top="687" left="108" width="55" height="19" font="13"><b>From </b></text>
+<text top="687" left="184" width="30" height="19" font="13"><b>To </b></text>
+<text top="687" left="265" width="93" height="19" font="13"><b>Company </b></text>
+<text top="687" left="487" width="85" height="19" font="13"><b>Location </b></text>
+<text top="687" left="652" width="47" height="19" font="13"><b>Title </b></text>
+<text top="712" left="108" width="58" height="15" font="5">12/2012 </text>
+<text top="712" left="184" width="33" height="15" font="5">now </text>
+<text top="712" left="265" width="172" height="15" font="5">Integrated Circuit Design </text>
+<text top="731" left="265" width="201" height="15" font="5">Research &amp; Education Center </text>
+<text top="712" left="487" width="92" height="15" font="5">Ho Chi Minh </text>
+<text top="731" left="487" width="105" height="15" font="5">City, Viet Nam </text>
+<text top="712" left="615" width="69" height="15" font="5">Hardware </text>
+<text top="731" left="615" width="64" height="15" font="5">Engineer </text>
+<text top="751" left="108" width="50" height="15" font="5">9/2008 </text>
+<text top="751" left="184" width="58" height="15" font="5">11/2012 </text>
+<text top="751" left="265" width="170" height="15" font="5">Renesas Design Vietnam </text>
+<text top="770" left="265" width="117" height="15" font="5">(Japan company) </text>
+<text top="751" left="487" width="92" height="15" font="5">Ho Chi Minh </text>
+<text top="770" left="487" width="105" height="15" font="5">City, Viet Nam </text>
+<text top="751" left="615" width="69" height="15" font="5">Hardware </text>
+<text top="770" left="615" width="64" height="15" font="5">Engineer </text>
+<text top="791" left="108" width="4" height="13" font="0"> </text>
+<text top="851" left="108" width="173" height="20" font="3"><b>Project References </b></text>
+<text top="888" left="108" width="163" height="15" font="4"><b>From Jun 2015 to now </b></text>
+<text top="888" left="622" width="114" height="15" font="4"><b>Start-up project</b></text>
+<text top="888" left="736" width="4" height="15" font="5"> </text>
+<text top="907" left="108" width="5" height="18" font="14"> </text>
+<text top="929" left="108" width="51" height="15" font="15">Project </text>
+<text top="929" left="243" width="180" height="15" font="15">: Estate mobile &amp; web app </text>
+<text top="951" left="108" width="66" height="15" font="15">Position   </text>
+<text top="951" left="243" width="150" height="15" font="15">: Founder, main coder </text>
+<text top="970" left="108" width="81" height="15" font="15">Description </text>
+<text top="970" left="243" width="171" height="15" font="15">: Main features as below: </text>
+<text top="989" left="251" width="507" height="15" font="15">+ Provice the real-clearly address messages which were posted by the house </text>
+<text top="1007" left="251" width="520" height="15" font="15">owner. Avoid the trash, spam, trick messages from the estate agents. The trick </text>
+<text top="1027" left="251" width="514" height="15" font="15">message in estate sites are popular and many house buyers are cheated by the </text>
+<text top="1045" left="251" width="92" height="15" font="15">estate agents. </text>
+<text top="1065" left="251" width="538" height="15" font="15">+ Provice the analysis and synthesis data to the site users. Provice many kinds of </text>
+<text top="1083" left="251" width="523" height="15" font="15">data which the Google and the enemy estate sites do not have. This is different </text>
+<text top="1103" left="251" width="131" height="15" font="15">features of my site. </text>
+<text top="1121" left="251" width="4" height="15" font="15"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="16" size="16" family="SymbolMT" color="#17365d"/>
+	<fontspec id="17" size="16" family="ArialMT" color="#17365d"/>
+	<fontspec id="18" size="16" family="TimesNewRomanPSMT" color="#0462c1"/>
+<text top="57" left="108" width="4" height="13" font="0"> </text>
+<text top="1196" left="715" width="47" height="12" font="1"><b>Page 3 </b></text>
+<text top="112" left="108" width="35" height="15" font="15">Tool </text>
+<text top="112" left="243" width="155" height="15" font="15">: Using tools as below: </text>
+<text top="131" left="251" width="512" height="15" font="15">+ Using Stanford NLP core platform (Machine Learning - SPIED and NER - </text>
+<text top="150" left="251" width="495" height="15" font="15">Java) to detect the real-clearly address, to elinimate the agent messages, to </text>
+<text top="169" left="251" width="402" height="15" font="15">generate the new kinds of data which Google does not have. </text>
+<text top="188" left="251" width="520" height="15" font="15">+ Using Selenium platform (Java) to collect the ad messages from tenth of the </text>
+<text top="207" left="251" width="388" height="15" font="15">estate sites, to collect the news from the daily news sites.   </text>
+<text top="225" left="108" width="125" height="15" font="15">Responsibilities :   </text>
+<text top="243" left="135" width="8" height="20" font="16"></text>
+<text top="248" left="143" width="5" height="15" font="17"> </text>
+<text top="249" left="162" width="196" height="15" font="15">Determine the main features. </text>
+<text top="263" left="135" width="8" height="20" font="16"></text>
+<text top="268" left="143" width="5" height="15" font="17"> </text>
+<text top="269" left="162" width="627" height="15" font="15">Investigate  the  design  flow  to  make  the  system  operation  efficiently.  Easy  to  delete/add </text>
+<text top="288" left="162" width="235" height="15" font="15">module, efficiently memory usage. </text>
+<text top="303" left="135" width="8" height="20" font="16"></text>
+<text top="307" left="143" width="5" height="15" font="17"> </text>
+<text top="308" left="162" width="118" height="15" font="15">Code the in Java. </text>
+<text top="323" left="135" width="8" height="20" font="16"></text>
+<text top="327" left="143" width="5" height="15" font="17"> </text>
+<text top="328" left="162" width="627" height="15" font="15">Selenium cores to collect data from the estate sites. Prepare the trained and test data for the </text>
+<text top="347" left="162" width="514" height="15" font="15">Standford NLP. Using Selenium to post the estate message to the estate sites. </text>
+<text top="362" left="135" width="8" height="20" font="16"></text>
+<text top="367" left="143" width="5" height="15" font="17"> </text>
+<text top="367" left="162" width="265" height="15" font="15">Using Standford NLP to train, test, run. </text>
+<text top="382" left="135" width="8" height="20" font="16"></text>
+<text top="387" left="143" width="5" height="15" font="17"> </text>
+<text top="387" left="162" width="427" height="15" font="15">Design web, and backend, using HTML, Js, Css, PHP, MySQL. </text>
+<text top="402" left="135" width="8" height="20" font="16"></text>
+<text top="407" left="143" width="5" height="15" font="17"> </text>
+<text top="407" left="162" width="385" height="15" font="15">Design the simple UI web app, which display whole data. </text>
+<text top="427" left="162" width="6" height="15" font="15"><a href="http://Url:%20www.nhadat3giay.com">(</a></text>
+<text top="427" left="168" width="184" height="15" font="18"><a href="http://Url:%20www.nhadat3giay.com">Url: www.nhadat3giay.com</a></text>
+<text top="427" left="351" width="153" height="15" font="15"><a href="http://Url:%20www.nhadat3giay.com">, </a>www.toanlepro.com) </text>
+<text top="446" left="135" width="4" height="15" font="15"> </text>
+<text top="465" left="108" width="57" height="15" font="15">Results: </text>
+<text top="482" left="135" width="8" height="20" font="16"></text>
+<text top="487" left="143" width="5" height="15" font="17"> </text>
+<text top="488" left="162" width="125" height="15" font="15">Status is continue. </text>
+<text top="502" left="135" width="8" height="20" font="16"></text>
+<text top="507" left="143" width="5" height="15" font="17"> </text>
+<text top="508" left="162" width="375" height="15" font="15">Start to collect the large data and code the analysis core. </text>
+<text top="527" left="135" width="4" height="15" font="15"> </text>
+<text top="546" left="108" width="201" height="15" font="4"><b>From Jun 2016 to July 2016 </b></text>
+<text top="546" left="622" width="114" height="15" font="4"><b>Start-up project</b></text>
+<text top="546" left="736" width="4" height="15" font="5"> </text>
+<text top="565" left="108" width="5" height="18" font="14"> </text>
+<text top="587" left="108" width="51" height="15" font="15">Project </text>
+<text top="587" left="243" width="237" height="15" font="15">: Brand-Influcencer Matching Core </text>
+<text top="609" left="108" width="66" height="15" font="15">Position   </text>
+<text top="609" left="243" width="53" height="15" font="15">: Coder </text>
+<text top="628" left="108" width="81" height="15" font="15">Description </text>
+<text top="628" left="243" width="518" height="15" font="15">: Writing the feature core for the friend start-up project, the features as below: </text>
+<text top="647" left="251" width="515" height="15" font="15">+ Brand owner provides the marketing campains which details are suitable to </text>
+<text top="666" left="251" width="139" height="15" font="15">the influencer data.   </text>
+<text top="684" left="251" width="426" height="15" font="15">+ Provice the analysis and synthesis data to the campain users.   </text>
+<text top="703" left="108" width="35" height="15" font="15">Tool </text>
+<text top="703" left="243" width="545" height="15" font="15">: Using Scikit Learning core platform (Machine Learning - Python) to classify the </text>
+<text top="722" left="243" width="543" height="15" font="15">campain information and calculate the weight value. The weight value will match </text>
+<text top="741" left="243" width="131" height="15" font="15">the influencer data. </text>
+<text top="760" left="108" width="125" height="15" font="15">Responsibilities :   </text>
+<text top="778" left="135" width="8" height="20" font="16"></text>
+<text top="783" left="143" width="5" height="15" font="17"> </text>
+<text top="783" left="162" width="135" height="15" font="15">Code the in Python. </text>
+<text top="798" left="135" width="8" height="20" font="16"></text>
+<text top="803" left="143" width="5" height="15" font="17"> </text>
+<text top="804" left="162" width="149" height="15" font="15">Demo: www.hiip.asia </text>
+<text top="823" left="135" width="4" height="15" font="15"> </text>
+<text top="842" left="108" width="57" height="15" font="15">Results: </text>
+<text top="859" left="135" width="8" height="20" font="16"></text>
+<text top="864" left="143" width="5" height="15" font="17"> </text>
+<text top="865" left="162" width="108" height="15" font="15">Status is done.   </text>
+<text top="884" left="135" width="4" height="15" font="15"> </text>
+<text top="903" left="108" width="165" height="15" font="4"><b>From Aug 2015 to now </b></text>
+<text top="903" left="339" width="397" height="15" font="4"><b>Integrated Circuit Design Research &amp; Education Center</b></text>
+<text top="903" left="736" width="78" height="15" font="5">                   </text>
+<text top="922" left="108" width="5" height="18" font="14"> </text>
+<text top="944" left="108" width="51" height="15" font="15">Project </text>
+<text top="944" left="243" width="378" height="15" font="15">: 3-phase Power Energy Measurement chip (PEM3 chip) </text>
+<text top="966" left="108" width="66" height="15" font="15">Position   </text>
+<text top="966" left="243" width="131" height="15" font="15">: Project Manager   </text>
+<text top="985" left="108" width="81" height="15" font="15">Description </text>
+<text top="985" left="243" width="311" height="15" font="15">: Design the 3-phase power-measurement chip </text>
+<text top="1003" left="108" width="125" height="15" font="15">Responsibilities :   </text>
+<text top="1021" left="135" width="8" height="20" font="16"></text>
+<text top="1026" left="143" width="5" height="15" font="17"> </text>
+<text top="1027" left="162" width="379" height="15" font="15">Monitor the deadlines, tasks and control the design flow. </text>
+<text top="1041" left="135" width="8" height="20" font="16"></text>
+<text top="1046" left="143" width="5" height="15" font="17"> </text>
+<text top="1047" left="162" width="170" height="15" font="15">Design the main module. </text>
+<text top="1062" left="135" width="8" height="20" font="16"></text>
+<text top="1066" left="143" width="5" height="15" font="17"> </text>
+<text top="1067" left="162" width="441" height="15" font="15">Write paper for IEEE Joint Conference ICICDT-2016 &amp; 4S-2016. </text>
+<text top="1082" left="135" width="8" height="20" font="16"></text>
+<text top="1086" left="143" width="5" height="15" font="17"> </text>
+<text top="1087" left="162" width="154" height="15" font="15">Report to the Director. </text>
+<text top="1106" left="135" width="4" height="15" font="15"> </text>
+<text top="1125" left="135" width="4" height="15" font="15"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="19" size="18" family="TimesNewRomanPSMT" color="#000000"/>
+<text top="57" left="108" width="4" height="13" font="0"> </text>
+<text top="1196" left="715" width="47" height="12" font="1"><b>Page 4 </b></text>
+<text top="112" left="108" width="201" height="15" font="4"><b>From Jan 2014 to Mar 2015 </b></text>
+<text top="112" left="339" width="397" height="15" font="4"><b>Integrated Circuit Design Research &amp; Education Center</b></text>
+<text top="112" left="736" width="78" height="15" font="5">                   </text>
+<text top="131" left="108" width="5" height="18" font="14"> </text>
+<text top="153" left="108" width="51" height="15" font="15">Project </text>
+<text top="153" left="243" width="378" height="15" font="15">: 1-phase Power Energy Measurement chip (PEM1 chip) </text>
+<text top="174" left="108" width="66" height="15" font="15">Position   </text>
+<text top="174" left="243" width="131" height="15" font="15">: Project Manager   </text>
+<text top="193" left="108" width="81" height="15" font="15">Description </text>
+<text top="193" left="243" width="311" height="15" font="15">: Design the 1-phase power-measurement chip </text>
+<text top="212" left="108" width="106" height="15" font="15">Responsibilities</text>
+<text top="212" left="214" width="5" height="15" font="17"> </text>
+<text top="212" left="216" width="17" height="15" font="15">:   </text>
+<text top="230" left="135" width="8" height="20" font="16"></text>
+<text top="235" left="143" width="5" height="15" font="17"> </text>
+<text top="235" left="162" width="375" height="15" font="15">Monitor the deadlines, tasks and control the design flow </text>
+<text top="250" left="135" width="8" height="20" font="16"></text>
+<text top="255" left="143" width="5" height="15" font="17"> </text>
+<text top="256" left="162" width="166" height="15" font="15">Design the main module </text>
+<text top="270" left="135" width="8" height="20" font="16"></text>
+<text top="275" left="143" width="5" height="15" font="17"> </text>
+<text top="276" left="162" width="410" height="15" font="15">Write paper for IEEE Joint Conference 4S-2014/AVIC-2014. </text>
+<text top="291" left="135" width="8" height="20" font="16"></text>
+<text top="295" left="143" width="5" height="15" font="17"> </text>
+<text top="296" left="162" width="154" height="15" font="15">Report to the Director. </text>
+<text top="315" left="135" width="4" height="15" font="15"> </text>
+<text top="334" left="108" width="196" height="15" font="4"><b>From Jan 2014 to Jun 2015 </b></text>
+<text top="334" left="622" width="114" height="15" font="4"><b>Start-up project</b></text>
+<text top="334" left="736" width="78" height="15" font="5">                   </text>
+<text top="353" left="108" width="5" height="18" font="14"> </text>
+<text top="375" left="108" width="51" height="15" font="15">Project </text>
+<text top="375" left="243" width="266" height="15" font="15">: Sale &amp; Product management web app. </text>
+<text top="397" left="108" width="66" height="15" font="15">Position   </text>
+<text top="397" left="243" width="154" height="15" font="15">: Founder, main coder. </text>
+<text top="416" left="108" width="81" height="15" font="15">Description </text>
+<text top="416" left="243" width="519" height="15" font="15">: Web app can monitors the finance, products, customers, bills, depths….Web </text>
+<text top="435" left="243" width="405" height="15" font="15">app contains Point Of Sale (POS) part and main control part. </text>
+<text top="454" left="108" width="125" height="15" font="15">Responsibilities :   </text>
+<text top="471" left="135" width="8" height="20" font="16"></text>
+<text top="476" left="143" width="5" height="15" font="17"> </text>
+<text top="477" left="162" width="627" height="15" font="15">Determine  the  main  features  which  outstanding  than  existing  products  (www.kiotviet.vn, </text>
+<text top="496" left="162" width="40" height="15" font="15">www.</text>
+<text top="497" left="202" width="4" height="13" font="0"> </text>
+<text top="496" left="206" width="233" height="15" font="15">suno.vn, www.haravan.com, www.</text>
+<text top="497" left="438" width="4" height="13" font="0"> </text>
+<text top="496" left="442" width="122" height="15" font="15">maybanhang.net). </text>
+<text top="511" left="135" width="8" height="20" font="16"></text>
+<text top="515" left="143" width="5" height="15" font="17"> </text>
+<text top="516" left="162" width="459" height="15" font="15">Design the UI, logic backend logic in HTML, JavaScript, CSS, PHP. </text>
+<text top="531" left="135" width="8" height="20" font="16"></text>
+<text top="536" left="143" width="5" height="15" font="17"> </text>
+<text top="536" left="162" width="179" height="15" font="15">Using CodeIgniter engine. </text>
+<text top="551" left="135" width="8" height="20" font="16"></text>
+<text top="556" left="143" width="5" height="15" font="17"> </text>
+<text top="556" left="162" width="336" height="15" font="15">Contain POS web app and Main Control web app. </text>
+<text top="575" left="135" width="4" height="15" font="15"> </text>
+<text top="594" left="108" width="66" height="15" font="15">Results:   </text>
+<text top="612" left="135" width="8" height="20" font="16"></text>
+<text top="617" left="143" width="5" height="15" font="17"> </text>
+<text top="617" left="162" width="111" height="15" font="15">Project is FAIL. </text>
+<text top="632" left="135" width="8" height="20" font="16"></text>
+<text top="637" left="143" width="5" height="15" font="17"> </text>
+<text top="638" left="162" width="575" height="15" font="15">Project is huge. Not enough resources. And no one work for long time with no money. </text>
+<text top="657" left="108" width="5" height="16" font="19"> </text>
+<text top="678" left="108" width="196" height="15" font="4"><b>From Jan 2013 to Dec 2013 </b></text>
+<text top="678" left="602" width="133" height="15" font="4"><b>Out-source project</b></text>
+<text top="678" left="736" width="78" height="15" font="5">                   </text>
+<text top="696" left="108" width="5" height="18" font="14"> </text>
+<text top="718" left="108" width="51" height="15" font="15">Project </text>
+<text top="718" left="243" width="158" height="15" font="15">: Go Memo mobile app </text>
+<text top="740" left="108" width="66" height="15" font="15">Position   </text>
+<text top="740" left="243" width="226" height="15" font="15">: Project manager and main coder </text>
+<text top="759" left="108" width="81" height="15" font="15">Description </text>
+<text top="759" left="243" width="172" height="15" font="15">: Design the calendar app </text>
+<text top="778" left="108" width="106" height="15" font="15">Responsibilities</text>
+<text top="778" left="214" width="5" height="15" font="17"> </text>
+<text top="778" left="216" width="17" height="15" font="15">:   </text>
+<text top="796" left="135" width="8" height="20" font="16"></text>
+<text top="801" left="143" width="5" height="15" font="17"> </text>
+<text top="801" left="162" width="149" height="15" font="15">Monitor the deadlines </text>
+<text top="816" left="135" width="8" height="20" font="16"></text>
+<text top="821" left="143" width="5" height="15" font="17"> </text>
+<text top="821" left="162" width="289" height="15" font="15">Design the UI, logic backend logic in C++. </text>
+<text top="836" left="135" width="8" height="20" font="16"></text>
+<text top="841" left="143" width="5" height="15" font="17"> </text>
+<text top="841" left="162" width="194" height="15" font="15">Operate in iOS and Android. </text>
+<text top="856" left="135" width="8" height="20" font="16"></text>
+<text top="861" left="143" width="5" height="15" font="17"> </text>
+<text top="862" left="162" width="257" height="15" font="15">Resolve feedback from the customers. </text>
+<text top="876" left="135" width="8" height="20" font="16"></text>
+<text top="881" left="143" width="5" height="15" font="17"> </text>
+<text top="882" left="162" width="163" height="15" font="15">Report to the Customer. </text>
+<text top="901" left="135" width="4" height="15" font="15"> </text>
+<text top="920" left="108" width="197" height="15" font="4"><b>From Dec 2012 to Dec 2013 </b></text>
+<text top="920" left="339" width="397" height="15" font="4"><b>Integrated Circuit Design Research &amp; Education Center</b></text>
+<text top="920" left="736" width="78" height="15" font="5">                   </text>
+<text top="939" left="108" width="5" height="18" font="14"> </text>
+<text top="961" left="108" width="51" height="15" font="15">Project </text>
+<text top="961" left="243" width="161" height="15" font="15">: Wireless 802.11n chip </text>
+<text top="983" left="108" width="66" height="15" font="15">Position   </text>
+<text top="983" left="243" width="72" height="15" font="15">: Engineer </text>
+<text top="1002" left="108" width="81" height="15" font="15">Description </text>
+<text top="1002" left="243" width="281" height="15" font="15">: Design the 802.11n communication chip </text>
+<text top="1021" left="108" width="125" height="15" font="15">Responsibilities :   </text>
+<text top="1038" left="135" width="8" height="20" font="16"></text>
+<text top="1043" left="143" width="5" height="15" font="17"> </text>
+<text top="1044" left="162" width="263" height="15" font="15">Cooperate with the Kyushu University. </text>
+<text top="1058" left="135" width="8" height="20" font="16"></text>
+<text top="1063" left="143" width="5" height="15" font="17"> </text>
+<text top="1064" left="162" width="197" height="15" font="15">Design the controller module </text>
+<text top="1079" left="135" width="8" height="20" font="16"></text>
+<text top="1083" left="143" width="5" height="15" font="17"> </text>
+<text top="1084" left="162" width="243" height="15" font="15">Monitor and control the design flow </text>
+<text top="1099" left="135" width="8" height="20" font="16"></text>
+<text top="1104" left="143" width="5" height="15" font="17"> </text>
+<text top="1104" left="162" width="157" height="15" font="15">Report to the Manager. </text>
+<text top="1123" left="162" width="4" height="15" font="15"> </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="20" size="16" family="TimesNewRomanPS" color="#17365d"/>
+<text top="57" left="108" width="4" height="13" font="0"> </text>
+<text top="1196" left="715" width="47" height="12" font="1"><b>Page 5 </b></text>
+<text top="112" left="108" width="196" height="15" font="4"><b>From Jan 2012 to Dec 2012 </b></text>
+<text top="112" left="590" width="146" height="15" font="4"><b>Master-degree thesis</b></text>
+<text top="112" left="736" width="78" height="15" font="5">                   </text>
+<text top="131" left="108" width="5" height="18" font="14"> </text>
+<text top="153" left="108" width="51" height="15" font="15">Project </text>
+<text top="153" left="243" width="315" height="15" font="15">: Design the Face Expression Detection system </text>
+<text top="174" left="108" width="66" height="15" font="15">Position   </text>
+<text top="174" left="243" width="88" height="15" font="15">: Main coder </text>
+<text top="193" left="108" width="81" height="15" font="15">Description </text>
+<text top="193" left="243" width="109" height="15" font="15">: Master project </text>
+<text top="212" left="108" width="106" height="15" font="15">Responsibilities</text>
+<text top="212" left="214" width="5" height="15" font="17"> </text>
+<text top="212" left="216" width="17" height="15" font="15">:   </text>
+<text top="230" left="135" width="8" height="20" font="16"></text>
+<text top="235" left="143" width="5" height="15" font="17"> </text>
+<text top="235" left="162" width="627" height="15" font="15">Using  Gabor-Wavelet,  Canny,  Face  Detection,  SUSAN  algorithms  to  collect  the  Feature </text>
+<text top="255" left="162" width="251" height="15" font="15">Extraction data for the Classification. </text>
+<text top="269" left="135" width="8" height="20" font="16"></text>
+<text top="274" left="143" width="5" height="15" font="17"> </text>
+<text top="275" left="162" width="627" height="15" font="15">Using  HMM  of  MIT  as  classification  module,  the  author  of  the  HMM  module  is  Kelvin </text>
+<text top="294" left="162" width="61" height="15" font="15">Murphy. </text>
+<text top="308" left="135" width="8" height="20" font="16"></text>
+<text top="313" left="143" width="5" height="15" font="17"> </text>
+<text top="314" left="162" width="528" height="15" font="15">Data for test and train is Japanese Female Facial Expression database (JAFFE). </text>
+<text top="329" left="135" width="8" height="20" font="16"></text>
+<text top="333" left="143" width="5" height="15" font="17"> </text>
+<text top="334" left="162" width="117" height="15" font="15">Accuracy is 85% </text>
+<text top="349" left="135" width="8" height="20" font="16"></text>
+<text top="354" left="143" width="5" height="15" font="17"> </text>
+<text top="354" left="162" width="204" height="15" font="15">Write the paper for this thesis. </text>
+<text top="373" left="135" width="4" height="15" font="15"> </text>
+<text top="393" left="108" width="198" height="15" font="4"><b>From Oct 2009 to Nov 2012 </b></text>
+<text top="393" left="569" width="173" height="15" font="4"><b>Renesas Design Vietnam</b></text>
+<text top="393" left="743" width="136" height="15" font="5">                                 </text>
+<text top="415" left="108" width="4" height="15" font="5"> </text>
+<text top="434" left="108" width="51" height="15" font="15">Project </text>
+<text top="434" left="243" width="248" height="15" font="15">: Verification and design hardware IP</text>
+<text top="434" left="491" width="4" height="15" font="20"><b> </b></text>
+<text top="456" left="108" width="66" height="15" font="15">Position   </text>
+<text top="456" left="243" width="72" height="15" font="15">: Engineer </text>
+<text top="475" left="108" width="81" height="15" font="15">Description </text>
+<text top="475" left="243" width="317" height="15" font="15">: Design and verification for communication IP </text>
+<text top="494" left="108" width="125" height="15" font="15">Responsibilities :   </text>
+<text top="512" left="135" width="8" height="20" font="16"></text>
+<text top="516" left="143" width="5" height="15" font="17"> </text>
+<text top="517" left="162" width="627" height="15" font="15">Write the design specification documents for IP design: the function specification documents, </text>
+<text top="536" left="162" width="627" height="15" font="15">the design detail specification documents and the interface specification documents based on </text>
+<text top="555" left="162" width="197" height="15" font="15">the Renesas design flowchart </text>
+<text top="570" left="135" width="8" height="20" font="16"></text>
+<text top="574" left="143" width="5" height="15" font="17"> </text>
+<text top="575" left="162" width="627" height="15" font="15">Write  RTL  code  and  write  test  patterns  based  on  VHDL,  Verilog  and  System  Verilog </text>
+<text top="594" left="162" width="64" height="15" font="15">language </text>
+<text top="609" left="135" width="8" height="20" font="16"></text>
+<text top="614" left="143" width="5" height="15" font="17"> </text>
+<text top="614" left="162" width="627" height="15" font="15">Customize, optimize and debug the verification environments based on CShell, Perl, VHDL, </text>
+<text top="633" left="162" width="193" height="15" font="15">Verilog and Ruby languages </text>
+<text top="648" left="135" width="8" height="20" font="16"></text>
+<text top="653" left="143" width="5" height="15" font="17"> </text>
+<text top="653" left="162" width="237" height="15" font="15">Study and run the verification tools </text>
+<text top="668" left="135" width="8" height="20" font="16"></text>
+<text top="673" left="143" width="5" height="15" font="17"> </text>
+<text top="673" left="162" width="627" height="15" font="15">Make  the  verification  documents:  the  strategy  documents  for  verification,  the  function  and </text>
+<text top="692" left="162" width="292" height="15" font="15">connection checklist test pattern documents </text>
+<text top="707" left="135" width="8" height="20" font="16"></text>
+<text top="712" left="143" width="5" height="15" font="17"> </text>
+<text top="713" left="162" width="627" height="15" font="15">Make  the  verification  reports:  the  RTL  coverage  documents,  the  test  pattern  coverage </text>
+<text top="732" left="162" width="569" height="15" font="15">documents, the functional coverage documents and the assertion coverage documents </text>
+<text top="751" left="108" width="4" height="15" font="15"> </text>
+<text top="769" left="108" width="4" height="15" font="15"> </text>
+<text top="789" left="108" width="195" height="15" font="4"><b>From Oct 2008 to Oct 2009 </b></text>
+<text top="789" left="563" width="173" height="15" font="4"><b>Renesas Design Vietnam</b></text>
+<text top="789" left="736" width="78" height="15" font="5">                   </text>
+<text top="808" left="108" width="5" height="18" font="14"> </text>
+<text top="829" left="108" width="51" height="15" font="15">Project </text>
+<text top="829" left="243" width="194" height="15" font="15">: Verification Flash Memory </text>
+<text top="851" left="108" width="66" height="15" font="15">Position   </text>
+<text top="851" left="243" width="72" height="15" font="15">: Engineer </text>
+<text top="870" left="108" width="81" height="15" font="15">Description </text>
+<text top="870" left="243" width="363" height="15" font="15">: Architecture Verification of Flash Memory for MCU </text>
+<text top="889" left="108" width="106" height="15" font="15">Responsibilities</text>
+<text top="889" left="214" width="5" height="15" font="17"> </text>
+<text top="889" left="216" width="17" height="15" font="15">:   </text>
+<text top="907" left="135" width="8" height="20" font="16"></text>
+<text top="912" left="143" width="5" height="15" font="17"> </text>
+<text top="912" left="162" width="400" height="15" font="15">Maintenance 128KB, 256KB, 512KB Flash MCU Memory. </text>
+<text top="927" left="135" width="8" height="20" font="16"></text>
+<text top="932" left="143" width="5" height="15" font="17"> </text>
+<text top="933" left="162" width="366" height="15" font="15">Analyze and verify the architecture memory problems. </text>
+<text top="947" left="135" width="8" height="20" font="16"></text>
+<text top="952" left="143" width="5" height="15" font="17"> </text>
+<text top="953" left="162" width="433" height="15" font="15">Maintenance and customize existing module using ESP-CV tool. </text>
+<text top="968" left="135" width="8" height="20" font="16"></text>
+<text top="972" left="143" width="5" height="15" font="17"> </text>
+<text top="973" left="162" width="426" height="15" font="15">Making documents for describing the design bugs to customers. </text>
+<text top="988" left="135" width="8" height="20" font="16"></text>
+<text top="992" left="143" width="5" height="15" font="17"> </text>
+<text top="993" left="162" width="250" height="15" font="15">Receive feedback from the customer. </text>
+<text top="1008" left="135" width="8" height="20" font="16"></text>
+<text top="1012" left="143" width="5" height="15" font="17"> </text>
+<text top="1013" left="162" width="287" height="15" font="15">Make bugs/problems reports for customers </text>
+<text top="1028" left="135" width="8" height="20" font="16"></text>
+<text top="1033" left="143" width="5" height="15" font="17"> </text>
+<text top="1033" left="162" width="654" height="15" font="15">Verify and design  IP:  CEC IP for HDMI standard, RCSR  and  EAVB  IP for  asynchronous  data </text>
+<text top="1052" left="162" width="290" height="15" font="15">transfer and many types of counters, timers </text>
+<text top="1071" left="135" width="4" height="15" font="15"> </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="57" left="108" width="4" height="13" font="0"> </text>
+<text top="1196" left="715" width="47" height="12" font="1"><b>Page 6 </b></text>
+<text top="118" left="135" width="159" height="20" font="3"><b>Merit References </b></text>
+<text top="607" left="799" width="4" height="15" font="15"> </text>
+<text top="622" left="108" width="4" height="15" font="15"> </text>
+<text top="1066" left="773" width="4" height="15" font="15"> </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="21" size="16" family="TimesNewRomanPS" color="#17365d"/>
+<text top="57" left="108" width="4" height="13" font="0"> </text>
+<text top="1196" left="715" width="47" height="12" font="1"><b>Page 7 </b></text>
+<text top="489" left="739" width="4" height="15" font="15"> </text>
+<text top="504" left="108" width="4" height="15" font="15"> </text>
+<text top="523" left="460" width="4" height="15" font="21"><i> </i></text>
+<text top="988" left="766" width="4" height="15" font="15"> </text>
+</page>
+</pdf2xml>

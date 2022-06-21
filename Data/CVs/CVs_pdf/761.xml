@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="16" family="ArialMT" color="#7e7e7e"/>
+	<fontspec id="1" size="41" family="ArialMT" color="#7e7e7e"/>
+	<fontspec id="2" size="41" family="Arial" color="#7e7e7e"/>
+	<fontspec id="3" size="23" family="Arial" color="#7e7e7e"/>
+	<fontspec id="4" size="16" family="Arial" color="#f1f1f1"/>
+	<fontspec id="5" size="16" family="Arial" color="#7e7e7e"/>
+	<fontspec id="6" size="14" family="Arial" color="#585858"/>
+	<fontspec id="7" size="14" family="ArialMT" color="#585858"/>
+	<fontspec id="8" size="14" family="ArialMT" color="#5858ff"/>
+	<fontspec id="9" size="16" family="ArialMT" color="#585858"/>
+	<fontspec id="10" size="14" family="Arial" color="#7e7e7e"/>
+	<fontspec id="11" size="14" family="Arial" color="#585858"/>
+	<fontspec id="12" size="14" family="Arial" color="#7e7e7e"/>
+	<fontspec id="13" size="14" family="Arial" color="#f1f1f1"/>
+	<fontspec id="14" size="14" family="ArialMT" color="#7e7e7e"/>
+	<fontspec id="15" size="16" family="Arial" color="#585858"/>
+	<fontspec id="16" size="16" family="Arial" color="#585858"/>
+	<fontspec id="17" size="16" family="SymbolMT" color="#585858"/>
+<text top="57" left="447" width="5" height="15" font="0"> </text>
+<text top="82" left="149" width="285" height="39" font="1">                Nguy</text>
+<text top="74" left="434" width="310" height="47" font="1">ễn Toàn Nguyên</text>
+<text top="82" left="744" width="12" height="39" font="2"><b> </b></text>
+<text top="126" left="248" width="403" height="22" font="3"><b>                              Junior Developer </b></text>
+<text top="152" left="447" width="5" height="15" font="0"> </text>
+<text top="171" left="447" width="5" height="15" font="0"> </text>
+<text top="190" left="54" width="5" height="15" font="0"> </text>
+<text top="190" left="238" width="41" height="15" font="0">     </text>
+<text top="211" left="107" width="61" height="15" font="4"><b>Contact</b></text>
+<text top="211" left="169" width="5" height="15" font="5"><b> </b></text>
+<text top="237" left="54" width="5" height="15" font="0"> </text>
+<text top="256" left="54" width="57" height="14" font="6"><i><b>Gender </b></i></text>
+<text top="273" left="54" width="37" height="14" font="7">Male </text>
+<text top="290" left="54" width="5" height="15" font="0"> </text>
+<text top="309" left="54" width="74" height="14" font="6"><i><b>Birth date </b></i></text>
+<text top="326" left="54" width="79" height="14" font="7">03/05/1996 </text>
+<text top="344" left="54" width="4" height="14" font="7"> </text>
+<text top="361" left="54" width="64" height="14" font="6"><i><b>Address </b></i></text>
+<text top="378" left="54" width="159" height="14" font="7">33, 44 Street, 14 Ward, </text>
+<text top="395" left="54" width="109" height="14" font="7">Go Vap District, </text>
+<text top="413" left="54" width="117" height="14" font="7">Ho Chi Minh City </text>
+<text top="430" left="54" width="4" height="14" font="7"> </text>
+<text top="447" left="54" width="50" height="14" font="6"><i><b>Phone </b></i></text>
+<text top="464" left="54" width="96" height="14" font="7">01662105178 </text>
+<text top="481" left="54" width="4" height="14" font="7"> </text>
+<text top="499" left="54" width="44" height="14" font="6"><i><b>Email </b></i></text>
+<text top="516" left="54" width="164" height="14" font="8"><a href="mailto:tnguyenly96@gmail.com">tnguyenly96@gmail.com</a></text>
+<text top="516" left="219" width="4" height="14" font="7"><a href="mailto:tnguyenly96@gmail.com"> </a></text>
+<text top="534" left="54" width="5" height="15" font="0"> </text>
+<text top="557" left="114" width="49" height="15" font="4"><b>Social</b></text>
+<text top="557" left="162" width="5" height="15" font="5"><b> </b></text>
+<text top="580" left="54" width="5" height="15" font="0"> </text>
+<text top="603" left="80" width="5" height="15" font="0"> </text>
+<text top="599" left="97" width="89" height="15" font="9">Nguyennt96</text>
+<text top="599" left="186" width="5" height="15" font="0"> </text>
+<text top="629" left="54" width="5" height="15" font="0"> </text>
+<text top="652" left="116" width="43" height="15" font="4"><b>Skills</b></text>
+<text top="652" left="160" width="5" height="15" font="5"><b> </b></text>
+<text top="675" left="54" width="4" height="14" font="10"><b> </b></text>
+<text top="692" left="54" width="172" height="14" font="11"><b>Languages &amp; Scripting: </b></text>
+<text top="710" left="54" width="136" height="14" font="7">C#, HTML, Java, C, </text>
+<text top="727" left="54" width="172" height="14" font="7">JavaScript, CSS, android </text>
+<text top="744" left="54" width="4" height="14" font="7"> </text>
+<text top="761" left="54" width="97" height="14" font="11"><b>Frameworks: </b></text>
+<text top="779" left="54" width="171" height="14" font="7">ASP.NET, Entity, JQuery </text>
+<text top="796" left="54" width="4" height="14" font="7"> </text>
+<text top="813" left="54" width="150" height="14" font="11"><b>Operating Systems:  </b></text>
+<text top="831" left="54" width="169" height="14" font="7">Windows, Linux, Android </text>
+<text top="848" left="54" width="4" height="14" font="7"> </text>
+<text top="865" left="54" width="88" height="14" font="11"><b>Databases:  </b></text>
+<text top="882" left="54" width="61" height="14" font="7">MS SQL </text>
+<text top="900" left="54" width="4" height="14" font="7"> </text>
+<text top="917" left="54" width="104" height="14" font="11"><b>Web Servers:  </b></text>
+<text top="934" left="54" width="130" height="14" font="7">Tomcat, JBoss, IIS </text>
+<text top="951" left="54" width="4" height="14" font="12"><i> </i></text>
+<text top="968" left="54" width="188" height="14" font="11"><b>Analysis &amp; Design Tools:  </b></text>
+<text top="986" left="54" width="126" height="14" font="7">MS. Visual Studio, </text>
+<text top="1003" left="54" width="141" height="14" font="7">NetBeans, StarUML, </text>
+<text top="1020" left="54" width="118" height="14" font="7">Visual Paradigm, </text>
+<text top="1037" left="54" width="102" height="14" font="7">Android Studio </text>
+<text top="1054" left="54" width="4" height="14" font="12"><i> </i></text>
+<text top="1072" left="54" width="107" height="14" font="11"><b>Methodology:  </b></text>
+<text top="1089" left="54" width="91" height="14" font="7">Agile( Scrum)</text>
+<text top="1089" left="145" width="4" height="14" font="12"><i> </i></text>
+<text top="1106" left="54" width="4" height="14" font="12"><i> </i></text>
+<text top="1127" left="98" width="79" height="14" font="13"><b>Languages</b></text>
+<text top="1127" left="177" width="4" height="14" font="10"><b> </b></text>
+<text top="1147" left="54" width="4" height="14" font="14"> </text>
+<text top="1164" left="54" width="60" height="15" font="15"><b>English</b></text>
+<text top="1164" left="114" width="78" height="15" font="9">: Advance </text>
+<text top="1183" left="54" width="75" height="15" font="15"><b>Japanese</b></text>
+<text top="1183" left="129" width="97" height="15" font="9">: Elementary </text>
+<text top="209" left="239" width="22" height="15" font="5"><b>   </b></text>
+<text top="213" left="472" width="159" height="15" font="4"><b>Objective Statement</b></text>
+<text top="213" left="630" width="5" height="15" font="5"><b> </b></text>
+<text top="237" left="275" width="5" height="15" font="0"> </text>
+<text top="256" left="275" width="507" height="15" font="9">IT professional with +1 years of experience in software development. </text>
+<text top="275" left="275" width="569" height="15" font="9">I  am  interested  in  joining  TMA  Solutions,  a  leading  provider  of  software </text>
+<text top="294" left="275" width="569" height="15" font="9">development,  testing  services,  and  consulting.   This  is  where  I can  seek to </text>
+<text top="313" left="275" width="569" height="15" font="9">leverage  my  technical  and  professional  expertise  to  grow  in  the  role  of  a </text>
+<text top="332" left="275" width="91" height="15" font="9">developer.   </text>
+<text top="351" left="275" width="5" height="15" font="9"> </text>
+<text top="372" left="484" width="134" height="15" font="4"><b>Work Experience</b></text>
+<text top="372" left="618" width="5" height="15" font="5"><b> </b></text>
+<text top="397" left="275" width="5" height="15" font="0"> </text>
+<text top="416" left="275" width="396" height="15" font="15"><b>WISKY Technology Solutions, HCM City, Vietnam  </b></text>
+<text top="435" left="275" width="214" height="15" font="15"><b>Junior Software Developer </b></text>
+<text top="454" left="275" width="64" height="15" font="16"><i>12/2016 </i></text>
+<text top="451" left="339" width="78" height="18" font="16"><i>– 04/2017 </i></text>
+<text top="473" left="275" width="5" height="15" font="9"> </text>
+<text top="488" left="302" width="8" height="20" font="17"></text>
+<text top="493" left="309" width="5" height="15" font="9"> </text>
+<text top="493" left="329" width="61" height="15" font="15"><b>Project:</b></text>
+<text top="493" left="390" width="53" height="15" font="9"> Wisky </text>
+<text top="490" left="444" width="198" height="18" font="9">– Wi-Fi Marketing Projects </text>
+<text top="508" left="302" width="8" height="20" font="17"></text>
+<text top="513" left="309" width="5" height="15" font="9"> </text>
+<text top="513" left="329" width="157" height="15" font="15"><b>Project Description:</b></text>
+<text top="513" left="486" width="358" height="15" font="9"> To  support  marketers  in  running  marketing </text>
+<text top="532" left="329" width="515" height="15" font="9">campaigns by providing tools to show ads on customers' devices as </text>
+<text top="551" left="329" width="515" height="15" font="9">soon as the customers connect free Wi-Fi, to improve the customers </text>
+<text top="570" left="329" width="515" height="15" font="9">interaction  with  the  service  providers.  These  tools  are  designed  on </text>
+<text top="589" left="329" width="515" height="15" font="9">the professional Wi-Fi, with the easy management, at the right times, </text>
+<text top="608" left="329" width="423" height="15" font="9">and at the lowest cost. This project is a ASP.NET project  </text>
+<text top="623" left="302" width="8" height="20" font="17"></text>
+<text top="628" left="309" width="5" height="15" font="9"> </text>
+<text top="628" left="329" width="70" height="15" font="15"><b>Industry:</b></text>
+<text top="628" left="399" width="125" height="15" font="9"> Wi-Fi marketing </text>
+<text top="644" left="302" width="8" height="20" font="17"></text>
+<text top="648" left="309" width="5" height="15" font="9"> </text>
+<text top="648" left="329" width="147" height="15" font="15"><b>Project Team Size:</b></text>
+<text top="648" left="476" width="173" height="15" font="9"> More than ten peoples </text>
+<text top="664" left="302" width="8" height="20" font="17"></text>
+<text top="668" left="309" width="5" height="15" font="9"> </text>
+<text top="668" left="329" width="61" height="15" font="15"><b>Role(s):</b></text>
+<text top="668" left="390" width="140" height="15" font="9"> Developer, Tester </text>
+<text top="684" left="302" width="8" height="20" font="17"></text>
+<text top="688" left="309" width="5" height="15" font="9"> </text>
+<text top="688" left="329" width="138" height="15" font="15"><b>Skill Set Utilized: </b></text>
+<text top="707" left="329" width="515" height="15" font="9">-  .Net,  HTML,  JavaScript,  CSS,  SQL  Server  2014,  MVC,  Ajax, </text>
+<text top="727" left="329" width="111" height="15" font="9">JQuery, Razor </text>
+<text top="745" left="275" width="329" height="15" font="9">            - Visual Paradigm, MS. Visual Studio </text>
+<text top="765" left="275" width="374" height="15" font="9">            - Source Tree, Trello(Project Management) </text>
+<text top="780" left="302" width="8" height="20" font="17"></text>
+<text top="784" left="309" width="5" height="15" font="9"> </text>
+<text top="784" left="329" width="167" height="15" font="15"><b>Assignment Duration</b></text>
+<text top="784" left="496" width="86" height="15" font="9">:  4 months </text>
+<text top="804" left="329" width="5" height="15" font="9"> </text>
+<text top="804" left="383" width="5" height="15" font="9"> </text>
+<text top="823" left="275" width="5" height="15" font="16"><i> </i></text>
+<text top="841" left="275" width="64" height="15" font="16"><i>04/2017 </i></text>
+<text top="838" left="339" width="78" height="18" font="16"><i>– 08/2017 </i></text>
+<text top="860" left="275" width="5" height="15" font="16"><i> </i></text>
+<text top="876" left="302" width="8" height="20" font="17"></text>
+<text top="880" left="309" width="5" height="15" font="9"> </text>
+<text top="880" left="329" width="61" height="15" font="15"><b>Project:</b></text>
+<text top="880" left="390" width="110" height="15" font="9"> Teek Projects </text>
+<text top="896" left="302" width="8" height="20" font="17"></text>
+<text top="900" left="309" width="5" height="15" font="9"> </text>
+<text top="900" left="329" width="157" height="15" font="15"><b>Project Description:</b></text>
+<text top="900" left="486" width="358" height="15" font="9"> to  create  a  web  for  event  management  with </text>
+<text top="920" left="329" width="515" height="15" font="9">optimal  features  of  creating  the  best  interaction  with  the  audience, </text>
+<text top="939" left="329" width="515" height="15" font="9">achieving  the  best  effect  for  the  event  with  the  easy  management, </text>
+<text top="958" left="329" width="418" height="15" font="9">and at the lowest cost. This project is a ASP.NET project </text>
+<text top="973" left="302" width="8" height="20" font="17"></text>
+<text top="978" left="309" width="5" height="15" font="9"> </text>
+<text top="978" left="329" width="70" height="15" font="15"><b>Industry:</b></text>
+<text top="978" left="399" width="152" height="15" font="9"> Event Management </text>
+<text top="993" left="302" width="8" height="20" font="17"></text>
+<text top="998" left="309" width="5" height="15" font="9"> </text>
+<text top="998" left="329" width="147" height="15" font="15"><b>Project Team Size:</b></text>
+<text top="998" left="476" width="173" height="15" font="9"> More than ten peoples </text>
+<text top="1013" left="302" width="8" height="20" font="17"></text>
+<text top="1018" left="309" width="5" height="15" font="9"> </text>
+<text top="1018" left="329" width="61" height="15" font="15"><b>Role(s):</b></text>
+<text top="1018" left="390" width="140" height="15" font="9"> Developer, Tester </text>
+<text top="1033" left="302" width="8" height="20" font="17"></text>
+<text top="1038" left="309" width="5" height="15" font="9"> </text>
+<text top="1038" left="329" width="138" height="15" font="15"><b>Skill Set Utilized: </b></text>
+<text top="1057" left="329" width="515" height="15" font="9">-  .Net,  HTML,  JavaScript,  CSS,  SQL  Server  2014,  MVC,  Ajax, </text>
+<text top="1076" left="329" width="111" height="15" font="9">JQuery, Razor </text>
+<text top="1095" left="275" width="329" height="15" font="9">            - Visual Paradigm, MS. Visual Studio </text>
+<text top="1114" left="275" width="374" height="15" font="9">            - Source Tree, Trello(Project Management) </text>
+<text top="1129" left="302" width="8" height="20" font="17"></text>
+<text top="1134" left="309" width="5" height="15" font="9"> </text>
+<text top="1134" left="329" width="167" height="15" font="15"><b>Assignment Duration</b></text>
+<text top="1134" left="496" width="86" height="15" font="9">:  4 months </text>
+<text top="1153" left="275" width="5" height="15" font="16"><i> </i></text>
+<text top="1172" left="275" width="5" height="15" font="16"><i> </i></text>
+<text top="1191" left="275" width="5" height="15" font="9"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="18" size="16" family="ABCDEE+Wingdings" color="#585858"/>
+<text top="60" left="106" width="62" height="14" font="13"><b>Interests</b></text>
+<text top="60" left="169" width="4" height="14" font="10"><b> </b></text>
+<text top="81" left="54" width="4" height="14" font="14"> </text>
+<text top="98" left="54" width="40" height="15" font="9">Gym </text>
+<text top="117" left="54" width="63" height="15" font="9">Football </text>
+<text top="136" left="54" width="51" height="15" font="9">Hiking </text>
+<text top="155" left="54" width="59" height="15" font="9">Cycling </text>
+<text top="174" left="54" width="68" height="15" font="9">Traveling</text>
+<text top="174" left="122" width="5" height="15" font="0"> </text>
+<text top="57" left="275" width="139" height="15" font="15"><b>Learning Project  </b></text>
+<text top="76" left="275" width="152" height="15" font="15"><b>Android Developer </b></text>
+<text top="95" left="275" width="64" height="15" font="16"><i>09/2017 </i></text>
+<text top="92" left="339" width="78" height="18" font="16"><i>– 01/2018 </i></text>
+<text top="114" left="275" width="5" height="15" font="9"> </text>
+<text top="130" left="302" width="8" height="20" font="17"></text>
+<text top="134" left="309" width="5" height="15" font="9"> </text>
+<text top="134" left="329" width="61" height="15" font="15"><b>Project:</b></text>
+<text top="134" left="390" width="53" height="15" font="9"> Share </text>
+<text top="131" left="444" width="114" height="18" font="9">– Bike System  </text>
+<text top="150" left="302" width="8" height="20" font="17"></text>
+<text top="154" left="309" width="5" height="15" font="9"> </text>
+<text top="154" left="329" width="157" height="15" font="15"><b>Project Description:</b></text>
+<text top="154" left="486" width="358" height="15" font="9"> Created an android application with features of </text>
+<text top="174" left="329" width="437" height="15" font="9">sharing trip management. This project is an Android project </text>
+<text top="189" left="302" width="8" height="20" font="17"></text>
+<text top="193" left="309" width="5" height="15" font="9"> </text>
+<text top="193" left="329" width="70" height="15" font="15"><b>Industry:</b></text>
+<text top="193" left="399" width="200" height="15" font="9"> Sharing Trip Management </text>
+<text top="209" left="302" width="8" height="20" font="17"></text>
+<text top="213" left="309" width="5" height="15" font="9"> </text>
+<text top="213" left="329" width="147" height="15" font="15"><b>Project Team Size:</b></text>
+<text top="213" left="476" width="115" height="15" font="9"> Three peoples </text>
+<text top="229" left="302" width="8" height="20" font="17"></text>
+<text top="233" left="309" width="5" height="15" font="9"> </text>
+<text top="233" left="329" width="61" height="15" font="15"><b>Role(s):</b></text>
+<text top="233" left="390" width="302" height="15" font="9"> Project Management, Developer, Tester </text>
+<text top="249" left="302" width="8" height="20" font="17"></text>
+<text top="254" left="309" width="5" height="15" font="9"> </text>
+<text top="254" left="329" width="138" height="15" font="15"><b>Skill Set Utilized: </b></text>
+<text top="273" left="329" width="298" height="15" font="9">- SQL Server 2014, MVC, Java, Android </text>
+<text top="292" left="275" width="307" height="15" font="9">            - Visual Paradigm, Android Studio </text>
+<text top="311" left="275" width="374" height="15" font="9">            - Source Tree, Trello(Project Management) </text>
+<text top="326" left="302" width="8" height="20" font="17"></text>
+<text top="331" left="309" width="5" height="15" font="9"> </text>
+<text top="331" left="329" width="167" height="15" font="15"><b>Assignment Duration</b></text>
+<text top="331" left="496" width="86" height="15" font="9">:  4 months </text>
+<text top="350" left="275" width="5" height="15" font="9"> </text>
+<text top="369" left="275" width="141" height="15" font="15"><b>Individual project </b></text>
+<text top="388" left="275" width="124" height="15" font="15"><b>Web Developer </b></text>
+<text top="407" left="275" width="64" height="15" font="16"><i>01/2018 </i></text>
+<text top="404" left="339" width="78" height="18" font="16"><i>– 04/2018 </i></text>
+<text top="426" left="275" width="5" height="15" font="9"> </text>
+<text top="441" left="302" width="8" height="20" font="17"></text>
+<text top="446" left="309" width="5" height="15" font="9"> </text>
+<text top="446" left="329" width="61" height="15" font="15"><b>Project:</b></text>
+<text top="446" left="390" width="158" height="15" font="9"> Book Tours Website </text>
+<text top="461" left="302" width="8" height="20" font="17"></text>
+<text top="466" left="309" width="5" height="15" font="9"> </text>
+<text top="466" left="329" width="157" height="15" font="15"><b>Project Description:</b></text>
+<text top="466" left="486" width="358" height="15" font="9"> Created  a  web  with  features  of  booking  tours, </text>
+<text top="485" left="329" width="515" height="15" font="9">crawling  tours  data  from  another  web  and  managing  tours.  This </text>
+<text top="504" left="329" width="222" height="15" font="9">project is an Java web project </text>
+<text top="519" left="302" width="8" height="20" font="17"></text>
+<text top="524" left="309" width="5" height="15" font="9"> </text>
+<text top="524" left="329" width="70" height="15" font="15"><b>Industry:</b></text>
+<text top="524" left="399" width="144" height="15" font="9"> Tour Management </text>
+<text top="539" left="302" width="8" height="20" font="17"></text>
+<text top="544" left="309" width="5" height="15" font="9"> </text>
+<text top="544" left="329" width="147" height="15" font="15"><b>Project Team Size:</b></text>
+<text top="544" left="476" width="94" height="15" font="9"> One people </text>
+<text top="559" left="302" width="8" height="20" font="17"></text>
+<text top="564" left="309" width="5" height="15" font="9"> </text>
+<text top="564" left="329" width="61" height="15" font="15"><b>Role(s):</b></text>
+<text top="564" left="390" width="302" height="15" font="9"> Project Management, Developer, Tester </text>
+<text top="579" left="302" width="8" height="20" font="17"></text>
+<text top="584" left="309" width="5" height="15" font="9"> </text>
+<text top="584" left="329" width="138" height="15" font="15"><b>Skill Set Utilized: </b></text>
+<text top="603" left="329" width="515" height="15" font="9">- SQL Server 2014, MVC, Java, HTML, JavaScript, CSS, JPA, JAXB, </text>
+<text top="622" left="329" width="406" height="15" font="9">XML, XML combining JSP, Parser API, XSL, XML PDF </text>
+<text top="641" left="275" width="272" height="15" font="9">            - Visual Paradigm, NetBeans </text>
+<text top="660" left="275" width="374" height="15" font="9">            - Source Tree, Trello(Project Management) </text>
+<text top="675" left="302" width="8" height="20" font="17"></text>
+<text top="680" left="309" width="5" height="15" font="9"> </text>
+<text top="680" left="329" width="167" height="15" font="15"><b>Assignment Duration</b></text>
+<text top="680" left="496" width="86" height="15" font="9">:  4 months </text>
+<text top="699" left="275" width="5" height="15" font="9"> </text>
+<text top="718" left="275" width="5" height="15" font="0"> </text>
+<text top="741" left="511" width="80" height="15" font="4"><b>Education</b></text>
+<text top="741" left="591" width="5" height="15" font="5"><b> </b></text>
+<text top="765" left="275" width="5" height="15" font="0"> </text>
+<text top="783" left="275" width="204" height="15" font="15"><b>FPT University 2014-2018 </b></text>
+<text top="803" left="275" width="348" height="15" font="15"><b>Software Engineering (Information System)  </b></text>
+<text top="822" left="329" width="5" height="15" font="9"> </text>
+<text top="845" left="465" width="171" height="15" font="4"><b>Award/ Achievements</b></text>
+<text top="845" left="637" width="5" height="15" font="5"><b> </b></text>
+<text top="868" left="275" width="5" height="15" font="0"> </text>
+<text top="884" left="302" width="13" height="18" font="18"></text>
+<text top="887" left="315" width="391" height="15" font="9">  Honorable student of the semester (Summer 2016) </text>
+<text top="903" left="302" width="13" height="18" font="18"></text>
+<text top="906" left="315" width="376" height="15" font="9">  Honorable student of the semester (Spring 2017) </text>
+<text top="922" left="302" width="13" height="18" font="18"></text>
+<text top="925" left="315" width="269" height="15" font="9">  C Yellow YDeveloper (Lab Award) </text>
+<text top="941" left="302" width="13" height="18" font="18"></text>
+<text top="944" left="315" width="276" height="15" font="9">  Java Blue YDeveloper (Lab Award) </text>
+<text top="960" left="302" width="13" height="18" font="18"></text>
+<text top="963" left="315" width="321" height="15" font="9">  Desktop J-Blue YDeveloper (Lab Award)  </text>
+<text top="982" left="275" width="5" height="15" font="0"> </text>
+<text top="1003" left="521" width="70" height="15" font="4"><b>Referees</b></text>
+<text top="1003" left="591" width="5" height="15" font="5"><b> </b></text>
+<text top="1025" left="275" width="5" height="15" font="0"> </text>
+<text top="1043" left="275" width="78" height="15" font="15"><b>      Lâm H</b></text>
+<text top="1040" left="353" width="152" height="18" font="15"><b>ữu Khánh Phương </b></text>
+<text top="1062" left="315" width="218" height="15" font="9">  Lecturers of FPT University </text>
+<text top="1081" left="315" width="231" height="15" font="9">  Manager of WISKY company </text>
+<text top="1100" left="315" width="249" height="15" font="9">  Contact: phuonglhk@fpt.edu.vn </text>
+<text top="1119" left="275" width="5" height="15" font="0"> </text>
+<text top="1138" left="275" width="5" height="15" font="0"> </text>
+<text top="1157" left="54" width="5" height="15" font="4"><b> </b></text>
+<text top="1157" left="239" width="22" height="15" font="5"><b>   </b></text>
+<text top="1157" left="557" width="5" height="15" font="4"><b> </b></text>
+<text top="1176" left="54" width="5" height="15" font="0"> </text>
+</page>
+</pdf2xml>

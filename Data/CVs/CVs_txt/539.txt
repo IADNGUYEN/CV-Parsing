@@ -1,0 +1,94 @@
+LAM TAN PHAT 
+Curriculum Vitae 
+59/13/24 Street 8, Thu Duc district,  
+Ho Chi Minh city, Vietnam 
+00084 / 70000 
+Mobile: (+84) (0) 988.04.14.19 
+E-mail: vltphat@gmail.com 
+PROFESSIONAL EXPERIENCE 
+July 2016 – present: AgriConnect Digital AgriCulture JSC, HCMC, Vietnam, http://agriconnect.vn. 
+E.E– hardware design and embedded systems programming. 
+January 2011 – June 2016: Institute for Nanotechnology, Vietnam National University – HCMC, 
+Vietnam, http://hcmint.edu.vn. 
+Researcher, worked as E.E – hardware design and embedded systems programming. 
+Job responsibility:  Background in analog-digital electronics, power electronics, embedded systems, wireless sensor 
+networks.  Strong working knowledge in creating schematic capture and designing printed circuit board using 
+trace layout tools.  Experience on embedded programming for different micro-controllers of STMicroelectronics, 
+Atmel, TI, Espressif.  Experience of RFID, MQTT and embedded protocols like SPI, I2C, UART etc.  Experience on designing WiFi, Zigbee, Lora, GSM/GPRS, GPS based systems.  Understanding of high-speed board design, EMC, memory architecture.  Designing the user interface and database of application software.  Providing technical supports for software developer and customer. 
+SKILLS AND INTERESTS 
+Technical skills:  PCB design tools: KiCAD, OrCAD/Allegro, Altium.  Embedded C/C++.  Experience with C#, SQL server,  Familiarity with Linux OS.  Working knowledge of Microsoft Office, Edraw Max. 
+Others:  Extremely well organized.  Strong interpersonal and teamwork skills.  Willingness to work hard, learn new technologies and management skills. 
+Languages: English  TOEIC score: 515, CEFR: B1. 
+EDUCATION 
+University of Engineering and Technology, Vietnam National 
+University – Hanoi (VNU-HN) 
+M.Sc in Nano-Materials and Nano-Devices, Faculty of Physics and 
+Nanotechnology. Thesis: A 
+Hanoi, Vietnam 
+December 2014 
+GPA: 3.07 / 4 
+University of Science, Vietnam National University  HoChiMinh 
+city (VNU-HCM) 
+B.Sc in Physic, Faculty of Physics and Engineering Physics. Major: 
+Physics and Electronics. Thesis: 8.5 / 10 
+HoChiMinh city, Vietnam 
+October 2010 
+GPA: 7.42 / 10 
+Honors and Scholarships:  Honors for outstanding achievements of volunteered activities, VNU-HCMC, 2010.  Tiếp sức đến trường scholarship of Tuoi Tre Newspaper, HCMC, Vietnam, 2009. 
+Relevant courses:  Computer Network Administration, University of Science, VNU- HCMC, Vietnam.  Certificate of University Teaching Under Credit System, CEE, University of Science, VNU-HCMC.   Certificate of High School Teaching Methods, University of Education, HCMC, Vietnam.   Certificate of participation to School of MINATEC 2010 to 2015, Laboratory for Nanotechnology, 
+VNU-HCM (Vietnam) and CEA  LETI  MINATEC – Grenoble INP (France). 
+RESEARCH EXPERIENCE 
+Research projects: 
+1. Study on fabrication of indentify tags using radio antenna by RFID technology 
+2010 – 2012 
+Managing agency: Vietnam Ministry of Science and Technology. 
+2. Study on fabrication of UHF tags using inkjet printing for sensing applications  
+2012 – 2014 
+Managing agency: Vietnam Ministry of Science and Technology. 
+3. Development of wireless sensing platform for fruit farms 
+2015 – 2016 
+Managing agency: Vietnam National University – HCMC. 
+4. Development of IoT platform for mushroom growing room 
+2016 – present 
+Publications:  Authored & Co-authored 
+1. Wireless Sensing Modules for Rural Monitoring and Precision Agriculture applications, Journal of 
+Information and Telecommunication (TJIT), Taylor & Francis, UK, Oct 2017. 
+2. Modeling of Antenna geometry and Thickness Optimization for Wideband UHF RFID tag, 
+International Conference on Advanced Technology for Communications (IEEE-ATC), Vietnam, July 
+2015. 
+3. A wireless sensor for food quality detection by UHF RFID passive tags, International Conference 
+on Advanced Technology for Communications (IEEE-ATC), Vietnam, July 2015. 
+4. Một phương pháp đo đạc tính chất điện môi cho chất lỏng tổn hao cao ở tần số vi ba, Conference 
+on Electronics, Communications and Information Technology (REV-ECIT), Vietnam, 2015. 
+LEADERSHIP EXPERIENCE 
+Mentor, working with students during their internship: 
+1.Maxime REMY, ISEN école d'ingénieur (France), Project title: Security of communication 
+using RSA encryption. Training period: 6 months. 
+2.Florent SEGOUIN, IUT Cachan of Paris-Sud University (France), Project title: 
+Programming the middleware to communicate between RFID Volaré reader and host-
+computer. Training period: 3 months. 
+3.Thierry ZHANG, IUT Cachan of Paris-Sud University (France), Project title: Development 
+of GSM / GPRS functions for barrier gate system. Training period: 3 months. 
+2012 
+4.Raphael BRAHAMI and Louis PECHINOT, IUT Cachan of Paris-Sud University 
+(France), Project title: Programming the middleware to communicate between RFID 
+professional reader and host-computer. Training period: 3 months. 
+2013 
+5.Lê Quang Tấn, Master student at University of Technology, VNU-HCM (Vietnam). 
+Thesis title: Development of wireless sensing platform for fruit farms. Training period: 
+7 months. 
+2015-2016 
+REFEREES 
+Dr. NGUYEN Dat Son 
+Director, AgriConnect Digital AgriCulture 
+J.S.C. 
+RFID Team-leader, Institute for 
+Nanotechnology, VNU-HCM. 
+Mobile: (+84) (0) 12.28.75.67.07 
+Email: ndson@vnuhcm.edu.vn 
+nguyendatson@gmail.com 
+Prof. Dr. DANG Mau Chien 
+Director, Institute for Nanotechnology, VNU-HCM. 
+Telephone: (+84) (08) 37.24.68.23, Ext 101 or 102 
+Email: dmchien@vnuhcm.edu.vn 
+dmchien@yahoo.com 

@@ -1,0 +1,53 @@
+Sep 2012  Jun 2016
+HCM University of Science
+Major: Computer Science  GPA: 7.72/10  Favorite subjects: data structure & algorithm, AI, data mining, data
+science, machine learning, NLP, digital video & image processing  Course projects: Handwriting digits recognition (Python on web
+platform), Paint and Visualization algorithms software (Winform C#)  Online courses: Machine learning (Caltech), Parallel programming
+on GPU and Deep Learning (Udacity).
+Major knowledge
+Favorite field: data mining, data science, machine learning
+Programming languages: C, C++, C#, Python, Matlab, MS SQL
+Skills  Work independently & teamwork  Good at self learning  Interest in learning new AI technology  Reading & understanding English documents
+June 2016  Dec 2017
+FPT Information System
+Software Developer
+Main responsibilities: Join almost stages making software:  Write design document  Design user interface  Coding &  optimizing  Support testing & bug fixing
+Vo Pham Bao Anh
+Fresher / Junior Data Science, Machine Learning
+Date of birth:
+16 Oct 1994
+Gender:
+Male
+Phone:
+0963 211 442
+Email:
+vophambaoanh@gmail.com
+Address:
+Long An, Vietnam
+OBJECTIVE
+I want to apply to Fresher / Junior to gain  work experience in Data Science, Machine Learning field. 
+Apply artificial intelligence knowledge to real products such as ecommerce (recommend system, smart
+advertising...), recognize system (face, handwriting...).
+Learing new AI technology to improve products smarter and more efficient.
+EDUCATION
+KNOWLEDGE & SKILLS
+WORK EXPERIENCE
+PROJECTS
+2015
+Participate in "Thách Thức" contest certification
+2016
+Bachelor of Science in Computer Science
+Accounting Software System
+(2016  2017)
+Customer
+The Bank of Tokyo-Mitsubishi UFJ Ltd. branches in Viet Nam
+Description
+Accounting Software System
+Team size
+5
+My position
+Developer
+My responsibilities  Write detail design document.  Design user interface & export report forms, build up database, import data  Coding & optimizing  Support testing & bug fixing
+Technologies used  C#, Visual studio  .NET framework & FPT framework  SQL Server  TortoiseSVN  Other tools: Redgate, PowerDesigner, MS Office, Crystal report...
+CERTIFICATIONS
+© topcv.vn

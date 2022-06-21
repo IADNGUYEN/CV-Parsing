@@ -1,0 +1,66 @@
+CURRICULUM VITAE 
+PERSONAL DETAILS 
+Full name: Tran Thi Thien Phu 
+Date of Birth: June 13th, 1992 
+Address: 911/12/3A Kha Van Can street, Linh Tay Ward, District Thu Duc, HCMC  
+Telephone: 0972655701 
+Email: thienphutl@gmail.com 
+OBJECTIVE         Seeking a QC position that utilizes and develop my technical  
+STATEMENT       and my abilities 
+Working in professional environment with promotion chances 
+EDUCATION        Graduate University of Economics and Law ( Aug 2015) 
+Major: Management Information Systems 
+Toeic: 510 ( March 2015) 
+Rank: Good 
+TECHNICAL SKILLS  
+Language: C#, ASP.NET  
+Database: SQL server, Oracle  
+Software: MS Visual Studio, SQL management, Oracle, SAP Business 
+Objects, SAP Hana Studio, Eclipe 
+ERP: SAP 
+Tool testing: Jmeter, Selenium Web Driver, Selenium IDE, HP unified 
+Functional testing 
+Defect tracking: Jira, Bugzilla, GTP Track 
+Knowledge of software testing processes and bug lifecycle. 
+Knowledge of test plan and test case writing  
+Knowledge of Unit testing, Functional testing, Integration testing, 
+Regression testing, System testing, Performance testing, User 
+acceptance testing 
+Having experience in writing/executing test cases to verify functions, 
+features, performance of systems 
+Find out root causes of issues, work with developer to fix found bugs 
+EXPERIENCE       
+Internship as QC Position at SAP Asia Vietnam Co., ( April – Oct                 
+2015) 
+Responsible for quality product before releasing to customer 
+Responsible for mamual testing, validation test, confirmation test, 
+regression test and integration test for latest build, , bug/defect 
+status management 
+Responsible for fresh installation and upgrade product, check main 
+feature for lastest build in each takt. 
+Responsible for excuting and updating some scenarios for current 
+build. 
+Working and delivering software products using Agile-Scrum 
+methodology 
+Creating, executing and managing test cases using test case 
+managing tool based on requirement’s customer 
+Analyze and solve technical issues and manage them. 
+Creating bug on bugzilla and manager them, responsible for 
+verifing them after they’re fixed 
+Internship about Packaging Software at TMA Solutions ( Sep – Jan 
+2015) 
+Responsible for packaging product based on requirement’s 
+customer. 
+Administrator at xachtayucmy.tk, Aug 2014 
+Developed and implemented multiple Access databases 
+containing a large number of records for credit processing and 
+inventory control. 
+Installed new modue and function 
+Updated information for website. 
+Provided technical support for users in a professional manner 
+OTHER SKILLS     
+Have ability to work under high pressure and to handle multiple 
+tasks at the same time  
+Good at analysis, problem-solving, planning  
+Have ability to work independently and in team  
+Careful and studious.  

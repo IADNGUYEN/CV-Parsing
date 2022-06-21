@@ -1,0 +1,61 @@
+NGUYEN HUU NHAN 
+Date of birth Oct 29, 1993 
+Gender 
+Male 
+Phone  
+0906 480 158 
+E-mail  
+nhnhan2910@gmail.com or nhan2910@live.com  
+Address  
+133/36/7 Quang Trung Street, Ward 10, Go Vap District, Ho Chi Minh City 
+OBJECTIVES 
+Seeking a interesting occupation which focuses on data science, where I can have 
+real experience to advance my skills and become a professional Data Engineer. 
+Besides, I will contribute to the growth of your organization. 
+ABOUT ME 
+Be a quick learner. 
+Able to solve problems independently and efficiently. 
+Don’t have any professional experience, but I have some basic knowledge 
+learned from my studying at my university. 
+Get along well with people.  
+PERSONALITIES 
+Sociable 
+Hard-working 
+Responsible 
+EDUCATION 
+Sep 2012 – Apr 2018:       Ho Chi Minh City University of Technology (HCMUT) 
+Faculty: Computer Science and Engineering 
+Major: Computer Engineering 
+GPA:  7.48/10.0 
+LANGUAGE 
+English: TOEIC 595 
+Chinese: self-study  
+TECHNICAL 
+SKILLS 
+Languages 
+C/C++ 
+Java 
+Verilog HDL 
+SQL 
+Python, Scala 
+Applications 
+MS Word 
+MS Excel 
+MS Powerpoint  
+Operating Systems 
+Windows 
+Linux (Ubuntu, 
+Fedora) 
+EXPERIENCES 
+Done many projects written in C++ (big integer, Huffman encoding, graph 
+coloring,…) 
+Design a simple single clock cycle system using Verilog HDL on ALTERA DE2 
+board. (group) 
+Wiriting a simple hybrid P2P file sharing application in Java. (group) 
+Research, design, intergrate a tiny Network-based Intrusion Detection System 
+on NetFPGA-10G board to OpenFlow Switch. (thesis-group) 
+INTERESTS 
+Playing football. 
+Reading books and comics. 
+Playing games and watching movies. 
+Learning new languages. 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="18" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="1" size="31" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="2" size="16" family="TimesNewRomanPSMT" color="#333333"/>
+	<fontspec id="3" size="23" family="TimesNewRomanPS" color="#ffffff"/>
+	<fontspec id="4" size="18" family="TimesNewRomanPSMT" color="#ffffff"/>
+	<fontspec id="5" size="23" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="6" size="18" family="TimesNewRomanPS" color="#ffffff"/>
+	<fontspec id="7" size="18" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="8" size="14" family="ABCDEE+SegoeUI" color="#000000"/>
+<text top="46" left="85" width="5" height="16" font="0"> </text>
+<text top="71" left="468" width="8" height="28" font="1"><b> </b></text>
+<text top="103" left="85" width="5" height="16" font="0"> </text>
+<text top="103" left="139" width="5" height="16" font="0"> </text>
+<text top="103" left="193" width="5" height="16" font="0"> </text>
+<text top="124" left="85" width="5" height="16" font="0"> </text>
+<text top="124" left="139" width="5" height="16" font="0"> </text>
+<text top="145" left="85" width="5" height="16" font="0"> </text>
+<text top="165" left="85" width="4" height="15" font="2"> </text>
+<text top="415" left="15" width="360" height="22" font="3"><b>NGUYỄN NGỌC ĐĂNG QUANG </b></text>
+<text top="466" left="140" width="94" height="16" font="4">0985325084 </text>
+<text top="170" left="443" width="153" height="22" font="5"><b>EDUCATION </b></text>
+<text top="220" left="408" width="187" height="16" font="0">Long Khánh High school </text>
+<text top="241" left="408" width="5" height="16" font="0"> </text>
+<text top="262" left="408" width="5" height="16" font="0"> </text>
+<text top="574" left="443" width="255" height="22" font="5"><b>NOTABLE PROJECTS </b></text>
+<text top="467" left="65" width="58" height="16" font="6"><b>Phone: </b></text>
+<text top="487" left="65" width="5" height="16" font="0"> </text>
+<text top="250" left="409" width="263" height="16" font="0">Vietnam National University HCM, </text>
+<text top="270" left="409" width="311" height="16" font="0">University of Information and Technology </text>
+<text top="291" left="409" width="227" height="16" font="0">Majoring in Computer Science </text>
+<text top="312" left="409" width="5" height="16" font="0"> </text>
+<text top="333" left="409" width="44" height="16" font="7"><b>GAP:</b></text>
+<text top="333" left="453" width="41" height="16" font="0"> 7.07 </text>
+<text top="317" left="505" width="5" height="16" font="0"> </text>
+<text top="221" left="761" width="87" height="16" font="7"><b>2012 - 2015</b></text>
+<text top="221" left="848" width="5" height="16" font="0"> </text>
+<text top="242" left="740" width="5" height="16" font="0"> </text>
+<text top="250" left="742" width="108" height="16" font="7"><b>2015 - present</b></text>
+<text top="250" left="851" width="5" height="16" font="0"> </text>
+<text top="271" left="740" width="5" height="16" font="0"> </text>
+<text top="628" left="407" width="120" height="16" font="7"><b>Sudoku solver: </b></text>
+<text top="648" left="407" width="446" height="16" font="0">An  application  of Computer  Vision  and  Machine  Learning. </text>
+<text top="669" left="407" width="444" height="16" font="0">This is used to solve sudoku on image and written in Python. </text>
+<text top="689" left="407" width="5" height="16" font="0"> </text>
+<text top="710" left="407" width="102" height="16" font="7"><b>Battle Tank: </b></text>
+<text top="731" left="407" width="446" height="16" font="0">A similar game to Battle City. This is written to simulate some </text>
+<text top="751" left="407" width="427" height="16" font="0">algorithm like Dijkstra, A*,... Battle Tank is written in C#. </text>
+<text top="772" left="407" width="5" height="16" font="0"> </text>
+<text top="793" left="407" width="116" height="16" font="7"><b>Dog detection: </b></text>
+<text top="813" left="407" width="446" height="16" font="0">A  Python program which is used to detect dogs in image. This </text>
+<text top="834" left="407" width="445" height="16" font="0">is  also  an  application  of  Computer  Vision  and  Machine </text>
+<text top="855" left="407" width="445" height="16" font="0">Learning.  MobileNet  and  Faster  R-CNN  are  two  neural </text>
+<text top="876" left="407" width="220" height="16" font="0">network used in this program. </text>
+<text top="364" left="285" width="5" height="16" font="0"> </text>
+<text top="447" left="408" width="276" height="16" font="0">Volunteering at Nhật Hồng Orphange </text>
+<text top="447" left="747" width="103" height="16" font="7"><b>October 2015</b></text>
+<text top="447" left="851" width="5" height="16" font="0"> </text>
+<text top="468" left="743" width="5" height="16" font="0"> </text>
+<text top="476" left="408" width="269" height="16" font="0">Green Summer Volunteer Campaign </text>
+<text top="476" left="755" width="96" height="16" font="7"><b>August 2016</b></text>
+<text top="476" left="851" width="5" height="16" font="0"> </text>
+<text top="497" left="750" width="5" height="16" font="0"> </text>
+<text top="496" left="65" width="62" height="16" font="6"><b>E-mail: </b></text>
+<text top="525" left="65" width="63" height="16" font="6"><b>Adress: </b></text>
+<text top="545" left="65" width="5" height="16" font="0"> </text>
+<text top="495" left="140" width="193" height="16" font="4">15520691@gm.uit.edu.vn </text>
+<text top="526" left="140" width="136" height="16" font="4">Ho Chi Minh City </text>
+<text top="665" left="23" width="197" height="22" font="3"><b>CAREER GOALS </b></text>
+<text top="705" left="34" width="289" height="16" font="4">Work in the field of Computer Science, </text>
+<text top="727" left="34" width="210" height="16" font="4">especially Computer Vision. </text>
+<text top="748" left="34" width="5" height="16" font="4"> </text>
+<text top="770" left="34" width="5" height="16" font="4"> </text>
+<text top="783" left="23" width="294" height="22" font="3"><b>PROGRAMMING SKILLS </b></text>
+<text top="830" left="72" width="41" height="16" font="4">C++  </text>
+<text top="830" left="57" width="4" height="19" font="8"> </text>
+<text top="865" left="57" width="5" height="16" font="0"> </text>
+<text top="897" left="57" width="5" height="16" font="0"> </text>
+<text top="928" left="57" width="5" height="16" font="0"> </text>
+<text top="861" left="72" width="26" height="16" font="4">C# </text>
+<text top="893" left="72" width="55" height="16" font="4">Python </text>
+<text top="923" left="72" width="45" height="16" font="4">OOP  </text>
+<text top="970" left="21" width="255" height="22" font="3"><b>LANGUAGUE SKILLS </b></text>
+<text top="1008" left="72" width="59" height="16" font="4">English </text>
+<text top="1013" left="57" width="5" height="16" font="0"> </text>
+<text top="1066" left="21" width="223" height="22" font="3"><b>WORKING SKILLS </b></text>
+<text top="1109" left="73" width="111" height="16" font="4">Team-working </text>
+<text top="1114" left="58" width="5" height="16" font="0"> </text>
+<text top="1139" left="73" width="166" height="16" font="4">Working idependently </text>
+<text top="1143" left="58" width="5" height="16" font="0"> </text>
+<text top="1169" left="73" width="209" height="16" font="4">Logical and critical thinking </text>
+<text top="1174" left="57" width="5" height="16" font="0"> </text>
+<text top="604" left="23" width="151" height="22" font="3"><b>APPLY FOR: </b></text>
+<text top="608" left="173" width="204" height="16" font="4">Computer Vision, AI intern </text>
+<text top="631" left="23" width="6" height="22" font="3"><b> </b></text>
+<text top="653" left="23" width="6" height="22" font="3"><b> </b></text>
+<text top="657" left="77" width="5" height="16" font="6"><b> </b></text>
+<text top="178" left="437" width="6" height="22" font="5"><b> </b></text>
+<text top="403" left="442" width="305" height="22" font="5"><b>VOLUNTEER ACTIVITIES </b></text>
+<text top="410" left="435" width="6" height="22" font="5"><b> </b></text>
+<text top="586" left="437" width="6" height="22" font="5"><b> </b></text>
+</page>
+</pdf2xml>

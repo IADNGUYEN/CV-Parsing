@@ -1,0 +1,128 @@
+NGUYEN MINH DONG 
+PERSONAL DETAILS  
+Name:  
+NGUYEN MINH DONG 
+Gender: 
+Male 
+Date of Birth: 
+16/10/1993 
+Postal Address:  
+Village 3, An Phu Tay commune, Binh 
+Chanh District, Ho Chi Minh City 
+Phone number: 
++84 1649 207 063 
+Email:  
+nmdong.dtvt@gmail.com 
+EDUCATION BACKGROUND 
+From 2011 to 2015  
+Ho Chi Minh City University of Science, VIET NAM.  
+Faculty of Electronics and Telecommunications.  
+Major: Computer and Embedded Systems.  
+Expected Graduation Time: August 2015. 
+From September to  
+December in 2013  
+Taking part in “Smart learning” course and gaining the 
+Certificate of Teamwork Skill, by University of Science. 
+From 2012 to 2015  
+Secretary of Ho Chi Minh Communist Youth Union of 
+the Class. 
+WORK EXPERIENCE  
+From 07/07/2014 
+to 26/09/2014  
+Internships at TMA Student Development Center 
+(SDC), TMA Solutions.  
+Text data mining (Analysis of grammatical sentences 
+and Classifying Sentences and extract noun in 
+sentences).  
+Use programming languages RStudio.  
+Teamwork Skill. 
+From 03/2015 to 
+06/2015  
+Project: Identification devices human behaviors by 
+acceleration 3 sensor LIS3DSH.  
+Result: Using the software: Keil C and STMStdio by C 
+(programming language). 
+From 03/2015 to 
+06/2015  
+Project: Game Caro via LAN, Remote PC and 
+Applications on mobile phone: Android Bluetooth…:  
+Use programming languages Java in Eclipse IDE.  
+Remote PC: Use your Android phone to control 
+computer.  
+Result: 
+Sockets 
+programming 
+and 
+network 
+programming in Java and Teamwork Skill. 
+KEY SKILLS 
+Computer Skills  
+Application programming on STM32 kits.  
+Having a good knowledge and programmable for many 
+microcontroller such as PIC16FXX, PIC24… and IC 
+89Cxx.  
+Keil 
+Embedded 
+Development 
+Tools 
+for 
+ARM, 
+CortexMx.  
+Matlab, 
+MS 
+Word, 
+Excel, 
+MSPowerpoint 
+and 
+Photoshop. 
+Programming 
+Languages  
+C, C++, Java programming, Assembly, RStudio, 
+Verilog HDL Programmable and Networking/ Telecom.  
+Have knowledge in mobile platform: Android (operating 
+system) 
+Using the software  
+Keiluvision IDE, STMStudio, Eclipse IDE for Java 
+Developers, MPLAB IDE, Proteus VSM (Virtual 
+Simulation Machine), Visual studio 2012. 
+Communication 
+skills  
+Having 
+been 
+Secretary 
+of 
+Ho 
+Chi 
+Minh 
+CommunistYouth Union of the Class for the last two 
+tenures. Experienced (HAVING EXPERIENCES) in 
+organizing and taking part in outdoor and social 
+activities. Through which, I learned about the 
+importance of listening, helping and respecting others 
+Languages Skills  
+General English: listening, speaking and writing. 
+Project  
+Traffic light circuit, Alarm clock circuit, Temperature 
+measurement circuit.  
+Genealogy document management software by C# 
+OBJECTIVE  
+Seeking position as Senior Embedded System Engineer 
+or related position which offers key participation, team 
+oriented, team oriented tasks, immediate challenges, and 
+career opportunity. 
+ACTIVITIES  
+Certificate 
+of 
+Outstanding 
+Performance 
+in 
+“TiepSucMuaThi 2012” programs, by Ho Chi Minh 
+City Vietnam National Students’ Association.  
+Certificate of activities in the school union.  
+Part-time job: waiter, seller in the market… 
+PERSONAL QUALITIES  
+Sense of responsibility, carefulness in all the works 
+done are my greatest strengths.  
+Problem solving skill in organizations.  
+Ability to work independently and as part of a team to 
+achieve goals. 

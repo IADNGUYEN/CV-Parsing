@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="19" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="1" size="17" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="2" size="17" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="3" size="19" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="4" size="36" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="5" size="21" family="TimesNewRomanPS" color="#000000"/>
+<text top="256" left="64" width="129" height="22" font="0"><b>FPT University</b></text>
+<text top="254" left="688" width="147" height="19" font="1">Sep 2011 - Aug 2015</text>
+<text top="284" left="64" width="129" height="19" font="2"><i>Software Engineer</i></text>
+<text top="372" left="64" width="302" height="22" font="0"><b>FPT Software - FSU11_PCS Project</b></text>
+<text top="370" left="694" width="142" height="19" font="1">Jan 2014 - Apr 2014</text>
+<text top="533" left="64" width="289" height="22" font="0"><b>FPT University - Capstone Project</b></text>
+<text top="530" left="690" width="146" height="19" font="1">Dec 2014 - Apr 2015</text>
+<text top="398" left="64" width="134" height="19" font="2"><i>Software developer</i></text>
+<text top="425" left="64" width="425" height="19" font="1">- Develop a web application from an old window application.</text>
+<text top="446" left="64" width="107" height="19" font="1">- Team size: 30</text>
+<text top="467" left="64" width="653" height="19" font="1">- My responsibility: Implement a part of module base on old app, old code(C++),detail design.</text>
+<text top="487" left="64" width="513" height="19" font="1">- Technologies and tools used: JSF, DB2, Tomcat 6, Eclipse Kepler, JIRA</text>
+<text top="558" left="64" width="134" height="19" font="2"><i>Software developer</i></text>
+<text top="585" left="64" width="771" height="19" font="1">-  Develop  a  web  application  with  features:  Matching  job  and  CV,  do  online  contest,  upload  and  sharing</text>
+<text top="606" left="64" width="69" height="19" font="1">material...</text>
+<text top="627" left="64" width="98" height="19" font="1">- Team size: 3</text>
+<text top="648" left="64" width="706" height="19" font="1">- My responsibility: Design, implement, test module applicant. Write report(SRS,Guideline,Test case)</text>
+<text top="668" left="64" width="769" height="19" font="1">- Technologies and tools used:Visual Studio 2013, IIS 8, MVC 4, TFS, Bootstrap, SQL Server 2008, Entity</text>
+<text top="689" left="64" width="80" height="19" font="1">Framework</text>
+<text top="791" left="64" width="85" height="22" font="3">Languages</text>
+<text top="789" left="302" width="53" height="19" font="1">English</text>
+<text top="831" left="64" width="108" height="22" font="3">Programming</text>
+<text top="830" left="302" width="97" height="19" font="1">Java,C# .NET</text>
+<text top="871" left="64" width="141" height="22" font="3">Operating System</text>
+<text top="870" left="302" width="59" height="19" font="1">Window</text>
+<text top="912" left="64" width="45" height="22" font="3">Other</text>
+<text top="910" left="302" width="439" height="19" font="1">OOP, Libgdx, Neo4j, Javascript, HTML, CSS, Android, Spring</text>
+<text top="1010" left="64" width="81" height="22" font="3">Mr.Khánh</text>
+<text top="1008" left="302" width="131" height="19" font="1">Software Architect</text>
+<text top="1031" left="302" width="161" height="19" font="1">FPT software company</text>
+<text top="1054" left="302" width="221" height="19" font="1">Email:Khanhndq@fsoft.com.vn</text>
+<text top="1078" left="302" width="127" height="19" font="1">Tel: 098 931 6686</text>
+<text top="64" left="321" width="260" height="41" font="4">Hoàng Ngọc Anh</text>
+<text top="114" left="372" width="157" height="19" font="1">Phone: 0120 3025 747</text>
+<text top="136" left="352" width="197" height="19" font="1">Email: anhhnse@gmail.com</text>
+<text top="158" left="195" width="511" height="19" font="1">Address: 83/1/6A Tam Bình, Phường Tam Phú, Quận Thủ Đức, TP HCM</text>
+<text top="210" left="65" width="134" height="24" font="5"><b>EDUCATION</b></text>
+<text top="327" left="65" width="143" height="24" font="5"><b>EXPERIENCE</b></text>
+<text top="739" left="65" width="231" height="24" font="5"><b>SKILLS &amp; INTERESTS</b></text>
+<text top="958" left="65" width="135" height="24" font="5"><b>REFERENCE</b></text>
+</page>
+<outline>
+<item page="1">Hoàng Ngọc Anh</item>
+<outline>
+<item page="1">EDUCATION</item>
+<outline>
+<item page="1">FPT University</item>
+<outline>
+<item page="1">Sep 2011</item>
+<item page="1">Aug 2015</item>
+</outline>
+</outline>
+<item page="1">EXPERIENCE</item>
+<outline>
+<item page="1">FPT Software - FSU11_PCS Project</item>
+<outline>
+<item page="1">Jan 2014</item>
+<item page="1">Apr 2014</item>
+</outline>
+<item page="1">FPT University - Capstone Project</item>
+<outline>
+<item page="1">Dec 2014</item>
+<item page="1">Apr 2015</item>
+</outline>
+</outline>
+<item page="1">SKILLS &amp; INTERESTS</item>
+<outline>
+<item page="1">Languages</item>
+<item page="1">Programming</item>
+<item page="1">Operating System</item>
+<item page="1">Other</item>
+</outline>
+<item page="1">REFERENCE</item>
+<outline>
+<item page="1">Mr.Khánh</item>
+</outline>
+</outline>
+</outline>
+</pdf2xml>

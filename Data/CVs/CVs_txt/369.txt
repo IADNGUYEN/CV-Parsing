@@ -1,0 +1,38 @@
+UNIVERSITY OF INFORMATION TECHNOLOGY
+SEP 2015  2020
+BESCO CONSULTING
+08/2018  02/2019
+UNIVERSITY OF INFORMATION TECHNOLOGY
+09/2018  11/2018
+OBJECTIVE
+To become a people who can apply knowledge to find insights from data and use it to
+making decision. I know that I lack a lot of skills to apply my knowledge. So I will
+continue to study and improve my skills until I can achieve my goals
+ EDUCATION
+Major: Information System Engineer
+Expected graduation in 2020
+ SKILLS
+Programing skills                  SQL, Python, R
+Design database, data mining
+Database (RDBMS) as Oracle, PostgreSQL, SqlServer
+Experienced using tool as: Pentaho, Qlik
+Data modeling (UML, BPMN)
+ WORK EXPERIENCE
+Functional consultant
+BACHMOC  Handled master data to import system  POS testing  Training and support customer when deployment POS module
+DHA MEDIC  Gather business requirements and propose solutions   Using BPMN to re-modeling the company's business process  Handled master data to import system  Testing purchase and warehouse module and writing user document  Training purchase and warehouse module for customer when deployment ERP
+system
+Technologies used: Odoo, postgreSql, Python
+Analyster
+GLOBAL TERRORISM  Handled data to design data warehouse server for explore and query data  Using decision tree, SVM algorithm to data mining  Create report to display the value of the data
+Technologies used: SSIS, SSAS,SSRS, SqlServer
+ 28/11/1997
+ Female
+ 0942531928
+ tranxoan2811@gmail.com
+ Quarter 6 Linh Trung Ward
+Thu Duc District
+TRẦN THỊ XOAN
+TRẦN THỊ XOAN
+DATA ANALYST
+© topcv.vn

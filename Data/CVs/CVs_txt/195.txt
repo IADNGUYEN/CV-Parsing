@@ -1,0 +1,88 @@
+CURRICULUM VITAE 
+INDIVIDUAL INFORMATION 
+Full name     : HOA CONG HOANG PHI 
+Gender         : Male   
+DOB 
+: November 3rd, 1990                    Place of birth: Buon Ma Thuot City, DakLak, Vietnam 
+Ethnic group : Kinh                                          
+Address 
+: 18/61B Tran Quang Dieu, Ward 12 , Dist. 3, HCMC, Vietnam 
+Cellphone  
+: +84 122 676 7173  
+Marital status: Single 
+Email 
+: hoaconghoangphi@gmail.com 
+EXPERIENCES 
+Oct 2013  present : As IT Software Developer at HSBC Bank (Vietnam) Ltd. 
++ Design and develop applications (including software design, database design, systems 
+architecture, application programming, and QA testing) 
++ Participate in user requirement specifications due to ability to translate user needs into easy-
+to-understand software solutions.   
++ Create some VB applications to allow users to access data in a secure, rapid, reliable, and 
+responsive manner. 
++ Provide and introduce methodologies as well as best practices that enhanced product 
+definition, release processes and customization of applications to user needs 
+Achievement: 
++ Successfully assisting RBWM for the streaming process and enhancing information security 
+when cascading the information/data to all staff level in Mar 15. 
++ Successfully providing solutions for report automation to help Mobile Sales team to complete 
+their business with the VIP customer.  
++ Contributed software engineering expertise in the development of products through the 
+software lifecycle, from requirements definition through successful deployment. 
++ Excelled in rapid application development and management of technological issues for 
+assigned projects, earning the highest customer satisfaction rating for all software solutions 
+delivered 
+Technical skills gained: 
++ Master in building a Monarch model, shows how to extract data from a typical list style 
+report, and quickly add summary information that doesn’t appear in the report. 
++ Knowledgeable about HSBC core-banking system: HUB QRY and VDU 
+April 2013 – Sep 2013:  As Internship at Vietnam Data Communication (VDC2)  
++ Building a web or a desktop application by using API to 
+access domain name WHOIS information to look up for domain registration information 
++ Worked with telecommunication networks such as Multiprotocol Label Switching (MPLS)  
++ Providing daily operational support and system administration for core network infrastructure 
+include monitoring, analysis, network performance, packet sniffers, Cisco routers and 
+switches and wireless systems 
+OBJECTIVES 
++ To obtain a full time position at The American Academy of Vietnam (AMA) as a software 
+developer. 
++ To desire of enriching my knowledge and a great opportunity to broaden my experience of 
+the various processes concerning the projects of AMA. 
+QUALIFICATIONS 
+9/2008 – 10/2013 : Bachelor’s Degree of Engineer in Information Technology  Posts & 
+Telecommunications Institute of Technology, Ho Chi Minh city  
+Excellent experienced in programming skills and databases such as: 
++ Languages: C#, Java, Visual Basic, VBA, ASP.NET(Web), Lotus Notes script 
++ Databases: SQL Server, DB2 
++ Web application platform: Sharepoint (CMS) 
+3/2013 
+: TOEIC certificate at 655 marks 
+2005  2008 
+: Nguyen Khuyen High School 
+OTHER SKILLS & PERSONAL QUALITIES 
++ Excellent in Excel (especially Macro VBA), Word, data analytic & reporting skills.  
++ Ability to communicate in English fluently. 
++ Effective communication skills and inter- personal skills 
++ Able to work under high pressure, punctual, reliable 
++ Able to work in a team or as an individual  
++ Eager to learn and willing to receive feedback 
++ Quickly able to adapt to new environment  
++ Honestly to receive the opinions and ideas of others 
+ACTIVITIES 
++ Participating in Charity activities of Cooperate Sustainability team (24 hours, Charity 
+Fundraising with HSBC Vocal Team, helping ethnic minority in Di Linh – Lam Dong… ) 
++ Performing as guitarist, dancer in Annual party of HSBC Bank 
++ Participating in HSBC Sports Day with CTP’s futsal team and ping-pong challenge.  
+HOBBIES  
++ Playing guitar, ping-pong, soccer, swimming.  
++ Books and traveling. 
+REFERENCE 
+Mr. Nguyen Hoang Dung – SwD Manager, Software Delivery 
+HSBC Bank (Vietnam) Ltd. 
+235 Dong Khoi, District 1, HCMC 
+Mobile: 0907 968 666 
+Or 
+Mr. Vu Ba Quang   SwD Manager, Software Delivery 
+HSBC Bank (Vietnam) Ltd. 
+235 Dong Khoi, District 1, HCMC 
+Mobile: 0989 771 596 

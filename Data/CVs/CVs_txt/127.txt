@@ -1,0 +1,36 @@
+ 
+TRUONG MINH LUAN 
+NETWORK ENGINEER 
+PERSONALITY HIGHLIGHTS 
+Good soft skills 
+Motivated by problem	
+solving	
+Independent worker 
+Works well with deadlines 
+CONTACT DETAILS 
+Ho Chi Minh City, Viet Nam 
++84 815 391 697 
+truongminhluandttp@yahoo.com.vn 
+BASIC INFORMATION 
+I’m a network engineer who have a passion in 
+networking, love to learn new technology when at home 
+or free time and critial thinking. Strong background in 
+Network, System administrator and team work. 
+TECHNICAL SKILLS 
+OS: Linux server(Ubuntu, Centos,…),Windows 
+Networking: CCNA, CCNA Security 
+System Administrator: Linux Foundation Certified 
+SysAdmin(LFCS) 
+Programming Languages: Python, Linux Shell Script 
+Database: Postgresql, Mysql,…. 
+PROFESSIONAL EXPERIENCES 
+Lạc hồng Networking Academy 
+2014-2015 
+Project: Design, configure and detecting server for web, 
+databse, dns of Lac Hong Networking Academy. 
+Team size: 1 (Networking Professor of this academy is 
+my mentor) 
+Resposibility:  Research and detecting problem in the recent system 
+in lab room  Discuss with mentor about these problems and my 
+solutions.  Configure lab room for student to learning and 
+testing.  Configure Website for student learning and testing.  Modify, improve and do the final test with this system  Do the report for my mentor.  Support student when have problem in using. 

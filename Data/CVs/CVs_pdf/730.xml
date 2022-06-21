@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="16" family="NYOQTI+CharterBT" color="#000000"/>
+	<fontspec id="1" size="16" family="OAXRRT+CMTT10" color="#000000"/>
+	<fontspec id="2" size="37" family="BPIXFB+CharterBT" color="#176fc0"/>
+	<fontspec id="3" size="17" family="BPIXFB+CharterBT" color="#176fc0"/>
+	<fontspec id="4" size="17" family="NYOQTI+CharterBT" color="#000000"/>
+	<fontspec id="5" size="25" family="BPIXFB+CharterBT" color="#000000"/>
+	<fontspec id="6" size="17" family="QGUKZH+CMSY10" color="#176fc0"/>
+<text top="281" left="98" width="106" height="16" font="0">Vuong Duc Dai</text>
+<text top="302" left="116" width="89" height="16" font="0">07/06/1996</text>
+<text top="324" left="92" width="112" height="14" font="1">daivuong7696@</text>
+<text top="345" left="127" width="77" height="14" font="1">gmail.com</text>
+<text top="363" left="72" width="132" height="16" font="0">(+84) 908062511</text>
+<text top="41" left="250" width="254" height="36" font="2"><b>Vuong Duc Dai</b></text>
+<text top="77" left="250" width="81" height="17" font="3"><b>About me</b></text>
+<text top="77" left="337" width="479" height="17" font="4">I am a tech student from Bach Khoa Univeristy. I am always</text>
+<text top="99" left="250" width="566" height="17" font="4">curious about every field in my major, especially artificial intelligent and</text>
+<text top="121" left="250" width="566" height="17" font="4">software development. I also love math, reading books, meditating, and</text>
+<text top="142" left="250" width="127" height="17" font="4">doing volunteer.</text>
+<text top="196" left="250" width="132" height="25" font="5"><b>Experience</b></text>
+<text top="237" left="250" width="278" height="17" font="3"><b>June 2017 - Aug 2017, Internship</b></text>
+<text top="259" left="250" width="340" height="17" font="4">C++ developer internship at FPT software.</text>
+<text top="312" left="250" width="120" height="25" font="5"><b>Education</b></text>
+<text top="353" left="250" width="120" height="17" font="3"><b>2014 - present</b></text>
+<text top="375" left="250" width="566" height="17" font="4">Final year student, Bach Khoa University, Faculty of Computer Science</text>
+<text top="396" left="250" width="251" height="17" font="4">and Engineering. GPA: 7.97/10.</text>
+<text top="450" left="250" width="64" height="25" font="5"><b>Skills</b></text>
+<text top="490" left="250" width="195" height="17" font="3"><b>Programming language</b></text>
+<text top="512" left="250" width="9" height="17" font="6">◦</text>
+<text top="512" left="267" width="55" height="17" font="4">Python</text>
+<text top="512" left="445" width="9" height="17" font="6">◦</text>
+<text top="512" left="463" width="41" height="17" font="4">C++</text>
+<text top="512" left="641" width="9" height="17" font="6">◦</text>
+<text top="512" left="659" width="41" height="17" font="4">Scala</text>
+<text top="543" left="250" width="95" height="17" font="3"><b>Other skills</b></text>
+<text top="565" left="250" width="9" height="17" font="6">◦</text>
+<text top="565" left="267" width="136" height="17" font="4">Machine learning</text>
+<text top="586" left="250" width="9" height="17" font="6">◦</text>
+<text top="586" left="267" width="109" height="17" font="4">Deep learning</text>
+<text top="565" left="445" width="9" height="17" font="6">◦</text>
+<text top="565" left="463" width="150" height="17" font="4">Pytorch framework</text>
+<text top="586" left="445" width="9" height="17" font="6">◦</text>
+<text top="586" left="463" width="57" height="17" font="4">Numpy</text>
+<text top="565" left="641" width="9" height="17" font="6">◦</text>
+<text top="565" left="659" width="89" height="17" font="4">Scikit-learn</text>
+<text top="640" left="250" width="95" height="25" font="5"><b>Projects</b></text>
+<text top="680" left="250" width="127" height="17" font="3"><b>School projects</b></text>
+<text top="702" left="250" width="9" height="17" font="6">◦</text>
+<text top="702" left="267" width="244" height="17" font="4">Playing chess using AI: checker</text>
+<text top="724" left="250" width="9" height="17" font="6">◦</text>
+<text top="724" left="267" width="298" height="17" font="4">Street view house number recognition</text>
+<text top="754" left="250" width="52" height="17" font="3"><b>Thesis</b></text>
+<text top="776" left="250" width="9" height="17" font="6">◦</text>
+<text top="776" left="267" width="335" height="17" font="4">Scene recognition using self-modified CNN</text>
+<text top="830" left="250" width="127" height="25" font="5"><b>Languages</b></text>
+<text top="870" left="250" width="96" height="17" font="3"><b>Vietnamese</b></text>
+<text top="892" left="250" width="9" height="17" font="6">◦</text>
+<text top="892" left="267" width="116" height="17" font="4">Mother tongue</text>
+<text top="923" left="250" width="61" height="17" font="3"><b>English</b></text>
+<text top="945" left="250" width="9" height="17" font="6">◦</text>
+<text top="945" left="267" width="428" height="17" font="4">Able to listen, read, write and hold basic conversations</text>
+<text top="966" left="250" width="9" height="17" font="6">◦</text>
+<text top="966" left="267" width="380" height="17" font="4">Certificate: TOEIC 815 (valid until 26/11/2019)</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,94 @@
+Applicant for:
+AI Engineer (Machine Learning, Python)
+TMA Solutions
+7 June 2019
+Huy Ngo
+ngodotronghuy@gmail.com
+Main interests: Python, Java
+What skills, work projects or achievements make you a strong candidate for this
+position?
+Note from ITviec: Huy Ngo skipped the cover letter.
+Top Jobs for IT People
+"The key for us, first, has always been hiring very smart people."  Bill Gates
+itviec.com
+08 6681 1397
+itviec@itviec.com
+179 Khuong Viet, Tan Phu
+Dist, TPHCM
+huyngo0690@gmail.com
+0909162948
+12/09/1993
+I have one year experience as
+Java developer at Smart OSC
+company and six months in
+Quodisys.At Quodisys, I learnt a
+lot via projects, adapt new
+technology like VueJs and
+NodeJS, working with
+python(Django). I also have
+knowledge about database, I
+worked with Oracle Database
+for 4 months when I were an
+intern at Hoa Binh Corp. 
+Ngo Do Trong Huy
+Developer
+Working with Oracle Database: install, create database,select query.
+Using Oracle forms and reports to create forms for IT department manage equipments
+and reports at weekend.
+Using Java core, apache camel components(http4), Spring boot, APIs
+Using AEM CMS from adobe to create components and templates.
+Javascript, VueJS, PHP, HTML, CSS, Python.
+Developing Lasso plugin in WordPress as a UI for client, using AWS as a server to
+build update server, maintain version of plugin.
+Unicorn : E-comerce website, using AEM and Spring  4 members  Main role:
+Create components and edit template
+Pham Nguyen Food: E-comerce website using magento integration with Spring 
+Main role: using java parsing JSON, reading info from pdf file.
+Lasso plugin: Wordpress plugin  Main role : Working in backend, logic function,
+update UI. Apply Vue JS for FE, assign value to Vue object in each input field in
+HTML, get value from PHP function using AJAX.
+Compliy(Web-App)  Main role: Logic and backend, using Django for login,
+register function. Move functions from Django to NodeJS.
+
+
+
+
+Python
+    
+SQL
+    
+Java
+    
+JavaScript
+    
+Machine
+Learning
+Algorithms
+    
+English
+Intermediate
+Internship
+Hoa Binh Corporation
+|  12/ 2016  04/ 2017
+Junior Java Developer
+SmartOSC
+|  08/ 2017  07/ 2018
+Backend Developer
+Quodisys
+|  10/ 2018  Present
+Computer Network
+Hoa Sen University-College degree |  10/ 2011  2014
+Information System
+Centria University-Bachelor degree
+|  08/ 2015  12/ 2017
+SUMMARY
+SKILLS
+LANGUAGES
+INTERESTS
+EXPERIENCES
+PROJECTS
+EDUCATION
+Books, football, swimming
+Have soft skills,friendly, fun with colleagues.
+Good self-study, team work or work individual
+ADDITIONAL INFORMATION

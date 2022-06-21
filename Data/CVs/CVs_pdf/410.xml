@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="16" family="RobotoCondensed" color="#414142"/>
+	<fontspec id="1" size="14" family="RobotoCondensed" color="#444444"/>
+	<fontspec id="2" size="23" family="RobotoCondensed" color="#7c7a79"/>
+	<fontspec id="3" size="16" family="RobotoCondensed-Light" color="#444444"/>
+	<fontspec id="4" size="23" family="FontAwesome" color="#fcf8e0"/>
+	<fontspec id="5" size="16" family="RobotoCondensed-Light" color="#414142"/>
+	<fontspec id="6" size="13" family="FontAwesome" color="#fcf8e0"/>
+	<fontspec id="7" size="16" family="RobotoCondensed-Light" color="#fcf8e0"/>
+	<fontspec id="8" size="23" family="RobotoCondensed" color="#fcf8e0"/>
+	<fontspec id="9" size="48" family="RobotoCondensed" color="#a6a7a8"/>
+	<fontspec id="10" size="48" family="RobotoCondensed" color="#fcf8e0"/>
+	<fontspec id="11" size="16" family="RobotoCondensed" color="#fcf8e0"/>
+<text top="288" left="23" width="257" height="19" font="0"><b>CÔNG TY TNHH TIN HỌC Á ĐÔNG VI NA</b></text>
+<text top="288" left="501" width="106" height="18" font="1"><b>06/2017 - TODAY</b></text>
+<text top="667" left="23" width="299" height="19" font="0"><b>NHAT CUONG SOFTWARE SOLUTION CO., LTD</b></text>
+<text top="667" left="493" width="114" height="18" font="1"><b>05/2016 - 05/2017</b></text>
+<text top="944" left="23" width="364" height="19" font="0"><b>UNIVERSITY SCIENCE UNIVERSITY OF SCIENCE TP.HCM</b></text>
+<text top="944" left="493" width="114" height="18" font="1"><b>09/2013 - 09/2016</b></text>
+<text top="1179" left="23" width="110" height="19" font="0"><b>MAGIKLAB CLUB</b></text>
+<text top="1179" left="493" width="114" height="18" font="1"><b>05/2016 - 06/2016</b></text>
+<text top="139" left="23" width="108" height="27" font="2"><b>Career Goal</b></text>
+<text top="183" left="23" width="373" height="19" font="3">- Become a professional web developer within the next year.</text>
+<text top="204" left="23" width="337" height="19" font="3">- Build and develop the most useful web site for users.</text>
+<text top="241" left="28" width="25" height="24" font="4"></text>
+<text top="237" left="63" width="102" height="27" font="2"><b>Experience</b></text>
+<text top="309" left="23" width="284" height="19" font="5">RUBY​ ON RAILS Web Programming Employee</text>
+<text top="339" left="23" width="226" height="19" font="3">- Use MYSQL to work with database.</text>
+<text top="360" left="23" width="278" height="19" font="3">- Setup server linux: CentsOS 6-7 and Ubuntu</text>
+<text top="380" left="23" width="539" height="19" font="3">- Using Git and Bitbucket, githud, trello to manage project, tool support is Smartgit and </text>
+<text top="401" left="23" width="91" height="19" font="3">FileZilla Client.</text>
+<text top="422" left="23" width="392" height="19" font="3">- Write API for app mobile(RESTful, sent notice on smartphone)</text>
+<text top="443" left="23" width="550" height="19" font="3">- Specialize in ecommerce web writing and projects according to customer requirements</text>
+<text top="463" left="23" width="347" height="19" font="3">- System payment like paypal, stripe and other systems.</text>
+<text top="484" left="23" width="492" height="19" font="3">- Experienced in app chat real time and asynchronously background processing</text>
+<text top="505" left="23" width="137" height="19" font="3">- Join the project:        </text>
+<text top="526" left="23" width="638" height="19" font="3"> +shop10k.vn(80%), shop365.sg(20%), racks.sg(100%), alomuanhanh.vn(70%), shopattdt.com.sg(30%),</text>
+<text top="546" left="23" width="324" height="19" font="3">giaohang.advn.online(90%), smartmall.com.sg(90%)</text>
+<text top="567" left="23" width="243" height="19" font="3"> +calpeda-asiapac.com, qrmart.com.sg</text>
+<text top="588" left="23" width="503" height="19" font="3"> +ROR skills: scope (query rails and sql), understand the MVC model, OOP, Action</text>
+<text top="609" left="23" width="536" height="19" font="3">Mailer, Action Pack, Action Controller, Action View, Active Model, Active Record, Active</text>
+<text top="629" left="23" width="558" height="19" font="3">Resource, Active Support, Railties, Action Cable, Active Job, Rake routes and gem in rails. </text>
+<text top="688" left="23" width="274" height="19" font="5">ASP.NET MVC Web Programming Employee</text>
+<text top="718" left="23" width="505" height="19" font="3">- Use dbForge and webservice to work with database and svn code management.</text>
+<text top="739" left="23" width="310" height="19" font="3">- Use language: c #, jquery, write data query store.</text>
+<text top="760" left="23" width="233" height="19" font="3">- Complete tasks assigned by Leader.</text>
+<text top="780" left="23" width="263" height="19" font="3">- Projects are made:   + vpdt.nhatcuong.vn</text>
+<text top="801" left="23" width="311" height="19" font="3">                                      + solienlacdientu.hnegov.vn</text>
+<text top="822" left="23" width="305" height="19" font="3">                                      + giaoducdientu.hnegov.vn</text>
+<text top="843" left="23" width="281" height="19" font="3">                                      + dienthoaididong.com</text>
+<text top="897" left="34" width="13" height="24" font="4"></text>
+<text top="893" left="63" width="91" height="27" font="2"><b>Education</b></text>
+<text top="965" left="23" width="202" height="19" font="5">College: Information Technology</text>
+<text top="995" left="23" width="488" height="19" font="3">- Programming language:Ruby,  C#, HTML, Javarscript, Jquery, Css, Ajax, LinQ,</text>
+<text top="1016" left="23" width="222" height="19" font="3">EnityFramework, C, C ++, PHP, SQL.</text>
+<text top="1036" left="23" width="236" height="19" font="3">- Object-oriented programming (OOP).</text>
+<text top="1057" left="23" width="496" height="19" font="3">- Has worked with database management systems : SQL Server, MySQL, Oracle.</text>
+<text top="1078" left="23" width="359" height="19" font="3">- Use source code management software: SVN, Bitbucket.</text>
+<text top="1132" left="29" width="21" height="24" font="4"></text>
+<text top="1128" left="63" width="71" height="27" font="2"><b>Activity</b></text>
+<text top="1200" left="23" width="52" height="19" font="5">Member</text>
+<text top="1230" left="23" width="374" height="19" font="3">- When I joined the club I was given additional skills such as:</text>
+<text top="366" left="662" width="13" height="14" font="6"></text>
+<text top="363" left="686" width="74" height="19" font="7">02/01/1995</text>
+<text top="401" left="663" width="11" height="14" font="6"></text>
+<text top="398" left="686" width="30" height="19" font="7">Nam</text>
+<text top="435" left="663" width="11" height="14" font="6"></text>
+<text top="432" left="686" width="78" height="19" font="7">0379918661</text>
+<text top="470" left="663" width="12" height="14" font="6"></text>
+<text top="467" left="686" width="183" height="19" font="7">truongdoxuanbach@gmail.co</text>
+<text top="488" left="686" width="12" height="19" font="7">m</text>
+<text top="523" left="665" width="8" height="14" font="6"></text>
+<text top="520" left="686" width="181" height="19" font="7">Street No. 4 - Quarter 2 - Linh</text>
+<text top="541" left="686" width="171" height="19" font="7">Tay Ward - Thu Duc District</text>
+<text top="576" left="666" width="5" height="14" font="6"></text>
+<text top="573" left="686" width="184" height="19" font="7">https://www.facebook.com/c</text>
+<text top="594" left="686" width="51" height="19" font="7">md0000</text>
+<text top="661" left="646" width="53" height="27" font="8"><b>SKILL</b></text>
+<text top="705" left="646" width="91" height="19" font="7">Working group</text>
+<text top="750" left="646" width="100" height="19" font="7">Problem solving</text>
+<text top="795" left="646" width="98" height="19" font="7">Logical thinking</text>
+<text top="840" left="646" width="185" height="19" font="7">Read materials and self study</text>
+<text top="903" left="646" width="66" height="27" font="8"><b>HOBBY</b></text>
+<text top="948" left="669" width="43" height="19" font="7">Soccer</text>
+<text top="986" left="669" width="38" height="19" font="7">Travel</text>
+<text top="1024" left="669" width="96" height="19" font="7">Listen to music</text>
+<text top="28" left="387" width="488" height="57" font="9"><b>TRƯƠNG ĐỖ XUÂN BÁCH</b></text>
+<text top="25" left="390" width="488" height="57" font="10"><b>TRƯƠNG ĐỖ XUÂN BÁCH</b></text>
+<text top="80" left="749" width="130" height="20" font="11"><b>WEB PROGRAMMER</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="12" size="13" family="ArialMT" color="#aaaaaa"/>
+<text top="0" left="23" width="130" height="19" font="3"> + Ability to code c #.</text>
+<text top="21" left="23" width="110" height="19" font="3"> + Working group.</text>
+<text top="42" left="23" width="115" height="19" font="3">+ Reading English.</text>
+<text top="96" left="31" width="20" height="24" font="4"></text>
+<text top="92" left="63" width="161" height="27" font="2"><b>More Information</b></text>
+<text top="137" left="23" width="545" height="19" font="3">- I hope to have the opportunity to participate and contribute to the development of your</text>
+<text top="158" left="23" width="137" height="19" font="3">company.- Thank you.</text>
+<text top="1236" left="824" width="65" height="15" font="12">© topcv.vn</text>
+</page>
+</pdf2xml>

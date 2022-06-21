@@ -1,0 +1,39 @@
+Nguyen Ha Tuyen
+Email : hatuyen.nguyen.pharm@gmail.com
+https://github.com/hatuyen4994/Statistical-analysis
+Mobile : +33-6-58-79-65-01
+Education
+University of Medecine and Pharmacy
+Ho chi minh, Vietnam
+Bachelor of Pharmacy; GPA: 7.75
+Aug. 2012 – Nov. 2017
+University Paul Sabatier, Toulouse
+Toulouse, France
+Master of clinical pharmacy; GPA: 8.25
+Nov.2017 – Sep. 2018
+Relevant coursework
+Statistics
+Master coursework
+◦ Probability:
+◦ Linear regression model:
+Introduction to Data Science
+MIT Open Courseware
+◦ Optimization model:
+◦ Classiﬁcation model:
+◦ Cluster programming:
+◦ Basic data visualization:
+Introduction to Computer Science
+MIT Open Courseware
+◦ Basic programming with Python:
+◦ Basic algorithm:
+◦ Object-oriented programming:
+Projects
+Data analysis and visualization pipeline: Scripting in Python to analyze and produce graphs from experiment’s
+data
+Skills
+Programming Languages:: Python, Javascript, HTML, CSS
+Version control system:: Git
+Other skills::
+◦ Professional ﬂuency in English, French:
+◦ Good communication:
+◦ Good analytical mindset:

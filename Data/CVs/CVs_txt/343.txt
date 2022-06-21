@@ -1,0 +1,77 @@
+S 
+Huong Vo 
+Back-end Developer 
+Email: huongngocvo2493@gmail.com 
+huongngocvo24@outlook.com 
+Phone: 093 7793326 
+Skype: huongngocvo24 
+Profile  
+My full name’s Huong Ngoc Thi Vo. I’m a back-end developer and my main 
+programing language is Java. One of my career goals is to become a Java expert in 5 – 7 years.  
+I like to read books in my free time to explore new concepts or achieve new 
+knowledge for some area. I can read English documentation and speak pretty well.  
+I define myself as a devoted, ambitious, decisive, self-motivated, friendly and funny 
+person.  
+70%
+50%
+50%
+50%
+50%
+50%
+30%
+40%
+C ORE  JA VA
+E JB 
+S P RI NG 
+F RA ME W ORK
+JA VA S C RI P T
+JQUE RY
+JQUE RY  A JA X
+H T ML 5 A ND 
+C S S  3
+C #
+Dec 2012: I started learnt OOP programing in FPT University and from some tutorials 
+via Internet or e-books. 
+Jan 2015 – May 2015: I joined On-Job-Training in FPT Software. 
+May 2015 – Aug 2015: I was back to the University to finish the three-last semesters 
+and learnt a bit about front-end development like Java Script, JQuery, Ajax, Css, and Html5... 
+Now: I’m last year ungraduated student and I want to challenge myself in real work 
+environment as well as to learn and mature more for 6 months before graduation. 
+Education 
+Hard Skill 
+80%
+70%
+70%
+60%
+50%
+E NGLI S H
+C OMMUNI C A T I ON
+S E LF  S T UDY
+T E A MW ORK
+A DA P T A BI LI T Y
+Soft Skill 
+Catch Animals Game  Position: Team Leader  Tasks: 
+Plan, sketch out project scope and assign task/role.  
+Design project architecture and database. 
+Develop an API to between Server and HTML 5 to synchronize game and users’ data, 
+using jQuery Ajax, Jsonp and servlet, store user-side data in HTML 5 local storages. 
+Support and develop some games pages which access game data in local storages.  
+Support fix bugs and releases.  Number of people in group: 4 members.  Project description: Provide an HTML 5 game which requires register and login for playing game 
+both online and offline, store game data on SQL Server, update game package and synchronize 
+users’ data both automatically and manually, provide admin web page for management, etc…  Customers: Google App Store  Applied technology: Java EJB 3.0, SQL (SQL Server), J-boss 6, HTML, CSS, JQuery, JQuery Ajax, 
+Jsonp.  Duration: From July 2015 – Aug 2015 
+Projects  
+SVN  Position: Web Developer  Tasks: 
+Develop check-out projects modules and controls. Checking out via last revision by 
+default or specific reversion, dates, or all revisions. 
+Develop check-out web pages, show all possible projects and projects information 
+such as last revision, updated date, capacity... 
+Configure initial database from xml file and properties file.  Number of people in group: 22 members.  Project description: Provide SVN tools to check out, commit projects, analyze projects code, and 
+send email…  Customers: FPT Software  Applied technology: Spring Framework, Maven Project, HSQLDB, MVC Architecture, HTML, CSS, 
+Json, Gson…  Duration: From Apr 2015 – May 2015 
+Student Management  Position: Back-end developer  Tasks: 
+Develop triangle generator factory based on user input 
+Develop triangle repository to calculate edges, ratios and recognize shape category, 
+allowing multithread. 
+Develop triangle return results  Number of people in group: Individual.  Project description: build console application provide calculate triangles measurements and 
+kinds.  Customers: homework exercise.  Applied technology: Java Core, Repository Design Pattern  Duration: July 2015 

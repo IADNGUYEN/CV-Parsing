@@ -1,0 +1,171 @@
+December 2014  Now
+AOI Systems Vietnam
+Software Developer
+In Mobile Team, I’m assigned to develop application for iOS and
+Android using social network api such as Facebook, Twitter and
+Google.
+In Web Team, I investigate NodeJS (SailsJS framework) and
+CakePHP to develop my functions that I am  assigned.
+December 2011 
+February 2012
+Hoang Khang Incotech
+Web Developer
+As a developer, I investigate and develop new feature of
+application.
+Full stack development, I’m assigned functions list of website, and
+after that I designed datatase, designed template HTML and
+developed back-end and front-end with .NET MVC
+2012  2014
+University of Science
+Bachelor of Information Technology
+Nguyen Tran Hoan
+DOB
+October 25, 1991
+Gender
+Male
+Phone
+01636927426
+Email
+nguyenhoan2510@gmail.com
+Address
+77/14D Tan Ky Tan Quy Street,Tan Son Nhi Ward, Tan
+Phu District,Ho Chi Minh City, Vietnam
+Website
+https://github.com/luvcjssy
+PROFESSIONAL SUMMARY
+I am passionate about IT and I can quickly learn a new programming language or a new
+technique. For team-working, I am an open-minded individual and I can work well with others
+team-members. I have experience in developing ASP web and mobile app and have good
+understanding about OOP and MVC framework.
+WORK EXPERIENCE
+EDUCATION
+2009  2012
+University of Science
+Diploma of Information Technology
+July 2013
+iOS Programming
+July 2014
+Graphic for Web Developer
+Programming languages  C# (ASP.NET)  Java (Android)  PHP  Objective-C  Ruby
+Frameworks  MVC (ASP.NET)  CakePHP 2.x  Rails  Ionic
+Operating systems  Windows 8  Ubuntu  Mac OSX
+IDE  Virtual studio 2013  Xcode  Android Studio  PHP Storm  Zend Studio  RubyMine  SublimeText
+Database  SQL Server  MySQL
+CERTIFICATIONS AND AWARDS
+SKILLS
+PROJECTS
+PostApp
+(January 2015  June 2015)
+Customer
+AOI Systems VietNam
+Description
+PostApp is a social network application such as Facebook for iOS and
+Android. It is developed for stars in Japan. They can share their topics,
+images, videos and post to Facebook or Twitter.
+Team size
+4
+My position
+Mobile Developer (iOS and Android)
+My responsibility Resolve login function with api.
+Investigate social network and apply it in app (ex: post content on
+Facebook and Twitter, upload video on Youtube)
+Technologies
+used
+Objective-C for iOS 
+Java for Android
+Restful Api
+Facebook SDK
+Twitter SDK
+Google SDK
+Other support 3rd libraries
+Name Card
+(July 2015  September 2015)
+Customer
+AOI Systems VietNam
+Description
+This is product of campany. It is developed for iOS. The app uses camera
+to scan information on business card and store in device.
+Team size
+2
+My position
+Mobile Developer
+My responsibility Do everything
+Technologies
+used
+Objective-C
+Core Data to store data into device
+Tesseract OCR
+Material App Website
+(December, 2015  Now)
+Customer
+AOI Systems VietNam
+Description
+This website for staff in building company. Display schedules and manage
+schedules
+Team size
+4
+My position
+Website Developer
+My responsibility Learn CakePHP to develop show schedule function and create
+new construction with schedules transfer material function.
+Technologies
+used
+CakePHP 2.x framework
+MySQL
+Java Script
+jQuery
+Module auto reply comment on Facebook
+(Some days  in November 2015)
+Customer
+Individual Projects
+Description
+This module is developed for ASP.NET website. It detects which
+comments contain phone number and hide it. With valid comments, It will
+auto like and reply for that comments.
+Team size
+1
+My position
+Website Developer
+My responsibility Do everything.
+Technologies
+used
+ASP.NET MVC
+Facebook SDK
+Java Script
+jQuery
+Module get name of Facebook
+(Some days  in October 2015)
+Customer
+Individual Projects
+Description
+This module is developed on ASP.NET. It gets the name of Facebook and
+post data to T-shirt shop online and show the text of name above t-shirts
+Team size
+1
+My position
+Website Developer
+My responsibility Do everything.
+Technologies
+used
+ASP.NET MVC
+Facebook SDK
+Java Script
+jQuery
+Task Manager Website
+(December 2011  February 2012)
+Customer
+Hoang Khang Incotech
+Description
+Website back-end to CRUD information of staff and their task.
+Team size
+1
+My position
+Website Developer
+My responsibility Do everything.
+Technologies
+used
+ASP.NET MVC
+Entity Framework
+SQL Server
+Java Script
+jQuery

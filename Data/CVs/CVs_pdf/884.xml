@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="13" family="ABCDEE+Cambria" color="#585858"/>
+	<fontspec id="1" size="23" family="ABCDEE+Calibri" color="#ffffff"/>
+	<fontspec id="2" size="15" family="ABCDEE+Calibri" color="#7d96ac"/>
+	<fontspec id="3" size="13" family="ABCDEE+Cambria" color="#636363"/>
+	<fontspec id="4" size="13" family="Symbol" color="#585858"/>
+	<fontspec id="5" size="13" family="Arial" color="#585858"/>
+	<fontspec id="6" size="13" family="ABCDEE+Courier New" color="#585858"/>
+	<fontspec id="7" size="13" family="Times New Roman" color="#585858"/>
+	<fontspec id="8" size="14" family="ABCDEE+Cambria" color="#585858"/>
+<text top="84" left="837" width="3" height="16" font="0"> </text>
+<text top="129" left="92" width="272" height="24" font="1">NGUYEN HUYNH THAO NHI </text>
+<text top="185" left="137" width="72" height="16" font="2">PERSONAL </text>
+<text top="207" left="153" width="56" height="16" font="2">DETAILS </text>
+<text top="181" left="221" width="205" height="16" font="0">DATE OF BIRTH: March 19th, 1994 </text>
+<text top="200" left="221" width="224" height="16" font="0">PLACE OF BIRTH: Tien Giang province </text>
+<text top="219" left="221" width="102" height="16" font="0">GENDER: Female </text>
+<text top="238" left="221" width="478" height="16" font="0">ADDRESS: Ho Chi Minh City,  District 3, Ward 4, 338/19 Nguyen Dinh Chieu street . </text>
+<text top="257" left="221" width="191" height="16" font="0">PHONE NUMBER: 01627628105 </text>
+<text top="276" left="221" width="45" height="16" font="0">EMAIL<a href="mailto:thaonhi9194@gmail.com">: </a></text>
+<text top="276" left="267" width="145" height="16" font="3"><a href="mailto:thaonhi9194@gmail.com">thaonhi9194@gmail.com</a></text>
+<text top="276" left="412" width="3" height="16" font="0"><a href="mailto:thaonhi9194@gmail.com"> </a></text>
+<text top="298" left="137" width="72" height="16" font="2">OBJECTIVE </text>
+<text top="295" left="221" width="603" height="16" font="0">I ‘m looking for job as Android Developer , because I love to work in Software Development, especially in </text>
+<text top="314" left="221" width="576" height="16" font="0">Android Development. I want to create product and feel very exciting when people use my product.  </text>
+<text top="352" left="151" width="58" height="16" font="2">SKILLS &amp; </text>
+<text top="375" left="146" width="62" height="16" font="2">ABILITIES </text>
+<text top="349" left="221" width="322" height="16" font="0">PROGRAMMING LANGUAGES: Java, C#, Ionic Angular JS </text>
+<text top="371" left="221" width="191" height="16" font="0">DATABASES: SQL Server, MySQL </text>
+<text top="393" left="221" width="107" height="16" font="0">ANDROID SKILLS: </text>
+<text top="415" left="248" width="6" height="16" font="4"></text>
+<text top="419" left="254" width="4" height="12" font="5"> </text>
+<text top="415" left="275" width="330" height="16" font="0">App Components: Intents, Activities, Fragments, Services </text>
+<text top="437" left="248" width="6" height="16" font="4"></text>
+<text top="441" left="254" width="4" height="12" font="5"> </text>
+<text top="438" left="275" width="88" height="16" font="0">User Interface: </text>
+<text top="462" left="329" width="8" height="14" font="6">o</text>
+<text top="463" left="337" width="4" height="12" font="5"> </text>
+<text top="460" left="356" width="345" height="16" font="0">Layouts: Linear Layout, Relative Layout, Recycler View, List </text>
+<text top="479" left="356" width="32" height="16" font="0">View </text>
+<text top="503" left="329" width="8" height="14" font="6">o</text>
+<text top="504" left="337" width="4" height="12" font="5"> </text>
+<text top="501" left="356" width="344" height="16" font="0">Input Controls: Buttons, Checkboxes, Radio Buttons, Toggle </text>
+<text top="520" left="356" width="153" height="16" font="0">Buttons, Spinners, Pickers </text>
+<text top="544" left="329" width="8" height="14" font="6">o</text>
+<text top="545" left="337" width="4" height="12" font="5"> </text>
+<text top="542" left="356" width="41" height="16" font="0">Menus </text>
+<text top="566" left="329" width="8" height="14" font="6">o</text>
+<text top="567" left="337" width="4" height="12" font="5"> </text>
+<text top="564" left="356" width="41" height="16" font="0">Toasts </text>
+<text top="586" left="248" width="6" height="16" font="4"></text>
+<text top="590" left="254" width="4" height="12" font="5"> </text>
+<text top="587" left="275" width="252" height="16" font="0">Animation and Graphics: draw with Canvas </text>
+<text top="609" left="248" width="6" height="16" font="4"></text>
+<text top="613" left="254" width="4" height="12" font="5"> </text>
+<text top="610" left="275" width="307" height="16" font="0">Data Storage: SQLite Databases, Network Connection </text>
+<text top="632" left="248" width="6" height="16" font="4"></text>
+<text top="636" left="254" width="4" height="12" font="5"> </text>
+<text top="632" left="275" width="286" height="16" font="0">Third party library: Gson, Glide, MPAndroidChart </text>
+<text top="654" left="248" width="6" height="16" font="4"></text>
+<text top="658" left="254" width="4" height="12" font="5"> </text>
+<text top="655" left="275" width="183" height="16" font="0">Cloud Services: Firebase, Azure </text>
+<text top="677" left="221" width="121" height="16" font="0">ENGLISH: TOEIC 680</text>
+<text top="681" left="343" width="3" height="12" font="7"> </text>
+<text top="699" left="221" width="287" height="16" font="0">OTHER SKILLS: Git Hub, Teamwork, Presentation.</text>
+<text top="698" left="508" width="3" height="18" font="8"> </text>
+<text top="728" left="140" width="69" height="16" font="2">WORKING </text>
+<text top="751" left="127" width="82" height="16" font="2">EXPERIENCE </text>
+<text top="725" left="221" width="593" height="16" font="0">12/2016 – present: Associate Software Engineer at DXC Technology Vietnam (known as: CSC Vietnam) </text>
+<text top="747" left="221" width="594" height="16" font="0">7/2016 – 12/2016: Internship at Posts and Telecommunications Institute of Technology, working with </text>
+<text top="766" left="221" width="40" height="16" font="0">thesis. </text>
+<text top="795" left="142" width="67" height="16" font="2">PROJECTS </text>
+<text top="792" left="221" width="129" height="16" font="0">WORKING PROJECTS: </text>
+<text top="823" left="248" width="4" height="16" font="0">-</text>
+<text top="826" left="253" width="4" height="12" font="5"> </text>
+<text top="823" left="275" width="268" height="16" font="0">Manulife MOVE Hong Kong (Android native) :  </text>
+<text top="842" left="326" width="496" height="16" font="0">Description: an application promotes a healthy lifestyle by enabling members to track </text>
+<text top="861" left="326" width="501" height="16" font="0">their progress against set fitness goals and earn premium discounts. Members can also </text>
+<text top="880" left="326" width="213" height="16" font="0">monitor a range of health indicators. </text>
+<text top="911" left="221" width="133" height="16" font="0">ACADEMIC PROJECTS: </text>
+<text top="942" left="248" width="4" height="16" font="0">-</text>
+<text top="945" left="253" width="4" height="12" font="5"> </text>
+<text top="942" left="275" width="511" height="16" font="0">Event Reminder (Programming Mobile Applications for Android Device subject midterm </text>
+<text top="961" left="275" width="172" height="16" font="0">project - using Java/Android) </text>
+<text top="980" left="329" width="492" height="16" font="0">Description: My first Android project. I completed when studied a subject at school.  I </text>
+<text top="999" left="329" width="476" height="16" font="0">create a small tool to remind the event. User add new event with time, content and </text>
+<text top="1018" left="329" width="485" height="16" font="0">some other information. Tool will notify user at that time. It just a small tool but it is </text>
+<text top="1037" left="329" width="299" height="16" font="0">good chance for me to learn Android Programming. </text>
+<text top="1056" left="329" width="3" height="16" font="0"> </text>
+<text top="1075" left="248" width="4" height="16" font="0">-</text>
+<text top="1078" left="253" width="4" height="12" font="5"> </text>
+<text top="1075" left="275" width="549" height="16" font="0">Snake Game (Programming Mobile Applications for Android Device subject final project - using </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="1117" left="54" width="45" height="18" font="8">Page 2 </text>
+<text top="81" left="275" width="86" height="16" font="0">Java/Android) </text>
+<text top="101" left="329" width="481" height="16" font="0">Description: At the end time of  subject with Event Reminder. I create a small game, </text>
+<text top="120" left="329" width="488" height="16" font="0">because of requirement of teacher. The game doesn’t used any technology or library, </text>
+<text top="139" left="329" width="152" height="16" font="0">just Android native codes. </text>
+<text top="157" left="329" width="3" height="16" font="0"> </text>
+<text top="177" left="248" width="4" height="16" font="0">-</text>
+<text top="180" left="253" width="4" height="12" font="5"> </text>
+<text top="177" left="275" width="529" height="16" font="0">Task Management System (Thesis - The project consisted of Android app, RESTful Web API, </text>
+<text top="195" left="275" width="542" height="16" font="0">Structured Database, using Java, C# programming language, SQL Server. RESTful Web API and </text>
+<text top="215" left="275" width="401" height="16" font="0">Structured Database components were deployed on Microsoft Azure) </text>
+<text top="246" left="325" width="493" height="16" font="0">Description: Project is my thesis and the largest Android program I have ever done. It </text>
+<text top="264" left="325" width="466" height="16" font="0">is a system with several component. Android application as a user interface, web </text>
+<text top="283" left="325" width="483" height="16" font="0">service as the back-end for processing user’s request and the structure database for </text>
+<text top="302" left="325" width="483" height="16" font="0">storing data. Users are classified as Director, Project Leader and Employee. Director </text>
+<text top="321" left="325" width="499" height="16" font="0">can creates new project or new task. Project Leader can create new task and assign for </text>
+<text top="341" left="325" width="477" height="16" font="0">employee, who join project. Employee can update status of task. Tasks are done by </text>
+<text top="359" left="325" width="502" height="16" font="0">Employee, will wait for approval of Project Leader to finished. Every task has a priority </text>
+<text top="379" left="325" width="499" height="16" font="0">in “Low”, “High” and “Critical”. Web service and database components are deployed on </text>
+<text top="397" left="325" width="98" height="16" font="0">Microsoft Azure. </text>
+<text top="428" left="248" width="4" height="16" font="0">-</text>
+<text top="432" left="253" width="4" height="12" font="5"> </text>
+<text top="428" left="275" width="303" height="16" font="0">Student 's Score Management Program ( Using C++ ) </text>
+<text top="448" left="329" width="417" height="16" font="0">Description: It is my first programming project. In this project, I use C++ </text>
+<text top="466" left="329" width="488" height="16" font="0">programming language to implement a tool for managing score of students. It allows </text>
+<text top="485" left="329" width="458" height="16" font="0">user add name of student, name of subjects, score of students, user also update, </text>
+<text top="504" left="329" width="475" height="16" font="0">delete, insert above information in existed data. I use C++ to implement some data </text>
+<text top="523" left="329" width="484" height="16" font="0">structure like: linked list, array, method along with these data structure and graphic </text>
+<text top="542" left="329" width="85" height="16" font="0">user interface. </text>
+<text top="561" left="329" width="3" height="16" font="0"> </text>
+<text top="580" left="248" width="4" height="16" font="0">-</text>
+<text top="583" left="253" width="4" height="12" font="5"> </text>
+<text top="580" left="275" width="356" height="16" font="0">Bookstore Website (using Java, HTML, CSS, MySQL database ) </text>
+<text top="599" left="329" width="475" height="16" font="0">Description: It is the project of Web Development subject. In this project I use Java </text>
+<text top="618" left="329" width="483" height="16" font="0">language with JSP/Servlet technology to create an online bookstore. Website shows </text>
+<text top="637" left="329" width="495" height="16" font="0">books, price of books, detail information of a book when user click on it, it allows user </text>
+<text top="656" left="329" width="488" height="16" font="0">add book to cart and carry out the payment process. All interactions of user is stored </text>
+<text top="675" left="329" width="459" height="16" font="0">in MySQL database. In front end, I use HTML/CSS to create interface of website. </text>
+<text top="694" left="329" width="3" height="16" font="0"> </text>
+<text top="713" left="248" width="4" height="16" font="0">-</text>
+<text top="717" left="253" width="4" height="12" font="5"> </text>
+<text top="713" left="275" width="545" height="16" font="0">Research Framework Struts 2 and Develop a Bookstore Website. (Science Research project for </text>
+<text top="732" left="275" width="173" height="16" font="0">students. Using Java, MySQL ) </text>
+<text top="751" left="329" width="497" height="16" font="0">Description: This project was developed from Bookstore Website. My task is  research </text>
+<text top="770" left="329" width="490" height="16" font="0">Struts 2 web- framework and use it to develop my Bookstore Website. This project is </text>
+<text top="789" left="329" width="491" height="16" font="0">the product of the  Science Research Project (SRP) . I separate the SRP into two parts. </text>
+<text top="808" left="329" width="460" height="16" font="0">The product of the first part is Bookstore Website. The second part ‘s product is </text>
+<text top="827" left="329" width="196" height="16" font="0">Bookstore website using Struts 2. </text>
+<text top="846" left="329" width="3" height="16" font="0"> </text>
+<text top="865" left="248" width="4" height="16" font="0">-</text>
+<text top="868" left="253" width="4" height="12" font="5"> </text>
+<text top="865" left="275" width="521" height="16" font="0">Library Management Software (Database Management System subject final project - using </text>
+<text top="884" left="275" width="189" height="16" font="0">C#/Windows Form, SQL Server) </text>
+<text top="903" left="329" width="471" height="16" font="0">Description: This project is also a subject project. I use C# programming language </text>
+<text top="922" left="329" width="438" height="16" font="0">with windows form. The program allows user add, insert, update and delete </text>
+<text top="941" left="329" width="446" height="16" font="0">information of books, categories, borrowers, borrow tickets, lenders…. At the </text>
+<text top="960" left="329" width="495" height="16" font="0">database section, I use SQL Server because of requirement of teacher and create Store </text>
+<text top="979" left="329" width="302" height="16" font="0">Procedure, Trigger, Transaction  for processing data.</text>
+<text top="978" left="632" width="3" height="18" font="8"> </text>
+<text top="1017" left="128" width="81" height="16" font="2">EDUCATION </text>
+<text top="1014" left="221" width="435" height="16" font="0">2009 – 2012 : Nguyen Thi Minh Khai Highshool, District 3, Ho Chi Minh city </text>
+<text top="1045" left="221" width="609" height="16" font="0">2012 – now:  Senior student of Posts and Telecommunications Institute of Technology, Ho Chi Minh city -  </text>
+<text top="1064" left="221" width="300" height="16" font="0">Specialization: Software Engineering - GPA: 7.92/10</text>
+<text top="1063" left="521" width="3" height="18" font="8"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="1117" left="54" width="45" height="18" font="8">Page 3 </text>
+<text top="88" left="156" width="53" height="16" font="2">HOBBIE </text>
+<text top="86" left="221" width="315" height="16" font="0">Reading book, playing game, going out with my friends</text>
+<text top="85" left="536" width="6" height="18" font="8">. </text>
+<text top="124" left="81" width="3" height="18" font="8"> </text>
+</page>
+</pdf2xml>

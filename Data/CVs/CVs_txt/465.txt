@@ -1,0 +1,234 @@
+ 
+Nguyen Van Quang 
+Senior Software Developer 
+1/5 
+Nguyen Van Quang 
+Project Manager 
+Senior Software Developer 
+Tel: 0986518238 
+Email: quangnv.itpc@yahoo.com 
+SUMMARY 
+5-year experience of developing Android application. 
+3-year experience of developing games for Android/iOS and other platforms using Unity 
+4-year experience of designing and architecting network infrastructure. 
+1-year experience of developing web application (frontend and backend) 
+1-year experience of developing network/socket application. 
+WHAT I CAN DO 
+Develop Android app and game by using Android Studio and Unity 
+Develop game for multiple platform using Unity: Android, iOS, HTML5, Windows Phone, PS4, Xbox, Tizen, Fire 
+OS … 
+Communicate directly with customer in English for getting requirements, making proposals and everything 
+related to the project. 
+Leading and training team members. 
+Project management, planning and resources management. 
+Experienced in designing network, setting up and maintaining CentOS servers.  
+TECHNICAL SKILLS 
+Operation 
+Systems: 
+Windows, Ubuntu, CentOS, MAC OSX, Android, Windows Phone 8. 
+Databases: 
+MySQL, SQLite, Realm.io 
+Languages: 
+C/C++/C#, Java, Javascript, XML, XAML, SQL, PHP, Ruby, HTML, CSS 
+Development 
+Tools: 
+Unity 2D/3D, Android Studio, Visual Studio, Eclipse, Netbean, Subversion, LAMP, 
+WAMP, Google App Engine. 
+Git 
+Game 
+Development 
+Framework: 
+ORK Framework for Unity, Honey Hex Framework for Unity. 
+Productivity 
+Tools: 
+MS Office, MS Project, MS Visio, Adobe Acrobat Professional 
+Management 
+tools 
+Jira, Redmine. 
+Soft Skills:  
+Nguyen Van Quang 
+Senior Software Developer 
+2/5 
+Communication & Management 
+TOEFL iBT certified 
+EDUCATION 
+2007-2011 
+TROY UNIVERSITY – Main campus: 600 University Ave, Troy, AL 36082, United States 
+HCMC campus: 180 Cao Lỗ, Ward 4, District 8,, HCMC, Vietnam 
+Bachelor of Applied Computer Science 
+2002-2004 
+UNIVERSITY OF SCIENCE – 227 Nguyễn Văn Cừ, District 5, HCMC, Vietnam 
+Bachelor of Information Technology. 
+Key Skills 
+Proficient with English and Information Technology: 
+English proficiency with TOEFL iBT certified (80 pts) 
+Knowledge in: 
+o 
+Unity 2D/3D Game Development (experienced) 
+o 
+Java and Android Development (experienced) 
+o 
+PHP and Web Development (experienced) 
+o 
+Javascript, JQuery, and Ajax 
+o 
+MySQL 
+o 
+Web Service 
+o 
+C/C++ 
+o 
+Windows Phone 8 (intermediate) 
+Professional level of knowledge in Computer Network and Information Technology: 
+o 
+CCNA Certified 
+o 
+CQS-CFS Firewall Specialist 
+o 
+SNRS Secure Computer Network 
+o 
+IPS Intrusion Prevention System 
+Familiar with Windows/Ubuntu/CentOS. Experienced in setup and deploying CentOS-based server. 
+Can handle all kind of problems (technology related, as a R&D team member and System Integrator) 
+Programming Skills 
+Java: 
+o 
+Core Java 
+o 
+Network/Socket Programming 
+Unity 2D/3D game development 
+Android 
+o 
+SDK 
+o 
+C and JNI 
+o 
+Web Service (KSOAP/RESTful) 
+PHP 
+o 
+Familiar with Code Igniter framework, MVC model 
+o 
+Streaming video using HTML5/Flash 
+C/C++ 
+o 
+Network/Socket Programming 
+C# (Windows Phone 8  intermediate) 
+Nguyen Van Quang 
+Senior Software Developer 
+3/5 
+PROFESSIONAL EXPERIENCE  
+ARIS VIETNAM– HCMC, Vietnam 
+Project Manager  Senior Android Developer, 12/2015 to present 
+Lead Unity team for creating 2D/3D games:  
+o 
+Iine Zombie (preparing to uploading to store, client: NANAME Co. ltd, Japan) 
+o 
+Monopoly (not published to Play Store yet) 
+o 
+Magic: Tale of seven rings (during development) 
+o 
+Abbot Similac games event (event game, not published to Store) 
+Maintenance MediaPlayer project from Memory-Tech Corp, Japan. 
+Key Results: 
+Got positive feedback customer. 
+LARION COMPUTING– HCMC, Vietnam 
+Project Manager  Senior Android Developer, 1/2014 to 12/2015 
+Join DENSO Car Automation project, using Bluetooth Low Energy as communication protocol. Developing 
+BLE Security software for receiving data and controlling the car from app. 
+Project Manager for Mobile Android apps: Social Network Apps, Agento Real Estate, SnappCV ... 
+Key Results: 
+Got positive feedback customer. 
+FPT SOFTWARE– HCMC, Vietnam 
+Senior Android Developer, 9/2012 to 1/2014 
+Technical Lead for Android SmartTV  SetTopBox projects from Toshiba. Develop social network app on 
+Android SmartTV-SetTopBox: Chat, Image sharing, COOP Online shopping ... 
+Lead Android team to develop BookPlace(using native libs from ACCESS Company, JP http://www.access-
+company.com) eBook Cloud App on Android for Toshiba (BookPlace http://bookplace.jp).  
+Joined developer team to develop Reader App for BookPlace Mono (similar to Amazon Kindle eInk version), 
+Japan market. 
+Key Results: 
+Got positive feedback from Toshiba and customers, acquired another project (on-going) from Toshiba. 
+NAHI JSC– HCMC, Vietnams 
+http://nahi.vn/ 
+Software Developer, 11/2011 to 9/2012 
+Developed multimedia web applications and web services for Android. 
+Developed customized VoIP service based on both open source and custom implementation (from scratch). 
+Developed VoIP clients for Android. 
+Key Results: 
+Successful to implement multimedia web applications and services which has more than 10.000 customers (at 
+this moment, still growing). 
+Successfully developed VoIP system which is used as based communication network for internal use (inside 
+company) and for sales activity (e.g. communicate with customer) 
+Nguyen Van Quang 
+Senior Software Developer 
+4/5 
+SAIGON INSTITUTE FOR TECHNIQUES AND TECHNOLOGY (SAIGONCTT)– HCMC, Vietnam 
+http://www.saigonctt.com.vn/eng/aboutus 
+Technical Team Leader, 2/2005 to 7/2007 
+Designed and implement network topology in the lab according to training course’s requirements, including 
+VoIP system for mobile devices. 
+Developed tool (Apollo packet forger) to support for TCP/IP and Security courses (using C and WinPCAP 
+library). 
+Transfer required knowledge to Instructors to handle the lab. 
+Key Results: 
+Successful to design/implement network system at small/medium scale. 
+Got positive feedback from Instructors about developed tool.  
+NOTABLE PROJECTS 
+BookPlace for 
+Android  
+BookPlace Mono 
+BookPlace on Android. Link: 
+https://play.google.com/store/apps/details?id=com.toshiba.ebook.reader 
+BookPlace for BookPlace Mono: similar to Amazon Kindle. Bundled on BookPlace Mono. 
+Cannot be installed on other devices (phone, tablet…). Link: 
+http://www.eink.com/customer_showcase_bookplace_mono.html 
+Iine Zombie  
+Monopoly  
+Magic: Tale of 
+seven rings 
+Abbot Similac 
+games event  
+Casual game, targeting young woman (preparing to uploading to store, client: NANAME 
+Co. ltd, Japan, PlayStore/AppStore link will be updated later). 
+Chess game, supporting multiple play mode: player vs. AI, player vs. player ((not 
+published to Play Store yet. Link will be updated later) 
+3D fantasy game. During development. Demo is available. 
+Series of games for Similac Game Event. Not available online. 
+MediaPlayer 
+Media player project for Android from Memory-Tech Corp.  
+NAHI Voice Proxy 
+Server 
+NAHI Voice Client 
+VoIP Proxy Server (similar to OpenSIPS and Kamailio but simpler), using Java. 
+VoIP Client (similar to Viber and Skype, also simpler) on Android using Android SDK. 
+NAHI Softphone 
+VoIP SIP Client (using the open source CSipSimple) for use with Asterisk. Preinstalled 
+on NAHI devices. Link for reference: 
+https://play.google.com/store/apps/details?id=com.nahi 
+Nguyen Van Quang 
+Senior Software Developer 
+5/5 
+Asterisk Server 
+Compile and build Asterisk from source. 
+Deploy ARA (Asterisk Real-time Architecture) which is capable to support more than 
+50.000 VoIP users, using MySQL as database. 
+Integrate with Active Directory to authenticate users. 
+NAHI Cloud 
+CuaHangPhim.com 
+Chinese 
+Easylearn 
+Dropbox-like service to provide cloud storage for NAHI’s customers. Based on 
+OwnCloud open source project.Supports web based and Android client. Instant Upload 
+(for images) also supported on Android devices with camera. 
+Online film web service, using PHP (Code Igniter framework). Using various techniques: 
+Ajax, JQuery, HTML5, and Flash ….Deployed on CentOS using LAMP stack by myself. 
+Database: mySQL 5.4 (also designed and deployed by myself) 
+Android app to teach user Mandarin Chinese. Projects include Audio, Animation (GIF), 
+Web service to authenticate/provide content on request, MySQL, PayPal Payment 
+Library for Android. 
+Suspended due to server cost (its free). Planned to resume in near future, using GAE to 
+reduce cost 
+Apollo Packet 
+Forger 
+Packet forger tool, penetration testing tool. Send frame and packet over Ethernet and 
+TCP/IP, from layer 2 up to layer 7. 

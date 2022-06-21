@@ -1,0 +1,67 @@
+1 | 
+P a g e
+Hemendra Kr Vaishnav 
+Phone: 
++91-9828777748 
+Address:         6/357, Malviya Nagar,  
+Jaipur (Raj.)  302017 
+Email: 
+Hemendra24@hotmail.com 
+I am proactive and fast learning individual seeking an opportunity to work as a Statistician, data analyst/ scientist 
+utilizing Statistical and Computational skills to help the organization in achieving goals. 
+EXPERIENCE 
+Chegg India (Remote)                                                                                                 May 2017 – till now 
+Subject Matter Expert  
+Associated with different statistical projects. 
+Did statistical analysis of data and made inferences about it. 
+Made reports based on statistical/ quantitative analysis. 
+PROJECTS 
+Forecasting Annual GDP Growth Rate of Israel: A time series Analysis       Jan 2018 – May 2018 
+Project aims to forecast annual GDP growth rate of Israel. 
+Worked on the seasonality of data so our model will give more accurate results. 
+Built an ARIMA Model to forecast the annual GDP growth rate. 
+Statistical process and product control                                                                                              Jan 2016 – May 2016 
+Project aims to develop a techniques using H-Spread algorithm to check the quality characteristics under  
+Non – normal parent process distribution. 
+Statistically examine the process based upon specific control charts and CPI indices.  
+Analyzed the data and made valuable insights using this technique. 
+CONFERENCES & WORKSHOPS 
+Attended a national conference on “National Conference on Recent Advances in Statistics with Application in 
+Finance and Actuarial Science” at Central university of Rajasthan, Ajmer.  
+Attended one day workshop on “Creating Awareness about Official Statistics in India” conducted by MOSPI, 
+Govt. of India. 
+CERTIFICATIONS 
+Statistics in Business – I (Via Edx.org) 
+Indian Institute of Management, Bangalore  
+I Heart Stats: Learning to Love Statistics (Via Edx.org) 
+University of Norte Dame 
+Explore Statistics with R (Via Edx.org)  
+Karolinska Institutet  
+2 | 
+P a g e
+Participated in Ist INTERNATIONAL EQUANIMITY OLYMPIAD – 2015 
+West Zone Cricket Player 
+Represented university at west zone cricket championship, session 2015-16 
+EDUCATION 
+Banaras Hindu University    
+Masters’ in Statistics & Computing                                                                                 July 2016- May 2018  
+GPA: 7.1/10  
+Central University of Rajasthan                                                                             July 2013- June 2016 
+Bachelor of Science (Hons.) in Statistics 
+Grade: A  
+TECHNICAL SKILLS 
+Programming Languages                                                                         
+C                                                                           
+R   
+SAS  
+Tools 
+SPSS   
+Microsoft Excel    
+Microsoft Word    
+Microsoft Power point  
+Platform Used  
+Windows  
+Declaration  
+I hereby declare that above information is correct to the best of my knowledge and belief.  
+Date: 1- Aug- 2018                                                                                                                                    
+Place: Jaipur                                                                                                                          Hemendra kumar vaishnav 

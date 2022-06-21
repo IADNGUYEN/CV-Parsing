@@ -1,0 +1,56 @@
+DUONG THANH DAT 
+Date of birth      May 20, 1996 
+Gender 
+Male 
+Phone 
+0905043065 
+Email 
+dat96205@gmail.com 
+Address 
+Ho Chi Minh, Vietnam 
+OBJECTIVE 
+My major is in Computer Engineering and I really want to find the internship program that relates to my major. 
+So, I would like to apply for field Embedded Systems or IoT at TMA Solutions company. With my passion, I 
+always hope for the opportunity to intern and to work in your company.  
+I hope that I can meet your requirements. 
+EDUCATION 
+2014  2017 
+Ho Chi Minh City University of Technology and Education 
+Major: Computer Engineering 
+GPA: 3/4 
+AWARDS 
+2014  2016                                I have gotten three sholarships in my university. 
+ACTIVITIES 
+June 2015 
+I participated in Green Summer Volunteer campaign. 
+SKILLS 
+Language 
+English 
+Programming languages 
+1. C/C++ 
+2. JAVA, VHDL 
+Others 
+Team-working, work independently, self-learning skills and 
+communication skills. 
+INTERESTS 
+I like to music, read books, drink coffee and write code.
+PROJECTS 
+Smart Door Locks (2017) 
+Description 
+This is a protective device for the home to avoid thefts. 
+Open the door with RFID cards or voice via the phone app. 
+Send door status alerts to phone app, apply with IOT technology. 
+Team size 
+2 
+My responsibilities  Analysis and design  Write code  Optimize code  Bug Fixing 
+Technologies used  Android Studio , Keil uVision5  Java, C 
+Microcontrollers  ARM STM32F103C8T6  AMR KL46Z 
+Bicycle Users Tracking Device (2016) 
+Description 
+This is the device that calculates the velocity, time and distance traveled of 
+bicycle users. Then, deduce the amount of calories consumed. 
+Team size 
+3 
+My responsibilities  Analysis and design  Write code  Optimize code  Bug Fixing 
+Technologies used  Android Studio , Keil uVision5  Java, C 
+Microcontrollers  ARM STM32F103C8T6 

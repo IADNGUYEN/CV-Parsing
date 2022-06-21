@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="40" family="Roboto-Medium" color="#555555"/>
+	<fontspec id="1" size="21" family="ArialUnicodeMS" color="#555555"/>
+	<fontspec id="2" size="21" family="ArialUnicodeMS" color="#00b9f2"/>
+	<fontspec id="3" size="29" family="Roboto-Medium" color="#00b9f2"/>
+	<fontspec id="4" size="21" family="ArialUnicodeMS" color="#000000"/>
+<text top="172" left="106" width="238" height="47" font="0">Nhan Thien</text>
+<text top="172" left="105" width="238" height="47" font="0">Nhan Thien</text>
+<text top="229" left="106" width="428" height="29" font="1">Data Analyst | Male | Single | 19 December</text>
+<text top="260" left="106" width="50" height="29" font="1">1988</text>
+<text top="333" left="106" width="110" height="29" font="1">Experience</text>
+<text top="333" left="336" width="86" height="29" font="1">3 years</text>
+<text top="333" left="335" width="86" height="29" font="1">3 years</text>
+<text top="367" left="106" width="161" height="29" font="1">Latest company</text>
+<text top="367" left="336" width="102" height="29" font="1">Yomedia</text>
+<text top="367" left="335" width="269" height="29" font="1">Yomedia  as Data Analyst</text>
+<text top="402" left="106" width="183" height="29" font="1">Highest education</text>
+<text top="402" left="336" width="116" height="29" font="1">Bachelors</text>
+<text top="402" left="335" width="116" height="29" font="1">Bachelors</text>
+<text top="437" left="106" width="109" height="29" font="1">Languages</text>
+<text top="437" left="336" width="85" height="29" font="1">English</text>
+<text top="437" left="335" width="234" height="29" font="1">English - Intermediate</text>
+<text top="471" left="106" width="54" height="29" font="1">Email</text>
+<text top="471" left="336" width="307" height="29" font="2"><a href="mailto:hothiennhanit@gmail.com">hot hiennhanit @gmail.com</a></text>
+<text top="471" left="335" width="307" height="29" font="2"><a href="mailto:hothiennhanit@gmail.com">hot hiennhanit @gmail.com</a></text>
+<text top="506" left="106" width="62" height="29" font="1">Phone</text>
+<text top="506" left="336" width="147" height="29" font="1">0966012989</text>
+<text top="506" left="335" width="147" height="29" font="1">0966012989</text>
+<text top="540" left="106" width="82" height="29" font="1">Address</text>
+<text top="540" left="336" width="426" height="29" font="1">97/2 Ung Văn Khiêm,Binh T hanh,H o</text>
+<text top="540" left="335" width="426" height="29" font="1">97/2 Ung Văn Khiêm,Binh T hanh,H o</text>
+<text top="571" left="336" width="156" height="29" font="1">Chi Minh Cit y</text>
+<text top="571" left="335" width="156" height="29" font="1">Chi Minh Cit y</text>
+<text top="621" left="106" width="175" height="29" font="1">Preferred working</text>
+<text top="652" left="106" width="79" height="29" font="1">location</text>
+<text top="621" left="336" width="119" height="29" font="1">Ho Chi Minh</text>
+<text top="687" left="106" width="37" height="29" font="1">Job</text>
+<text top="718" left="106" width="192" height="29" font="1">industries/functions</text>
+<text top="687" left="336" width="283" height="29" font="1">IT - Software | IT - Software</text>
+<text top="752" left="106" width="183" height="29" font="1">Expected job level</text>
+<text top="752" left="336" width="275" height="29" font="1">Experienced (non-manager)</text>
+<text top="787" left="106" width="161" height="29" font="1">Expected salary</text>
+<text top="818" left="106" width="60" height="29" font="1">(USD)</text>
+<text top="787" left="336" width="37" height="29" font="1">100</text>
+<text top="853" left="106" width="167" height="29" font="1">Preferred benefit</text>
+<text top="932" left="106" width="150" height="35" font="3">SUMMARY</text>
+<text top="992" left="106" width="613" height="29" font="1">I want to get  challenges , a new technology. Such as: Natural</text>
+<text top="1023" left="106" width="674" height="29" font="1">Languague Processing, Recommendation Systems, AI ,Deeplearing</text>
+<text top="1" left="51" width="6" height="29" font="4"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="74" left="106" width="629" height="29" font="1">for NLP (LSTM) .  Data minning, Data analyst, Data sciencetist.</text>
+<text top="105" left="106" width="648" height="29" font="1">Striving to become the product manager. Learn more things when</text>
+<text top="136" left="106" width="631" height="29" font="1">working in companies to accumulate much experience for future</text>
+<text top="167" left="106" width="632" height="29" font="1">promotion.  Mobility Developer (iOS-Android) Business Analysis </text>
+<text top="198" left="106" width="598" height="29" font="1">Recommendation System Big Data - Socail Network Analyst</text>
+<text top="240" left="106" width="149" height="29" font="1">Python - Flask </text>
+<text top="281" left="106" width="382" height="29" font="1">Have some sample project on Github :</text>
+<text top="312" left="106" width="345" height="29" font="1">https://github.com/NhanThien/VRA</text>
+<text top="354" left="106" width="653" height="29" font="1">RestAPI using DeepLearing (CNN) to classification image (nude &amp;</text>
+<text top="385" left="106" width="558" height="29" font="1">not_nude) : https://github.com/NhanThien/RestAPIKeras</text>
+<text top="474" left="106" width="77" height="35" font="3">SKILL</text>
+<text top="535" left="130" width="103" height="29" font="1">Developer</text>
+<text top="566" left="130" width="49" height="29" font="1">Java</text>
+<text top="597" left="130" width="167" height="29" font="1">Business Analyst</text>
+<text top="628" left="130" width="46" height="29" font="1">PHP</text>
+<text top="659" left="130" width="36" height="29" font="1">iOS</text>
+<text top="690" left="130" width="185" height="29" font="1">English Proficiency</text>
+<text top="721" left="130" width="226" height="29" font="1">Business Development</text>
+<text top="752" left="130" width="64" height="29" font="1">Mobile</text>
+<text top="783" left="130" width="75" height="29" font="1">Android</text>
+<text top="815" left="130" width="70" height="29" font="1">Python</text>
+<text top="846" left="130" width="96" height="29" font="1">Insurance</text>
+<text top="877" left="130" width="53" height="29" font="1">Pl/sql</text>
+<text top="908" left="130" width="144" height="29" font="1">iOS Developer</text>
+<text top="939" left="130" width="202" height="29" font="1">Mobile Development</text>
+<text top="970" left="130" width="36" height="29" font="1">Jira</text>
+<text top="1001" left="130" width="51" height="29" font="1">Zend</text>
+<text top="1" left="51" width="6" height="29" font="4"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="74" left="130" width="177" height="29" font="1">Business Analysis</text>
+<text top="105" left="130" width="133" height="29" font="1">Data Science</text>
+<text top="136" left="130" width="195" height="29" font="1">English &amp; Japanese</text>
+<text top="167" left="130" width="145" height="29" font="1">IT - Phần Mềm</text>
+<text top="198" left="130" width="64" height="29" font="1">Xcode</text>
+<text top="229" left="130" width="125" height="29" font="1">Android, iOS</text>
+<text top="260" left="130" width="115" height="29" font="1">- Phân Tích</text>
+<text top="291" left="130" width="192" height="29" font="1">Javascript - Jquery</text>
+<text top="322" left="130" width="459" height="29" font="1">English : Listening, Speaking, Reading, Writing</text>
+<text top="354" left="130" width="344" height="29" font="1">Data Analysis &amp; Statistic Software</text>
+<text top="385" left="130" width="94" height="29" font="1">Mind Map</text>
+<text top="416" left="130" width="299" height="29" font="1">GUI Design / Software Design</text>
+<text top="447" left="130" width="262" height="29" font="1">English Verbal and Written</text>
+<text top="478" left="130" width="334" height="29" font="1">Credit Lending, Risk Management</text>
+<text top="509" left="130" width="167" height="29" font="1">Knowledge Of IT</text>
+<text top="540" left="130" width="242" height="29" font="1">- Software Development</text>
+<text top="571" left="130" width="86" height="29" font="1">.NET C#</text>
+<text top="603" left="130" width="460" height="29" font="1">Developer, Business Analyst, Project Manager</text>
+<text top="634" left="130" width="321" height="29" font="1">Software Engineer, QA Engineer</text>
+<text top="665" left="130" width="140" height="29" font="1">Data Scientist</text>
+<text top="696" left="130" width="161" height="29" font="1">ERP, Sms, SCM</text>
+<text top="727" left="130" width="343" height="29" font="1">MS Dynamic, Navision, AX Or SAP</text>
+<text top="758" left="130" width="367" height="29" font="1">Product Evaluation and Development</text>
+<text top="789" left="130" width="376" height="29" font="1">Product Marketing &amp; Opcos Marketing</text>
+<text top="820" left="130" width="58" height="29" font="1">Dbms</text>
+<text top="851" left="130" width="75" height="29" font="1">Beacon</text>
+<text top="883" left="130" width="438" height="29" font="1">Computer Science - Information Technology</text>
+<text top="914" left="130" width="179" height="29" font="1">Lập Trình iOS Sdk</text>
+<text top="945" left="130" width="322" height="29" font="1">Lập Trình Giao Diện Trên iPhone</text>
+<text top="976" left="130" width="110" height="29" font="1">IT Sofware</text>
+<text top="1007" left="130" width="187" height="29" font="1">Process and Policy</text>
+<text top="1" left="51" width="6" height="29" font="4"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="5" size="22" family="ArialUnicodeMS" color="#555555"/>
+	<fontspec id="6" size="21" family="Roboto-Medium" color="#555555"/>
+<text top="74" left="130" width="215" height="29" font="1">DB Management SQL</text>
+<text top="163" left="106" width="266" height="35" font="3">WORK EXPERIENCE</text>
+<text top="222" left="106" width="162" height="30" font="5">May 2018 - Now</text>
+<text top="257" left="106" width="149" height="26" font="6">Dat a Analyst</text>
+<text top="257" left="105" width="149" height="26" font="6">Dat a Analyst</text>
+<text top="288" left="106" width="88" height="29" font="1">Yomedia</text>
+<text top="329" left="106" width="636" height="29" font="1">I apply Machine Learning for resolve problem business, such as :</text>
+<text top="361" left="106" width="572" height="29" font="1">text classification , topic modeling and demographic user.</text>
+<text top="429" left="106" width="214" height="30" font="5">Dec 2016 - May 2018</text>
+<text top="463" left="106" width="219" height="26" font="6">Sof t ware Engineer</text>
+<text top="463" left="105" width="219" height="26" font="6">Sof t ware Engineer</text>
+<text top="494" left="106" width="203" height="29" font="1">MediaStep Software</text>
+<text top="562" left="106" width="213" height="30" font="5">Nov 2015 - Dec 2016</text>
+<text top="597" left="106" width="334" height="26" font="6">Senior iOS Mobile Developer</text>
+<text top="597" left="105" width="334" height="26" font="6">Senior iOS Mobile Developer</text>
+<text top="628" left="106" width="128" height="29" font="1">Keaz Pty Ltd</text>
+<text top="669" left="106" width="579" height="29" font="1">Phát triển ứng dụng KeazAccess (iOS) Phát triển ứng dụng</text>
+<text top="700" left="106" width="596" height="29" font="1">EDNAVALET (iOS)  : http://www.ednavalet.com/ (release on</text>
+<text top="732" left="106" width="525" height="29" font="1">AppStore) Phát triển ứng dụng Taxi like Uber - Grab  </text>
+<text top="849" left="106" width="164" height="35" font="3">EDUCATION</text>
+<text top="908" left="106" width="190" height="30" font="5">Jul 2018 - Jul 2018</text>
+<text top="943" left="106" width="519" height="26" font="6">Art if ic ial I nt elligenc e and Mac hine Learning</text>
+<text top="943" left="105" width="519" height="26" font="6">Art if ic ial I nt elligenc e and Mac hine Learning</text>
+<text top="974" left="106" width="254" height="29" font="1">Others - Đại học Tân Tạo</text>
+<text top="1015" left="106" width="634" height="29" font="1">Khoá học hè về Trí tuệ nhân tạo và học máy (Summer school on</text>
+<text top="1" left="51" width="6" height="29" font="4"> </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="74" left="106" width="428" height="29" font="1">Artificial Intelligence and Machine Learning)</text>
+<text top="115" left="106" width="356" height="29" font="1">Thời gian: 9 – 13 tháng 7 năm 2018.</text>
+<text top="146" left="106" width="475" height="29" font="1">Địa điểm: Đại học Tân Tạo – Đức Hoà, Long An</text>
+<text top="177" left="106" width="450" height="29" font="1">Đơn vị tổ chức: Khoa Kỹ Thuật – ĐH Tân Tạo</text>
+<text top="208" left="106" width="428" height="29" font="1">http://soe.ttu.edu.vn/summer_school/1758/</text>
+<text top="277" left="106" width="211" height="30" font="5">Sep 2017 - Nov 2017</text>
+<text top="311" left="106" width="466" height="26" font="6">VRA -  Nhận Dạng T hị Giác  Và Ứ ng Dụng</text>
+<text top="311" left="105" width="466" height="26" font="6">VRA -  Nhận Dạng T hị Giác  Và Ứ ng Dụng</text>
+<text top="342" left="106" width="511" height="29" font="1">Others - University of Information Technology - UIT</text>
+<text top="384" left="106" width="349" height="29" font="1">Development Image Classification </text>
+<text top="446" left="106" width="602" height="29" font="1">https://github.com/NhanThien/VRA/tree/master/Report_Final</text>
+<text top="508" left="106" width="145" height="29" font="1">Result : 9.3/10</text>
+<text top="576" left="106" width="208" height="30" font="5">Feb 2016 - Mar 2016</text>
+<text top="611" left="106" width="379" height="26" font="6">Hoàn t hành mọi việ c  vớ i Kanban</text>
+<text top="611" left="105" width="379" height="26" font="6">Hoàn t hành mọi việ c  vớ i Kanban</text>
+<text top="642" left="106" width="231" height="29" font="1">Others - Học viện Agile</text>
+<text top="683" left="106" width="189" height="29" font="1">Học online Udemy.</text>
+<text top="751" left="106" width="209" height="30" font="5">Dec 2014 - Jan 2015</text>
+<text top="786" left="106" width="209" height="26" font="6">Business Analysis</text>
+<text top="786" left="105" width="209" height="26" font="6">Business Analysis</text>
+<text top="817" left="106" width="631" height="29" font="1">Others - BAC Center - CÔNG TY TNHH ĐÀO TẠO VÀ TƯ VẤN</text>
+<text top="848" left="106" width="44" height="29" font="1">BAC</text>
+<text top="889" left="106" width="184" height="29" font="1">Business Analysis </text>
+<text top="958" left="106" width="211" height="30" font="5">Sep 2007 - Nov 2012</text>
+<text top="992" left="106" width="241" height="26" font="6">Công nghệ  t hông t in</text>
+<text top="992" left="105" width="241" height="26" font="6">Công nghệ  t hông t in</text>
+<text top="1023" left="106" width="360" height="29" font="1">Bachelors - Đại Học Tôn Đức Thắng</text>
+<text top="1" left="51" width="6" height="29" font="4"> </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="149" left="106" width="165" height="35" font="3">REFERENCE</text>
+<text top="206" left="106" width="208" height="26" font="6">Nguyễn Hải T rung</text>
+<text top="206" left="105" width="208" height="26" font="6">Nguyễn Hải T rung</text>
+<text top="237" left="106" width="344" height="29" font="1">IT Coordinator at AFE Solut ions</text>
+<text top="237" left="282" width="166" height="29" font="1">AFE Solut ions</text>
+<text top="268" left="106" width="398" height="29" font="1">haitrung3005@gmail.com | 0976614876</text>
+<text top="1" left="51" width="6" height="29" font="4"> </text>
+</page>
+<outline>
+<item page="1">Nhan Thien</item>
+<outline>
+<item page="1">SUMMARY</item>
+<item page="2">SKILL</item>
+<item page="4">WORK EXPERIENCE</item>
+<outline>
+<item page="4">Data Analyst</item>
+<item page="4">Software Engineer</item>
+<item page="4">Senior iOS Mobile Developer</item>
+</outline>
+<item page="4">EDUCATION</item>
+<outline>
+<item page="4">Artificial Intelligence and Machine Learning</item>
+<item page="5">VRA - Nhận Dạng Thị Giác Và Ứng Dụng</item>
+<item page="5">Hoàn thành mọi việc với Kanban</item>
+<item page="5">Business Analysis</item>
+<item page="5">Công nghệ thông tin</item>
+</outline>
+<item page="6">REFERENCE</item>
+<outline>
+<item page="6">Nguyễn Hải Trung</item>
+</outline>
+</outline>
+</outline>
+</pdf2xml>

@@ -1,0 +1,144 @@
+ 
+Career  Objectives 
+✓ To be a Data Scientist with more knowledge of programming, database server 
+management, analysis and machine learning tools. 
+✓ To achieve CISA certification after 3 years 
+✓ To become a Head of Data after 7 years 
+✓ To improve skills for excellence: management, communication, teamwork, analysis 
+Education 
+Sep 2012 – Aug 
+2016 
+University of Economics and Law – Ho Chi Minh city, Vietnam 
+Major in Accounting & Auditing and GPA 8.19/10 
+Jul 2014 
+National IT Application Level B Course Certificate – Vietnam 
+Awards and Honors 
+Date 
+Awards and Honors 
+Organization 
+2016 
+“Business forum scholarship”: IELTS 100% scholarship 
+Business forum 
+“Prepare to shine”: CFAB – ICAEW 100% scholarship 
+University of Economics and Law 
+2015 
+“Representative student” award and ACCA 45% scholarship 
+University of Economics and Law 
+Sacombank scholarship 
+Sacombank – Ho Chi Minh city 
+Third Prize in Student’s Scientific Research and Award 
+University of Economics and Law 
+2014 
+Honor for “Achievement in Union Youth’s activities from 
+2013 to 2014” 
+Vietnam National University, HCMc 
+2013 – 
+2014 
+Third Prize in Linear algebra and Analysis – Vietnam 
+Mathematical Olympiad for university students 
+Vietnam Mathematical Society 
+Work Experiences 
+2018 – Present 
+Data Analyst 
+Bien An Toan Investment Consultant Joint Stock Company  
+489A/23/123A Huynh Van Banh Str., Ward 13, Phu Nhuan District, HCM City 
+Responsibilities: 
+_ Building database servers: 
+Applied Position: Fresher AI / ML 
+NGUYEN LE VIET CUONG 
+Skype: 
+jasonnguyen-x 
+Phone:  
+079 980 0123 
+Email:  
+jasonnguyen1990@gmail.com 
++ Analyzing data structure from open sources (deposit rate data, OTCUSD and FX rate 
+from, stock price, trading price from http://priceboard1.vcsc.com.vn) and applying 
+data mining tools from Python language (parsing API (request to get, post), 
+beautifulSoup (bs4), websockets, socketIO) to get big data sources storage in 
+MongoDb server. 
++ Parsing API to get all of financial statements data of all listed/many private equity 
+companies storage in MongoDb server. 
+_ Programming functions for Chatbot: 
++  According to investors demand/questions in Skype, querying appropriate time 
+series data (motor asyncio) for drawing chart, table (processing by pandas or 
+matplot) as a result to answer their demand/questions. Chatbot functions such as: 
+deposit chart for several type of term (6M, 12M), FX chart for USD Index or OTCUSD, 
+liquidity or foreign trading domain chart. 
+_ Building excel analysis tools for financial analysis, modeling and KPI analysis: 
++ Applying advanced excel formulas with all financial statements data to build 
+template for perform fundamental analysis (market ratios, liquidity ratios, 
+management ratios, profitability ratios, Z-score, M-score) for companies which are 
+chosen from data validation listing. Building data model by excel tools (PE, PB, 
+EV/EBITDA, DCF models). 
+Achievement: worked in participate environment, gained more experience and 
+knowledge about programming, finance and investment analysis. 
+2017 
+Audit Assistant 
+PricewaterhouseCoopers Vietnam Ltd. 
+Responsibilities: member of assurance group, in charge of working with financial 
+sections such as: cash and cash equivalents; receivables; payables; inventories; fixed 
+assets; expenses; revenues; cost of sales; taxation; prepare financial statements. 
+Achievement: worked in competitive and pressure working environment, gained more 
+experience and knowledge about auditing and accounting and leadership 
+2016 
+Trainee Accountant 
+Expeditors International Freight Forwarding Co., Ltd. 
+Responsibilities: get cost of shipments from system; split local invoices; make accrual 
+of revenue; scan, send, tax invoices to customers; make filing accounting documents. 
+Achievement: worked in practical working processes, gained real accounting experience 
+Skills 
+✓ Good English communication 
+✓ Computer skills: Proficiency in Word, Excel, 
+Power Point, Access; experience with HTKK  
+✓ Teamwork skill: motivating others, solving 
+conflicts, working as a team member as well 
+as independently 
+✓ Communication & making relationship 
+skills, time management, leadership 
+✓ Programming knowledge with Python 
+Characteristics and 
+Interests 
+✓ Confident, responsible, flexible, optimistic, 
+honest 
+✓ Hard – working, dynamic, creative 
+✓ Interested in listening music, watching 
+movie, reading major books, magazines 
+✓ Travel, sports (basketball, billiard), gym, 
+social and voluntary activities 
+Nguyen Le Viet Cuong – Jason Nguyen 
+Phu Nhuan District, Ho Chi Minh City, Vietnam 
+07st October, 2018   
+HR Department 
+TMA INNOVATION CENTER 
+TMA Tower, Street #10, Quang Trung Software City, 1 To Ky, District 12, 
+Ho Chi Minh City, Vietnam 
+Dear Sir/Madam, 
+I am an employee who have experience and knowledge about finance, Python 
+programming. I have known your company is offering a recruitment program, so I am 
+writing in response to the position as Fresher AI / ML in your IT Department, Ho Chi 
+Minh Office.  
+During school time, I participated in some extra – curricular activities as deputy leader 
+of Eco – Law research group as a large event organizer, so I have good communication 
+and teamwork skills. Also, I can work well on computer with popular software such as 
+word, excel, power point and be good at communicating in English. Furthermore, I have 
+worked at large accountancy firms as an associate which gave me chances to work in 
+competitive and pressure environments. I gained more auditing experiences when I have 
+been in charge of working with many audit sections such as: prepare financial statements 
+(BS, PL, CF, Notes), Test of control, cash and cash equivalents, fixed assets, inventories, 
+sales, cost of sales, taxation. Currently, I also work as Bien An Toan Investment 
+Consultant JSC and have experience about big data and fintech programming in order to 
+work with database server, build Chatbot and create features to meet the demand of 
+investors, chance to build fundamental analysis/KPI analysis template so that can make 
+brokers have better financial consulting. 
+As an employee of TMA Innovation center, I will try my best to complete tasks assigned 
+to me and contribute to the success of your company. Moreover, this is a worthy 
+opportunity for me to sharpen my skills, challenge myself in professional environment 
+and collect experience for my profession as well. 
+I appreciate it if you could arrange an interview for me to prove my abilities. I can be 
+contacted at jasonnguyen1190@gmail.com or 079 980 0123.  
+Enclosed are my CV.  
+I am available whenever you need more information. I am looking forward to your reply 
+soon. Thank you very much for your time and consideration. 
+Yours faithfully, 
+Nguyen Le Viet Cuong – Jason Nguyen. 

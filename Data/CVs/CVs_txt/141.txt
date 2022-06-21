@@ -1,0 +1,44 @@
+ 
+Nam Pham 
+Namtun1996@gmail.com   ||   608.236.3042|| www.linkedin.com/in/nam-pham-0519 
+CAREER OBJECTIVE: Curious, energetic computer science student skilled in leadership, with a firm background in math, logic, 
+and cross-platform coding. Seeking to leverage solid skills in collaboration, communication, and development as a programmer. 
+PROJECTS: 
+Hand digit classifier  
+Created a java program to classify handwritten digit by using 2-layer, feed forward neutral network 
+Correctly identify 104 out of 105 handwritten digits of 80 different people with 50 hidden nodes. 
+Awari: 
+Created an AI-player in 2-players game using Java GUI interface 
+With searching depth of 15, the AI-player can be comparable to human player expert level 
+King’s Knightmare (modified chessboard) 
+Created a Java program to find sequences of moves for the knight to capture the king in an any n x m 
+chessboard, while avoiding all the obstacles 
+Implemented by using either Bread First Search, Depth First Search or A* Search 
+EDUCATION 
+2018       
+University of Wisconsin-Madison  B.S in Computer Science  
+2016       
+Herkimer College   A.S in Computer Science 
+Awards // President’s List (Top 10%), Dean’s List, Phi Theta Kappa, Honors Programing in Java 
+Favorite areas of study: Artificial Intelligence, Algorithms 
+PROFESSIONAL EXPERIENCE  
+08.2015 – 05. 2016       
+ACADEMIC SUPPORT CENTER   //  Peer Tutor  
+Created curriculum, taught Computer Science (C, C++) for 50+ students for 12 hours/week 
+Raised students’ grades by a letter grade on average 
+Successfully obtained CRLA tutoring certificate (Tutor Level 1) 
+Spearheaded fundraising program to raise $5k to organize Thanksgiving for underprivileged children  
+05.2017  – Present  
+VIETNAM HEALTH PROJECT  //  Co-Chair of Volunteering 
+Lead a team of 8 volunteers; raise fund for an annual trip providing free healthcare services to children 
+Organized hockey concession stands; spearheaded food sales; raised $10k+ in revenue 
+08.2015 – 05.2016               PHI THETA KAPPA  //  Vice President of Honors in Action 
+Brainstormed and determined subjects for academic research promoting academic excellence 
+Oversaw and provided resources for 10 students in conducting academic research 
+08.2015 – 05.2016  
+HERKIMER CENTER FOR STUDENT LEADERSHIP  //  Student Ambassador  
+Programmed 8 major campus-wide events such as open house, graduation, for 8000 attendees  
+Assisted ~1000 freshmen in transitioning into campus life; co-organized orientation activities  
+SKILLS 
+Programming languages (): Java (Proficient), C++ (Proficient), C, HTML/CSS, Python, Assembly, Swift 
+Skills: Algorithms, Data Structures, Logic, Machine Learning, GIT  

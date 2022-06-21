@@ -1,0 +1,81 @@
+NGUYEN THI PHUONG THANH 
+Address: 
+Email:  
+Phone:  
+Skype: 
+26NH cu xa ngan hang Street, Tan Thuan Tay 
+Ward, District 7, Ho Chi Minh City, Vietnam. 
+thanhntp1994@gmail.com 
++84 1228039596 
+Thanh Nguyễn (+84 1228039596) 
+Education and 
+Qualifications 
+September 2013 – 
+September 2017 
+November 2017 
+January 2017 
+January 2017 
+Bachelor of Information Technology 
+(Ton Duc Thang University) 
+ISTQB Foundation Certificate in 
+Software Testing. (Expected) 
+Passed N5 Japanese Language 
+Proficiency Test. 
+Completed the TOEIC Mock Test with 
+following grade : 595. 
+Objective 
+With passion in learning new techniques, meticulosity and 
+diligence, I want to become an expert in software testing. Also 
+have a chance to gain knowledge about testing skills from 
+senior colleagues. 
+Apply Position: AQC/Fresher Tester 
+Skills 
+Testing skills: 
+Have knowledge in manual testing. 
+Good knowledge in testing process based 
+on V model. 
+Have knowledge in Software development 
+life cycle. 
+Good experience in test case design 
+techniques such as Equivalence 
+Partitioning, Boundary Value Analysis, 
+Decision Table,… 
+Testing types and methodologies: black 
+box, functional and non-functional testing. 
+Software: 
+Soft skills: 
+Database: MySQL 
+Bug control: Jira 
+Source control: SVN, github 
+Other: MS Office 2003-2013 
+Average English and Fair Japanese 
+communication, good reading and writing 
+skills. 
+Ability to work under pressure, for both 
+independent and team collaboration. 
+Projects 
+FPT Service 
+Company 
+Student’s 
+Management 
+System 
+Type: Web application. 
+Time: March 2017 
+Description: This is university’s 
+assignment  project, a web application for 
+customer’s information management. 
+Test environment: Web Browsers 
+Responsibility:  Reading requirement, 
+writing Q&A list, test plan. Execute test 
+and write test report, defect list based on 
+the results of testing process. 
+Type: Window application. 
+Time: September 2017 
+Description: This is a window application 
+for student’s information management. A 
+project of testingvn course. 
+Test environment: Window10 
+Responsibility:  Writing test case. 
+Execute test and write test report, defect 
+list based on the results of testing 
+process. 

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="34" family="Ubuntu" color="#ffffff"/>
+	<fontspec id="1" size="18" family="Ubuntu" color="#4f90cd"/>
+	<fontspec id="2" size="13" family="Ubuntu" color="#ffffff"/>
+	<fontspec id="3" size="11" family="Ubuntu" color="#ffffff"/>
+	<fontspec id="4" size="20" family="Ubuntu" color="#4f90cd"/>
+	<fontspec id="5" size="18" family="Ubuntu" color="#000000"/>
+	<fontspec id="6" size="18" family="Ubuntu" color="#000000"/>
+	<fontspec id="7" size="11" family="Ubuntu" color="#4f90cd"/>
+	<fontspec id="8" size="15" family="Ubuntu" color="#000000"/>
+	<fontspec id="9" size="13" family="Ubuntu" color="#000000"/>
+<text top="31" left="36" width="122" height="39" font="0">Hieu Vu</text>
+<text top="73" left="37" width="165" height="20" font="1">Software Developer</text>
+<text top="106" left="37" width="240" height="15" font="2">Sense of responsibility and Carefullness</text>
+<text top="192" left="202" width="138" height="13" font="3"><a href="mailto:xoaixanh.muoii@live.com">xoaixanh.muoii@live.com</a></text>
+<text top="192" left="390" width="81" height="13" font="3">+84963641003</text>
+<text top="192" left="522" width="169" height="13" font="3">Thu Duc, Ho Chi Minh, VietNam</text>
+<text top="241" left="37" width="198" height="23" font="4"><b>WORK EXPERIENCE</b></text>
+<text top="281" left="37" width="89" height="20" font="5"><b>Teamwork</b></text>
+<text top="302" left="37" width="309" height="20" font="6">University Of Information Technology</text>
+<text top="366" left="37" width="122" height="23" font="4"><b>EDUCATION</b></text>
+<text top="452" left="37" width="79" height="13" font="7"><i>2014 – Present</i></text>
+<text top="406" left="37" width="188" height="20" font="5"><b>Software Engineering</b></text>
+<text top="426" left="37" width="309" height="20" font="6">University Of Information Technology</text>
+<text top="241" left="473" width="69" height="23" font="4"><b>SKILLS</b></text>
+<text top="291" left="483" width="46" height="15" font="2">HTML 5</text>
+<text top="291" left="557" width="22" height="15" font="2">CSS</text>
+<text top="291" left="608" width="8" height="15" font="2">C</text>
+<text top="291" left="644" width="17" height="15" font="2">C#</text>
+<text top="291" left="689" width="24" height="15" font="2">SQL</text>
+<text top="355" left="473" width="222" height="23" font="4"><b>PERSONAL PROJECTS</b></text>
+<text top="395" left="473" width="236" height="17" font="8">Souvenir Online Shopping Website</text>
+<text top="432" left="473" width="200" height="17" font="8">Book Store Manager Sofware</text>
+<text top="468" left="473" width="229" height="17" font="8">Grade Student Manager Software</text>
+<text top="505" left="473" width="196" height="17" font="8">Lost And Found Android App</text>
+<text top="565" left="473" width="126" height="23" font="4"><b>LANGUAGES</b></text>
+<text top="610" left="473" width="44" height="15" font="9">English</text>
+<text top="641" left="473" width="72" height="15" font="9">Vietnamese</text>
+<text top="690" left="473" width="111" height="23" font="4"><b>INTERESTS</b></text>
+<text top="741" left="485" width="50" height="15" font="9">Football</text>
+<text top="741" left="565" width="37" height="15" font="9">Movie</text>
+<text top="741" left="632" width="49" height="15" font="9">Cooking</text>
+</page>
+</pdf2xml>

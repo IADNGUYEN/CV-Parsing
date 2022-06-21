@@ -1,0 +1,46 @@
+ 
+PHẠM ANH TUẤN 
+AI & Machine Learning intern – TMA solutions 
+Day of birth 
+25/04/1996 
+Gender 
+Male 
+Phone 
+090 250 7349 
+Email 
+pat25bk@gmail.com 
+Address 
+Binh Tan district, HCM city, Viet Nam 
+OBJECTIVE 
+An internship in AI sector will provide the opportunity to expand my knowledge and 
+reinforce my thesis. 
+EDUCATION 
+2014  
+Bach Khoa University 
+Expected to graduate in June, 2018 
+Major : Electronics  Telecommunication 
+GPA : 7.9/10 
+PROJECTS 
+2017 
+Scientific Research 
+Hacking navigation devices by conterfeit GPS signal 
+Re-genarating GPS signals on SDR platfrom and evaluating their 
+affects on navigation devices and drone. 
+2018 
+Thesis 
+Articulated Human detection and pose estimate by parts-based model 
+Building a system that can estimate 2D human pose in image. The 
+system uses parts-based model with tree structure and is trained by 
+SSVM. 
+SKILLS 
+C/C++/MATLAB programing 
+Independent study 
+Ability to read scientific paper 
+ACTIVITIES 
+2014 
+Green Summer Volunteer Campaign  
+2017 
+Spring Volunteer Campaign 
+CERTIFICATIONS 
+2017 
+TOIEC Certificate with score 840 

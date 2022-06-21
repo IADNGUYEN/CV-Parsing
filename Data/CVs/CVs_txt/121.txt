@@ -1,0 +1,378 @@
+w   w   w   .   s   s   p   .   c   o   m   .   v   n
+CURRICULUM VITAE
+Application for:
+Contact Center Engineer
+Place of work: 
+Ho Chi Minh City.
+Salary: I expect my NET salary arround
+1000$
+I.
+CAREER OBJECTIVE
+The desired 
+location in the 
+future:
+Team leader / Manager
+Industries:
+Telecommunication / IT
+Job status:
+Full time.
+Type of 
+employment:
+Permanent
+Object: 
+I am finding the job in Telecom and IT network. The job has always innovation and good 
+opportunities for advancement in the future.
+II.
+PERSONAL INFORMATION
+Full Name
+NGUYỄN PHƯỚC THỌ
+DOB (dd/mm/yyyy) 
+04/03/1984
+POB :LONG AN
+ID Number
+issued date
+at 
+023558564
+15/01/2014
+HCM. City
+Nationality 
+Việt Nam
+Gender
+Male
+Marital status
+Married
+Contact address 
+1/5 quarter 1, Tan Thoi Hiep ward, District 12, HCM city
+Mobile: 0907662169
+e-mail: 
+thonguyen1984@gmail.com
+III.
+ACADEMIC QUALIFICATIONS
+Year of
+Gra
+dua
+tion
+Name of Institution &
+Faculty
+Name of Faculty 
+Qualification
+Average point
+grad
+uate
+Length of
+Pr
+og
+ra
+m
+2005
+Information Technology
+CollegeHCM city 
+Electronic and
+Telecommunication
+College
+7.1
+3 years
+2008
+Posts Telecommunications
+Institute of Technology
+Electronic and
+Telecommunication
+University
+6.6
+2 years
+Page 1/9
+w   w   w   .   s   s   p   .   c   o   m   .   v   n
+HCM city
+IV.
+TRAINING AND OTHER COURSES
+Obtained Year 
+Name of Course
+Conducted by
+Certificate
+Duration
+2010
+TOEIC
+Dương Minh
+language school
+TOEIC 500
+6 months
+06/2010
+Planning and optimization
+mobile network
+Cybercom group
+in Singapore
+1week
+2012
+CCNA
+Vnpro computer
+Center
+CCNA
+certificate
+4 months
+V.
+WORKING EXPERIENCES
+Only for the worked applicants, please fill in your duty that you were assigned following the lasted 
+working time 
+From month/year to
+05/2016 to present
+Company’s name: SOFTFRONT VIET NAM 
+(Belong to SOFTFRONT JAPAN)
+Fields of operation: VoIP Telephone 
+exchange, IP phone, IP camera. 
+Job title : System intergration 
+engineer
+Field: Hardware and software
+Main duties :      I'm professional in Brekeke PBX.      Suppport for sale team.      Plan the solution for VoIP telephone exchange system.      Build system VOIP (FreePBX, Elastix, Brekeke), web server,  video conference server. Use SIP 
+technology.      Setup Linux, Centos, Ubuntu server, VPS, VMWARE      NAT IP, NAT port, firewall for server (iptables, ufw, csf).      Config https, SSL for web server, Tomcat , Apache.      Network/Security, Microsoft (windows, office), Vmware (EXSI), Java, Tomcat, Apache, MySQL.      Setup VOIP gateway (Mediatrix, Grandstream..). Setup IP phone (Yealink, Grandstream)      Setup IP camera (use RTSP, HTTP...).      Presale and after sale. Take care the service for the customer.
+Page 2/9
+w   w   w   .   s   s   p   .   c   o   m   .   v   n
+From month/year to
+04/2016 to 05/2016
+Company’s name: Đỉnh Quang Telecom
+Fields of operation: VoIP Telephone 
+exchange, IP phone, IP camera. 
+Job title : Solution engineer
+Field: Hardware and software
+Main duties : 
+Find and meet the customer, to get the requirement from the customer. 
+Plan the solution for VoIP telephone exchange system. 
+Setup the VoIP telephone exchange system, IP phone, IP camera. 
+Plan the BoM of project. 
+Support the technical for agencies.
+From month/year to
+09/2008 to 03/2016
+Company’s name: Indochina 
+Telecommunication Technology joint stock 
+company (ITT) 
+Fields of operation: Telecommunication
+Job title :Project Engineer
+Field: Radio network 
+optimization, software, hardware
+I can use some speacial software in RF as: TESM INVESTIGATION, TEMS DISCOVERY 
+DEVICE, NEMO OUTDOOR, NEMO ANYLYZE, ATOLL, ACTIX for planning, test and analyze. 
+Export and analyze KPI from OMC.
+Main duties : 
+I have 6 years experience in telecommunication field, optimization and installation mobile network . 
+Main duties : 
+Planning mobile network. 
+Optimize the network checking the site configuration, making logicalconfigurations and making 
+the neighbors lists for the new stations. 
+Analysis of OMC statistics for maintaining Network KPI’s. 
+Neighbor Analysis and Planning. 
+Maintaining Handover & Other parameters for meeting KPI’s. 
+Drive-test the quality network ( Nemo outdoor, Tems Investigation). 
+Testing and commissioning BTS (GSM/WCDMA). 
+Propagation Prediction for Best Sector/sector and interference. 
+Site survey before installing base station. 
+Analyze logfile data after testing and find troubleshooting. 
+Make technical proposal for outdoor project. Some Project: VSIP, Đồng An,Hòa Phú, Tân Tạo 
+Industry, Phú Mỹ Hưng, Metro 1(Bến Thành Suối Tiên). 
+Supervise the installation BTS, MU RU, optical tranmission. 
+Self research some Object as: Small cell, wifi backhaul, C-RAN, RFID, Main remote BTI… 
+Install Vmware, Linux Red Hat, configure and troubleshooting.. 
+Setup PC and server. 
+Backup and Storages
+These projects symbolize as : 
+Project name: Enlosure Outdoor for BTS
+Year: 01/2016 to 03/2016
+Client and location: Mobifone in HCM
+Main duties: 
+Page 3/9
+w   w   w   .   s   s   p   .   c   o   m   .   v   n
+Project manager.
+Take care project, contact point with customer.
+Report to the Mobifone about progess of project.
+Push the staff to finish soon the project.
+Propose the materials to install.
+Project name: Booster Comba trial
+Year: 08/2015 to 12/2015
+Client and location: Mobifone in HCM
+Main duties: 
+Contact point in the project between Comba telecom and Mobifone.
+Prepare solution and caculate BoQ.
+Monitor the installation and send the report via mail.
+Commis Booster and optimize parameter, let booster work fine
+Drive-test the coverage, check the coverage how far.
+Writing report.
+Project name: Voice over Wifi system
+Year: 05/2015 to 08/2015
+Client and location: Mobifone in Hà Nội
+Main duties: 
+Setup and install Server (install Vmware, RedHat, Debian OS)
+Configure and troubleshooting hardware.
+Install and configure Voip system, SBC sever, Active server.
+Test client app on android Device.
+Assist oversea enginner in the project.
+Project name: Main Remote Tân Tạo Industry 2014
+Year: 01/2014 to 09/2014
+Client and location: VMS2 (project: Main Remote)
+Main duties: 
+Design Main Remote system for Mobifone network to coverage Tan Tao Industry area. Use
+Rosenberger equipment.
+Supervise the installing Main and Remote Unit
+Supervise the install optical fiber and solder optical fiber.
+Commissioning Main and Remote system.
+Drive test and analyze the logfile to check coverage, overshooting. Make report.
+Project name: VMS2/ITT site audit 2013
+Year: 03/2013 to 12/2013
+Client and location: VMS2 (project: audit 252 sites)
+Main duties: 
+Drive Tests analyses : 252 sites.
+Audit 252 sites
+Check hardware, adjust antenna azimuth, check/fix swapped feeder.
+Write report.
+Project name: Benmarking Voice and Data VMS2
+Year: 2012 to 02/2013
+Client and location: VMS operator.
+Page 4/9
+w   w   w   .   s   s   p   .   c   o   m   .   v   n
+Main duties: Project manager, Radio optimization, drive-test log file analysis, and recommendations, 
+Prepare final report to customer.
+Project name: VMS2/NSN 478 sites reused Ericsson
+Year: 2011
+Client and location: VMS2 (project: 478 sites reused)
+Main duties: 
+RF Planning and Optimization for 478 sites reused (3G and 2G) in HCM city.
+Engineering parameter planning.
+Scrambling code planning, 3G-3G & 3G-2G neighbors planning.
+Drive Tests analyses with Actix.
+Best server, Ec/Io analysis, pilot pollution reduction, overlapping cells optimization, missing
+neighbors detection.
+Parameters modification to get the requested KPI’s (Accessibility, Retainability, Mobility).
+Responsible for 2G (GSM, DCS) new sites integration, planning and optimization.
+Perform drive test, analyze log files and give recommendations: adjust antenna azimuth, check/fix
+swapped feeder, adjust parameter to avoid ping-pong HO and load sharing between GSM and
+DCS cells.
+Monitor and improve network KPIs, resolve worst cells KPIs.
+Prepare and present RNO final report to customer.
+Project name: 500 sites Alcatel 
+Year: 2010 
+Client and location: VMS Mobifone center 2 (project: add new site in 8 province of South-east Vietnam)
+Main duties: 
+Responsible for 2G new sites integration, planning and optimization.
+Key communication point between operator’s Technical Department and RNO team.
+Communicate regularly with operator to update on project status and issues.
+Radio network optimization: improve bad cells KPIs, based on drive-test log files analysis to do
+site re-engineering (antenna azimuth, tilt), LAC re-design.
+Technical site visit, drive-test and give recommendation for trial concentric cell deployment in
+VMS network.
+Study and maintain neighbor list (check and fix too short and too long neighbor list), parameter
+changing to solve ping-pong HO and load sharing for cells.
+Parameter audit for whole network.
+Present final report to customer.
+Technical support
+Project name: VMS2/TTCI RNO 
+Year: Nov 2009 
+Client and location: VMS Mobifone center 2 (project: drive test and turning site in South-east Vietnam)
+Main duties: 
+Responsible for improving bad cells (spread over 5 provinces in the South-east Vietnam) to
+achieve requested KPIs and get the final acceptance, give RNO final report to customer.
+Radio optimization, drive-test log file analysis, and recommendations.
+Project name: 445 sites Huawei
+Year: Dec 2009 – June 2010
+Client and location: VMS center 2 & 4 (project: 310 sites in South-West Vietnam, 135 sites in Long An 
+province)
+Main duties: 
+Responsible for new 2G macro BTS sites planning and optimization of VMS (6 provinces in South
+west Vietnam and 1 province Long An belong to VMS2) : neighbors planning definition, BCCH,
+Page 5/9
+w   w   w   .   s   s   p   .   c   o   m   .   v   n
+BSIC, HSN allocation, Drive test analysis, missing neighbors detection, drop call & HO failure
+reduction and frequency retune.
+New sites and network monitoring: monitor and improve KPIs, take daily appropriate optimisation
+actions after the study of the 2G worst cells.
+Resolve the customer complaints by taking the appropriate optimisation actions.
+BSC, TC commissioning.
+Monitor KPIs after BSS migration.
+From month/year to
+08/2005 to 08/2006
+Minh Thông informatic joint stock company
+Fields of operation:  Computer Device 
+(Mainboard, CD/VCD/DVD, VGA card)
+Job title : Technical engineer
+Field: Hardware
+Main duties : 
+Repair disk optical (CD-ROM, VCD, DVD-ROM, CD/DVD-RW). 
+Test and repair mainboard. 
+Technical support about computer and network.
+VI.
+FOREIGN LANGUAGES 
+Please evaluating yourself at column is appropriate: average,fair, good, excellent 
+Language
+Listening
+Speaking
+Reading
+Writing
+English
+Average
+Average
+Good
+Good
+VII.
+PC and IT SKILLS 
+Please fill in IT sciences which you can use 
+Skill 
+I can setup Window, ghost, 
+Install driver all device. 
+Setup virtual machine, LAN, Cloud, email. 
+Troubleshooting any problem computer, laptop (include harware 
+and software)
+Software can use
+Winsdows XP, Wisndows 7, 8, Ms Word, Excel, Power Point, Ms Project, 
+Outlook, Visio, AutoCAD.
+Tool  planning
+Atoll, Mapinfo, Mcom, Genex Nastar, Actix
+Programmer 
+Visual  Basic,  C+,  Programing  micro  processor.  Design  digital
+watch (use IC 7490, Micro processor : AT89C51).
+Hardware expert
+Can solve problem when the computer is down.
+Page 6/9
+w   w   w   .   s   s   p   .   c   o   m   .   v   n
+Networking
+LAN & WAN, PDH, SDH
+Knowledge about WLAN: 802.1a/b/g, 802.1x, WPA, WPA2, xDSL,
+DSLAM, Fiber, Ethernet, FastEthernet, GigabitEthernet
+IP, IPv6, IP Multicast, DHCP…
+Routing: RIPv1, RIPv2, EIGRP, OSPF, OSPFv3, ISIS, BGP, MP-
+BGP, Redistribution, Policy-based Routing..
+Switching: VLAN, Private VLAN, Trunking ( 802.1q, isl, Q-in-Q), 
+Spanning-tree,Rapid Spanning Tree, MPLS, MPLS VPN.
+VoIP: Cisco Call Manager, IP phones, G.729, G.711, H.323, SIP…
+Cloud computing, virtualization.
+VIII.
+OTHER SKILLS
+Independent studying and researching skills 
+Good 
+Experience: 3 Years 
+Collected information from many sources: library, research books and internet to enrich my
+knowledge. 
+Self research.
+Team work, leading skills 
+Good 
+Experience: 6 Years 
+Team work skill, friendly with everybody 
+Solve problem independently. 
+Cooperate with other teams to finish the project. 
+Working under high pressure. 
+The presentation skill with customer. 
+Able to travelling when work.
+IX.
+My hobby and outside activities 
+Swimming, play badminton. 
+Go travelling, play flight and car model. 
+Attend charitable organization.
+I certify that, to the best of my knowledge, the information provided in this resume is accurate and
+complete.
+Applicant's signature 
+(Chữ ký của ứng viên)
+NGUYỄN PHƯỚC THỌ
+Page 7/9
+w   w   w   .   s   s   p   .   c   o   m   .   v   n
+Certificate 
+Posts Telecommunication Institute of Technology HCM city Certificate. 
+TOEIC 500 certificate. 
+CCNA 
+Page 8/9
+w   w   w   .   s   s   p   .   c   o   m   .   v   n
+Page 9/9

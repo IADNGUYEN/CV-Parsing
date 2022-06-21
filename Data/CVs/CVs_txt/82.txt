@@ -1,0 +1,107 @@
+SOCIALIST REPUBLIC OF VIET NAM
+Independence  Freedom – Happiness ----o0o-----
+CURRICULUM VITAE
+SECTION I : INDIVIDUAL HISTOTY
+1. Full name : NGO DUONG DUC TRUNG
+2. Gender : male
+3. Date of birth : 18/04/1981, Place of birth: Ho Chi Minh City
+4.
+People’s ID card : 023571610 issued on 14/03/2003
+5. Permanent residence : No. 1/1 , 9 Street, 4th  quarter, Binh Chieu Ward, Thu Duc District,
+Ho Chi Minh City.
+6. Mobil phone : 0963 338 884
+7. Foreign language level : B (English)
+8. Email : Trunglazi81@gmail.com
+SECTION II : FAMILY RELATIONSHIP
+Father’s Full  name :  NGO DUC TUAN
+Employment : Retirement  
+Mother’s Full – name : DUONG THI THU CUC
+Employment : Housewife  
+Wife’s Full-name : NGUYEN MONG THUY LINH
+Employment : pharmacists            
+Daughter’s Full-name : NGO ANH THU
+Employment : No            
+Daughter’s Full-name : NGUYEN QUYNH TRUC THAO
+Employment : No          
+SECTION III : EDUCATION    
+In 2001-2006: Bachelor of Engineering offerd by University of Technology Ho Chi 
+Minh City In 1999-2004
+Speciality : Computer Engineer, 
+Be Training Japan 3 month 
+Be training and working Thailand 6 month 
+SECTION IV: SUMMARY EXPERIENCE WORKING
+:  
+In Mar 2004-May 2007 :
+Sai Gon Coop Ltd., Co
+Administrator windows server 2003 
+Managed SQL Server 2005 & Exchange 2007, and over 200 user accounts in Active 
+Directory.
+Managed and Administered Windows XP and Windows 7 workstations and laptops.
+Supported and maintained servers and backups.
+Supported Microsoft Office 2007/2010.
+Shared knowledge with new recruits.
+In Nov 2007- Nov 2012 :
+Đông Hưng  Co., LTD
+Position: IT
+Helped migrate services from Windows Server 2003 to Windows Server 2008 R2.
+Managed over 300 user accounts in Active Directory.
+Managed and Administered Windows XP and Windows 7 workstations and laptops.
+Supported and maintained servers and backups.
+Supported Microsoft Office 2007/2010.
+Managed scanner ,Printer 
+In Sep 2012- To date :
+LIXIL Global Manufacturing VIETNAM CO.., LTD 
+Position :  Team leader 
+Section  :  IT Developer and IT Network 
+* Network
++ Helped migrate services from windows server 2003 to windows server 2008 r2 
++ Managed SQL server 2005 & Exchange 2007, and over 400 user accounts in active
+directory
++ Managed and administered windows XP and Windows 7 workstation and laptop 
++ Supported and maintained servers and backup (M, Shin, K ) system
++ Supported microsoft office 2003/2007/2010 
++ Share knowledge with new recruit
++ Check and report virus every month
+* Developer
+Deloyment system from Thailand to Vietnam 
+Managerment software for production
+M system 
+: Aluminum production ( Proramming languages Magic)
+Shin system 
+: The raw material and finished product ( Proramming L Magic)
+K system 
+: Supplier control, check stock monthly ( foxpro , VB )
+Oracle , Purchase system , Costing system ……
+Setup master system factory VN 
+Daily process , weekly process , Monthly process 
+Check data input daily, setup master all system 
+Control check stock day every month 
+The Report inventory results every month 
+Support user when system problem 
+SECTION IV: SUMMARY SKILLS:
++ Windows NT, XP, Vista, Windows7
++  LAN/WAN technology
++ Windows Server 2003/2008
++ Active Directory and Exchange 2003/2007/2010
++ MS Office 2003/2007/2010
++ DNS, DHC, WLAN, VPN
++  Deployment, implementation, installation and management:
++ MS ISA server
++ MS Window 2003 server with clustering environment
++ MS SQL 2000 server with clustering environment
++ Cisco Pix Firewall , Router 
+* Knowledge
++ OSI layers, TCP/IP, SMTP, POP3, DHCP, DNS, ...
++ Algorithm and data structure
+* Hardware
++ Dell Server and association
++ SCSI, RAID configuration
+* Deployment, implementation, installation, troubleshooting and management
++ Cisco switch, router (basic configuration)
++ Deploying new software for production
++ Oracle system version : 12.1.3
++ Pervasive SQL 2000 . Pervasive SQL 9 
++ Microsoft Visual Foxpro 9.0
++ VB 6.0 
+HOCHIMINH City 08/september/2015
+Ngo Duong Duc Trung

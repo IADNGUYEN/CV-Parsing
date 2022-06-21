@@ -1,0 +1,97 @@
+ Vo Hoai Son 
+Date of Birth:  
+06/10/1996 
+Phone: 
+0974 105 003 
+Email: 
+vector.mic@gmail.com 
+Gender: 
+Male 
+Address: 
+Ho Chi Minh 
+DESCRIPTION 
+I'm good at JavaScript and related frameworks, My strength is PHP, JavaScript, C#.NET, Node.JS 
+and now I gradually turn into research about Data Mining, Deep Learning and Neural 
+Networks.My hobbies are manga/anime, piano and poetry. 
+WORK EXPERIENCES 
+Oct 2016 – Present 
+GẦN NHÀ 
+Front-end Developer 
+https://gannha.com/  
+Working here as a Front-end Web developer  
+Cordova, Ionic, Angular and .NET developer  
+Have learned about critical thinking, problem solving and project 
+management  
+Improve soft skills in this working environment 
+Mar 2017 – Aug 2017 
+AVA LABS TECH 
+A.I. Researcher / Data Scientist 
+https://topplayer.co/  
+Working as a team leader and product manager  
+Machine Learning, Data Mining, Deep Learning and Blockchain  
+Have learned about business analytics, administration  
+Well-learned about Python and related libraries 
+Apr 2016 – Jul 2016  
+ZEND.VN 
+PHP Intern 
+http://zendvn.com/  
+Research about VCS: Git, SVN  
+Working with PHP Frameworks: CodeIgniter, Zend, Composer  
+Well-learned about WordPress CMS  
+Do a mockup project: https://batdongsan.com.vn/ 
+EDUCATIONS 
+2014 – 2018 
+UNIVERSITY OF SCIENCE HO CHI MINH 
+Major: Computer Software Engineer 
+ACTIVITIES 
+Sep 2016 – Present 
+MICROSOFT STUDENT PARTNERS 
+Technical Evangelist  
+Organize Microsoft events: Microsoft Academic Tour, Hour of 
+Code, Imagine Cup 2017 to the universities  
+Sharing Microsoft technologies: Azure, Xamarin, .NET Core 
+HONORS & AWARDS 
+Mar 2017 
+MICROSOFT IMAGINE CUP 2017  
+Archive 3rd place in the Imagine Cup 2017 Vietnam competition  
+Project: Pack’nGo  
+Team: 101studio  
+Role: Business Analyzer, .NET Developer, Designer and Video 
+Editor 
+SKILLS 
+Language 
+Vietnamese, English 
+Skills 
+PHP: 7/10 
+Node.JS: 6/10 
+Angular: 7/10 
+WordPress: 8/10 
+PROJECTS 
+Oct 2016 – Present 
+GẦN NHÀ 
+https://gannha.com/  
+A platform that users can find anything near them with only 3 
+taps  
+Building a Admin dashboard using Angular 2 
+Mar 2017 – Aug 2017 
+TOPPLAYER 
+https://topplayer.co/  
+A platform that matching users with jobs in 1 tap  
+Stack: MongoDB, Angular 2, Python Django Rest Framework, 
+NodeJS 
+Jul 2017 – Aug 2017 
+JANHOME 
+https://janhome.vn/ 
+Building a website using WordPress 
+Jun 2017 – Jul 2017 
+TUVANGOICUOC 
+https://tuvangoicuoc.com/ 
+Building a website using WordPress 
+Sep 2016 – Oct 2016 
+TROPICAL OCEAN RESORT 
+http://tropicaloceanresort.vn/ 
+Building a website using WordPress 
+Jul 2016 – Aug 2016 
+OMWATER 
+https://omwater.vn/ 
+Building a website using WordPress 

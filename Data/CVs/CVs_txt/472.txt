@@ -1,0 +1,88 @@
+CURRICULUM VITAE 
+PERSONAL INFORMATION 
+Full  name 
+TON NU HOANG VI  
+Date of birth  
+May 8th 1993 
+Place of birth  
+Binh Dinh province 
+Gender 
+Female 
+Mobile 
+0126 5044 706 
+Email  
+tonnuhoangvi@gmail.com 
+Address 
+60/3G Trung Chanh Ward, Hoc Mon District, HCM City 
+CAREER OBJECTIVE 
+Become C++ Developer or Tester in a professional environment. 
+Working in fields which improve my knowledge and experience of  Programming, 
+Algorithm Analysis. 
+Passion for researching in highly applications projects. 
+Work in a dynamic and professional environment to master the English language. 
+Improve knowledge, experience and skills to perfect myself to contribute to the success 
+of your company. 
+EDUCATION 
+2011- 2015: Sai Gon University  Faculty of Mathematics and Applications. 
+Major in Applied Mathematics. 
+GPA:  7.68 
+Toeic 530 
+Member in ICIP LAB (University of Science-HCM City) 
+2008 – 2011:  Studied at Nguyen Cong Tru School in Go Vap District, HCM city. 
+QUALIFICATION & KNOWLEDGES 
+Basic Programming Skill about Matlab, C/C++, .NET (C#), SQL, Testing, HTML, PHP. 
+Knowledge about Mathematics, Data Structure, OOP, Algorithm Analysis, Artificial 
+Intelligence. 
+PERSONAL CHARACTERISTICS 
+Good communication skill. 
+Teamwork skill: good at listening, learning, sharing, developing and working together to 
+achieve objective. 
+Capability of managing time and working under high pressure. 
+Friendliness, carefulness, responsibility, honesty and optimistic. 
+Ready to learn and eager to 
+INTERESTS 
+Reading book, magazines, story and discussing with friends. 
+Listening music, watching cartoon. 
+TAKEN PROJECTS 
+Projects 
+1. Analyze and 
+design of 
+information 
+system (Subject 
+Project) 
+Use  the  C#  programming  language associated  with  management  
+system database  Microsoft  SQL  Server 2008. 
+Results:  allow  users  manage the  basic  information,  basic  and 
+advance searching . 
+2. Computer 
+Graphics (Group 
+Project) 
+Development of the course is to simulate the solar system 
+Using the C ++ programming language combined with OpenGL. 
+Result: the basic simulation solar system includes the Sun and five 
+planets. Each planet rotation axis and its own orbit. Perform the 
+following functions: moves the zoom in, zoom out, switch views, 
+covered for each planet textures, changing the speed of rotation. 
+3. Bachelor thesis 
+(from August 
+2014 to June 
+2015) 
+The system supports monitoring, evaluation of children’s health 
+status and forcast their height combined nutrition 
+We implemented a system that assists parents to monitor the 
+development of their children. Our system allows users track the 
+heights and weights of a child since he was born up to adulthood, 
+predict his age of puberty and provide nutritional advice. Particularly, 
+it predicts the heights in near future (3 months and 1 year following) 
+and the adult stature. 
+Group 2 person. 
+Using  the  Matlab version 2012A. 
+In this project, I collected data, implemented the algorithm of 
+monitoring the height and weight, predicting the height and the time 
+of puberty. 
+REFEREES 
+Professor  PhD Pham The Bao 
+Thesis Supervisor 
+Faculty of Math and Computer Science, University of Science of HCM City 
+Email:   ptbao@hcmus.edu.vn 
+I confirm that the information above is true and  accurate to the best of my knowledge . 

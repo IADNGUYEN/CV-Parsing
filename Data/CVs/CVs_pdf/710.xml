@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="34" family="Ubuntu" color="#000000"/>
+	<fontspec id="1" size="18" family="Ubuntu" color="#479099"/>
+	<fontspec id="2" size="12" family="Ubuntu" color="#000000"/>
+	<fontspec id="3" size="13" family="Ubuntu" color="#000000"/>
+	<fontspec id="4" size="20" family="Ubuntu" color="#000000"/>
+	<fontspec id="5" size="12" family="Ubuntu" color="#479099"/>
+	<fontspec id="6" size="18" family="Ubuntu" color="#000000"/>
+	<fontspec id="7" size="18" family="Ubuntu" color="#000000"/>
+	<fontspec id="8" size="12" family="Ubuntu" color="#7c7c7c"/>
+	<fontspec id="9" size="13" family="Ubuntu" color="#ffffff"/>
+	<fontspec id="10" size="15" family="Ubuntu" color="#000000"/>
+<text top="39" left="181" width="281" height="39" font="0">Chu Quang Khánh</text>
+<text top="80" left="183" width="182" height="20" font="1">Internship Application</text>
+<text top="35" left="675" width="181" height="13" font="2"><a href="mailto:chuquangkhanh0209@gmail.com">chuquangkhanh0209@gmail.com</a></text>
+<text top="63" left="758" width="97" height="13" font="2">(+84) 96 536 6576</text>
+<text top="91" left="556" width="299" height="13" font="2">21, 7th street, Linh Trung ward, Thu Duc district, Ho Chi</text>
+<text top="106" left="750" width="106" height="13" font="2">Minh city, Viet Nam</text>
+<text top="170" left="37" width="402" height="15" font="3">Friendly, Willing to learn, Interested in technology and programing</text>
+<text top="201" left="37" width="122" height="23" font="4"><b>EDUCATION</b></text>
+<text top="286" left="51" width="97" height="13" font="5"><i>09/2014 – Present</i></text>
+<text top="240" left="51" width="369" height="20" font="6"><b>Telecommunication Electronic Engineering</b></text>
+<text top="260" left="51" width="66" height="20" font="7">Student</text>
+<text top="286" left="501" width="41" height="13" font="5"><i>GPA 6.7</i></text>
+<text top="319" left="74" width="349" height="15" font="3">Basic Electronic, Information Electronic, Digital Technique</text>
+<text top="338" left="74" width="367" height="15" font="3">Embeded System, VHDL, Microprocessor, Computer network</text>
+<text top="357" left="74" width="351" height="15" font="3">C programming, Visual Baisc, High-frequency technique, ...</text>
+<text top="448" left="51" width="97" height="13" font="5"><i>05/2018 – Present</i></text>
+<text top="402" left="51" width="73" height="20" font="6"><b>JavaDev</b></text>
+<text top="423" left="51" width="129" height="20" font="7">Green Academy</text>
+<text top="481" left="74" width="364" height="15" font="3">Variables and operators, Decision - Making Constructs, Array</text>
+<text top="500" left="74" width="280" height="15" font="3">Class and Object, Method and Access Speciﬁer</text>
+<text top="519" left="74" width="414" height="15" font="3">Packages, Java.Lang Package, Inheritance, Interface, Abstraction and</text>
+<text top="536" left="74" width="87" height="15" font="3">Polymorphism</text>
+<text top="627" left="51" width="102" height="13" font="5"><i>04/2018 – 05/2018</i></text>
+<text top="581" left="51" width="400" height="20" font="6"><b>Introduction to programming (C programming)</b></text>
+<text top="601" left="51" width="129" height="20" font="7">Green Academy</text>
+<text top="660" left="74" width="234" height="15" font="3">Flowcharts, Conditions, Loop, Function</text>
+<text top="679" left="74" width="237" height="15" font="3">Array, String, Struct, Data Management</text>
+<text top="737" left="37" width="198" height="23" font="4"><b>WORK EXPERIENCE</b></text>
+<text top="822" left="51" width="97" height="13" font="5"><i>09/2014 – Present</i></text>
+<text top="776" left="51" width="141" height="20" font="6"><b>Lab Experiences</b></text>
+<text top="796" left="51" width="324" height="20" font="7">University of Technology and Education</text>
+<text top="822" left="457" width="85" height="13" font="5"><i>Ho Chi Minh city</i></text>
+<text top="838" left="51" width="464" height="13" font="8"><i>Having ability to use software: Proteus, PIC-C, C-Free, Visual Studio Visual Baic 6.0, HFSS,</i></text>
+<text top="852" left="51" width="36" height="13" font="8"><i>Eclipse</i></text>
+<text top="884" left="74" width="326" height="15" font="3">Digital Technique, Microprocessor, Computer network</text>
+<text top="906" left="74" width="231" height="15" font="3">Special in C programming, Visual Basic</text>
+<text top="997" left="51" width="102" height="13" font="5"><i>07/2016 – 01/2017</i></text>
+<text top="951" left="51" width="112" height="20" font="6"><b>Saler/Leader</b></text>
+<text top="972" left="51" width="75" height="20" font="7">Sua Xanh</text>
+<text top="997" left="402" width="140" height="13" font="5"><i>Viet Nam, Ho Chi Minh city</i></text>
+<text top="1014" left="51" width="487" height="13" font="8"><i>Sua Xanh is a startup project organized by students, the products are milks made from beans.</i></text>
+<text top="1027" left="51" width="265" height="13" font="8"><i>Their goal is greening Viet Nam by vegetable milks</i></text>
+<text top="1060" left="74" width="404" height="15" font="3">Leader and manage a team to achieve our goals (revenue, quantity,</text>
+<text top="1076" left="74" width="207" height="15" font="3">development of my teammates,...)</text>
+<text top="1098" left="74" width="159" height="15" font="3">Sale and Customer Service</text>
+<text top="201" left="605" width="69" height="23" font="4"><b>SKILLS</b></text>
+<text top="248" left="615" width="122" height="15" font="9">Communication skill</text>
+<text top="248" left="764" width="56" height="15" font="9">Listening</text>
+<text top="284" left="615" width="49" height="15" font="9">Researh</text>
+<text top="284" left="692" width="95" height="15" font="9">Critical thinking</text>
+<text top="319" left="615" width="54" height="15" font="9">Adaptive</text>
+<text top="319" left="697" width="63" height="15" font="9">Teamwork</text>
+<text top="373" left="605" width="143" height="23" font="4"><b>CERTIFICATES</b></text>
+<text top="413" left="605" width="237" height="17" font="10">The most eﬀective team (12/2016)</text>
+<text top="430" left="605" width="47" height="13" font="8"><i>Sua xanh</i></text>
+<text top="455" left="605" width="213" height="17" font="10">The most eﬀective Sale project</text>
+<text top="472" left="605" width="138" height="17" font="10">(03/2016 – 04/2016)</text>
+<text top="490" left="605" width="98" height="13" font="8"><i>Awake your power</i></text>
+<text top="531" left="605" width="126" height="23" font="4"><b>LANGUAGES</b></text>
+<text top="571" left="605" width="44" height="15" font="3">English</text>
+<text top="628" left="605" width="111" height="23" font="4"><b>INTERESTS</b></text>
+<text top="676" left="616" width="70" height="15" font="3">Technology</text>
+<text top="676" left="716" width="71" height="15" font="3">Programing</text>
+<text top="710" left="616" width="48" height="15" font="3">Modern</text>
+<text top="710" left="694" width="38" height="15" font="3">Physic</text>
+<text top="710" left="763" width="45" height="15" font="3">Science</text>
+<text top="304" left="75" width="41" height="13" font="5"><i>Courses</i></text>
+<text top="466" left="75" width="59" height="13" font="5"><i>BASICJAVA</i></text>
+<text top="644" left="75" width="41" height="13" font="5"><i>Courses</i></text>
+<text top="869" left="75" width="111" height="13" font="5"><i>Self - study, Research</i></text>
+<text top="1044" left="75" width="383" height="13" font="5"><i>Leadership, Time management, Communication, Listening and Teamwork</i></text>
+</page>
+</pdf2xml>

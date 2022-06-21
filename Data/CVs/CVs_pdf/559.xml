@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="25" family="RobotoCondensed" color="#ffffff"/>
+	<fontspec id="1" size="16" family="RobotoCondensed-Light" color="#ffffff"/>
+	<fontspec id="2" size="13" family="FontAwesome" color="#ffffff"/>
+	<fontspec id="3" size="23" family="RobotoCondensed" color="#ffffff"/>
+	<fontspec id="4" size="16" family="RobotoCondensed" color="#414142"/>
+	<fontspec id="5" size="14" family="RobotoCondensed" color="#444444"/>
+	<fontspec id="6" size="16" family="RobotoCondensed-Light" color="#444444"/>
+	<fontspec id="7" size="23" family="FontAwesome" color="#ffffff"/>
+	<fontspec id="8" size="23" family="RobotoCondensed" color="#444444"/>
+	<fontspec id="9" size="23" family="RobotoCondensed" color="#263238"/>
+	<fontspec id="10" size="16" family="RobotoCondensed-Light" color="#414142"/>
+	<fontspec id="11" size="13" family="ArialMT" color="#555555"/>
+<text top="240" left="25" width="218" height="30" font="0"><b>NGUYEN HUU THANH</b></text>
+<text top="276" left="100" width="71" height="20" font="1">AI Engineer</text>
+<text top="341" left="18" width="13" height="14" font="2"></text>
+<text top="338" left="39" width="74" height="19" font="1">09/12/1998</text>
+<text top="374" left="20" width="11" height="14" font="2"></text>
+<text top="371" left="39" width="30" height="19" font="1">Male</text>
+<text top="408" left="20" width="11" height="14" font="2"></text>
+<text top="405" left="39" width="86" height="19" font="1">094 777 6819</text>
+<text top="441" left="19" width="12" height="14" font="2"></text>
+<text top="438" left="39" width="145" height="19" font="1">hthanh912@gmail.com</text>
+<text top="475" left="21" width="8" height="14" font="2"></text>
+<text top="471" left="39" width="197" height="19" font="1">C15B/21 Liên ấp 3-4-5, Ấp 3, Xã</text>
+<text top="492" left="39" width="192" height="19" font="1">Hưng Long, Huyện Bình Chánh,</text>
+<text top="513" left="39" width="146" height="19" font="1">Thành phố Hồ Chí Minh</text>
+<text top="548" left="22" width="5" height="14" font="2"></text>
+<text top="545" left="39" width="185" height="19" font="1">facebook.com/thanhmimiu09</text>
+<text top="596" left="14" width="220" height="27" font="3"><b>SUMMARIZE YOURSELF</b></text>
+<text top="641" left="14" width="197" height="19" font="1">I want to learn more about Data</text>
+<text top="662" left="14" width="53" height="19" font="1">Science.</text>
+<text top="682" left="14" width="228" height="19" font="1">I'll try my best and I'm hoping to gain</text>
+<text top="703" left="14" width="227" height="19" font="1">understanding, exeperience from my</text>
+<text top="724" left="14" width="66" height="19" font="1">internship.</text>
+<text top="91" left="294" width="195" height="19" font="4"><b>TON DUC THANG UNIVERSITY</b></text>
+<text top="91" left="752" width="127" height="18" font="5"><b>SEP 2016 - PRESENT</b></text>
+<text top="271" left="294" width="173" height="19" font="4"><b>ARTIFICIAL INTELLIGENCE</b></text>
+<text top="360" left="294" width="134" height="19" font="4"><b>MACHINE LEARNING</b></text>
+<text top="519" left="294" width="195" height="19" font="4"><b>TON DUC THANG UNIVERSITY</b></text>
+<text top="578" left="294" width="195" height="19" font="4"><b>TON DUC THANG UNIVERSITY</b></text>
+<text top="845" left="294" width="143" height="19" font="6">- Watch movie, football</text>
+<text top="866" left="294" width="74" height="19" font="6">- Read book</text>
+<text top="886" left="294" width="118" height="19" font="6">- Listen rock music</text>
+<text top="38" left="302" width="29" height="24" font="7"></text>
+<text top="34" left="352" width="5" height="27" font="8"><b> </b></text>
+<text top="36" left="357" width="111" height="27" font="9"><b>EDUCATION</b></text>
+<text top="112" left="294" width="157" height="19" font="10">Major: Computer Science</text>
+<text top="142" left="294" width="114" height="19" font="6">Third-year student</text>
+<text top="163" left="294" width="83" height="19" font="6">GPA: 7.11/10</text>
+<text top="218" left="305" width="23" height="24" font="7"></text>
+<text top="216" left="352" width="246" height="27" font="9"><b>PROJECTS IN UNIVERSITY</b></text>
+<text top="292" left="294" width="456" height="19" font="10">https://drive.google.com/file/d/19MskyeHCGgXPKXuLfgHrmlyh4GFkqIG-</text>
+<text top="322" left="294" width="293" height="19" font="6">- Android navigation map using Astar algorithm</text>
+<text top="380" left="294" width="121" height="19" font="10">News classification</text>
+<text top="410" left="294" width="164" height="19" font="6">- Use and evaluate models</text>
+<text top="466" left="305" width="25" height="24" font="7"></text>
+<text top="464" left="352" width="108" height="27" font="9"><b>ACTIVITIES</b></text>
+<text top="539" left="294" width="162" height="19" font="10">10000 steps - Change Life</text>
+<text top="598" left="294" width="163" height="19" font="10">Join conferences about IT</text>
+<text top="653" left="307" width="20" height="24" font="7"></text>
+<text top="652" left="352" width="199" height="27" font="9"><b>FAVORITE SUBJECTS</b></text>
+<text top="701" left="294" width="135" height="19" font="6">- Artificial Intelligence</text>
+<text top="722" left="294" width="119" height="19" font="6">- Machine Learning</text>
+<text top="742" left="294" width="83" height="19" font="6">- Data Mining</text>
+<text top="780" left="309" width="16" height="24" font="7"></text>
+<text top="779" left="352" width="84" height="27" font="9"><b>HOBBIES</b></text>
+<text top="1236" left="823" width="4" height="15" font="11"> </text>
+</page>
+</pdf2xml>

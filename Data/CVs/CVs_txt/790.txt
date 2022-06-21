@@ -1,0 +1,105 @@
+ 
+CURRICULUM VITAE 
+PERSONAL INFORMATION 
+Full name                   NGUYEN MINH LUAN 
+Date of birth              November 14th, 1994 
+Contact Address       258/18/18 Cach Mang Thang Tam St., Dist. 3, Ho Chi 
+Minh City, Vietnam 
+Phone number          0126 714 6714 
+Email                          luannguyen141194@gmail.com 
+CAREER OBJECTIVE 
+I am seeking a position as a software developer at the challenging environment where I can 
+apply and enhance my knowledge as well as contribute my abilities to company success. 
+EDUCATIONAL BACKGROUND 
+2012  2014                Higher Diploma Of Software Engineering 
+FPT-APTECH Academy HCM City 
+Graduated at Good/Excellent Grade 
+2014                            TOEIC Course 
+Vietnamese American English Center 
+PERSONAL ACHIEVEMENT 
+2014                            Be one of selected students to work for FPT-APTECH Project 
+2013-2014                  Top of students in many subjects such as Java, C#, ASP.NET, EJB. 
+WORK EXPERIENCE 
+e-Clock Project 
+(FPT-APTECH) 
+10/2012 
+Team Leader 
+Analyze  database  
+Assign works to other members. 
+Design  web  pages  using  HTML  and  CSS  with  Dreamweaver 
+software. 
+Use JavaScript to build website.
+Translate Vietnamese documents into English. 
+Elevation System 
+Project 
+(FPT-APTECH) 
+3/2013 
+Team Leader 
+Read and analyze project requirements. 
+Analyze objects, entities and create database. 
+Build Use Case diagrams, E-R diagrams. 
+Design GUI. 
+Assign works to other members. 
+Use the following tools for programming: 
+o IDE: Netbeans 6.9.1 
+o Database: Microsoft SQL Server 2008 
+o Development environment: JDK 1.6 
+Online Jewelry 
+Store 
+(FPT-APTECH) 
+8/2013 
+Team Leader 
+Read and analyze project requirements. 
+Build Use Case diagrams, Sequence diagrams. 
+Design GUI. 
+Assign works to other members. 
+Use the following tools for programming: 
+o IDE: Microsoft Visual Studio 2012 
+o Database: Microsoft SQL Server 2008 
+o Development environment: .NET Framework 
+o Web server: IIS 
+Travel Agency 
+Website 
+(FPT-APTECH) 
+2/2014 
+Team Leader 
+Read and analyze project requirements. 
+Build E-R diagrams, Sequence diagrams. 
+Design GUI. 
+Assign works to other members. 
+Use the following tools for programming: 
+o IDE: Netbeans 6.9.1 
+o Database: Microsoft SQL Server 2008 
+o Development environment: JDK 1.6, EJB 
+Framework 
+o Web server: JBoss 5 
+Work at Redimed 
+Company 
+8/2014-7/2015 
+Team Leader 
+Build web and mobile application for hospital 
+management system.
+Build Telehealth system (Long distance consultation 
+with video conference and medical devices)
+Assign works to other members.
+Analyze system
+Use the following technology and frameworks:
+o Framework: AngularJS, NodeJS, Cordova, Ionic
+o Technology: WebRTC
+o Database: MySQL
+
+PROFESSIONAL SKILLS 
+English                                         Good at listening, speaking, reading and writing skills. 
+Programming Language           Proficient in C++, Java, JavaScript, XML,HTML, CSS, C#, 
+ASP.Net, JSP, MVC Framework, AngularJS, NodeJS,   
+WebRTC, Android, Swift
+RDMBS                                       Microsoft SQL Server, Oracle, MySQL. 
+Application                                 Microsoft Visual Studio 2008-2012, Microsoft SQL Server 2008, 
+NetBeans IDE, Dreamweaver, Eclipse,. 
+Leading and teamwork skill      Appeal and coordinate people to get the expected results. 
+Communication Skill                 Get along well with different kinds of people. 
+Other skills                                  Learning quickly. 
+Working well under high pressure. 
+Working hard to meet company requirement and deadline. 
+APPLICANT’S SIGNATURE 
+Nguyen Minh Luan 

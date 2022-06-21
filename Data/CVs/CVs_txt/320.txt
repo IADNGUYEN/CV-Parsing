@@ -1,0 +1,53 @@
+ 
+Summary 
+3+ years’ experience in software development includes Analysis, Design and 
+Development of Web-based applications. 
+Expertise in Object Oriented Programming (OOP) concepts. 
+Experience in implementing applications using Spring, Struts and ORM 
+frameworks. 
+Skills 
+Programming Languages: Java, C, SQL 
+Java/J2EE Technolohgies: servlets, jsp, jdbc 
+J2EE Frameworks: Apache Struts, Spring, Hibernate, Junit, Log4J 
+Web  Technologies: XML, XSL, XSLT, CSS, Java Script, HTML, Ajax, Websockets, 
+Web services 
+Application Servers: Tomcat, WebSphere, WebLogic 
+Database: MySQL, Oracle, Microsoft SQL Server 
+IDE: Eclipse, Netbeans, RAD, Spring Tool Suite 
+Source Control: CVS, Subversion, Git 
+Methodologies: Waterfall, Agile 
+Experience 
+FPT TECHNOLOGY SOLUTIONS  Hanoi, Vietnam 
+11/2013  Present 
+Invoice Certification System (ICS), 2013 – now 
+Provide a public online services for e-invoice creation and verification. 
+Provide a national centralize e-invoice database for management and cross-
+checking by GDT. 
+Provide a solution to authenticate Vietnamese e-invoices. 
+Allow government, companies, and individual to check the validity of an 
+invoice. 
+FPT SOFTWARE – Hanoi, Vietnam 
+12/2011 – 03/2013 
+NSK, 09/2011 – 09/2013 
+Develop an ERP system for an UK customer. 
+Standardize the Basic Supply Chain Management (SCM) business process, 
+such as Finance, Invoice, Sales Order, Purchase order, Shipping, Stock, 
+Forecast, etc… 
+Consolidate Production, Sales, and Inventory related information for cross-
+regional visualization and real-time data communication. 
+Duong Viet Trung 
+Developer 
+Hanoi, Vietnam 
+dg.viettrung@gmail.com  (84) 167 760 6899 
+Trung Duong 
+P a g e  | 2 
+Education 
+FPT UNIVERSITY – Hanoi, Vietnam 
+2014  2016 
+Master’s degree, Software Engineering 
+FPT UNIVERSITY – Hanoi, Vietnam 
+2009  2013 
+Bachelor’s degree, Software Engineering 
+Languages 
+Vietnamese 
+English 

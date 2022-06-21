@@ -1,0 +1,77 @@
+Self-improvement
+Particularity
+Logical thinking
+IELTS: 6.0
+TOIEC: 850
+2018: Have a publication relate
+to data and algorithms
+Third prize  Trinh An Binh,
+“Build Artificial Neural Network
+Model and Apply Principal
+Component Analysis to predict
+permeability – porosity in X
+field , Cuu Long basin”, Eureka
+20th  Science journal of
+Vietnam for Student and
+Teacher, p.678 – p.682.
+2016-2018: Scholarship for
+excellent student by PVU.
+2015-2018: First prize of
+Badminton in the PVN
+Physical Education
+Competition.
+Going to the Gym, playing
+Badminton, Soccer
+Epinion Company
+July 2018   Now
+Data Analyst
+Collecting: Define standards, apply quote, set up dimension for surveys
+Processing: Clean, label, dealing with missing values. Re-code, define
+noise/signal ratio, convert and transform data. 
+Analyzing: Build up K-Means clustering,  regression model, factor
+analysis, Define descriptive statistics, test hypothesis,
+Visualizing: Interpret data-insight for clients, creating dashboards, reports.
+Japan Vietnam Petroleum Company
+Nov 2017  Mar 2018
+Interns:
+Deploy, discuss, apply algorithms such as Linear Regression, K-Means
+related to Statistics to optimize the accuracy, performance of models
+PETROVIETNAM UNIVERSITY- PVU
+July 2013  July 2018
+Major: Geo-Statistics
+GPA: 7.8/10
+Trinh An Binh
+AI Engineer
+Data processing  analysis: Python: Good: use some libraries: numpy,
+pandas to apply for organizing, processing, analyzing data.
+Good: Statistical Package for the Social Sciences (SPSS) 
+Medium: apply some machine learning packages: seborn, sklean,
+statsmodel to build up K-Means clustering, regression models.
+Data management: Medium: SQL organize, retrieve, manage data.
+Data exploration: Good: Python can use some libraries: numpy, pandas,
+statsmodel to find data-insight and data-trend.
+Data visualization: Good: VBA: apply for increasing productivity in Excel,
+PPT. Medium: Python: use matplotlib library to present preview reports.
+Data prediction: Algorithms: Good: have real experiment in comparing,
+optimizing supervised  unsupervised model in Artificial Neural Network,
+Root Mean Square Error, R-square, p-value. 
+Online tool  Digital Ads: Medium: understand and use Google packages for
+tracking, analyzing, visualizing data: Google Tag Manager, Google Analysis,
+Data Studio, Tableau, Power BI.
+I am looking for a professional environment where I can spend 5 days per
+week to "play" with data and model, learn from experts, share a little skill,
+from that gain productivity for the company, increase income for my family.
+SKILLS
+LANGUAGE
+HONORS & AWARDS
+INTERESTS
+July 04, 1995
+Male
+(+84) 985520685
+binhta1995@gmail.com
+Ho Chi Minh City  Vietnam
+fb.com/Binh Trinh
+WORK EXPERIENCE
+EDUCATION
+SKILLS
+OBJECTIVE

@@ -1,0 +1,56 @@
+ 
+TRAN HUYNH TOI 
+Engineer 
+CONTACT INFORMATION   
+Oct 04, 1995 
+Male 
++841696628373 
+toitran4195@gmail.com 
+7A/126 Thanh Thai, Ward 14, District 10, HCM City 
+OBJECTIVE 
+Take advantages of website designing, programming, embedding 
+on system skills and creative mind to design IoT applications, 
+which is a useful and prospective application in the future. 
+SKILLS 
+C 
+PHP/C#  
+Logical thinking and creative 
+Team working 
+ACTIVITIES 
+Dec 2013 – present 
+Member of Social Work Group   Organize annual events for children.   Organize visits and give gifts to children at SOS Children's 
+Village Dalat 
+Jul 2016 – Aug 2016 
+Having participated in the " TIEP SUC MUA THI 2016" 
+program. 
+EDUCATION 
+Sep 2013 – Present  
+HOCHIMINH CITY UNIVERSITY OF TECHNOLOGY 
+Major :  Electronics and Telecommunications 
+GPA : 7.0/10 
+WORK EXPERIENCY 
+Feb 2017 – Jun 2017 
+Control Home Appliance System 
+Designer   Design Website with database, php and html.   Embedded on arduino Mega to upload data to website using 
+ESP8266v1 module.  Using Sim800a for downloading data on website and controlling 
+home appliance via SMS 
+Achievements and skills gained :    Control and supervisor home appliance system through website 
+and sms   Familiar with embedding on arduino mega, esp 8266v1 module 
+and sim800a kit.   Improve Web designing skill and persuading skill. 
+Sep 2017  Jan 2018 
+The Automatic 
+Bus Ticketing System 
+Using RFID 
+Technologys 
+Designer   Design RFID Tag’s identification system used to passenger’s 
+tag authentication and this system put on the bus.   Embedded on arduino to authentication tag using RC522 
+module and having a ram memory to save the passenger’s data.   Design a LCD screen to inform results for passenger and using 
+to show the time  Design a application program on the computer used to copy data 
+from the system on the bus to computer and save it. 
+INTERESTS 
+Soccer   
+Mussic 
+Travelling 
+Read book  
+CERTIFICATIONS 
+TOEIC Certificate with score 530 issued by IIG 2017 

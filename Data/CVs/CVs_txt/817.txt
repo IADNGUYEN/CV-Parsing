@@ -1,0 +1,77 @@
+Oct 2015  Present
+FPT University.
+Major: Software Engineer.
+Java
+09/2017  11/2017
+LAB JAVA WEB.
+Developer
+Create completely a news website using MVC model.(working in group,
+3 members) 
+Main responsibilities:  Code back end.
+05/2017  07/2017
+LAB JAVA DESKTOP.
+Worker  Create Desktop applications using Java Swing.
+01/2017  03/2017
+LAB JAVA OOP.
+Worker  Create applications using Java OOP.
+09/2016  11/2016
+LAB C Language.
+Worker  Create applications using C language.
+09/2017  11/2017
+VBA Collaborator
+Collaborator of Vietnam Basketball Association, Hồ Chí Minh, Việt
+Nam.  Check-in ticket weekly. (Tuesday)
+Le Dinh Thien Vu
+Internship Program
+Date of birth:
+April 21, 1996
+Gender:
+Male
+Phone:
+0981875044
+Email:
+vuldtse62590@fpt.edu.vn
+Address:
+Ho Chi Minh, Viet Nam.
+Website:
+https://www.facebook.com/thienvu21o396
+OBJECTIVE  Have a chance to practice skills.  Be a part of team to develop project of company.  Master of Java.  Full-Stack Developer.
+EDUCATION
+WORK EXPERIENCE
+ACTIVITIES
+12/2016  3/2017
+FPT University Collaborator
+Collaborator of FPT University.  Collaborator at the recruitment room.
+2016
+Certification of Completing Summit 2.
+2016
+Red level in LAB C (Passed level < Blue < Yellow < Red)
+2017
+Passed level in LAB Java OOP (Passed level < Blue < Yellow < Red)
+2017
+Blue level in LAB Java Desktop (Passed level < Blue < Yellow < Red)
+2017
+Completing Project (News Website).
+Language
+Communicating Fluent English.
+Computer
+Fundamental C Language, Java OOP language, Java Desktop,
+JavaWeb, Fundamental front end.
+CERTIFICATIONS
+HONORS & AWARDS
+SKILLS
+INTERESTS
+I like soccer, music..
+PROJECTS
+SweetGuys Group
+(9/2017  11/2017)
+Customer
+LAB JAVA WEB.
+Description  Sport news website.
+Team size
+3
+My position
+Developer.
+My responsibilities  Analysis and design  Development  Review code  Bug Fixing
+Technologies used  Server: Apache Tomcat 8.0.27.0.  Java EE version: Java EE 7 Web.  Hibernate 4.3.1  Java Swing 4.0.1  Bootstrap.
+© topcv.vn

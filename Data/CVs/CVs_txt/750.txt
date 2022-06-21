@@ -1,0 +1,114 @@
+NGUYỄN VĂN TRƯỜNG 
+Email 
+: nguyenvantruong2020@gmail.com 
+Mobile  
+: 01688896843 
+Date of Birth: June 23rd 1992 
+Address 
+:  Bù Đăng Ward, Bình Phước  Province. 
+CAREER OBJECTIVES 
+Good at C# language. 
+Have knowledge about Java language. 
+Good at SQL Server and MySQL. 
+Good at OOP,Design Patterns(Singleton,Factory and Strategy) 
+Have knowledge about ASP.NET MVC, Hibernate, Android Application, JSP 
+Servlet. 
+SKILLS 
+Programing Languages/ 
+Technologies 
+Java, Android, C#, HTML/CSS/Javascript, XML, JSON, 
+OOP, Design Pattern. 
+C# 
+ASP.NET MVC 5.0. 
+ASP.NET Web Form. 
+Window Form Application. 
+Java. 
+Android. 
+Databases 
+MySQL, SQL Server 
+Tools 
+Netbeans, Eclipse, Android Studio, Visual Studio. 
+Foreign Languages 
+English(4 skills) 
+EDUCATION 
+2011 – 2015 Technical of Education University  
+Major: Software Engineering. 
+PROJECTS 
+No. 
+Project Name 
+Technical 
+Description 
+1 
+Computer Shop 
+Website  
+Position: 
+Developer. 
+Team size: 2. 
+ASP.NET MVC 5.0 
+MVC Design Pattern 
+MySQL  
+Responsive Web Design 
+Bootstrap Front-end 
+Framework 
+Computer Shop is a shopping 
+website about computer using C# 
+language.This based on MVC 
+Design Pattern and used Bootstrap 
+Front-end Framework to design 
+interface for custormers and admin 
+management.Moreover,this 
+website can compatible to other 
+devices mobile,ipad,...Database is 
+MySQL. 
+2 
+Sport Shop 
+JSP-Servlet 
+Sport Shop is a shopping website 
+Website 
+Position: 
+Developer. 
+Team size: 1. 
+MySQL 
+Bootstrap Front-end 
+Framework 
+about sport using Java language. 
+Server: Using Servlet respond all 
+requests from JSP sending. 
+Client: Using JSP to send requests 
+from users to server. 
+Database is MySQL. 
+3 
+Management 
+Score Website 
+Position: 
+Developer. 
+Team size: 1. 
+ASP.NET Web form 
+SQL Server 
+A website support Lecturers and 
+Students. Lecturers: Manage Score their 
+classes. Students: Seeing their scores for 
+all subjects. 
+4 
+English 
+Animation Quiz 
+App 
+Position: 
+Developer. 
+Team size: 2. 
+Android 
+SQLites 
+An Android quiz game. Player 
+choose the correct the result while 
+each animation is running. 
+5 
+Products 
+Management 
+Position: 
+Developer. 
+Team size: 1. 
+C# Window Form 
+Application 
+SQL Server 
+An application support user to 
+manage products in the store. 

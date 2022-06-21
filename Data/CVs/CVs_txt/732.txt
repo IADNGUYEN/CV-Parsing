@@ -1,0 +1,485 @@
+CURRICULUM VITAE
+PERSONAL INFORMATION
+Name
+Lieu Le Thi  Bich
+Gender
+Female
+Date of Birth
+November 29, 1985
+Email address
+Phone number
+Lieule2911@yahoo.com
+0937672773
+SUMMARY
+Primary skills:
+Nearly 6 years of experience in manual testing for web, desktop and mobile application 
+1 year of experience in automation testing with Selenium tool 
+Good knowledge in Database: SQL Server 2000, Oracle.
+Good at working group, dynamic, careful and easily adaptable.
+Good time management skill to ensure the work progress.
+Well communicating in English.
+Education and qualifications:
+Graduate  of  The  University  Natural  of  Sciences  in  HCM  city,  Faculty  of Information 
+System 2007  2010
+TECHNICAL SKILLS
+Skill
+Experience (Year)
+Selenium RC
+Java
+1
+Application servers
+Apache/Tomcat
+1
+Database
+SQL Server
+2
+Oracle
+2
+System Administration
+Windows
+9
+Testing
+Test cases development based on various 
+techniques such as: Equivalence 
+Partitioning, Boundary Value Analysis, 
+5
+Page 1
+Decision Table, State Diagram,.. 
+WORK EXPERIENCE
+2015  2016
+LARION Computing 
+Project
+Bomeba- PCS Extraction and Correction module
+✔
+Position
+Senior QC Engineer
+✔
+Project Size
+13 members
+✔
+Period
+Septemper 2015 – Current
+✔
+Description
+The Bomeba system is a solution for automating bookekeeping.
+The PCS Extraction module is responsible for extracting Preferred 
+Character Strings (P.C.S.) from the plain text version of the 
+submitted transaction document. It then gets analysed by the 
+automation process in other modules of the system.
+The Correction module is responsible for correcting the results of 
+the PCS extraction when due to one of several reasons the 
+information could not be located in the usual manner.
+The specification of some of the desired behaviours of the PCS 
+Extraction and Correction modules is provided in this document.
+✔
+Responsibilities
+✔
+Technology 
+Create Test Plan and estimate testing tasks. 
+Create and update Test case from Document Requirement. 
+Ask question and push respondent from client before writ-
+ing TCs and during testing. 
+Execute testing and report bug. 
+Review and assign bug to Developer 
+Manage testing tasks 
+Weekly report 
+Environment: SQL server, Windows 7, Visual 2010 
+Development Language:  C#
+2010  2015
+Harvey Nash Vietnam 
+Project
+Civica   Planned & Servicing
+✔
+Position
+QC Engineer
+✔
+Project Size
+50 members
+✔
+Period
+March 2015 to July 2015
+Page 2
+✔
+Description
+Planned & Servicing is an asset management function present in nearly 
+all social housing providers.  It usually sits alongside an organizations 
+reactive repair provision, and is by its nature closely related to reactive 
+repairs, but with important differences. It's planned by the organization.
+✔
+Responsibilities
+✔
+Technology
+–
+Create and update Test case from Document Requirement.
+–
+Ask question  and push respondent  from client before  writing 
+TCs and during testing.(Chatting,  call,  share  screen  via  
+Skype or  send  email  or  handovermeeting to clarify all DRs 
+before each sprint)
+–
+Review and sssign bug to Developer
+–
+Execute testing
+–
+Manage testing tasks
+–
+Environment: SQL Server, Windows 7, Web application, Visual 
+Studio 2012, .Net 4.5
+–
+Development Language:  C#, MVC
+Project
+BCC AdSystems
+✔
+Position
+QC Engineer
+✔
+Project Size
+30 members
+✔
+Period
+April 2012 – September 2015
+✔
+Description
+BCC AdSystems is meant to provide a complete solution to 
+businesses in adverting and media services sector. The BCC 
+AdSystems ecosystem comprises of multiple components including
+yet not limited to Enterprise the Accounting-and-more subsystem, 
+Media Desktop the Book, Bill and Pay subsystem, the decision 
+making supporting subsystem and Advantage the cloud version of 
+Enterprise and Media Desktop.
+✔
+Responsibilities
+✔
+Technology
+–
+Create and update Test case from Document Requirement.
+–
+Ask question  and push respondent  from client before  writing 
+TCs and during testing.(Chatting,  call,  share  screen  via  
+Skype or  send  email  or  handovermeeting to clarify all DRs 
+before each sprint)
+–
+Give issues to confirm with client in daily meeting
+–
+Execute testing
+–
+Review and assign bug to Developer
+–
+Manage testing tasks
+–
+Help  team  member  in  her/his  own  tasks.  (EX:  write  TC, 
+update  TC,regression testing).
+–
+Demonstrate with client after each sprint.
+–
+Environment: Oracle, Windows 7, Visual 2010, .Net 3.5, 
+Devexpress
+–
+Development Language:  C#
+Page 3
+Project
+Weatherbys   Entries & Declarations (Phase 2)
+✔
+Position
+QC Engineer
+✔
+Project Size
+15 members
+✔
+Period
+November 2011 – April 2012
+✔
+Description
+The business objective of this area of functionality is to create a 
+new area, called“View Entries and Declarations”, which will 
+replace the existing web pages listedbelow (within 
+www.racingadmin.co.uk): 
+Entries Tracking 
+Confirmations Tracking 
+Declarations Tracking
+Provisional Entries
+Confirmed 
+Entries 
+Provisional Declarations
+Confirmed Declarations
+Early Closing Entries (will be a separate page) 
+Condensed List
+✔
+Responsibilities
+✔
+Technology 
+Create and update TC, test script on time. 
+I understand requirement and follow the task. And I com-
+pleted my current task with good result. 
+Execute testing 
+Strong skill in T-SQL query so I can get easily data from
+DB. 
+Environment:
+Oracle, Windows 7, Web application 
+Development Language:
+Java/J2EE, JSP, JQuery/Javascript, 
+Html, XML. CSS 
+Web Servers
+: Apache Tomcat. 7.x, JBoss 
+Framework
+: Spring MVC, Spring 3.0 
+Browser
+: IE v8, Fire Fox v3.5.5, Chrome 10, Safari 5 
+Automation Test Tools
+:  Selenium version 2.0
+Project
+Volly
+✔
+Position
+QC Engineer
+✔
+Project Size
+12 Members
+✔
+Period
+September 2013 – November 2013
+✔
+Description
+Volly is your new personal assistant – one that helps you pay your 
+bills, remindsyou when they’re due (just like your Mom, but 
+without the nagging), keeps yourlife neatly organized and makes 
+sure you never pay a late fee again. This easy-to-use online bill  
+payment system helps you manage all  of  your accounts soyou’re  
+always in  the  loop when it  comes to  bills,  statements  and day-
+Page 4
+to-daynotices. No more surprises. No more overdue payments. No 
+more clutter.
+✔
+Responsibilities
+✔
+Technology
+–
+Create  Function list file  from  PRD  and User Story 
+documents.
+–
+Write and update TC file found on User Story Export files from 
+client.
+–
+Ask question and push respondent from client before writing 
+Tcs.
+–
+Give  issues  to  confirm  with  client  in  daily  report  as  soon 
+as  I  meet problems about authorization, new features,...
+–
+Update UC file as soon as customer has changed request.
+–
+Execute testing in IE8, Firefox 6.0 and raise defect in Exelarate 
+system of client.
+–
+Run End2End test through each Round.  
+–
+Verify defect before each Round.
+–
+Execute regression testing of defect from client.
+–
+Help  team  member  in  her/his  own  tasks.  (EX:  write  TC,  
+update  TC,regression testing).
+–
+Environment: SQL Server 2008 , .NET framework , Windows 7
+–
+Development Language: C#, Web application.
+–
+Browsers:  IE8 on Win7
+–
+Firefox 6.0
+Project
+SCC (Saigon Children’s Charity)  Phase2
+✔
+Position
+QC Engineer
+✔
+Project Size
+4 Members
+✔
+Period
+April 2011 – September 2011
+✔
+Description
+SCC  is looking for CMS(content management system) that could 
+help them tosolve all problems and could reduce expense for this 
+each year.And add functions in phase 2:
+–
+Manage Ecard
+–
+Send Ecard
+–
+Book Ticket Management
+–
+Book Ticket
+–
+Book Place, Book Place Management
+–
+Manage Announcement
+–
+Manage Announcement
+–
+Manage E-Newsletter
+✔
+Responsibilities
+–
+Create TC from SRS document
+–
+Deploy application in my PC after each build.
+–
+Execute testing and raise bug in Bugzilla system.
+–
+Weekly report about my tasks to QC Manager 
+–
+Create final test report.
+Page 5
+✔
+Technology
+–
+Environment: SQL Server 2008 , .NET framework , Windows 7
+–
+Development Language: C#, Web application.
+Project
+PCM (Publication Catalogue Management)
+✔
+Position
+QC Engineer
+✔
+Project Size
+3 Members
+✔
+Period
+April 2011 – May 2011
+✔
+Description
+1. PCM is a web application to help customers, account 
+managers to placeorders for main catalogues and flyers, 
+maintain orders, and view statusesof their orders.
+2. Allow customers to pick different main catalogue designs, 
+to review and toapprove  customised  main catalogues  and  
+flyers  with  their  logos  andcompany names on.
+3. Establish a consolidated place to manage customised main 
+cataloguesand flyers, art proofs for customers’ reviews and 
+final fine PDFs to print.
+4. Allow users on PCM to update statuses of orders and 
+artwork
+5. PCM users will be tailored with proper orders, work items, 
+and actions for orders according to their roles.
+✔
+Responsibilities
+✔
+Technology
+–
+Create and update TC of all UC that QCL assigns to me.
+–
+Help QC Lead reviewing his own TC.
+–
+Confirm immediately with BA when UC hasn’t been clearly.
+–
+Execute testing and report bug
+–
+Verified bug
+–
+Regression test after new build
+–
+Environment: SQL Server 2008 , .NET framework , Windows 7
+–
+Development Language: C#, Web application.
+Project
+PIMS (Prisoner Irish Manage System
+✔
+Position
+QC Engineer
+✔
+Project Size
+25 Members
+✔
+Period
+December 2010 – April 2011
+✔
+Description
+PIMS is a window application that helps user  manages the 
+information of allprisoners of IPS(Irish Prison System).
+✔
+Responsibilities
+–
+Write and update TC of all UC that QCL assigns for me
+–
+Finish testing and post bug in Bugzilla system of all function 
+that QCLassigns for me.
+–
+Work with the BA to clarify the Exit criteria before writing Tcs.
+–
+Run smoke testing after I had received new build.
+–
+Run the Regression Testing before each delivery.
+–
+Help  to  team  member  in  her/his  tasks.  (EX:  test,  verify  
+bugs and regression testing)
+Page 6
+✔
+Technology
+–
+Go to BA’s desk to confirm immediately with BA when UC 
+hasn’t been clearly.
+–
+Remind BA to update UC by email  or raise on Bugzilla  system
+When customer has changed request.
+–
+Discuss with BA and Dev to give the best way to apply for 
+application.
+–
+Environment: Oracle 10g , .NET framework , Windows XP 
+professional SP3 
+–
+Development Language: Visual Basic, Win form.
+Project
+Vielife
+✔
+Position
+QC Engineer
+✔
+Project Size
+9 Members
+✔
+Period
+October 2010 to December 2010
+✔
+Description       Vielife  Tobacco project  builds  a website  application to  
+support user  toleave tobacco off their life. User joins program by 
+taking all pre-programquestionnaires. Then, the system will give 
+advances and guide them howto leave tobacco.
+–
+Paper  Assessment:  Manage  the  reports  that  need  printing 
+including:Search  for  items  to  print  (reports,  cover  letter), 
+Create/Delete/Print  abatch of reports, Reconcile batches, Print 
+Reconciliation Report,… recorda form which has been received
+and has failed the initial validation
+–
+IPHT: Integrated Personal Health Team
+–
+ODMP: Online Depression Management Program
+–
+WMP: Weight loss Management Program
+✔
+Responsibilities
+✔
+Technology 
+–
+Smoke test IPHT &amp; WPM project.
+–
+Create TCs Paper Assessment project.
+–
+Test Paper Assessment project and raise bug in Bugzilla 
+system.
+–
+Verify bug.
+–
+Test hostfix ‘Tobacco, IPHT’ projects.
+–
+Restore  Database  and  deploy  application
+–
+Environment: SQL Server 2005 , .NET framework , Windows 
+XP
+–
+Development Language: C#, Web application.
+Page 7

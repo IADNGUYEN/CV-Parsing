@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="59" family="Roboto" color="#242424"/>
+	<fontspec id="1" size="26" family="Ionicons" color="#242424"/>
+	<fontspec id="2" size="26" family="Roboto" color="#242424"/>
+	<fontspec id="3" size="15" family="Roboto" color="#000000"/>
+	<fontspec id="4" size="15" family="Roboto" color="#000000"/>
+	<fontspec id="5" size="15" family="Roboto" color="#242424"/>
+	<fontspec id="6" size="14" family="Ionicons" color="#242424"/>
+<text top="31" left="264" width="364" height="70" font="0">Luan Dao Duy</text>
+<text top="112" left="45" width="20" height="27" font="1"></text>
+<text top="111" left="76" width="161" height="32" font="2"><b>Personal info</b></text>
+<text top="164" left="265" width="93" height="18" font="3"><b>Date of birth:</b></text>
+<text top="164" left="410" width="84" height="18" font="4">20/12/1996</text>
+<text top="187" left="265" width="81" height="18" font="3"><b>Nationality:</b></text>
+<text top="187" left="410" width="65" height="18" font="4">Viet Nam</text>
+<text top="209" left="265" width="63" height="18" font="3"><b>Address:</b></text>
+<text top="209" left="410" width="410" height="18" font="4">58/35/6 Au Co Street, Ward 9, Ho Chi Minh City 70000, Viet</text>
+<text top="226" left="410" width="34" height="18" font="4">Nam</text>
+<text top="248" left="265" width="108" height="18" font="3"><b>Phone number:</b></text>
+<text top="248" left="410" width="88" height="18" font="4">0981867669</text>
+<text top="271" left="265" width="104" height="18" font="3"><b>Email address:</b></text>
+<text top="271" left="410" width="180" height="18" font="4"><a href="mailto:luan1412167@gmail.com">luan1412167@gmail.com</a></text>
+<text top="369" left="45" width="20" height="27" font="1"></text>
+<text top="367" left="76" width="75" height="32" font="2"><b>Social</b></text>
+<text top="420" left="45" width="333" height="18" font="3"><b>LINKEDIN </b>: <a href="http://www.linkedin.com/in/luandaoduy96">www.linkedin.com/in/luandaoduy96</a></text>
+<text top="437" left="45" width="304" height="18" font="3"><b>GITHUB : </b><a href="https://github.com/luandaoduy96">https://github.com/luandaoduy96</a></text>
+<text top="454" left="45" width="290" height="18" font="3"><b>KAGGLE : </b><a href="http://www.kaggle.com/luan1412167">www.kaggle.com/luan1412167</a></text>
+<text top="471" left="45" width="337" height="18" font="3"><b>MEDIUM : </b><a href="https://medium.com/@luandaoduy96">https://medium.com/@luandaoduy96</a></text>
+<text top="514" left="45" width="24" height="27" font="1"></text>
+<text top="512" left="80" width="203" height="32" font="2"><b>Work experience</b></text>
+<text top="565" left="57" width="141" height="18" font="3"><b>Bach Khoa Elevator </b></text>
+<text top="582" left="108" width="91" height="18" font="3"><b>Ho Chi Minh </b></text>
+<text top="599" left="129" width="65" height="18" font="3"><b>Viet Nam</b></text>
+<text top="565" left="217" width="207" height="18" font="3"><b>Installation Elevator Engineer</b></text>
+<text top="565" left="710" width="138" height="18" font="5"><b>07/2017 – 08/2018</b></text>
+<text top="582" left="245" width="573" height="18" font="4">At the company, I have been learned a lot of things such as working with my team, </text>
+<text top="599" left="245" width="586" height="18" font="4">resolving problems, interacting with the practical working environment, ways to split </text>
+<text top="616" left="245" width="282" height="18" font="4">my workload into a lot of smaller tasks...</text>
+<text top="633" left="245" width="589" height="18" font="4">Besides, I have been got a couple of useful characteristics for work and my career in </text>
+<text top="650" left="245" width="465" height="18" font="4">the future. Those one are such as patience, persistence in my work</text>
+<text top="689" left="88" width="106" height="18" font="3"><b>Project worked</b></text>
+<text top="706" left="245" width="601" height="18" font="4">Using Python, Keras to build Convolutional Neural Network and Lasso model to attend </text>
+<text top="723" left="245" width="506" height="18" font="4">House Price Prediction competition on Kaggle. Reached 1187/4174 rate </text>
+<text top="740" left="245" width="584" height="18" font="4">Using Python and libraries to explore data, analyze data, handle miss data and build </text>
+<text top="757" left="245" width="509" height="18" font="4">Machine learning algorithms to solve BigMart Sales Prediction challenge.</text>
+<text top="773" left="245" width="526" height="18" font="4">Using  C, PHP, MySQL to build the system that store, manage and supervise </text>
+<text top="790" left="245" width="263" height="18" font="4">Photovoltaics System via the internet.</text>
+<text top="833" left="45" width="24" height="27" font="1"></text>
+<text top="832" left="80" width="120" height="32" font="2"><b>Education</b></text>
+<text top="885" left="119" width="76" height="18" font="3"><b>Bach Khoa</b></text>
+<text top="902" left="123" width="75" height="18" font="3"><b>University </b></text>
+<text top="918" left="108" width="91" height="18" font="3"><b>Ho Chi Minh </b></text>
+<text top="935" left="129" width="65" height="18" font="3"><b>Viet Nam</b></text>
+<text top="885" left="217" width="170" height="18" font="3"><b>Automotive Engineering</b></text>
+<text top="885" left="710" width="138" height="18" font="5"><b>08/2014 – 06/2018</b></text>
+<text top="902" left="217" width="63" height="18" font="4">GPA : 7.5</text>
+<text top="978" left="45" width="20" height="27" font="1"></text>
+<text top="977" left="76" width="66" height="32" font="2"><b>Skills</b></text>
+<text top="1030" left="45" width="170" height="18" font="3"><b>Programming Language</b></text>
+<text top="1058" left="56" width="49" height="18" font="4">Python</text>
+<text top="1061" left="338" width="68" height="15" font="6">    </text>
+<text top="1077" left="56" width="10" height="18" font="4">C</text>
+<text top="1080" left="338" width="68" height="15" font="6">    </text>
+<text top="1096" left="56" width="85" height="18" font="4">PHP, MySQL</text>
+<text top="1099" left="338" width="68" height="15" font="6">    </text>
+<text top="1115" left="56" width="51" height="18" font="4">English</text>
+<text top="1118" left="338" width="68" height="15" font="6">    </text>
+<text top="1030" left="478" width="78" height="18" font="3"><b>Knowledge</b></text>
+<text top="1058" left="490" width="190" height="18" font="4">Machine learning and Deep</text>
+<text top="1075" left="490" width="135" height="18" font="4">learning algorithms</text>
+<text top="1061" left="771" width="68" height="15" font="6">    </text>
+<text top="1091" left="490" width="212" height="18" font="4">Linear Algebra, Probability and</text>
+<text top="1108" left="490" width="57" height="18" font="4">Statistic</text>
+<text top="1094" left="771" width="68" height="15" font="6">    </text>
+<text top="1157" left="45" width="74" height="18" font="3"><b>Teamwork</b></text>
+<text top="1185" left="56" width="73" height="18" font="4">Teamwork</text>
+<text top="1188" left="338" width="68" height="15" font="6">    </text>
+</page>
+</pdf2xml>

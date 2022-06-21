@@ -1,0 +1,124 @@
+CURRICULUM VITAE 
+PERSONAL DETAILS  
+Name: NGUYỄN TẤN LINH                    
+Date of Birth: January, 02 1990 
+Nationality: Vietnamese 
+Sex: Male 
+Marital status: Single 
+Address: 80/1/10 Duong Quang Ham, Go Vap District, Ho Chi Minh City 
+Phone: 0988 422 495 
+Email: nguyentanlinh90@gmail.com 
+Skype: nguyentanlinh90 
+APPLICATION POSITION 
+Android  Developer 
+CAREER OBJECTIVE 
+I love leaning new technology and ready for the challenge. I am looking for a position 
+where I can apply my knowledge and strengths. I want to take part in the growth and 
+success of the company. For my long term goals, I would like to become an expert in 
+mobile industry. Research and development of smart applications and useful for future. 
+EDUCATION 
+Graduate Bachelor of Degree Information Technology – Ton Duc Thang University. 
+EMPLOYMENT HISTORY 
+October 2012 – May 2013: Credit Staff at Prudential Finance (Part  time) 
+May 2013 – May 2014: Credit Staff at Việt Nam Thịnh Vượng Bank (Part  time) 
+September 2014 – present: Developer Android at Genergame Co.Ltd. (Full  time) 
+PROFESSIONAL SKILLS 
+Good in reading English skill 
+Average English communication 
+Program language: Java, PHP, SQL 
+Tools: Eclipse, MySQL, SQLite, Android Studio 
+Revision control: SVN 
+INTERPERSONAL SKILLS 
+Enthusiastic, open minded, optimistic, caring and resourceful 
+Be exceptional flexibility and adaptability, organization minded 
+Having sense of responsibility, eagerness to learn and work 
+Able to work independently & teamwork 
+VOLUNTARY WORK EXPERIENCE 
+September 2014  present: Developer Android at Genergame Co.Ltd 
+9/2014 – 11/2014 
+o Project Name: Flash Alert 
+o Project Description:  
+Blink led flash alert on Call, ringing flashlight 
+Blink led flash alert on SMS 
+This application help you do not miss any Call and SMS 
+Ringing flashlight  when phone have icoming Call and icoming 
+SMS 
+You can turn on or turn off service by manual over device status 
+sound mode as Ring, Vibrate or Silent mode 
+o Responsibilities:  
+Analysis requirement 
+Coding and unit test 
+o Tool: Android Studio 
+11/2014 – 1/2015 
+o Project Name: Bong Da TV 
+o Project Description:  
+Allows you to review the result of matches  
+o Responsibilities:  
+Analysis requirement 
+Find data 
+Coding and unit test 
+o Tool: Eclipse 
+1/2015 – 2/2015 
+o Project Name: Call Recoder 
+o Project Description:  
+Auto or manual call recording  
+Grouping recording by date or  by contact 
+You can settings application auto record, audio source, file type, 
+inbox size in Settings 
+You can synchronoze recorded phone calls with Dropbox 
+o Responsibilities:  
+Analysis requirement 
+Coding and unit test 
+o Tool: Eclipse 
+2/2015 – 4/2015 
+o Project Name: Converter 
+o Project Description:  
+Application allows convert video to MP3 file or ACC file  
+o Responsibilities:  
+Analysis requirement 
+Coding and unit test 
+o Tool: Eclipse 
+4/2015 – 5/2015 
+o Project Name: Facebook Download  
+o Project Description:  
+Building an application base on Webview to capture link video 
+when access facebook then user can download this video 
+o Responsibilities:  
+Analysis requirement 
+Design layout 
+Coding and unit test 
+o Tool: Eclipse 
+6/2015 – 8/2015 
+o Project Name: Video Downloader 
+o Project Description:  
+Building an video application base on Youtube API V3, using Json 
+paser to parse data and using them to get Video Infomation 
+o Responsibilities:  
+Analysis requirement 
+Coding and unit test 
+Using Youtube API to develop application 
+o Tool: Eclipse 
+8/2015 – present 
+o Project Name: Video Player 
+o Project Description:  
+Building an video application base on Youtube API V3, using Json 
+paser to parse data and using them to get Video Infomation 
+You can search top topic vedeo in youtube and play.  Easily 
+control your song list. 
+o Responsibilities:  
+Analysis requirement 
+Coding and unit test 
+Using Youtube API to develop application 
+o Tool: Eclipse 
+1/2016 – present 
+o Project Name: Qr and Barcode Scanner 
+o Project Description:  
+Scan QR and Barcode with one touch 
+Open website from your QR code 
+Open the google or amazon to view your product 
+This app support save product you scan 
+o Responsibilities:  
+Analysis requirement 
+Coding and unit test 
+Design layout. 
+o Tool: Eclipse 

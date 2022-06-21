@@ -1,0 +1,55 @@
+Page | 1  
+DAT V. VUONG 
+Email: dat.vuong88@gmail.com  Mobile: +84944880828  
+Address: 16/18, Le Quy Don St., Ward 12, Phu Nhuan Dist., HCMC 700000, Vietnam 
+vn.linkedin.com/in/vuongvinhdat 
+QUANTITATIVE ANALYSIS  
+Meticulous Quantitative Analyst who undertakes complex assignments, meets tight deadlines and delivers 
+good performance. Possesses practical knowledge in Corporate Finance and Quantitative Methods. Applies the 
+knowledge to study papers and apply into related projects. Opened-minded & quick-minded for new 
+knowledge. Core competencies include:   
+Risk management  Data analytics  Data mining  Quantitative financial analysis  Financial Analysis  
+Statistics  VBA  SQL  R  Power BI  Matlab 
+PROFESSIONAL EXPERIENCE 
+Andafin Limited  Vietnam  Oct 2016 – Present 
+Andafin is a Hong Kong limited company, serving clients globally to build strategies and systems to grow 
+their business, using data and analytical tools as a cornerstone of the process.  
+Data Analytics Consultant  
+Using SQL, R to build data warehouse toolset and capabilities: ETL, analysis, reporting, cloud, visualization 
+Data warehouse implementation 
+LAZADA Group  Vietnam  Nov 2015 – Aug 2016 
+LAZADA is Southeast Asia’s fastest growing and pioneering e-Commerce. With investments from Alibaba, 
+Temasek, Tesco, J.P. Morgan, Investment AB Kinnevik and Rocket Internet.  
+Regional Senior Data Analyst  Operations Business Intelligence 
+Using R, SQL, GitHub to develop and deploy Invoice Checking Automation Project for 4 Countries. The 
+tool helps Local Transportation teams to significantly increase the performance of invoice checking process 
+from 7 to 2-3 working days and increase the accuracy of checking result.  
+Using R, SQL, VBA to extract, revise, map and process data from various sources to delivery various reports 
+and ad-hoc requests. 
+Using SQL, VBA, Excel, Power BI to build and maintain Operations Dashboards/ Reports. 
+Home Credit Vietnam Finance Company Limited  Vietnam  Apr 2014 – Aug 2015 
+Home Credit Group is a leading mass market consumer finance provider with €8.8bn of assets. It has 
+experienced considerable growth within Central and Eastern Europe, the Commonwealth of Independent 
+States and Asia.  
+Data Analyst – Portfolio Risk Management 
+Using Oracle SQL, VBA to develop and maintain Risk Report (Underwriting and Anti-Fraud) for Board 
+Managers and Head Quarter to have a full picture about given portfolio of products. 
+Using Oracle SQL, VBA to calculate and estimate LTS/IIL (Loss to Sale/Interest Income Loss) for all 
+products. Base on that, calculate profitability and propose changes in Underwriting process to reduce risk of 
+high default rate segments. 
+Providing risk inputs (Provision Rate, Roll Rate, Recovery Rate…) into Financial Model to calculate 
+profitability every month as well as forecast profitability in next month/quarter. 
+Supporting automatic tool (Macro VBA), create and optimize the performance of Data Calculation.  
+Page | 2  
+EDUCATION 
+Master of Science in Quantitative and Computational Finance 
+John von Neumann Institute – Vietnam National University HCMC  HCMC, Vietnam  Pending 
+Bachelor of Arts in Corporate Finance 
+University of Economics HCMC  HCMC, Vietnam  2011 
+PERSONAL SKILLS AND COMPETENCES 
+Technical Skills 
+Proficient in Microsoft Office Suite: Advanced Excel  Word  Power Point  Outlook  
+Languages & Scripting: R  VBA  SQL  Power BI  GitHub  Matlab 
+Language Skills 
+Native language: Vietnamese  
+Other languages: English  Mandarin Chinese  Cantonese 

@@ -1,0 +1,137 @@
+PHAN TRỌNG NGHĨA 
+Address: 135/37/17/1A Pham Dang Giang, Binh Tan, HCM, Viet Nam 
+Date of Birth: 16/03/1985 
+Email: nghiapt1985@gmail.com 
+Phone number: 0988 75 1316 
+EDUCATION 
+2003  2007 
+Studied at Industrial University of Ho Chi Minh City for engineer degree. The 
+major is computer science. 
+2013  2016 
+Studied at University of Information Technology for master degree. The major is 
+computer science. 
+SKILLS 
+Language & Scripting: Strong experience in C#/C, Java, Android, VB.net, 
+XSD, XSL, XML, HTML, Java Script;  
+Technology: .Net framework, MVC, OOP, LINQ, Entity Framework. 
+Development Tools: Strong experience in MS Visual Studio, Eclipse, 
+Android Studio, DevExpress, Altova XML Spy 2013; A little experience in 
+Unity. 
+Databases: Good at MS SQL Server, My SQL, Oracle. 
+Tracking Tools: SVN, JIRA 
+Web services: SOAP, RESTFUL 
+Operating Systems: Windows 2010/2008/2007/2003/XP/2000, UNIX 
+Researching 
+interests: 
+Software 
+Engineering, 
+Artificial 
+Intelligence 
+(Ontology, COKB model), Data Mining, Machine Learning. 
+EXPERIENCE 
+2009 – present: Have been working at TS24 Corp Company (Address: 285/94B Cách Mạng 
+Tháng 8, Phường 12, Quận 10, TP. HCM; Phone: (028)-3866-4188, (028)-
+3868-4076; Website: http://www.ts24.com.vn; Email: info@ts24.com.vn) 
+Digital signature, tax procedures, social insurance procedures 
+Analysis and design databases in My SQL, SQL Server, Oracle 
+Using MS Studio 2005, 2010, 2012, 2015 and DevExpress controls 
+Create reports (forms, documents…) based on XtraReport, Crystal Report 
+View XML report file using XSL and XML 
+Verify XML report file using XSD 
+Sign forms, documents using digital signature 
+Send forms, documents via web services 
+2009: Worked at HL Cargo Company 
+Research logistics procedures to build a new project which based on an 
+already software which was named “FAST” 
+Analysis and design new database in MS SQL Server 
+Using MS Studio 2005 
+Using Crystal Report to create reports 
+PROJECTS 
+KySo™ Desktop: Using digital signature to sign forms, documents, files and 
+send them to public authorities via web services.  
+Industry: Tax, Social Insurance, Customs, Statistics, Pay24 
+Role: Project manager 
+Assignment Duration: 5 months 
+Project Team size: 3 
+Skill set Utilized: C#, .Net Framework 4.0, DevExpress, Web Services 
+Responsibilities: Managing, analyzing, coding, daily report 
+Organization: Ho Chi Minh City Tax organization. 
+TaxOnline™: Making tax forms/reports and using KySo™ Desktop app to sign 
+and send them to public authorities. 
+Industry: Tax 
+Role: Manage modules, Analysis, coding 
+Assignment Duration: 1 year 
+Project Team size: 7 
+Skill set Utilized: Asp.net, C#, .Net Framework 4.0, DevExpress, XSD, XSL, 
+XML, XtraReport, PDF fields, My SQL 
+Responsibilities: Analyzing, coding, daily report 
+Organization: Ho Chi Minh City Tax organization. 
+iBH™: Making social insurance forms/reports and using KySo™ Desktop app to 
+sign and send them to public authorities. 
+Industry: Social Insurance 
+Role: Manage modules, Analysis, coding 
+Assignment Duration: 6 months 
+Project Team size: 7 
+Skill set Utilized: Asp.net, C#, .Net Framework 4.0, DevExpress, XSD, XSL, 
+XML, My SQL 
+Responsibilities: Analyzing, coding, daily report 
+Organization: Ho Chi Minh City Social Insurance organization 
+iTK™:  Making Statistics forms/reports and using KySo™ Desktop app to sign 
+and send them to public authorities. 
+Industry: Statistics 
+Role: Manage modules, Analysis, coding 
+Assignment Duration: 3 months 
+Project Team size: 7 
+Skill set Utilized: Asp.net, C#, .Net Framework 4.0, DevExpress, My SQL 
+Responsibilities: Analyzing, coding, daily report 
+Organization: Ho Chi Minh City Customs organization 
+iHQ™:  Making customs forms/reports and using KySo™ Desktop app to sign 
+and send them to public authorities. 
+Industry: Customs 
+Role: coding 
+Assignment Duration: 1 year 
+Project Team size: 3 
+Skill set Utilized: Asp.net, C#, .Net Framework 4.0, DevExpress, SQL Server 
+2008 
+Responsibilities: coding, daily report 
+Organization: Ho Chi Minh City Statistics organization 
+Pay24™:  Making UNC form/report and using KySo™ Desktop app to sign and 
+send them to public authorities. 
+Industry: Banking 
+Role: Manage modules, Analysis, coding 
+Assignment Duration: 5 months 
+Project Team size: 3 
+Skill set Utilized: Asp.net, C#, .Net Framework 4.0, DevExpress, XML, My SQL 
+Responsibilities: coding, daily report 
+Organization: Tien Phong bank 
+VBPL™:  Helping customers to search and view circulars about tax, social 
+insurance, customs, statistics which had been promulgated by public authorities. 
+Industry: Tax, Social Insurance, Customs, Statistics 
+Role: Coding 
+Assignment Duration: 1 months 
+Project Team size: 2 
+Skill set Utilized: Asp.net, C#, .Net Framework 4.0, DevExpress, XML, My SQL 
+Responsibilities: coding, daily report 
+Organization: TS24 Corp 
+Organization: Tien Phong bank 
+My own apps: 
+My Leaning English: Android app. Helping me to learn/review/notify new 
+English words. I could have multiple option ways to learn English words such as:  
+words based on specific day or randomize. 
+Tools: Android studio 
+Language: Java 
+Brave duck: Android game. A duck which flies to escape the object moving on 
+the fly way. Many level and Calculating score, max score. 
+Tools: Unity, Corel Draw, Photoshop 
+Language: C# 
+… 
+ENGLISH 
+TOEIC 535 
+PERSONAL INFORMATION 
+Ability of searching by English. 
+Hobby/ interest: photograph, music, travel, football, poems. 
+Sport: I usually play football at weekend with my friends. 
+Character: Hard working, responsibility with jobs. 
+The fast adapt to work. 
+The working group skill. 
+Reading and searching on internet. 

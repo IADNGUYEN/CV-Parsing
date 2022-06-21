@@ -1,0 +1,38 @@
+ 
+C# 
+Version Control 
+SVN 
+Mercurial 
+OTHERS   Good understanding about OOP methodologies 
+Projects: 
+AUTOSAR (AUTOMOTIVE)  
+Write Documents to check spec  
+C  
+IPI on car  
+OS: Win 7 
+CCTV Web Service  
+Service management to handle data get from 
+storing and sends to Gui, Support change from 32 
+to 16 Camera  
+Language: Angular JS, JavaScript, NodeJS.  
+Use NodeJS to write Unit test  
+Mercurial, SVN  
+MCV struct  
+OS: Win 7  
+Basic Design, Function Design, Make Code, 
+Unitest 
+CCTV Camera System  
+Create new lib to use FTPd on BusyBox  
+Shell Script, C  
+Basic Design, Function Design, Make Code, 
+Unitest  
+OS: Linux (Ubuntu) 
+CCTV OntrainDisplay  
+Design Display Unit, logic code to handle message 
+from outside ports and show on Display, with 
+dynamic label get from xml file.  
+Language: C# , WPF  
+MVVM struct  
+Visual Studio 2015  
+Make Code, Unitest  
+OS: Win 10 

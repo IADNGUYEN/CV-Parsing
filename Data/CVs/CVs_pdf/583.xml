@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="14" family="DejaVuSans" color="#58595b"/>
+	<fontspec id="1" size="20" family="DejaVuSans" color="#0ebbd6"/>
+	<fontspec id="2" size="14" family="DejaVuSans" color="#58595b"/>
+	<fontspec id="3" size="35" family="DejaVuSans" color="#ffffff"/>
+	<fontspec id="4" size="15" family="DejaVuSans" color="#ffffff"/>
+<text top="541" left="29" width="54" height="17" font="0">Gender</text>
+<text top="543" left="195" width="41" height="17" font="0">: Male</text>
+<text top="567" left="29" width="59" height="17" font="0">Birthday</text>
+<text top="569" left="195" width="94" height="17" font="0">: 17/11/1996</text>
+<text top="593" left="29" width="98" height="17" font="0">Marital status</text>
+<text top="595" left="195" width="51" height="17" font="0">: Single</text>
+<text top="619" left="29" width="77" height="17" font="0">Nationality</text>
+<text top="621" left="195" width="96" height="17" font="0">: Vietnamese</text>
+<text top="645" left="29" width="57" height="17" font="0">Country</text>
+<text top="647" left="195" width="70" height="17" font="0">: Vietnam</text>
+<text top="671" left="29" width="59" height="17" font="0">Address</text>
+<text top="673" left="195" width="552" height="17" font="0">: 42/1 Tô Ký, Trung Mỹ Tây Ward, District 12, District 12, Ho Chi Minh, Vietnam</text>
+<text top="785" left="29" width="38" height="17" font="0">Level</text>
+<text top="787" left="195" width="89" height="17" font="0">: Entry Level</text>
+<text top="811" left="29" width="43" height="17" font="0">Salary</text>
+<text top="813" left="195" width="88" height="17" font="0">: Negotiable</text>
+<text top="837" left="29" width="60" height="17" font="0">Job type</text>
+<text top="839" left="195" width="68" height="17" font="0">: Full time</text>
+<text top="863" left="29" width="58" height="17" font="0">Industry</text>
+<text top="865" left="195" width="102" height="17" font="0">: IT - Software</text>
+<text top="888" left="29" width="62" height="17" font="0">Location</text>
+<text top="891" left="195" width="91" height="17" font="0">: Ho Chi Minh</text>
+<text top="495" left="29" width="203" height="24" font="1">PERSONAL PROFILE</text>
+<text top="739" left="29" width="235" height="24" font="1">CAREER INFORMATION</text>
+<text top="956" left="29" width="128" height="24" font="1">EXPERIENCE</text>
+<text top="990" left="29" width="217" height="17" font="0">Year(s) of Experience: Not yet</text>
+<text top="1018" left="29" width="184" height="17" font="0">Current Level: Entry Level</text>
+<text top="257" left="48" width="95" height="17" font="0"> 0362007667</text>
+<text top="283" left="51" width="162" height="17" font="0">nhat.trinhminh1711@g</text>
+<text top="304" left="51" width="64" height="17" font="0">mail.com</text>
+<text top="283" left="222" width="5" height="17" font="0"> </text>
+<text top="225" left="236" width="107" height="17" font="2"><b>*Short term:</b></text>
+<text top="253" left="236" width="627" height="17" font="0">- Make use of current abilities to accomplish defined task in a dynamic and professional</text>
+<text top="274" left="236" width="154" height="17" font="0">working environment.</text>
+<text top="302" left="236" width="621" height="17" font="0">- Have the opportunities to learn and improve technical skills among predecessors and</text>
+<text top="323" left="236" width="85" height="17" font="0">co-workers.</text>
+<text top="351" left="236" width="591" height="17" font="0">- Keep up with self-development in social skills and daily communication for better</text>
+<text top="371" left="236" width="242" height="17" font="0">teamwork and network extension</text>
+<text top="399" left="236" width="106" height="17" font="2"><b>* Long term:</b></text>
+<text top="427" left="236" width="598" height="17" font="0">- Become an official employee of the company and fully contribute to the company</text>
+<text top="448" left="236" width="160" height="17" font="0">success and evolution</text>
+<text top="94" left="236" width="363" height="41" font="3"><b>TRỊNH MINH NHẬT</b></text>
+<text top="142" left="236" width="579" height="18" font="4">Software Developer with experiment in Azure Service and Web Development</text>
+<text top="192" left="236" width="121" height="24" font="1">OBJECTIVES</text>
+<text top="1051" left="57" width="525" height="17" font="2"><b>9/2018 - 12/2018 : Team Leader - FPT-University Nidust Team</b></text>
+<text top="1077" left="57" width="250" height="17" font="0">* Machine Learning Mail Spam Filter </text>
+<text top="1098" left="57" width="812" height="17" font="0">- Description: The main purpose of this capstone project is to develop a dedicated mail spam module embedded</text>
+<text top="1118" left="57" width="401" height="17" font="0">to mail server filtering mail content and mail classifying. </text>
+<text top="1139" left="57" width="759" height="17" font="0">- Technologies: ASP.NET Framework Class Library, Azure Service, Microsoft Azure Machine Learning Studio,</text>
+<text top="1160" left="57" width="124" height="17" font="0">Exchange Server </text>
+<text top="1181" left="57" width="256" height="17" font="0">- Position: Team leader, Developer. </text>
+<text top="1201" left="57" width="107" height="17" font="0">- Team size: 5.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="995" left="29" width="107" height="17" font="0">Javascript Core</text>
+<text top="1021" left="29" width="104" height="17" font="0">Report Writing</text>
+<text top="1047" left="29" width="144" height="17" font="0">MVC Design Pattern</text>
+<text top="1073" left="29" width="29" height="17" font="0">SQL</text>
+<text top="1099" left="29" width="142" height="17" font="0">ASP.NET Framework</text>
+<text top="1125" left="29" width="50" height="17" font="0">English</text>
+<text top="1151" left="29" width="113" height="17" font="0">Teamwork Skills</text>
+<text top="1177" left="29" width="202" height="17" font="0">Independence Working Skills</text>
+<text top="947" left="29" width="70" height="24" font="1">SKILLS</text>
+<text top="995" left="451" width="50" height="17" font="0">English</text>
+<text top="947" left="451" width="131" height="24" font="1">LANGUAGES</text>
+<text top="719" left="29" width="122" height="24" font="1">EDUCATION</text>
+<text top="753" left="29" width="226" height="17" font="0">Highest Degree Level: Bachelor</text>
+<text top="46" left="57" width="426" height="17" font="2"><b>8/2018 - 11/2018 : Self-Development - Nidust.com</b></text>
+<text top="72" left="57" width="150" height="17" font="0">* Auto Hiring Project </text>
+<text top="93" left="57" width="733" height="17" font="0">- Description: This project is a combination of .NET technologies I've learn at CodeSchool in 6 months. </text>
+<text top="113" left="57" width="685" height="17" font="0">- Technologies: Onion architecture, ASP.NET Framework, Entity Framework, Identity Framework. </text>
+<text top="134" left="57" width="230" height="17" font="0">- Position: Full-stack developer. </text>
+<text top="155" left="57" width="107" height="17" font="0">- Team size: 1.</text>
+<text top="219" left="57" width="435" height="17" font="2"><b>9/2017 - 1/2018 : Internship - SPLUS SOFTWARE JSC</b></text>
+<text top="245" left="57" width="93" height="17" font="0">* ISS Project </text>
+<text top="266" left="57" width="480" height="17" font="0">- Description: This is a Japanese cross region maintenance project. </text>
+<text top="286" left="57" width="301" height="17" font="0">- Technologies: Postgresql, MVC pattern. </text>
+<text top="307" left="57" width="330" height="17" font="0">- Position: official developer and self-testing. </text>
+<text top="328" left="57" width="153" height="17" font="0">- Team size: 11 - 13. </text>
+<text top="369" left="57" width="132" height="17" font="0">* Linkware Project </text>
+<text top="390" left="57" width="698" height="17" font="0">- Description: A newly development multi-service project with various organization co-operation. </text>
+<text top="411" left="57" width="320" height="17" font="0">- Technologies: ASP.NET Framework, Oracle. </text>
+<text top="432" left="57" width="426" height="17" font="0">- Position: SQL module writer and SQL package processing. </text>
+<text top="452" left="57" width="131" height="17" font="0">- Team size: 7 - 9.</text>
+<text top="517" left="57" width="363" height="17" font="2"><b>12/2017 - 2/2018 : Freelancer - Nidust.com</b></text>
+<text top="542" left="57" width="126" height="17" font="0">*Shopify Project: </text>
+<text top="563" left="57" width="659" height="17" font="0">- Description: An e-commerce project selling postcard, card template for personal or retail. </text>
+<text top="584" left="57" width="274" height="17" font="0">- Technologies: Javascript, HTML/CSS. </text>
+<text top="605" left="57" width="230" height="17" font="0">- Position: Full-stack developer. </text>
+<text top="625" left="57" width="111" height="17" font="0">- Team size: 1. </text>
+<text top="646" left="57" width="251" height="17" font="0">- Attachment: http://cardanz.com/</text>
+<text top="786" left="57" width="217" height="17" font="2"><b>Completion date 12-2018</b></text>
+<text top="807" left="57" width="208" height="17" font="2"><b>Bachelor - FPT-Universiy</b></text>
+<text top="833" left="57" width="181" height="17" font="0">* Graduation Information </text>
+<text top="853" left="57" width="222" height="17" font="0">- Major: Information Assurance </text>
+<text top="874" left="57" width="72" height="17" font="0">- GPA: 7.3</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="5" size="14" family="DejaVuSans" color="#58595b"/>
+	<fontspec id="6" size="11" family="NimbusSanL-Regu" color="#6d6e70"/>
+<text top="56" left="29" width="314" height="17" font="2"><b>* Java OOP Red developer certificate</b></text>
+<text top="84" left="29" width="579" height="17" font="0">-<i> This is a school certificate for student archived max result at OOP LAB subject</i></text>
+<text top="112" left="29" width="285" height="17" font="2"><b>* Honorable Student of Semester</b></text>
+<text top="140" left="29" width="726" height="17" font="5"><i>- This is a school certificate to honor student archived the total GPA of over 8.0 at specific semester</i></text>
+<text top="168" left="29" width="283" height="17" font="2"><b>* British Council IELTS certificate</b></text>
+<text top="196" left="29" width="131" height="17" font="5"><i>- Time: 30/6/2018</i></text>
+<text top="224" left="29" width="127" height="17" font="5"><i>- Total Brand: 6.0</i></text>
+<text top="326" left="29" width="141" height="17" font="2"><b>Lưu Nguyên Khôi</b></text>
+<text top="352" left="29" width="307" height="17" font="0">0938 999 441 / luu.nguyen.khoi@gmail.com</text>
+<text top="380" left="29" width="214" height="17" font="0">Business Intelligence Manager</text>
+<text top="408" left="29" width="298" height="17" font="0">A. Menarini Singapore. Rep Office in HCMC</text>
+<text top="462" left="29" width="160" height="17" font="2"><b>Nguyễn Hùng Mạnh</b></text>
+<text top="487" left="29" width="275" height="17" font="0">0905327198 / manh.nhkim@gmail.com</text>
+<text top="515" left="29" width="144" height="17" font="0">CodeSchool mentor</text>
+<text top="543" left="29" width="87" height="17" font="0">CodeSchool</text>
+<text top="597" left="29" width="142" height="17" font="2"><b>Nguyễn Thiện Ân</b></text>
+<text top="623" left="29" width="305" height="17" font="0">0378115292 / annguyenthienit@gmail.com</text>
+<text top="651" left="29" width="164" height="17" font="0">Senior Project Manager</text>
+<text top="679" left="29" width="155" height="17" font="0">SPLUS SOFTWARE JSC</text>
+<text top="23" left="29" width="219" height="24" font="1">CAREER HIGHLIGHTS</text>
+<text top="292" left="29" width="134" height="24" font="1">REFERENCES</text>
+<text top="1247" left="761" width="100" height="14" font="6">© CareerBuilder.vn</text>
+</page>
+<outline>
+<item page="1">TRỊNH MINH NHẬT</item>
+<outline>
+<item page="1">Software Developer with experiment in Azure Service and Web Development</item>
+<item page="1">OBJECTIVES</item>
+<item page="1">PERSONAL PROFILE</item>
+<item page="1">CAREER INFORMATION</item>
+<item page="1">EXPERIENCE</item>
+<item page="2">EDUCATION</item>
+<item page="2">SKILLS</item>
+<item page="2">LANGUAGES</item>
+<item page="3">CAREER HIGHLIGHTS</item>
+<item page="3">REFERENCES</item>
+</outline>
+</outline>
+</pdf2xml>

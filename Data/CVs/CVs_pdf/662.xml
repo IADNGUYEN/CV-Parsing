@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="42" family="ArialMT" color="#0d0d0d"/>
+	<fontspec id="1" size="20" family="ArialMT" color="#0d0d0d"/>
+	<fontspec id="2" size="33" family="ArialMT" color="#622322"/>
+	<fontspec id="3" size="16" family="ArialMT" color="#000000"/>
+	<fontspec id="4" size="20" family="ArialMT" color="#622322"/>
+	<fontspec id="5" size="16" family="BCDEEE+Wingdings" color="#000000"/>
+	<fontspec id="6" size="16" family="Arial" color="#000000"/>
+	<fontspec id="7" size="16" family="BCDFEE+Cambria" color="#000000"/>
+	<fontspec id="8" size="16" family="BCDGEE+Cambria" color="#000000"/>
+	<fontspec id="9" size="20" family="BCDFEE+Cambria" color="#622322"/>
+	<fontspec id="10" size="16" family="SymbolMT" color="#000000"/>
+	<fontspec id="11" size="16" family="ArialMT" color="#1154cc"/>
+<text top="110" left="244" width="417" height="39" font="0">TRAN THANH HAI </text>
+<text top="154" left="327" width="235" height="19" font="1">J A V A   D E V E L O P E R</text>
+<text top="145" left="566" width="9" height="31" font="2"> </text>
+<text top="209" left="209" width="483" height="15" font="3">  Quarter 6 - Linh Trung Ward - Thu Duc District-Ho Chi Minh city  </text>
+<text top="230" left="227" width="444" height="15" font="3">Phone: 0963  378831   Email: jeremiebelpois97@gmail.com </text>
+<text top="263" left="88" width="5" height="15" font="3"> </text>
+<text top="314" left="336" width="226" height="19" font="4">TECHNICAL SKILLS </text>
+<text top="356" left="115" width="12" height="18" font="5">⚫</text>
+<text top="359" left="128" width="209" height="15" font="6"><b>  Programming Language </b></text>
+<text top="375" left="142" width="13" height="18" font="5">➢</text>
+<text top="378" left="155" width="49" height="15" font="3">  Java</text>
+<text top="374" left="204" width="4" height="19" font="7"> </text>
+<text top="394" left="115" width="12" height="18" font="5">⚫</text>
+<text top="397" left="128" width="261" height="15" font="6"><b>  Database Management System </b></text>
+<text top="413" left="142" width="13" height="18" font="5">➢</text>
+<text top="416" left="155" width="88" height="15" font="3">  MongoDB</text>
+<text top="412" left="243" width="4" height="19" font="7"> </text>
+<text top="432" left="115" width="12" height="18" font="5">⚫</text>
+<text top="435" left="128" width="5" height="15" font="3"> </text>
+<text top="435" left="142" width="97" height="15" font="6"><b>Frameworks</b></text>
+<text top="431" left="240" width="4" height="19" font="8"><b> </b></text>
+<text top="451" left="142" width="13" height="18" font="5">➢</text>
+<text top="454" left="155" width="108" height="15" font="3">  React Native</text>
+<text top="450" left="264" width="4" height="19" font="7"> </text>
+<text top="356" left="484" width="12" height="18" font="5">⚫</text>
+<text top="359" left="497" width="138" height="15" font="6"><b>  Version Control</b></text>
+<text top="355" left="635" width="4" height="19" font="7"> </text>
+<text top="375" left="511" width="13" height="18" font="5">➢</text>
+<text top="378" left="524" width="40" height="15" font="3">  Git </text>
+<text top="394" left="484" width="12" height="18" font="5">⚫</text>
+<text top="397" left="497" width="99" height="15" font="6"><b>  Soft Skills </b></text>
+<text top="413" left="511" width="13" height="18" font="5">➢</text>
+<text top="416" left="524" width="96" height="15" font="3">  Teamwork </text>
+<text top="432" left="511" width="13" height="18" font="5">➢</text>
+<text top="435" left="524" width="156" height="15" font="3">  Time Management </text>
+<text top="489" left="446" width="6" height="19" font="4"> </text>
+<text top="545" left="371" width="148" height="19" font="4">EXPERIENCE</text>
+<text top="540" left="521" width="5" height="24" font="9"> </text>
+<text top="589" left="88" width="693" height="15" font="3">Semeter 1, senior     My team made a mobile app called NLPige Tourist, in this application I  </text>
+<text top="609" left="88" width="5" height="15" font="3"> </text>
+<text top="609" left="237" width="5" height="15" font="3"> </text>
+<text top="609" left="257" width="484" height="15" font="3">mainly focused on doing restfull api using Spring Boot Framework.</text>
+<text top="605" left="742" width="4" height="19" font="7"> </text>
+<text top="628" left="88" width="678" height="15" font="3">Semeter 2, senior     My team is creating web application called Trello, in this application I  </text>
+<text top="646" left="88" width="5" height="15" font="3"> </text>
+<text top="646" left="237" width="5" height="15" font="3"> </text>
+<text top="646" left="257" width="521" height="15" font="3">mainly focused on doing restfull api using Spring Boot Framework and  </text>
+<text top="665" left="88" width="5" height="15" font="3"> </text>
+<text top="665" left="237" width="5" height="15" font="3"> </text>
+<text top="665" left="257" width="64" height="15" font="3">Reactjs. </text>
+<text top="685" left="88" width="5" height="15" font="3"> </text>
+<text top="685" left="237" width="5" height="15" font="3"> </text>
+<text top="735" left="446" width="6" height="19" font="4"> </text>
+<text top="790" left="378" width="135" height="19" font="4">EDUCATION</text>
+<text top="785" left="515" width="5" height="24" font="9"> </text>
+<text top="835" left="88" width="325" height="15" font="3">From 2015 to Now      Nong Lam University </text>
+<text top="885" left="446" width="6" height="19" font="4"> </text>
+<text top="941" left="291" width="317" height="19" font="4">PASTIMES AND ACTIVIT IES </text>
+<text top="936" left="609" width="5" height="24" font="9"> </text>
+<text top="982" left="115" width="8" height="20" font="10">•</text>
+<text top="987" left="123" width="509" height="15" font="3">  I am keen on reading IT blogs, Medium, and Quora in my free time.</text>
+<text top="983" left="633" width="4" height="19" font="7"> </text>
+<text top="1016" left="115" width="8" height="20" font="10">•</text>
+<text top="1021" left="123" width="607" height="15" font="3">  I also participated in academic clubs at the school and participated in hackathon </text>
+<text top="1040" left="142" width="650" height="15" font="3">competitions organized by KMS Technology and participated in google organized events </text>
+<text top="1059" left="142" width="238" height="15" font="3">like google firebase and android.</text>
+<text top="1055" left="381" width="4" height="19" font="7"> </text>
+<text top="1089" left="115" width="8" height="20" font="10">•</text>
+<text top="1093" left="123" width="667" height="15" font="3">  I learn some new technologies such as: microservices, react native, nodejs and graphql, </text>
+<text top="1112" left="142" width="381" height="15" font="3">docker, etc. They can be found at my GitHub profile<a href="https://github.com/JeremieBelpois"> </a></text>
+<text top="1112" left="524" width="252" height="15" font="11"><a href="https://github.com/JeremieBelpois">https://github.com/JeremieBelpois.</a></text>
+<text top="1109" left="776" width="4" height="19" font="7"> </text>
+</page>
+</pdf2xml>

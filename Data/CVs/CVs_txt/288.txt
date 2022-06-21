@@ -1,0 +1,59 @@
+Nguyen Viet Cong Hau 
+Java Developer 
+Address: Saigon, Vietnam 
+Contact:   Email: nvconghau1995@gmail.com  Mobile: (+84) 164 207 0837  Github: github.com/jasonnguyenvn  LinkedIn: 
+linkedin.com/in/haunguyenviet 
+Teterests: football, music, travel 
+Career Summary 
+I am a Java Developer with 2 years of experience.  
+Fall in love with programming, coding and the 
+software engineering. My main skill is backend 
+development. 
+Career History 
+Feb 2017 – now, Query, Ltd. (Vietnam) 
+Jan 2016 – Jan 2017, FPT Software (Vietnam)  
+Jun 2015 – Dec 2015, Query, Ltd. (Vietnam) 
+Skills 
+Experience 
+Java 
+(2 years of experience) 
+Web Development 
++ Play Framework 2.x 
++ RESTful API 
++ Swagger 2.0 / OAPI 3.0 
++ J2EE 
++ JPA/Hiberate 
++ SQL Database (MSSQL, MySQL) 
++ No-SQL Database (MongoDB) 
++ PHP 
++ HTML5, CSS3 
+(2 years of experience) 
+Project: Block Online Education Platform 
+Query, Ltd.  
+Roles: Software Developer, Product Manager 
+Website: https://www.block.vn  
+Helpy: Realtime Help Desk System Via Video Call 
+FPT University  My Capstone Project 
+Roles: Team Leader, Software Developer 
+Javascript 
++ Also has experience with jQuery. 
+(2 years of experience) 
+DASH Player Webapp  
+FPT Software 
+Roles: Software Developer 
+React.js 
+(0.5 years of experience) 
+Helpy: Realtime Help Desk System Via Video Call 
+FPT University  My Capstone Project 
+Roles: Team Leader, Software Developer 
+Git  
++ Also has experience with Github 
+(3 years of experience) 
+Education 
+Soft skills 
+FPT University 
+Software engineering 
+2013 – 2017 
++ Teamwork 
++ Commnunication 
++ English 

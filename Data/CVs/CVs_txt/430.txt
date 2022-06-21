@@ -1,0 +1,74 @@
+[ C o n f i d e n t i a l ]                                                                 P a g e  | 1 
+CONTACT 
+NGUYEN TUAN SI 
+15 November 1994 
+Ho Chi Minh, Vietnam 
+(84)-06-477-459 
+singuyen.it@gmail.com 
+OBJECTIVE 
+Improve skills in Android development and expand mobile app development knowledge. 
+QUALIFICATION 
+I am final-year student at FPT – Greenwich University. 
+More than 02 years of experience handling and managing projects as Technical Team Leader 
+role within 1 semester and being assigned Team Leader role within 3 semesters later in 
+school for final projects each semesters. 
+Passionate, energetic 
+High self-motivation, high responsibility and creativity 
+Passionate about programming languages in using C#, Java, Javascript, ASP.NET, T-SQL, 
+AngularJS, Angular 2, React... 
+LANGUAGE 
+Fluency in Vietnamese, English 
+Studying Japanese 
+PROGRAMMING 
+LANGUAGE 
+Started approaching programming languages at 15 years old. 
+For Web Applications:  
+HTML5, Javascript, CSS3, ASP.NET (C#), JSP (Java), AngularJS, React 
+For Desktop Applications: C#, Java 
+For Mobile Applications: Android (Java) 
+For Database: Microsoft Sql Server (T-SQL)  
+For CMS (Content Management Systems) Web Applications: nopCommerce (Asp.Net), 
+VirtoCommerce (Asp.Net) 
+EDUCATION 
+2013-2015 
+FPT University 
+APTECH Computer Education Certificate, Vietnam 
+Diploma 
+WORK 
+EXPERIENCE 
+Handling projects for 4 Semesters in School (windows application and web application). 
+June 2015 
+Freelancer 
+Project: Attack _ Booth Activation(2 weeks) 
+Type: Web Application 
+Description: Developing quiz webgame with AngularJS, Javascript, HTML5, CSS3. 
+Client: Kao VN, MC Advertising Co. 
+January 2015 – May 2015 
+Team Leader 
+Project: I’m hungry (4 members/group) 
+Type: Web Application 
+Description: Developing e-commerce web-based application using J2EE, JSP, Servlet, Java 
+Web Service, EJB, Javascript, CSS, MSSQL and Netbeans IDE 
+June 2014  
+Freelancer 
+Project: Banyan Tree Image Cropping (Over 3000pics/month) 
+Type: Image Cropping 
+Description: Cropping images with different fixed resolution. 
+Client: Ogilvy / Ogilvy One Worldwide, Banyan Tree Hotels & Resorts 
+[ C o n f i d e n t i a l ]                                                                 P a g e  | 2 
+December 2013 – May 2014 
+Team Leader 
+Project: Library Management (4 members/group) 
+Type: Windows Application 
+Description: Developing windows application using Java, MSSQL and Netbeans IDE 
+July 2013 – December 2013 
+Technical Leader  
+Project: Leo Flower Store (4 members/group) 
+Type: Web Application 
+Description: Developing web-based application using HTML5, CSS3, MSSQL, Dreamweaver 
+and support team members.  
+INTEREST 
+Graphic design, 3D design, animation drawing (Japanese manga), photography, 
+typography, calligraphy. 
+Volunteer, charity and cultural exchange activities. 
+Basketball, swimming, badminton, table tennis, movies, music. 

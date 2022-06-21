@@ -1,0 +1,97 @@
+ 
+ CONNECT 
+  Phone: 01224066285 
+  Email: 
+jamethanhlong@gmail.com 
+  Address: 
+313/17 Nguyen Trai St, 
+5 Dist, HCM City. 
+ BASIC KNOWLEDGE  
+Knowing about hardware PC. 
+Having some good basic knowledge about programing (C/C++) and 
+database (MySQL). 
+Having the intellectual maturity about network infrastructure: 
+Routing, Switch, NAT, ACL, Frame relay, MPLS VPN,… 
+Good in using Window Server 2008 and Linux (Ubuntu, CentOS) to 
+manage network system. 
+Having a good basic about Wireless Technologies. 
+Knowing about Security Network. 
+Familiar with Virtual technologies: VMware EXS, KVM. 
+Good in understand the English documents. 
+ INTRODUCTION  
+  First name: LY 
+  Last name: LONG 
+  Birth day: 1 – 23 – 1993  
+  Gender: Male 
+  Marital Status: Single. 
+  Native land: Go Cong Commune, Tien Giang Province. 
+  Hobbies: badminton, cycling, reading and researching 
+  Motto:  Some people die at 25 and aren't buried until 75. 
+ COMMUNICATION:  
+Good in communication: Empathy, 
+sociable, honest and loyal. 
+Good behavior in work: enthusiasm, 
+predisposition for discovery, 
+creativity and problem solving. 
+ SPECIALIZED SKILLS: 
+Network: 
+Knowing about Ethernet technology, VLAN, 
+VTP, STP,… 
+Good in Routing: Static and Dynamic (Rip, 
+OSPF, EIGRP) 
+Knowing basic about VPN, MPLS VPN. 
+Good in some WAN technologes: Frame 
+Relay 
+Knowing about NAT, Control Access List 
+(ACL). 
+Troubleshooting some network connect 
+errors. 
+System:  
+Knowing basic about Linux (CentOS, 
+Ubuntu) and Window server 2008 
+Virtual technology: 
+Knowing basic about KVM, VMware ESX 5.0 
+and Cloud stored technology. 
+MPLS VPN: 
+Have a good basic about MPLS technology 
+and deployment VPN based on MPLS 
+infrastructure.  
+Security:  
+Security PPP (PAP, CHAP), layer 2 (port, 
+DHCP…), layer 3 (ACL) and router (AAA). 
+ EDUCATION 
+Ho Chi Minh City Pedagogical 
+University 
+ FOREIGN LANGUAGE 
+Proficient in listening, speaking, 
+reading, writing and presenting in 
+English. 
+ CERTIFICATE 
+CCNA certificated by University of 
+Science. 
+ EXPRENCES AND PROJECTS 
+MPLS VPN Technology 
+Time: 10/2014 – 05/2015 
+Position: leader 
+Responsible for: studying about MPLS and deploying VPN based on MPLS network core. 
+Work location: Ho Chi Minh City University of Pedagogy 
+Building FreeNAS system 
+Time: 03/2014 – 05/2014 
+Position: member  
+Responsible for: building stored system and decentralizing user. 
+Work location: Vietnam Network Company. 
+KVM technology 
+Time: 09/2014 – 11/2014 
+Position: member 
+Responsible for: studying and configuring Virtual technology: KVM 
+Work location: Ho Chi Minh City University of Pedagogy 
+Building DNS and FTP server on Ubuntu  
+Time: 08/2014 – 09/2014 
+Position: leader 
+Responsible for: building DNS server and FTP server on Ubuntu  
+Work location: Ho Chi Minh City University of Pedagogy 
+Building LAN for business  
+Time: 03/2014 – 05/2014 
+Position: leader 
+Responsible for: building mail server, FTP server, policy… for user 
+Work location: Ho Chi Minh City University of Pedagogy 

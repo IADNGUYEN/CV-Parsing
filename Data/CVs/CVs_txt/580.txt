@@ -1,0 +1,54 @@
+L Ê  M I N H  T H U Ậ N  
+T E C H N I C A L  S K I L L S  
+Operating System: Linux, Microsoft Windows,  
+Programming Language: C, C++, C#, SQL, Android  
+Software Tools: KeilC, CCS, Visual Studio, SQL Server, 
+Android studio 
+C O U R S E  P R O J E C T S  
+Measuring temperature and humidity device  
+(Feb 2017 – May 2017)  
+Describe: 3 members. Measuring temperature and 
+humidity, then transmit to computer with Bluetooth 
+standard. Module: chip MSP430G2553, SHT10 
+sensor (I2C) and HC06 Bluetooth module (UART). 
+My task: Using kit MSP430G2 kit communicate to 
+sensor STH10. 
+Home automation (Sep 2017 – Dec 2017) 
+Describe: 3 members. Measuring temperature, 
+humidity and brightening controlled light, fan, 
+stepper motor by phone. 
+My task: Planning to make project and Interfacing 
+MSP430G2 kit with SHT10 sensor (I2C), BH1750 
+sensor (I2C) and ESP8266 Wifi SoC (UART), Relay 
+module. 
+Garage Managing Software (Sep 2017 – Dec 2017) 
+Describe: 4 members. Building the software to 
+manage Garage. We used three-layer software 
+architecture 
+My task: Planning to make project, counting bill 
+and car repair voucher 
+E D U C A T I O N  
+University of Information Technology 
+Course: Computer engineering (2014 – 2019) 
+Major: Embedded system 
+GPA: 6.96/10 
+O B J E C T I V E  
+Seeking IOT internship 
+Advancing embedded programing 
+Looking for new and challenging tasks 
+Cooperating with funny and 
+perservant people 
+14520913@gm.ui
+t.edu.vn 
+0943919412 
+Address: QL13, Hiệp Bình Chánh, Thủ 
+Đức, Hồ Chí Minh 
+Date of birth: 28/11/1996 
+Gender: Male 
+S K I L L S  
+Team work 
+Reading English documents 
+Communicative 
+A C T I V I T I E S  
+Excellent volunteer of green summer 
+campaign (2015) 

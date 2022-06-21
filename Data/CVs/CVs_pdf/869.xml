@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="30" family="ABCDEE+Calibri,Bold" color="#2d74b5"/>
+	<fontspec id="1" size="14" family="ABCDEE+Calibri,Italic" color="#000000"/>
+	<fontspec id="2" size="14" family="ABCDEE+Calibri,Italic" color="#0462c1"/>
+	<fontspec id="3" size="12" family="ABCDEE+Calibri,Italic" color="#000000"/>
+	<fontspec id="4" size="14" family="ABCDEE+Calibri,Bold" color="#000000"/>
+	<fontspec id="5" size="12" family="ABCDEE+Calibri,Italic" color="#0462c1"/>
+	<fontspec id="6" size="16" family="ABCDEE+Calibri,Bold" color="#833b0a"/>
+	<fontspec id="7" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="8" size="16" family="ABCDEE+Calibri,Bold" color="#000000"/>
+	<fontspec id="9" size="13" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="10" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="11" size="16" family="Arial" color="#000000"/>
+<text top="92" left="119" width="146" height="30" font="0"><b>VINH DANG </b></text>
+<text top="145" left="108" width="184" height="15" font="1"><i>Cell phone: (+84) 906 307 800 </i></text>
+<text top="165" left="108" width="527" height="15" font="1"><i>Address: 42/29 Hoang Hoa Tham Street, Ward 7, Binh Thanh District, Ho Chi Minh City </i></text>
+<text top="185" left="108" width="41" height="15" font="1"><i>Email:<a href="mailto:dangvinh14061994@gmail.com"> </a></i></text>
+<text top="185" left="149" width="194" height="15" font="2"><a href="mailto:dangvinh14061994@gmail.com"><i>dangvinh14061994@gmail.com</i></a></text>
+<text top="185" left="344" width="3" height="15" font="1"><a href="mailto:dangvinh14061994@gmail.com"><i> </i></a></text>
+<text top="204" left="108" width="134" height="12" font="3"><i>Skype: phamdangvinh1406 </i></text>
+<text top="220" left="108" width="49" height="12" font="3"><i>Facebook:</i></text>
+<text top="218" left="158" width="3" height="15" font="4"><a href="https://www.facebook.com/Dang.Typn"><b> </b></a></text>
+<text top="220" left="161" width="192" height="12" font="5"><a href="https://www.facebook.com/Dang.Typn"><i>https://www.facebook.com/Dang.Typn</i></a></text>
+<text top="220" left="353" width="3" height="12" font="3"><a href="https://www.facebook.com/Dang.Typn"><i> </i></a></text>
+<text top="275" left="152" width="90" height="17" font="6"><b>Introduction </b></text>
+<text top="275" left="260" width="554" height="17" font="7">Graduated  at  Mathematics  and  Computer  Science  faculty,  I  have  strong </text>
+<text top="298" left="260" width="554" height="17" font="7">knowledge about mathematics and algorithm. With my passion about computer </text>
+<text top="320" left="260" width="554" height="17" font="7">vision, I make my ideas come true as a competent programmer. I am focusing on </text>
+<text top="342" left="260" width="467" height="17" font="7">image processing, pattern recognition and computational challenges. </text>
+<text top="414" left="154" width="88" height="17" font="6"><b>Professional </b></text>
+<text top="436" left="163" width="79" height="17" font="6"><b>Experience </b></text>
+<text top="414" left="260" width="486" height="17" font="8"><b>Global Cybersoft (Vietnam) JSC / Embedded Computer Vision Engineer </b></text>
+<text top="435" left="260" width="132" height="14" font="9">August 2016 to present </text>
+<text top="461" left="277" width="272" height="17" font="8"><b>Deep Learning Gait Recognition project </b></text>
+<text top="480" left="287" width="8" height="20" font="10"></text>
+<text top="485" left="295" width="5" height="15" font="11"> </text>
+<text top="484" left="314" width="470" height="17" font="7">Research and replicate deep learning method to calculate human gait </text>
+<text top="506" left="314" width="342" height="17" font="7">signature, work on MATLAB combined with Python</text>
+<text top="506" left="656" width="4" height="17" font="8"><b> </b></text>
+<text top="525" left="287" width="8" height="20" font="10"></text>
+<text top="530" left="295" width="5" height="15" font="11"> </text>
+<text top="529" left="314" width="488" height="17" font="7">Perform training and testing process based MatConvNet framework and </text>
+<text top="552" left="314" width="88" height="17" font="7">SVM method</text>
+<text top="552" left="402" width="4" height="17" font="8"><b> </b></text>
+<text top="574" left="260" width="4" height="17" font="8"><b> </b></text>
+<text top="596" left="277" width="145" height="17" font="8"><b>Smart Traffic project </b></text>
+<text top="615" left="287" width="8" height="20" font="10"></text>
+<text top="619" left="295" width="5" height="15" font="11"> </text>
+<text top="619" left="314" width="456" height="17" font="7">Member of Computer vision team, working on Python, develop and </text>
+<text top="641" left="314" width="304" height="17" font="7">maintain core source of Public Safety project </text>
+<text top="660" left="287" width="8" height="20" font="10"></text>
+<text top="665" left="295" width="5" height="15" font="11"> </text>
+<text top="664" left="314" width="427" height="17" font="7">Research  Tesseract, handle and apply license plate recognition </text>
+<text top="686" left="314" width="139" height="17" font="7">algorithms to server </text>
+<text top="705" left="287" width="8" height="20" font="10"></text>
+<text top="710" left="295" width="5" height="15" font="11"> </text>
+<text top="709" left="314" width="418" height="17" font="7">Develop homography module, support to calculate velocity of </text>
+<text top="732" left="314" width="105" height="17" font="7">transportation  </text>
+<text top="769" left="277" width="145" height="17" font="8"><b>Public Safety project </b></text>
+<text top="787" left="287" width="8" height="20" font="10"></text>
+<text top="792" left="295" width="5" height="15" font="11"> </text>
+<text top="792" left="314" width="499" height="17" font="7">Key member of Computer vision team, working on Python with OpenCV </text>
+<text top="814" left="314" width="402" height="17" font="7">and Dlib libraries to develop the core module of the project </text>
+<text top="833" left="287" width="8" height="20" font="10"></text>
+<text top="837" left="295" width="5" height="15" font="11"> </text>
+<text top="837" left="314" width="500" height="17" font="7">Develop  camera  calibration  module,  support  to  estimate  object  height, </text>
+<text top="859" left="314" width="447" height="17" font="7">velocity;  using linear algebra methods to solve geometry problem </text>
+<text top="878" left="287" width="8" height="20" font="10"></text>
+<text top="882" left="295" width="5" height="15" font="11"> </text>
+<text top="882" left="314" width="471" height="17" font="7">Develop intra-tracking module, apply to track human, vehicle in video </text>
+<text top="901" left="287" width="8" height="20" font="10"></text>
+<text top="906" left="295" width="5" height="15" font="11"> </text>
+<text top="905" left="314" width="500" height="17" font="7">Develop  object  detection  module  (human,  face,  vehicle),  train  the  HOG </text>
+<text top="927" left="314" width="213" height="17" font="7">SVM and Haar cascade models  </text>
+<text top="946" left="287" width="8" height="20" font="10"></text>
+<text top="951" left="295" width="5" height="15" font="11"> </text>
+<text top="950" left="314" width="464" height="17" font="7">Building core server with Postgres database using Django framework </text>
+<text top="988" left="260" width="496" height="17" font="8"><b>Global Cybersoft (Vietnam) JSC / Embedded Computer Vision Internship </b></text>
+<text top="1009" left="260" width="127" height="14" font="9">June 2016 to July 2016 </text>
+<text top="1035" left="277" width="173" height="17" font="8"><b>Office Assistance project </b></text>
+<text top="1054" left="287" width="8" height="20" font="10"></text>
+<text top="1059" left="295" width="5" height="15" font="11"> </text>
+<text top="1058" left="314" width="500" height="17" font="7">Member  of  computer  vision  team,  working  on  C/C++  with  OpenCV  to </text>
+<text top="1081" left="314" width="500" height="17" font="7">implement  human  tracking  functions,  communicate  with  backend  team </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="12" size="10" family="ABCDEE+Calibri" color="#000000"/>
+<text top="1117" left="766" width="48" height="17" font="7">Page 2 </text>
+<text top="127" left="314" width="187" height="17" font="7">by using GRPC and POCO.    </text>
+<text top="146" left="287" width="8" height="20" font="10"></text>
+<text top="151" left="295" width="5" height="15" font="11"> </text>
+<text top="150" left="314" width="500" height="17" font="7">Apply Optical flow, CAM shift and Kernelized correlation filter algorithms </text>
+<text top="173" left="314" width="500" height="17" font="7">to  improve  tracking  performance,  support  to  develop  PCA  model  for </text>
+<text top="195" left="314" width="244" height="17" font="7">training and matching human faces. </text>
+<text top="213" left="287" width="8" height="20" font="10"></text>
+<text top="218" left="295" width="5" height="15" font="11"> </text>
+<text top="218" left="314" width="500" height="17" font="7">Research Convolution neural network with Caffe model to improve face </text>
+<text top="240" left="314" width="145" height="17" font="7">recognition problem. </text>
+<text top="277" left="277" width="167" height="17" font="8"><b>Gait recognition project </b></text>
+<text top="296" left="287" width="8" height="20" font="10"></text>
+<text top="301" left="295" width="5" height="15" font="11"> </text>
+<text top="300" left="314" width="500" height="17" font="7">Support  to  implement  Optical  flow  energy  mask  for  subtracting  motion </text>
+<text top="322" left="314" width="305" height="17" font="7">foreground, using C/C++ and OpenCV library. </text>
+<text top="397" left="174" width="72" height="17" font="6"><b>Technical  </b></text>
+<text top="419" left="204" width="38" height="17" font="6"><b>Skills </b></text>
+<text top="394" left="287" width="8" height="20" font="10"></text>
+<text top="399" left="295" width="5" height="15" font="11"> </text>
+<text top="398" left="314" width="410" height="17" font="7">Foreign languages: English (TOEIC 600), Japanese (beginner). </text>
+<text top="417" left="287" width="8" height="20" font="10"></text>
+<text top="422" left="295" width="5" height="15" font="11"> </text>
+<text top="421" left="314" width="404" height="17" font="7">Programming languages: C/C++, Python, Matlab, JavaScript. </text>
+<text top="440" left="287" width="8" height="20" font="10"></text>
+<text top="445" left="295" width="5" height="15" font="11"> </text>
+<text top="444" left="314" width="480" height="17" font="7">Frameworks: OpenCV, Dlib, GRPC, POCO, Postgres SQL, SQLite, Django, </text>
+<text top="466" left="314" width="269" height="17" font="7">numpy, scikit-learn, keras, MatConvNet </text>
+<text top="485" left="287" width="8" height="20" font="10"></text>
+<text top="490" left="295" width="5" height="15" font="11"> </text>
+<text top="489" left="314" width="231" height="17" font="7">Operation system: linux, windows </text>
+<text top="508" left="287" width="8" height="20" font="10"></text>
+<text top="513" left="295" width="5" height="15" font="11"> </text>
+<text top="512" left="314" width="447" height="17" font="7">Domain specializations: digital image processing, computer vision, </text>
+<text top="535" left="314" width="119" height="17" font="7">machine learning </text>
+<text top="553" left="287" width="8" height="20" font="10"></text>
+<text top="558" left="295" width="5" height="15" font="11"> </text>
+<text top="558" left="314" width="246" height="17" font="7">Version control: Mercurial, GIT, SVN </text>
+<text top="576" left="287" width="8" height="20" font="10"></text>
+<text top="581" left="295" width="5" height="15" font="11"> </text>
+<text top="581" left="314" width="236" height="17" font="7">Software design tool: Astah, Pencil </text>
+<text top="600" left="287" width="8" height="20" font="10"></text>
+<text top="604" left="295" width="5" height="15" font="11"> </text>
+<text top="604" left="314" width="315" height="17" font="7">Working management tool: Jira, Crucible, Wiki </text>
+<text top="679" left="170" width="72" height="17" font="6"><b>Education </b></text>
+<text top="679" left="260" width="178" height="17" font="8"><b>IC &amp; IP Team (IC &amp; IP Lab) </b></text>
+<text top="701" left="260" width="550" height="17" font="8"><b>Faculty of Mathematics and Computer Science, VNUHCM - University of Science </b></text>
+<text top="723" left="260" width="120" height="17" font="7">Research student </text>
+<text top="745" left="260" width="145" height="14" font="9">June 2014 to August 2016 </text>
+<text top="763" left="277" width="523" height="17" font="8"><b>Conference paper: Classifying Vietnam Television videos based on detecting </b></text>
+<text top="785" left="277" width="172" height="17" font="8"><b>and identifying VTV logo </b></text>
+<text top="808" left="277" width="52" height="17" font="7">(THE 10</text>
+<text top="805" left="329" width="12" height="10" font="12">TH</text>
+<text top="808" left="340" width="420" height="17" font="7"> SCIENTIFIC CONFERENCE UNIVERSITY OF SCIENCE - VNUHCM) </text>
+<text top="830" left="277" width="4" height="17" font="8"><b> </b></text>
+<text top="852" left="260" width="481" height="17" font="8"><b>Viet Nam National University - Ho Chi Minh City University of Science  </b></text>
+<text top="874" left="260" width="322" height="17" font="8"><b>Faculty of Mathematics and Computer Science </b></text>
+<text top="896" left="260" width="78" height="17" font="7">Honor class</text>
+<text top="896" left="337" width="4" height="17" font="8"><b> </b></text>
+<text top="918" left="260" width="161" height="14" font="9"> August 2012 to August 2016 </text>
+<text top="944" left="277" width="321" height="17" font="8"><b>Thesis: Human detection and tracking in video </b></text>
+<text top="963" left="287" width="8" height="20" font="10"></text>
+<text top="967" left="295" width="5" height="15" font="11"> </text>
+<text top="967" left="314" width="500" height="17" font="7">Using Histogram of Oriented Gradients feature with Cascade classifier to </text>
+<text top="989" left="314" width="500" height="17" font="7">detect  human  in  real  time  videos,  and  apply  Optical  flow  mess  to </text>
+<text top="1011" left="314" width="467" height="17" font="7">calculate averaged magnitude of direction vector to track the objects </text>
+<text top="1030" left="287" width="8" height="20" font="10"></text>
+<text top="1035" left="295" width="5" height="15" font="11"> </text>
+<text top="1035" left="314" width="404" height="17" font="7">Working on C/C++ with OpenCV, combined on Visual Studio </text>
+<text top="1072" left="277" width="469" height="17" font="8"><b>Course project: Image compression using Discrete Cosine Transform </b></text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="13" size="16" family="ABCDEE+Calibri" color="#0462c1"/>
+<text top="1117" left="766" width="48" height="17" font="7">Page 3 </text>
+<text top="931" left="108" width="4" height="17" font="7"> </text>
+<text top="124" left="287" width="8" height="20" font="10"></text>
+<text top="129" left="295" width="5" height="15" font="11"> </text>
+<text top="128" left="314" width="302" height="17" font="7">Implement DCT method to compress images </text>
+<text top="147" left="287" width="8" height="20" font="10"></text>
+<text top="152" left="295" width="5" height="15" font="11"> </text>
+<text top="151" left="314" width="191" height="17" font="7">Writing on Matlab language </text>
+<text top="188" left="277" width="384" height="17" font="8"><b>Course project: Survey of Integer factorization methods </b></text>
+<text top="207" left="287" width="8" height="20" font="10"></text>
+<text top="212" left="295" width="5" height="15" font="11"> </text>
+<text top="211" left="314" width="500" height="17" font="7">Implement  various  methods  to  solve  the  problem  of  big  integer </text>
+<text top="234" left="314" width="89" height="17" font="7">factorization </text>
+<text top="252" left="287" width="8" height="20" font="10"></text>
+<text top="257" left="295" width="5" height="15" font="11"> </text>
+<text top="257" left="314" width="195" height="17" font="7">Writing on Matlab language. </text>
+<text top="294" left="277" width="524" height="17" font="8"><b>Course project: An application for drawing and testing 2D geometric objects </b></text>
+<text top="313" left="287" width="8" height="20" font="10"></text>
+<text top="317" left="295" width="5" height="15" font="11"> </text>
+<text top="317" left="314" width="475" height="17" font="7">Implement a small application based on Object oriented programming </text>
+<text top="336" left="287" width="8" height="20" font="10"></text>
+<text top="341" left="295" width="5" height="15" font="11"> </text>
+<text top="340" left="314" width="402" height="17" font="7">Writing on C/C++ language, making GUI with Window Form </text>
+<text top="377" left="277" width="527" height="17" font="8"><b>Course: An introduction to Bioinformatics Algorithms - From Computer Code </b></text>
+<text top="399" left="277" width="110" height="17" font="8"><b>to Human Code </b></text>
+<text top="418" left="287" width="8" height="20" font="10"></text>
+<text top="423" left="295" width="5" height="15" font="11"> </text>
+<text top="422" left="314" width="406" height="17" font="7">Solved many problems in the Rosaline website using Python </text>
+<text top="441" left="287" width="8" height="20" font="10"></text>
+<text top="446" left="295" width="5" height="15" font="11"> </text>
+<text top="445" left="314" width="104" height="17" font="7">Reference link<a href="http://rosalind.info/users/dangvinh14061994/">: </a></text>
+<text top="445" left="418" width="312" height="17" font="13"><a href="http://rosalind.info/users/dangvinh14061994/">http://rosalind.info/users/dangvinh14061994/</a></text>
+<text top="445" left="731" width="4" height="17" font="7"><a href="http://rosalind.info/users/dangvinh14061994/"> </a></text>
+<text top="520" left="187" width="55" height="17" font="6"><b>Awards </b></text>
+<text top="517" left="287" width="8" height="20" font="10"></text>
+<text top="522" left="295" width="5" height="15" font="11"> </text>
+<text top="521" left="314" width="200" height="17" font="7">Odon Vallet scholarship 2016 </text>
+<text top="540" left="287" width="8" height="20" font="10"></text>
+<text top="545" left="295" width="5" height="15" font="11"> </text>
+<text top="544" left="314" width="8" height="17" font="7">7</text>
+<text top="541" left="322" width="9" height="10" font="12">th</text>
+<text top="544" left="331" width="16" height="17" font="7">, 6</text>
+<text top="541" left="348" width="9" height="10" font="12">th</text>
+<text top="544" left="356" width="16" height="17" font="7">, 5</text>
+<text top="541" left="373" width="9" height="10" font="12">th</text>
+<text top="544" left="382" width="16" height="17" font="7">, 4</text>
+<text top="541" left="398" width="9" height="10" font="12">th</text>
+<text top="544" left="407" width="45" height="17" font="7">  and 1</text>
+<text top="541" left="452" width="8" height="10" font="12">st</text>
+<text top="544" left="459" width="310" height="17" font="7">  semester Encouraging Academic Scholarship </text>
+<text top="563" left="287" width="8" height="20" font="10"></text>
+<text top="568" left="295" width="5" height="15" font="11"> </text>
+<text top="567" left="314" width="161" height="17" font="7">Thang Long Scholarship </text>
+<text top="586" left="287" width="8" height="20" font="10"></text>
+<text top="591" left="295" width="5" height="15" font="11"> </text>
+<text top="590" left="314" width="158" height="17" font="7">Tran Thi Le Scholarship </text>
+<text top="665" left="162" width="80" height="17" font="6"><b>References </b></text>
+<text top="665" left="260" width="143" height="17" font="8"><b>Prof. The Bao Pham  </b></text>
+<text top="688" left="260" width="459" height="17" font="7">Faculty of Mathematics and Computer Science University of Science </text>
+<text top="710" left="260" width="324" height="17" font="7">Vietnam National University – Ho Chi Minh City  </text>
+<text top="732" left="260" width="440" height="17" font="7">227 Nguyen Van Cu Street, District 5,  Ho Chi Minh City, Vietnam  </text>
+<text top="754" left="260" width="38" height="17" font="7">Mail<a href="mailto:ptbao@hcmus.edu.vn">: </a></text>
+<text top="754" left="298" width="148" height="17" font="13"><a href="mailto:ptbao@hcmus.edu.vn">ptbao@hcmus.edu.vn</a></text>
+<text top="754" left="446" width="8" height="17" font="7"><a href="mailto:ptbao@hcmus.edu.vn"> </a> </text>
+<text top="776" left="260" width="4" height="17" font="7"> </text>
+<text top="798" left="260" width="110" height="17" font="8"><b>Tung Son Pham </b></text>
+<text top="820" left="260" width="275" height="17" font="7">Senior Engineer – Technical Architecture </text>
+<text top="843" left="260" width="340" height="17" font="7">Global Cybersoft (Vietnam) JSC -  Ho Chi Minh City </text>
+<text top="865" left="260" width="534" height="17" font="7">Helios Building, Road 4, Quang Trung Software City,  Ho Chi Minh City, Vietnam </text>
+<text top="887" left="260" width="38" height="17" font="7">Mail<a href="mailto:tungps@gcs-vn.com">: </a></text>
+<text top="887" left="298" width="136" height="17" font="13"><a href="mailto:tungps@gcs-vn.com">tungps@gcs-vn.com</a></text>
+<text top="887" left="434" width="4" height="17" font="7"><a href="mailto:tungps@gcs-vn.com"> </a></text>
+<text top="909" left="260" width="4" height="17" font="7"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="14" size="22" family="Helvetica" color="#000000"/>
+<text top="1232" left="8" width="254" height="21" font="14">Scanned by CamScanner</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="1232" left="8" width="254" height="21" font="14">Scanned by CamScanner</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="1232" left="8" width="254" height="21" font="14">Scanned by CamScanner</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="1232" left="8" width="254" height="21" font="14">Scanned by CamScanner</text>
+</page>
+</pdf2xml>

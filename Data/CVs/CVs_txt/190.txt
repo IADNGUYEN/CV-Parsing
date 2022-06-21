@@ -1,0 +1,44 @@
+ 
+Nguyen Phuc Vinh 
+031/8, Phuoc Thoi Ward, O Mon urban districts, Can Tho City  Phone 01677 210 466 – vinhvoz007@gmail.com 
+Career 
+Objective 
+Become a professional software developer. 
+Learn and improve technical and soft skills via a professional 
+working environment. 
+Experience 
+Sao Nam Company 
+From February 2015 to September 2015. 
+Position: C# developer. 
+Projects 
+Learning English with Android  
+English quiz  application in Android Smartphone  
+Languages: Java, C#, ASP.NET. 
+Tools: Eclipse, Visual Studio, PowerDesigner, SQL Lite. 
+Database Management : MSSQL 2008 on WebHosting. 
+Land Management 
+Manage land in Binh Thuy district. Used by People’s 
+Committee of Binh Thuy District 
+Language: C#. 
+Tools: Visual Studio, PowerDesigner, RDLC. 
+Database Management : MSSQL 2008. 
+School fee Software 
+Provide school fee software to some  preschools, primary schools 
+and high schools in Ninh Kieu district 
+Language: C#. 
+Tools: Visual Studio, PowerDesigner, RDLC. 
+Database Management : MSSQL 2008. 
+Skills 
+Programming Skills 
+Strong at C#. 
+Java, VB.NET and ASP.NET 
+Soft Skills 
+Independent or team work. 
+English: speaking and reading. 
+Software 
+OS: Windows, Windows Server, Android. 
+Tools:  Eclipse, Visual Studio, PowerDesigner, RDLC, 
+MSSQL. 
+Education Can Tho University 
+Current Grades: Good 
+2011  2015 

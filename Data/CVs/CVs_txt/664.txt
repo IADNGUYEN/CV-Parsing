@@ -1,0 +1,46 @@
+TRIEU PHUONG NAM 
+CONTACT  
+Skype: 
+trieuphuongnam85 
+Phone: 
+0987121831  
+Email: 
+trieuphuongnam85@gmail.com 
+Skills 
+Java 
+JavaSrcipt 
+Python 
+C# 
+Xamarin 
+Php, html, css 
+OBJECTIVE  
+I want to be a good staff and try to learn as much as possible and 
+doing my best in order to accompish my task. I want to have good 
+opportunities to get promotion in my job. Develop my skills with 
+development of company, I want to prove myself. 
+EDUCATION 
+2015  2019 
+Can Tho university of technology.  
+COURSEWORKS 
+Operating Systems: Windows 7 and Linux.   
+Programming languages: C#, Java, Python,php, MySQL, HTML, 
+XML.  
+Databases: MS SQL Server 2008,My SQL,...   
+And subjects: System Analysis and Design, Software Project 
+Management,Object  Oriented Programming (using java language). 
+EXPERIENCE 
+2015  2016 
+Manager of shoe store staff (OOP  using C# language).  
+Writing web (php).    
+2017 – 2018 
+Make web selling phone with wordpress. 
+Project 1 is caro using python on pc. 
+Project 2 is caro using java on android. 
+2018-2019 
+Intern Mobile Xamarin Developer at HCM city and Intern Django at 
+Can Tho city. 
+Project 3 is XACML. 
+Dissertation: Access control system, policy analysis, integration, 
+policy evaluation on SMT Solver. 
+REFERENCES 
+My projects on github: TrieuNam/NamKTPM0115 and  references: 

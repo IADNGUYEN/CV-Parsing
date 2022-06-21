@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="23" family="Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="21" family="Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="16" family="Arial" color="#000000"/>
+	<fontspec id="3" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="4" size="16" family="ABCDEE+Courier New" color="#000000"/>
+	<fontspec id="5" size="18" family="Symbol" color="#000000"/>
+	<fontspec id="6" size="18" family="Arial" color="#000000"/>
+<text top="90" left="106" width="109" height="22" font="0"><b>RESUME </b></text>
+<text top="127" left="829" width="7" height="22" font="0"><b> </b></text>
+<text top="162" left="106" width="154" height="19" font="1"><b>INFORMATION </b></text>
+<text top="194" left="106" width="195" height="15" font="2">Full name: TIN Pham Van </text>
+<text top="222" left="106" width="186" height="15" font="2">Date of birth: 25/09/1993 </text>
+<text top="219" left="293" width="264" height="18" font="2">– Hometown: Quang Nam Province </text>
+<text top="250" left="106" width="526" height="15" font="2">Address: 131/70 To Hien Thanh, Ward 13, District 10, Ho Chi Minh City </text>
+<text top="278" left="106" width="170" height="15" font="2">Tel: +84 167 4213 785 </text>
+<text top="306" left="106" width="218" height="15" font="2">Email: pvtin1225@gmail.com </text>
+<text top="353" left="106" width="219" height="19" font="1"><b>CAREER OBJECTIVE </b></text>
+<text top="385" left="106" width="674" height="15" font="2">To be a software engineer with passion in work, hard-working and creative to overcome any </text>
+<text top="404" left="106" width="397" height="15" font="2">challenge to improve myself and contribute to society. </text>
+<text top="451" left="106" width="404" height="19" font="1"><b>KNOWLEDGE, SKILLS AND STRENGTH </b></text>
+<text top="480" left="133" width="8" height="20" font="3"></text>
+<text top="484" left="141" width="452" height="15" font="2">  Have knowledge about AUTOSAR standard in automotive. </text>
+<text top="503" left="133" width="8" height="20" font="3"></text>
+<text top="507" left="141" width="370" height="15" font="2">  Programming Languages: C/C++, Python, Perl. </text>
+<text top="525" left="133" width="8" height="20" font="3"></text>
+<text top="530" left="141" width="290" height="15" font="2">  Ability to debug with assembly code. </text>
+<text top="548" left="133" width="8" height="20" font="3"></text>
+<text top="553" left="141" width="122" height="15" font="2">  Ability to use: </text>
+<text top="573" left="187" width="10" height="17" font="4">o</text>
+<text top="575" left="197" width="311" height="15" font="2">  Version control software: GIT and SVN. </text>
+<text top="595" left="187" width="10" height="17" font="4">o</text>
+<text top="597" left="197" width="168" height="15" font="2">  Regular expression. </text>
+<text top="617" left="187" width="10" height="17" font="4">o</text>
+<text top="619" left="197" width="424" height="15" font="2">  Microsoft Office: Word, Excel, VBA Excel, Power Point. </text>
+<text top="639" left="187" width="10" height="17" font="4">o</text>
+<text top="641" left="197" width="105" height="15" font="2">  Photoshop. </text>
+<text top="659" left="133" width="8" height="20" font="3"></text>
+<text top="663" left="141" width="127" height="15" font="2">  Hard-working. </text>
+<text top="682" left="133" width="8" height="20" font="3"></text>
+<text top="686" left="141" width="231" height="15" font="2">  Good cooperate with others. </text>
+<text top="705" left="133" width="8" height="22" font="5"></text>
+<text top="710" left="142" width="231" height="17" font="6">  Good ability on self-study. </text>
+<text top="730" left="133" width="8" height="22" font="5"></text>
+<text top="735" left="142" width="5" height="17" font="6"> </text>
+<text top="736" left="160" width="184" height="15" font="2">Open to learn new things</text>
+<text top="735" left="343" width="10" height="17" font="6">. </text>
+<text top="786" left="106" width="140" height="19" font="1"><b>LANGUAGES </b></text>
+<text top="815" left="133" width="8" height="20" font="3"></text>
+<text top="819" left="141" width="237" height="15" font="2">  Vietnamese: native language </text>
+<text top="838" left="133" width="8" height="20" font="3"></text>
+<text top="842" left="141" width="170" height="15" font="2">  English: TOEIC 715 </text>
+<text top="861" left="133" width="8" height="20" font="3"></text>
+<text top="865" left="141" width="152" height="15" font="2">  French: DELF B1 </text>
+<text top="884" left="133" width="8" height="20" font="3"></text>
+<text top="888" left="141" width="255" height="15" font="2">  Japanese: aproximate JLPT N5 </text>
+<text top="938" left="106" width="251" height="19" font="1"><b>PROJECT PATICIPATED </b></text>
+<text top="970" left="160" width="10" height="15" font="2">- </text>
+<text top="970" left="187" width="588" height="15" font="2">AUTOSAR Project: implement driver based on AUTOSAR standard (currently in </text>
+<text top="992" left="187" width="201" height="15" font="2">Renesas Design Vietnam). </text>
+<text top="1014" left="160" width="10" height="15" font="2">- </text>
+<text top="1014" left="187" width="602" height="15" font="2">Thesis: calculate radio wave propagation in urban using Slope Diffraction Method. </text>
+<text top="1036" left="160" width="10" height="15" font="2">- </text>
+<text top="1036" left="187" width="554" height="15" font="2">Create a monitor for Java Web Development projec (internship in Individual </text>
+<text top="1057" left="187" width="145" height="15" font="2">System Company). </text>
+<text top="1079" left="160" width="10" height="15" font="2">- </text>
+<text top="1079" left="187" width="579" height="15" font="2">Execute a FM Transmitter Circuit and a FM Radio Jammer Circuit (Fifth year in </text>
+<text top="1101" left="187" width="89" height="15" font="2">university).  </text>
+<text top="1123" left="160" width="10" height="15" font="2">- </text>
+<text top="1123" left="187" width="595" height="15" font="2">Take part in project Android application for expense management (Fourth year in </text>
+<text top="1145" left="187" width="84" height="15" font="2">university). </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="7" size="21" family="Arial" color="#000000"/>
+	<fontspec id="8" size="16" family="Arial,Bold" color="#000000"/>
+<text top="88" left="160" width="10" height="15" font="2">- </text>
+<text top="88" left="187" width="566" height="15" font="2">Investigate radar system using ZigBee technology (Fourth year in university). </text>
+<text top="111" left="160" width="13" height="19" font="7">- </text>
+<text top="114" left="187" width="572" height="15" font="2">Training data for voice recognize with simple words using Vector Quantization </text>
+<text top="136" left="187" width="241" height="15" font="2">Method (Third year in university).</text>
+<text top="133" left="429" width="12" height="19" font="1"><b>  </b></text>
+<text top="186" left="106" width="154" height="19" font="1"><b>EMPLOYMENT </b></text>
+<text top="215" left="133" width="8" height="20" font="3"></text>
+<text top="219" left="141" width="5" height="15" font="2"> </text>
+<text top="219" left="160" width="64" height="15" font="8"><b>09/2016 </b></text>
+<text top="216" left="225" width="70" height="18" font="8"><b>– current</b></text>
+<text top="219" left="295" width="437" height="15" font="2">: Work as embedded software engineer at Renesas Design </text>
+<text top="241" left="160" width="61" height="15" font="2">Vietnam</text>
+<text top="241" left="221" width="5" height="15" font="8"><b> </b></text>
+<text top="261" left="187" width="10" height="17" font="4">o</text>
+<text top="263" left="197" width="170" height="15" font="2">  Two months training.</text>
+<text top="263" left="368" width="5" height="15" font="8"><b> </b></text>
+<text top="283" left="187" width="10" height="17" font="4">o</text>
+<text top="285" left="197" width="151" height="15" font="2">  AUTOSAR project</text>
+<text top="285" left="348" width="5" height="15" font="8"><b>.</b></text>
+<text top="285" left="353" width="5" height="15" font="2"> </text>
+<text top="303" left="133" width="8" height="20" font="3"></text>
+<text top="308" left="141" width="5" height="15" font="2"> </text>
+<text top="308" left="160" width="134" height="15" font="8"><b>03/2016 - 04/2016</b></text>
+<text top="308" left="295" width="473" height="15" font="2">: Intership as web java developer at Individual System Company </text>
+<text top="328" left="187" width="10" height="17" font="4">o</text>
+<text top="330" left="197" width="407" height="15" font="2">  Training about Java Web such as model, framework. </text>
+<text top="349" left="187" width="10" height="17" font="4">o</text>
+<text top="351" left="197" width="264" height="15" font="2">  Develop a monitor in real project. </text>
+<text top="401" left="106" width="131" height="19" font="1"><b>EDUCATION </b></text>
+<text top="430" left="133" width="8" height="20" font="3"></text>
+<text top="434" left="141" width="5" height="15" font="2"> </text>
+<text top="434" left="160" width="84" height="15" font="8"><b>2011- 2017</b></text>
+<text top="434" left="244" width="319" height="15" font="2">: Ho Chi Minh city University of Technology </text>
+<text top="431" left="563" width="193" height="18" font="2">– PFIEV Program – Major </text>
+<text top="456" left="160" width="256" height="15" font="2">Telecommunication. GPA: 7.22/10 </text>
+<text top="474" left="133" width="8" height="20" font="3"></text>
+<text top="479" left="141" width="5" height="15" font="2"> </text>
+<text top="479" left="160" width="41" height="15" font="8"><b>2008 </b></text>
+<text top="476" left="202" width="51" height="18" font="8"><b>– 2011</b></text>
+<text top="479" left="252" width="506" height="15" font="2">: Nguyen Binh Khiem gifted high school, Quang Nam province. GPA: </text>
+<text top="501" left="160" width="51" height="15" font="2">8.4/10 </text>
+<text top="551" left="106" width="207" height="19" font="1"><b>SOCIAL ACTIVITIES </b></text>
+<text top="579" left="133" width="8" height="20" font="3"></text>
+<text top="584" left="141" width="462" height="15" font="2">  Take part in Spring Volunteer Campaign at university 2012.  </text>
+<text top="602" left="133" width="8" height="20" font="3"></text>
+<text top="607" left="141" width="518" height="15" font="2">  Excellent soldier Province Level in Green Summer Campaign 2013. </text>
+<text top="625" left="133" width="8" height="20" font="3"></text>
+<text top="630" left="141" width="644" height="15" font="2">  Member of Aikido Club in Dorminotory of University and join in many charity activities </text>
+<text top="652" left="160" width="73" height="15" font="2">with club. </text>
+<text top="670" left="133" width="8" height="20" font="3"></text>
+<text top="675" left="141" width="525" height="15" font="2">  Take part in humanitarian blood donation at university and company. </text>
+<text top="713" left="106" width="102" height="19" font="1"><b>HOBBIES </b></text>
+<text top="751" left="133" width="8" height="20" font="3"></text>
+<text top="756" left="141" width="242" height="15" font="2">  Martial art, football, swimming </text>
+<text top="774" left="133" width="8" height="20" font="3"></text>
+<text top="778" left="141" width="108" height="15" font="2">  Art, origami </text>
+<text top="797" left="133" width="8" height="20" font="3"></text>
+<text top="801" left="141" width="85" height="15" font="2">  Reading </text>
+<text top="820" left="133" width="8" height="20" font="3"></text>
+<text top="824" left="141" width="85" height="15" font="2">  E-sports </text>
+</page>
+</pdf2xml>

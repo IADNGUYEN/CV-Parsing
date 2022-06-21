@@ -1,0 +1,51 @@
+VAN LANG UNIVERSITY
+SEP 2015  JUNE 2019
+PROJECT: EJOB  VAN LANG JOB WEBSITE
+OCT 2018  JAN 2019
+PROJECT: WEBSITE ATTENDANCE BY BARCODE SCANNER
+MAR 2018  JUL 2018
+TECHNOLOGY AND EDUCATION THANH PHAT COMPANY
+AUG 2016  JAN 2017
+Objective  Applying the experience and skills learned to test software products to become a
+professional testing staff, giving users the best quality products.  In 2 months of work, will try to absorb the work and business of the company to be able to
+promote the full value of self into work, create confidence in the leadership and will bring
+products high reliability.
+ Education
+Major: Software Engineer
+GPA: 7.57/10
+ Work Experience
+Job position in the project: Tester  Website helps Van Lang University connecting recruiters with students of the school.  Recruiters with accounts will be posted recruitment news and manage candidates' CVs
+when applying to the company, recruiters can set up interview schedules and manage
+interview schedules of all candidates in website. In addition, the recruiters can also have an
+overview of the number of candidates according to each status after applying.  Van Lang University students can search for jobs, create CVs and apply directly on the
+website.  Programming language used: Asp.Net MVC  Apply automatic testing into the project: using Selenium tool
+Job position in the project: Tester, Developer  Website helps students take attendance by identifying the scanned student id from the
+barcode scanner on the student card.  The website also helps lecturers statistics the number of students going to school in a
+session and in the course.  Programming language used: Asp.Net MVC- Apply manual test into the project
+Sales Staff
+Main responsibilities:  Introduce, consult products and answer customers' question by face to face, via e-mail and
+phone.  Gather customer's needs about web design for their business
+SEO Writter.
+Main responsibilities:  Write the post for the website according to SEO Standards.  Write the post introduce for customer's website.
+ Feb 1, 1997
+ Female
+ 0766946207
+ vtkchi1297@gmail.com
+
+Ho Chi Minh City, Vietnam
+
+https://www.facebook.com/ki
+mchi.vo.50552
+SKILLS
+Testing
+Team working
+Programing
+English language
+INTERESTS
+Music
+Watch movie
+Traveling
+Võ Thị Kim Chi
+Võ Thị Kim Chi
+SOFTWARE TESTING
+© topcv.vn

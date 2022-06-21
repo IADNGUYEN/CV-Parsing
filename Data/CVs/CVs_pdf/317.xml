@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="37" family="EVOLLI+Lato" color="#2e2e2e"/>
+	<fontspec id="1" size="17" family="EVOLLI+Lato" color="#208520"/>
+	<fontspec id="2" size="11" family="JDNRPR+FontAwesome" color="#208520"/>
+	<fontspec id="3" size="11" family="EVOLLI+Lato" color="#2e2e2e"/>
+	<fontspec id="4" size="25" family="EVOLLI+Lato" color="#208520"/>
+	<fontspec id="5" size="17" family="XJREHH+Lato" color="#2e2e2e"/>
+	<fontspec id="6" size="14" family="EVOLLI+Lato" color="#208520"/>
+	<fontspec id="7" size="13" family="JDNRPR+FontAwesome" color="#666666"/>
+	<fontspec id="8" size="13" family="XJREHH+Lato" color="#666666"/>
+	<fontspec id="9" size="14" family="XJREHH+Lato" color="#666666"/>
+	<fontspec id="10" size="13" family="UOMENF+CMSY9" color="#666666"/>
+<text top="42" left="43" width="250" height="40" font="0"><b>LINH NGUYEN</b></text>
+<text top="86" left="43" width="254" height="19" font="1"><b>Data Scientist &amp; Curious Person</b></text>
+<text top="113" left="43" width="10" height="10" font="2">[</text>
+<text top="114" left="59" width="159" height="13" font="3"><b>huylinh.nguyen@outlook.com</b></text>
+<text top="113" left="243" width="9" height="10" font="2">Ó</text>
+<text top="114" left="259" width="81" height="13" font="3"><b>01649 475 731</b></text>
+<text top="113" left="366" width="7" height="10" font="2">½</text>
+<text top="114" left="379" width="66" height="13" font="3"><b>Ho Chi Minh</b></text>
+<text top="113" left="471" width="11" height="10" font="2">®</text>
+<text top="114" left="488" width="154" height="13" font="3"><b>https://tulip4attoo.github.io/</b></text>
+<text top="113" left="669" width="10" height="10" font="2"></text>
+<text top="114" left="685" width="127" height="13" font="3"><b>github.com/Tulip4attoo</b></text>
+<text top="156" left="561" width="150" height="28" font="4"><b>EDUCATION</b></text>
+<text top="198" left="561" width="232" height="23" font="5">Exchange student in School of</text>
+<text top="219" left="561" width="251" height="23" font="5">Computer Science and Statistics</text>
+<text top="248" left="561" width="145" height="16" font="6"><b>Trinity College Dublin</b></text>
+<text top="271" left="561" width="12" height="11" font="7"></text>
+<text top="268" left="580" width="122" height="17" font="8">Sep 2016 – Jan 2017</text>
+<text top="315" left="561" width="220" height="23" font="5">M.S. in Quantitative Finance</text>
+<text top="352" left="561" width="188" height="16" font="6"><b>John von Neumann Institute</b></text>
+<text top="375" left="561" width="12" height="11" font="7"></text>
+<text top="373" left="580" width="118" height="17" font="8">Sep 2015 – Ongoing</text>
+<text top="419" left="561" width="243" height="23" font="5">B.A. in International Economics</text>
+<text top="457" left="561" width="164" height="16" font="6"><b>Foreign Trade University</b></text>
+<text top="480" left="561" width="12" height="11" font="7"></text>
+<text top="478" left="580" width="132" height="17" font="8">Aug 2010 – June 2014</text>
+<text top="524" left="561" width="172" height="23" font="5">Major in Mathematics</text>
+<text top="562" left="561" width="236" height="16" font="6"><b>High school for gifted student, VNU</b></text>
+<text top="584" left="561" width="12" height="11" font="7"></text>
+<text top="582" left="580" width="132" height="17" font="8">Aug 2007 – June 2010</text>
+<text top="626" left="561" width="81" height="28" font="4"><b>SKILLS</b></text>
+<text top="668" left="569" width="147" height="19" font="9">Collaborative Filtering</text>
+<text top="694" left="569" width="112" height="19" font="9">Neural Networks</text>
+<text top="694" left="703" width="95" height="19" font="9">Deep Learning</text>
+<text top="721" left="569" width="28" height="19" font="9">NLP</text>
+<text top="721" left="619" width="120" height="19" font="9">Genetic Algorithm</text>
+<text top="770" left="569" width="47" height="19" font="9">Python</text>
+<text top="770" left="638" width="10" height="19" font="9">R</text>
+<text top="770" left="669" width="19" height="19" font="9">C#</text>
+<text top="820" left="569" width="73" height="19" font="9">Tensorflow</text>
+<text top="820" left="663" width="75" height="19" font="9">Scikit-learn</text>
+<text top="846" left="569" width="120" height="19" font="9">Scrapy &amp; Selenium</text>
+<text top="846" left="711" width="111" height="19" font="9">Pandas &amp; Numpy</text>
+<text top="873" left="569" width="119" height="19" font="9">Matplotlib &amp; Dash</text>
+<text top="873" left="709" width="36" height="19" font="9">Unity</text>
+<text top="873" left="767" width="57" height="19" font="9">OpenCV</text>
+<text top="914" left="561" width="96" height="28" font="4"><b>MOOCS</b></text>
+<text top="956" left="561" width="266" height="23" font="5">CS224n - NLP with Deep Learning</text>
+<text top="985" left="561" width="131" height="16" font="6"><b>Stanford University</b></text>
+<text top="1034" left="561" width="285" height="23" font="5">Neural Networks and Deep Learning</text>
+<text top="1072" left="561" width="61" height="16" font="6"><b>Coursera</b></text>
+<text top="1121" left="561" width="140" height="23" font="5">Machine Learning</text>
+<text top="1158" left="561" width="61" height="16" font="6"><b>Coursera</b></text>
+<text top="156" left="43" width="155" height="28" font="4"><b>EXPERIENCE</b></text>
+<text top="198" left="43" width="109" height="23" font="5">Data Scientist</text>
+<text top="227" left="43" width="152" height="16" font="6"><b>FPT R&amp;D, FPT Telecom</b></text>
+<text top="250" left="43" width="12" height="11" font="7"></text>
+<text top="247" left="62" width="127" height="17" font="8">Apr 2017 – Mar 2018</text>
+<text top="250" left="276" width="8" height="11" font="7">½</text>
+<text top="247" left="291" width="98" height="17" font="8">Ho Chi Minh city</text>
+<text top="271" left="43" width="269" height="19" font="9">PlayTV Recommendation System project:</text>
+<text top="292" left="43" width="7" height="13" font="10">•</text>
+<text top="289" left="56" width="429" height="17" font="8">Designed, deployed and automated a Recommendation System for a large</text>
+<text top="306" left="56" width="194" height="17" font="8">video platform (millions of users).</text>
+<text top="329" left="43" width="7" height="13" font="10">•</text>
+<text top="326" left="56" width="397" height="17" font="8">Scraped data from IMDb (and other websites) using Python (scrapy).</text>
+<text top="349" left="43" width="7" height="13" font="10">•</text>
+<text top="347" left="56" width="368" height="17" font="8">Worked with internal product team to develop view of product.</text>
+<text top="382" left="43" width="84" height="19" font="9">DNS project:</text>
+<text top="403" left="43" width="7" height="13" font="10">•</text>
+<text top="400" left="56" width="340" height="17" font="8">Detected malicious domain names (Precision/Recall 98%).</text>
+<text top="448" left="43" width="205" height="23" font="5">Data Analytics Consultant</text>
+<text top="476" left="43" width="40" height="16" font="6"><b>Gotit!</b></text>
+<text top="499" left="43" width="12" height="11" font="7"></text>
+<text top="497" left="62" width="128" height="17" font="8">Feb 2017 – May 2017</text>
+<text top="499" left="276" width="8" height="11" font="7">½</text>
+<text top="497" left="291" width="98" height="17" font="8">Ho Chi Minh city</text>
+<text top="521" left="43" width="107" height="19" font="9">Chatbot project:</text>
+<text top="541" left="43" width="7" height="13" font="10">•</text>
+<text top="539" left="56" width="336" height="17" font="8">Worked on software engineering and data analytics tasks.</text>
+<text top="562" left="43" width="7" height="13" font="10">•</text>
+<text top="559" left="56" width="173" height="17" font="8">Supported in building models.</text>
+<text top="607" left="43" width="201" height="23" font="5">Data Scientist Apprentice</text>
+<text top="636" left="43" width="68" height="16" font="6"><b>Tenpoint7</b></text>
+<text top="658" left="43" width="12" height="11" font="7"></text>
+<text top="656" left="62" width="122" height="17" font="8">Jan 2016 – Sep 2016</text>
+<text top="658" left="276" width="8" height="11" font="7">½</text>
+<text top="656" left="291" width="98" height="17" font="8">Ho Chi Minh city</text>
+<text top="680" left="43" width="85" height="19" font="9">D2O project:</text>
+<text top="701" left="43" width="7" height="13" font="10">•</text>
+<text top="698" left="56" width="348" height="17" font="8">Built models for time series predicting (hospitality revenue).</text>
+<text top="721" left="43" width="7" height="13" font="10">•</text>
+<text top="718" left="56" width="106" height="17" font="8">Visualized results.</text>
+<text top="742" left="43" width="7" height="13" font="10">•</text>
+<text top="739" left="56" width="285" height="17" font="8">Optimized results (Reduce training time by 75%).</text>
+<text top="778" left="43" width="187" height="28" font="4"><b>SIDE PROJECTS</b></text>
+<text top="820" left="43" width="137" height="23" font="5">Chrome TRex bot</text>
+<text top="848" left="43" width="295" height="16" font="6"><b>https://github.com/Tulip4attoo/chrome_trex</b></text>
+<text top="879" left="43" width="7" height="13" font="10">•</text>
+<text top="876" left="56" width="342" height="17" font="8">Created an end-to-end bot to play Chrome Dinosaur game.</text>
+<text top="900" left="43" width="7" height="13" font="10">•</text>
+<text top="897" left="56" width="229" height="17" font="8">Used screenshots as input of my model.</text>
+<text top="945" left="43" width="112" height="23" font="5">Technical Blog</text>
+<text top="973" left="43" width="193" height="16" font="6"><b>https://tulip4attoo.github.io/</b></text>
+<text top="996" left="43" width="12" height="11" font="7"></text>
+<text top="994" left="62" width="120" height="17" font="8">Aug 2015 – Ongoing</text>
+<text top="1022" left="43" width="7" height="13" font="10">•</text>
+<text top="1019" left="56" width="377" height="17" font="8">Wrote about my side projects, competitions and technical things.</text>
+<text top="1058" left="43" width="198" height="28" font="4"><b>ACHIEVEMENTS</b></text>
+<text top="1102" left="43" width="7" height="13" font="10">•</text>
+<text top="1100" left="56" width="31" height="17" font="8">2017</text>
+<text top="1100" left="132" width="305" height="17" font="8">Top 10/300 of Entropy - Data Analytics Competition</text>
+<text top="1123" left="43" width="7" height="13" font="10">•</text>
+<text top="1120" left="56" width="31" height="17" font="8">2015</text>
+<text top="1120" left="132" width="341" height="17" font="8">Top 7/250 of Data Hackathon 3.0 - Analytics Vidhya forum</text>
+<text top="1143" left="43" width="7" height="13" font="10">•</text>
+<text top="1141" left="56" width="31" height="17" font="8">2013</text>
+<text top="1141" left="132" width="303" height="17" font="8">Top 10 of M&amp;A Contest 2013 - Vietnam M&amp;A forum</text>
+<text top="1164" left="43" width="7" height="13" font="10">•</text>
+<text top="1161" left="56" width="31" height="17" font="8">2008</text>
+<text top="1161" left="132" width="283" height="17" font="8">3rd prize of Hanoi Mathematical Olympiad 2008</text>
+<text top="1185" left="43" width="7" height="13" font="10">•</text>
+<text top="1182" left="56" width="31" height="17" font="8">2007</text>
+<text top="1182" left="132" width="341" height="17" font="8">Highest score of the entrance exam of Lam Son Specialized</text>
+<text top="1198" left="144" width="73" height="17" font="8">School 2007</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,83 @@
+DINH NGOC HUNG 
+Date of birth: 27th March 1988 
+9/2D, 904 street 
+Gender: Male 
+Hiep Phu ward, 
+Mobile: 0977315246 
+District 9 
+Email: hungdn2703@gmail.com 
+Ho Chi Minh city, Vietnam 
+OBJECTIVE 
+PM to be 
+SKILLS 
+C#, VB.Net 
+Web developer with MVC, service 
+SQL Server, My SQL 
+Elastic search, Couchbase 
+HTML, CSS, XML, bootstrap, kendo 
+Javascript, jQuery, json, Ajax, AngularJs 
+EDUCATION 
+2006 – 2012: Danang University of Technology 
+Degree: Information technology engineering 
+WORK EXPERIENCE 
+FPT Software 
+Developer 
+September 2013 – Present 
+Analysis customer request 
+Programming languages: C#, MVC 
+Data management: SQL Server, elastic search, couchbase 
+Crystal report 
+Javascript, json, ajax, jquery, angularjs 
+Plan and tracking task 
+Build package and using SVN to control source (tracking, merge, tag…) 
+Project: 
+o 
+DMS 
+Distributor Management System (Centralized) 
+o 
+MVC, C#, web service 
+o 
+Angular js, css, javascript, jquery, json 
+o 
+Database: elastic search, couchbase 
+o 
+UI: Bootstrap, kendo 
+o 
+Module: 
+Master Data 
+Inventory 
+Orders 
+Promotions 
+Payment 
+Delivery 
+Report 
+o 
+DMS Lite 
+Distributor Management System (De-centralized) 
+o 
+Win form: C# 
+o 
+Crystal report 
+o 
+Database: SQL Server 
+o 
+UI: Devexpress 
+o 
+Smart Route 
+o 
+MVC, C#, web service 
+o 
+Angular js, css, javascript, jquery, json 
+o 
+Database: elastic search, couchbase 
+o 
+UI: Bootstrap, kendo 
+o 
+Service: google maps, vietbando 
+Chutex International Co., Ltd 
+Developer 
+July 2011 – August 2013 
+Analysis request from director and departments 
+Design and management data using SQL server 
+Developer application (C#, VB.Net) 
+Crystal report 

@@ -1,0 +1,66 @@
+CURRICULUM VITAE 
+PERSONAL INFORMATION 
+Full Name 
+: Le Thanh Dat 
+Birthday  
+: 26/07/1992 
+Gender  
+: Male 
+Phone 
+: 0120 34 74 194 
+Email 
+: thdatle@gmail.com 
+Address  
+: 31a 904, Hiep Phu,  
+District 9, Ho Chi Minh 
+Position  
+: Mobile Developer 
+EDUCATION 
+Time 
+: 9/2010 – 2015 
+University 
+: University of Technical Education Ho Chi Minh City 
+Majoy 
+: Information Technology – Information System 
+TECHNICAL SKILLS 
+Programming Languages : Java, C/C++, Swift, PHP. 
+Database Management System: Sqlite, Sql Server, MySQL. 
+Tools : Eclipse, Xcode, VMware, Wamp Server, StarUML, 
+Genymotion. 
+Knowledge : OOP, JSON, Design Patterns, UML, Testing, 
+XML, HTML basic. 
+Foreign Language : English – Good in reading English 
+documents. 
+PROJECT EXPERIENCE 
+Online Payment Shop ( Android Application ) : 
+Desciption : “Online Payment Shop” provides 
+customers with a product that supports of buying or 
+selling online and integrates the mode of payment by 
+Paypal payment gateway. Design a simple and user-
+friendly interface. 
+Programming language : java 
+Tools : eclipse, wamp server, genymotion, mysql 
+Team size : 3 people 
+My role : Team leader, developer, tester 
+What’re They ( iOS Application ) : 
+Desciption : “What’re They” is an English learning 
+application based on playing – game activities that 
+provides players with a large vocabulary combining with 
+images, ability of fast reaction and the accuracy in 
+searching words 
+Programming language : Swift 
+Tools : Xcode, sqlite 
+Team size : 4 people 
+My role : Developer, tester 
+PERSONAL CHARACTERISTICS & ABILITIES 
+Creative, funny, friendly and responsible 
+Able to work under pressure 
+Able to work individually and in a team 
+Willing and able to learn new technology/programming 
+language fast 
+Join sports and arts activities enthusiastically 
+HOBBIES 
+Travel 
+Football 
+Music 
+Movie 

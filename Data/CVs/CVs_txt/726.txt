@@ -1,0 +1,77 @@
+OBJECTIVE
+To do what i love and be better at it.
+EDUCATION
+WORK EXPERIENCE
+VU TIEN LUC
+IOT ENGINEER  SOFTWARE
+DEVELOPER
+Nov 27, 1991
+
+Male
+
+
+
+TP HCM, Vietnam
+
+[protected data]
+
+MAJOR: SOFTWARE ENGINEER
+Oct 2013  Dec 2017
+POSTS AND TELECOMMUNICATIONS INSTITUTE OF
+TECHNOLOGY
+GPA: 3.0/4
+ALGORITHMS
+June 2009  Present
+UNIVERSITY OF ENGINEERING AND TECHNOLOGY(UET) AND
+BY MY SELF  Good in in data structures  Good in some basics algorithms such as sorting, trees, graphs,
+hashtable, dynamic programming ...  Attended ACM/ICPC Asia Regional Contest 2010
+NETWORKING
+June 2014  Present
+PTIT HCM  Experienced in how does the low level internet work  Done many projects related to networking such as Torrenting,
+Multiplayer game, MQTT server, FPT server follows RFC....
+OBJECT-ORIENTED
+June 2015  Present
+PTIT HCM  Experienced Java, C#, VB.NET  Experienced in object-oriented.
+C/C++
+June 2009  Present
+RENESAS, BAN VIEN, UET, SELF  Fault Injection for virtual hardware  Library System Management  Many small projects ...
+SQL
+June 2016  Present
+MXV, PASONA TECH, SELF  Database design  SQL queries  Good at optimising SQL queries  Good at database structure 1NF, 2NF, 3NF
+NO SQL
+Aug 2017  Present
+PTIT HCM , SELF
+Experienced in MongoDB database for IOT projects
+SOFTWARE DEVELOPER
+Nov 2015  2016
+PASONA TECH  Optimising their SQL procedures and queries
+01686743836
+vutienluc1991@gmail.com
+SKILLS
+ADDITIONAL INFORMATION  Creative thinking  Very good at solving problems and heavy thinking...  Can handle high pressure  Know a little bit of Spanish  A nature lover,  Enjoy doing charity
+CERTIFICATIONS
+INTERESTS  Debugging and fixing their accounting software  Testing their products  UML
+SOFTWARE DEVELOPER
+May 2017  Dec 2017
+MERCHANDISE EXCHANGE OF VIETNAM(MXV)  Future products market software  Auto trading, balancing buy/sell  FIX Stock trading and Bank trading protocol)  Database developing and optimising
+IOT PROGRAMMING
+Nov 2017  Present
+PTIT HCM  My thesis is an IOT project (an automatic parking system)
+developed from scratch (Embedded, MQTT broker, MQTT pub/sub
+client, management software)(Highest score in sub-committee  A+)  Automated Mushroom House with IOT system (Server, Database,
+Embedded, Management System ...)
+EMBEDDED ENGINER
+Jan 2018  Present
+RENESAS  Fault Injection to testing Hardware on Renesas RH850  Safety Application Notes(SAN)  Familar with big company reporting rules.  Life cycle of system development  Self investigation, Reporting, UML, Funtional Design  Tool program for Faul Injection, SAN  Unit Test for Fault Injection, SAN  Python, C
+Teamwork
+Logical thinking and creative
+Reading
+Communication
+ACM ICPC  Programming Contest
+2010
+TOEIC 790 IIG
+2018
+Watching movies
+Listening to Music
+playing guitar
+go fishing in the wild

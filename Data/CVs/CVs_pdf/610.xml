@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="14" family="ArialMT" color="#000000"/>
+	<fontspec id="1" size="14" family="Arial" color="#000000"/>
+	<fontspec id="2" size="36" family="Arial" color="#0e2452"/>
+	<fontspec id="3" size="18" family="Arial" color="#000000"/>
+	<fontspec id="4" size="12" family="ArialMT" color="#999999"/>
+<text top="335" left="81" width="82" height="17" font="0">2014 - 2019</text>
+<text top="331" left="298" width="339" height="17" font="1"><b>VNUHCM ,University of Information Technology</b></text>
+<text top="354" left="298" width="175" height="17" font="0">Major: Information System</text>
+<text top="378" left="298" width="157" height="17" font="0">Senior (Undergraduate)</text>
+<text top="484" left="81" width="33" height="17" font="0">2014</text>
+<text top="484" left="301" width="314" height="17" font="0">TOEIC Certificate with score 570 issued by IIG.</text>
+<text top="590" left="81" width="71" height="17" font="1"><b>Language</b></text>
+<text top="590" left="298" width="136" height="17" font="0">English, Vietnamese</text>
+<text top="625" left="81" width="71" height="17" font="1"><b>Computer</b></text>
+<text top="625" left="298" width="164" height="17" font="0">Word, Excel, Powerpoint</text>
+<text top="661" left="81" width="84" height="17" font="1"><b>Programing</b></text>
+<text top="661" left="298" width="140" height="17" font="0">C++, C#, SQL server</text>
+<text top="856" left="82" width="102" height="17" font="1"><b>No experience</b></text>
+<text top="78" left="267" width="356" height="41" font="2"><b>Vo Ngo Trung Nghia</b></text>
+<text top="125" left="267" width="93" height="17" font="1"><b>Date of birth:</b></text>
+<text top="125" left="388" width="94" height="17" font="0"> Aug 16, 1996</text>
+<text top="153" left="267" width="57" height="17" font="1"><b>Gender:</b></text>
+<text top="153" left="388" width="37" height="17" font="0"> Male</text>
+<text top="180" left="267" width="51" height="17" font="1"><b>Phone:</b></text>
+<text top="180" left="388" width="88" height="17" font="0"> 0947245274</text>
+<text top="208" left="267" width="45" height="17" font="1"><b>Email:</b></text>
+<text top="208" left="388" width="233" height="17" font="0"> vongotrungnghia1996@gmail.com</text>
+<text top="236" left="267" width="65" height="17" font="1"><b>Address:</b></text>
+<text top="236" left="388" width="283" height="17" font="0"> Lac Long Quan, District 11,HCM, Vietnam</text>
+<text top="263" left="267" width="62" height="17" font="1"><b>Website:</b></text>
+<text top="263" left="388" width="226" height="17" font="0"> facebook.com/VoNgoTrungNghia</text>
+<text top="289" left="81" width="109" height="21" font="3"><b>EDUCATION</b></text>
+<text top="438" left="81" width="154" height="21" font="3"><b>CERTIFICATIONS</b></text>
+<text top="547" left="81" width="65" height="21" font="3"><b>SKILLS</b></text>
+<text top="721" left="81" width="103" height="21" font="3"><b>INTERESTS</b></text>
+<text top="762" left="81" width="240" height="17" font="0">I like music, movie, comic, cartoon,..</text>
+<text top="812" left="81" width="182" height="21" font="3"><b>WORK EXPERIENCE</b></text>
+<text top="917" left="81" width="155" height="21" font="3"><b>APPLY POSITION</b></text>
+<text top="961" left="81" width="57" height="17" font="0">Big Data</text>
+<text top="1227" left="777" width="60" height="14" font="4">© topcv.vn</text>
+</page>
+<outline>
+<item page="1">EDUCATION</item>
+<item page="1">CERTIFICATIONS</item>
+<item page="1">SKILLS</item>
+<item page="1">INTERESTS</item>
+<item page="1">WORK EXPERIENCE</item>
+<item page="1">APPLY POSITION</item>
+</outline>
+</pdf2xml>

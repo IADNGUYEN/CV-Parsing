@@ -1,0 +1,65 @@
+RESUME 
+INFORMATION 
+Full name: TIN Pham Van 
+Date of birth: 25/09/1993 – Hometown: Quang Nam Province 
+Address: 131/70 To Hien Thanh, Ward 13, District 10, Ho Chi Minh City 
+Tel: +84 167 4213 785 
+Email: pvtin1225@gmail.com 
+CAREER OBJECTIVE 
+To be a software engineer with passion in work, hard-working and creative to overcome any 
+challenge to improve myself and contribute to society. 
+KNOWLEDGE, SKILLS AND STRENGTH 
+Have knowledge about AUTOSAR standard in automotive. 
+Programming Languages: C/C++, Python, Perl. 
+Ability to debug with assembly code. 
+Ability to use: 
+o Version control software: GIT and SVN. 
+o Regular expression. 
+o Microsoft Office: Word, Excel, VBA Excel, Power Point. 
+o Photoshop. 
+Hard-working. 
+Good cooperate with others. 
+Good ability on self-study. 
+Open to learn new things. 
+LANGUAGES 
+Vietnamese: native language 
+English: TOEIC 715 
+French: DELF B1 
+Japanese: aproximate JLPT N5 
+PROJECT PATICIPATED  
+AUTOSAR Project: implement driver based on AUTOSAR standard (currently in 
+Renesas Design Vietnam).  
+Thesis: calculate radio wave propagation in urban using Slope Diffraction Method.  
+Create a monitor for Java Web Development projec (internship in Individual 
+System Company).  
+Execute a FM Transmitter Circuit and a FM Radio Jammer Circuit (Fifth year in 
+university).  
+Take part in project Android application for expense management (Fourth year in 
+university).  
+Investigate radar system using ZigBee technology (Fourth year in university).  
+Training data for voice recognize with simple words using Vector Quantization 
+Method (Third year in university).  
+EMPLOYMENT 
+09/2016 – current: Work as embedded software engineer at Renesas Design 
+Vietnam 
+o Two months training. 
+o AUTOSAR project. 
+03/2016  04/2016: Intership as web java developer at Individual System Company 
+o Training about Java Web such as model, framework. 
+o Develop a monitor in real project. 
+EDUCATION 
+2011- 2017: Ho Chi Minh city University of Technology – PFIEV Program – Major 
+Telecommunication. GPA: 7.22/10 
+2008 – 2011: Nguyen Binh Khiem gifted high school, Quang Nam province. GPA: 
+8.4/10 
+SOCIAL ACTIVITIES 
+Take part in Spring Volunteer Campaign at university 2012.  
+Excellent soldier Province Level in Green Summer Campaign 2013. 
+Member of Aikido Club in Dorminotory of University and join in many charity activities 
+with club. 
+Take part in humanitarian blood donation at university and company. 
+HOBBIES 
+Martial art, football, swimming 
+Art, origami 
+Reading 
+E-sports 

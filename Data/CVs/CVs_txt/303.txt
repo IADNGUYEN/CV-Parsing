@@ -1,0 +1,69 @@
+Oct 2014  May 2016
+Ho Chi Minh University Of Technology
+Major: Information Technology
+GPA: 3.2
+Oct 2016  Present
+Ho Chi Minh University Of Technology
+Major: Software Engineering
+Expected Graduation Date : Oct, 2020
+June 2014  Present
+Company: TMA Solutions
+Position: Web Developers
+Main responsibilities:  Programed apps backend using only ASP.NET MVC 4, 5.  Designed database/tables using Microsoft SQL Server.  Designed responsive UI using Bootstrap, HTML5/CSS,
+JavaScript/Jquery/AJAX  Worked with JSON, XML and XSD format
+Jan 2014  Feb 2014
+TOPCV  EDUCATION TALK 2014
+Member of US Ambassador  Organize monthly events, network with US alumni  Share how to hunt scholarships and US student's life experiences to
+all students who have received offers from US universities
+2014
+TOEIC Certificate with score 800 issued by TOPCV
+Nguyen Ngoc Anh
+Date of birth:
+May 19, 1992
+Gender:
+Female
+Phone:
+0909 125 265
+Email:
+nnanh@gmail.com
+Address:
+Hanoi, Vietnam
+OBJECTIVE
+Take advantages of sales skills & experience and understanding of market to become a professional Sales
+Staff and bring a lot value to Customers. From that, I will contribute to development of TOPCV Company.
+EDUCATION
+WORK EXPERIENCE
+ACTIVITIES
+CERTIFICATIONS
+HONORS & AWARDS
+2013-2014
+TOPCV Scholarship in 2nd semester 2012-2013 and 1st semester
+2013-2014.
+Language
+English, Japanese, Chinese
+Computer
+Word, Excel, Powerpoint
+Tran Van B
+Director of TOPCV JSC
+Email: ...
+Mobile: ...
+SKILLS
+INTERESTS
+I like soccer, music..
+ADDITIONAL INFORMATION
+(optional)
+REFERENCES
+PROJECTS
+Rainway Group
+(2014  2015)
+Customer
+ANZ TOPCV
+Description  This is the app that helps people buy train tickets convenient, anytime, anywhere
+from right on your phone.
+Team size
+8
+My position
+Developer
+My responsibilities  Analysis and design  Development  Review code  Optimize code  Bug Fixing
+Technologies used  Android Studio 1.4, Java, Android 4.0  Google Cloud Message
+© topcv.vn

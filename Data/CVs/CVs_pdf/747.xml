@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="33" family="BAAAAA+TimesNewRomanPSMT" color="#00b0f0"/>
+	<fontspec id="1" size="24" family="CAAAAA+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="2" size="19" family="BAAAAA+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="3" size="19" family="CAAAAA+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="4" size="19" family="BAAAAA+TimesNewRomanPSMT" color="#000080"/>
+	<fontspec id="5" size="19" family="DAAAAA+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="6" size="15" family="NimbusSanL-Regu" color="#1c2128"/>
+	<fontspec id="7" size="19" family="BAAAAA+TimesNewRomanPSMT" color="#1c2128"/>
+	<fontspec id="8" size="19" family="FAAAAA+DejaVuSans" color="#000000"/>
+<text top="109" left="332" width="254" height="37" font="0">SƠ YẾU LÝ LỊCH</text>
+<text top="162" left="269" width="255" height="27" font="1"><b>THÔNG TIN CÁ NHÂN</b></text>
+<text top="191" left="109" width="86" height="22" font="2">Họ và tên: </text>
+<text top="191" left="195" width="165" height="22" font="3"><b>PHẠM THỊ THẮM</b></text>
+<text top="191" left="547" width="25" height="22" font="2">Nữ</text>
+<text top="214" left="109" width="178" height="22" font="2">Ngày sinh: 24/11/1994</text>
+<text top="236" left="109" width="543" height="22" font="2">Địa chỉ: Chung cư 6B The Easter City, Bình Chánh, Thành Phố HCM</text>
+<text top="258" left="109" width="199" height="22" font="2">Điện thoại: 01687610755</text>
+<text top="281" left="109" width="57" height="22" font="2">Ema<a href="mailto:phamthitham94@gmail.com">il: </a></text>
+<text top="281" left="166" width="223" height="22" font="4"><a href="mailto:phamthitham94@gmail.com">phamthitham94@gmail.com</a></text>
+<text top="307" left="109" width="157" height="22" font="2">Hôn nhân: Độc thân</text>
+<text top="368" left="350" width="239" height="27" font="1"><b>TRÌNH ĐỘ HỌC VẤN</b></text>
+<text top="395" left="193" width="61" height="22" font="5"><i><b>Trường</b></i></text>
+<text top="395" left="414" width="43" height="22" font="5"><i><b>Khoa</b></i></text>
+<text top="395" left="546" width="76" height="22" font="5"><i><b>Sinh viên</b></i></text>
+<text top="395" left="681" width="120" height="22" font="5"><i><b>Chuyên ngành</b></i></text>
+<text top="417" left="110" width="229" height="22" font="2">Đại Học Khoa Học Tự Nhiên</text>
+<text top="417" left="375" width="121" height="22" font="2">Toán – Tin Học</text>
+<text top="417" left="528" width="113" height="22" font="2">Sắp tốt nghiệp</text>
+<text top="417" left="672" width="140" height="22" font="2">Xác suất thống kê</text>
+<text top="468" left="334" width="269" height="27" font="1"><b>TRÌNH ĐỘ NGOẠI NGỮ</b></text>
+<text top="494" left="364" width="76" height="22" font="2">1_bắt đầu</text>
+<text top="494" left="472" width="101" height="22" font="2">5_thành thạo</text>
+<text top="518" left="151" width="82" height="22" font="2">Tiếng Anh</text>
+<text top="518" left="335" width="43" height="22" font="5"><i><b>Nghe</b></i></text>
+<text top="518" left="484" width="29" height="22" font="5"><i><b>Nói</b></i></text>
+<text top="518" left="614" width="32" height="22" font="5"><i><b>Đọc</b></i></text>
+<text top="518" left="749" width="31" height="22" font="5"><i><b>Viết</b></i></text>
+<text top="541" left="353" width="10" height="22" font="2">2</text>
+<text top="541" left="494" width="10" height="22" font="2">2</text>
+<text top="541" left="626" width="10" height="22" font="2">3</text>
+<text top="541" left="761" width="10" height="22" font="2">2</text>
+<text top="597" left="383" width="172" height="27" font="1"><b>KINH NGHIỆM</b></text>
+<text top="626" left="124" width="47" height="22" font="5"><i><b>Vị Trí</b></i></text>
+<text top="626" left="258" width="111" height="22" font="5"><i><b>Nơi Làm Việc</b></i></text>
+<text top="626" left="463" width="39" height="22" font="5"><i><b>Thời</b></i></text>
+<text top="648" left="462" width="40" height="22" font="5"><i><b>Gian</b></i></text>
+<text top="626" left="643" width="83" height="22" font="5"><i><b>Công Việc</b></i></text>
+<text top="671" left="109" width="74" height="22" font="2">Thực tập </text>
+<text top="693" left="109" width="76" height="22" font="2">sinh Phân</text>
+<text top="716" left="109" width="70" height="22" font="2">Tích Dữ </text>
+<text top="738" left="109" width="36" height="22" font="2">Liệu</text>
+<text top="671" left="204" width="186" height="22" font="2">Phòng Chấm Điểm Tín </text>
+<text top="693" left="204" width="142" height="22" font="2">Dụng tại HDBank</text>
+<text top="671" left="441" width="58" height="22" font="2">3 tháng</text>
+<text top="670" left="541" width="171" height="22" font="2">Học mô hình hồi quy </text>
+<text top="692" left="541" width="200" height="22" font="2">logistic, quy trình cấp tín </text>
+<text top="714" left="541" width="180" height="22" font="2">dụng, hệ thống LOAN </text>
+<text top="736" left="541" width="126" height="22" font="2">ORIGINATION</text>
+<text top="778" left="109" width="76" height="22" font="2">Associate</text>
+<text top="801" left="109" width="42" height="22" font="2">Data </text>
+<text top="823" left="109" width="22" height="22" font="2">En</text>
+<text top="826" left="131" width="44" height="19" font="6">gineer</text>
+<text top="778" left="204" width="285" height="22" font="2">Team Platform tại Blueseed 6 thán</text>
+<text top="781" left="489" width="9" height="19" font="6">g</text>
+<text top="778" left="541" width="205" height="22" font="2">nghiên cứu các thuật toán:</text>
+<text top="801" left="541" width="283" height="22" font="2">Fraud detection in advertising (dùng</text>
+<text top="823" left="541" width="82" height="22" font="2">Dempster)</text>
+<text top="846" left="541" width="273" height="22" font="2">Fredicted inventory adsplay (dùng </text>
+<text top="868" left="541" width="71" height="22" font="2">ARIMA)</text>
+<text top="890" left="541" width="268" height="22" font="2">phân chia vùng không gian quảng </text>
+<text top="913" left="541" width="258" height="22" font="2">cáo (thuật toán xếp các hình chữ </text>
+<text top="935" left="541" width="40" height="22" font="2">nhật)</text>
+<text top="980" left="541" width="63" height="22" font="2">xây dựn</text>
+<text top="980" left="604" width="101" height="22" font="7">g model cho </text>
+<text top="980" left="705" width="111" height="22" font="2">Optimal Real-</text>
+<text top="1003" left="541" width="234" height="22" font="2">Time for Display Advertising </text>
+<text top="1032" left="109" width="53" height="23" font="8">Data </text>
+<text top="1055" left="109" width="76" height="23" font="8">Scientis</text>
+<text top="1032" left="204" width="200" height="23" font="8">Team Data Strategy-</text>
+<text top="1055" left="204" width="216" height="23" font="8">Maketing tại Blueseed</text>
+<text top="1032" left="441" width="75" height="23" font="8">6 tháng</text>
+<text top="1032" left="541" width="221" height="23" font="8">học Natural Language </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="109" left="109" width="8" height="23" font="8">t</text>
+<text top="109" left="541" width="104" height="23" font="8">Processing</text>
+<text top="131" left="541" width="287" height="23" font="8">làm Entity, Category cho text</text>
+<text top="219" left="413" width="113" height="27" font="1"><b>KỸ NĂNG</b></text>
+<text top="247" left="191" width="68" height="22" font="5"><i><b>Kỹ năng</b></i></text>
+<text top="247" left="431" width="95" height="22" font="5"><i><b>Thành thạo</b></i></text>
+<text top="247" left="685" width="73" height="22" font="5"><i><b>Tìm hiểu</b></i></text>
+<text top="270" left="109" width="159" height="22" font="3"><b>Ngôn ngữ lập trình</b></text>
+<text top="270" left="399" width="160" height="22" font="2">C/C++ , VB, Python</text>
+<text top="270" left="623" width="137" height="22" font="2">VBA, Java, Prolo</text>
+<text top="273" left="761" width="60" height="19" font="6">g, HTML</text>
+<text top="294" left="109" width="166" height="22" font="3"><b>Phần mềm thống kê</b></text>
+<text top="294" left="443" width="73" height="22" font="2">R, Eview</text>
+<text top="294" left="700" width="43" height="22" font="2">SPSS</text>
+<text top="317" left="109" width="44" height="22" font="3"><b>Khác</b></text>
+<text top="317" left="368" width="221" height="22" font="2">Matlab, Office, Visual Basic</text>
+<text top="317" left="648" width="149" height="22" font="2">My SQL, No SQL,</text>
+<text top="339" left="682" width="37" height="22" font="2">Mon</text>
+<text top="342" left="719" width="44" height="19" font="6">goDB,</text>
+<text top="361" left="616" width="212" height="23" font="8">elasticsearch,  airflow</text>
+<text top="386" left="109" width="192" height="22" font="3"><b>Phương Pháp lập trình</b></text>
+<text top="386" left="462" width="34" height="22" font="2">Oop</text>
+<text top="409" left="109" width="149" height="22" font="3"><b>Các kỹ năng khác</b></text>
+<text top="407" left="393" width="202" height="22" font="2">- Tự học và nghiên cứu.</text>
+<text top="429" left="393" width="295" height="22" font="2">- Có kỹ năng giao tiếp, trình bàytốt.</text>
+<text top="451" left="393" width="273" height="22" font="2">- Tư duy logic giải quyết vấn đề.</text>
+<text top="473" left="393" width="336" height="22" font="2">- Dễ dàng thích nghi với môi trường mới</text>
+<text top="495" left="393" width="414" height="22" font="2">- Biết tổ chức sắp xếp công việc, có khả năng điều </text>
+<text top="517" left="420" width="221" height="22" font="2">hành và làm việc theo nhóm</text>
+<text top="574" left="313" width="311" height="27" font="1"><b>CÁC ĐỀ TÀI ĐÃ THAM GIA</b></text>
+<text top="602" left="109" width="322" height="22" font="5"><i><b>Tên đề tài: Qúa Trình Poisson Liên Tục</b></i></text>
+<text top="625" left="109" width="276" height="22" font="5"><i><b>Môn: Lý Thuyết Xác Suất Cơ Bản</b></i></text>
+<text top="648" left="109" width="686" height="26" font="2">Quy mô đề tài (số người tham gia): 2 Mô tả đề tài: Tìm hiểu về quá trình poisson liên </text>
+<text top="675" left="420" width="357" height="22" font="2">tục, chứng minh mối liên hệ giữa tính liên tục</text>
+<text top="709" left="420" width="382" height="22" font="2">của phân phối Poisson và phần phối nhị thức, cổ </text>
+<text top="733" left="420" width="200" height="22" font="2">điển Volterra, quá trình Γ.</text>
+<text top="698" left="109" width="262" height="22" font="2">Vai trò trong đề tài: Nhóm trưởng</text>
+<text top="756" left="109" width="689" height="22" font="5"><i><b>Tên đề tài: Trung Bình Tiền Ở Của Sinh Viên Khoa Toán-Tin Trường Đại Học Khoa </b></i></text>
+<text top="779" left="109" width="193" height="22" font="5"><i><b>Học Tự Nhiên TP.HCM</b></i></text>
+<text top="801" left="109" width="373" height="22" font="5"><i><b>Môn:  Lý Thuyết Và Phương Pháp Chọn Mẫu</b></i></text>
+<text top="824" left="109" width="675" height="22" font="2">Quy mô đề tài (số người tham gia): 2 Mô tả đề tài: Làm mẫu khảo sát, chọn phương </text>
+<text top="846" left="420" width="212" height="22" font="2">pháp và tiến hành khảo sát.</text>
+<text top="869" left="420" width="381" height="22" font="2">Dùng R để xử lý và phân tích dữ liệu, đưa ra kết </text>
+<text top="893" left="420" width="386" height="22" font="2">quả về trung bình tiền ở của sinh viên khoa Toán-</text>
+<text top="917" left="420" width="380" height="22" font="2">Tin trường Đại học Khoa học Tự nhiên Tp.HCM</text>
+<text top="881" left="109" width="244" height="22" font="2">Vai trò trong đề tài: Thành viên</text>
+<text top="940" left="109" width="693" height="22" font="5"><i><b>Tên đề tài: Xử Lý Một Số Tình Huống Bất Trắc Xảy Ra Trong Cuộc Sống Hàng Ngày</b></i></text>
+<text top="962" left="109" width="256" height="22" font="5"><i><b>Môn: Kỹ Năng Làm Việc Nhóm</b></i></text>
+<text top="986" left="109" width="691" height="22" font="2">Quy mô đề tài (số người tham gia): 8 Mô tả đề tài: thực hiện phỏng vấn người có kiến </text>
+<text top="1004" left="420" width="384" height="22" font="2">thức về tâm lý và xử lý tình huống: thầy Nguyễn </text>
+<text top="1025" left="420" width="386" height="22" font="2">Chua và thầy Nguyễn Chí Trung. Đồng thời tham</text>
+<text top="1045" left="420" width="384" height="22" font="2">khảo các video xử lý tình huống và các tư thế võ </text>
+<text top="1045" left="109" width="259" height="23" font="8">Vai trò trong đề tài: Nhóm </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="19" family="GAAAAA+OpenSymbol" color="#000000"/>
+<text top="109" left="109" width="65" height="23" font="8">trưởng</text>
+<text top="108" left="420" width="378" height="22" font="2">đơn giản để tự vệ. Làm clip, cẩm nang mô tả lại </text>
+<text top="128" left="420" width="193" height="22" font="2">tình huống và cách xử lý</text>
+<text top="185" left="252" width="433" height="27" font="1"><b>HOẠT ĐỘNG NGOẠI KHÓA &amp; XÃ HỘI</b></text>
+<text top="214" left="144" width="8" height="19" font="9"></text>
+<text top="212" left="171" width="524" height="22" font="2">Từng là Ủy Viên Ban Chấp Hành Liên Chi Hội Khoa Toán-Tinhọc.</text>
+<text top="237" left="144" width="8" height="19" font="9"></text>
+<text top="235" left="171" width="362" height="22" font="2">Tham gia chiến dịch Mùa Hè Xanh năm 2013.</text>
+<text top="260" left="144" width="8" height="19" font="9"></text>
+<text top="258" left="171" width="390" height="22" font="2">Tham gia chiến dịch Tiếp Sức Mùa Thi năm2015.</text>
+<text top="286" left="109" width="8" height="19" font="9"></text>
+<text top="284" left="163" width="614" height="22" font="2">Tham gia chương trình Nhân Rộng Mô Hình Toán Học Cho Người KhiếmThị </text>
+<text top="306" left="109" width="131" height="22" font="2">Trên Toàn Quốc.</text>
+<text top="343" left="144" width="8" height="19" font="9"></text>
+<text top="341" left="171" width="419" height="22" font="2">1 năm làm gia sư và 1 năm làm phục vụ tại nhà hàng.</text>
+<text top="366" left="144" width="8" height="19" font="9"></text>
+<text top="365" left="171" width="501" height="22" font="2">Khi học cấp 3, là thành viên của đội tuyển điền kinh của trường.</text>
+</page>
+<outline>
+<item page="1">nghiên cứu các thuật toán: Fraud detection in advertising (dùng Dempster) Fredicted inventory adsplay (dùng ARIMA) phân chia vùng không gian quảng cáo (thuật toán xếp các hình chữ nhật) xây dựng model cho Optimal Real-Time for Display Advertising</item>
+<item page="1">học Natural Language Processing làm Entity, Category cho text</item>
+</outline>
+</pdf2xml>

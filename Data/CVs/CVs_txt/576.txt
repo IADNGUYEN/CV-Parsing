@@ -1,0 +1,56 @@
+HOANG PHAM VIET 
+09-B3 Xuan Thieu 5 Street, Danang, Vietnam | hoang.a3.lqd@gmail.com | +84 1215718175 
+EDUCATION 
+Danang University of Technology 
+B.S., Computer Science, PFIEV program 
+Graduation: Software Engineer 
+Overall GPA : 8.88/10 
+ERP:  (Java/Python) A demo recommendation system applying Content-based systems and 
+Collaborative filtering.  
+PetShop: (PHP/Laravel/Protégé/SPARQL) A semantic shopping website that can analyze the user's 
+query to provide the most accurate searching results. 
+Handheld Gaming PC: (C++/Arduino) A handheld gaming PC that allows synchronization with other 
+devices using Bluetooth module. 
+INDIVIDUAL PROJECTS 
+EXPERIENCE 
+Worked in a team of 5 interns to design and implement a World Clock website using Ruby on Rails 5 for 
+back-end and VueJS for front-end. 
+Code Engine Studio, Danang, Vietnam 
+Web Developer Intern 
+06/2017 – 07/2017 
+Worked in a team of 4 interns to build a music website using PHP and Laravel framework. The website 
+helps users listen to streaming music and at the end of the day, the songs topped the charts will be 
+played automatically on the user’s device.  
+Code Engine Studio, Danang, Vietnam 
+Web Developer Intern 
+06/2016 – 07/2016 
+Top 1 GPA of the PFIEV Program. 
+Third prize, Vietnam Olympiad in Physics for College Students. 
+Third prize, Vietnam Olympiad in Physics for College Students. 
+Takemoto Denki Scholarship for Excellent Students in IT Department of the university. 
+Vallet Scholarship for Excellent Students of the university 
+HONORS AND AWARDS 
+2015-2018 
+2016 
+2015 
+2017 
+2015, 2017 
+TECHNICAL SKILLS 
+Familiar with Python, Java. 
+Windows, Linux. 
+Git, Hadoop, Apache Spark. 
+Languages 
+Platforms 
+Technologies 
+Kogakuin Summer Camp an exchange program for students and lectures of Danang University 
+of Science and Technology at Kogakuin University, Tokyo, Japan. 
+ACTIVITIES 
+2017 
+DELF B1 
+CERTIFICATION 
+Laboratoire d’Informatique et Systèmes, Marseille, France 
+Data Scientist Intern 
+01/2018 – 06/2018 
+Studied the performance of parallel algorithms and try to improve them based on shared memory or 
+distributed memory to compute the maximum patterns on massive amounts of data. Applied LDA to 
+analyze the scientific journal abstracts on PNAS website. 

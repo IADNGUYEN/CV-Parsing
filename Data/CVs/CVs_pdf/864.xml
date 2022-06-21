@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="ESHXQI+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="1" size="21" family="AUWCNV+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="2" size="21" family="AUWCNV+TimesNewRomanPSMT" color="#202020"/>
+	<fontspec id="3" size="48" family="TVOIEN+Calibri" color="#ffffff"/>
+	<fontspec id="4" size="27" family="CWLLTB+Arial" color="#1f3863"/>
+<text top="416" left="68" width="74" height="29" font="0"><b>Address</b></text>
+<text top="417" left="141" width="661" height="28" font="1">: Hung Ngan apartment, Duong Thi Muoi street, district 12, Ho Chi Minh city</text>
+<text top="443" left="68" width="63" height="29" font="0"><b>Phone:</b></text>
+<text top="443" left="152" width="115" height="28" font="1">01633351268</text>
+<text top="469" left="68" width="54" height="29" font="0"><b>Email</b></text>
+<text top="469" left="121" width="208" height="28" font="1">: maitaic3@gmail.com</text>
+<text top="495" left="68" width="55" height="29" font="0"><b>Skype</b></text>
+<text top="495" left="122" width="202" height="28" font="1">: <a href="mailto:maitaic3@gmail.com">maitaic3@gmail.com</a></text>
+<text top="609" left="68" width="617" height="28" font="2">I want to work at TMA company and use my skills to serve the company.</text>
+<text top="733" left="95" width="458" height="28" font="1">• Basic knowledge about ASP.NET, C#, Unity 3D…</text>
+<text top="758" left="95" width="253" height="28" font="1">• HTML5, CSS3, Bootstrap.</text>
+<text top="782" left="95" width="233" height="28" font="1">• SQL Database Diagram.</text>
+<text top="806" left="95" width="122" height="28" font="1">• MongoDB.</text>
+<text top="830" left="95" width="101" height="28" font="1">• Angular.</text>
+<text top="854" left="95" width="92" height="28" font="1">• Nodejs.</text>
+<text top="878" left="95" width="111" height="28" font="1">• Socket.io.</text>
+<text top="902" left="95" width="128" height="28" font="1">• Teamwork .</text>
+<text top="163" left="108" width="240" height="67" font="3"><b>Mai Đức Tài</b></text>
+<text top="358" left="385" width="148" height="39" font="4"><b>Information</b></text>
+<text top="548" left="398" width="121" height="39" font="4"><b>Objective</b></text>
+<text top="670" left="346" width="210" height="39" font="4"><b>Skills &amp; Abilities</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="5" size="23" family="AUWCNV+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="6" size="21" family="TZCMBP+SymbolMT" color="#000000"/>
+<text top="189" left="68" width="183" height="32" font="5">Hutech University.</text>
+<text top="230" left="68" width="313" height="32" font="5">Major: Information Technology.</text>
+<text top="351" left="84" width="10" height="26" font="6"></text>
+<text top="350" left="106" width="152" height="28" font="1">B English license.</text>
+<text top="376" left="84" width="10" height="26" font="6"></text>
+<text top="376" left="106" width="274" height="28" font="1">Communication English license.</text>
+<text top="402" left="84" width="10" height="26" font="6"></text>
+<text top="401" left="106" width="154" height="28" font="1">A1 Driver license.</text>
+<text top="549" left="95" width="10" height="26" font="6"></text>
+<text top="548" left="122" width="246" height="28" font="1">Trustworthy, funny, friendly.</text>
+<text top="575" left="95" width="10" height="26" font="6"></text>
+<text top="574" left="122" width="475" height="28" font="1">Love to explore and learn new things about Technology.</text>
+<text top="600" left="95" width="10" height="26" font="6"></text>
+<text top="600" left="122" width="122" height="28" font="1">Hard working.</text>
+<text top="626" left="95" width="10" height="26" font="6"></text>
+<text top="625" left="122" width="121" height="28" font="1">Love cooking.</text>
+<text top="133" left="388" width="131" height="39" font="4"><b>Education</b></text>
+<text top="459" left="319" width="270" height="39" font="4"><b>Personal Information</b></text>
+<text top="282" left="388" width="132" height="39" font="4"><b>Certificate</b></text>
+</page>
+</pdf2xml>

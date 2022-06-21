@@ -1,0 +1,72 @@
+Bùi Thanh Tùng
+EMBEDDED SYSTEM ENGINEER
+Activation, creative and responsible with my jobs.
+bttung9614@gmail.com
+01638576764
+Dormitory A at National
+University, Thu Duc District, Ho
+Chi Minh City, Viet Nam
+github.com/tungedison
+PROGRAMMNG
+SKILLS
+C/C++
+Arduino/STM/AVR/ARM/PIC/I
+ntel
+Circuit Design
+Android
+HTML + CSS + Javascript
+Using Git
+OTHER SKILLS
+Group skills
+Microsoft Oﬃce
+UI/UX
+EDUCATION
+09/2014 – 11/2018
+BACH KHOA UNIVERSITY (UNIVERSITY OF TECHNOLOGY)
+Computer Engineer
+Expected GPA: 7.0/10.0
+Project 1: Developing a sport watch in FPGA
+board
+Project 2: Building mini smart home:
+Controlling the devices using SIM800L
+module, Bluetooth HC05 module via SMS,
+Bluetooth App
+Project 3: Developing a Comic website
+Project 4: Developing a Automated Arduino
+Pet Feeder
+Thesis: An Implementation of Control
+Module for A Humanoid Robot (9.27/10).
+Controlling Humanoid Robot with 4
+methods: Web, Voice, BLE and PS2
+WORK EXPERIENCE
+05/2017 – 01/2018
+Part-time Embedded System Engineer
+ADZ Company
+District 1, Ho Chi Minh City
+ADZ company is a embedded system company. The company provides embedded system solutions: Hardware
+design, ﬁrmware development and website development.
+Circuit design with domestic customers and foreign customers.
+Upgrade a previous ﬁrmware.
+Testing ﬁrmware, website and circuit board.
+Brain-storming with other employee in new project.
+10/2017 – Present
+Outsourced Partner
+ProE Company
+District 10, Ho Chi Minh City
+A company is trading electronic components. The company also makes IOT projects and embedded systems.
+Design circuit for embedded system projects.
+Design a label for ProE's product.
+CERTIFICATIONS
+TOEIC Listening and Reading (12/2017)
+550/990
+PERSONAL PROJECTS
+A smart controlling in Water pump (Homemade version).
+Reason: My father always forget turn oﬀ a switch of water pump when he watching TV. My electricity bill
+increase wastefully.
+Solving: I'm using technical skills when I learned to developing this project: BLE, Controlling Motor, some
+physical knowledge.
+A smart light in Bathroom (Homemade version)
+Solving: Using Light-dependent resistor, one relay and some resistor. I'm done.
+Courses
+Achievements/Tasks
+Achievements/Tasks

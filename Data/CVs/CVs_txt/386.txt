@@ -1,0 +1,71 @@
+Resume
+NGUYEN ANH TUAN
+PERSONAL DETAILS
+Name: Nguyễn Anh Tuấn
+Date of Birth:  June 1st, 1988
+Address: 791 Tran Xuan Soan Street , District 7 , Ho 
+Chi Minh City, Viet Nam
+Cell phone:    +84. 932.234.243
+Email: nguyenanhtuancn06@gmail.com
+Gender: Male
+Nationality: Vietnamese
+Hobbies:New IT technology, music , traveling
+CAREER OBJECTIVE
+To enhance the knowledge and skill bases for continuous professional growth.
+To widen knowledge in Computer Networking
+With my ability, I want to work in a professional environment, dynamic,
+creative
+EDUCATIONAL 
+Diploma Information Technology in University of Transport in Ho chi
+minh City, 2006-2010.
+MCSE , MCITP, CCNA certified in Nhat nghe training center.
+LPI 201 in SaigonCTT
+Certification of Completion VCP(VMware vSphere 5.5), Hitachi Virtual 
+Storage Platform G1000.
+EXPERIENCE
+August 2010 – 2014 : Quang Trung Software City Development Company
+Technical Service Consultant
+Responsibilities
+Research and development of Email exchange.
+Manage and supervise the PoC process of email.
+Manage,  operate,  and  optimize  upgrade  Exchage  mail  server,  Active
+Directory.
+Support for custommer for using email system
+Achievements
+Find out many solutions for City mail HCM city.
+Successful manage the PoC process of security solutions for email: Iron
+Port.
+Manage the storage (Net App (Fas 2240), IBM (DS 3400)), HP.
+Manage and schedule backup for the email system with IBM Tivoli sytem.  
+Successful solved all problems of user. -----------------------------------------------------------------------------------------------------
+Resume Nguyen Anh Tuan                                                                           Page 1 of 2
+May 2014 – present : Petroleum trading join stock company 
+Research and development of IT solutions for Data Center, Enterprise
+Designing security solution for customer.
+Planning, management and supervision the process of building the data 
+center.
+Planning, management and monitoring the implementation of information 
+systems/solution.
+Achievements
+Successfully   design  IT  solutions  for  enterprise:  IT  Infrastructure  for
+Banking, Oil & Gas Company.
+Manage the  many projects about network, system(AD, Exchange) and
+storage(IBM V700, Hitachi Hus 110).
+WORK STYLE
+I  believe  in  teamwork  efforts  towards  the  ultimate  organization  goals,
+objectives and in individual efforts.
+Straightforward in business dealing
+STRENGTH
+Ability to work independently; fit in and work well with all partners
+Ability to handle multiple tasks
+Strong ability in finding out information from different sources
+Perform well under high pressure.
+Enthusiastic and Dynamic
+SKILLS
+English: Level B
+Operating System: Linux, Windows Server 2008, Windows Server 2012
+Virtualization: VMware, Hyper-V
+Security: Iron port, Forefonf for exchange…
+Storage : Net app, IBM, Hitachi.
+Backup: Commvault, Symantec Bạkup. -----------------------------------------------------------------------------------------------------
+Resume Nguyen Anh Tuan                                                                            Page 2 of 2

@@ -1,0 +1,33 @@
+Nguyễn Hữu Kim 
+137/9 Thong Nhat, Go Vap, Ho Chi Minh City | ​0931806924 ​| ​zzhuukimzz@outlook.com 
+Experience 
+Internship​ at ​FPT Software 
+June 2017  August 2017 
+Work with C++ 
+Use SQL database to store data 
+Develop an application that manages CODE of devices in the office 
+Software Engineer​ at ​Axon Active Vietnam  
+January 2018  present 
+Research and develop a facial recognition application 
+Extract features from faces by using deep learning model 
+Classify and cluster data by using machine learning algorithms 
+Use Tensorflow framework to build the model 
+Agile and Scrum 
+Education 
+Bach Khoa University (2014-2018) 
+B.E., Computer Science 
+Thesis: Image Captioning with Recurrent Neural Network 
+Researched and developed an encoder-decoder model to create captions describing 
+images using deep learning architectures and attention mechanism 
+Combine Computer Vision and Natural Language Processing 
+Skill Summary 
+Programing languages: 
+Proficient: Python 
+Competent: Java, C++, Scala 
+Foreign Languages: English 
+Understand, develop and apply machine learning algorithms to solve predictive modeling 
+problems 
+Design and implement Convolutional Neural Networks, Classification model 
+Extract features from images in order to do tasks in computer vision such as object detection, 
+image captioning 
+Knowledge about word embedding, language model 

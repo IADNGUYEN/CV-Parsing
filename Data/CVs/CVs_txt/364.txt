@@ -1,0 +1,94 @@
+ 
+Curriculum Vitae 
+HONG QUY VO 
+Page 1 / 2  
+PERSONAL INFORMATION 
+HONG QUY VO 
+3 Hamlet, Thuy Phu Village, Huong Thuy District, Thua Thien Hue Province, Viet Nam  
++84 975 44 97 12     
+quy.vok37@gmail.com 
+Skype quy.vok37@gmail.com  
+Sex Male | Date of birth 11/11/1995 | Nationality Vietnamese 
+WORK EXPERIENCE 
+OBJECTIVE 
+The greatest desired in my life is that become embedded system engineer to develop 
+advanced system in the world. I have already had experience in programming languages 
+such as C, C++, Python, Arduino. In adition, I have done a lot of reseach projects in my 
+laboratory and it help me develop my skills. It is an honor for me if I was allowed to be 
+embedded system engineer in the your company.  
+Feb 2017 – Present   Research member 
+Smart Farm Project at Nara Institute of Science and Technology, Japan and Hue University 
+of Sciences, Viet Nam 
+Join to both research teams 
+Go to the Nara Institute of Science and Technology, implementing the communication 
+method for exchange data in the farm from February to August, 2017 
+Do the webserver to storing and processing the data from farm object and user at home 
+university 
+Internet of Things, Cloud Computing, Smart Farm 
+Sep 2016 – Feb 2017 
+Research member 
+Remote Control Robot Arm Project at Department of Electronics and Telecommunications, 
+Hue University of Sciences, Viet Nam 
+Write program in the TIVA C TM4C123G to control the robot arm 
+Perform communication between robot arm with Android phone via Bluetooth 
+Robot Arm, TIVA C, Bluetooth 
+Jan 2016 – May 2016 
+Team leader 
+Manufacture Equipment Capable of Detecting and Caring for Children Sleep  
+at Department of Electronics and Telecommunications, Hue University of Sciences,  
+Viet Nam 
+Manage, schedule tasks for the team members 
+Write program in Arduino to reading sound, accelerometer, gyro sensor to detect the 
+waking up action of the children 
+Interact with alarm device wirelessly via nrf24l01 module 
+Arduino, NRF24l01, Wearable device 
+Curriculum Vitae 
+HONG QUY VO 
+Page 2 / 2  
+EDUCATION AND TRAINING 
+PERSONAL SKILLS 
+ADDITIONAL INFORMATION 
+September 2013 – Present 
+Bachelor of Electronics and Telecommunications 
+Hue University of Sciences, Viet Nam 
+General 
+English, Mathematics, Physics 
+Informatics 
+Occupational  
+Circuit theory (Analog and Digital Circuits) 
+Theory of automatic control (PID and Fuzzy controller)  
+Computer architecture (Memory, ALU, Instruction Sets, Von Neumann, Harvard) 
+Design the embedded system (Hardware and software for embedded system)  
+VLSI design (Verilog language, FPGA, ASICs, RTL, Hardware simulation) 
+Mother tongue(s) 
+Vietnamese 
+Other language(s) 
+English 
+Fluent in reading and listening 
+Good communication skills at writing and speaking 
+Communication skills 
+Proficient communication skill gained through my experience as member and leader in 
+research project 
+Good presentation skill gained through project presentation, conference presentation  
+Organisational / managerial 
+skills 
+Good team-leading skills gained as previous team leader  
+Good organisational skills gained through my experience as event establisher in 
+university 
+Job-related skills 
+Programming skills (C/C++ for embedded systems, Python, Node JS) 
+Digital hardware design (Verilog HDL, modelSim, Altera FPGA) 
+Publications 
+Honours and awards 
+References 
+An IoT Monitoring Prototype System for Smart Farm Using Zigbee and Raspberry Pi, 
+IEICE RCS conference, Hokkaido, Japan, July, 2017 
+Study and Design of Remote Controlled Robotic Arm Via Bluetooth Technology, Hue 
+University Scientific Magazine, February, 2017  
+Consolation prize: Hue Youth Science and Technology Innovation Competition in May, 
+2016 
+JASSO (Japan Student Services Organization) scholarship from Feb 2017 to August 2017 
+Ho Duc Tam Linh 
+Counsellor: Electronics and Telecommunications Department, Hue University of Sciences 
+Email: hodutali@gmail.com 
+Mobile: +84 981 166 226 

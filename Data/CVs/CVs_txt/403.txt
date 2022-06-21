@@ -1,0 +1,69 @@
+ 
+CURRICULUM VITAE 
+HOANG HAI NGUYEN 
+7B, Trung My Tay 10 Street, District 12 
+Ho Chi Minh City, VIETNAM 
+(+84)90 749 0959 
+hnguyenbk85@gmail.com 
+http://www.linkedin.com/pub/hoang-nguyen/50/844/a24 
+18/01/1985 
+Summary 
+Looking for a Data Scientist position in Ho Chi Minh City 
+I received a master’s degree in Computer Science at John Von Neumann institute  VNUHCMC. With my 
+knowlegde in Business, Finance, Mathematics, Information Technology and five years experience in Data 
+Science; I am a good fit in Data Scientist position. 
+Education 
+2011-2013 
+John von Neumann Institute (Vietnam National University, Ho Chi Minh City) 
+Master’s degree of Computer Science (language of studying in English). GPA: 7.73/10 (Top 5 graduation GPA). 
+2003-2008 
+Ho Chi Minh City University of Technology,  
+Engineering degree in Telecommunication (2008). GPA: 6.99/10 
+Professional experiences 
+08/2015 – present 
+Mobivi Coporation – Data Scientist – BI team leader  Do reporting, planning, forecasting data for business, finance, collection, supply chain.  Providing business insights related to customers understanding, scoring of various metrics (top performance customer, 
+top products, top salesman, …) 
+03/2014 – 08/2015 
+TMA Solution company – TMA R&D Department – Sr. Data Analyst  NLP project – build a system can classify text data from the internet is negative/positive about the product.  Business Intelligent project – build a system can make report, dashboard, model for evaluating performance and quality 
+of other projects in TMA 
+04/2013-07/2013 
+Internship at PBN Consulting Company – Data Mining project 
+06/2009  11/2011 
+VTC Digicom company  Network Engineer – IPTV project 
+06/2008  06/2009 
+CMC Telecom Company  Telecommunication Engineer – Call Center Project 
+Skills and qualifications 
+Data Science 
+Analysis 
+SVM, k-NN, Regression, Classification, Clustering 
+Data Warehousing, 
+Platform 
+Pentaho BI System, Microsoft BI System 
+DataBase 
+MSSQL, MySQL, MongoDB, Cassandra, Redshift 
+BigData 
+Hadoop, Hive, Hortonworks, Spark 
+Computer skills 
+Programming 
+Statistics and Computing: R, Python, Excel VBA 
+Java, Scala, SQL, Javascript, HTML 
+Office 
+Microsoft Office (Specific Excel) 
+Open Office 
+Languages 
+Vietnamese 
+Native language 
+English 
+Professional working proficiency 
+Honors  Received scholarship up to the totality of the tuition fees ($18000) to study master program at John Von Neumann – 
+VNU HCMC (2011  2013).  Second prize – useful application competition 5th– Electric Electronic department, 10/2007.  Encourage scholarship of  HCM city university of technique in 2005 – 2006  Certificate of merit of Student Society HCM city and Headmaster of HCM city University of Technology for the 
+excellent leader of union branch (2006). 
+Hobbies and interests 
+Activities 
+Social Activities 
+Sports 
+game, football, badminton, billiard 
+Reference 
+Dr. Nguyễn Quang– Lecturer of JVN Institute 
+Mobile: 091 568 4235 
+Email:   quang.nguyen@jvn.edu.vn                                

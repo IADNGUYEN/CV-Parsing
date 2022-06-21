@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="19" family="RLPTTP+Calibri" color="#000000"/>
+	<fontspec id="1" size="19" family="ULPTTP+Calibri" color="#000000"/>
+	<fontspec id="2" size="15" family="TLPTTP+Calibri-Light" color="#000000"/>
+	<fontspec id="3" size="19" family="TLPTTP+Calibri-Light" color="#000000"/>
+	<fontspec id="4" size="13" family="TLPTTP+Calibri-Light" color="#000000"/>
+</page>
+</pdf2xml>

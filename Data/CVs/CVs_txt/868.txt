@@ -1,0 +1,64 @@
+Luan Dao Duy
+ Personal info
+Date of birth:
+20/12/1996
+Nationality:
+Viet Nam
+Address:
+58/35/6 Au Co Street, Ward 9, Ho Chi Minh City 70000, Viet
+Nam
+Phone number:
+0981867669
+Email address:
+luan1412167@gmail.com
+ Social
+LINKEDIN : www.linkedin.com/in/luandaoduy96
+GITHUB : https://github.com/luandaoduy96
+KAGGLE : www.kaggle.com/luan1412167
+MEDIUM : https://medium.com/@luandaoduy96
+ Work experience
+Bach Khoa Elevator 
+Ho Chi Minh 
+Viet Nam
+Installation Elevator Engineer
+07/2017 – 08/2018
+At the company, I have been learned a lot of things such as working with my team, 
+resolving problems, interacting with the practical working environment, ways to split 
+my workload into a lot of smaller tasks...
+Besides, I have been got a couple of useful characteristics for work and my career in 
+the future. Those one are such as patience, persistence in my work
+Project worked
+Using Python, Keras to build Convolutional Neural Network and Lasso model to attend 
+House Price Prediction competition on Kaggle. Reached 1187/4174 rate 
+Using Python and libraries to explore data, analyze data, handle miss data and build 
+Machine learning algorithms to solve BigMart Sales Prediction challenge.
+Using  C, PHP, MySQL to build the system that store, manage and supervise 
+Photovoltaics System via the internet.
+ Education
+Bach Khoa
+University 
+Ho Chi Minh 
+Viet Nam
+Automotive Engineering
+08/2014 – 06/2018
+GPA : 7.5
+ Skills
+Programming Language
+Python
+    
+C
+    
+PHP, MySQL
+    
+English
+    
+Knowledge
+Machine learning and Deep
+learning algorithms
+    
+Linear Algebra, Probability and
+Statistic
+    
+Teamwork
+Teamwork
+    

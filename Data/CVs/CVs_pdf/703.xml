@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="14" family="Arial,Bold" color="#1592ca"/>
+	<fontspec id="1" size="10" family="Arial" color="#25b4ea"/>
+	<fontspec id="2" size="10" family="Arial" color="#1592ca"/>
+	<fontspec id="3" size="12" family="Arial" color="#1592ca"/>
+	<fontspec id="4" size="13" family="Arial,Bold" color="#0d4193"/>
+	<fontspec id="5" size="13" family="Arial" color="#3e3938"/>
+	<fontspec id="6" size="13" family="Arial" color="#ff0000"/>
+	<fontspec id="7" size="13" family="Arial" color="#0d4193"/>
+	<fontspec id="8" size="13" family="Arial" color="#1592ca"/>
+	<fontspec id="9" size="13" family="Arial" color="#402c23"/>
+	<fontspec id="10" size="13" family="Symbol" color="#3e3938"/>
+	<fontspec id="11" size="13" family="Arial,Bold" color="#3e3938"/>
+	<fontspec id="12" size="13" family="Arial" color="#000000"/>
+	<fontspec id="13" size="13" family="Symbol" color="#000000"/>
+<text top="41" left="453" width="11" height="14" font="0"><b>   </b></text>
+<text top="1206" left="64" width="3" height="10" font="1"> </text>
+<text top="1206" left="276" width="3" height="10" font="2"> </text>
+<text top="1206" left="842" width="3" height="10" font="2"> </text>
+<text top="1206" left="846" width="3" height="10" font="1"> </text>
+<text top="1205" left="849" width="3" height="11" font="3"> </text>
+<text top="91" left="91" width="168" height="12" font="4"><b>PERSONAL INFORMATION </b></text>
+<text top="90" left="276" width="142" height="12" font="5">NGUYEN NGOC HUNG </text>
+<text top="118" left="453" width="4" height="12" font="6"> </text>
+<text top="124" left="255" width="4" height="12" font="7"> </text>
+<text top="124" left="299" width="239" height="12" font="5">  Phu Nhuan , Ho Chi Minh City, Viet Nam. </text>
+<text top="149" left="291" width="161" height="12" font="5">    (+84) 1638 648 480             </text>
+<text top="179" left="300" width="197" height="12" font="5">  hungnguyenngoc92@gmail.com   </text>
+<text top="200" left="276" width="4" height="12" font="5"> </text>
+<text top="226" left="276" width="46" height="12" font="8">Gender </text>
+<text top="226" left="322" width="34" height="12" font="5">Male |</text>
+<text top="226" left="356" width="65" height="12" font="8"> Nationality </text>
+<text top="226" left="420" width="52" height="12" font="5">Viet Nam</text>
+<text top="226" left="472" width="10" height="12" font="8">   </text>
+<text top="246" left="64" width="4" height="12" font="5"> </text>
+<text top="246" left="150" width="4" height="12" font="5"> </text>
+<text top="460" left="255" width="4" height="12" font="7"> </text>
+<text top="475" left="255" width="4" height="12" font="4"><b> </b></text>
+<text top="490" left="93" width="162" height="12" font="4"><b>TECHNICAL KNOWLEDGE</b></text>
+<text top="490" left="255" width="4" height="12" font="7"> </text>
+<text top="458" left="842" width="4" height="12" font="9"> </text>
+<text top="474" left="842" width="4" height="12" font="9"> </text>
+<text top="499" left="842" width="11" height="12" font="9">   </text>
+<text top="274" left="64" width="189" height="12" font="4"><b>                    PERSONAL PROFILE</b></text>
+<text top="274" left="252" width="4" height="12" font="7"> </text>
+<text top="271" left="303" width="6" height="16" font="10"></text>
+<text top="275" left="309" width="4" height="12" font="5"> </text>
+<text top="275" left="330" width="101" height="12" font="11"><b>Working ability : </b></text>
+<text top="291" left="330" width="8" height="12" font="5">- </text>
+<text top="288" left="338" width="191" height="15" font="5">I’m hardworking and responsible . </text>
+<text top="306" left="330" width="163" height="12" font="5">- I can work under pressure . </text>
+<text top="322" left="330" width="125" height="12" font="5">- I accept challenges . </text>
+<text top="337" left="330" width="376" height="12" font="5">- I would like to learn more about algorithms and java technologies . </text>
+<text top="353" left="357" width="4" height="12" font="5"> </text>
+<text top="365" left="303" width="6" height="16" font="10"></text>
+<text top="369" left="309" width="4" height="12" font="5"> </text>
+<text top="369" left="330" width="79" height="12" font="11"><b>Weak Point : </b></text>
+<text top="385" left="330" width="8" height="12" font="5">- </text>
+<text top="382" left="338" width="507" height="15" font="5">I’m not an excellent student and I have not much experience of real working environment </text>
+<text top="400" left="330" width="283" height="12" font="5">but i can try all my best to get an expected result .   </text>
+<text top="416" left="330" width="10" height="12" font="5">   </text>
+<text top="519" left="255" width="4" height="12" font="4"><b> </b></text>
+<text top="536" left="102" width="157" height="12" font="4"><b>Programming Languages </b></text>
+<text top="517" left="276" width="4" height="12" font="7"> </text>
+<text top="532" left="276" width="234" height="12" font="12">Java    -    elementary ; C++ - elementary . </text>
+<text top="573" left="199" width="66" height="12" font="4"><b>Database   </b></text>
+<text top="571" left="276" width="394" height="12" font="12">MySQL - elementary ; SQL Server - elementary ; Oracle - elementary . </text>
+<text top="587" left="276" width="4" height="12" font="12"> </text>
+<text top="604" left="140" width="119" height="12" font="4"><b>Operating Systems </b></text>
+<text top="602" left="276" width="425" height="12" font="12">Ubuntu -    intermediate ;    Windows -    intermediate ; CentOS - elementary . </text>
+<text top="618" left="276" width="4" height="12" font="12"> </text>
+<text top="635" left="222" width="37" height="12" font="4"><b>Tools </b></text>
+<text top="633" left="276" width="44" height="12" font="12">Eclipse </text>
+<text top="631" left="320" width="383" height="15" font="12">– advanced ;    NetBeans – advanced ; IntelliJ IDEA    - elementary ;   </text>
+<text top="649" left="276" width="20" height="12" font="12">Git </text>
+<text top="646" left="295" width="83" height="15" font="12">– elementary . </text>
+<text top="664" left="276" width="10" height="12" font="12">   </text>
+<text top="681" left="177" width="82" height="12" font="4"><b>Mini Projects </b></text>
+<text top="677" left="303" width="6" height="16" font="13"></text>
+<text top="681" left="309" width="4" height="12" font="12"> </text>
+<text top="681" left="330" width="86" height="12" font="12">SEARCHING   </text>
+<text top="696" left="330" width="8" height="12" font="12">- </text>
+<text top="696" left="357" width="475" height="12" font="12">Description : This project solves 8-puzzle and finds the result of 2048 game as fast as </text>
+<text top="712" left="357" width="275" height="12" font="12">possible using Hill Climbing algorithm .                     </text>
+<text top="727" left="330" width="8" height="12" font="12">- </text>
+<text top="727" left="357" width="176" height="12" font="12">Programing language : java .     </text>
+<text top="743" left="330" width="8" height="12" font="12">- </text>
+<text top="743" left="357" width="114" height="12" font="12">Team : 1 member .   </text>
+<text top="758" left="357" width="4" height="12" font="12"> </text>
+<text top="774" left="357" width="4" height="12" font="12"> </text>
+<text top="786" left="303" width="6" height="16" font="13"></text>
+<text top="790" left="309" width="4" height="12" font="12"> </text>
+<text top="790" left="330" width="103" height="12" font="12">STARSTRETCH   </text>
+<text top="806" left="330" width="8" height="12" font="12">- </text>
+<text top="806" left="357" width="66" height="12" font="12">Description </text>
+<text top="803" left="423" width="273" height="15" font="12">: It ‘s a remake of “untangle game “ for android .   </text>
+<text top="821" left="330" width="8" height="12" font="12">- </text>
+<text top="821" left="357" width="115" height="12" font="12">Team : 2 members . </text>
+<text top="837" left="330" width="8" height="12" font="12">- </text>
+<text top="837" left="357" width="462" height="12" font="12">My responsibility : write java code that reads map information , creates, checks and </text>
+<text top="852" left="357" width="125" height="12" font="12">saves mission state .   </text>
+<text top="868" left="357" width="4" height="12" font="12"> </text>
+<text top="883" left="357" width="4" height="12" font="12"> </text>
+<text top="896" left="303" width="6" height="16" font="13"></text>
+<text top="900" left="309" width="4" height="12" font="12"> </text>
+<text top="900" left="330" width="45" height="12" font="12">ETEST </text>
+<text top="915" left="330" width="8" height="12" font="12">- </text>
+<text top="915" left="357" width="361" height="12" font="12">Description : Online Test . Intern at Technologic Art Incorporate .   </text>
+<text top="931" left="330" width="8" height="12" font="12">- </text>
+<text top="931" left="357" width="442" height="12" font="12">Language : Java , using Play framework for back-end , AngularJS for front-end. </text>
+<text top="946" left="330" width="8" height="12" font="12">- </text>
+<text top="946" left="357" width="121" height="12" font="12">Team : 3 members .   </text>
+<text top="962" left="330" width="8" height="12" font="12">- </text>
+<text top="962" left="357" width="361" height="12" font="12">My responsibility : implements the controllers of the application .   </text>
+<text top="978" left="357" width="10" height="12" font="12">   </text>
+<text top="993" left="357" width="4" height="12" font="12"> </text>
+<text top="1006" left="303" width="6" height="16" font="13"></text>
+<text top="1009" left="309" width="4" height="12" font="12"> </text>
+<text top="1009" left="330" width="190" height="12" font="12">NURSE ROSTERING SYSTEM   </text>
+<text top="1025" left="330" width="8" height="12" font="12">- </text>
+<text top="1025" left="357" width="462" height="12" font="12">Description : My thesis project , the project deals with a real world nurse scheduling </text>
+<text top="1041" left="357" width="433" height="12" font="12">problem at a ward of a hospital . The generated schedule must satisfy all hard </text>
+<text top="1056" left="357" width="483" height="12" font="12">constraints and many soft constraints at possible . The problem is solved by combining </text>
+<text top="1072" left="357" width="482" height="12" font="12">Backtracking with Forward Checking (BT-FC) algorithm with Tabu Search algorithm .     </text>
+<text top="1087" left="330" width="8" height="12" font="12">- </text>
+<text top="1087" left="357" width="120" height="12" font="12">Team : 1 member .     </text>
+<text top="1103" left="330" width="8" height="12" font="12">- </text>
+<text top="1103" left="357" width="451" height="12" font="12">Language : Java , Eclipse SWT framework for GUI and H2 Embedded Database </text>
+<text top="1118" left="357" width="61" height="12" font="12">Engine .     </text>
+<text top="1134" left="64" width="4" height="12" font="12"> </text>
+<text top="1149" left="64" width="4" height="12" font="12"> </text>
+<text top="1149" left="347" width="4" height="12" font="12"> </text>
+<text top="1165" left="64" width="4" height="12" font="12"> </text>
+<text top="1165" left="347" width="4" height="12" font="12"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="14" size="14" family="Arial" color="#1592ca"/>
+	<fontspec id="15" size="13" family="Arial" color="#404040"/>
+<text top="42" left="66" width="11" height="14" font="14">   </text>
+<text top="42" left="278" width="17" height="14" font="14">     </text>
+<text top="42" left="842" width="11" height="14" font="14">   </text>
+<text top="1206" left="64" width="3" height="10" font="1"> </text>
+<text top="1206" left="276" width="3" height="10" font="1"> </text>
+<text top="1206" left="280" width="7" height="10" font="2">  </text>
+<text top="1206" left="842" width="3" height="10" font="2"> </text>
+<text top="1206" left="846" width="3" height="10" font="1"> </text>
+<text top="1205" left="849" width="3" height="11" font="3"> </text>
+<text top="77" left="255" width="4" height="12" font="7"> </text>
+<text top="92" left="133" width="126" height="12" font="4"><b>LANGUAGE SKILLS </b></text>
+<text top="76" left="842" width="4" height="12" font="9"> </text>
+<text top="101" left="842" width="11" height="12" font="9">   </text>
+<text top="244" left="64" width="4" height="12" font="5"> </text>
+<text top="260" left="64" width="4" height="12" font="5"> </text>
+<text top="119" left="255" width="4" height="12" font="7"> </text>
+<text top="124" left="276" width="4" height="12" font="15"> </text>
+<text top="147" left="195" width="64" height="12" font="4"><b>Language </b></text>
+<text top="150" left="334" width="121" height="12" font="4"><b>UNDERSTANDING   </b></text>
+<text top="150" left="584" width="77" height="12" font="4"><b>SPEAKING   </b></text>
+<text top="150" left="758" width="65" height="12" font="4"><b>WRITING   </b></text>
+<text top="180" left="306" width="65" height="12" font="4"><b>Listening   </b></text>
+<text top="180" left="423" width="60" height="12" font="4"><b>Reading   </b></text>
+<text top="172" left="538" width="50" height="12" font="4"><b>Spoken </b></text>
+<text top="188" left="529" width="74" height="12" font="4"><b>interaction   </b></text>
+<text top="172" left="650" width="50" height="12" font="4"><b>Spoken </b></text>
+<text top="188" left="640" width="76" height="12" font="4"><b>production   </b></text>
+<text top="183" left="730" width="4" height="12" font="15"> </text>
+<text top="210" left="210" width="49" height="12" font="11"><b>English </b></text>
+<text top="211" left="311" width="51" height="12" font="5">Average </text>
+<text top="211" left="433" width="35" height="12" font="5">Good </text>
+<text top="211" left="537" width="51" height="12" font="5">Average </text>
+<text top="211" left="650" width="51" height="12" font="5">Average </text>
+<text top="211" left="762" width="51" height="12" font="5">Average </text>
+</page>
+</pdf2xml>

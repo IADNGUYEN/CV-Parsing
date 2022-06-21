@@ -1,0 +1,143 @@
+ 
+N g u y e n  N g o c  H o a n g  
+Buk-gu, Gwangju, 61186, Korea 
+R E S E A R C H  I N T E R E S T S  
+Image 
+processing, 
+computer 
+vision and pattern recognition. 
+Machine 
+learning 
+and 
+deep 
+learning. 
+Hand gesture recognition. 
+E D U C A T I O N  
+BACHELOR DEGREE 
+2012- 
+2017: 
+B.S. 
+degree 
+in 
+Automatic Control from Ha Noi 
+University 
+of 
+Science 
+and 
+Technology, Viet Nam. 
+MASTER DEGREE 
+2017- Now (2019): M.S. degree in 
+Electronics 
+and 
+Computer 
+Engineering 
+department 
+of 
+Chonnam 
+National 
+University, 
+Korea. 
++82(0)10-4069-1606 
+hoangnguyenkcv@gmail.com 
+June 26th, 1994 
+L ANG UA GE S  
+English: Proficient 
+Vietnamese: Mother tongue. 
+Male 
+W O R K I N G  E X P E R I E N C E S  
+2013-2017: Work as a member of the 
+MANDEVICES Laboratory under guidance 
+of Professor Hoang Si Hong2.  
+2017–Now(2019): 
+Searching 
+in 
+the 
+Computer Vision Laboratory of advisor 
+Professor Guee-Sang, Lee1. 
+R E S E A R C H  P R O J E C T  
+Hand Gesture Recognition using Deep 
+Learning (main research).    
+Tampered Face Image Detection.  
+Object detection and hand detection using 
+Deep Learning Network. 
+Facial expression recognition with face 
+landmark detection.  
+2D/3D human and hand pose estimation.  
+Target person detection in multi-people with 
+Kinect.  
+Game development in python with PyGame. 
+H O N O R S  & A W A R D S  
+Best paper award in SMA 2018 in The 
+International Conference on Smart 
+Media & Applications.  
+Best paper award in SMA 2018 in 
+2018 Spring Conference of KISM & 
+SEBS.  
+Best paper award in SMA 2018 in 
+2018 Fall Conference of KISM & SEBS. 
+Achieve the national prize for good 
+students in physics 
+S K I L L S  
+Programming 
+Language: 
+Python, 
+Matlab… 
+Practice 
+with 
+deep 
+learning 
+framework and computer vision 
+library: Keras, Tensorflow, Pytorch, 
+Opencv… 
+Other skills: independent research 
+and team-work, project management, 
+presentation… 
+R E F E R E N C E S  
+1. Professor Guee-Sang, Lee 
+ Dept. of ECE, Chonnam National 
+University. 
+77, Yongbong-ro, Buk-gu, Gwangju, Korea. 
++82-625303425. 
+gslee@jnu.ac.kr 
+2. Associate Professor, Dr. Hoang Si Hong 
+ School of Electrical Engineering, Ha Noi 
+University of Science and Technology. 
+No. 1, Dai Co Viet Road, Hanoi, Vietnam. 
+(+84) 93 450 6261 
+hong.hoangsy@hust.edu.vn 
+Hoang Nguyen, Guee-Sang Lee, Soo-Hyung Kim, Hyung-
+Jeong 
+Yang, 
+"CONTINUOUS 
+HAND 
+GESTURE 
+SPOTTING AND CLASSIFICATION USING 3D FINGER 
+JOINTS INFORMATION" in 2019 the 26th IEEE 
+International Conference on Image Processing (ICIP 2019). 
+(Accepted). 
+Nguyen Ngoc Hoang, Guee-Sang Lee, Soo-Hyung Kim.  
+Hyung-Jeong Yang. “A Real-time Multimodal Hand Gesture 
+Recognition via 3D Convolutional Neural Network and Key 
+Frame Extraction,” in MLMI2018 Proceedings of the 2018 
+International Conference on Machine Learning and Machine 
+Intelligence, Pages 32-37. 
+Nguyen Ngoc Hoang, Guee-Sang Lee, Soo-Hyung Kim, 
+Hyung-Jeong Yang, In-Seop Na. " Multi  Transfer Models 
+for Tampered Face GAN Image Detection," SMA 2018  in 
+The International Conference on 
+Smart 
+Media & 
+Applications, pages 141-143. 
+Nguyen Ngoc Hoang, Guee-Sang Lee, Soo-Hyung Kim, 
+Hyung-Jeong Yang. “3D Skeletal Joints-Based Hand 
+Gesture Spotting and Classification,” in International Journal 
+of Control, Automation and Systems (Submitted). 
+Nguyen Ngoc Hoang, Guee-Sang Lee, Soo-Hyung Kim, 
+Hyung-Jeong Yang "Continuous Dynamic Hand Gestures 
+Recognition Using Deep Convolution Neural Network," in 
+2018 Fall Conference of KISM & SEBS. 
+Nguyen Ngoc Hoang, Guee-Sang Lee, Soo-Hyung 
+Kim, Hyung-Jeong Yang "Hand Gesture Recognition 
+Using 3DCNN with Keyframe Extraction," in 2018 
+Spring Conference of KISM & SEBS. 
+P U B L I C A T I O N S  

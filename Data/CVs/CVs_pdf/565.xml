@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="27" family="Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="15" family="Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="15" family="Arial" color="#000000"/>
+	<fontspec id="3" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="4" size="15" family="Arial,Bold" color="#c0c0c0"/>
+	<fontspec id="5" size="15" family="ABCDEE+Courier New" color="#000000"/>
+	<fontspec id="6" size="15" family="ABCDEE+Wingdings" color="#000000"/>
+<text top="113" left="324" width="278" height="25" font="0"><b>CURRICULUM VITAE </b></text>
+<text top="142" left="135" width="140" height="15" font="1"><b>PERSONAL DATA </b></text>
+<text top="160" left="135" width="4" height="15" font="2"> </text>
+<text top="178" left="135" width="92" height="15" font="2">Full Name: H</text>
+<text top="175" left="227" width="103" height="18" font="2">ứa Thiện Tâm </text>
+<text top="206" left="135" width="92" height="15" font="2">Date of Birth:</text>
+<text top="205" left="227" width="5" height="16" font="3"> </text>
+<text top="206" left="232" width="83" height="15" font="2">06/12/1990 </text>
+<text top="233" left="135" width="114" height="15" font="2">Place of Birth: H</text>
+<text top="230" left="249" width="112" height="18" font="2">ồ Chí Minh City </text>
+<text top="260" left="135" width="112" height="15" font="2">Gender: Male   </text>
+<text top="260" left="297" width="4" height="15" font="2"> </text>
+<text top="287" left="135" width="166" height="15" font="2">Marital Status:  Single   </text>
+<text top="314" left="135" width="170" height="15" font="2">Nationality: Vietnamese </text>
+<text top="314" left="351" width="4" height="15" font="2"> </text>
+<text top="341" left="135" width="162" height="15" font="2">Present Address: 99 Tr</text>
+<text top="338" left="297" width="403" height="18" font="2">ần Hưng Đạo Street, Ward 6, District 5, Hồ Chí Minh City </text>
+<text top="369" left="135" width="186" height="15" font="2">Telephone: 08-3855-1077 </text>
+<text top="396" left="135" width="156" height="15" font="2">Mobile: 0902-994-024 </text>
+<text top="423" left="135" width="229" height="15" font="2">E-mail: tamcbt1990@gmail.com </text>
+<text top="450" left="135" width="4" height="15" font="2"> </text>
+<text top="450" left="189" width="4" height="15" font="2"> </text>
+<text top="450" left="243" width="4" height="15" font="2"> </text>
+<text top="468" left="135" width="126" height="15" font="1"><b>JOB OBJECTIVE</b></text>
+<text top="468" left="261" width="9" height="15" font="4"><b>  </b></text>
+<text top="486" left="135" width="4" height="15" font="2"> </text>
+<text top="504" left="135" width="195" height="15" font="2">Web &amp; Software Developer </text>
+<text top="522" left="135" width="237" height="15" font="2">Improve knowledge &amp; experience </text>
+<text top="541" left="135" width="272" height="15" font="2">Work in dynamic, friendly environment </text>
+<text top="559" left="135" width="120" height="15" font="2">Technical expert </text>
+<text top="577" left="135" width="4" height="15" font="2"> </text>
+<text top="595" left="135" width="194" height="15" font="1"><b>WORKING EXPERIENCES</b></text>
+<text top="595" left="329" width="4" height="15" font="4"><b> </b></text>
+<text top="613" left="135" width="4" height="15" font="1"><b> </b></text>
+<text top="613" left="224" width="4" height="15" font="1"><b> </b></text>
+<text top="631" left="135" width="72" height="15" font="2">Dec/2010 </text>
+<text top="628" left="243" width="141" height="18" font="1"><b>Saigon Đẹp Center</b></text>
+<text top="631" left="384" width="4" height="15" font="2"> </text>
+<text top="649" left="243" width="10" height="15" font="2">- </text>
+<text top="649" left="270" width="306" height="15" font="2">Customer relationship Management project </text>
+<text top="666" left="297" width="10" height="16" font="5">o</text>
+<text top="667" left="307" width="344" height="15" font="2">  Project languages: ASP.NET, C#, SQL Server </text>
+<text top="684" left="297" width="10" height="16" font="5">o</text>
+<text top="686" left="307" width="170" height="15" font="2">  Position: team leader </text>
+<text top="702" left="297" width="10" height="16" font="5">o</text>
+<text top="704" left="307" width="75" height="15" font="2">  Works:  </text>
+<text top="719" left="351" width="7" height="17" font="6"></text>
+<text top="722" left="358" width="4" height="15" font="2"> </text>
+<text top="722" left="378" width="70" height="15" font="2">Planning  </text>
+<text top="737" left="351" width="7" height="17" font="6"></text>
+<text top="740" left="358" width="4" height="15" font="2"> </text>
+<text top="740" left="378" width="186" height="15" font="2">Requirement specification </text>
+<text top="755" left="351" width="7" height="17" font="6"></text>
+<text top="758" left="358" width="4" height="15" font="2"> </text>
+<text top="758" left="378" width="136" height="15" font="2">Coding and design </text>
+<text top="774" left="405" width="10" height="16" font="5">o</text>
+<text top="776" left="415" width="96" height="15" font="2">  All module </text>
+<text top="791" left="351" width="7" height="17" font="6"></text>
+<text top="794" left="358" width="4" height="15" font="2"> </text>
+<text top="794" left="378" width="56" height="15" font="2">Testing </text>
+<text top="812" left="135" width="71" height="15" font="2">Mar/2012 </text>
+<text top="812" left="243" width="78" height="15" font="1"><b>TrustBank</b></text>
+<text top="812" left="321" width="4" height="15" font="2"> </text>
+<text top="830" left="243" width="10" height="15" font="2">- </text>
+<text top="830" left="270" width="277" height="15" font="2">AGM (Annual General Meeting) project </text>
+<text top="847" left="297" width="10" height="16" font="5">o</text>
+<text top="849" left="307" width="461" height="15" font="2">  Project languages: ASP.NET, C#, SQL Server, CSS, javascript </text>
+<text top="865" left="297" width="10" height="16" font="5">o</text>
+<text top="867" left="307" width="158" height="15" font="2">  Position: Developer </text>
+<text top="883" left="297" width="10" height="16" font="5">o</text>
+<text top="885" left="307" width="75" height="15" font="2">  Works:  </text>
+<text top="900" left="351" width="7" height="17" font="6"></text>
+<text top="903" left="358" width="4" height="15" font="2"> </text>
+<text top="903" left="378" width="105" height="15" font="2">Voting module </text>
+<text top="918" left="351" width="7" height="17" font="6"></text>
+<text top="921" left="358" width="4" height="15" font="2"> </text>
+<text top="921" left="378" width="108" height="15" font="2">Report module </text>
+<text top="936" left="351" width="7" height="17" font="6"></text>
+<text top="939" left="358" width="4" height="15" font="2"> </text>
+<text top="939" left="378" width="187" height="15" font="2">Barcode scanning module </text>
+<text top="954" left="351" width="7" height="17" font="6"></text>
+<text top="957" left="358" width="4" height="15" font="2"> </text>
+<text top="957" left="378" width="154" height="15" font="2">Improve performance </text>
+<text top="975" left="243" width="10" height="15" font="2">- </text>
+<text top="975" left="270" width="228" height="15" font="2">Cash Collection Website project </text>
+<text top="992" left="297" width="10" height="16" font="5">o</text>
+<text top="993" left="307" width="381" height="15" font="2">  Project languages: Asp.NET, C#, SQL Server, CSS </text>
+<text top="1010" left="297" width="10" height="16" font="5">o</text>
+<text top="1012" left="307" width="164" height="15" font="2">  Position: key person </text>
+<text top="1028" left="297" width="10" height="16" font="5">o</text>
+<text top="1030" left="307" width="71" height="15" font="2">  Works: </text>
+<text top="1045" left="351" width="7" height="17" font="6"></text>
+<text top="1048" left="358" width="4" height="15" font="2"> </text>
+<text top="1048" left="378" width="66" height="15" font="2">Planning </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="15" family="Arial" color="#808080"/>
+	<fontspec id="8" size="15" family="Symbol" color="#000000"/>
+<text top="108" left="351" width="7" height="17" font="6"></text>
+<text top="111" left="358" width="4" height="15" font="2"> </text>
+<text top="111" left="378" width="186" height="15" font="2">Requirement specification </text>
+<text top="126" left="351" width="7" height="17" font="6"></text>
+<text top="129" left="358" width="4" height="15" font="2"> </text>
+<text top="129" left="378" width="136" height="15" font="2">Coding and design </text>
+<text top="145" left="405" width="10" height="16" font="5">o</text>
+<text top="147" left="415" width="96" height="15" font="2">  All module </text>
+<text top="163" left="351" width="7" height="17" font="6"></text>
+<text top="165" left="358" width="4" height="15" font="2"> </text>
+<text top="165" left="378" width="56" height="15" font="2">Testing </text>
+<text top="183" left="243" width="10" height="15" font="2">- </text>
+<text top="183" left="270" width="120" height="15" font="2">E-Lottery project </text>
+<text top="200" left="297" width="10" height="16" font="5">o</text>
+<text top="202" left="307" width="268" height="15" font="2">  Project languages: C#, SQL Server </text>
+<text top="218" left="297" width="10" height="16" font="5">o</text>
+<text top="220" left="307" width="156" height="15" font="2">  Position: Supporter </text>
+<text top="236" left="297" width="10" height="16" font="5">o</text>
+<text top="238" left="307" width="75" height="15" font="2">  Works:  </text>
+<text top="253" left="351" width="7" height="17" font="6"></text>
+<text top="256" left="358" width="4" height="15" font="2"> </text>
+<text top="256" left="378" width="248" height="15" font="2">Set up E-Lottery event at branches </text>
+<text top="274" left="135" width="71" height="15" font="2">Feb/2013 </text>
+<text top="274" left="243" width="207" height="15" font="1"><b>Vietnam Construction Bank</b></text>
+<text top="274" left="450" width="4" height="15" font="2"> </text>
+<text top="292" left="243" width="10" height="15" font="2">- </text>
+<text top="292" left="270" width="332" height="15" font="2">HRM (Human Resource Management) Project  </text>
+<text top="308" left="297" width="10" height="16" font="5">o</text>
+<text top="310" left="307" width="385" height="15" font="2">  Project languages: ASP.NET, C#, SQL Server, CSS </text>
+<text top="326" left="297" width="10" height="16" font="5">o</text>
+<text top="328" left="307" width="164" height="15" font="2">  Position: key person </text>
+<text top="345" left="297" width="10" height="16" font="5">o</text>
+<text top="346" left="307" width="71" height="15" font="2">  Works: </text>
+<text top="362" left="351" width="7" height="17" font="6"></text>
+<text top="365" left="358" width="4" height="15" font="2"> </text>
+<text top="365" left="378" width="155" height="15" font="2">All categories module </text>
+<text top="380" left="351" width="7" height="17" font="6"></text>
+<text top="383" left="358" width="4" height="15" font="2"> </text>
+<text top="383" left="378" width="227" height="15" font="2">Employee management module </text>
+<text top="398" left="351" width="7" height="17" font="6"></text>
+<text top="401" left="358" width="4" height="15" font="2"> </text>
+<text top="401" left="378" width="226" height="15" font="2">Insurance management module </text>
+<text top="416" left="351" width="7" height="17" font="6"></text>
+<text top="419" left="358" width="4" height="15" font="2"> </text>
+<text top="419" left="378" width="142" height="15" font="2">Dash board module </text>
+<text top="434" left="351" width="7" height="17" font="6"></text>
+<text top="437" left="358" width="4" height="15" font="2"> </text>
+<text top="437" left="378" width="213" height="15" font="2">Concurrent Employee module </text>
+<text top="452" left="351" width="7" height="17" font="6"></text>
+<text top="455" left="358" width="4" height="15" font="2"> </text>
+<text top="455" left="378" width="216" height="15" font="2">Contract management module </text>
+<text top="470" left="351" width="7" height="17" font="6"></text>
+<text top="473" left="358" width="4" height="15" font="2"> </text>
+<text top="473" left="378" width="213" height="15" font="2">Position management module </text>
+<text top="489" left="351" width="7" height="17" font="6"></text>
+<text top="491" left="358" width="4" height="15" font="2"> </text>
+<text top="491" left="378" width="211" height="15" font="2">Login by domain user module </text>
+<text top="507" left="351" width="7" height="17" font="6"></text>
+<text top="510" left="358" width="4" height="15" font="2"> </text>
+<text top="510" left="378" width="206" height="15" font="2">Create user with role module </text>
+<text top="525" left="351" width="7" height="17" font="6"></text>
+<text top="528" left="358" width="4" height="15" font="2"> </text>
+<text top="528" left="378" width="108" height="15" font="2">Report module </text>
+<text top="546" left="243" width="10" height="15" font="2">- </text>
+<text top="546" left="270" width="283" height="15" font="2">KPI (Key Performance Indicator) project </text>
+<text top="562" left="297" width="10" height="16" font="5">o</text>
+<text top="564" left="307" width="440" height="15" font="2">  Project languages: ASP.NET, C#, SQL Server, Oracle, CSS </text>
+<text top="580" left="297" width="10" height="16" font="5">o</text>
+<text top="582" left="307" width="164" height="15" font="2">  Position: key person </text>
+<text top="598" left="297" width="10" height="16" font="5">o</text>
+<text top="600" left="307" width="71" height="15" font="2">  Works: </text>
+<text top="615" left="351" width="7" height="17" font="6"></text>
+<text top="618" left="358" width="4" height="15" font="2"> </text>
+<text top="615" left="378" width="389" height="18" font="2">Connect to Smartbank’s database to take out customer </text>
+<text top="636" left="378" width="294" height="15" font="2">info and balance for calculating indicators </text>
+<text top="652" left="351" width="7" height="17" font="6"></text>
+<text top="654" left="358" width="4" height="15" font="2"> </text>
+<text top="651" left="378" width="299" height="18" font="2">Check customer’s current balance module </text>
+<text top="670" left="351" width="7" height="17" font="6"></text>
+<text top="673" left="358" width="4" height="15" font="2"> </text>
+<text top="673" left="378" width="238" height="15" font="2">Import customer indicator module </text>
+<text top="688" left="351" width="7" height="17" font="6"></text>
+<text top="691" left="358" width="4" height="15" font="2"> </text>
+<text top="691" left="378" width="217" height="15" font="2">Indicator management module </text>
+<text top="706" left="351" width="7" height="17" font="6"></text>
+<text top="709" left="358" width="4" height="15" font="2"> </text>
+<text top="709" left="378" width="167" height="15" font="2">KPI adjustment module </text>
+<text top="724" left="351" width="7" height="17" font="6"></text>
+<text top="727" left="358" width="4" height="15" font="2"> </text>
+<text top="727" left="378" width="409" height="15" font="2">Export KPI reports for branches, departments, groups and </text>
+<text top="745" left="378" width="137" height="15" font="2">employees module </text>
+<text top="763" left="243" width="10" height="15" font="2">- </text>
+<text top="760" left="270" width="185" height="18" font="2">Core Banking’s Supporter </text>
+<text top="779" left="297" width="10" height="16" font="5">o</text>
+<text top="781" left="307" width="203" height="15" font="2">  Project languages: Oracle </text>
+<text top="797" left="297" width="10" height="16" font="5">o</text>
+<text top="799" left="307" width="139" height="15" font="2">  Position: support </text>
+<text top="816" left="297" width="10" height="16" font="5">o</text>
+<text top="817" left="307" width="71" height="15" font="2">  Works: </text>
+<text top="833" left="351" width="7" height="17" font="6"></text>
+<text top="836" left="358" width="4" height="15" font="2"> </text>
+<text top="836" left="378" width="107" height="15" font="2">Fund checking </text>
+<text top="851" left="351" width="7" height="17" font="6"></text>
+<text top="854" left="358" width="4" height="15" font="2"> </text>
+<text top="854" left="378" width="106" height="15" font="2">Daily reporting </text>
+<text top="872" left="135" width="4" height="15" font="2"> </text>
+<text top="890" left="135" width="214" height="15" font="1"><b>EDUCATION BACKGROUND</b></text>
+<text top="890" left="349" width="4" height="15" font="4"><b> </b></text>
+<text top="908" left="135" width="9" height="15" font="7">  </text>
+<text top="923" left="162" width="7" height="19" font="8"></text>
+<text top="927" left="169" width="4" height="15" font="2"> </text>
+<text top="927" left="189" width="142" height="15" font="2">From 2005 to 2008: </text>
+<text top="927" left="331" width="215" height="15" font="1"><b>Ernst Thalmann High School</b></text>
+<text top="927" left="546" width="4" height="15" font="2"> </text>
+<text top="942" left="162" width="7" height="19" font="8"></text>
+<text top="946" left="169" width="4" height="15" font="2"> </text>
+<text top="946" left="189" width="133" height="15" font="2">From 2008 to 2012</text>
+<text top="946" left="322" width="301" height="15" font="1"><b>: Vietnamese American Training College</b></text>
+<text top="946" left="624" width="9" height="15" font="2">  </text>
+<text top="965" left="351" width="266" height="15" font="2">Computer Programming and Analysis </text>
+<text top="983" left="135" width="4" height="15" font="1"><b> </b></text>
+<text top="1001" left="135" width="97" height="15" font="1"><b>KEY SKILLS </b></text>
+<text top="1019" left="135" width="4" height="15" font="1"><b> </b></text>
+<text top="1037" left="135" width="133" height="15" font="1"><b>Languages Skills </b></text>
+<text top="1055" left="189" width="74" height="15" font="2">Toeic 465 </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="18" family="Arial" color="#000000"/>
+	<fontspec id="10" size="18" family="Arial" color="#808080"/>
+<text top="111" left="135" width="4" height="15" font="2"> </text>
+<text top="111" left="189" width="341" height="15" font="2">Can read, write, communicate in English fluently </text>
+<text top="129" left="135" width="124" height="15" font="1"><b>Computer Skills </b></text>
+<text top="147" left="135" width="4" height="15" font="1"><b> </b></text>
+<text top="147" left="189" width="213" height="15" font="2">Java, javascript, jquery, AJAX </text>
+<text top="165" left="135" width="4" height="15" font="2"> </text>
+<text top="165" left="189" width="225" height="15" font="2">C, C++, C#, ASP.NET, VB.NET </text>
+<text top="183" left="135" width="4" height="15" font="2"> </text>
+<text top="183" left="189" width="38" height="15" font="2">UML </text>
+<text top="202" left="135" width="4" height="15" font="2"> </text>
+<text top="202" left="189" width="37" height="15" font="2">XML </text>
+<text top="220" left="135" width="4" height="15" font="2"> </text>
+<text top="220" left="189" width="91" height="15" font="2">Web service </text>
+<text top="238" left="135" width="4" height="15" font="2"> </text>
+<text top="238" left="189" width="37" height="15" font="2">CSS </text>
+<text top="256" left="189" width="87" height="15" font="2">SQL Server </text>
+<text top="274" left="135" width="4" height="15" font="2"> </text>
+<text top="274" left="189" width="51" height="15" font="2">Oracle </text>
+<text top="292" left="135" width="4" height="15" font="2"> </text>
+<text top="292" left="189" width="213" height="15" font="2">Create &amp; handle big database </text>
+<text top="310" left="135" width="4" height="15" font="2"> </text>
+<text top="310" left="189" width="74" height="15" font="2">MS Office </text>
+<text top="328" left="135" width="4" height="15" font="2"> </text>
+<text top="328" left="189" width="81" height="15" font="2">MS Project </text>
+<text top="346" left="135" width="4" height="15" font="2"> </text>
+<text top="346" left="189" width="192" height="15" font="2">Can work on Crystal report </text>
+<text top="365" left="135" width="4" height="15" font="2"> </text>
+<text top="365" left="189" width="311" height="15" font="2">PC Trouble-Shooting, Hardware Knowledge </text>
+<text top="383" left="135" width="86" height="15" font="1"><b>Others skill</b></text>
+<text top="383" left="221" width="4" height="15" font="2"> </text>
+<text top="383" left="243" width="4" height="15" font="2"> </text>
+<text top="401" left="135" width="4" height="15" font="2"> </text>
+<text top="401" left="189" width="67" height="15" font="2">Multitask </text>
+<text top="419" left="135" width="4" height="15" font="2"> </text>
+<text top="419" left="189" width="147" height="15" font="2">Tracking daily report </text>
+<text top="437" left="135" width="4" height="15" font="2"> </text>
+<text top="437" left="189" width="198" height="15" font="2">Banking general knowledge </text>
+<text top="455" left="135" width="4" height="15" font="2"> </text>
+<text top="455" left="189" width="159" height="15" font="2">Make user guide book </text>
+<text top="473" left="135" width="4" height="15" font="2"> </text>
+<text top="473" left="189" width="67" height="15" font="2">Googling </text>
+<text top="492" left="135" width="5" height="17" font="9"> </text>
+<text top="512" left="135" width="91" height="15" font="1"><b>ACTIVITIES </b></text>
+<text top="531" left="135" width="5" height="17" font="9"> </text>
+<text top="551" left="135" width="626" height="15" font="2">Listen to rock music, playing guitar, reading weapons and military vehicles document and </text>
+<text top="569" left="135" width="212" height="15" font="2">review of computer hardware. </text>
+<text top="587" left="135" width="272" height="15" font="2">Watching TV, swimming and traveling. </text>
+<text top="606" left="135" width="5" height="17" font="10"> </text>
+<text top="626" left="135" width="180" height="15" font="1"><b>PERSONAL QUALITIES </b></text>
+<text top="645" left="135" width="10" height="17" font="10">  </text>
+<text top="665" left="135" width="168" height="15" font="2">Sense of Responsibility </text>
+<text top="683" left="135" width="130" height="15" font="2">Spirited teamwork </text>
+<text top="701" left="135" width="228" height="15" font="2">Can work under heavy pressure </text>
+<text top="719" left="135" width="105" height="15" font="2">Self-motivated </text>
+</page>
+</pdf2xml>

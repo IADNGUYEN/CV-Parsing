@@ -1,0 +1,251 @@
+CURRICULUM VITAE
+VO HOANG XUAN PHUONG
+PERSONAL DETAILS
+Full Name
+Vo Hoang Xuan Phuong
+Date of Birth November 19th, 1980
+Sex
+Female
+Marital status Married
+Phone No.
+(84) 91 880 1245
+Email
+xuanphuongxx@gmail.com
+EDUCATION & QUALIFICATION
+Certificate
+Issued Place
+Issued Time
+Agile Testing (Lisa Crispin and Janet Gregory) – 
+self learning
+N/A
+N/A
+Project Management Fundamental Program
+HCA
+2016
+Agile Scrum
+Apex
+2012
+Goal Setting  Key Performance Indicator
+ACE
+2012
+Interviewing Skills
+PACE
+2012
+CCNA
+Nhat Nghe center
+2005
+Bachelor degree of Electronic and Telecom
+PTIT
+2003
+PERSONAL SUMMARY
+14 years’ experience in Testing and managing Testing teams.
+Strong points: 
+Being integrity. 
+Being straight-forward. 
+Build up team.
+1 
+Good people management
+TECHNICAL SKILLS
+Mobile: iOS, Android
+Database: MySQL, Oracle
+Automation tool: QTP, SilkTest, Katalon
+OS Platform: Microsoft Window, MAC, Sun Solaris, Linux
+CI  Jenkins
+Networking & Telecom: LAN, WAN, Routing (RIP, OSPF, BGP), SIP, SIPp, H323
+Tools & Utilities: SilkTest, QTP, HP Quality Center, qTest, Jira (Requirements, Bugs, Agile board, charts), SVN, 
+Trello, Gitlab, Slack, Skype.
+Methodologies & Process: testing terms in ISTQB, Agile mindset, Agility testing, Agile 4-Quadrant, Agile 
+Scrum, Kanban, Scrumban.
+PROFESSIONAL EXPERIENCE
+A P R I L  2 0 1 7  –  J U LY  2 0 1 8
+S E N I O R  P R O J E C T  M A N A G E R
+Company: Sunrise Software Solutions Corporation (www.s3corp.com.vn) 
+Project Description:
+A development project, it is a digital solution for traditional supply chain in ASEAN emerging markets. 
+The solution provides FMCGs a platform running on desktop to link up with more than five million retailer 
+outlets in Southeast Asia, the retailers can use a mobile application to order goods.
+Team size:  
+3 developers + 2 testers
+Technologies:
+MySQL
+PHP
+2
+Ionic
+Tracking tool: SVN, Google sheet.
+Methodologies: 
+Agile Scrum
+Responsibilities:
+Get, analyze and manage requirements
+Scrum Master
+QA manager
+Project manager
+Achievement:
+Get project DONE on time with high quality although this is my first Development project
+A U G U S T  2 0 1 6  –  J A N U A R Y  2 0 1 7
+Q A  M A N A G E R
+Company: KMS Technology (www.kms-technology.com) 
+Project Description:
+An existing Front end of Sale support system running by the Flash on desktop. Now the project is to 
+build it on Ember Js from crash. There is not any requirement document, there is just a running system 
+on Flash, Scrum teams base on JUST that running system to self-investigate then do it on Ember Js.
+Team size:  
+3 Scrum teams: 24 resources
+Each Scrum team has about 5 developers and 3 testers
+Technologies:
+MySQL
+Java
+Ember Js
+3
+Tracking tool: Jira, qTest
+Methodologies: 
+Agile Scrum
+Responsibilities:
+QA manager (Test planning, test strategies, test coverage,…)
+Tester
+Test coaching
+Achievement:
+Many risks and difficulties but the outputs is in good quality
+M A R C H  2 0 1 5   A P R I L  2 0 1 6
+S E N I O R  Q A  M A N A G E R
+Company: Sunrise Software Solutions Corporation (www.s3corp.com.vn) 
+Project Description:
+A Front End Testing project which test a series of relaxable websites running on desktop and mobile 
+devices.
+Team size:  
+40 testers
+Technologies:
+MySQL
+Java, Java Script
+HTML
+Jira
+SVN
+Methodologies: 
+Agile Scrum
+4
+Responsibilities:
+Program manager
+Achievement:
+Build up the team from crash
+Buid up team leaders, manager
+Build up long-life customer relationship
+Build up testing metrics for customer
+J U LY  2 0 1 4  –  F E B R U A R Y  2 0 1 5
+S E N I O R  P R O J E C T  M A N A G E R
+Company: Sunrise Software Solutions Corporation (www.s3corp.com.vn) 
+Project Description:
+A development project, it is to build client sites where the tourists can use desktop or mobile devices to
+search for restaurants, transportation, or  hotels which having rating from all over the world.
+Team size:  
+25 developers + 7 testers
+Technologies:
+MySQL
+Java, JavaScript
+HTML
+Jira
+SVN
+Methodologies: 
+Agile Scrum
+Responsibilities:
+QA Manager
+5
+Test training, coaching
+Achievement:
+High quality for delivery
+Build up a self-running testing with correct testing mindset, correct testing processes from crash
+Build up Agility mindset in testing team
+D E C E M B E R  2 0 1 2 – D E C E M B E R  2 0 1 3
+S E N I O R  P R O J E C T  M A N A G E R
+Company: Sunrise Software Solutions Corporation (www.s3corp.com.vn) 
+Project Description:
+A Front End Testing project which test a series of relaxable websites running on either desktop or 
+mobile devices.
+Team size:  
+25 testers
+Technologies:
+MySQL
+Java, JavaScript
+HTML
+Flash
+Methodologies: 
+Agile Scrum
+Responsibilities:
+Get, analyze and manage requirements
+Build up team
+Training, coaching testing team
+Project manager (QA manager)
+6
+Achievement:
+Get trust from client quickly
+Ramp up project  up to 15 testers in the first year and up to 25 tester in the next year
+M A R C H  2 0 1 0  –  D E C E M B E R  2 0 1 1
+Q A  M A N A G E R
+Company: Sunrise Software Solutions Corporation (www.s3corp.com.vn) 
+Project Description:
+A Testing project, it is to test an Enterprise Admistrative application running on desktop.
+Team size:  
+10 testers
+Technologies:
+MySQL
+PHP
+HTML
+Methodologies: 
+Agile Scrum
+Responsibilities:
+Get, analyze and manage requirements 
+QA manager
+Build up testing team from crash
+Achievement:
+Keep project going on while facing difficult customer 
+J U LY  2 0 0 6  –  N O V E M B E R  2 0 0 9
+Q A  L E A D E R
+Company: TMA Solutions (www.tmasolutions.com ) 
+Project Description:
+7
+A Testing project, it is to test the VoIP PBX and Call server gateway.
+Team size:  
+10 testers
+Technologies:
+Oracle
+SIP protocol
+RTP protocol
+Methodologies: 
+Iteration
+Responsibilities:
+Get, analyze and manage requirements
+Define Test schedule
+Review TCs, Test suites
+Test Report
+Achievement:
+Get trust from customer
+Onsite and get project for company
+A P R I L  2 0 0 4  –  J U N E  2 0 0 6
+Q A  E N G I N E E R
+Company: TMA Solutions (www.tmasolutions.com) 
+Project Description:
+A Testing project, it is to test a Service Edge router – a backbone router via a provisioning page running 
+on desktop.
+Team size:  
+15 testers
+8
+Technologies:
+Unix OS
+Telnet protocol
+Methodologies: 
+Iteration
+Responsibilities:
+Get, analyze requirements
+Write TCs
+Execute test
+Report bugs and follow up
+Achievement:
+Hard working and get promotion quickly
+Was considered to be onsite for new project
+9
+ACADEMIC QUALIFICATIONS
+1999  2004
+Institution: PTIT Vietnam 
+Degree: Bachelor   
+REFERENCE 
+Sunrise Solution Software management 
+CEO Linh Lê 0918505453 
+Business Director Lễ Nguyễn 0908758947

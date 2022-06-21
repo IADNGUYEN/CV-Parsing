@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="56" family="GNWESZ+LMSans17" color="#b8b8b8"/>
+	<fontspec id="1" size="56" family="GNWESZ+LMSans17" color="#727272"/>
+	<fontspec id="2" size="25" family="NTANNZ+LMSans10" color="#3872b2"/>
+	<fontspec id="3" size="17" family="LLGAWC+LMSans12" color="#000000"/>
+	<fontspec id="4" size="17" family="NTANNZ+LMSans10" color="#000000"/>
+	<fontspec id="5" size="11" family="BKIBGY+LMMathItalic8" color="#000000"/>
+	<fontspec id="6" size="17" family="DZJHNR+LMSans12" color="#000000"/>
+	<fontspec id="7" size="16" family="LKEUCC+LMSans10" color="#000000"/>
+	<fontspec id="8" size="17" family="DZJHNR+LMSans12" color="#727272"/>
+	<fontspec id="9" size="25" family="LONJQS+FontAwesome" color="#727272"/>
+	<fontspec id="10" size="17" family="BDTOUX+LMMathSymbols10" color="#727272"/>
+	<fontspec id="11" size="16" family="LONJQS+FontAwesome" color="#727272"/>
+<text top="134" left="364" width="166" height="51" font="0">Nguyễn</text>
+<text top="134" left="548" width="233" height="51" font="1">Tuyết Nga</text>
+<text top="280" left="228" width="246" height="22" font="2"><b>Personal Information</b></text>
+<text top="317" left="112" width="144" height="16" font="3">Full Name Nguyễn</text>
+<text top="317" left="262" width="86" height="16" font="4"><b>Tuyết Nga</b></text>
+<text top="338" left="112" width="37" height="16" font="3">Birth</text>
+<text top="338" left="201" width="75" height="16" font="3">August 31</text>
+<text top="336" left="276" width="10" height="11" font="5"><i>st</i></text>
+<text top="338" left="287" width="46" height="16" font="3">, 1997</text>
+<text top="360" left="112" width="51" height="16" font="3">Gender</text>
+<text top="360" left="201" width="52" height="16" font="3">Female</text>
+<text top="382" left="112" width="49" height="16" font="3">School</text>
+<text top="382" left="201" width="297" height="16" font="3">Bach Khoa University, Ho Chi Minh City</text>
+<text top="403" left="112" width="56" height="16" font="3">Address</text>
+<text top="403" left="201" width="443" height="16" font="3">Dormitary A, Thu Duc District , Ho Chi Minh City, Vietnam</text>
+<text top="425" left="112" width="46" height="16" font="3">Phone</text>
+<text top="425" left="201" width="162" height="16" font="3">+84 (0)9 13 89 06 87</text>
+<text top="447" left="112" width="47" height="16" font="3">E-mail</text>
+<text top="447" left="201" width="172" height="16" font="3">1512111@hcmut.edu.vn</text>
+<text top="468" left="112" width="151" height="16" font="3">Nationality Vietnam</text>
+<text top="508" left="228" width="117" height="22" font="2"><b>Education</b></text>
+<text top="545" left="146" width="67" height="16" font="3">9/2015 –</text>
+<text top="567" left="181" width="33" height="16" font="3">Now</text>
+<text top="545" left="228" width="149" height="16" font="4"><b>Computer Science</b></text>
+<text top="545" left="377" width="5" height="16" font="3">,</text>
+<text top="545" left="388" width="242" height="16" font="6"><i>Student of Bach Khoa University</i></text>
+<text top="545" left="630" width="145" height="16" font="3">, Ho Chi Minh City.</text>
+<text top="568" left="228" width="553" height="14" font="7">Know basic about HTML, CSS, Javacript, Laravel, Logic, C++, Compiler, MySQL,</text>
+<text top="588" left="228" width="210" height="14" font="7">Scala, Design Software, Scrum</text>
+<text top="624" left="228" width="182" height="22" font="2"><b>Computer skills</b></text>
+<text top="660" left="161" width="317" height="16" font="3">System Windows, Linux (Ubuntu, Fedora)</text>
+<text top="686" left="151" width="344" height="16" font="3">Software LaTeX (TeXstudio), Microsoft office</text>
+<text top="712" left="115" width="666" height="16" font="3">Programming MySQL, PHP, Laravel, HTML, Javacript, CSS, C++, Logic, Design Software</text>
+<text top="752" left="228" width="124" height="22" font="2"><b>Languages</b></text>
+<text top="789" left="130" width="145" height="16" font="3">Vietnamese Native</text>
+<text top="815" left="161" width="189" height="16" font="3">English Pre-Intermediate</text>
+<text top="855" left="228" width="128" height="22" font="2"><b>Experience</b></text>
+<text top="891" left="146" width="67" height="16" font="3">6/2018 –</text>
+<text top="913" left="161" width="53" height="16" font="3">8/2018</text>
+<text top="891" left="228" width="127" height="16" font="4"><b>Internship PHP</b></text>
+<text top="891" left="356" width="5" height="16" font="3">,</text>
+<text top="891" left="366" width="95" height="16" font="6"><i>Code Laravel</i></text>
+<text top="891" left="461" width="260" height="16" font="3">, FPT Telecom, Ho Chi Minh City.</text>
+<text top="1098" left="223" width="447" height="16" font="8"><i>Dormitory A – Thu Duc District, Ho Chi Minh City, Vietnam</i></text>
+<text top="1116" left="238" width="11" height="22" font="9">Æ</text>
+<text top="1124" left="255" width="162" height="16" font="8"><i>+84 (0)9 13 89 06 87</i></text>
+<text top="1123" left="434" width="9" height="17" font="10">•</text>
+<text top="1124" left="461" width="16" height="14" font="11">Q</text>
+<text top="1124" left="483" width="172" height="16" font="8"><a href="mailto:1512111@hcmut.edu.vn"><i>1512111@hcmut.edu.vn</i></a></text>
+<text top="1124" left="755" width="26" height="16" font="8"><a href="764.html#2"><i>1/2</i></a></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="128" left="228" width="102" height="22" font="2"><b>Interests</b></text>
+<text top="164" left="234" width="45" height="16" font="3">Books</text>
+<text top="164" left="526" width="49" height="16" font="3">Design</text>
+<text top="190" left="234" width="50" height="16" font="3">Musics</text>
+<text top="190" left="526" width="32" height="16" font="3">Sing</text>
+<text top="216" left="234" width="47" height="16" font="3">Tennis</text>
+<text top="216" left="526" width="49" height="16" font="3">Games</text>
+<text top="1098" left="223" width="447" height="16" font="8"><i>Dormitory A – Thu Duc District, Ho Chi Minh City, Vietnam</i></text>
+<text top="1116" left="238" width="11" height="22" font="9">Æ</text>
+<text top="1124" left="255" width="162" height="16" font="8"><i>+84 (0)9 13 89 06 87</i></text>
+<text top="1123" left="434" width="9" height="17" font="10">•</text>
+<text top="1124" left="461" width="16" height="14" font="11">Q</text>
+<text top="1124" left="483" width="172" height="16" font="8"><a href="mailto:1512111@hcmut.edu.vn"><i>1512111@hcmut.edu.vn</i></a></text>
+<text top="1124" left="755" width="26" height="16" font="8"><a href="764.html#2"><i>2/2</i></a></text>
+</page>
+<outline>
+<item page="1">Personal Information</item>
+<item page="1">Education</item>
+<item page="1">Computer skills</item>
+<item page="1">Languages</item>
+<item page="1">Experience</item>
+<item page="2">Interests</item>
+</outline>
+</pdf2xml>

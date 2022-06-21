@@ -1,0 +1,52 @@
+Trieu Trang Vinh
+Currently, I am in the last year student of
+Computer Science major which the research
+in Computer Vision and Machine Learning.
+Eager to learn new technologies and improve
+oneself  to work professionally.
+Full stack web development
+Linux
+English
+Teamwork
+Computer Vision
+Machine Learning
+Contact information
+Date of birth
+May 11, 1996
+Gender
+Male
+Phone
++84 1286080753
+Email
+vinh.trieutrang@gmail.com
+Address
+HCMC, Vietnam
+Website
+https://goo.gl/RZGqYM
+(Linkedin)
+Summary
+Skills
+Education
+University of Information Technology VNU-HCM
+Major: Computer Science
+GPA: 8.14/10
+Demo applications: https://goo.gl/2Ckrqr
+Research: Computer Vision in image stitching, image retrieval,
+image classification, face recognition. Apply machine learning
+methods: classification, clustering, deep learning, etc.
+Sep 2014  Present
+Work experience
+Freelancer
+Full-stack Developer  Node js framework with Express js module to build web
+application.  Implementing MySQL, PostgreSQL database.  RESTful Web API, Git, Linux, Java.  Design Web page by using HTML, CSS, Susy SASS.  Using React JS, Angular JS to render, control and interact with
+the Web page from Client Side.
+Sep 2015  Dec 2016
+VLAB CO.,LTD
+Back-end Developer and DevOps  Developing APIs services for Urban Planning HCMC (Django
+Framework) for scalable system.  Maintaining and troubleshooting Linux Server (for Urban
+Planning servers)  Install packages and configure settings on Linux system:
+Iptables, Nginx, Squid, Docker etc  Develop and deploy application on Linux server (Cent OS).  Handling and implementing data functionality to MySQL,
+PostgreSQL (PostGIS) databases.  Implementing functionality of image processing on cadastral
+map with Python.
+July 2017  Feb 2018
+© topcv.vn

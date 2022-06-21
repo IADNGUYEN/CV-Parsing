@@ -1,0 +1,116 @@
+ Le Vu 
+Page 1 
+Le Dinh Thien Vu 
+Developer 
+Date of birth:  April 21, 1996 
+Gender        :  Male 
+Phone          : 0981875044 
+Email           : vuldt2103@gmail.com 
+OBJECTIVE  
+Have a chance to practice skills.  
+Be a part of team to develop project of company.  
+Master of Java.  
+Full-Stack Developer. 
+EDUCATION  
+_________ 
+Oct 2015 – Present 
+FPT University. 
+Major: Software Engineer. 
+GPA: 7.2/10 
+WORK EXPERIENCE 
+09/2017  11/2017 
+FPT University. 
+Developer. 
+Description:  Create completely a news website using MVC model.  Working in group, 3 members 
+16/1/2018  13/7/2018 
+Robert Bosch Engineering and Business Solutions Vietnam Company. 
+Internship student. 
+Internship Java (Spring Boot), Angular 4, C# (WPF) 
+ACTIVITIES  
+12/2016  3/2017 FPT University 
+Collaborator of FPT University.  Working at the recruitment room. 
+_________________ 
+9/8/2017-12/8/2017 
+FPT University 
+Member of Field Trip Season II (Singapore)  
+Le Vu 
+Page 2 
+_________________ 
+26/5/2018 27/5/2018 
+HACKATHON Policypal Network 
+Member of 1170 team.  Research and raise idea for Dapp. (BlockChain) 
+ACHIEVEMENT 
+2016 
+Certification of Completing Summit 2. 
+26 27 May 2018  
+1st Prize Building Decentralized Insurance Platform HACKATHON. 
+SKILLS  
+Language  
+Communicating Fluent English. 
+Software Engineer  
+Fundamental C Language  
+Fundamental C# Language  
+Java OOP language  
+Java Desktop  
+Java Spring Boot  
+Angular 4 framework  
+Fundamental Solidity Language 
+INTERESTS  
+Soccer, music. 
+PROJECTS  
+Sport News 
+Customer 
+LAB java web 
+Team size 
+3 
+Position 
+Developer 
+Description of project  Create website by using java language.  To update latest news about sports. 
+Responsibilities  Analysis and design database.  Coding about display data from database. 
+Technologies used 
+.  Hibernate 4.3.1  Java Spring MVC 4.0.1  Bootstrap.  SQL server 2017. 
+Lookup IP 
+Customer 
+Nguyễn Minh Tiến. 
+Le Vu 
+Page 3 
+01212731555 
+Position 
+Developer 
+Description of project  Find out IP addresses which belong to foreign country to block and 
+check DDoS.  Lookup city, region, country, location, organization from IP address. 
+Responsibilities  Analysis data.  Using Bootstrap to code front-end (basic level).  Using Scriptlet to code back-end. 
+Technologies used  Bootstrap  JSTL  Server: Apache Tomcat 8.0.27.0.  Java EE version: Java EE 7 Web. 
+Domain Name 
+Customer 
+Nguyễn Minh Tiến. 
+01212731555 
+Position 
+Developer 
+Description of project  Find out domain name through IP address. (To be serve for individual) 
+Responsibilities  Analysis data.  Using Java Swing to implement  Using file .jar library to modify theme of app. 
+Technologies used  Java Swing framework. 
+Management Tools 
+Customer 
+Lê Hữu Nghĩa 
+Position 
+Developer 
+Description of project  This is a web services.  Manage feedback from customers, draw chart to show the trend.  Build Administrator system.  Manage budget of teams.  
+Responsibilities  Support to create Database. 
+Le Vu 
+Page 4  Create APIs using Spring Boot framework.  Using Angular 4 for front-end.  Create services to interact with back-end. 
+Technologies used  Angular 4  Css3/HTML5  Spring Boots 2  Spring Data JPA  MySQL Work Bench 
+ETM Compiler  
+Customer 
+Bùi Tất Thắng 
+Position 
+Developer 
+Description of project  Convert from files to show data on Grid view. 
+Responsibilities  Follow up the requirement of user.  Research and customize Ribbon. 
+Technologies used  C#/WPF framework. (Window Presentation Foundation) 
+RESEARCH INTERESTS  Blockchain, React, JavaScript, NodeJs 
+WORKING PREFERENCE  
+Working location 
+: Ho Chi Minh City 
+Expected job category 
+: Junior Java Developer and Blockchain Developer.  

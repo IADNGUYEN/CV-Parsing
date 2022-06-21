@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="26" family="PAKFGH+Calibri" color="#c45911"/>
+	<fontspec id="1" size="20" family="PAKFGH+Calibri" color="#c45911"/>
+	<fontspec id="2" size="16" family="PAKFKG+Calibri" color="#000000"/>
+	<fontspec id="3" size="16" family="PAKFKG+Calibri" color="#0563c1"/>
+	<fontspec id="4" size="16" family="PAKFMH+Wingdings" color="#000000"/>
+	<fontspec id="5" size="16" family="PAKFGH+Calibri" color="#000000"/>
+	<fontspec id="6" size="18" family="PAKFGH+Calibri" color="#000000"/>
+	<fontspec id="7" size="18" family="PAKFKG+Calibri" color="#000000"/>
+	<fontspec id="8" size="17" family="PAKFKG+Calibri" color="#000000"/>
+	<fontspec id="9" size="14" family="PAKFOH+Calibri" color="#000000"/>
+	<fontspec id="10" size="16" family="PAKFKG+Calibri" color="#c45911"/>
+	<fontspec id="11" size="16" family="PAKGAH+ArialMT" color="#c45911"/>
+<text top="164" left="336" width="226" height="26" font="0"><b>CURRICULUM VITAE </b></text>
+<text top="209" left="105" width="226" height="20" font="1"><b>PERSONAL INFORMATION </b></text>
+<text top="247" left="131" width="47" height="16" font="2">Name: </text>
+<text top="247" left="289" width="87" height="16" font="2">Le Duc Thinh </text>
+<text top="280" left="131" width="98" height="16" font="2">Date of birth:   </text>
+<text top="280" left="289" width="128" height="16" font="2">January 20th, 1980 </text>
+<text top="312" left="131" width="136" height="16" font="2">Telephone number:  </text>
+<text top="312" left="289" width="96" height="16" font="2">0985 869 485  </text>
+<text top="345" left="131" width="47" height="16" font="2">Email:  </text>
+<text top="345" left="289" width="141" height="16" font="3">thinhld80@gmai.com</text>
+<text top="345" left="430" width="4" height="16" font="2"> </text>
+<text top="378" left="131" width="56" height="16" font="2">Address </text>
+<text top="378" left="289" width="462" height="16" font="2">141/14/20 339 Street, Ward Phuoc Long B, District 9, Ho Chi Minh City </text>
+<text top="411" left="131" width="83" height="16" font="2">Nationality:  </text>
+<text top="411" left="289" width="81" height="16" font="2">Vietnamese </text>
+<text top="444" left="131" width="34" height="16" font="2">Sex:  </text>
+<text top="444" left="289" width="37" height="16" font="2">Male </text>
+<text top="476" left="131" width="102" height="16" font="2">Marital status:  </text>
+<text top="476" left="289" width="56" height="16" font="2">Married </text>
+<text top="509" left="105" width="4" height="16" font="2"> </text>
+<text top="542" left="105" width="667" height="16" font="2">Motivated, teamwork‐oriented, and responsible Data Analyst with significant experience in increasing </text>
+<text top="563" left="105" width="669" height="16" font="2">comprehension of reports and presentations by the average professional. Highly educated, possessing </text>
+<text top="584" left="105" width="575" height="16" font="2">two Bachelors’, a Master’s. Good in English, with elementary understanding of German. </text>
+<text top="615" left="105" width="18" height="18" font="4"></text>
+<text top="617" left="123" width="152" height="16" font="2"> thinhld80@gmail.com </text>
+<text top="615" left="473" width="14" height="18" font="4"></text>
+<text top="617" left="487" width="89" height="16" font="2"> 0985869485 </text>
+<text top="651" left="105" width="190" height="20" font="1"><b>TECHNICAL (IT) SKILLS </b></text>
+<text top="689" left="113" width="35" height="16" font="5"><b>Data </b></text>
+<text top="708" left="113" width="93" height="16" font="5"><b>Management </b></text>
+<text top="689" left="237" width="538" height="16" font="2">Database Design &amp; Management, Data Quality Assessment, Data Analysis, Pattern </text>
+<text top="708" left="237" width="471" height="16" font="2">&amp; Trend Identification, Visualization of Data Insights, Data Manipulation </text>
+<text top="752" left="113" width="70" height="16" font="5"><b>Computer </b></text>
+<text top="772" left="113" width="53" height="16" font="5"><b>Science </b></text>
+<text top="752" left="237" width="540" height="16" font="2">System Administration, Advanced Microsoft Excel Functions, Relational databases, </text>
+<text top="772" left="237" width="465" height="16" font="2">MS SQL Server, MySQL, R Studio, Python, C/C++, Java, Troubleshooting </text>
+<text top="810" left="113" width="64" height="16" font="5"><b>Research </b></text>
+<text top="810" left="237" width="507" height="16" font="2">Math, Statistics, Analysis, Problem solving, Quantitative Methods, Regression </text>
+<text top="830" left="237" width="58" height="16" font="2">analysis  </text>
+<text top="862" left="105" width="4" height="16" font="2"> </text>
+<text top="896" left="105" width="167" height="20" font="1"><b>WORK EXPERIENCE </b></text>
+<text top="934" left="105" width="208" height="19" font="6"><b>Lecturer in IT Department </b></text>
+<text top="971" left="105" width="311" height="19" font="7">Ho Chi Minh City University of Transport</text>
+<text top="972" left="416" width="4" height="18" font="8"> </text>
+<text top="1007" left="105" width="104" height="15" font="9"><i>4/2008 – Present </i></text>
+<text top="1038" left="131" width="5" height="16" font="10">‐</text>
+<text top="1035" left="136" width="4" height="18" font="11"> </text>
+<text top="1038" left="158" width="589" height="16" font="2">Teaching Essential Information Technology included MS Word, MS Excel, MS Power Point, </text>
+<text top="1059" left="158" width="257" height="16" font="2">problem solving methods in computer. </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="162" left="131" width="5" height="16" font="10">‐</text>
+<text top="159" left="136" width="4" height="18" font="11"> </text>
+<text top="162" left="158" width="594" height="16" font="2">Teaching Programming languages included Object oriented, data structure and algorithms, </text>
+<text top="183" left="158" width="102" height="16" font="2">C/C++, Java, C# </text>
+<text top="204" left="131" width="5" height="16" font="10">‐</text>
+<text top="202" left="136" width="4" height="18" font="11"> </text>
+<text top="204" left="158" width="291" height="16" font="2">Homeroom teacher and studying consultant </text>
+<text top="238" left="105" width="153" height="19" font="6"><b>Credit staff trainee </b></text>
+<text top="274" left="105" width="102" height="19" font="7">Dong A Bank </text>
+<text top="310" left="105" width="110" height="15" font="9"><i>8/2010 – 10/2010 </i></text>
+<text top="341" left="131" width="5" height="16" font="10">‐</text>
+<text top="339" left="136" width="4" height="18" font="11"> </text>
+<text top="341" left="158" width="444" height="16" font="2">Instructing business borrowers and receiving their loan applications </text>
+<text top="362" left="131" width="5" height="16" font="10">‐</text>
+<text top="360" left="136" width="4" height="18" font="11"> </text>
+<text top="362" left="158" width="586" height="16" font="2">Reviewing loan applications (borrowing purpose, repayment capacity, mortgaged assets)  </text>
+<text top="384" left="131" width="5" height="16" font="10">‐</text>
+<text top="381" left="136" width="4" height="18" font="11"> </text>
+<text top="384" left="158" width="629" height="16" font="2">Determining the credit limit and submitting it to the manager for credit evaluation and approval </text>
+<text top="405" left="131" width="5" height="16" font="10">‐</text>
+<text top="402" left="136" width="4" height="18" font="11"> </text>
+<text top="405" left="158" width="586" height="16" font="2">Inspecting approved loan applications; reporting invalid and unqualified loan applications </text>
+<text top="426" left="131" width="5" height="16" font="10">‐</text>
+<text top="423" left="136" width="4" height="18" font="11"> </text>
+<text top="426" left="158" width="614" height="16" font="2">Evaluating operating profit, repayment capacity, financial market and market outlook to warn </text>
+<text top="447" left="158" width="153" height="16" font="2">about the risk of loans. </text>
+<text top="468" left="131" width="5" height="16" font="10">‐</text>
+<text top="466" left="136" width="4" height="18" font="11"> </text>
+<text top="468" left="158" width="439" height="16" font="2">Coordinating with debt retirement staffs to handle overdue credits </text>
+<text top="489" left="131" width="5" height="16" font="10">‐</text>
+<text top="487" left="136" width="4" height="18" font="11"> </text>
+<text top="489" left="158" width="266" height="16" font="2">Reporting to Head of Credit Department </text>
+<text top="523" left="105" width="208" height="19" font="6"><b>Lecturer in IT Department </b></text>
+<text top="559" left="105" width="303" height="19" font="7">Ho Chi Minh City University of Industry </text>
+<text top="595" left="105" width="102" height="15" font="9"><i>4/2005 – 3/2007 </i></text>
+<text top="626" left="131" width="5" height="16" font="10">‐</text>
+<text top="624" left="136" width="4" height="18" font="11"> </text>
+<text top="626" left="158" width="287" height="16" font="2">Teaching programming technique with Java </text>
+<text top="647" left="131" width="5" height="16" font="10">‐</text>
+<text top="645" left="136" width="4" height="18" font="11"> </text>
+<text top="647" left="158" width="379" height="16" font="2">Teaching Windows Form programming technique with C# </text>
+<text top="681" left="105" width="165" height="19" font="6"><b>IT support executive </b></text>
+<text top="717" left="105" width="117" height="19" font="7">TPL COMPANY </text>
+<text top="753" left="105" width="102" height="15" font="9"><i>3/2003 – 3/2005 </i></text>
+<text top="784" left="131" width="5" height="16" font="10">‐</text>
+<text top="782" left="136" width="4" height="18" font="11"> </text>
+<text top="784" left="158" width="598" height="16" font="2">Install and configure computer systems, setting up new users, supporting new applications. </text>
+<text top="805" left="131" width="5" height="16" font="10">‐</text>
+<text top="803" left="136" width="4" height="18" font="11"> </text>
+<text top="805" left="158" width="431" height="16" font="2">Manage and assist in the maintenance of hardware and software. </text>
+<text top="827" left="131" width="5" height="16" font="10">‐</text>
+<text top="824" left="136" width="4" height="18" font="11"> </text>
+<text top="827" left="158" width="551" height="16" font="2">Providing database backup and recovery. Troubleshooting and performing database </text>
+<text top="848" left="158" width="99" height="16" font="2">administration </text>
+<text top="869" left="131" width="5" height="16" font="10">‐</text>
+<text top="866" left="136" width="4" height="18" font="11"> </text>
+<text top="869" left="158" width="583" height="16" font="2">Being responsible for improvement and maintenance of the databases to include rollout, </text>
+<text top="890" left="158" width="156" height="16" font="2">patching and upgrades. </text>
+<text top="911" left="131" width="5" height="16" font="10">‐</text>
+<text top="909" left="136" width="4" height="18" font="11"> </text>
+<text top="911" left="158" width="594" height="16" font="2">Meeting users to define and evaluate business problems; analyze detailed systems factors. </text>
+<text top="932" left="158" width="605" height="16" font="2">Worked as an interface between the users and the different teams involved with application </text>
+<text top="954" left="158" width="352" height="16" font="2">development to enhance understanding IT processes  </text>
+<text top="975" left="131" width="5" height="16" font="10">‐</text>
+<text top="972" left="136" width="4" height="18" font="11"> </text>
+<text top="975" left="158" width="596" height="16" font="2">Worked under the general supervision of senior staff with some latitude for the exercise of </text>
+<text top="996" left="158" width="154" height="16" font="2">independent judgment </text>
+<text top="1029" left="105" width="5" height="20" font="1"><b> </b></text>
+<text top="1029" left="315" width="5" height="20" font="1"><b> </b></text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="12" size="16" family="PAKFOH+Calibri" color="#000000"/>
+<text top="163" left="105" width="107" height="20" font="1"><b>EDUCATION </b></text>
+<text top="201" left="113" width="236" height="19" font="6"><b>Masters in Corporate Finance </b></text>
+<text top="224" left="113" width="322" height="19" font="7">University of Economics Ho Chi Minh City </text>
+<text top="246" left="113" width="102" height="15" font="9"><i>6/2015 – 1/2018 </i></text>
+<text top="265" left="113" width="4" height="16" font="2"> </text>
+<text top="201" left="454" width="260" height="19" font="6"><b>Bachelor of Banking and Finance </b></text>
+<text top="224" left="454" width="322" height="19" font="7">University of Economics Ho Chi Minh City </text>
+<text top="246" left="454" width="110" height="15" font="9"><i>6/2007 – 10/2010 </i></text>
+<text top="265" left="454" width="4" height="16" font="2"> </text>
+<text top="285" left="113" width="317" height="19" font="6"><b>Bachelor of science in Mathematics and </b></text>
+<text top="308" left="113" width="154" height="19" font="6"><b>Computer Sciences </b></text>
+<text top="331" left="113" width="297" height="19" font="7">Ho Chi Minh City University of Natural </text>
+<text top="354" left="113" width="70" height="19" font="7">Sciences </text>
+<text top="376" left="113" width="102" height="15" font="9"><i>7/1998 – 2/2003 </i></text>
+<text top="395" left="113" width="4" height="16" font="2"> </text>
+<text top="284" left="454" width="4" height="16" font="2"> </text>
+<text top="415" left="105" width="253" height="20" font="1"><b>PROFESSIONAL CERTIFICATES </b></text>
+<text top="454" left="113" width="210" height="16" font="2">Microsoft SQL Server certificate </text>
+<text top="473" left="113" width="267" height="15" font="9"><i>Computer Science Center of Ho Chi Minh City </i></text>
+<text top="490" left="113" width="175" height="15" font="9"><i>University of Natural Sciences</i></text>
+<text top="489" left="289" width="4" height="16" font="12"><i> </i></text>
+<text top="454" left="454" width="110" height="16" font="2">CCNA certificate </text>
+<text top="473" left="454" width="215" height="15" font="9"><i>Nhat Nghe Computer Science Center</i></text>
+<text top="472" left="669" width="4" height="16" font="12"><i> </i></text>
+<text top="509" left="105" width="4" height="16" font="2"> </text>
+<text top="542" left="105" width="4" height="16" font="2"> </text>
+</page>
+</pdf2xml>

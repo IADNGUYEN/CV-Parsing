@@ -1,0 +1,77 @@
+ 
+TUAN TRUONG NGOC
+java developer
+Local Vietnamese
+18-11-1989, Male, Single
+100/3/3 Dat Thanh Street, 6 Wards, Tan Binh district, Ho Chi Minh, Tan Binh district, Ho Chi
+Minh
+0931490584
+tntuan0712494@gmail.com
+Candidate's Expectation
+Position:
+developer
+Job Level:
+Experienced (Non-Manager)
+Work Place:
+Ho Chi Minh
+Job Category: IT  Software
+Salary :
+700 USD per month
+Total years of
+experience:
+2 year(s).
+Highest Degree:
+Masters
+Language Proficiency:
+English(Advanced)
+French(Intermediate)
+Most Recent Job:
+java developer
+Most Recent Company: finansemble
+Current Job Level:
+Experienced
+(Non-Manager)
+Career Objective
+Accomplished Master Degree at Eurecom/Telecom ParisTech in France with 1.5-year experience (4
+internships) and an in-depth knowledge of programming languages for development; technical expertise
+includes:
+C#, ASP.NET, WPF, WCF, Silverlight 5, MVC.
+HTML, CSS, JavaScript, JQuery, BootStrap framework, d3js.
+Java, J2EE, Grails, Hibernate, Spring framework.
+C++ (Boost, OpenCV libraries).
+Image processing, computer vision, worked with Kinect and AR.Drone.
+Career Highlights
+N/A
+Education & Qualifications
+Masters  Telecom ParisTech & Institute Eurécom. 
+Master of Engineering, Multimedia.  Jan 2012  Nov 2014
+Bachelor of Engineering  Ho Chi Minh City University of Science.
+Bachelor of Science, Information Technology.  Sep 2007  May 2011
+Work Experience
+java developer  
+finansemble  Apr 2014  Oct 2014
+Using Grails as a web framework and working as a full-stack web developer to develop/maintain current
+financial website.
+Build a finance-optimizator module in back-office.
+Re-build from scratch a new crud operators for domain classes.
+Using bootstrap twitter framework as a main JavaScript layout framework.
+Implement pop-up module for Finansemble site.
+Integrate MongoDB into current project with backup and restore process.
+Integrate with third-parties services like google spreadsheet, mailchimp.
+Maintain functions/fix bugs.
+Improve unit tests and integration tests.
+Front-end: HTML, CSS, JavaScript, JQuery Framework, bootstrap, DataTables plugin for JQuery,
+D3js.
+Back-end: Grails, MySQL, MongoDB, Spock, TeamCity, Jira, Git, IntelliJ IDEA.
+c++ developer  
+Eurecom, Multimedia Lab, France  Jun 2013  Aug 2013
+Worked with multi AR.Drones in multimedia lab of Eurecom.
+Establish socket connections to allow sending and receiving image data and flight-commands.
+Synchronize the time between 2 image streams.
+Extracting image features/matching algorithm to estimate relative position between Drones.
+Environment technique: C++, Eclipse, Boost library (Boost.Thread and Boost.Asio), OpenCV.
+Skills
+N/A
+References
+N/A
+Powered by TCPDF (www.tcpdf.org)

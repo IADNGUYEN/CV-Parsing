@@ -1,0 +1,53 @@
+TUAN ANH NGUYEN 
+2217 N Park Ave, Philadelphia, Pennsylvania, PA 19132 
+*609-712-1190 
+*tug67784@temple.edu 
+* https://github.com/mcdavid109 
+OBJECTIVE: 
+An internship opportunity that allows me to fully develop my skills and better understanding in the 
+fields of Machine Learning/Software Engineering/Security/Blockchain 
+TECHNICAL SKILLS: 
+Proficient in: 
+C/C++, Python, Java, Javascript, Linux, Algorithms and Data Structure, Tensorflow, 
+Pytorch, Deep Learning/Machine Learning, Data Mining, CUDA 
+and Parallel Programming, Scikit-learn, OpenCV 
+Familiar with: 
+AWS, MySQL, Spark, Binary Analysis and Security, ReactJS, LLVM, RabbitMQ, 
+Golang, Ethereum and Solidity 
+EDUCATION: 
+Temple University, Philadelphia, PA 
+Expected Graduation: 2020 
+Bachelor of Science in Computer Science 
+Major GPA: 3.62 / 4.0 
+COURSE INCLUDED: 
+CIS 1068: Program Design and Abstraction 
+CIS 2109: Database Design 
+CIS 1166 & 2166: Math Concept in Computing 
+CIS 3207: Operating System 
+CIS 2168 & 3223: Data Structure and Algorithm 
+Math 2103: Linear Algebra 
+CIS 2107: Comp System and Low-Level Programming 
+Math 3041: Differential Equation 
+EXPERIENCE: 
+Deep Learning Engineer Intern 
+May 2017-Aug 2017 
+Infore Technology 
+Ha Noi, Viet Nam 
+Project: Developed a large-scale Speech Recognition system using Tensorflow onVietnamese 
+speech data based on Deep Speech 2 architecture. 
+Deep Learning for Computer Vision Research Assistant 
+Sep 2017-March 2018 
+Dr Longin Jan Latecki, Temple University 
+Philadelphia, PA 
+Project: Measured Image Similarity based on regions and the similarity of each regions using 
+Siamese Fast-RCNN Network to detect Region of Interest. 
+Deep Learning for Security, Binary Analysis Research Assistant 
+May 2018- Present 
+Dr Qiang Zeng, Temple University 
+Philadelphia, PA 
+Project: Semantic Similarity Detection between Original and Obfuscated Binary Code using 
+Deep Learning 
+HONORS: 
+Temple University Dean’s List: Fall 2016 
+Temple University Dean’s List: Spring 2018 
+Temple University Dean’s Scholarship: Fall 2016 to present 

@@ -1,0 +1,64 @@
+NGUYEN HUU TRI 
+INFORMATION TECHNOLOGY  
+(+84) 0967005023 –   tri.nguyenhuu184@gmail.com 
+My name is Tri. I’m 24 years old. 
+I am a full stack developer with two years of experience working and studying in a startup company. 
+Hobbies: Listen to music, traveling, movie, coffee. 
+Salary expectation: 15 million/month. 
+E D U C A T I O N   
+H C M C  U n i v e r s i t y  o f  T e c h n o l o g y : Computer Science and Engineering 
++ Embedded Programming Techniques.  
++ Website Development and Application. 
++ Java, Android Programming Language. 
++ Computer Network. 
+C O L L E G E  I N F O R M A T I O N  T E C H N O L O G Y  I S P A C E  : Computer 
+Technology 
++ Basic Electronics. 
++ PC hardware and Windows OS. 
+E X P E R I E N C E   
+W E B S I T E : Course Assignment  
+Design a website: online clothing website. 
+A P P L I C A T I O N  J A V A : Course Assignment  
+Application Network : peer-to-peer file sharing in local network. 
+Application Network : audio streaming. 
+H A R D W A R E  &  F I R M W A R E : Course Assignment  
+Designing and programing electric circuits which are used to check 
+environment temperature (8051/ PIC32). 
+C O M B R O S  C o . ,  L t d  (  h t t p : / / c o m b r o s . v n )  ( 0 6 / 2 0 1 6  ~  0 6 / 2 0 1 7 ) :  
+AVIGO PROJECT ( http://avigo.com.vn/):  
+o API system (java). 
+o Backend (html, css, php, laravel, javascript, boostrap, jquery). 
+o Frontend (html, css, php, laravel, javascript, boostrap, jquery). 
+o Google API, Facebook API. 
+o PGSQL, MongoDB, Redis, PHP Memcache. 
+o Windows server (XAMPP, java environment, php environment). 
+ONU PROJECT ( http://onu.vn/):  
+o API system (java). 
+o Backend (html, css, php, laravel, javascript, boostrap, jquery). 
+o Frontend (html, css, php, laravel, javascript, boostrap, jquery). 
+o Google API, Facebook API. 
+o PGSQL, MongoDB, Redis, PHP Memcache. 
+o Windows server (XAMPP, java environment, php environment). 
+MEDICAL PROJECT ( http://intershop.com.vn/) :  
+o API system (java). 
+o Backend (html, css, php, laravel, javascript, boostrap, jquery). 
+o Frontend (html, css, php, laravel, javascript, boostrap, jquery).  
+o PGSQL, MongoDB, Redis, PHP Memcache. 
+o Windows server (XAMPP, java environment, php environment). 
+SEARCH ENGINE PROJECT:  
+o In this project, we collect all the information of websites and then 
+save it to our own database system, and begin to analyze it to suit 
+our needs.  
+o Backend (html, css, php, laravel, javascript, boostrap, jquery). 
+o Linux server (php environment). 
+MINI PROJECT: 
+o Research NodeJS.  
+IDE: JetBrains, Sublime text, notepad++. 
+S K I L L S  
+P r o f e s s i o n a l  S K I L L S :  
++ PHP/Laravel (80%). 
++ C/C++/ JAVA (70%). 
++ HTML/CSS/JAVASCRIPT/JQUERY/BOOSTRAP/WINDOWS SERVER (60%). 
++ PGSQL, Redis, NoSQL (50%). 
++ Photoshop, NodeJS (30%). 
++ Android (20%) 

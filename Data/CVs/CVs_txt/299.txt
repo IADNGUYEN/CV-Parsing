@@ -1,0 +1,58 @@
+LÊ MINH QUÂN 
+Email: firepaperbird@outlook.com 
+Mobile: (+84) 0937484142 
+Address: Tan Phu district, Ho Chi Minh city 
+Summary 
+I having studing Software Engineering at FPT University. Expected graduation date:  July 2019. 
+I’m honors and painstaking person. I will happy and stick with my colleagues. 
+I love to explore new thing. 
+My interests: 
+Learnning new technology, especially Artificial Intelligence. 
+Learn about company culture, and want to be part of company. 
+Sport: swimming, badminton.v.v 
+Cooking food. 
+TECHNICAL SKILLS 
+Programming languages: 
+Java Desktop App, Java Web App 
+HTML/CSS/JavaScript  
+C/C#.net 
+Frameworks/ Platforms: 
+Java Struts 2 
+Spring data, Spring Boot 
+Twitter Bootstrap 
+Database Management Systems: 
+MSSQL Server 
+MongoDB 
+Other 
+Photoshop, Lightroom, photographer 
+Git 
+Soft skills: 
+Fast Research and learn new programing languages. 
+Active person in group working. 
+Personal Information 
+Full Name: Lê Minh Quân 
+Birthday: December 1st 1996 
+Gender: Male 
+OBJECTIVE 
+Have a job in international company, and learn 
+more about cutting edge technology, and develop 
+my skill to be a full-stack developer. 
+Communicate by english well. 
+Very active and funny person in team building activities. 
+Time management 
+Use Agile and Scrum development process 
+Experience 
+Work at “XPO Third Party Integration Team” build Adwords service use Java, Spring Boot, Spring Data in Knorex 
+Vietnam (May – August 2018) 
+Build http://snkrkorea.com use WEB API (february,2018 ) 
+Link :    https://github.com/ngocnt1801/1qazxsw2 
+& https://github.com/firepaperbird/snkrkorean 
+Build a Web Application ( september 2017 ) 
+Link: https://github.com/firepaperbird/PRJ321_LeMinhQuan 
+Build a Desktop Application using java swing. This app allows chatting in LAN ( July 2017) 
+Link: https://github.com/firepaperbird/SocketChat 
+Used to be Manager of website: http://www.tanhiephung.com.vn (use joomla framework) ( 2016 ) 
+FPT University 
+Computer Software Engineering, 2015 – now 
+Current GPA 7.16 
+Activities and Societies: Fcode, SitiGroup(Volunteer Student Community) 

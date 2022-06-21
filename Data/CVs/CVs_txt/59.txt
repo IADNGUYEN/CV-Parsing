@@ -1,0 +1,138 @@
+ 
+Tinh Thi Vo 
+Senior Software Developer 
+SUMMARY 
+I have strong passion with advanced technology. 
+Having more than 7 years’ experience working with wide range of technology projects 
+software. 
+I have strong knowledge business logic and C++ 11.  
+Capable of working individually as well as working as a team to achieve given target. 
+Eager to try and learn new things, especially technology. Challenges seeker. 
+Friendly, responsible, self-motivated person. 
+TECHNICAL SKILLS 
+Programming Languages: C/C++, C#, Java. 
+Frameworks/ Platforms: .Net, ASP.NET MVC, Entity Framework 
+Database Management Systems: MS SQL Server, Oracle, Sybase, MySQL. 
+IDEs: MS Visual Studio, Eclipse. 
+Operating Systems: Windows, Linux 
+Foreign Languages: English 
+Soft Skills: self-motivated person, strong teamwork.  
+EDUCATION 
+VINH University 
+Engineer Degree 2004  2009 
+Software Engineer 
+PROFESSIONAL EXPERIENCE  
+Project:  
+Tinh Vo 
+Senior Software Developer 
+2/5 
+` 
+APG (07/2014 – Now) 
+Software Developer. 
+Project Description:  
+Create some tools on Java to migration to ensure that APG-HE system has two 
+servers on both versions Sybase and Mysql have same schema and data. 
+Responsibilities:  
+My responsibility on this projects that get requirements from project manager then 
+analyze, code and fix bug.   
+Technologies:   Java   MySQL DB and Sybase.   Eclipse Helios IDE. 
+DTSS conversion (08/2013 – 7/2014) 
+Software Developer. 
+Project Description:  
+This project migrates from Sybase to oracle for DTSS system. Project includes 
+multiple sub application. Purpose convert all statement Sybase to the oracle and 
+guarantee the system execute corrects as old and run with best performance. 
+Responsibilities:  
+My responsibility Get requirement then Conversion statement and code of Sybase 
+to oracle after conversion all  statement needed I must fix bug find out by tester 
+with purpose guarantee the system execute correctly as the old one and run with 
+best performance. 
+Technologies:   C/C++, Java and Web Service,   Oracle DB and Sybase.   Eclipse Helios IDE. 
+06/ 2012 02/2013 
+Web Calendar  
+Developer 
+Project Description: 
+The project is aimed to set timers to record your favorite program and time watching 
+program will boadcasting, create the action plan. 
+Responsibilities:  Learning the Frontend and Backend structures for SmartTV on customer-own 
+framework  Development the Frontend and Backend features for CloudTV app on Android 
+tablet and Iphone. 
+Tinh Vo 
+Senior Software Developer 
+3/5 
+`  I have create one web service “Calendar log import” by Java’s language, That 
+service stored all information broadcast in the last time and future of some channels 
+register by Toshiba Company. On that project I got object from Json’s file then parse 
+to some objects then interactive to database. I have created some procedure to 
+execute on the database to increase speed process.  On the front end I created some web page on HTML5, CSS JAVASCRIP, 
+All projects create on Eclipse Helios IDE Tool. 
+Technologies:  JAVA, HTML5, CSS and JAVASCRIP.  MYSQL.  Eclipse Helios IDE. 
+09/2011 to 05/2012 
+CIS 
+Developer. 
+Project Description:   
+Main objective is to develop a system for monitoring and managing project of an 
+architecture company. 
+Responsibilities:  
+On that project I used WPF create some screen of program, the WPF allows us 
+create web from, and web service create by WCF all of them belong MS Visual 
+Studio 2010. I must got database display on web page and modify data on web 
+page update to database the database used to SQL2008. 
+After finished code I should create test case and test. The test case created on 
+TestLink tool and Manage Test by JIRA. 
+Technologies: WPF,WCF, SQL server 
+Tools: MS Visual Studio 2010. 
+04/2011 to 08/2011 
+Accounting Software  
+Developer 
+Project Description:   
+Main objective is to create financial management software of a company. 
+Responsibilities:  
+Create a part of project that includes GUI and DAO. On that project I used Win form 
+to design GUI and create functions were active directly between user and database. 
+The database used in the project is SQL2008. 
+Technologies:   
+C#. 
+SQL 2008. 
+Tinh Vo 
+Senior Software Developer 
+4/5 
+` 
+MS Visual Studio 2010 
+11/2010 to 03/2011 
+DLNA, USD. 
+Developer 
+Project Description:   
+Main objective is defines a standard for moving movies, photos, music and other  
+media from device to device.  
+Responsibilities:  
+My responsibility design GUI on Flash’s language and creates some functions                  
+Interactive directly on hardware by C++ then connects GUI and Hardware by Action             
+Script. 
+Technologies:  C/C++ on Linux OS, Action Script 2.0 and Flash CS4 
+03/2010 to 09/2011 
+*Update HDPlayer. 
+Project Description:   
+Update some tool for project HDPlayer. 
+Responsibilities:  
+I have deigned YouTube Application as OTT on Flash CS4 Language and add 
+created functions to get multi Languages for Language setting to execute those 
+must define C++ functions. To call to hardware, after that used Action Script to 
+connect Flash and C++.Using Linux command to build program. 
+I have Fixed some bugs on some functions belong HDPlayer. 
+Technologies:  C/C++ on Linux OS, Action Script 2.0 and Flash CS4. 
+06/2009 to 02/2010 
+Project HDMediaPlayer. 
+Project Description:  
+Develop Application on HDMEDIAPLAYER of SMP8652, platform.  
+The main objective of the job is to develop upgrade version and maintain code. 
+Responsibilities:  I have created some functions to connect to hardware to execute some                     
+functional as Sata Hot Plus and Support multi audio on television by C++ langue. To 
+execute one of function above. It should has a GUI designed by Flash and generation 
+between flash and C++ that is action script. 
+Linux has function builder tool kit to execute program. 
+Technologies:  C/C++ on Linux OS, Action Script 2.0 and Flash CS4. 
+Tinh Vo 
+Senior Software Developer 
+5/5 
+` 

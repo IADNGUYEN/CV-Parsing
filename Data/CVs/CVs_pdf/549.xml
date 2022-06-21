@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="30" family="Arial" color="#000000"/>
+	<fontspec id="1" size="14" family="Arial" color="#000000"/>
+	<fontspec id="2" size="14" family="Arial,Italic" color="#000000"/>
+	<fontspec id="3" size="16" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="4" size="14" family="Times New Roman" color="#000000"/>
+	<fontspec id="5" size="22" family="Arial,Bold" color="#000000"/>
+	<fontspec id="6" size="21" family="Arial,Bold" color="#000000"/>
+	<fontspec id="7" size="18" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="8" size="14" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="9" size="14" family="Arial,Bold" color="#000000"/>
+	<fontspec id="10" size="18" family="Arial" color="#000000"/>
+	<fontspec id="11" size="14" family="Arial" color="#0000ff"/>
+	<fontspec id="12" size="14" family="Arial,BoldItalic" color="#000000"/>
+	<fontspec id="13" size="39" family="ABCDEE+Verdana,Bold" color="#000000"/>
+	<fontspec id="14" size="39" family="Arial,Bold" color="#000000"/>
+<text top="98" left="135" width="8" height="28" font="0"> </text>
+<text top="143" left="135" width="8" height="28" font="0"> </text>
+<text top="182" left="135" width="127" height="14" font="1">Position applied for</text>
+<text top="182" left="262" width="4" height="14" font="2"><i>:</i></text>
+<text top="181" left="267" width="17" height="15" font="3"><b>__</b></text>
+<text top="182" left="283" width="7" height="13" font="4">_</text>
+<text top="176" left="291" width="161" height="21" font="5"><b>Developer PHP</b></text>
+<text top="182" left="452" width="30" height="13" font="4">____</text>
+<text top="177" left="482" width="6" height="20" font="6"><b> </b></text>
+<text top="214" left="135" width="96" height="14" font="1">Working time: </text>
+<text top="208" left="243" width="16" height="20" font="7"></text>
+<text top="214" left="259" width="61" height="14" font="1">Full time </text>
+<text top="214" left="351" width="4" height="14" font="1"> </text>
+<text top="211" left="405" width="13" height="16" font="8"></text>
+<text top="214" left="418" width="64" height="14" font="1">Part time </text>
+<text top="242" left="135" width="4" height="14" font="1"> </text>
+<text top="345" left="357" width="243" height="14" font="9"><b>       PERSONAL INFORMATION     </b></text>
+<text top="368" left="135" width="70" height="14" font="1">Full name:</text>
+<text top="366" left="205" width="5" height="17" font="10"> </text>
+<text top="385" left="135" width="91" height="14" font="1">(incl. diacritic)</text>
+<text top="383" left="226" width="15" height="17" font="10">   </text>
+<text top="382" left="242" width="116" height="17" font="9"><b>Trần Nam Trung</b></text>
+<text top="385" left="357" width="4" height="14" font="1"> </text>
+<text top="365" left="546" width="13" height="16" font="8"></text>
+<text top="368" left="560" width="37" height="14" font="1">Male </text>
+<text top="382" left="546" width="13" height="16" font="8"></text>
+<text top="385" left="560" width="54" height="14" font="1">Female </text>
+<text top="538" left="816" width="4" height="14" font="1"> </text>
+<text top="563" left="749" width="4" height="14" font="1"> </text>
+<text top="414" left="135" width="86" height="14" font="1">Date of birth:</text>
+<text top="412" left="221" width="10" height="17" font="10">  </text>
+<text top="414" left="231" width="75" height="14" font="9"><b>08/04/1991</b></text>
+<text top="414" left="306" width="4" height="14" font="1"> </text>
+<text top="443" left="135" width="59" height="14" font="1">Address:</text>
+<text top="443" left="194" width="8" height="14" font="9"><b>  </b></text>
+<text top="440" left="203" width="249" height="17" font="9"><b>Ấp 4, La Ngà, Định Quán, Đồng Nai</b></text>
+<text top="443" left="452" width="4" height="14" font="1"> </text>
+<text top="471" left="135" width="47" height="14" font="1">Phone:</text>
+<text top="469" left="182" width="5" height="17" font="10"> </text>
+<text top="471" left="187" width="104" height="14" font="9"><b>0166 46 46 018</b></text>
+<text top="471" left="292" width="4" height="14" font="1"> </text>
+<text top="500" left="135" width="42" height="14" font="1">Email:</text>
+<text top="498" left="176" width="5" height="17" font="10"> </text>
+<text top="500" left="181" width="183" height="14" font="9"><b>namtrung804@gmail.com</b></text>
+<text top="500" left="365" width="4" height="14" font="1"> </text>
+<text top="529" left="135" width="62" height="14" font="1">Website<a href="http://www.namtrung-cv.zz.mu/">: </a></text>
+<text top="529" left="197" width="206" height="14" font="11"><a href="http://www.namtrung-cv.zz.mu/">http://www.namtrung-cv.zz.mu/</a></text>
+<text top="529" left="403" width="22" height="14" font="1"><a href="http://www.namtrung-cv.zz.mu/"> </a><a href="http://bit.ly/1kSFvob">or </a></text>
+<text top="529" left="425" width="132" height="14" font="11"><a href="http://bit.ly/1kSFvob">http://bit.ly/1kSFvob</a></text>
+<text top="529" left="557" width="4" height="14" font="1"><a href="http://bit.ly/1kSFvob"> </a></text>
+<text top="562" left="135" width="50" height="14" font="1">Skype: </text>
+<text top="562" left="185" width="94" height="14" font="9"><b>namtrung804</b></text>
+<text top="562" left="279" width="4" height="14" font="1"> </text>
+<text top="657" left="369" width="203" height="14" font="9"><b>       CAREER OBJECTIVE     </b></text>
+<text top="707" left="135" width="672" height="17" font="10">Improve  knowledge, learn  a lot of information,  technology that  was previously very </text>
+<text top="738" left="135" width="672" height="17" font="10">little to  work through. We  hope  to work  in  a modern  environment, healthy </text>
+<text top="769" left="135" width="672" height="17" font="10">competition and opportunities for advancement. Seeking an opportunity to work as </text>
+<text top="800" left="135" width="672" height="17" font="10">a functional developer towards professional growth and development in a renowned </text>
+<text top="831" left="135" width="103" height="17" font="10">organization.</text>
+<text top="834" left="238" width="4" height="14" font="9"><b> </b></text>
+<text top="862" left="401" width="139" height="14" font="9"><b>       EDUCATION     </b></text>
+<text top="895" left="216" width="73" height="14" font="9"><b>University</b></text>
+<text top="895" left="289" width="4" height="14" font="1"> </text>
+<text top="895" left="424" width="83" height="14" font="9"><b>Department</b></text>
+<text top="895" left="507" width="4" height="14" font="1"> </text>
+<text top="895" left="567" width="115" height="14" font="9"><b>Graduation year</b></text>
+<text top="895" left="682" width="4" height="14" font="1"> </text>
+<text top="895" left="731" width="43" height="14" font="9"><b>Grade</b></text>
+<text top="895" left="774" width="4" height="14" font="1"> </text>
+<text top="933" left="163" width="182" height="14" font="9"><b>University of Information </b></text>
+<text top="959" left="210" width="88" height="14" font="9"><b>Technology </b></text>
+<text top="933" left="396" width="144" height="14" font="9"><b>Information System </b></text>
+<text top="933" left="601" width="46" height="14" font="9"><b>6/2014</b></text>
+<text top="933" left="647" width="4" height="14" font="12"><i><b> </b></i></text>
+<text top="933" left="752" width="4" height="14" font="12"><i><b> </b></i></text>
+<text top="96" left="281" width="326" height="47" font="13"><b>Developer PHP</b></text>
+<text top="108" left="606" width="11" height="36" font="14"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="15" size="12" family="Arial" color="#000000"/>
+	<fontspec id="16" size="12" family="Arial,Italic" color="#000000"/>
+<text top="185" left="108" width="4" height="14" font="1"> </text>
+<text top="213" left="108" width="4" height="14" font="1"> </text>
+<text top="240" left="419" width="57" height="14" font="9"><b>SKILLS </b></text>
+<text top="294" left="267" width="43" height="14" font="9"><b>Skills </b></text>
+<text top="288" left="487" width="138" height="14" font="9"><b>Year of experience </b></text>
+<text top="263" left="695" width="41" height="14" font="9"><b>Rank </b></text>
+<text top="282" left="653" width="120" height="11" font="15">(1_begining, 5_expert)</text>
+<text top="280" left="773" width="4" height="14" font="1"> </text>
+<text top="299" left="666" width="98" height="11" font="15">Please circle one/ </text>
+<text top="314" left="643" width="4" height="14" font="9"><b> </b></text>
+<text top="342" left="108" width="185" height="14" font="9"><b>Programming Languages </b></text>
+<text top="371" left="108" width="67" height="14" font="9"><b>Database</b></text>
+<text top="371" left="175" width="4" height="14" font="12"><i><b> </b></i></text>
+<text top="371" left="278" width="58" height="14" font="1">My SQL </text>
+<text top="371" left="543" width="25" height="14" font="1">2.5 </text>
+<text top="371" left="665" width="83" height="14" font="1">1   2   3   4   </text>
+<text top="369" left="749" width="12" height="16" font="8"></text>
+<text top="371" left="760" width="4" height="14" font="1"> </text>
+<text top="400" left="278" width="71" height="14" font="1">MongoDB </text>
+<text top="400" left="543" width="25" height="14" font="1">0.5 </text>
+<text top="400" left="670" width="17" height="14" font="1">1  </text>
+<text top="398" left="686" width="12" height="16" font="8"></text>
+<text top="400" left="698" width="63" height="14" font="1">   3   4  5 </text>
+<text top="429" left="108" width="84" height="14" font="9"><b>Framework </b></text>
+<text top="458" left="108" width="4" height="14" font="1"> </text>
+<text top="458" left="278" width="58" height="14" font="1">Phalcon </text>
+<text top="458" left="543" width="25" height="14" font="1">1.5 </text>
+<text top="458" left="667" width="79" height="14" font="1">1   2   3  4   </text>
+<text top="455" left="747" width="12" height="16" font="8"></text>
+<text top="458" left="758" width="4" height="14" font="1"> </text>
+<text top="487" left="108" width="4" height="14" font="1"> </text>
+<text top="487" left="278" width="130" height="14" font="1">Zend Framework 2 </text>
+<text top="487" left="549" width="12" height="14" font="1">1 </text>
+<text top="487" left="667" width="79" height="14" font="1">1   2   3  4   </text>
+<text top="484" left="747" width="12" height="16" font="8"></text>
+<text top="487" left="758" width="4" height="14" font="1"> </text>
+<text top="515" left="108" width="4" height="14" font="1"> </text>
+<text top="515" left="278" width="66" height="14" font="1">Opencart </text>
+<text top="515" left="549" width="12" height="14" font="1">1 </text>
+<text top="515" left="672" width="58" height="14" font="1">1   2   3  </text>
+<text top="513" left="730" width="12" height="16" font="8"></text>
+<text top="515" left="742" width="17" height="14" font="1"> 5 </text>
+<text top="544" left="108" width="69" height="14" font="9"><b>Frontend </b></text>
+<text top="573" left="108" width="4" height="14" font="1"> </text>
+<text top="573" left="278" width="97" height="14" font="1">HTML5/CSS3 </text>
+<text top="573" left="543" width="25" height="14" font="1">2.5 </text>
+<text top="573" left="670" width="75" height="14" font="1">1   2   3  4  </text>
+<text top="570" left="744" width="12" height="16" font="8"></text>
+<text top="573" left="756" width="4" height="14" font="1"> </text>
+<text top="602" left="108" width="4" height="14" font="1"> </text>
+<text top="602" left="278" width="118" height="14" font="1">Responsive Web </text>
+<text top="602" left="543" width="25" height="14" font="1">2.5 </text>
+<text top="602" left="672" width="58" height="14" font="1">1   2   3  </text>
+<text top="599" left="730" width="12" height="16" font="8"></text>
+<text top="602" left="742" width="17" height="14" font="1"> 5 </text>
+<text top="631" left="108" width="4" height="14" font="1"> </text>
+<text top="631" left="278" width="121" height="14" font="1">Jquery/Javascript </text>
+<text top="631" left="543" width="25" height="14" font="1">2.5 </text>
+<text top="631" left="670" width="75" height="14" font="1">1   2   3  4  </text>
+<text top="628" left="744" width="12" height="16" font="8"></text>
+<text top="631" left="756" width="4" height="14" font="1"> </text>
+<text top="659" left="108" width="53" height="14" font="9"><b>Others </b></text>
+<text top="688" left="108" width="4" height="14" font="1"> </text>
+<text top="688" left="278" width="78" height="14" font="1">Memcache </text>
+<text top="688" left="549" width="12" height="14" font="1">2 </text>
+<text top="688" left="665" width="83" height="14" font="1">1   2   3   4   </text>
+<text top="686" left="749" width="12" height="16" font="8"></text>
+<text top="688" left="760" width="4" height="14" font="1"> </text>
+<text top="717" left="108" width="4" height="14" font="1"> </text>
+<text top="717" left="278" width="57" height="14" font="1">Session </text>
+<text top="717" left="549" width="12" height="14" font="1">2 </text>
+<text top="717" left="672" width="58" height="14" font="1">1   2   3  </text>
+<text top="714" left="730" width="12" height="16" font="8"></text>
+<text top="717" left="742" width="17" height="14" font="1"> 5 </text>
+<text top="746" left="108" width="4" height="14" font="1"> </text>
+<text top="746" left="278" width="46" height="14" font="1">SOAP </text>
+<text top="746" left="549" width="12" height="14" font="1">2 </text>
+<text top="746" left="672" width="58" height="14" font="1">1   2   3  </text>
+<text top="743" left="730" width="12" height="16" font="8"></text>
+<text top="746" left="742" width="17" height="14" font="1"> 5 </text>
+<text top="775" left="108" width="4" height="14" font="1"> </text>
+<text top="775" left="278" width="44" height="14" font="1">REST </text>
+<text top="775" left="549" width="12" height="14" font="1">2 </text>
+<text top="775" left="665" width="83" height="14" font="1">1   2   3   4   </text>
+<text top="772" left="749" width="12" height="16" font="8"></text>
+<text top="775" left="760" width="4" height="14" font="1"> </text>
+<text top="804" left="108" width="4" height="14" font="1"> </text>
+<text top="804" left="278" width="132" height="14" font="1">Git and Subversion </text>
+<text top="804" left="543" width="25" height="14" font="1">1.5 </text>
+<text top="804" left="665" width="83" height="14" font="1">1   2   3   4   </text>
+<text top="801" left="749" width="12" height="16" font="8"></text>
+<text top="804" left="760" width="4" height="14" font="1"> </text>
+<text top="832" left="108" width="4" height="14" font="1"> </text>
+<text top="832" left="278" width="55" height="14" font="1">Apache </text>
+<text top="832" left="543" width="25" height="14" font="1">2.5 </text>
+<text top="832" left="665" width="83" height="14" font="1">1   2   3   4   </text>
+<text top="830" left="749" width="12" height="16" font="8"></text>
+<text top="832" left="760" width="4" height="14" font="1"> </text>
+<text top="861" left="108" width="4" height="14" font="1"> </text>
+<text top="861" left="278" width="44" height="14" font="1">UI/UX </text>
+<text top="861" left="554" width="4" height="14" font="1"> </text>
+<text top="861" left="672" width="58" height="14" font="1">1   2   3  </text>
+<text top="858" left="730" width="12" height="16" font="8"></text>
+<text top="861" left="742" width="17" height="14" font="1"> 5 </text>
+<text top="890" left="108" width="4" height="14" font="1"> </text>
+<text top="890" left="278" width="146" height="14" font="1">Service Google / App </text>
+<text top="907" left="278" width="70" height="14" font="1">Facebook </text>
+<text top="890" left="543" width="25" height="14" font="1">1.5 </text>
+<text top="890" left="665" width="83" height="14" font="1">1   2   3   4   </text>
+<text top="887" left="749" width="12" height="16" font="8"></text>
+<text top="890" left="760" width="4" height="14" font="1"> </text>
+<text top="936" left="108" width="4" height="14" font="1"> </text>
+<text top="936" left="278" width="78" height="14" font="1">Websocket </text>
+<text top="936" left="543" width="25" height="14" font="1">0.5 </text>
+<text top="936" left="665" width="42" height="14" font="1">1   2   </text>
+<text top="933" left="707" width="12" height="16" font="8"></text>
+<text top="936" left="719" width="46" height="14" font="1">   4   5 </text>
+<text top="965" left="108" width="4" height="14" font="1"> </text>
+<text top="965" left="278" width="128" height="14" font="1">Extension Chrome </text>
+<text top="965" left="549" width="12" height="14" font="1">1 </text>
+<text top="965" left="672" width="58" height="14" font="1">1   2   3  </text>
+<text top="962" left="730" width="12" height="16" font="8"></text>
+<text top="965" left="742" width="17" height="14" font="1"> 5 </text>
+<text top="993" left="108" width="4" height="14" font="1"> </text>
+<text top="993" left="278" width="85" height="14" font="1">Scrum Agile </text>
+<text top="993" left="549" width="12" height="14" font="1">1 </text>
+<text top="993" left="665" width="42" height="14" font="1">1   2   </text>
+<text top="991" left="707" width="12" height="16" font="8"></text>
+<text top="993" left="719" width="46" height="14" font="1">   4   5 </text>
+<text top="1022" left="108" width="4" height="14" font="1"> </text>
+<text top="1050" left="108" width="4" height="14" font="1"> </text>
+<text top="1078" left="108" width="4" height="14" font="1"> </text>
+<text top="1106" left="108" width="4" height="14" font="1"> </text>
+<text top="1135" left="108" width="4" height="14" font="1"> </text>
+<text top="93" left="345" width="17" height="11" font="15">     </text>
+<text top="91" left="365" width="177" height="14" font="9"><b> FOREIGN LANGUAGES </b></text>
+<text top="113" left="303" width="91" height="11" font="15">Please circle one</text>
+<text top="113" left="395" width="3" height="11" font="16"><i>t</i></text>
+<text top="113" left="398" width="82" height="11" font="15">:   1_beginning </text>
+<text top="113" left="519" width="63" height="11" font="15">5_expert     </text>
+<text top="128" left="132" width="138" height="14" font="9"><b>Foreign languages </b></text>
+<text top="128" left="324" width="71" height="14" font="9"><b>Listening </b></text>
+<text top="128" left="446" width="66" height="14" font="9"><b>Speaking</b></text>
+<text top="128" left="513" width="4" height="14" font="12"><i><b> </b></i></text>
+<text top="128" left="571" width="59" height="14" font="9"><b>Reading</b></text>
+<text top="128" left="631" width="4" height="14" font="12"><i><b> </b></i></text>
+<text top="128" left="697" width="52" height="14" font="9"><b>Writing</b></text>
+<text top="128" left="748" width="4" height="14" font="12"><i><b> </b></i></text>
+<text top="157" left="108" width="53" height="14" font="1">English </text>
+<text top="157" left="310" width="42" height="14" font="1">1   2   </text>
+<text top="154" left="352" width="12" height="16" font="8"></text>
+<text top="157" left="363" width="46" height="14" font="1">   4   5 </text>
+<text top="157" left="432" width="42" height="14" font="1">1   2   </text>
+<text top="154" left="473" width="12" height="16" font="8"></text>
+<text top="157" left="485" width="46" height="14" font="1">   4   5 </text>
+<text top="157" left="553" width="62" height="14" font="1">1   2   3   </text>
+<text top="154" left="616" width="12" height="16" font="8"></text>
+<text top="157" left="627" width="25" height="14" font="1">   5 </text>
+<text top="157" left="675" width="42" height="14" font="1">1   2   </text>
+<text top="154" left="716" width="12" height="16" font="8"></text>
+<text top="157" left="728" width="46" height="14" font="1">   4   5 </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="17" size="16" family="Arial,Bold" color="#000000"/>
+	<fontspec id="18" size="21" family="Arial,Bold" color="#ffffff"/>
+	<fontspec id="19" size="18" family="Arial" color="#7c868f"/>
+	<fontspec id="20" size="18" family="ABCDEE+Georgia" color="#7c868f"/>
+<text top="123" left="390" width="125" height="15" font="17"><b> EXPERIENCE   </b></text>
+<text top="124" left="515" width="4" height="14" font="9"><b> </b></text>
+<text top="164" left="327" width="244" height="19" font="18"><b>Company: YSDesigning </b></text>
+<text top="211" left="108" width="482" height="14" font="1">Address: Jurong West Street 61, block 565C, #4-010, Singapore 642656</text>
+<text top="211" left="590" width="4" height="14" font="2"><i> </i></text>
+<text top="239" left="108" width="85" height="14" font="1">Starting date</text>
+<text top="239" left="193" width="4" height="14" font="2"><i>:</i></text>
+<text top="239" left="197" width="67" height="14" font="1">  02/2014 </text>
+<text top="267" left="108" width="93" height="14" font="1">Finishing date</text>
+<text top="267" left="201" width="4" height="14" font="2"><i>:</i></text>
+<text top="267" left="205" width="63" height="14" font="1"> 05/2014 </text>
+<text top="239" left="454" width="121" height="14" font="1">Job descriptions:  </text>
+<text top="267" left="458" width="9" height="14" font="1">- </text>
+<text top="267" left="485" width="197" height="14" font="1">Convert PSD to HTML, CSS. </text>
+<text top="285" left="458" width="9" height="14" font="1">- </text>
+<text top="285" left="485" width="122" height="14" font="1">Responsive Web. </text>
+<text top="302" left="458" width="9" height="14" font="1">- </text>
+<text top="302" left="485" width="302" height="14" font="1">Code  Web  use  CMS:Opencart,  Prestashop </text>
+<text top="319" left="485" width="86" height="14" font="1">and Joomla. </text>
+<text top="296" left="108" width="173" height="14" font="1">Position:  PHP Developer </text>
+<text top="325" left="108" width="98" height="14" font="1">Role: Member </text>
+<text top="354" left="108" width="4" height="14" font="2"><i> </i></text>
+<text top="392" left="108" width="4" height="14" font="1"> </text>
+<text top="420" left="325" width="239" height="19" font="18"><b>Company: Young World</b></text>
+<text top="424" left="564" width="4" height="14" font="9"><b> </b></text>
+<text top="459" left="108" width="402" height="14" font="1">Address: 1017/23 Lac Long Quan, Tan Binh district , HCMC </text>
+<text top="501" left="108" width="85" height="14" font="1">Starting date</text>
+<text top="501" left="193" width="4" height="14" font="2"><i>:</i></text>
+<text top="501" left="197" width="67" height="14" font="1">  06/2014 </text>
+<text top="529" left="108" width="82" height="14" font="1">Curent date </text>
+<text top="501" left="452" width="121" height="14" font="1">Job descriptions:  </text>
+<text top="533" left="457" width="9" height="14" font="1">- </text>
+<text top="533" left="484" width="209" height="14" font="1">Zend and Phalcon Framework  </text>
+<text top="564" left="457" width="9" height="14" font="1">- </text>
+<text top="564" left="484" width="299" height="14" font="1">Developer Marketing (Home , Landingpage , </text>
+<text top="596" left="484" width="73" height="14" font="1">Teaser,..)  </text>
+<text top="627" left="457" width="9" height="14" font="1">- </text>
+<text top="627" left="484" width="242" height="14" font="1">API connect game ( API play game, </text>
+<text top="659" left="484" width="215" height="14" font="1">payment , get info, add item,...)  </text>
+<text top="690" left="457" width="9" height="14" font="1">- </text>
+<text top="690" left="484" width="266" height="14" font="1">API Facebook , API Google , Extension </text>
+<text top="722" left="484" width="74" height="14" font="1">Chrome,... </text>
+<text top="719" left="558" width="12" height="17" font="1">– </text>
+<text top="753" left="457" width="9" height="14" font="1">- </text>
+<text top="753" left="484" width="266" height="14" font="1">Events Game (Holiday, noel, promotion </text>
+<text top="785" left="484" width="68" height="14" font="1">game,...)- </text>
+<text top="814" left="457" width="11" height="17" font="19">- </text>
+<text top="816" left="484" width="159" height="14" font="1">Scrum Agile framework </text>
+<text top="811" left="643" width="4" height="20" font="20"> </text>
+<text top="558" left="108" width="173" height="14" font="1">Position:  PHP Developer </text>
+<text top="588" left="108" width="39" height="14" font="1">Role: </text>
+<text top="587" left="147" width="98" height="15" font="17"><b>Key Member</b></text>
+<text top="588" left="245" width="4" height="14" font="1"> </text>
+<text top="845" left="108" width="4" height="14" font="2"><i> </i></text>
+<text top="877" left="108" width="4" height="14" font="1"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="21" size="54" family="ABCDEE+Freestyle Script" color="#000000"/>
+	<fontspec id="22" size="13" family="ABCDEE+Freestyle Script" color="#000000"/>
+	<fontspec id="23" size="18" family="Arial,Bold" color="#000000"/>
+	<fontspec id="24" size="18" family="Arial" color="#0000ff"/>
+<text top="530" left="108" width="4" height="14" font="9"><b> </b></text>
+<text top="558" left="108" width="4" height="14" font="9"><b> </b></text>
+<text top="586" left="108" width="4" height="14" font="9"><b> </b></text>
+<text top="612" left="385" width="140" height="14" font="9"><b>     REFERENCES    </b></text>
+<text top="645" left="108" width="681" height="14" font="1">If  you  are  recruited,  when  can  you  start  your  work?____when  there  is agreement  with </text>
+<text top="662" left="108" width="394" height="14" font="1">the company on assigned work______________________ </text>
+<text top="690" left="108" width="107" height="14" font="1">Salary expected</text>
+<text top="690" left="215" width="4" height="14" font="2"><i>:</i></text>
+<text top="690" left="220" width="135" height="14" font="1">_______agreement </text>
+<text top="718" left="162" width="71" height="14" font="1">Negotiable</text>
+<text top="718" left="234" width="8" height="14" font="2"><i>?</i></text>
+<text top="718" left="242" width="4" height="14" font="1"> </text>
+<text top="718" left="270" width="4" height="14" font="1"> </text>
+<text top="716" left="324" width="13" height="16" font="8"></text>
+<text top="718" left="337" width="45" height="14" font="1">   Yes  </text>
+<text top="716" left="432" width="13" height="16" font="8"></text>
+<text top="718" left="445" width="36" height="14" font="1">   No </text>
+<text top="746" left="162" width="4" height="14" font="1"> </text>
+<text top="771" left="162" width="148" height="63" font="21">Namtrung </text>
+<text top="846" left="162" width="3" height="16" font="22"> </text>
+<text top="876" left="108" width="54" height="14" font="1">______ </text>
+<text top="873" left="162" width="120" height="17" font="9"><b>Trần Nam Trung </b></text>
+<text top="876" left="282" width="150" height="14" font="1">________                    </text>
+<text top="904" left="108" width="4" height="14" font="1"> </text>
+<text top="904" left="162" width="4" height="14" font="1"> </text>
+<text top="904" left="216" width="4" height="14" font="1"> </text>
+<text top="904" left="270" width="4" height="14" font="1"> </text>
+<text top="922" left="108" width="5" height="17" font="10"> </text>
+<text top="130" left="393" width="110" height="17" font="23"><b>PORTFOLIO </b></text>
+<text top="167" left="108" width="106" height="17" font="10">Welcome  to </text>
+<text top="167" left="220" width="247" height="17" font="24"><a href="http://www.namtrung-cv.zz.mu/">http://www.namtrung-cv.zz.mu/</a></text>
+<text top="167" left="467" width="32" height="17" font="10"><a href="http://www.namtrung-cv.zz.mu/">  </a>or </text>
+<text top="167" left="505" width="158" height="17" font="24"><a href="http://bit.ly/1kSFvob">http://bit.ly/1kSFvob</a></text>
+<text top="167" left="663" width="125" height="17" font="10"><a href="http://bit.ly/1kSFvob">  </a>.  This  is  my </text>
+<text top="198" left="108" width="619" height="17" font="10">portfolio website. Here, you can find more information about me. Thanks you. </text>
+<text top="240" left="108" width="4" height="14" font="1"> </text>
+<text top="387" left="108" width="4" height="14" font="2"><i> </i></text>
+<text top="423" left="386" width="123" height="14" font="9"><b>       HOBBIES      </b></text>
+<text top="456" left="108" width="679" height="14" font="9"><b>Soccer,  Chess,  Singing,  Music,  Picnic,  and  Read  Detective  Stories,  Communicate  with </b></text>
+<text top="473" left="108" width="92" height="14" font="9"><b>everybody... </b></text>
+<text top="501" left="108" width="4" height="14" font="9"><b> </b></text>
+</page>
+</pdf2xml>

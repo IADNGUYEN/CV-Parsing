@@ -1,0 +1,42 @@
+NGUYEN LE QUAN
+AI researcher
+Mobile: 0904668825
+Email: quannl71290@gmail.com
+Ho Chi Minh city
+Linkedin: https://www.linkedin.com/in/le-quan-nguyen
+SUMMARY
+A computer vision engineer with hand-on experience in using both traditional and deep learning methods to solve CV
+problems. 
+SKILLS
+Programming language: Python
+Computer Vision: OpenCV
+Deep Learning: Keras, Pytorch
+PROJECTS
+Facical Keypoint Detection: An end-to-end pipeline to detect 15 keypoints on human face using Haar cascade (to
+detect face) and deep learning (to find keypoints locations). The Kaggle’s “facial keypoint detection challenge” dataset
+is used for training and validating the keypoint detector.
+Github repo: https://github.com/NinV/AIND/tree/master/term_2/AIND-CV-FacialKeypoints/
+Dog Breeds Classification: Solving a fine grain classification task using transfer learning. 
+Github repo: https://github.com/NinV/AIND/tree/master/term_2/dog-project
+Image captioning: A combination task of computer vision (CV) and natural language processing (NLP). The method
+using in this project is based on the encoder-decoder model often used in machine translation task. The encoder is a
+pre-trained RESNET50 to extract feature vectors then feed it to an LSTM network to produce captions.
+Github repo: https://github.com/NinV/P2_image_captioning.git
+PROFESSIONAL EXPERIENCE
+Quality Control Engineer at Tien Tuan Pharmaceutical Machinery Ltd, Ho Chi Minh city
+September 2014 – March 2018
+Carrying out unit testing on equipment’s control system and general mechanical inspection testing.
+Assessing operational safety according to Machinery Directive (2006/42/EC) and its harmonized standards.
+Carrying out integrated testing to assess equipment performance and detect product defects then working 
+with other teams to resolve problem.
+EDUCATION
+Computer Vision Nanodegree, Udacity
+2018 – 2018
+Artificial Intelligence Nanodegree, Udacity
+2017 – 2018
+Deep Learning Foundation Nanodegree, Udacity
+2017 – 2017
+PyImageSearch Gurus Graduate, PyImageSearch
+2016 – 2017
+Bachelor of Engineering in Food technology, Hanoi University of Science and Technology
+2008 – 2014

@@ -1,0 +1,106 @@
+ 
+ABOUT ME 
+Learn and practice to take 
+advantages of communication 
+English 
+skills 
+as 
+well 
+as 
+understanding of IT to become a 
+professional developer & to be 
+co-developers, 
+contributing 
+ideas for your company.  
+SKILLS 
+WORK 
+RDBMS 
+T-SQL 
+Reporting 
+.Net 
+APIs 
+No-SQL 
+PERSONAL 
+Presentation 
+Teamwork 
+Problem-Solving  
+Strategy 
+Organization 
+LANGUAGES 
+English 
+TOEIC certificate with score 
+725 issued by PTITHCM. 
+NAM TONG DUY 
+D a t a b a s e  A d m i n i s t r a t o r  
+Date of birth: 1994/12/04 
+Phone: (+84) 0986903744 
+Address: Ho Chi Minh City, Vietnam  
+Email:  tongduynam1994@gmail.com 
+Website: fb.com/nam.tong.0412 
+OBJECTIVE 
+(Next 3 years)  
+Become MS SQL Server database administrator with 3+ years experiences 
+in building enterprise system.  
+Oracle database administrator with 1+ year experiences.  
+No-SQL developer with python language. 
+EDUCATION 
+(2013-2017) 
+BACHELOR OF IT 
+Posts and Telecommunications Institute of Technology  
+Major: Information System with GPA: 2.5/4.0  
+I had taken projects related to C/C++ (data structures and algorithms), C# 
+with SQL Server distribution, dev express, front end and ASP.Net backend, 
+Entity framework, web services with restful APIs, Ecommerce.  
+HONORS & AWARDS 
+(2013)  
+Second prize Olympic national student math 21st in Duy Tan University 
+Da  Nang 2013.  
+Reference link: youtube.com/watch?v=OyCbpnXC5aE 
+WORKING SKILLS  
+Working with large database, bigdata, ERP  
+Working on project with .Net 4.5, Asp.Net MVC 5, Restful APIs  
+Working with Power BI, Business analyst, Queries reporting  
+Working on project Recommendation, Data Science  
+Working on Television application for mobile devices. 
+HOBBIES  
+Travel, badminton, coffee with my friends, movement and volunteering. 
+WORK EXPERIENCES 
+(March 2018  Present) 
+DATABASE ADMINISTRATOR 
+FPT Telecom  
+Optimize and maintain SQL Server database with more than 2 million customers.  
+Operating database Always-On, Replication.  
+Create and maintain log system in database warehouse  
+Create queries to returning data for API developer team with high performance  
+Working with CMS developer team & Design database to build tools for content user modify data  
+Create store procedure for report using T-SQL (CTE, sub queries …)  
+Create and recovering Index for table on performance queries.  
+Importing and exporting large data, migrate database.  
+Maintain SQL Agent job and replication.  
+Control server roles and database roles for server logins, database users. 
+(Sep 2017 – Feb 2018) 
+.NET DEVELOPER 
+Marina Landscape Group  
+Design Pattern with .NET (MVC, MVVM, Repository, UnitOfWork)  
+Building front-end with Java-script, AJAX, Jquery  
+Database mapping with Entity Framework, LinQ queries.  
+Create CMS for end user by Asp.Net MVC 
+(May 2017 – Aug 2017) 
+IT FRESHER 
+A2VN Company  
+Queries with T-SQL Database  
+Using SSIS to perform ETL processes  
+Learn business analyst ERP System  
+Working with SAP reports  
+Coding VB.Net, Winform Application.  
+Daily backup and restore database, migrate database. 
+(Mar 2017 – Apr 2017) 
+IT INTERNSHIP 
+BKH Software company  
+I had research .NET core, MVC6 Technology  
+Knowledge about networking and windows server 
+WORRKING SPRITE  
+I’d like eager to learn, good team working and seriously with job. High responsibility for work, have accuracy while 
+solving problem.  
+Strongly skill Analyst and Logical thinking.  
+Funny and tolerate high work pressure. 

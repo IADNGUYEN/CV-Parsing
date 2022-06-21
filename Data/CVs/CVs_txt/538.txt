@@ -1,0 +1,239 @@
+ 
+RESUME 
+Page 1 of 5 
+PROFILE 
+I have 9 years working in Software Industry and 7 years as a Project Manager for implementing 
+Distribution Management System (DMS) for FMCG company like Unilever, P&G, Pepsi, URC and some 
+company in Myanmar such as IBTC, Pahtama Group 
+I’m PMP certified and experienced with CMMI, ITIL, ISO 20000, and Agile Scrum. 
+For Process, I involved deeply on building company process such as build KPI system, Internal Control 
+System, 3P Salary, Company Project Management Framework, Build Internal SLA & RACI across 
+departments, Lead project to build MS Project Server system to manage project porfolio for 
+company. 
+For Technical, I have 1 year as Developer for Window Application & 2 year for Web Application, 
+developed integration with SAP system using Window Service/Web Service & XML. I managed project 
+using Mobile running in Window Mobile, Android, IOS. Currently I’m managing projects runing 
+Acumatica Cloud ERP & SAP B1 Web version, Mobile app running in Android tablet for Salesman to 
+take order, Web Application to trake Salesman activity & location in Digital Map, technology 
+including: ASP.Net MVC, Dev Express, Google API, Bootstrap, Leafletjs, NodeJS, MATLAP. Integration 
+with other ERP system using Web Service, Json, REST API, SAP B1 Integration Framework. 
+For Operation, with my current  as ASEAN Delivery Manager, I need to take care oversee market 
+including build partnership with Local Partner, Pre-Sales, recruit & build local team for implement 
+project oversea. Coordinate & Allocate resource across projects base on priority & financial cash flow. 
+Perform task of Head of Delivery since he left the company. 
+For Planning, I join Monthly Operation Review (MOR) meeting with CEO & Head of Dept to review 
+company operation & action plan. Joint SO&P meeting for Sales Pipeline review therefore provide 
+Project Delivery Resource & Budget planning for Delivery Department. 
+EMPLOYMENT 
+DMSpro JSC. (Cloud based Distribution Management Solution) 
+Dec 2015 
+~present 
+ASEAN Delivery Manager 
+Manage multiple project & resource related. Building infrastructure & resource for implementing 
+project at local ASEAN countries such as Myanmar. Make sure company can deliverer product with 
+the best quality and in a timely manner to our customers. Improve working process to maximize 
+Nguyen Manh Cuong, PMP 
+Apply for Project Manager or Delivery Manager position 
+287 Phan Van Hon street, Dist. 12, HCMC. 
+Phone: 01264-901-454 
+Email: drcuong@me.com 
+Date of birth: 14 Mar 1986 
+Status: Maried 
+Page 2 of 5 
+employee effort while still satisfy customer expectation on quality, time & scope 
+Jun 2017 
+~present 
+Project Manager 
+Project DMS, for URC Vietnam 
+Customize and Implement Distribution Management System (DMS) for URC VN.  The solution is 
+based on SAP B1, Mobile Sales and Digital Map and will be implemented for URC HO, 150 
+Distributors and its Sales Team. DMS system is integrated with current SAP ECC system. 
+Apr 2017 
+~present 
+Project Member 
+Project Internal Control System Project, for DMSpro 
+Build Internal Control System for company. Build KPI for employee. Implement ERP (SAP B1). Build 
+3P salary system. Apply ISO 27001 
+Apr 2017 
+~present 
+Project Manager 
+Project MEGA (including 8 sub-projects) 
+Centralized managed 5 DMS projects that running SAP B1 package to utilize resource for customers 
+such as: URC VN, Lien A, Karofi, GreenVet, Dac Hung Trade, Mayora VN, Pahtama Group Myanmar 
+and Man Vodka 
+Nov 2016 
+~present 
+Project Manager 
+Project LA DMS, for Lien A Mousse Co., Ltd. 
+Customize and Implement Distribution Management System (DMS) for Lien A Mousse Co., Ltd.  The 
+solution is based on SAP B1, Mobile Sales and Digital Map and will be implemented for Lien A HO 
+and its Sales Team to manage around 800 Dealer across Vietnam. DMS system is integrated with 
+current Axapta ERP. 
+Dec 2016 
+~present 
+Project Manager 
+Project Pahtama DMS, for PAHTAMA Group Myanmar (FMCG) 
+Customize and Implement Distribution Management System (DMS) for Pahtama Group Myanmar 
+(top 4 Distribution company in Myanmar). The solution is based on SAP B1, Mobile Sales and Digital 
+Map. 
+Nov 2016 
+~present 
+Project Manager 
+Project Dac Hung SFA, P&G Vietnam (FMCG) 
+Customize and Implement Distribution Management System (DMS) for Dac Hung Trading Vietnam 
+(P&D Distributor). The solution is based on SAP B1, Mobile Sales and Digital Map. 
+Apr 2015 
+Oct-16 
+Project Manager 
+Project BDF DMS, for Beiersdorf Vietnam (FMCG) 
+Customize and Implement Distribution Management System (DMS) for Beiersdorf Vietnam (Nivea).  
+The solution is based on Acumatica ERP. The system is now running for over 100 Distributors of 
+Beiersdorf Vietnam. 
+Dec 2015 
+Oct-16 
+Project Manager 
+Project SCG DMS, for SCG Thailand (Building Material)  
+Customize and Implement Distribution Management System (DMS) for SCG Trading Vietnam.  
+System including Management of Sales Order, Purchase Order, Warehouse, Inventory, Trade 
+Promotion, Loyalty & Display program, Salesman tracking on Digital Map, Mobile Sales. The system 
+running for SCG Head Office and all of its Distributors 
+Our DMS solution is based on Acumatica ERP. 
+Dec 2015 
+Nov-16 
+Project Manager 
+Project PM Framework 
+Page 3 of 5 
+Build standard Project Management Framework for DMSpro company base on CMMI & PMP 
+The frame define the working process across all departments such as Production, Quality Control & 
+Delivery. 
+FPT Software. 
+Dec 2014 
+Nov 2015 
+Project Manager 
+Project IBTC DMS, for IBTC Group, Myanmar (FMCG) 
+Customize and Implement Distribution Management System (DMS) for IBTC Company Myanmar. 
+The system will be implemented at HO and 9 Branch Office of IBTC in Myanmar. Coordinate team 
+size more than 30 person including BA, Product Development, Test Team, L1, L2, L3 Support and 
+Implementation Team to deliver the project successfully 
+Sep 2015 
+~ Dec 2015 
+Project Manager 
+Project KMS, for FPT Software, Vietnam 
+Building Knowledge Management System (KMS) for GSC Unit – FPT Software.  
+Sep 2014 
+~Aug 2015 
+Project Member 
+Project AMS, for FPT Corporation, Vietnam 
+The objective of the project is to build an Application Management Service (AMS) for FSOFT follow 
+ITIL Standard get ISO 20000 certification. My duty is to create and review process document and 
+make sure it can apply to daily operation of the company 
+Nov 2012 
+~Dec 2015 
+Project Manager, Service Delivery Manager 
+Project Pepsi DMS, for Suntory Pepsico, Vietnam (FMCG) 
+R&D a Distribution Management System (DMS) Product and Implement DMS Solution for PepsiCo 
+Vietnam. The system is now running at HO and more than 200 distributors all over Vietnam. 
+Coordinate team size more than 30 person including BA, Product Development, Test Team, and 
+Implementation Team to deliver the project successfully. In Maintenance phase, as a Service Delivery 
+Manager, I responsible for the quality of service that FPT provide to customer follow agreed KPI/SLA. 
+Mar 2012 
+~Oct 2012 
+Project Manager 
+Project VL DMS, for Viet Lien Company, Vietnam 
+Implement Distribution Management System (DMS) for Viet Lien Co., Ltd. Distribute Panasonic 
+battery and Coleman the outdoor. Responsible for the success of the project 
+Jan 2011 
+~mar 2012 
+Project Manager 
+Project CCS Support, for Unilever Region 
+Provide Application Support Service for 6 countries of Unilever Regional running Cabinet Control 
+System (CCS) 
+Manage Change Request, Hot Fix development and quality of service within committed SLA/KPI 
+using Remedy Ticket System 
+Communicate and coordinate for regional change in the application 
+Onsite UK to perform server migration task 
+Sep 2009 
+~dec 2010 
+Software Engineer 
+Project CCS, for Unilever Region 
+Develop system to manage Cabinet movement for Unilever Ice-cream business at Regional level. 
+Country implemented: Vietnam, Thailand, Indonesia, Philippine, Singapore, Indochina 
+Develop interfaces and perform integration test with SAP. Develop and test business website. 
+Deploy Package on Customer Data Center at UK. Support SIT, UAT, and pilot rollout product. 
+Key achievements: C#, ASP.NET, Dotnet Nude, Ibatic, Window Service, Web Service, WCF, SQL 
+Server 2008, Window Server 2008. International collaboration in English 
+Page 4 of 5 
+Thinh Phat Software JSC. 
+Feb 2009 
+~sep 2009 
+Software Engineer 
+Project TopPos, Goldmem – The Garden Mall, Saigon Paragon, Coop-Mart, Vietnam 
+Develop POS, Backend System for Commercial Center (The Garden Mall, Saigon Paragon), and 
+Supermarket. CRM for COOP Mart to manage its loyalty customer, VIP 
+Key achievements: UI designs, C# Win Form, SQL Server 2008. 
+EDUCATION 
+Oct 2005 
+~Feb 2009 
+tafeSA (South Australia) 
+Diploma of Information Technology (graduated with distinction) 
+Major: Software Development 
+TECHNICAL EXPERTISE 
+Languages: DOT.NET(C#, VB.NET, ASP.NET, Winform, 
+Window Mobile 6.1), JAVA (J2EE, JSP, Servlet, EJB), 
+ANSI C, XML, HTML, UML. 
+Operating Systems: Windows XP/7/8, Window 
+Server 
+Concept: IT Project Management, Data Structure, 
+OOAD, System Analysis and Design, Disaster 
+Recovery, Configuration Management, Software 
+Quality, Software Testing, Application Support 
+Methodology: CMMI, RUP, Agile, PMI 
+Tools: MS Project 2013, Project Server 2016, 
+Redmine, JIRA, Confluence, Visual Studio 2008-2010, 
+SQL Server 2008 R2, Smart SVN, Eclipse, NetBeans, 
+JBuilder, Rational Rose, Rational ClearCase, 
+DreamWeaver, CodeSmith, TRAC 
+Technology: Dot Net 2.0, 3.5, 4.0, Silverlight, Linq to 
+SQL, Entity Framework, iBatic, Microsoft Enterprise 
+Library, IIS 6/7, WCF, Window Service, Web Service, 
+SSAS, T-SQL, SQL Reporting Service, Pivot table 
+reporting, SAP B1, Acumatica Cloud ERP 
+SUMARY OF QUALIFICATION 
+Good knowledge of POS, Back-end system. 
+Deep knowledge and experience Distribution 
+Management System (DMS), Asset Management 
+Fluently in English. 
+Onsite experience in the UK, Singapore Indonesia, 
+Myanmar 
+Certified PMF, 40hrs of PMP training 
+Practice Agile Scrum, ITIL, ISO 20k, CMMI Dev & Svc 
+Strong interpersonal communications. Team work 
+and leadership. 
+Ability to work collaboratively with oversea teams  
+and commitment to achieving corporate goals.  
+Ability to learn challenging concepts quickly and 
+motivation to succeed in the industry. 
+Problem solving skills, proactive, eager to learn 
+Able to work independently. 
+ACTIVITIES, AWARDS & CERTIFICATE 
+Internal Fsoft Trainer 
+Training Mock Project, Advance SQL for more than 100 fresher during 2012-2013. 
+Training & coaching new PMs. 
+Training activity & 
+certificate 
+PMF  Jun 2012. 
+PMBOK training course  Oct 2012. 
+Agile Workshop and Professional Scrum Master – 2013. 
+Introduction to CMMI v1.3 – 2013. 
+Interpersonal Skill – 2013. 
+Leadership Training Program  2015 
+Change Management Training Program  2015 
+Customer Service Training Program  2015 
+PMP Exam Preparation Course – 2015 
+PMP Certified- PMP #1844210 
+Page 5 of 5 
+Key achievements 
+Fsoft Best trainer of the year 2012 
+Fsoft Best Performance S1-2011 
+Fsoft Best Performance S1-2010 
+DMSpro Best Projects 2016 (SCG project & Dac Hung project) 

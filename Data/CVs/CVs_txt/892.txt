@@ -1,0 +1,119 @@
+Nguyễn Lâm Mạnh Tuyền | Infrastructure Engineer 
+1647/41 Phạm Thế Hiển Str., Distr 8, HCMC  
+nguyenlammanhtuyen@gmail.com  |0937831138 
+Profile  
+I'm a careful, studious and quick learning person with logical mind. Now I’m working as a IT Project 
+Leader at SAIGON BRIGDE ROAD CONSTRUCTION INVESTMENT GROUP JOITN STOCK COMPANY. 
+Being really interested in Information Technology, I want to work in a professional working 
+environment. I have been studying and exploring a lot about information technology and I will keep 
+improving and enhancing my knowledge to support, and dedicate my best to bring great efforts. 
+Experience 
+SAIGON BRIGDE ROAD CONSTRUCTION INVESTMENT GROUP JOITN STOCK COMPANY 
+IT Project Leader 
+12/2016 – present  
+Assigned by the company, I participated in the biggest project of my company – Hai Van Tunnel 
+Enhancement and Expansion and Traffic Management Centre for Centre Viet Nam. In the PJ, I am 
+mainly responsible for:  
+Design and planning the IT infrastructure for ITS system and TMC.  
+Implement IT infrastructure in the PJ. The infrastructure include: 
+Hardware: HP Blade Server, SAN Switch, HP 3PAR Storeserv, HP Aruba Switch Chassic, 
+Checkpoint Firewall, A10 Load balancer, MasterClock, Avigilon CCTV. 
+Software: VMware Vsphere, VMware NSX, TrendMicro Deep Security and Office Scan, 
+Veeam Backup, PRTG Network Monitoring, Windows Server, Windows SQL Server, Avigilon 
+ACC NVR.  
+Cooperate with other team to integrate other system into ITS system.  
+Cooperate with vendor to design and supervisor when they integrate their product into 
+system.  
+Currently, I am cooperating with Cisco to design WAN connection with high availability 
+using ISR and ASR router. 
+IT Infrastructure Team Leader 
+06/2016 – 12/2016 
+As IT infrastructure team leader, I am mainly responsible for:  
+Design and planning IT Infrastructure (Network, Server, Firewall…) for my company 
+corporation. 
+Operate, maintain and manage network and applications to ensure that IT systems are 
+efficient, secure, and sustainable. 
+Corporate with helpdesk to troubleshoot problems from 500 end users. 
+Evaluate the use of new technology and organizational needs and suggest improvements, 
+such as hardware or software upgrades 
+Develop policies and procedures for IT Department. 
+NTT Communications VN [Global ICT Services Provider-Top 100 Fortune] 
+10/2015 – 06/2016 
+SI Engineer 
+As SI team member, I corporate with my team, sale team, procurement team and vendor to 
+designing, planning and implement our full portfolio, end-to-end ICT infrastructure services 
+solution for customers working in many fields. By providing IT infrastructure such as Server, 
+Storage, Network, Security, Virtualization and Monitoring devices and software, we help our 
+customer to reduce IT costs and have seamlessly connectivity.  By joining in many projects and 
+being PM for some projects below, I have learnt many soft skill for project management and 
+sharpen my technical skill: 
+Design and migrate 5 critical physical server of customer to Hyper-V Virtualization without 
+affect customer’s Core Banking system. 
+Implement Solarwind Network & Application monitoring for customer with more than 20 
+servers. 
+Implement project about network changing and DC migration for with customer have 1000 
+users and 11 sites with out interrupt customer business. 
+Design and implement for customer new mall POS and CCTV network with about 100 Allied 
+Telesis switches. 
+Migration 2 old firewall to 2 new 500D Fortigate firewall for a Finance customer. 
+Nam Trung Phat Co., Ltd [Systems Integration] 
+04/2014 – 09/2015  
+System Network Engineer 
+Working in technical team to design, plan and implement all products that company provides. 
+Researching solution to integrator those equipment to customers' system for business needs. 
+Working with vendors to help customers solve their problems. Supporting sales team with 
+technical knowledge or preparation for bidding. Typical projects include: 
+Design, plan, implement and technology transfer F5 BIG-IP LTM, ASM at customer site for 
+Multi Domain load balancing, SSL Offloading, Web application security. 
+Design, plan, implement and technology transfer EMC VNX 5400, 5200 (FC and iSCSI) and 
+IBM x3650 with 3 Customer Sites for using database and schedule backup. 
+Implement virtualization system including VMware VSphere 5.5, HP Blade Server c7000, 
+NetApp FAS 2552 FC, HP Tape Library MSL4048 FC and Data Protector software  
+Design, plan, implement and technology transfer Video Conference System including Avaya 
+Scopia Elite MCU 5110 and Sony PCS-XG80 EP for 12 customer sites. 
+Implement and technology transfer virtualization system including VMware VSphere 5.5, HP 
+DL580 and HP 3PAR 7200c with HP Engineer. 
+Implement Tandberg Tape Library T24 and T40 with Symantec Backup Exec. 
+Implement NetApp FAS 2552 at customer site and DR site. 
+SV Technologies [Systems Integration, Telecom Service & Integrator] 
+05 – 08/2013  
+Intern at Network Department 
+Getting know well about the company and the field I worked in. Learning and having helped from 
+seniors, experts in the company to complete my internship report. 
+Making my internship about MPLS Traffic Engineering on Juniper devices 
+Education 
+Posts and Telecommunications Institute of Technology 
+Electronics and Telecommunication Engineer  
+09/2009 – 03/2014 
+VnPro Informatics Center 
+CCNA, CCNP 
+07/2011 – 03/2013 
+Robusta Technology and Training Center 
+VCP6-DCV (VMware Certified Professional  Data Center 
+Virtualization) 
+12/2015 – 02/2016 
+Qualifications 
+VnPro CCNP Cisco Certified Network Professional 
+03/2013 
+Cisco CCNA Cisco Certified Network 
+05/2014 
+APDS Avaya Professional Design Specialist  Avaya Scopia Solution 
+05/2015 
+Skills Summary 
+Operating System: Window Server 2003/2008/2012, Unix System Administration 
+Software: VMware VSphere, VMware Horizon View, PRTG, MSSQL, MS Office, MS Visio, Acunetix, 
+Nessus, Ekiga, IIS, cPanel/WHM, MDaemon Mail, GnuGk, OpenMCU, VIM Editor, IP-Guard, Veeam 
+Backup, TrendMicro Deep Security & OfficeScan. 
+Hardware: HP Blade System, HP Server, HP 3PAR SAN, IBM Server, EMC SAN/File, NetApp SAN/File, 
+Tandberg Tape Library, Cisco Routers/Switches, F5 BIG-IP LTM/ASM, Fortinet Firewall, Avaya Scopia 
+VC MCU, Avaya Scopia VC Endpoint, Sony VC Endpoint, HP Tipping Point IPS, McAfee Email 
+Gateway, Cisco Ironport Email Security, Cisco ASA Firewall, Allied Telesis Switches, Lastline ATP, 
+Peplink Loadbalancer, Motorola Wifi, Unifi, CheckPoint Firewall. 
+Networking/Protocol: SSH, TFTP, FTP, SNMP, DNS, DDNS, SMTP, RIP, OSPF, TCP/IP, LDAP, IPSec, 
+MPLS, NFS, CIFS, iSCSI, FC, RADIUS, POP3, H.323, H.460, LACP, SSL, VPN, DMVPN, NAT, HSRP, VRRP, 
+VLAN, VTP, SPANNING TREE. 
+Language: English, Vietnamese.  
+Strengths 
+Responsibility, friendly, kind hearted, enthusiastic, studious. 
+Good communication, concentrating and careful. Be able to work in high pressure 
+Accepting feedback and applying lessons learned 

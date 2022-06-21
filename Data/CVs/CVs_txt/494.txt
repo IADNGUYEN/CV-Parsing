@@ -1,0 +1,90 @@
+CURRICULUM VITAE 
+1 
+PERSONAL DETAIL 
+Name 
+BÙI MINH HIẾU 
+ID Card No 
+024241220 
+Marital status 
+Married 
+Birthday 
+25 / 05 / 1986 
+Gender 
+male 
+Mobile Phone 
+(+84) 0905 096 526 
+Email 
+chaosthunder1986@gmail.com 
+Home Phone 
+(08) 38 108 369 
+Religion 
+none 
+Address 
+No 58/16 Trần Văn Dư Str., Ward 13, Tân Bình Dist, Hồ Chí Minh City 
+2 
+CAREER OBJECTIVE 
+Looking for a stable and interesting job. 
+Become a professional Web/Mobile Developer in 5 years. 
+Fluently 3 or more programming languages. 
+3 
+SPECIALIZED EDUCATION 
+2004 – 2009 
+Ho Chi Minh University of Technology 
+Bachelor of Information Technology (speciailized in Information System) 
+2010 
+Basic conception with C# 3.5 & Web developing with C#.NET 
+4 
+SKILLS & TECHNOLOGIES 
+Programming 
+/Query Language  PHP  Javascript (Jquery, JSON, AJAX, Bootstrap)  HTML (HTML5)  CSS (CSS3, Bootstrap, SASS)  XML  T-SQL (MySQL, SQL Server, PostgreSQL) 
+Technique / 
+Conception  RESTful  OOP  ORM  SVG  3-tier Model  Web Security  Web Responsive  Crystal Reports with C#.NET 
+Back-end 
+Framework  CodeIgniter  Wordpress  Smarty  EC-CUBE 
+Tools  Rational Rose  Power Designer  SVN  POEdit  WinSCP  Photoshop  Word  Excel  Powerpoint 
+IDE  NetBean  Eclipse  Microsoft Visual Studio 
+Soft skills  English (4 skills)  Team-working  Problem solving  Progressive 
+5 
+PROJECTS 
+A 
+SEMINAR  Air Ticket Booking Management (C#.NET 2.5)  Online English Learning System (C#.NET 2.5) 
+B 
+WORKING  AutoIntegrity (http://autointegrity.com.au Web-based Motor Assessing System, ASP) 
++ Authentication (Login/Reset password) 
++ Assessment search (Sort/Search assessment) 
++ Data Backup generation (generate offline data for backing up to disc) 
++ Document Marking (marking document using SVG) 
++ Customer Deployment (deploy system for new customer) 
++ Mail management (manage mail sendout & receive) 
++ Assessment Report (develop report in web & export to PDF form)  NHAKHOA ERP (Dental Clinic Management System, C#.NET 3.0) 
++ Inventory management 
++ Patient management 
++ Room management 
++ Drug management 
++ Diagnose management 
++ Total Report  KOKUSAI GAKUIN (http://jsh.kgef.ac.jp Kokusai Gakuin Junior & Highschool website) 
++ Build layout template with Wordpress 
++ Integrate plugins to Wordpress  PET SNS (http://petsns.accjpn.com Online Pet Keeper Recruiting System) 
++ Build layout 
++ Mail Message (Frontend) 
++ Recruitment (Frontend) 
++ My Page (Frontend) 
++ User account management (Admin)  FMIS (http://stg-app-admin.fmis.jp Private FMIS Radio Admin Site) 
++ Topic management (manage topics with Google Maps integration) 
++ Program management (manage radio programs) 
++ Channel management (manage radio channels) 
++ Admin User management (manage user accounts)  FNESS (https://www.tabiloungejapan.com Japan Tourism Guideline) 
++ Build layout templates with Wordpress 
++ My Page 
++ News 
++ Mail message 
++ Forgot password  IZMAKER (http://izmaker.com Online Audio/Video Social Network)  FNA (http://www.factorynetasia.cn FACTORY NETWORK ASIA Corp. Website)  NSK (NSK Ltd. Product Guideline website)  VCC HR (http://vcchr.accjpn.com Online Human Resource Management System)  School websites: wass.edu.vn, icsa.edu.vn, dongduong.edu.vn 
+6 
+ASPIRATION  
+Job period: Long-term  
+Expected position: Web Developer, System Analyst  
+Working type: Full-time  
+Desired location: Ho Chi Minh City 
+Hồ Chí Minh City, Feb 02nd, 2016 
+Signature of applicant 
+BÙI MINH HIẾU 

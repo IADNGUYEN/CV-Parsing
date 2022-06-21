@@ -1,0 +1,146 @@
+Thao Vo
+Senior Java Developer
+Summary
+More than 4-year experiences working with Java, SQL, Unit Test
+More than 1-year experiences working with Automation Testing(Selenium)
+More than 2-year experiences working with HTML, CSS
+More than 2-year experiences working with Amazon Web Service
+More than 3-year experiences working with DSP Reporting API
+Skills
+Languages & Scripting:  Java
+Frameworks
+:  SeaSar2 (Japan)
+Operating
+Systems
+: Linux, Windows
+Databases
+:  MySQL, Redshif
+Web Servers: Apache Tomcat 
+Other Special Skills:  Amazon Web Service, DSP (Demand-Side Platform) Reporting API.
+Employment History
+05/2015 – Present: Senior Java Developer at Everrise Vietnam, HCM City, Vietnam
+04/2013 – 05/2015: Junior Java Developer at Everrise Vietnam, HCM City, Vietnam
+Strong Point
+Immediate level of writing, reading and listening in English
+Ability to work independently 
+Be responsible and self-motivated 
+Always research new technologies and methodologies
+Ability to work under high-pressure with “can-do” attitude
+Understand the process of project development, have ability to debug program in runtime
+Page 1 of 5.
+Thao Vo
+Senior Java Developer
+Well-communication, well-report and good at team work
+Good problem-solving skill
+Page 2 of 5.
+Thao Vo
+Senior Java Developer
+Relevant Work Experience
+01/2015 – Present Everrise Vietnam, HCM City, Vietnam
+Position/Title: Senior Java Developer
+Project: Adrepo
+Website: https://ad-repo.com/
+Project Description:
+Adrepo is system automatically create report for advertisers and 
+agencies. Adrepo integrated multiple DSP (Demand-Side Platform) 
+such as Google AdWords, Yahoo, Facebook, etc... To retrieve data via 
+API, then summary data and export report into Excel 
+Industry:
+IT
+Project Team Size:
+4
+Role(s)
+Member
+Skill Set Utilized:  Seasar2 Framework, Java, Google API, Yahoo API, Facebook API, DBM
+API, Bypass API, etc…  Amazon Web  Service, AWS EC2, AWS RDS, AWS Redshif, AWS
+Route53, AWS SES, AWS S3.  Eclipse, Source Tree, WinSCP, S3Browser, SQL Workbench.  MySQL, Redshif, Maven, Git
+Responsibilities:  Self-learned how to connect to DSP and how it works then wrote
+design and implemented apply them to the system  Implemented main function of project such as automatic creates
+report and batch download report from DSP  Designed and wrote log files to track the system easily and real-time  Upgraded version of the DSP platform such as Google AdWords,
+Yahoo, Facebook, etc.… when new version is released  Managed server and release new version of product  Supported team members to understand the design and ensure the
+progress   Worked  directly  with  project  manager  and  align  with  project
+schedule  Maintained and refactored quality of source code  Configured multi-database and multi-threading for screen and batch.  Created user interface such as screen report definition and screen
+dashboard likely screen of Google AdWords, etc.  Wrote test case and test unit for screens and batches  Handled exception from DSP such as rate limit, quota, etc.  Wrote an external module for a special customer used download
+report from Google AdWords.  Created screen connected with Ads Account of customer for each
+DSP  Resolved problem slow performance when insert and query large
+data
+Number  of  People
+Managed:
+3 (From Japan)
+Assignment
+Duration:
+40 months
+Page 3 of 5.
+Thao Vo
+Senior Java Developer
+04/2014 – 10/2014     Everrise Vietnam, HCM City, Vietnam
+Position/Title: Junior Developer
+Project: MHAND
+Project Description:
+An HTML project with over 400 website from customer .
+Industry:
+IT
+Project Team Size:
+10
+Role(s)
+Member
+Skill Set Utilized:
+Html, CSS, JavaScript, Photoshop
+Responsibilities:  Slice website interface from PSD file to HTML/CSS, JavaScript  Create homepage include: layout, CSS, JavaScript
+Number of People
+Managed:
+3 (From Japan)
+Assignment
+Duration:
+6 months
+04/2013 – 02/2014     Everrise Vietnam, HCM City, Vietnam
+Position/Title: Junior Developer
+Project: NewTR
+Project Description:
+NewTR is an internal website of time report. It is used to manage user 
+time.
+Industry:
+IT
+Project Team Size:
+4
+Role(s)
+Member
+Skill Set Utilized:  Seasar2 Framework, Java, Direct Web Remoting Ajax, Test Unit,
+JavaScript, CSS  Eclipse, GIT  MySQL
+Responsibilities:  Updated all screens with new logic from team leader  Created new screens to manage client  Created new screens to manage Daily Time Report for calculate
+worktime base on start time, end time and repose time.  Wrote Test Case and Test Unit
+Number  of  People
+Managed:
+3 (From Japan)
+Assignment
+Duration:
+10 months
+Page 4 of 5.
+Thao Vo
+Senior Java Developer
+11/2014 – 03/2015     Freelancer
+Position/Title: Senior Java Developer
+Project: UniField
+Project Description:
+UniField – an ERP Project for Finance and Supply at MSF
+Industry:
+IT
+Project Team Size:
+Role(s)
+Member
+Skill Set Utilized:  Java, HTML, JavaScript, CSS  Eclipse, Tomcat
+Responsibilities:  Change layout html with new logic from manager  Created new login screen for user (HQ Medical, IT Staff/Admin)  Created new function generate pdf to “msfftp” folder
+Number  of  People
+Managed:
+1 (From Switzerland)
+Assignment
+Duration:
+4 months
+Personal Info
+thaovoduc@gmail.com. +84 93 897 399
+Education
+B.A. in Computer Sciences, University of Information Technology, HCMC, Vietnam (2006-2011)
+Languages
+English: working language for more than 3 years. (reading and writing)
+Vietnamese (mother tongue)
+Page 5 of 5.

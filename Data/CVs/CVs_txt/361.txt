@@ -1,0 +1,37 @@
+Sep 2014  Sep 2016
+Can Tho University
+Software Engineer  I have 1.5 years experience of C++ language.  I have 2 projects, making cartoon about 2D and 3D graphic
+objects with OpenGL and lib3ds library.  Image processing is third project written by C++, has some
+simple and advance features such as: Thresholding, Histogram,
+Filter,..
+Sep 2012  Sep 2016
+Can Tho University
+Software Engineer
+July 29, 2015
+Global Software Developer Program in FPT Software company.
+Languages
+Vietnamese, English.
+Programming
+C, C++, Prolog, R.
+Operating System
+Window
+NGUYEN TRAN AI TRINH
+DOB
+01/12/1993
+Gender
+Female
+Phone
+0978 194 451
+Email
+nguyentranaitrinh0112@gmail.com
+Address
+112/51 Hoang Quoc Viet, Ninh Kieu, Can Tho city.
+PROFESSIONAL SUMMARY
+I am passionate about IT and I can learn a new programming language or a new technique. For team-working,
+I am an open-minded individual and I can work well with others team-members. I can work well in both role,
+as a member or team-leader. I have basic knowledge about data mining, machine learning, OOP, testing,
+network.
+WORK EXPERIENCE
+EDUCATION
+CERTIFICATIONS AND AWARDS
+SKILLS

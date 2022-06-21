@@ -1,0 +1,112 @@
+Curriculum vitae 
+Nouar AlDahoul 
+Malaysia – Kuala Lumpur 
+nouar.aldahoul@live.iium.edu.my 
+Personal Information 
+Sex: Female. 
+Birth date: 1983.                                 
+Nationality: Syrian.               
+City: Damascus 
+Education and Qualifications: 
+B.Sc Certificate: Damascus University  Faculty of Electrical and Mechanical Engineering  
+Department of Computer, Control and Automation Engineering. 
+Average: 78 % very good (first graduating student). 
+Period of Study: 5 years. 
+Graduation year: 2008 
+M.Sc Certificate: Damascus University  Faculty of Electrical and Mechanical Engineering  
+Department of Robot Engineering and Programming. 
+Average: 85.6 % Excellent. 
+Thesis: FPGA based Real Time Motion Detection 
+Graduation year: 2013 
+Current Education: PHD candidate in International Islamic University Malaysia  Department 
+of Mechatronics Engineering. 
+Thesis: Deep Reinforcement Leaning for Autonomous Agent in unstructured environment. 
+Graduation year: 2018 (expected) 
+Publications: 
+1) Online Sequential Extreme Learning Machine Based Functional Magnetic Resonance 
+Imaging Decoder Nouar AlDahoul and Zaw Zaw Htike , Adv. Sci. Lett. 21, 3489-3493 
+(2015) 
+2) A Very High Speed Field Programmable Gate Array-Based Sudoku Solver, Nouar 
+AlDahoul, Zaw Zaw Htike, and Mouayad Zarzar , Adv. Sci. Lett. 21, 3510-3514 (2015) 
+3) An Field Programmable Gate Array Based Embedded Vision System for Real-Time 
+Motion Detection ,Nouar AlDahoul and Zaw Zaw Htike , Adv. Sci. Lett. 21, 3569-3573 
+(2015) 
+4) Hierarchical Gaussian Reinforcement Learning for Path Planning in Uncertain 
+Environments 
+,Nouar AlDahoul, Zaw Zaw Htike, Rini Akmeliawati, Amir Akramin Shafie and Sheroz 
+Khan, International Journal of Applied Engineering Research (IJAER) Volume 10, 
+Number 8  (2015) pp. 20029-20040 
+5) Reinforcement Learning Based Techniques in Uncertain Environments: Problems and 
+Solutions,  Nouar AlDahoul, Zaw Zaw Htike, Rini Akmeliawati, Amir Akramin Shafie 
+and Sheroz Khan, International Journal of Applied Engineering Research (IJAER) Volume 
+10, Number8 (2015) pp.20055-20066 
+6) Hierarchical extreme learning machine based reinforcement learning for goal localization   
+Nouar AlDahoul,   Zaw Zaw Htike, Rini Akmeliawati, International conference on 
+mechanical, automotive and aerospace engineering (2016).  
+7)  Utilizing Hierarchical Extreme Learning Machine based reinforcement learning for 
+Objects sorting. Nouar Aldahoul, Zaw Zaw Htike. The second International Conference on 
+Intelligent Systems Engineering (ICISE) (2018). 
+8) Real-Time Human Detection for Aerial Captured Video Sequences via Deep Models. 
+Nouar Aldahoul, Aznul Qalid Md Sabri, and Ali Mansoor. Computational Intelligence and 
+Neuroscience journal. (2018). 
+Extra Courses  
+English Courses: ALC (American Language Center )  for 5 years and finishing last 
+level 8B (levels available from 0A to 8B) . 
+Japanese Course: for three years. 
+Microcontroller Course 
+PLC Course 
+Orcad Course (capture + pspice + layout). 
+Printed circuit design Course. 
+C++, OOP Programming Course. 
+Java Programming Courses. 
+MCSDT Course. 
+A+ and Network+ Courses. 
+Skills: 
+Microcontroller – Arduino – raspberry pi- Field Programmable Gate Array. 
+Matlab – SQL – C++  C#  Java – OOP. 
+Python – libraries (NumPy – Pandas – Keras  Tensor flow) 
+Machine Learning – Deep learning – feature learning – reinforcement learning – image 
+and video classification – Computer Vision – pattern recognition – Natural Language 
+Processing. 
+Research and development.  
+Job Experience:  
+Instructor at Yarmouk Private University in Syria from 2009 to 2013  
+Lab Instructor at Syrian Private University in 2013 
+Teaching in Damascus University in 2010.  
+Supervisor for many applied, Junior and senior projects from 2009 to 2013. 
+Tutor and demonstrator in International Islamic University Malaysia from 2014-2017. 
+Research assistant in IIUM university in deep reinforcement learning from 2014  2018 
+Research assistant in Malaya University in deep reinforcement learning  from 2016 to 2018 
+Teaching Experience 
+Logic circuit design  VHDL and FPGA design  Microprocessor and Microcontroller  
+Computer architecture and organization  Electric circuits  Electronic circuits – Signal and 
+System  Signal processing  Image processing  Computer vision  Machine learning – control 
+system design – C++ programming – Introduction to algorithm and data structure – object 
+oriented programming. 
+Languages: 
+Mother Language: Arabic. 
+Second Language: excellent English. 
+Other Language: good Japanese.  
+Interests: 
+Teaching + Learning foreign Languages + Traveling + Sport. 
+Other activities: 
+Participating in the judgment team of the first Syrian robotics competition 
+(FLL) 2009. 
+Participating in the judgment team of the Second Syrian robotics competition 
+(FLL) 2010.  
+Participating in the Japanese speech contest 2008. 
+Participating in the Japanese speech contest 2009. 
+Working as an English translator in IT Culture Magazine 
+References: 
+*Assi.Prof. Ali Mohammed Mansoor ali.mansoor@um.edu.my 
+* Assi.Prof aznul sabri aznulqalid@um.edu.my 
+**Assoc. Prof. Zaw Zaw Htike zaw@iium.edu.my 
+** Prof. Rini Akmelawati rakmelia@iium.edu.my 
+*** Dr. Kamal Kamar. kamal.kamar10@gmail.com 
+**** Assoc.Prof. Mohammad Swidan msoueidan@netcourrier.com 
+* University Of Malaya 
+** International Islamic University Malaysia – Mechatronics Engineering 
+Department 
+*** Damascus University – Faculty of Mechanical & Electrical Engineering. 
+**** Yarmouk Private University – Faculty of ICE. 
+END of CV 

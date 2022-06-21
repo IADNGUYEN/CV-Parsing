@@ -1,0 +1,112 @@
+CURRICULUM VITAE 
+NGUYEN NGOC ANH 
+POSITION APPLIED       SOFTWARE ENGINEER              
+PERSONAL DATA 
+Gender: 
+Male 
+Mobile:  
+(+84)1674 614 460 
+Email:  
+nguyenanhpx@gmail.com  
+Data of Birth: 
+11/08/1988 
+Place of Birth:  
+Lam Dong province 
+Marital Status: 
+Single 
+OBJECTIVE 
+Short-term goals:  
+Find a position where knowledge and skills trained in 
+University will be used efficiently.  
+Make an obvious contribution to the development of 
+Company 
+Long-term goals:  
+To become an expert in software engineering field  
+Try hard to find an opportunity for promotion 
+EDUCATION BACKGROUND 
+From 09/2008  
+University of Science Ho Chi Minh City 
+to 10/2012  
+Bachelor of Information Technology  
+GPA 7.03 
+Skills 
+Programming  
+C, C++, XML, Html, Css: Medium 
+Languages                        .NET/C#, JavaScript, Jquery: Advance 
+Database 
+MS Access, MS SQL Server 2005 and 2008 
+Web programming  
+Asp.net, Webservices 
+Languages                        English (upper-intermediate level) 
+Mini-Projects at University 
+From 01/2009  Programming chess game with C++, working with Graph Theory. 
+to 01/2010  
+From 01/2010  Working with windows sockets and programming chat application. 
+to 01/2011  Collecting and managing software requirements in ‘coffee 
+management’ project by various methods. 
+From 01/2011  Programming game Turtles like Gamehouse’s Feeding Frenzy.  
+to 01/2012  Programming Heart game like Microsoft’s Heart game.  Building a website like raovao.com as assignment.  Building an application for searching and hinting places in map of 
+Ho Chi Minh City. 
+WORKING EXPERIENCES 
+From 09/2009  
+HonViet – a Psychology Company  
+09/2010  
+Part-time job   Lecturer’s Assitant   
+Know how to apply psychology into life. 
+http://honviet.com.vn 
+From 01/ 2011 Leafleting work, tutoring 
+to 06/2011 
+Be more confidence. 
+From 01/2010  Participating in project building managing software for coffee shop. 
+to 01/2011  
+Knowledge and skills trained at class used. 
+From 09/2012 
+FPT Online  
+to 06/2013 
+Game developer 
+Project included:  
+From 09/2012 to 01/2013: B-Kool project 
+B-Kool is one of the first high quality massively multiplayer 
+online games that were made in Vietnam.This game won Sao 
+Khue 2012 award  the most prestigious ICT award in Vietnam 
+from VINASA (Vietnam Software & IT Services Association)  
+Developer at client side (C++ with Raknet platform) 
+(http://kool.gate.vn)  
+From 01/2013 – 06/2013: Web Games named 
+sieuxe.gate.vn, ArmyBam  
+These games are games for user betting  
+Developer at server and client  side with Asp.net(C#), 
+Webservices, Html, Css and jquery.  
+From 09/2013 
+Franciscan Aspirant House 
+to 06/2015 
+Studied English and humanity  
+Developed website nhatimhieuphanxico.com 
+VOLUNTEER EXPERIENCES 
+From 09/2009  Member of a volunteer group specialized in organizing events for  
+to 10/2012 
+poor children, ethnic children and old people.  Organizing annual camp for 40-50 young people. 
+PERSONAL QUALITIES 
+Strengths 
+Ability to work independently as well as in team under high 
+pressure 
+Creative, responsibility 
+Good at presentation and communication 
+English well 
+Weaknesses 
+Too careful in some cases 
+Fear of risk 
+Hobbies 
+Walking 
+Reading 
+Be interested in developing software 
+REFEREES 
+Mr. Ngô Minh Quân 
+Game studio Manager FPT Online 
+Email: g8minhquan@yahoo.com  
+quannm1@fpt.net  
+Phone: 0914432929  
+Mr. Võ Hồng Vinh 
+Lead game developer at FPT Online 
+Email: dakurai@gmail.com  
+Phone: 0937824009  

@@ -1,0 +1,40 @@
+ 
+Personal Information 
+Date of Birth 
+15 August 1996 
+Address 
+Khối phố An Trung,thị trấn 
+Tân An,huyện Hiệp Đức,tỉnh 
+Quảng Nam 
+Phone 
+0373 490 480 
+E-mail 
+tranhieu158158@gmail.com 
+Social network: 
+Facebook 
+facebook.com/hieutran1508 
+Skype 
+Hieutran150896 
+About me 
+Looking for a system job work with Linux OS, automation. Willing to learn 
+and apply new technology, working with high pressure. 
+Education  
+University: Đà nẵng University of Science and Technology.  
+Major:  Telecommunications 
+Skill & knowledge  
+Linux operating system administrator.  
+Installation and configuring computer hardware operating systems and 
+applications.  
+Troubleshooting system and network problems and diagnosing and 
+solving hardware or software faults.  
+TCP/IP and OSI model.  
+Embedded system.  
+Working with PHP. 
+Internship  
+Server room in DA NANG  international airport:  RDP Aircon APP/TWR 
+Da Nang system( processing and monitoring aviation data). 
+Experience  
+Final project: Build web server for “Automatic irrigation system in 
+agriculture uses LoRaWAN network and IoT technology”.  
+Specialized project: SDN(Software Define Network).  
+Linux learning courses : LPI1 & LPI2. 

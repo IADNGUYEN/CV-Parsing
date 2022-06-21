@@ -1,0 +1,56 @@
+CURRICULUM VITAE 
+NGUYEN THI BICH NGOC 
+PERSONAL DATA 
+Date of birth:  
+18/05/1992 
+Nationality:  
+Vietnam 
+Telphone:  
+0938728073 
+Email:  
+ngoc.nguyen.hcmus@gmail.com 
+Address: 1351/9/8 Phan Van Tri Street, F10, Go Vap District, HCM City 
+CAREER OBJECTIVE:   
+In next 1 – 2 years: I hope to find a job that requires working with data and apply 
+statistic/probability (such as: data entry, data analyse or actuary…) 
+In the next 5 years: I hope to become a expert in data analyse or actuary field. 
+EDUCATION AND QUALIFICATIONS 
+Currently:  Self-taught Access, Python and Exam P of SOA test.  
+2010 – 2014: Ho Chi Minh University of Science: Faculty of Mathematics and 
+Computer Science  
+o Subjects include: Probability and statistics, Quantitative Finance. 
+o GPA: 7.69/10 
+o Small Projects: 
+Queueing Theory –homework for Stochastic process Class 
+Basic Regression Analysis with Time Series Data – presentation 
+for Economic Statistics Class 
+2007 – 2010: Nguyen Cong Tru High School. 
+WORKING EXPERIENCE:  
+5/2015 – now (7/2015): Manual Data Miner (working between data miner and 
+analytics team) – Sentifi 
+Main duties:  
+o Bot detector project: manually labeling twitter account whether it is bot or human and 
+helping with choosing features to add to the model. 
+o Location detector project: c 
+o Collecting and processing data from the open resource. 
+o Building database on postgres along with in charge of query and adjust data. 
+o Other tasks: 
+o Helping other member on manually labeling whether a twitter account is person 
+or organisation. 
+o Taking part in document other project i 
+12/2014 – 2/2015: Data Entry Operator Intern  Harvey Nash :  
+Main duties: 
+o Input candidate’s profile into company database. 
+o Extract information according to requirements. 
+Summer 2014 – less than a month: Part-time job   Kumon  
+ADDITIONAL INFORMATION: 
+Coumputing skills:  
+o Microsoft Office Word, Excel (statistic funtions, pivot table..). 
+o Capable of using sofware: R, Eviews… 
+o Having basic knowledge about database like postgres, mongo 
+Languages: Vietnamese (Native) , English (Toeic 895). 
+Strength: work independent, analyze problems, instructed jobs. 
+Weakness: presentiation, jobs require creativeness, programing… 
+Other activities:  
+o Green Summer (2010) Ward 10 font, Go Vap District. 
+o Other activities at HCMUS: Blood donation (5 times), book donation… 

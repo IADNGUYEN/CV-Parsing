@@ -1,0 +1,109 @@
+0z 
+Faculty of Electrical & Electronics 
+TRAN VAN NHAN 
+PROFILE 
+I recently graduated Bach Khoa University on 
+November 2018, majoring in electronics. I always 
+work hard to get the best results at work. I am an 
+enthusiastic, decisive person and eager to learn 
+new things. I have a proactive attitude and always 
+find positive ways to solve the problem.  
+PERSONAL INFORMATION 
+Date of birth : 29/11/1995 
+Address : 58/8/2A Duong So 9, Thu Duc District, 
+HCMC 
+Mobile : +84 335906920 
+Email : tranvannhan214@gmail.com 
+EDUCATION 
+Sep 2014 – Nov 2018   Bachelor’s Degree of Bach Khoa University 
+Major : Electrical & Electronics 
+Class of 2014 talented engineers. 
+GPA : 8.15/10 
+TOEIC : 695 
+EXPERIENCES 
+Sep 2017 – Present:  
+Work for GBSmart Company 
+About GBSmart: This company is a start-up company related to 
+technology. Company focus on designing Robot which was used for 
+promoting STEAM (Science – Technology – Engineering  Art and 
+Mathematics ) education. 
+My work at company: I concentrated on programming and 
+designing Robot. In addition, I was responsible for managing 
+progress, qualification and giving an idea. In this time, I usually used 
+Python language, C/C++ language and AWS. Beside that I supported 
+to build Robot learning programs as well as teach Robotic 
+programming. Otherwise, I imported material for Robot 
+manufacturing. 
+Jun 2018 – Aug 2018 :  Teacher at Apax Leaders (part time) 
+About Apax Leaders: This company is a center specializing in 
+English and STEAM training. 
+My work: I supported to build Robot learning programs 
+Jun 2017 – Aug 2017 : Internship at Arrive Technology Viet Nam 
+(ATVN) 
+About ATVN: ATVN is an American company specializing in the 
+design of hardware for telecommunication circuits 
+My work: logic design (RTL design), In this company, I programed 
+Verilog HDL language to design telecommunication integrated 
+circuits. 
+Sep 2017 – Present 
+Thesis at Bach Khoa University 
+Thesis: A Low Power Viterbi Decoder Design with Minimum 
+Transition Hybrid Register Exchange Processing And Testing By 
+Using Image Processing Matlab. 
+Score: 9.58/10 
+Main programing language: Verilog, Matlab 
+This thesis was designed to fix the error data by using 
+Viterbi algorithm while data transfer. Majority of Viterbi 
+decoder design use technology to achieve very high speed 
+and low power decoding respectively. 
+Program on Matlab and build graphics by using GUI 
+(Graphic Users Interface) in Matlab for testing. 
+EXTRA ACTIVITIES 
+I often take part in the charity organization, 
+teaching children with disabilities. 
+I sometime joined social activities, which 
+was organized by Bach Khoa University 
+during duration of University. 
+TECHNICAL SKILLS 
+Microsoft office 
+Matlab  
+Linux  
+Python 
+Raspberry Pi 
+C/C++ 
+AWS 
+Verilog  
+AWARDS AND HONORS ACHIEVEMENT 
+2017 – 2018  
+Education Scholarship 
+Faculty of Electrical & Electronics 
+Dec 2016 – Dec 2017 
+Juki Scholarship  
+Juki Viet Nam Company 
+2014 – 2015 
+Education Scholarship  
+Faculty of Electrical & Electronics 
+INTERESTS AND ACTIVITIES 
+Reading books 
+Playing football 
+singing 
+CERTIFICATE  
+LEGO Teacher Trainer Certificate 
+LEGO Education Viet Nam 
+TOEIC Certificate Of Achievement 
+ETS – IIG Viet Nam 
+Certificate of merit for students of ministerial 
+level scientific research 
+President of University of Economics And Law 
+SOFT SKILLS 
+Communication skills 
+Stress management 
+Time management 
+Listening skills 
+Decision making 
+Teamwork 
+Enthusiasm and optimism 
+Self-management skills 
+Focus 
+Leadership 
+Adaptability 

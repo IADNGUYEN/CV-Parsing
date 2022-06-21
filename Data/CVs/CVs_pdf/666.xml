@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="18" family="FPETTH+SegoeUI" color="#000000"/>
+	<fontspec id="1" size="54" family="FPYKXQ+Tahoma,Bold" color="#000000"/>
+	<fontspec id="2" size="25" family="FPOBVS+SegoeUI,Bold" color="#000000"/>
+	<fontspec id="3" size="18" family="FPOBVS+SegoeUI,Bold" color="#000000"/>
+	<fontspec id="4" size="19" family="FPETTH+SegoeUI" color="#0d0d0d"/>
+	<fontspec id="5" size="19" family="FPRTAE+SegoeUI,BoldItalic" color="#0d0d0d"/>
+	<fontspec id="6" size="19" family="FPETTH+SegoeUI" color="#0562c1"/>
+	<fontspec id="7" size="18" family="FPRTAE+SegoeUI,BoldItalic" color="#0d0d0d"/>
+	<fontspec id="8" size="18" family="FPETTH+SegoeUI" color="#0d0d0d"/>
+	<fontspec id="9" size="39" family="FPOBVS+SegoeUI,Bold" color="#d9d9d9"/>
+	<fontspec id="10" size="23" family="FPETTH+SegoeUI" color="#d9d9d9"/>
+	<fontspec id="11" size="28" family="FPRTAE+SegoeUI,BoldItalic" color="#d9d9d9"/>
+<text top="582" left="460" width="5" height="17" font="0"> </text>
+<text top="114" left="108" width="5" height="17" font="0"> </text>
+<text top="152" left="108" width="5" height="17" font="0"> </text>
+<text top="38" left="380" width="524" height="52" font="1"><b>Nguyễn Nam Quân </b></text>
+<text top="412" left="29" width="125" height="24" font="2"><b>Giới thiệu </b></text>
+<text top="443" left="29" width="5" height="17" font="3"><b> </b></text>
+<text top="467" left="29" width="13" height="18" font="4">- </text>
+<text top="467" left="42" width="131" height="18" font="5"><i><b>Địa chỉ liên hệ</b></i></text>
+<text top="467" left="173" width="175" height="18" font="4">: Tòa AH1, Ký túc xá </text>
+<text top="493" left="29" width="283" height="18" font="4">khu A Đại học Quốc gia TP.HCM </text>
+<text top="519" left="29" width="13" height="18" font="4">- </text>
+<text top="519" left="42" width="96" height="18" font="5"><i><b>Điện thoại</b></i></text>
+<text top="519" left="138" width="139" height="18" font="4">: 01662140134   </text>
+<text top="545" left="29" width="13" height="18" font="4">- </text>
+<text top="545" left="42" width="52" height="18" font="5"><i><b>Email</b></i></text>
+<text top="545" left="94" width="9" height="18" font="4">: </text>
+<text top="545" left="104" width="212" height="18" font="6">ngnamquan@gmail.com</text>
+<text top="545" left="315" width="5" height="18" font="4"> </text>
+<text top="571" left="29" width="5" height="17" font="3"><b> </b></text>
+<text top="595" left="29" width="5" height="17" font="3"><b> </b></text>
+<text top="621" left="29" width="104" height="24" font="2"><b>Học vấn </b></text>
+<text top="652" left="29" width="5" height="17" font="3"><b> </b></text>
+<text top="676" left="29" width="77" height="17" font="7"><i><b>- Đại học</b></i></text>
+<text top="676" left="105" width="267" height="17" font="8">: sinh viên năm 3, trường Đại học </text>
+<text top="700" left="29" width="305" height="17" font="8">Bách Khoa- Đại học Quốc gia TP.HCM </text>
+<text top="724" left="29" width="7" height="17" font="8">-</text>
+<text top="724" left="36" width="126" height="17" font="7"><i><b> Chuyên ngành</b></i></text>
+<text top="724" left="162" width="163" height="17" font="8">: Khoa học Máy tính </text>
+<text top="748" left="29" width="12" height="17" font="8">- </text>
+<text top="748" left="41" width="212" height="17" font="7"><i><b>Điểm trung bình tích lũy:</b></i></text>
+<text top="748" left="253" width="43" height="17" font="8"> 8.27 </text>
+<text top="772" left="29" width="5" height="17" font="0"> </text>
+<text top="810" left="29" width="5" height="17" font="0"> </text>
+<text top="850" left="29" width="113" height="24" font="2"><b>Mục tiêu </b></text>
+<text top="884" left="29" width="17" height="24" font="2"><b>- </b></text>
+<text top="890" left="46" width="315" height="17" font="0">Tìm kiếm cơ hội giúp bản thân tiếp xúc </text>
+<text top="916" left="29" width="204" height="17" font="0">với các công việc thực tế. </text>
+<text top="939" left="29" width="5" height="17" font="0"> </text>
+<text top="675" left="414" width="394" height="37" font="9"><b>HOẠT ĐỘNG XÃ HỘI </b></text>
+<text top="390" left="419" width="388" height="22" font="10">- Tư duy nhạy bén với các môn toán </text>
+<text top="422" left="419" width="424" height="22" font="10">- Nắm cơ bản về Machine Learning qua </text>
+<text top="454" left="419" width="441" height="22" font="10">việc hoàn thành các khóa học trên mạng. </text>
+<text top="486" left="419" width="350" height="22" font="10">- Nắm được các cấu trúc dữ liệu. </text>
+<text top="518" left="419" width="428" height="22" font="10">- Sử dụng được ngôn ngữ C++, Python, </text>
+<text top="550" left="419" width="86" height="22" font="10">Matlab. </text>
+<text top="759" left="426" width="418" height="22" font="10">- Tổ chức lớp học nhằm hỗ trợ các bạn </text>
+<text top="794" left="426" width="425" height="22" font="10">sinh viên học tốt các môn toán như giải </text>
+<text top="828" left="426" width="120" height="22" font="10">tích, đại số </text>
+<text top="875" left="426" width="445" height="22" font="10">- Tích cực tham gia các đợt hiến máu tình </text>
+<text top="909" left="426" width="186" height="22" font="10">nguyện ở trường </text>
+<text top="529" left="419" width="11" height="37" font="9"><b> </b></text>
+<text top="312" left="414" width="187" height="37" font="9"><b>KĨ NĂNG  </b></text>
+<text top="354" left="360" width="5" height="17" font="0"> </text>
+<text top="150" left="436" width="420" height="27" font="11"><i><b>ỨNG TUYỂN VỊ TRÍ THỰC TẬP  </b></i></text>
+<text top="203" left="497" width="290" height="27" font="11"><i><b>MACHINE LEARNING </b></i></text>
+</page>
+</pdf2xml>

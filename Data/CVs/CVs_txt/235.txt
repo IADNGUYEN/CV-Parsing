@@ -1,0 +1,230 @@
+Page 1 of 6 
+NGUYEN NHAT QUANG 
+Address:  
+539 Cach Mang Thang 8 Street, District 10, HCMC, Vietnam 
+Tel: 
+0918.907.414 
+Email:  
+nnq80@yahoo.com 
+BACKGROUND  
+Over 10 years of experience in software design & development process.  
+Over 7 years of experience in Java web and service based architecture development. 
+Having knowledge of full application life cycle design tools and methodologies, e.g. 
+Scrum and Agile. 
+Having a deep understanding of n-tier and distributed application development. 
+Having good Java development skills (JSP, J2EE, EJB, Spring, Hibernate, JNDI, Java 
+API, Struts).  
+Experience with front-end technologies (e.g. HTML, JavaScript, JQuery, CSS, AJAX) 
+and libraries (e.g. JQuery, JQueryUI) and AngularJS framework.  
+Experience in designing, creating and consuming Web Services, SOA, SaaS (using 
+REST, SOAP, JSON, OAuth2) and multi-tier applications in Java. 
+Familiarity with open source software (e.g. Apache Foundation projects).  
+Having knowledge of both SQL and NoSQL (e.g. MongoDB) development.  
+Familiar with continuous build environments (e.g. Hudson, Jenkins, Sonar, etc.).  
+Conversant with web/application servers – Apache, Tomcat, JBoss, Orion. 
+Having knowledge of and ability to apply proficiently common design patterns. 
+Familiar with source code management systems (e.g. Git, SVN, CVS) and IDEs 
+(Eclipse).  
+Excellent troubleshooting skills, ability to multi-task and prioritize, and comfort 
+refactoring unfamiliar code. 
+Intellectual flexibility and curiosity with a willingness to learn. 
+Having leadership qualities. 
+Good at communicating in English. 
+TECHNICAL SKILLS 
+Development Tools: MS Visual Studio, Eclipse, IntellJ IDEA 
+Programming Languages/Scripts: C#, Java, JSP, ASP, PHP, ASP.NET, JavaScript, 
+PL/SQL, HTML, DHTML, CSS, XML, AJAX, C, C++, VB, UML, Ant, Maven2… 
+Technologies: .NET Framework, AppFuse framework, Struts, Spring, Spring MVC, 
+Hibernate, JSF, RichFaces, ZK framework, Jasper Report, J2EE, EJB, XFire, JUnit, 
+Dojo, RESTful, JMeter, AngularJS, Selenium… 
+Databases: MS SQL Server, Oracle, DB2, MySQL, MongoDB, PostgreSQL. 
+Data Modeling Tools: Power Designer, MS Visio, Rational Rose 
+Application Servers: IIS, Apache Tomcat, JBoss, Orion, Apache 
+Operating Environments: Windows/Ubuntu/Linux 
+Page 2 of 6 
+PERSONAL 
+Nationality: Vietnam 
+Languages: Vietnamese, English 
+EDUCATION 
+University of Foreign Language and Information Technology, VN, 1998; BA 
+Aptech College, VN, 2002; Higher Diploma in Software Engineering 
+PROFESSIONAL EXPERIENCE 
+HRBoss, HCMC, Vietnam 
+01/2013 – present 
+Senior Programmer Analyst 
+1. HiringBoss: HiringBoss is the only eRecruiting platform designed for global and 
+local businesses in Asia. The HiringBoss philosophy is simple: to provide our 
+innovative, easy-to-use HR software, at prices that any business can afford. This 
+is why HiringBoss is delivered through the Cloud, with friendly support in local 
+HiringBoss offices across Asia.  
+HiringBoss allows you to post jobs, manage applicants and hire with confidence. 
+Features like our iPad interview assistant and local job board integration save 
+you time, money and dramatically improve your recruiting ROI. HiringBoss is 
+hassle-free to implement, with an intuitive design. The result? A system that all 
+users – from candidates through to CEOs love to use. 
+2. StaffingBoss: A solution for staffing and recruiting firms. It combines next-
+generation CRM features with an elegant interface and attractive prices. 
+3. EmployeeBoss: is to absorb information of any kind without you having to 
+migrate any of your data. It works seamlessly with all your current business 
+systems, such as SAP, HRIS or ERP solutions. Simply point EmployeeBoss to 
+your existing IT/Workforce systems to quickly and easily add the data you need 
+into EmployeeBoss. It harmonies and blends all your data, regardless of type. It 
+eliminates the pain of data wrangling plus with real-time source data feeding into 
+it. EmployeeBoss ingests and converges data to give a holistic, 360° view of 
+what is going on with your workforce and what you need to do about it. 
+Technologies: JSP, jQuery, Java, Arena, Spring, Spring MVC, SOAP, REST, 
+JDBC, Postgres, Tomcat, Ant, Maven, Selenium, JMeter, MongoDB. 
+Responsibilities: 
+Responsible for implement of Job Board integration. 
+Resolve issues of viewing the document on webpage. 
+Implemented new features, bugs fixing, and code refactoring. 
+Member of technical board delegated to design architecture of the system 
+and resolve the related technical issues. 
+Participated in analyzing or providing requirements of the new features. 
+Provided ideas to make the system get more user experience and optimize 
+the performance. 
+Responsible for implement all APIs of EmployeeBoss system also participate 
+in requirements analyzing and system architecture designing. 
+In charge of product quality verification and performance tuning. 
+Page 3 of 6 
+Harvey Nash, HCMC, Vietnam 
+09/2010 – 01/2013 
+Senior Java Developer 
+1. Domestic Name – Weatherbys: Naming System is a web application to provide 
+Weatherbys with a system that will include various functionalities allowing end 
+users to view, reserve, register, check availability or manage domestic name. 
+The Naming System provides a service integration to other Delphic service 
+modules and data integration to the legacy Delphic database. 
+2. Authority to Act – Weatherbys: To provide both a registration system and an 
+enquiry function to allow Racing Administration and Racing Operations to be sure 
+that certain future registrations or entries can be processed without the need to 
+contact owners or jockeys and to provide a mechanism whereby access to 
+various public facing programs can be given automatically by recourse to the 
+authorized agent links. 
+3. Sponsorship Management – Weatherbys: This is one of modules of Weatherbys 
+project, it allows internal users to manage their sponsorship agreements like 
+adding, viewing, amending, terminating or reading further information on the 
+Sponsorship scheme. 
+Technologies: JSP, jQuery, Java, Spring, Spring MVC, SOA architecture, SOAP, 
+JDBC, Oracle, JBoss, Tomcat, Ant, Maven. 
+Responsibilities: 
+Participated in bidding project, capturing business rules of legacy system and 
+database knowledge. 
+Performed requirements analysis, technical architecture design, database 
+design and use-cases implement. 
+Defined standard coding convention and set up working environment 
+framework and unit testing. 
+Developed and implemented main functionalities, services of the system. 
+Wrote almost packages using PL\SQL to access data from the database. 
+Supported team about coding and technical issues. 
+Provided training for other developers on several technologies like RESTful 
+and EJB 3. 
+Assist client in evolving the functionalities. 
+Proactively identified potential issues to improve the project performance. 
+Page 4 of 6 
+COA Solutions, HCMC, Vietnam 
+09/2008 – 09/2010 
+Senior Java Developer 
+1. Cash Flow Forecasting: Cash Flow Forecasting provides effective management of 
+cash through flexible modelling facilities and integration with Finance system 
+data. The monitoring and estimation of cash flow is essential 'best practice' in 
+any type of business. Cash Flow Forecasting supports businesses in effective 
+Cash Management, providing early detection of potential excess, or shortfall and 
+providing the time to manage the situation. 
+2. User Service: This is a sub project of Cash Flow Forecasting that provides user 
+and user role management. It will authenticate user to access to the system and 
+authorize user role respectively. 
+3. eProcurement  eFinancials: eProcurement is an easy-to-use web-based 
+requisitioning and purchasing facility linked to eFinancials. eProcurement uses 
+the concept of ‘shopping baskets’  to which users add the items, choose items 
+from catalogue, submit baskets for approval and make Purchase Orders. 
+4. eAnalyser  eFinancials: This project is a Java application linked to eFinancials 
+system that allows user can manipulate the data from eFinancials easier and 
+quicker on specific purposes. 
+5. Supplier Self Service  eFinancials: This project supports users who are using 
+eFinancial system can quick look up data such as payments, invoices, orders… 
+from eFinancial without accessing to the system. 
+Technologies: JSP, Velocity, Java, EJB, J2EE, Spring, AppFuse, Struts, RESTful, 
+Java Swing, Java Web Start, JDBC, Oracle, JBoss, Ant. 
+Responsibilities: 
+Produced functional design, technical design for each bespoke requirement 
+from client.  
+Performed requirements analysis, detailed design, implementation, 
+deployment, and testing of SSS project using Spring, Struts and RESTful for 
+middle services. 
+Developed new features for CFF with technologies including Java Swing, Java 
+Web Start 
+Developed and maintained functionalities of eProcurement project. 
+Developed PL\SQL code using Oracle9i. 
+Provided training for other developers on several technologies like RESTful 
+and EJB 3. 
+Page 5 of 6 
+ACE Life, HCMC, Vietnam 
+04/2008 – 09/2008 
+Senior Java Developer 
+1. eBao system: This is an ACE Life business management system. 
+2. Bancassurance system: This is an internal project for management of Banc 
+assurance products of the company. 
+3. Customer Information System: This project is to support users who have joined 
+insurance of ACE Life will have ability to view their insurance information. 
+Technologies: JSP, Velocity, Java, Spring, AppFuse, JSF, RichFaces, Hibernate, 
+Oracle, Tomcat, Ant. 
+Responsibilities: 
+Responsible for generating daily reports and extract data for client as 
+required. 
+Designed, coded and tested CIS project using AppFuse framework with JSF 
+and RichFaces technologies. 
+Participated in requirements gathering, business analyzing, and system 
+design of Bancassurance project. 
+S2i  Asia Technologies, HCMC, Vietnam 
+11/2006 – 04/2008 
+Senior Java Developer 
+1. Developing Portfolio application. This is a web-application developed on J2EE 
+framework with MySQL back-end. It is a conversion from an old Excel application 
+of Desjardin Caisse centrale. It has many functions to support mortgaging and 
+loaning management in the bank. 
+2. Participated in developing SWAP-UAM project. This project is built on many new 
+technologies such as JSP 2.0, Hibernate 3.0, Struts framework, Spring, AppFuse 
+framework, XFire web service and ZK framework (supports Ajax) with using MS 
+SQL Server 2005 database. This application implements banking business logics 
+with single sign-on technology and now still under construction. 
+3. Build BlueCross – QBC Aeroplan Travel Insurance Java web-service using XFire 
+framework. This is a prototype for sending and receiving XML messages to get 
+insurance information of QBC Company. 
+4. Implement PDA  Place des Arts web application. Build Data Importer for 
+importing data from XML file on FTP server to PDA’s database. 
+5. Working on ACP Railnet2 project. The application supports the agents to book rail 
+ticket via the internet. It is still in progress. 
+6. Researched and recommended new technologies to improve the system 
+performance, cost saving and quality of products. 
+Page 6 of 6 
+UNIQ Technologies, HCMC, Vietnam  
+04/2005 – 11/2006 
+Software Developer 
+1. Managed and developed Domain Tracker application. The application was 
+designed to keep track using computer of students in dorm. It was a win32 
+application and built on 3-tier architecture with .NET Framework technologies. It 
+was also built as a client-server application; it could manage all users joined to 
+domain controller, build statistics, reports…  
+2. Designed and developed the web-application for management of GTek Company. 
+This application supports timesheet-expense management, generating invoices, 
+making payroll, user management… The application was built on .NET technology 
+with natural interface that helps users use it easily. 
+3. Participated in developing Le Pere du Meuble application. This is a web-
+application supports sales and merchandise management. It was built on J2EE 
+and JSP technologies. Developed business rules, functionalities and user 
+interfaces: Customer Management, Invoice, Purchase Order Management, 
+Commission, Billing Process, Inventory Management… 
+Vietnam-Network Co., HCMC, Vietnam 
+05/2003 – 04/2005 
+Software Developer 
+Responsible for developing the web-applications (Le Pere du Meuble) for sales 
+management and e-commerce by using JSP and J2EE technologies. 
+Self-Employed Software Developer 
+07/2000 – 05/2003 
+A self-employed software developer while in full-time education. 
+Developed Chinese Chess game using Java with supporting multiplayer. 
+Developed Fashion Shop web-application (using ASP) to advertise products and 
+manage online sales. 
+EXPECTATION 
+Position: Java Technical Lead 

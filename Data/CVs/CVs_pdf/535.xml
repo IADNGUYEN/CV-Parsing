@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1170" width="810">
+	<fontspec id="0" size="13" family="BCDEEE+Calibri" color="#3a3838"/>
+	<fontspec id="1" size="13" family="BCDFEE+Calibri" color="#3a3838"/>
+	<fontspec id="2" size="16" family="BCDEEE+Calibri" color="#000000"/>
+	<fontspec id="3" size="23" family="TimesNewRomanPS" color="#21b573"/>
+	<fontspec id="4" size="16" family="BCDGEE+Calibri" color="#21b573"/>
+	<fontspec id="5" size="14" family="BCDGEE+Calibri" color="#000000"/>
+	<fontspec id="6" size="14" family="BCDEEE+Calibri" color="#000000"/>
+	<fontspec id="7" size="13" family="BCDGEE+Calibri" color="#3a3838"/>
+	<fontspec id="8" size="13" family="BCDHEE+Calibri" color="#3a3838"/>
+<text top="398" left="244" width="325" height="14" font="0">Always ready to learn new things and grow my self to best. </text>
+<text top="423" left="293" width="224" height="14" font="1">I’m ready for any challenge in the future.</text>
+<text top="240" left="70" width="133" height="17" font="2">Actually my name is</text>
+<text top="271" left="76" width="121" height="27" font="3"><b>LÊ ĐẠI AN</b></text>
+<text top="358" left="333" width="124" height="17" font="4"><b>Me in 2 sentences</b></text>
+<text top="55" left="284" width="36" height="15" font="5"><b>D.O.B</b></text>
+<text top="55" left="320" width="4" height="15" font="6">:</text>
+<text top="55" left="392" width="72" height="15" font="6">04/01/1995</text>
+<text top="82" left="284" width="40" height="15" font="5"><b>Phone</b></text>
+<text top="82" left="324" width="4" height="15" font="6">:</text>
+<text top="82" left="392" width="91" height="15" font="6">0120 3940 225</text>
+<text top="109" left="284" width="34" height="15" font="5"><b>Email</b></text>
+<text top="109" left="318" width="4" height="15" font="6">:</text>
+<text top="109" left="392" width="136" height="15" font="6">ledaian41@gmail.com</text>
+<text top="136" left="284" width="59" height="15" font="5"><b>Facebook</b></text>
+<text top="136" left="344" width="4" height="15" font="6">:</text>
+<text top="136" left="392" width="231" height="15" font="6">https://www.facebook.com/hee.0401</text>
+<text top="163" left="284" width="47" height="15" font="5"><b>Github:</b></text>
+<text top="163" left="392" width="182" height="15" font="6">https://github.com/ledaian41</text>
+<text top="791" left="394" width="119" height="17" font="4"><b>I have learned at:</b></text>
+<text top="829" left="394" width="186" height="14" font="7"><b>FPT University from 2013 to 2017</b></text>
+<text top="854" left="394" width="124" height="14" font="0">- Software Engineering</text>
+<text top="878" left="394" width="76" height="14" font="7"><b>Coder School </b></text>
+<text top="878" left="471" width="7" height="14" font="8"><b>–</b></text>
+<text top="878" left="481" width="27" height="14" font="7"><b>2017</b></text>
+<text top="902" left="394" width="51" height="14" font="0">- Android</text>
+<text top="967" left="101" width="99" height="17" font="4"><b>And can speak</b></text>
+<text top="1016" left="101" width="67" height="14" font="7"><b>Vietnamese</b></text>
+<text top="1016" left="171" width="101" height="14" font="0">as native language</text>
+<text top="1049" left="101" width="42" height="14" font="7"><b>English </b></text>
+<text top="1049" left="144" width="106" height="14" font="0">as second language</text>
+<text top="498" left="392" width="144" height="17" font="4"><b>Working Experiences</b></text>
+<text top="545" left="392" width="50" height="14" font="7"><b>01/2016 </b></text>
+<text top="545" left="441" width="7" height="14" font="8"><b>–</b></text>
+<text top="545" left="451" width="202" height="14" font="7"><b>05/2016: Internship at FPT Software</b></text>
+<text top="577" left="392" width="240" height="14" font="7"><b>- Project: YAMATO TRANSPORT (2 months)</b></text>
+<text top="610" left="398" width="229" height="14" font="0">Java develop and test back-end functions.</text>
+<text top="642" left="392" width="159" height="14" font="7"><b>- Project: STOKON (1 month)</b></text>
+<text top="674" left="398" width="109" height="14" font="0">Merge source code.</text>
+<text top="967" left="394" width="56" height="17" font="4"><b>Hobbies</b></text>
+<text top="1010" left="394" width="48" height="14" font="0">Football </text>
+<text top="1010" left="442" width="7" height="14" font="1">–</text>
+<text top="1010" left="451" width="36" height="14" font="0">Music </text>
+<text top="1010" left="487" width="7" height="14" font="1">–</text>
+<text top="1010" left="497" width="71" height="14" font="0">Drink Coffee </text>
+<text top="1010" left="568" width="7" height="14" font="1">–</text>
+<text top="1010" left="578" width="34" height="14" font="0">Travel</text>
+<text top="498" left="101" width="131" height="17" font="4"><b>What I am good at:</b></text>
+<text top="548" left="101" width="23" height="14" font="0">Java</text>
+<text top="580" left="101" width="26" height="14" font="0">MVC</text>
+<text top="613" left="101" width="44" height="14" font="0">Android</text>
+<text top="645" left="101" width="57" height="14" font="0">HTML/CSS</text>
+<text top="677" left="101" width="55" height="14" font="0">JavaScript</text>
+</page>
+</pdf2xml>

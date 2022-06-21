@@ -1,0 +1,54 @@
+NGUYEN BAO PHUC 
+12 Thong Nhat, Ward 10, Go Vap District, Ho Chi Minh City 
+Date of Birth: May 26, 1981 
+Hometown: Hue City, Thua Thien – Hue Province 
+Mobile: 0937 365 405. Email: ngbaophuc@gmail.com 
+EXPECTATION 
+To work in a Scrum team with 50% of time for software development and 50% of 
+time as a ScrumMaster, or to work as a Software Architect or Technical Lead. 
+To work directly with customers. 
+To focus on software architecture, clean code and task automation. 
+EDUCATION 
+2005: Graduated from Da Nang University of Technology in Electronics and 
+Telecommunications. 
+EXPERIENCE 
+July 2013 – Aug 2015: swiss IT bridge – a Swiss outsourcing company. 
+Proles project: To develop a project management system using AngularJS, 
+React for front-end and RESTful WCF, Entity Framework, T-SQL for back-end. 
+BPMLight project: To develop a business process management (BPM) system 
+using ASP.NET for front-end and WCF, Entity Framework, SharePoint, T-SQL for 
+back-end. 
+Aug 2012  May 2013: Sequent Asia IT (SAI)  an Indian outsourcing company. 
+FCV project: To develop a loyalty system for Friesland Campina Vietnam, using 
+ASP.NET for front-end and Microsoft Dynamics CRM 2011 for back-end. 
+SAITEX project: To develop SharePoint features for Saitex International 
+(Vietnam). 
+July 2011 – July 2012: Online Business Management Software Company  a 
+Vietnamese company providing business management software solutions. 
+To develop new UI for the company's accounting software product using 
+ASP.NET and ExtJS. 
+To develop new features for company's accounting software product using 
+Silverlight for front-end, WCF and T-SQL for back-end. 
+October 2009 – July 2011: Cat Nam Software Co., Ltd  a Vietnamese company 
+producing accounting applications. 
+To develop an accounting application from scratch using .NET Windows Form 
+and MySQL. 
+To support customers in company's accounting software products. 
+July 2005 – October 2009: To work on electrical and automation (Chemical 
+Engineering Join Stock Company – CECO); server and network (Hong Co Informatics 
+& Trading); network administration (Samudera Shipping Line Vietnam). 
+SKILLS 
+To learn fast, read and speak English confidently. 
+To understand and follow Scrum strongly. 
+To have experience in AngularJS, React, JQuery, JavaScript, Jasmine, Grunt, Node.js, 
+HTML, CSS, C#, ASP.NET, Moq, Microsoft Unit Testing Framework, Microsoft SQL 
+Server, design patterns, SOLID Principles, Unity (IoC) Container, Git, TeamCity. 
+To have solid background of enterprise and distributed software systems, 
+enterprise design patterns, Domain Driven Design (DDD), Test Driven Development 
+(ATDD, BDD, TDD). 
+To be experienced in computer network and Microsoft network infrastructure. 
+CERTIFICATES 
+Certified by Singapore Professional Education, Consultancy & Training (SPECTRA) 
+"Business Etiquette & Professionalism" course. 
+"Effective & Efficient Communication Skills" course. 
+"Teambuilding" course. 

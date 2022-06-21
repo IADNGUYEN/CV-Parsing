@@ -1,0 +1,61 @@
+Luan Nguyen Anh 
+12/11/1997 
+Ho Chi Minh City 
++84996704902 
+t14.luanna@gmail.com   
+Learning and Applying Data Structures and Algorithms with +6 years oneself. Advance knowledge in 
+Maths.  Easy to learn new things and a strong desire to work with machine learning.  
+Summary of Qualifications 
+Knowledge of Data , Spatial Data Structure and 
+Algorithm ( Sort, Shortest Path and Regression ). 
+Knowledge of Machine Learning Fundamentals  
+( no experience ). 
+Knowledge of Database ( using and database 
+architectures ). 
+Having experience in Video Chat, Message 
+Chat projects. 
+Having experience in Front-end and Back-
+end developer. 
+Skills 
+Out going 
+Team Communicate 
+Hard-working 
+Self-motivated 
+Self-educated 
+Technical Proficiencies 
+Programming Languages 
+Pascal, C, Java, C#, HTML, CSS, Javascript, PHP. 
+Frameworks 
+ReactJs, VueJs, NodeJs, SailsJs, Java Swing, .NET , ASP.NET. 
+Databases  
+MySQL, MS SQL Server, MongoDB, Neo4j. 
+Server 
+MS Azure, AWS. 
+Experience 
+08/2017 – PRESENT 
+Student Researcher 
+FPT University 
+Develop an idea for Toursim Service. I have responsibility in performance data managing and speed up 
+searching location in GIS. ( SQL and 4 types of NoSQL Architecture , Spatial Data Structures  Tree Data 
+Structures researching ). 
+Content ver 1 in FPT UNIVERSITY STUDENT RESEARCH CONFERENCE (3RD) : 
+https://drive.google.com/file/d/1zo7kBKLDvOkPOTtKUaLKkzsBMJl6PRE9/view?usp=sharing (Page 4) 
+2 
+12/2017 – 04/2018 
+Front-end and Back-end Developer Internship 
+Splus Software 
+Working with frameworks: ReactJs, VueJs and SailsJs in a Video Chat Project. Having responsibility in 
+Message Chat Project and Screen Record App with team size 1. 
+Education 
+9/2015 – PRESENT 
+Software Engineer / FPT University 
+Data Structures and Algorithms GPA: 9 
+9/2012 – 5/2015 
+Student / High school 
+Informatics gifted student. 
+Silver Medal Olympic 30/4 Ho Chi Minh City 2014 in Informatics. 
+Bronze Medal Olympic 30/4 Ho Chi Minh City 2013 in Informatics. 
+9/2012 – 5/2012 
+Student / Junior High school 
+Informatics and Maths  gifted student. 
+Second Prize in City Level Contest for Secondary School Students in 2012 in Informatics. 

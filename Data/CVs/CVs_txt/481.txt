@@ -1,0 +1,243 @@
+CANDIDATES INFORMATION 
+Summary 
+I am strongly knowledgeable in software service engineering and software quality 
+assurance methodologies. 
+I am hard working, proactive and well-organized. I have high learning capacity, 
+interpersonal skills and can face challenges. 
+Process of learing 
+2009  2011 
+APROTRAIN-APTECH Center. 
+Specialized: Programmer. 
+Certificate 
+Certificate DISM (Diploma In  Information System Management)  
+Certificate HDSE (Higher Diploma In Software Engineering) 
+o Place of issue: APROTRAIN-APTECH Center. 
+o Courses: 2009  2011 
+o Grade of: CREDIT. 
+Certificate WEBSITE DEVELOPER  
+Certificate WEBSITE DEVELOPER : PHP & MYSQL 
+Certificate WEBSITE DEVELOPER JAVA 
+Certificate GRAPHIC FOR WEB DEVELOPER  
+o Place of issue: NHAT NGHE Center 
+Name : HA DANG VAN THAN 
+Address : 549/15/17 Xo Viet Nghe Tinh 
+Sex : Male 
+26 Ward  Binh Thanh District 
+Date Of Birth: 13/11/1991 
+Email: vanthan3030@gmail.com 
+Place Of Birth: Dong Nai 
+Phone: 0907.064.322 
+Religion: Dominical 
+Health : Good 
+CANDIDATES INFORMATION 
+Programming skills 
+A) Programming language 
+PHP  
+Design and programming website using PHP with MySql database. 
+Knowledgeable HTML/HTML5, CSS/CSS3, Ajax, JavaScript, Jquery, 
+Responsive Web Design, Bootstrap, Photoshop, SVN. 
+Knowledgeable OOP, MVC, Zend Framework, Phalcon Framework, 
+CodeIgniter Framework , CMS Wordpress. 
+Experience write testcase. 
+Knowledgeable Adobe Dreamweaver , FireWork. 
+Working with server Xampp, AppServ. 
+Working with database: SQL Server, MySQL, Postgres. 
+Experience: 2 Year 
+NET 
+Design and programming website using  ASP.NET with MSSQL database. 
+Programming software by C# with MSSQL. 
+Experience: 1 Year 
+JAVA 
+Knowledgeable SpringMVC, Struts2, Hibernate, JSP/Servlet, CoreJava.  
+Knowledgeable HTML/HTML5, CSS/CSS3, Ajax, JavaScript, Jquery, 
+Responsive Web Design. 
+Proficient Eclipse, Netbean. 
+Knowledgeable programmer Android Basic. 
+Knowledgeable database SQL Server, Postgres. 
+Working with server tomcat. 
+Experience: 1 Year 
+B) Datebase management system, system map 
+Programming database on SQL Server 2005, 2008, Postgres , MySQL. 
+Designed by analysis UML, DFD & Flowchart 
+C) Operation system 
+Windows XP, Vista, 7. 
+D) Programming tools developer 
+Microsoft Visual Studio 2005, 2008, 2010 
+Microsoft SQL Server 2005, 2008 
+Eclipse, Netbean 
+Dreamweaver, Photoshop. 
+Microsoft Office 
+CANDIDATES INFORMATION 
+Skills different 
+Ability to good thinking, high work under pressure. 
+Ability to work independent or group. 
+Honest, sociable, enthusiastic. 
+Good communication, progressive spirit, inquisitive. 
+Highly careful work. 
+English reading materials. 
+Using good microsoft office: Microsoft Office (Word, Excel, Power Point, 
+Visio,…) 
+Knowledgeable about internet, System LAN, setup software. 
+Language 
+English : English reading materials. 
+Process work 
+Work at CARPE DIEM VIETNAM 
+o Position: Coder PHP 
+o Forms work: Official employee 
+o Time: 01/2014 – 12/2014 
+Work at RAKUS VIETNAM 
+o Position: Coder PHP 
+o Form work: Official employee 
+o Time: 01/2015 – 07/2015 
+Work at 2 LUA EXPORT IMPORT CO.,LTD 
+o Position: Coder PHP 
+o Form work: Official employee 
+o Time: 08/2015  Current 
+Design and construction website DongNaiGolf, MayTinhBC, TSS ASIAN, 
+NaviGroup, 2lua, Aquatec, PhamHuyenFurniture. 
+o Address: http://dongnaigolf.com.vn 
+o Address: http://www.vitinhhaithuan.com 
+o Address: http://www.2lua.vn 
+o Address: http://www.aquatec.vn 
+o Address: http://phamhuyenfurniture.com/ 
+o Address: http://www.tssasian.vn 
+o Address: http://www.navigroup.vn 
+Website responsive web design 
+CANDIDATES INFORMATION 
+o Address: http://www.vanthan.zendvn.com/bootstrap/ 
+Projects 
+12/2009  01/2010 
+Project name: Website Flower Online 
+Description: Website buy flower online. 
+Language: C# 
+Main responsible  
+Design website 
+Success  
+Knowledgeable HTML.  
+Report writing skill.  
+Teamwork skills. 
+Use of technology  
+Microsoft visual studio 2008  
+SQL Server 2005 
+08/2010  10/2010 
+Project name: AITSM  
+Description: Management application student 
+Language: Java 
+Main responsible  
+Design database, design website, coding. 
+Success  
+Knowledgeable SQL Server.  
+Teamwork skills.  
+Code writing skills. 
+Use of technology  
+NetBean 6.7.1  
+SQL Server 2005 
+02/2011 – 04/2011 
+Project name: Defect Tracking System  
+Description: Website management and repair project to put into 
+pratical use. 
+Language: C# 
+Main responsible  
+Design database, design website, coding. 
+Success  
+Knowledgeable SQL Server, Jquery  
+Teamwork skills, report writing skill, code writing skill 
+Use of technology  
+Microsoft visual studio 2010  
+SQL Server 2005 
+CANDIDATES INFORMATION 
+07/2011 – 08/2011 
+Project name: Blue Pumpkin  
+Description: Website organization of company events. 
+Language: Java 
+Main responsible  
+Design database, design website, coding. 
+Success  
+Knowledgeab SQL Server, Jquery.  
+Teamwork skills, report writing skill, code writing skill.  
+Use of technology  
+Netbean 7.0  
+SQL Server 2005 
+05/2012 – 07/2012 
+Project name: DongNaiGolf 
+Description: Introduction website about DongNaiGolf company. 
+Language: PHP 
+Success  
+Knowledgeab MySQL.  
+Knowledgeab PHP, tools developer in dreamweaver.  
+Knowledgeab HTML, Css, Jquery, Ajax. 
+Use of technology  
+Dreamweaver CS4, MySQL, Firework CS3, photopshop. 
+07/2012 – 10/2012 
+Project name: MayTinhBC 
+Description: Website buy Computer online. 
+Language: PHP 
+Success  
+Knowledgeab MySQL.  
+Knowledgeab PHP, tools developer in dreamweaver.  
+Knowledgeab HTML, Css, Jquery, Ajax. 
+Use of technology  
+Dreamweaver CS4, MySQL, Firework CS3, photopshop. 
+05/2013 – 06/2013 
+Project name: Estore 
+Description: Website buy computer online. 
+Language: Java 
+Success  
+Knowledgeab CoreJava.  
+Knowledgeab SQL Server.  
+Knowledgeab Struts2, Hibernate.  
+Knowledgeab HTML, Css, Jquery, Ajax. 
+Use of technology  
+Eclipse  
+SQL Server 2008. 
+10/2013 – 11/2013 
+Project name: News 
+CANDIDATES INFORMATION 
+Description: Website news. 
+Language : PHP 
+Success  
+Knowledgeab MySQL, Core Php.  
+Knowledgeab HTML, Css, Jquery, Ajax. 
+Use of technology  
+Dreamweaver CS4, MySQL.  
+Firework CS3, photopshop. 
+03/2014 – 06/2014 
+Project Name: TSS ASIAN 
+Description: Website real estate 
+Language: PHP 
+Success  
+Knowledgeab MySQL, Core Php.  
+Knowledgeab HTML, Css, Jquery, Ajax. 
+Use of technology  
+Dreamweaver CS4, MySQL. 
+06/2014 – 07/2014 
+Project Name: NAM VIET GROUP 
+Description: Website Camera 
+Language: PHP 
+Success  
+Knowledgeab MySQL, Core Php.  
+Knowledgeab HTML, Css, Jquery, Ajax. 
+Use of technology  
+Dreamweaver CS4, MySQL. 
+Hobbies 
+Programming, music, film, game, sports, travel. 
+Position 
+Staff design website, programming, design website, knowledgeable hardware  
+o Because :  
+I like programming and design website because this is my hobby. 
+Knowledgeable internet, setup software, repair hardware. 
+I would like to improve their knowledge and to communicate 
+exchange of experience working with people. 
+I want to prove myself. 
+Time to work 
+o Work immediately. 
+CANDIDATES INFORMATION 
+Workplace desired 
+o HCM City, Dong Nai. 
+I hope I have the opportunity to discuss with Mr / Mrs so. I can better present their skills. We 
+wish He / She will arrange a time to interview me. 
+Please send to Mr / Mrs greetings. 
+HCM City, 14/01/2016 
+Signature 
+Than 
+Ha Dang Van Than 

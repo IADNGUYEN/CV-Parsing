@@ -1,0 +1,52 @@
+Learn from Data: 
+Linear Model , Error and Noise,
+Training versus Testing, 
+Neural Networks, Overfitting,
+Regularization, Validation, 
+Support Vector Machines. 
+Kernel Methods
+Kernel Methods
+Artificial intelligence
+Artificial neural networks,
+activation function,
+Perceptron, learning rate
+Back-propagation learning algorithm,
+momentum, 
+Convolutional Neural Networks
+Convolutional Neural Networks
+courses
+Mongo DB
+VueJS
+Java Spring Boot
+Bootstrap
+Java
+HTML/JavaScript
+Caro game using Monte Carlo tree search
+Handwritten Digit Recognition
+Simple Web  sales with VueJs
+projects
+Object detect with Yolo
+Semi-final THACH THUC 2017
+Consolation prizes GAME UIT
+HACKATHON 2017
+Computer Science
+2015   NOW
+2015: GPA 8.31
+2016: GPA 8.01
+2017: GPA 8.23
+2018: Semester 1 GPA 8.6
+UNIVERSITY OF SCIENCE
+5/2018  NOW
+Java Backend Fresher at VNG
+I learned about restAPI, Java servlet,  unit test, redis Cache, 
+zookepper, kafka, log4j, cassandra  
+Address
+124 Ta Quang Buu, Ward 4, District 8, 
+Ho Chi Minh City
+Email
+tianangthang7@gmail.com
+Facebook
+fb.com/tianangthang7
+Phone
+083 698 7756
+NGUYEN HOANG ANH

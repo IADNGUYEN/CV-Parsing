@@ -1,0 +1,147 @@
+Bui Quoc Trung
+Personal details
+First name:
+Quoc Trung
+Family name:
+Bui
+Title:
+PhD in Computer Science
+Place and Date of Birth:
+Thai Binh | 05 September 1986
+Affiliation:
+Viettel Research and Development Institute
+Hoa Lac, Ha Noi, Viet Nam
+email:
+buiquoctrung@gmail.com
+Research interests
+NP-hard problems: routing, transportation, logistics, scheduling, planing, resource
+allocation
+Exact approaches for optimization problems: branch-and-cut algorithms, branch-and-
+price algorithm, branch-and-infer algorithms
+Heuristic and meta-heuristic approaches for optimization problems: neighborhood
+search, large neighborhood search, Tabu search
+Machine learning: classification, clustering, forecast for time series
+Simulation: Monte Carlo, agent-based simulation
+Publications
+Q.T. Bui, T. Vidal, M.H. Ha.
+On three soft rectangle packing problems with the
+guillotine constraints, on writing.
+Q.T. Bui, Q.P. Pham, Y. Deville, M.H. Nguyen, M.H. Ha. Land allocation problem,
+on writing.
+Q.T. Bui, T.L.T. Nguyen, Q.B. Nguyen, T.S. Le. Modelling and Solving Anti-aircraft
+Mission Planning for Defensive Missile Battalions, submitted to a journal.
+T.L.T. Nguyen, Q.T. Bui, Q.B. Nguyen, T.S. Le. Mathematical Programs and Com-
+putations for a Class of Anti-aircraft Mission Planning Problems, ICORES 2018.
+T.L.T. Nguyen, Q.T. Bui, Q.B. Nguyen, T.S. Le. Modelling and Solving Anti-aircraft
+Mission Planning for Defensive Missile Battalions, 11th Annual International Con-
+ference on Combinatorial Optimization and Applications (COCOA’17), Shanghai,
+China, December 2017. Lecture Notes in Computer Science, Springer, 2017.
+Q.T. Bui, T.L.T. Nguyen, Q.B. Nguyen, T.S. Le. On the Mathematical Program in
+Theater Anti-aircraft Distribution Problem, 2017 IEEE International Conference on
+Industrial Engineering and Engineering Management (IEEM2017), Singapore, De-
+cember 2017.
+L. Chen, B. Chen, M.H. Ha, Q.T Bui. Designing service sectors for daily maintenance
+operations in a road network, International Journal of Production Research 55 (8),
+2251-2265 (2017).
+Q.D Pham, K.T Le, T.H Nguyen, V.D Pham, Q.T Bui. A Constraint-Based Local
+Search for offline and online general vehicle routing, International Journal on Artificial
+Intelligence Tools 26 (02), 1750004 (2017).
+K.H Pham, M.D Nguyen, Q.T Bui. Local Search Approach For Pairwise Constrained
+Clustering Problem, In Proceeding of Symposium on Information and Communication
+Technology (SoICT2016), HoChiMinh, Vietnam, 2016.
+Q.T. Bui, Q.D. Pham, Y. Deville. Exact Methods for Solving the Elementary Shortest
+and Longest Path Problems, Annals Operations Research 244 (2), 313-348 (2016).
+Q.T. Bui, Q.D. Pham, Y. Deville.
+Solving the Quorumcast Routing Problem as
+a Mixed Integer Program, 11th International Conference on Integration of AI and
+OR Techniques in Constraint Programming for Combinatorial Optimization Prob-
+lems (CPAIOR 2014), Cork, Ireland, May 2014, Lecture Notes in Computer Science,
+Springer, pages 45-54, 2014.
+Q.T. Bui, Q.P. Pham, Y. Deville. Solving the Agricultural Land Allocation Problem
+by Constraint-Based Local Search, 9th International Conference on Principles and
+Practice of Constraint Programming (CP 2013), Uppsala, Sweden, October 2013.
+Lecture Notes in Computer Science, Springer, pages 749-757, 2013.
+Q.T. Bui, Q.D. Pham, Y. Deville. Constraint-based local search for Field Partitioning
+Problem, In Proceedings of Symposium on Information and Communication Technol-
+ogy (SoICT2011), Hanoi, Vietnam, pages 19–28, 2011.
+Education
+December 2015
+PhD in Computer Science,
+Université catholique de Louvain (UCLouvain), Belgium
+Thesis: “Modeling and solving complex combinatorial optimization
+problems: quorumcast routing, elementary shortest and longest paths
+and agricultural land allocation”
+October 2011
+Master in Computer Science,
+Institut de la Francophonie pour l’Informatique, Vietnam
+Thesis: “Constraint-based local search for field partitioning problem”
+June 2008
+Bachelor in Computer Science (honors program),
+VNU, University of Engineering and Technology, Vietnam
+June 2004
+Baccalaureate Certificates,
+VNU, University of Science, Gifted High School in Math
+and Informatics (A0), Vietnam
+Working experiences
+April 2017- now
+Researcher at Viettel Research and Development Insti-
+tute, Hanoi
+One of two searchers for two projects: Optimal theatre distribution
+and Combat modelling
+Jan 2016- March 2017
+Researcher and Lecturer at FPT Technology Research In-
+stitute (FTRI), FPT University, Hanoi
+Data science leader in the Vietnamese Financial Institu-
+tion Healthy Prediction project funded by the World Bank,
+hosted by the Deposit Insurance of the Vietnam  the State
+Bank of Vietnam ($ 17 million), monitored by PwC, cov-
+ered 39 commercial banks and more than 2000 credit funds
+of Vietnam
+– Prediction of default probabilities for the Vietnamese
+financial institutions
+– Forecast of insured deposit for the Vietnamese commer-
+cial banks
+– Prediction of ranking change probabilities for the Viet-
+namese commercial banks
+– Estimation of target fund for Deposit Insurance of Viet-
+nam of the Vietnam  the State Bank of Vietnam
+Data science advisor for FPT university student drop-out
+prediction project
+Data science leader for Automotive Insurance project funded
+by Toshiba
+– Driving scoring model
+– Automatic accident detection
+Teaching experiences
+Jan 2016-March 2017
+Lecturer at FPT University, Hanoi
+Courses: Data Mining, Artificial Intelligence
+Apr 2012-Dec 2012
+Teaching assitance at UCLouvain, Belgium
+Course: Object Oriented Programming with Java
+Dec 2009-Oct 2010
+Lecturer at Hanoi University of Industry, Hanoi
+Courses: Software Engineering, Object Oriented Programming
+Scholarships and Certificates
+UCLouvain Scholarship for PhD Program at UCLouvain, 2012-2015
+WBI Scholarship for Master Internship at UCLouvain, April  October 2011
+Second and Third Prizes, National Mathematical Olympiads for University Students,
+2005 and 2008
+Good student of Vietnam National University Hanoi, 2004
+Languages
+English:
+Intermediate
+French:
+Intermediate
+Vietnamese:
+Mothertongue
+Programming skills
+C/C++, Java, JSP, PHP, MySQL
+CPLEX (strong platform for solving integer programming problems, quadratic pro-
+gramming problems), SCIP (strong platform for mixed integer programming and
+mixed integer nonlinear programming using branch-and-cut algorithms, branch-and-
+infer algorithms, branch-and-price algorithms, branch-cut-and-infer algorithm, branch-
+price-and-cut algorithm)
+OpenCV (open library of programming functions for computer vision), Weka (collec-
+tion of machine learning algorithms for data mining tasks), R (programming language
+and software environment for statistical computing and graphics), IRACE (tool for
+tuning parameters)

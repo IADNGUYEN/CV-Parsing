@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="18" family="FPJCYX+Arial" color="#000000"/>
+	<fontspec id="1" size="36" family="FPPLJC+TimesNewRoman" color="#000000"/>
+	<fontspec id="2" size="18" family="FPJCYX+Arial" color="#000000"/>
+<text top="264" left="239" width="5" height="17" font="0"> </text>
+<text top="117" left="277" width="319" height="32" font="1">PHẠM ANH TUẤN </text>
+<text top="164" left="277" width="398" height="17" font="2"><i>AI &amp; Machine Learning intern – TMA solutions </i></text>
+<text top="185" left="277" width="5" height="17" font="2"><i> </i></text>
+<text top="205" left="277" width="105" height="17" font="0">Day of birth </text>
+<text top="205" left="488" width="95" height="17" font="0">25/04/1996 </text>
+<text top="229" left="277" width="68" height="17" font="0">Gender </text>
+<text top="229" left="488" width="44" height="17" font="0">Male </text>
+<text top="253" left="277" width="60" height="17" font="0">Phone </text>
+<text top="253" left="488" width="115" height="17" font="0">090 250 7349 </text>
+<text top="277" left="277" width="53" height="17" font="0">Email </text>
+<text top="277" left="488" width="169" height="17" font="0">pat25bk@gmail.com </text>
+<text top="301" left="277" width="77" height="17" font="0">Address </text>
+<text top="301" left="488" width="301" height="17" font="0">Binh Tan district, HCM city, Viet Nam </text>
+<text top="324" left="108" width="5" height="17" font="0"> </text>
+<text top="363" left="108" width="107" height="17" font="0">OBJECTIVE </text>
+<text top="387" left="108" width="663" height="17" font="0">An internship in AI sector will provide the opportunity to expand my knowledge and </text>
+<text top="408" left="108" width="161" height="17" font="0">reinforce my thesis. </text>
+<text top="420" left="108" width="5" height="17" font="0"> </text>
+<text top="454" left="108" width="112" height="17" font="0">EDUCATION </text>
+<text top="478" left="108" width="50" height="17" font="0">2014  </text>
+<text top="478" left="222" width="191" height="17" font="0">Bach Khoa University </text>
+<text top="502" left="222" width="289" height="17" font="0">Expected to graduate in June, 2018 </text>
+<text top="526" left="222" width="325" height="17" font="0">Major : Electronics - Telecommunication </text>
+<text top="550" left="222" width="108" height="17" font="0">GPA : 7.9/10 </text>
+<text top="565" left="108" width="5" height="17" font="0"> </text>
+<text top="599" left="108" width="102" height="17" font="0">PROJECTS </text>
+<text top="623" left="108" width="45" height="17" font="0">2017 </text>
+<text top="623" left="222" width="171" height="17" font="0">Scientific Research </text>
+<text top="643" left="222" width="421" height="17" font="2"><i>Hacking navigation devices by conterfeit GPS signal </i></text>
+<text top="664" left="222" width="568" height="17" font="0">Re-genarating  GPS  signals  on  SDR  platfrom  and  evaluating  their </text>
+<text top="685" left="222" width="327" height="17" font="0">affects on navigation devices and drone. </text>
+<text top="705" left="222" width="5" height="17" font="0"> </text>
+<text top="726" left="108" width="45" height="17" font="0">2018 </text>
+<text top="726" left="222" width="62" height="17" font="0">Thesis </text>
+<text top="747" left="222" width="561" height="17" font="2"><i>Articulated Human detection and pose estimate by parts-based model </i></text>
+<text top="768" left="222" width="568" height="17" font="0">Building  a  system  that  can  estimate  2D  human  pose  in  image.  The </text>
+<text top="788" left="222" width="568" height="17" font="0">system  uses  parts-based  model  with  tree  structure  and  is  trained  by </text>
+<text top="809" left="222" width="61" height="17" font="0">SSVM. </text>
+<text top="821" left="108" width="5" height="17" font="0"> </text>
+<text top="855" left="108" width="69" height="17" font="0">SKILLS </text>
+<text top="882" left="108" width="230" height="17" font="0">C/C++/MATLAB programing </text>
+<text top="882" left="499" width="5" height="17" font="0"> </text>
+<text top="906" left="108" width="153" height="17" font="0">Independent study </text>
+<text top="906" left="499" width="5" height="17" font="0"> </text>
+<text top="930" left="108" width="239" height="17" font="0">Ability to read scientific paper </text>
+<text top="930" left="499" width="5" height="17" font="0"> </text>
+<text top="954" left="108" width="5" height="17" font="0"> </text>
+<text top="990" left="108" width="104" height="17" font="0">ACTIVITIES </text>
+<text top="1017" left="108" width="45" height="17" font="0">2014 </text>
+<text top="1017" left="222" width="302" height="17" font="0">Green Summer Volunteer Campaign  </text>
+<text top="1040" left="108" width="45" height="17" font="0">2017 </text>
+<text top="1040" left="222" width="226" height="17" font="0">Spring Volunteer Campaign </text>
+<text top="1064" left="108" width="5" height="17" font="0"> </text>
+<text top="1100" left="108" width="156" height="17" font="0">CERTIFICATIONS </text>
+<text top="1127" left="108" width="45" height="17" font="0">2017 </text>
+<text top="1127" left="222" width="267" height="17" font="0">TOIEC Certificate with score 840 </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="112" left="108" width="5" height="17" font="0"> </text>
+</page>
+</pdf2xml>

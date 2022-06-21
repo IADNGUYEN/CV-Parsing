@@ -1,0 +1,47 @@
+Vương Đức Đại
+Personal details
+Full name
+Vương Đức Đại
+Date of birth
+07/06/1996
+Phone
++84 908062511
+Email
+daivuong7696@gmail.com
+Skype
+daivuong7696@outlook.com
+Facebook
+www.facebook.com/daivuong7696
+Experience
+Education
+2014–current
+Final year student, Bach Khoa University, Hồ Chí Minh city.
+Faculty of Computer Science and Engineering
+GPA: 7.8/10
+Knowledge
+Programming
+Python, C/C++, Scala
+Machine
+learning
+Have strong basic knowledge about machine learning
+Libraries
+Experience with numpy, tensorflow, scikit-learn
+Projects
+Projects I
+have done
+using AI
+School’s assignments:
+Playing chess using AI: checker
+Street view house number recognition
+Projects I am
+doing using
+AI
+Thesis:
+Scene recognition using CNN
+Languages
+Viet Nam
+Mother tongue
+English
+Intermediate:
+Able to listen, read, write and hold basic conversations
+Certificate: TOEIC 815 (valid until 26/11/2019)

@@ -1,0 +1,190 @@
+Triệu Tấn Vinh 
+Front-End Developer 
+1) OVERVIEW 
+Full name: 
+Triệu Tấn Vinh 
+Date of Bird: 
+15/08/1985 
+Gender: 
+Male 
+Marital Status: 
+Married 
+Nationality: 
+Vietnamese 
+Mobile: 
+090 925 20 26 
+Email: 
+vinh1508@gmail.com 
+Skype 
+trieutanvinh 
+Availability: 
+30 days required upon confirmation of offer 
+2) CAREER OBJECTIVES 
+My objective is to work in a professional environment where my skills are valued and 
+can benefit the company. 
+Learn more experience to improve skill web developer and become a project manager. 
+3) TECHNICAL SKILLS 
+Databases 
+MS SQL Server, My SQL, MongoDB 
+IDE 
+Sublime Text , MS Visual Code, Eclipse,… 
+Methodologies  
+& Tools 
+jQuery, AngularJS, Bootstrap, Sass, Less, Meteor, ReactJS, 
+AngularJS, NodeJS, Gulp,  Yeoman Generator, Webpack 
+4) EMPLOYMENT HISTORY 
+11-2015  Present 
+3Forcom 
+Senior Front End Developer 
+03-2015  11-2015 
+Sunrise Software Solutions (S3) 
+Front-End Web Developer 
+2009 – 2015 
+Portfolio Management Software Alliance (PMSA) 
+Web developer 
+2008 – 2009 
+New Horizons (NHS) 
+Web developer (trainee) 
+Triệu Tấn Vinh – Front End Web Developer 
+vinh1508@gmail.com – 090 925 20 26 
+skype: trieutanvinh 
+2 
+5) LANGUAGES SKILLS 
+Vietnamese: 
+Native language. 
+English: 
+Able to read technical documents and discuss via chat 
+6) LIST OF PROJECTS 
+3FORCOM 
+Projects: 
+Chat Mail 
+Description: 
+ChatMail brings the convenience of Chat Messaging to Emails. 
+Get instant notifications, Read and Read capabilities, speed up 
+business requirements. 
+Team size: 
+04 members. 
+Responsibility: 
+Front End 
+Technologies: 
+Meteor, React, MongoDB, CSS, JavaScript, jQuery, Responsive. 
+Projects: 
+Property Match 
+Description: 
+With the understanding that Agents drive the market. We’ll 
+looking to craft a bottom up approach to penetrate the property 
+market. 
+We’ll create a personalised app for each Agent to own. We’ll 
+create a means to connect to their customers. 
+Team size: 
+04 members. 
+Responsibility: 
+Front End 
+Technologies: 
+Meteor, Angular, MongoDB, CSS, JavaScript, jQuery, Responsive. 
+SUNRISE SOFTWARE SOLUTIONS (S3) 
+Projects: 
+HUNGRY GO WHERE 
+Description: 
+Search where to eat in Singapore and Malaysia. 
+Team size: 
+02 members. 
+Responsibility: 
+Convert PSD layout to HTML with CSS, JavaScript. 
+Technologies: 
+CSS, JavaScript, jQuery, Responsive. 
+Projects: 
+INSING 
+Description: 
+This is the ultimate guide to going out in Singapore. Check out 
+the latest movie show times. 
+Team size: 
+06 members. 
+Responsibility: 
+Front End, convert PSD layout to HTML with CSS, JavaScript. 
+Triệu Tấn Vinh – Front End Web Developer 
+vinh1508@gmail.com – 090 925 20 26 
+skype: trieutanvinh 
+3 
+Technologies: 
+CSS, JavaScript, jQuery, Responsive. 
+PMSA 
+Projects: 
+SAIGONBANK BERJAYA SECURITIES JSC 
+Description: 
+Company website project.  
+Duration: 
+01 week. 
+Team size: 
+02 members. 
+Responsibility: 
+Front-end web developer. 
+Develop from detail design document. 
+Convert PSD layout to HTML with CSS, JavaScript. 
+Technologies: 
+MS SQL Server, Asp.Net, C#, CSS, JavaScript, jQuery. 
+Projects: 
+VGB CORPORATION 
+Description: 
+Company website project 
+Duration: 
+02 weeks. 
+Team size: 
+02 members. 
+Responsibility: 
+Front-end web developer. 
+Develop from detail design document. 
+Convert PSD layout to HTML with CSS, JavaScript. 
+Push price, draw chart. 
+Technologies: 
+MS SQL Server, Asp.Net, C#, CSS, JavaScript, jQuery. 
+Projects: 
+PMSA CORPORATION 
+Description: 
+Company website project. 
+Duration: 
+02 weeks. 
+Team size: 
+01 member. 
+Responsibility: 
+Front-end web developer. 
+Develop from detail design document. 
+Convert PSD layout to HTML with CSS, JavaScript, AngularJS 
+Technologies: 
+MS SQL Server, Asp.Net, C#, CSS, JavaScript, jQuery. 
+Projects: 
+i-Markets 
+Description: 
+Large Website Management System Stock Exchange. 
+Duration: 
+03 years. 
+Team size: 
+05 members. 
+Responsibility: 
+Front-end web developer. 
+Develop from detail design document. 
+Submit form with web services via Ajax. 
+Develop stock price board. 
+Use jQuery plugin to draw chart stock. 
+Technologies: 
+MS SQL Server, Asp.Net, C#, JavaScript, CSS, jQuery, stream. 
+Triệu Tấn Vinh – Front End Web Developer 
+vinh1508@gmail.com – 090 925 20 26 
+skype: trieutanvinh 
+4 
+Projects outside 
+Description: 
+Company website project. 
+Team size: 
+01 member. 
+Responsibility: 
+Front-end web developer. 
+Develop from detail design document. 
+Technologies: 
+MS SQL Server, Asp.Net, C#, JavaScript, CSS, jQuery. 
+7) OTHER SKILLS & & SPECIAL ARCHIVEMENTS 
+Good soft skills, team work. 
+Fast learning, self-motivated. 
+Can work under pressure and flexible hours. 
+8) INTEREST 
+Willing to travel, play badminton, listen to music and watch movie. 

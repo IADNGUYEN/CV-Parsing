@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1333" width="987">
+	<fontspec id="0" size="22" family="CABNDWebBold" color="#ffffff"/>
+	<fontspec id="1" size="26" family="CABNDWebBold" color="#ffffff"/>
+	<fontspec id="2" size="23" family="CABNDWebBold" color="#ffffff"/>
+	<fontspec id="3" size="16" family="CABNDWebBold" color="#ffffff"/>
+	<fontspec id="4" size="20" family="CABNDWebBold" color="#333333"/>
+	<fontspec id="5" size="19" family="CABNDWebBold" color="#000000"/>
+	<fontspec id="6" size="22" family="CABNDWebBold" color="#000000"/>
+	<fontspec id="7" size="23" family="CABNDWebBold" color="#000000"/>
+	<fontspec id="8" size="15" family="CABNDWebBold" color="#ffffff"/>
+	<fontspec id="9" size="15" family="CABNDWebBold" color="#333333"/>
+	<fontspec id="10" size="14" family="CABNDWebBold" color="#ffffff"/>
+	<fontspec id="11" size="33" family="CABNDWebBold" color="#000000"/>
+	<fontspec id="12" size="46" family="CABNDWebBold" color="#333333"/>
+	<fontspec id="13" size="17" family="CABNDWebBold" color="#ffffff"/>
+	<fontspec id="14" size="18" family="CABNDWebBold" color="#333333"/>
+	<fontspec id="15" size="21" family="CABNDWebBold" color="#333333"/>
+	<fontspec id="16" size="20" family="CABNDWebBold" color="#ffffff"/>
+	<fontspec id="17" size="12" family="CABNDWebBold" color="#ffffff"/>
+	<fontspec id="18" size="17" family="CABNDWebBold" color="#000000"/>
+	<fontspec id="19" size="18" family="CABNDWebBold" color="#000000"/>
+	<fontspec id="20" size="12" family="CABNDWebBold" color="#000000"/>
+<text top="428" left="287" width="108" height="20" font="0"><b>Department :</b></text>
+<text top="239" left="121" width="59" height="25" font="1"><b>Major:</b></text>
+<text top="224" left="263" width="103" height="20" font="0"><b>GPA: 7.9/10</b></text>
+<text top="209" left="612" width="172" height="21" font="2"><b>HCMC University of </b></text>
+<text top="231" left="612" width="101" height="21" font="2"><b>Technology</b></text>
+<text top="237" left="734" width="81" height="15" font="3"><b>(2011-2016)</b></text>
+<text top="565" left="768" width="203" height="19" font="4"><b>Build and boot Linux core, </b></text>
+<text top="585" left="768" width="220" height="19" font="4"><b>developing program display </b></text>
+<text top="604" left="768" width="195" height="19" font="4"><b>info of peripheral on SoC </b></text>
+<text top="624" left="768" width="57" height="19" font="4"><b>ARMv8 </b></text>
+<text top="1220" left="719" width="74" height="18" font="5"><b>May 2011</b></text>
+<text top="869" left="667" width="64" height="21" font="6"><b>Dec 2014</b></text>
+<text top="776" left="776" width="63" height="21" font="6"><b>Mar 2015</b></text>
+<text top="303" left="699" width="144" height="22" font="7"><b>Apr 2016 : Graduation </b></text>
+<text top="455" left="769" width="67" height="21" font="6"><b>Aug  2015</b></text>
+<text top="513" left="623" width="107" height="21" font="2"><b>Internships:</b></text>
+<text top="668" left="71" width="8" height="15" font="8"><b>C</b></text>
+<text top="697" left="71" width="42" height="15" font="8"><b>Python</b></text>
+<text top="725" left="68" width="29" height="15" font="8"><b>C++  </b></text>
+<text top="755" left="68" width="63" height="15" font="8"><b>bash shell</b></text>
+<text top="876" left="63" width="78" height="15" font="8"><b>Raspberry Pi</b></text>
+<text top="785" left="68" width="25" height="15" font="8"><b>ASM</b></text>
+<text top="907" left="66" width="126" height="15" font="8"><b>Protocol : I2C, SPI, ...</b></text>
+<text top="956" left="305" width="33" height="15" font="9"><b>Great</b></text>
+<text top="850" left="61" width="142" height="13" font="10"><b>MCU TI (MSP430 , TIVA,..)</b></text>
+<text top="955" left="49" width="41" height="15" font="9"><b>Decent</b></text>
+<text top="168" left="89" width="148" height="31" font="11"><b>Education</b></text>
+<text top="20" left="56" width="446" height="42" font="12"><b>BUI NGUYEN NHAT QUANG</b></text>
+<text top="106" left="53" width="313" height="16" font="13"><b>bnnquang@gmail.com                                     </b></text>
+<text top="365" left="490" width="78" height="21" font="2"><b>Projects:</b></text>
+<text top="1098" left="50" width="92" height="21" font="2"><b>Volunteer:</b></text>
+<text top="679" left="557" width="183" height="17" font="14"><b>Project 2 : Design Mobile </b></text>
+<text top="698" left="557" width="159" height="17" font="14"><b>Robot tracking object </b></text>
+<text top="716" left="557" width="169" height="17" font="14"><b>using embedded board </b></text>
+<text top="735" left="557" width="190" height="17" font="14"><b>Raspberry Pi  + MSP430 ( </b></text>
+<text top="753" left="557" width="175" height="17" font="14"><b>Python, C, I2C, OpenCV )</b></text>
+<text top="1245" left="669" width="192" height="20" font="15"><b>Graduated High School</b></text>
+<text top="863" left="810" width="154" height="17" font="14"><b>Second Prize of Do It </b></text>
+<text top="881" left="810" width="128" height="17" font="14"><b>Different Contest </b></text>
+<text top="899" left="810" width="92" height="17" font="14"><b>(hold by PIF)</b></text>
+<text top="646" left="650" width="75" height="21" font="6"><b> June 2015</b></text>
+<text top="1057" left="825" width="100" height="17" font="14"><b>Become PIF's </b></text>
+<text top="1075" left="825" width="60" height="17" font="14"><b>member</b></text>
+<text top="1008" left="36" width="73" height="19" font="16"><b>Windows</b></text>
+<text top="1008" left="146" width="43" height="19" font="16"><b>Linux</b></text>
+<text top="619" left="77" width="84" height="31" font="11"><b>Skills</b></text>
+<text top="997" left="236" width="97" height="19" font="16"><b>ROS ( Robot </b></text>
+<text top="1017" left="236" width="147" height="19" font="16"><b>Operating System)</b></text>
+<text top="1164" left="370" width="33" height="12" font="17"><b>Travel</b></text>
+<text top="1129" left="368" width="36" height="12" font="17"><b>Soccer</b></text>
+<text top="1164" left="423" width="93" height="12" font="17"><b>Entrepreneurship</b></text>
+<text top="1164" left="370" width="33" height="12" font="17"><b>Travel</b></text>
+<text top="1094" left="363" width="71" height="16" font="18"><b>Interests</b></text>
+<text top="1109" left="588" width="111" height="17" font="19"><b>Study at HCMC </b></text>
+<text top="1127" left="588" width="100" height="17" font="19"><b>University of </b></text>
+<text top="1146" left="588" width="84" height="17" font="19"><b>Technology</b></text>
+<text top="1220" left="362" width="120" height="12" font="20"><b>Number of Scholarship</b></text>
+<text top="91" left="53" width="112" height="16" font="13"><b>0165 729 6950</b></text>
+<text top="411" left="476" width="182" height="17" font="14"><b>Mapping and Automatic </b></text>
+<text top="430" left="476" width="232" height="17" font="14"><b>Navigation Robot using Kinect </b></text>
+<text top="449" left="476" width="206" height="17" font="14"><b>(C++, ROS, Microprocessor)</b></text>
+<text top="808" left="85" width="-7" height="15" font="8"><b>C </b></text>
+<text top="290" left="311" width="87" height="22" font="2"><b>TOEIC 655</b></text>
+<text top="943" left="500" width="207" height="17" font="19"><b>Design Mobile  Robot avoid </b></text>
+<text top="962" left="500" width="250" height="17" font="19"><b>obstacles  use sonar sensor ( C, </b></text>
+<text top="981" left="500" width="129" height="17" font="19"><b>Microprocessor )</b></text>
+<text top="816" left="68" width="151" height="15" font="8"><b>PLC ( Siemens, OMRON,..)</b></text>
+<text top="1147" left="40" width="125" height="16" font="18"><b>19 social work </b></text>
+<text top="1166" left="40" width="43" height="16" font="18"><b> days</b></text>
+<text top="1270" left="41" width="271" height="16" font="18"><b>I'll  try my best to become a good </b></text>
+<text top="1289" left="41" width="232" height="16" font="18"><b>embedded software engineer</b></text>
+<text top="1204" left="49" width="126" height="21" font="2"><b>Admire career</b></text>
+</page>
+</pdf2xml>

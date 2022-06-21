@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="37" family="VZWUBD+NimbusSanL" color="#000000"/>
+	<fontspec id="1" size="21" family="VZWUBD+NimbusSanL" color="#000000"/>
+	<fontspec id="2" size="16" family="TVCXZX+CMTI10" color="#000000"/>
+	<fontspec id="3" size="16" family="HZWUFL+CMR10" color="#000000"/>
+	<fontspec id="4" size="16" family="JUVYSR+CMTT10" color="#000000"/>
+	<fontspec id="5" size="16" family="DBGKOG+CMBX10" color="#000000"/>
+	<fontspec id="6" size="16" family="HZWUFL+CMR10" color="#ffffff"/>
+	<fontspec id="7" size="14" family="HZWUFL+CMR10" color="#000000"/>
+<text top="341" left="419" width="340" height="35" font="0"><b>Nguyen Van Quang</b></text>
+<text top="404" left="134" width="216" height="20" font="1"><b>PERSONAL DETAILS</b></text>
+<text top="446" left="166" width="37" height="15" font="2">Birth</text>
+<text top="445" left="284" width="110" height="15" font="3">March 19, 1997</text>
+<text top="467" left="165" width="55" height="15" font="2">Address</text>
+<text top="465" left="284" width="383" height="15" font="3">497 Hoa Hao, Ward 7, District 10, Ho Chi Minh City</text>
+<text top="487" left="166" width="80" height="15" font="2">HomeTown</text>
+<text top="485" left="284" width="129" height="15" font="3">Phu Yen Province</text>
+<text top="507" left="166" width="45" height="15" font="2">Phone</text>
+<text top="506" left="289" width="93" height="15" font="3">0973 816 840</text>
+<text top="528" left="166" width="32" height="15" font="2">Mail</text>
+<text top="527" left="284" width="241" height="14" font="4">nguyen.vankwang193@gmail.com</text>
+<text top="546" left="164" width="73" height="15" font="2">University</text>
+<text top="546" left="284" width="353" height="15" font="3">Ho Chi Minh Univerity of Technology (HCMUT)</text>
+<text top="594" left="134" width="126" height="20" font="1"><b>EDUCATION</b></text>
+<text top="637" left="134" width="461" height="15" font="5">Senior of Electrical and Electronics Engineering Falcuty</text>
+<text top="638" left="677" width="78" height="15" font="6">2015 - now</text>
+<text top="657" left="133" width="273" height="15" font="2">Major in Communication Engineering</text>
+<text top="679" left="167" width="162" height="13" font="7">Stay in Honors program.</text>
+<text top="699" left="167" width="32" height="13" font="7">GPA</text>
+<text top="718" left="150" width="75" height="15" font="3">7.40/10.00</text>
+<text top="766" left="134" width="210" height="20" font="1"><b>RECENT PROJECTS</b></text>
+<text top="822" left="134" width="168" height="15" font="5">Signal Enhancement</text>
+<text top="812" left="697" width="60" height="15" font="6">4/2017 -</text>
+<text top="832" left="656" width="49" height="15" font="6">5/2017</text>
+<text top="853" left="131" width="503" height="15" font="2">Using C5515 Kit to process signal as well as CCS and Matlab Support</text>
+<text top="875" left="167" width="298" height="13" font="7">It was a project in Signal Processing Subject.</text>
+<text top="895" left="167" width="308" height="13" font="7">Firstly, establish signal and noise from Matlab,</text>
+<text top="915" left="167" width="248" height="13" font="7">then program in CCS to reduce noise.</text>
+<text top="946" left="134" width="109" height="15" font="5">Digital Clock</text>
+<text top="936" left="689" width="68" height="15" font="6">09/2017 -</text>
+<text top="956" left="655" width="57" height="15" font="6">11/2017</text>
+<text top="977" left="131" width="379" height="15" font="2">Using MSP430G2553, DS1307 and 6 8x8 Led Matrix</text>
+<text top="999" left="167" width="305" height="13" font="7">It is a project in Thuc Tap Dien Tu 2 Subject.</text>
+<text top="1019" left="167" width="217" height="13" font="7">Msp430 interfacing with DS1307,</text>
+<text top="1039" left="167" width="415" height="13" font="7">to show Date time in 6 Led Matrix, use shift register 74HC595.</text>
+<text top="1087" left="133" width="255" height="15" font="5">TCP/IP Client - Server Model</text>
+<text top="1077" left="689" width="68" height="15" font="6">10/2017 -</text>
+<text top="1097" left="655" width="57" height="15" font="6">11/2017</text>
+<text top="1119" left="131" width="528" height="15" font="2">Using ESP8266 as a client, Raspberry as a server, C Socket programming</text>
+<text top="1140" left="167" width="440" height="13" font="7">It was a project in Data Communications and Networking Subject.</text>
+<text top="1160" left="167" width="376" height="13" font="7">ESP8266 Interfacing with Raspberry Pi 3 through Socket</text>
+<text top="1181" left="167" width="327" height="13" font="7">Using Semaphore to synchronize thread in Server.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="8" size="16" family="YJVEAZ+CMCSC10" color="#000000"/>
+	<fontspec id="9" size="11" family="OUVHFK+CMR8" color="#000000"/>
+<text top="157" left="134" width="205" height="15" font="5">Lora Application System</text>
+<text top="157" left="661" width="94" height="15" font="6">1/2018 - now</text>
+<text top="177" left="133" width="402" height="15" font="2">Building IoT System - Smart lighting system using Lora</text>
+<text top="199" left="167" width="489" height="13" font="7">Lora can transceive up to 3000m and low-power, suitable for IoT Projects.</text>
+<text top="245" left="134" width="77" height="20" font="1"><b>SKILLS</b></text>
+<text top="286" left="166" width="73" height="15" font="2">Languages</text>
+<text top="286" left="284" width="300" height="15" font="3">English, TOEIC 865/990 (Test at School)</text>
+<text top="306" left="284" width="164" height="15" font="3">Japanese primary level</text>
+<text top="339" left="166" width="93" height="15" font="2">Programming</text>
+<text top="359" left="166" width="73" height="15" font="2">Languages</text>
+<text top="349" left="284" width="337" height="15" font="3">basic HTML, CSS, Javascript ,C Programming</text>
+<text top="391" left="166" width="31" height="15" font="2">Skill</text>
+<text top="393" left="284" width="63" height="14" font="8">Matlab</text>
+<text top="390" left="347" width="20" height="15" font="3">, L</text>
+<text top="390" left="361" width="10" height="11" font="9">A</text>
+<text top="390" left="368" width="35" height="18" font="3">TEX,</text>
+<text top="393" left="409" width="65" height="14" font="8">proteus</text>
+<text top="390" left="474" width="5" height="15" font="3">,</text>
+<text top="393" left="478" width="160" height="14" font="8">MySQL workbench</text>
+<text top="390" left="638" width="5" height="15" font="3">,</text>
+<text top="393" left="643" width="36" height="14" font="8">CCS</text>
+<text top="390" left="678" width="5" height="15" font="3">,</text>
+<text top="393" left="688" width="46" height="14" font="8">Linux</text>
+<text top="437" left="134" width="98" height="20" font="1"><b>HOBBIES</b></text>
+<text top="478" left="134" width="102" height="15" font="3">Programming,</text>
+<text top="498" left="134" width="75" height="15" font="3">Swimming</text>
+<text top="519" left="134" width="282" height="15" font="3">Drawbacks: Cannot design PCB board.</text>
+<text top="566" left="134" width="136" height="20" font="1"><b>OBJECTIVES</b></text>
+<text top="608" left="166" width="59" height="15" font="2">Position</text>
+<text top="607" left="284" width="302" height="15" font="3">Apply to IoT or Web Developer positions.</text>
+<text top="647" left="166" width="74" height="15" font="2">Profession</text>
+<text top="647" left="284" width="477" height="15" font="3">Enhance IoT Techniques, design protocol. Apply Blockchain in IoT,</text>
+<text top="668" left="167" width="203" height="15" font="3">Master ContikiOS for WSN.</text>
+<text top="708" left="166" width="73" height="15" font="2">Languages</text>
+<text top="708" left="284" width="165" height="15" font="3">N3 Japanese certificate</text>
+</page>
+</pdf2xml>

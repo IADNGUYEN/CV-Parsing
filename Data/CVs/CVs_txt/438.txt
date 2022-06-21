@@ -1,0 +1,46 @@
+Resume 
+Nguyen Thanh Nhan 
+Nguyen Thanh Nhan 
+B.Sc in Electrical and Electronics Engineering 
+Male – 22 years old – Vietnam 
+(+84) 967.555.921 
+nhanthanhnguyen2702@gmail.com 
+Profile 
+Decent knowledge in the area of image processing, machine learning and 
+deep learning. Experience in OOP and apply the algorithms to solve the 
+problem. The ability to work and research independently. 
+Work experience 
+Swiss Post Solutions Vietnam / AI engineer internship 
+4/2018 – 7/2018 
+Swiss Post Solutions Vietnam Ltd. (SPS) is an integral part of Swiss Post 
+Solutions, develops document processing services such as image 
+processing, web research and IT services. 
+Highlighted works  Implement image processing algorithm with OpenCV library.  Work with multithreading and design pattern.  Design a simple RESTful API with Python and Flask.  Implement VGG16 network with TensorFlow. 
+Technologies  Language: Python.  Library: OpenCV, Scikit-learn, TensorFlow.  Technique: Machine learning, Deep learning, image processing.  Version control tool: Mercurial, Git. 
+Resume 
+Nguyen Thanh Nhan 
+Skills 
+Technical skills 
+Programming languages: Python, C. 
+Libraries: OpenCV, Scikit-learn, TensorFlow. 
+Version control tool: Mercurial, Git. 
+Language 
+Vietnamese 
+English (TOEIC 630) 
+Education 
+Ho Chi Minh City University of Technology 
+B.Sc in Electrical and Electronics Engineering (2014 – 2018) 
+Knowledge:  Fundamental knowledge about calculus, algebra, statistics and 
+probability.  C programming language.  Image processing and Artificial Intelligence algorithms. 
+Thesis: “Handwritten Vietnamese character recognition”  Collect dataset from the images of 29 handwritten Vietnamese 
+characters.  Implement a Convolutional Neural Network with TensorFlow to 
+classify handwritten Vietnamese characters.  Get recognition rate 93% 
+Resume 
+Nguyen Thanh Nhan 
+References 
+Le Phuc Truong 
+AI Engineer 
+Swiss Post Solutions Vietnam Ltd. – Hochiminh City 
+Saigon ICT Tower, Quang Trung Software City, Hochiminh City, 
+Vietnam 
+Mail: truong.lephuc@gmail.com  Phone: 0903.736.607 

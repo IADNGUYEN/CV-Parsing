@@ -1,0 +1,56 @@
+CÔNG TY TNHH TIN HỌC Á ĐÔNG VI NA
+06/2017  TODAY
+NHAT CUONG SOFTWARE SOLUTION CO., LTD
+05/2016  05/2017
+UNIVERSITY SCIENCE UNIVERSITY OF SCIENCE TP.HCM
+09/2013  09/2016
+MAGIKLAB CLUB
+05/2016  06/2016
+Career Goal  Become a professional web developer within the next year.  Build and develop the most useful web site for users.
+ Experience
+RUBY​ ON RAILS Web Programming Employee  Use MYSQL to work with database.  Setup server linux: CentsOS 6-7 and Ubuntu  Using Git and Bitbucket, githud, trello to manage project, tool support is Smartgit and 
+FileZilla Client.  Write API for app mobile(RESTful, sent notice on smartphone)  Specialize in ecommerce web writing and projects according to customer requirements  System payment like paypal, stripe and other systems.  Experienced in app chat real time and asynchronously background processing  Join the project:        
++shop10k.vn(80%), shop365.sg(20%), racks.sg(100%), alomuanhanh.vn(70%), shopattdt.com.sg(30%),
+giaohang.advn.online(90%), smartmall.com.sg(90%)
++calpeda-asiapac.com, qrmart.com.sg
++ROR skills: scope (query rails and sql), understand the MVC model, OOP, Action
+Mailer, Action Pack, Action Controller, Action View, Active Model, Active Record, Active
+Resource, Active Support, Railties, Action Cable, Active Job, Rake routes and gem in rails. 
+ASP.NET MVC Web Programming Employee  Use dbForge and webservice to work with database and svn code management.  Use language: c #, jquery, write data query store.  Complete tasks assigned by Leader.  Projects are made:   + vpdt.nhatcuong.vn
++ solienlacdientu.hnegov.vn
++ giaoducdientu.hnegov.vn
++ dienthoaididong.com
+ Education
+College: Information Technology  Programming language:Ruby,  C#, HTML, Javarscript, Jquery, Css, Ajax, LinQ,
+EnityFramework, C, C ++, PHP, SQL.  Object-oriented programming (OOP).  Has worked with database management systems : SQL Server, MySQL, Oracle.  Use source code management software: SVN, Bitbucket.
+ Activity
+Member  When I joined the club I was given additional skills such as:
+ 02/01/1995
+ Nam
+ 0379918661
+ truongdoxuanbach@gmail.co
+m
+
+Street No. 4  Quarter 2  Linh
+Tay Ward  Thu Duc District
+
+https://www.facebook.com/c
+md0000
+SKILL
+Working group
+Problem solving
+Logical thinking
+Read materials and self study
+HOBBY
+Soccer
+Travel
+Listen to music
+TRƯƠNG ĐỖ XUÂN BÁCH
+TRƯƠNG ĐỖ XUÂN BÁCH
+WEB PROGRAMMER
++ Ability to code c #.
++ Working group.
++ Reading English.
+ More Information  I hope to have the opportunity to participate and contribute to the development of your
+company.- Thank you.
+© topcv.vn

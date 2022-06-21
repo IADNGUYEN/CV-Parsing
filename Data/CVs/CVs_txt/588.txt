@@ -1,0 +1,610 @@
+ 
+Hoang Pham 
+ODC Deputy Manager 
+Current Employer  
+DiCentral Vietnam Co., Ltd. 
+Previous Employer 
+LacViet Computing Corp. 
+Cellphone  
+(84) 903-784-668 
+Email 
+phamdachoang@yahoo.com 
+Skype  
+phamdachoang 
+Contact Info 
+Vietnamese name 
+Pham Dac Hoang 
+Gender :  
+Male 
+Address: 
+254 Phan Huy Ich St, Go Vap D, HCMcity, VN 
+Passport ID: 
+B0758128 
+LinkedIn: 
+https://www.linkedin.com/in/hoang-pham- 
+a1813126/ 
+Offshore Development Center Deputy Manager 
+Proven Technical & Management Expertise in Career Spanning 14+ Years 
+Summary Information 
+14+ years of extensive experience Technical Management, Project 
+Management, Process management & Software Programming  
+Over 10 years of experience in software outsourcing services and software 
+product development for US, Canada and Asia markets 
+6+ years of experience on Offshore Development Center Management. 
+Strong experience in system analyses, design and develop for distributed 
+systems, multi-tier systems and SOA/ SaaS applications for.NET platforms with 
+complex integration workflows. 
+Manage technical staff in the delivery of technical capabilities across multiple 
+features and maintain responsibility for quality delivery on time and under 
+budget. 
+Managed complex RFPs responses Managed EDI service, system 
+integration...) in terms of gathering information, architecting the solution and 
+compiling the SOW / BOQ, and providing the Technical / Business responses 
+Software development operations management consulting, especially for zero 
+process organizations. 
+Be the design authority for customer oriented, cost effective solutions. 
+Responsible for the coordination, delivery, and quality of presales technology 
+solution deliverables within the deal which may include items such as 
+configurations, architectural diagrams, and proposals. 
+Provide DiCentral Product training to the Asia Business Partners/ 
+VARS/Resellers.  
+Interested in challenging integration projects and coming up with eBusiness 
+strategies/ ideas to provide a company with a competitive edge to gain 
+additional global market shares 
+Ambitious, self-motivated, and goal-oriented individual with a passion for 
+automating processes to minimize operational cost 
+Objectives: 
+Be an expert in supply chain analysis 
+Become a solutions driver who bridges the gap between business and 
+technology with expertise in managing complex programs and multiple 
+concurrent projects 
+Detail Information: 
+Education & Training 
+TIME 
+COLLEGE 
+TRAINER / 
+DEPARTMENT 
+CERTIFICATE 
+3/2012 
+Management Quality 
+Institute 
+Management Quality 
+Institute 
+Project Management Professional 
+(PMBOK4) 
+9/2011 
+PACE Institute of 
+Directors 
+PACE Institute of 
+Directors 
+Management for Middle Manager 
+1/2009 
+University of Natural 
+Sciences 
+University of Natural 
+Sciences 
+Object Oriented Analysis and Design 
+with UML 
+7/2007 
+Microsoft 
+Microsoft 
+Microsoft Certified Business 
+Management Solutions Specialist  in 
+Trade and Logistic 
+2/2002 – 
+2004 
+National University  
+Information Technology 
+Department 
+June, 2004 
+1997 – 2002 
+University of Natural 
+Sciences 
+Physics Department 
+Bachelor in Physics  
+Technical Summary 
+Programming language & Frameworks: 
+C#, ASP.NET, VB.NET, ASP.NET, MSMQ, COM/DCOM, WCF, WF, .NET 
+platform, Restful/SOAP Web services 
+Enterprise Resource Planning (ERP)/ Accounting Systems / eCommerce: 
+On- Premise: SAP B1, Peachtree , Microsoft Dynamics AX, GP, NAV, Acomba 
+Cloud ERP: Quick Books, Net Suite 
+eCommerce: Amazon, eBay, Magento, Shopify, Xero, WordPress 
+Development Tools/Components 
+DevExpress, MS Enterprise Library, XML, Crystal Report, UML, Eclipse, TFS, 
+VSS, CVS, SVN, JIRA, Rational Software Modeler, Microsoft Visio, NUnit,  
+Database 
+SQL Server, My SQL, Oracle, No DB, Mongo DB 
+Management  Process/ Metrology/Framework: 
+RUP, Agile, Scrum, CMMi, PMBOK 4 
+Other Skills: 
+Architectural Patterns (n-Tiers, SOA, MVC/MVP, SaaS) 
+Business Domains: 
+Logistics / Transportation / Supply Chain 
+Inventory / Warehousing (3PL/ CFS/ Bonded WH) 
+Scan & Pack and Scan & Verify processes 
+Vendor/ Supplier Management 
+Account Payable / Account Receivable / General Ledger 
+Customer Relationship Management (CRM) 
+Material Requirements Planning (MRP) / Manufacturing 
+Fulfillment process 
+Human Resource Management / Talent Management 
+Data Marts, Business Intelligence 
+X12 EDI transactions for Supply Chains & EDIFACT transactions for Ocean 
+Freight Shipping 
+Automotive 
+Foreign Languages 
+Language 
+Communicate 
+Read 
+Write 
+English 
+Good 
+Good 
+Good 
+French 
+Average 
+Average 
+Average 
+Professional Experience Summary 
+Date 
+Company Name 
+Position 
+Reference 
+1/2011 – present 
+DiCentral Co Ltd 
+Offshore 
+Development Center 
+Deputy Manager 
++ http://DiCentral.com 
++ Mr. Hung Le –Project  
+Manager – 098.388.8422 
+7/2006 – 2010  
+DiCentral Co Ltd 
+Project Leader 
++ http://DiCentral.com 
++ Mr. Bang Vu –Project  
+Manager  090.803.4233 
+3/2005 – 7/2006 
+Lac Viet Computing 
+Corp 
+C#, Axapta Technical 
+Team Leader 
++ http://www.lacviet.com.vn 
+1/2004 – 2/2005 
+World Soft 
+NET Developer 
+http://worldsoft.com 
+Professional Experience: 
+Offshore Development Center Deputy Manager 
+DiCentral, From Jan, 2011 – Now 
+Acting as Program Manager of Offshore Development Center which is providing 
+Supply Chains products for 30000 global Hubs/Vendors and being responsible 
+for the following accounts: 
+1. Presales Solution Architect, provide Solution Support to Business Partners 
+and DiCentral Asia office (India, Japan, China, Vietnam)  
+2. Operations & Process management 
+3. Managing Outsource Projects 
+4. Product/Project Oversight and Program Management for Supply Chain 
+products and ERP/Accounting Integration Projects 
+Presales Solution Architect 
+Assisted sales organization in pre-sales technical capacity with business analysis 
+and acted as a liaison between sales & development department. 
+Received information from all necessary stakeholders within the customer's firm 
+to provide technical solutions and suitable support to convince client's technical 
+decision-maker. 
+Provide Product training to the Business Partners/ VARS/Resellers.  
+Responsible for the coordination, delivery, and quality of presales technology 
+solution deliverables which may include items such as business solutions, 
+architectural diagrams, and proposals 
+Ensures that proposed solutions/technical solutions, when implemented, meet the 
+needs and functional requirements of the customers 
+Support for complex RFPs responses in terms of gathering information, 
+architecting the solution and compiling the SOW / BOQ.  
+Biggest deal: support DiCentral Japanese win a 12 million USD contract to 
+deploy a Host To  Host Payment System & a Service Bureau for Bank of Tokyo 
+Mitsubishi UFJ & other Mega Banks in Japan. 
+Operation & Process Management 
+Manage a division of 20 software development teams (total 120+ headcounts 
+including PM/PL/ TLs, TA, BA,SE & QCs)  
+Plan, direct, and coordinate all daily activities associated with writing software.  
+Successfully deploy Project Server & Timesheet system to share project visibilities 
+to internal stake holders & customers. 
+Training/ coaching important domains/ Products such as EDI, ERP systems, 
+Supply Chains, Logistics, Inventory to new hired PMs/Leaders.  
+Define customized project management processes (Agile/ CMMI/ Customized 
+Development processes)  
+Ensure the development teams are practicing the core agile principles of 
+collaboration; prioritization, team accountability, and visibility; 
+Review resource plan/ workload/ capacity/ availability of each team project to 
+ensure that the production resources are allocated and planned effectively  
+Build knowledge management system (integrated with TFS) to keep track technical 
+skills/ business domains (Talent Management) to support Management Board 
+selecting suitable/relevant resources when initiating new projects. 
+Build project historical data (through case studies/ best practices) 
+Define Key Performance Index  KPIs and collect performance data to evaluate the 
+performance of the department / team / projects. 
+Oversight Outsourced projects 
+Support teams to design/review software architecture, system analysis, system 
+integration models, classify project risks & risk solving plans. 
+Help the team to translate business requirements to technical requirements using 
+Unified Modeling Language (UML /Visio) 
+Drive team through entire deployment process of various e-commerce web 
+applications/ Enterprise applications for Vietnamese customers such as Sai Gon 
+New Port, Daikin (E-Warranty, Bingo, etc.), Metro (Cloud Web EDI system 
+Responsible for outsourced project management/ up-sales projects within the time 
+limit and under budget. 
+Provide consistent quality of our project deliverables through the definition and 
+continuous improvement of system, processes and methodologies 
+Major Successful Projects (The top 3 biggest): 
+Project 
+Remark 
+Customer 
+Ocean EDI 
+Terminal 
+Provide Sai Gon New Port a cloud platform to perform all 
+Electronic Data Interchange (“EDI”) services for the Port 
+Authority’s Container Terminals. The Port Authority will collect 
+and produce EDI messages (BAYPLAN, CODECO, COREOR, 
+etc.) of many types to and from multiple entities. These entities 
+include but may not be limited to 44 shipping lines and their 
+agents (ACL, OCL, CMA, CNC, DEL, EMC, HJC, KLL, etc.) to 
+Vietnam Customs and Border Protection, stevedores, trucking 
+companies, and chassis providers. 
+Sai Gon New 
+Port 
+DiWMS 
+DIWMS is a complete solution for managing CFS Warehouse, 
+Inventory, and EDI Integration, helps Sai Gon New Port to 
+reduce ~ 40% effort for inventory on-going operation. 
+Integrated with TOPOVN, TOPX systems, WMSVN also helps 
+to reduce the dwell time and increase the performance of the 
+whole port. 
+Sai Gon New 
+Port 
+Medifr 
+A platform for healthcare providers across multiple practices, 
+facilities, and organizations to collaborate on patient care. It 
+starts from the core provider-to-provider transaction, the 
+referral of patients from a physician to a specialty 
+DVRS Health 
+Solutions 
+Product/ Project & Program Management 
+Owned the entire development cycle for the products, from idea stage to 
+completion & delivery. 
+Maintained roadmap for R& D solutions. 
+Supported internal & external stake holders with product strategy, content, vision 
+and participated actively with a pragmatic approach supporting sales, marketing & 
+delivery & support. 
+Worked with integration & delivery teams to ensure successful implementation of 
+software solutions within my influence 
+Provide consistent quality of our product deliverables through the definition and 
+continuous improvement of system, processes and methodologies 
+Managing plan to update both technical and business documents (High level 
+requirement / Business case / Use case, Design document, Deployment doc, etc.) 
+for reengineered products (inherited from M&A processes). 
+Review Unit Testing / Automation testing master plan applied for our products to 
+reduce on-going manual testing effort. 
+R & D and Initiate Critical/ Strategy products/ projects for DiCentral  
+Major Successful Program/Products (Top successful Supply 
+Chain Products): 
+Product 
+Remark 
+Relevant customers 
+Cloud 
+Interchange 
+Platform 
+(CIP) 
+A user–friendly, large-scale B2B EDI eCommerce 
+(Multi-tenant cloud based solution), help small & 
+medium businesses apply complex EDI requirements of 
+their trading partners. 
+EDI transactions are effortlessly validated, transmitted, 
+and completed quickly and without delays. DiWeb offers 
+real-time visibility of all your documents throughout the 
+entire supply chain 
+With more than 30000 Vendors & Big Retailers are 
+using our CIP platform & trillion of data records, we 
+can help a new Vendor easily catch up with thousands 
+of trading conditions of Retailers, help them to prevent 
+chargebacks & enhance their sales process. 
+Walmart, Costco, Kohl, 
+Walgreen, JCP Penny, 
+AAFES, BBB, 
+Academy, Kmart, 
+Nordstrom, Sears, 
+AEON, Metro… 
+DiWMS 
+DiCentral has many WH products such as DiOMS, 
+DiSmartTurn, and WMSVN. Every product caters to the 
+needs of different WH industry such as CFS, Bonded, 
+3PL, etc. The purpose of this project is to merge those 
+products into a centralized and standardized product 
+and will apply UI/UX approach to overcome the 
+difference between Web/ Desktop users. 
+Infinita, Dropics, Kendo, 
+MindsInSync, 
+Bari 
+Home, Hydra… 
+Base2 
+Base2 solution caters to the automotive parts 
+manufacturer that must meet the requirements of the 
+Just-in-Time manufacturing industry. Base2 works with 
+hundreds of trading partners in multiple industries 
+including Automotive Tier 1, and Tier 2, Off-Road, and 
+Heavy Machinery. Base2 is Honda certified for EDI and 
+bar code labeling. 
+Madision Precision, 
+Honda, Kapco, Yamoto 
+Corporation,  
+DiSmartTurn 
+A complete 3PL cloud WMS solution (Multi-tenant) 
+that provides complete visibility on the quantity, location, 
+and status of inventory flowing in and out of a location or 
+multiple warehouses. As a managed service, there is 
+no hardware to buy, no software to install, no network to 
+set-up and no technical staff to maintain. As a result, 
+warehouse operators don’t have to worry about system 
+deployments, performance, reliability or upgrades 
+Chicago Public school, 
+Neiman Marcus, Loving 
+Pets, Baker Maid, 
+Infinita, CWC, HGS, 
+Pharmaceutical 
+Corporation… 
+DiMetrics 
+DiMetrics is a hosted transaction visibility solution, 
+helping Vendors/Retailers manage critical exceptions 
+(are goods being shipped on time & complete, are 
+invoiced billed correctly, how many exceptions one 
+carrier have..) and share information more effectively by 
+monitoring retail business-to-business transactions. 
+Francesca & Shriner, 
+AEON, Metro, Arhaus, 
+Thomas Jefferson… 
+DiReplenish 
+DiReplenish provides a full range of VMI/SBT 
+capabilities. This features a high level of automation for 
+virtually any product mix and scales from 50 to 50,000 
+locations. Item-specific inventory is analyzed and orders 
+are produced according to your customer's rules.  
+Dollar, J&A, Lord & 
+Taylor, Top Heavy 
+Clothing… 
+Distribution 
+Management 
+System 
+(DiSupply) 
+A Web based application (MVC5) that connects 
+Vendors, Distributors, Sales Representatives and 
+Stores & provides vital information for Vendor about 
+inventory, self-through and replenishment… Accessible 
+through Web & mobile devices, DiSupply is designed to 
+simplify the user experience by providing the right 
+information to the right user, at a right time. 
+DiSupply enables entire Distribution community to 
+connect, manage and collaborate B2B cloud platform. 
+DiVerify 
+DiVerify is a cost effective fulfillment solution that 
+verifies the accuracy of orders by documenting the work 
+flow processes in packing operations. By scanning the 
+contents of orders, containers can be defined in real-
+time, reducing errors.  
+Successful Integration Products/ Projects: 
+Product 
+Remark 
+Relevant customers 
+DiIntegrator 
+An effective solution for logistic providers and multi –
+division distributors 
+Designed to manage and manipulate large volumes 
+of EDI data to facilitate orders and fulfillment 
+processes, effectively reduce the time it takes to 
+process EDI documents, ultimately speeding the 
+integration processes with On-Premise ERP/ 
+Accounting Systems such as SAP B1, Dynamics AX, 
+GP, NAV, Acomba, QuickBooks, Peachtree, etc.) 
+Neiman Marcus, Skin 
+Sake, TJM Innovations, 
+Infinita Corporation, 
+Imperial Tobacco, 
+Panamax, MindsInSync… 
+DiLogistics 
+DiLogistics provides a cost-effective EDI inventory 
+visibility solution for the Third Party Logistics Provider 
+and Freight Carrier industry. Our system enables 
+your business to stay up-to-date with the needs of 
+virtually any supplier or trading partner network 
+FMD4, Infinita, Dropics, 
+Kendo, MindsInSync, Bari 
+Home, Hydra… 
+DiConnect 
+Client side/ Server Side for direct communications to 
+DiCentral (including multiple network protocols such 
+as FTP, SFTP, AS2...) 
+Walmart, Costco, Kohl, 
+Walgreen, JCP Penny, 
+Lord & Taylor, AEON, 
+Metro, Saigon New Port… 
+DiCompliance 
+A testing tool, gives vendors the ability to meet 
+exclusive shipping and packing requirements for your 
+chosen Order Management Model (OMM). It also 
+extends beyond generic EDI syntax checks to include 
+support for your unique business data guidelines 
+while managing all mandatory transactions. 
+Walmart, Costco, Kohl, 
+Walgreen, JCP Penny, 
+AAFES, BBB, Academy, 
+Kmart, Nordstrom, Sears, 
+AEON, Metro, Thomas 
+Jefferson…. 
+R&D Products/Projects: 
+DiDropShip (Cloud B2B & B2C eCommerce Platform) 
+July 2015 – September 2018 (Phase 1: Sept 2017) 
+With Amazon.com, eBay & Walmart   being the #3 online retailers in the USA and 
+having an almost endless isle of products (hold more than 90% of the online 
+eCommerce market), it has made it extremely challenging for competing retailers to 
+increase their market share of online customers. Due to limitations of resources such 
+as money to buy inventory, storage space and logistics complexities, retailers are 
+increasingly adopting the Dropship model where customers are shipped the products 
+directly from the vendors’ warehouse. This allows retailers to add a lot more products 
+than previously possible with regular replenishment models 
+As designed, DiDropship solution is a SaaS B2B eCommerce web application 
+(multi-tenants) which allows a retailer to conduct business with its trading 
+partners specifically for Dropship purpose. It will allow retailers to quickly onboard 
+vendors and have vendors send compliant data which is native to retailers 
+ERP/RMS system. The retailers hub side GUI is primary a dashboard 
+which shows various KPIs, Vendor Scorecards, order lifecycle information, and 
+allows messaging to the vendor from within the portal. 
+At Vendor Side, it allows vendors to exchange product information data, update 
+retailers of their inventory holdings, receive & fulfill orders, transmit invoice 
+and other necessary documents, and communicate with the trading partners with 
+ease and simplicity. 
+Support almost EDI transitions for Drop-shipping & Cross-docking business: 850, 
+855, 860, 865, 810, 856, 830, 832, 846, 864, 820, etc. 
+Fully support Carrier integration: FedEx, UPS, USPS, Canada Post, etc. 
+Support 3PL model 
+Support eCommerce websites such as Shopify & Magento 
+Primary Role: Integration Program Manager, Product Owner, PMO 
+DiWebService (Cloud ERP Adaptors/ Neutral Adaptors) 
+Jan 2013 – April 2014 
+DiWebService is a fully hosted, seamless and AS2- enable solution that helps 
+collaboration between Business –to Business applications & Cloud ERP systems 
+(SAP By Design, NetSuite, Xero, etc.) and Accounting System (Xero, QB Online, 
+Shopify, etc.) or Third Party Logistic systems without worrying about having technical 
+knowledge of ERP’s SDK, ERP business processes. 
+The solution comes equipped with validation, automation, and reporting 
+functionalities that have been designed with the user in mind and that enable our 
+customer to take full advantage of cloud ERP platform (SAP By Design, NetSuite, 
+Xero, etc.) 
+Capable of both customer and supplier-facing EDI 
+Support almost EDI transitions for fulfillment & logistics: 850, 810, 856, 830, 846, 
+940, 945, and 946 etc. 
+Support all type of customers : Retailer/ Buyer/ Vendor/ Manufacturer/ Distributor/ 
+Forwarder/ Broker/ 3PL/ Warehouse 
+Primary Role: Integration Program Manager, PMO 
+Vinababa (SaaS Based Public Catalog Data Warehouse + EDI  
+November 2011 – March 2015 
+Today’s digital consumer/buyer demands extensive information combined with a 
+superb shopping experience before their purchase is made. Vinababa helps to 
+collect all information from GS1 organization, Google Taxonomy, NAICS 
+Association about Catalog/ Category (Item information (GTINs, UPC, EAN, etc.) & 
+their selling profiles (HS Number of Products/ DUNS no., etc.)  And build a public 
+cataloging warehouse. Similarly Alibaba & EC21 model, this will help our 
+customers ( Trading Associations/ Retailers/ SMEs/ Manufacturer/ Brokers/ 3PL, 
+etc.) having chances  to :  
+Search for cheaper product/service/material from a specific industry or 
+Cross-industries.  
+Search for better sellers (classified by multiple criteria such as Pricing, Top 
+in the markets, Company Capability, Business performance, their key 
+strengths, Geographic location, Industry categories, etc.)  
+Easy to extend their trading community (through cross- industry & 
+channels)  
+Decision making tools for Companies before extend their business to a 
+foreign country/ a new industry/ selling their products to a new community, 
+etc. 
+For Vendors: Vinababa (with Price Model Management) allows our Vendors to 
+create multiple pricing structures, referred to as Price Models, and then specify 
+which trading partners are to have access to view which Price Model. Price Models 
+can include, but are not limited to, discounts or special rates. 
+Capable of both customer and supplier-facing EDI, Non EDI 
+Primary role: Integration Program Manager, Product Owner, PMO 
+o  
+Project Leader  
+DiCentral, From June, 2006 – Oct, 2010 
+Key roles: 
+Provide, design and implement add-on / built-in integration applications between 
+DiCentral EDI Supply Chains products and ERP/ Accounting systems such as SAP 
+B1, Microsoft Dynamics AX, Great Plains, Navision, Epicor, QuickBooks, 
+Peachtree and Net Suite. 
+Develop, create, and modify general computer applications software or specialized 
+utility programs using C#/ .NET technology. Analyze user needs and develop 
+software solutions.  
+Create and execute project work plans and revises as appropriate to meet 
+changing needs and requirements. 
+Review deliverables prepared by team before passing to client. 
+Prepare for engagement reviews and quality assurance procedures. 
+Minimize exposure and risk on project. 
+Ensure project documents are complete, current, and stored appropriately 
+Key Projects & Achievements at DiCentral: 
+SAP B1 Adaptor:  
+Got SAP Golden Certificate Partner 
+Dec 2009 – Dec 2010 
+SAP B1 Adaptor is a comprehensive, demand–based supply chain application 
+of DiCentral Corp for suppliers. Using this product will help suppliers:  
+Improve Return on Investment by Simplifying EDI Experience, prevent errors 
+caused by manual data entry, and eliminate costly and unnecessary charge–backs. 
+Handle multiple ASN Packing Schemes with preconfigured UCC128 bar code 
+labels. 
+Dynamic Inventory Update synchronizes correct shipping information with SAP 
+B1, Purchase Order Allowance Adjustment 
+Designed and implemented database and program architecture, managed team 
+members (4 Developers, 2 QCs) to be on schedule  
+Technologies and tools utilized: .NET C#, Crystal Report, SQL-Server 2005, 
+DevExpress controls, SAP B1, SAP SDK, and DevExpress XPO. 
+Helped development team on planning, scheduling, and handling difficult technical 
+issues.  
+Microsoft Dynamics (AX/GP/ NAV) Adaptors – Got Microsoft Gold 
+Application Development Certificate  
+Oct, 2006 – Oct 2009 
+DiIntegrator – Microsoft Dynamics Adaptors (AX/ GP/ NAV) is comprehensive, 
+demand–based supply chain application of DiCentral Corp for both suppliers and 
+retailers. With Dynamics Adaptors, users can simplify their business processes and 
+focus on their core competencies:  
+Manage pricing system (Item Price, Sales price, Price Level…) 
+Manage tracking system 
+Manage Smart List History / Smart List Builder for all transaction comes from 
+DiIntegrator to Dynamics (multiple versions) and vice versa. 
+Manage shipping information – Delivery, Good Receipts report 
+Manage Fulfillment Workflow 
+Label printing system, good receipts, bill of lading system 
+Designed and implemented database and program architecture, managed team 
+members (6 Developers, 2 QCs, 1 Document Writer) to be on schedule. 
+Acting the role of  Project Manager, Senior Developer, Technical Designer, 
+Business Analyst 
+DiIntegrator (or DiEnterprise R11) 
+June, 2006 – Oct, 2006 
+DiIntegrator is an EDI Intelligent Order Management system. It is designed to 
+manage and manipulate large volumes of EDI data to facilitate order and fulfillment 
+processes, effectively reduce the time it takes to process EDI documents, ultimately 
+speeding the workflow processes:  
+Label printing system, good receipts, bill of lading system 
+Archive EDI data (810, 875, 880, 856, 753,754,851) 
+Shorten order–processing cycles with advanced management tools that 
+organize, audit, and correct discrepancies before EDI documents are created. 
+Invoice large groups of orders, including direct to store. 
+Multi–user access configuration for pick tickets, packing slips, UCC 128 labels, 
+bill of lading and more. 
+Handle complex shipping and fulfillment requirements with multiple packing 
+options from multiple locations. 
+Main role: Senior Developer, Business Analyst 
+Technical Leader, Lac Viet Computing Corp 
+March 2005 – June 2006 
+Key roles: 
+Develop, create, and modify general computer applications software or 
+specialized utility programs using C#/ .NET technology. Analyze user needs 
+and develop software solutions. Design software or customize software for 
+client use with the aim of optimizing operational efficiency.  
+Manage team, assign tasks to team members and make weekly reports. 
+Acting the role of Technical Leader, Assistant Project Manager. 
+Key Projects & Achievements at LacViet: 
+Timesheet Management System:   
+March, 2005 –Feb, 2006 
+Timesheet system provides great features for a team as well as manager to 
+manage and keep track the progress of everything of the project such as resource 
+allocation, workload, resources usage, project profit, project statuses 
+Designed and implemented database and program architecture, managed 
+team members (5 Developers, 2 QC and 1 Business Analyst) to be on 
+schedule. 
+Technologies and tools utilized: .NET C#, Crystal Report, XCeed Report,  
+Infragistic Controls, SQL Server 2005, Java Script 
+Acting the role of Senior Software Engineer, Team Leader, and Assistant 
+Project Manager. 
+Software Engineer, World Soft Company                        
+June, 2003 – Feb, 2005 
+Participated in software team, developing small modules of small applications. 
+Learned how to design software using together tool, consolidated knowledge of 
+object-oriented programming. 
+Improved skill of using VB.NET, C# in Windows applications, ASP.NET, 
+ADO.NET, Crystal Report and Microsoft Enterprise Library. 

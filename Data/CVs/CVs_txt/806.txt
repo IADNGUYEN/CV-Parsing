@@ -1,0 +1,339 @@
+CURRICULUM VITAE 
+Personal Details 
+Name: 
+NHÂM CHÍ THÀNH 
+Date of birth: 
+31-Jan-1986 
+Sex: 
+Male 
+Marital status: 
+Single 
+Address: 
+158 Nguyễn Tiểu La street, Ward 5, District 10, HCM 
+City 
+Phone No. (Res): 
+(08)38562762 
+Mobile No: 
+01267874436 
+E-mail: 
+nhamchithanh@gmail.com 
+PATICULARS 
+NAME 
+AGE 
+EDUCATION 
+OCCUPATION 
+FATHER 
+Nhâm Quốc Đức 
+64 
+Sale person 
+MOTHER 
+Hồ Bữu Liêng 
+61 
+Cook 
+Education 
+School name (UNI.) 
+Faculty 
+From.... To.... 
+Ho Chi Minh University of Industry Food Technology Engineering 
+2005-2009 
+FPT-APTECH HCM 
+Higher Diploma Software Engineer 
+Mar 2012  Sep 2013 
+… 
+Languages 
+English 
+IELTS 6.0 
+Chinese 
+Level B Chinese Certificate 
+… 
+Qualifications & Skills 
+Application Programming 
+(Studied time, Used time : months  /  Last used : years  /  Level : Expert-Good-Medium) 
+Tools 
+Studied time 
+Used time 
+Last used 
+Level 
+C++ 
+04 
+04 
+9/2012 
+Good 
+J2SE 
+06 
+12 
+6/2014 
+Good 
+Android 
+03 
+12 
+9/2014 
+Good 
+Visual C# 
+06 
+07 
+5/2013 
+Good 
+ADO.NET 
+05 
+12 
+2/2015 
+Good 
+SQL 
+05 
+18 
+5/2013 
+Good 
+Servers / Data Base / Data Communication Networks 
+(Studied time, Used time : months  /  Last used : years  /  Level : Expert-Good-Medium) 
+Tools 
+Studied time 
+Used time 
+Last used 
+Level 
+MS SQL Server 2008 
+03 
+20 
+2/2015 
+Good 
+MySQL 
+04 
+07 
+5/2013 
+Good 
+TkSqlLite 
+04 
+9/2014 
+Medium 
+Oracle 
+08 
+6/2014 
+Good 
+Apache 
+08 
+6/2013 
+Good 
+File Zilla 
+06 
+5/2013 
+Medium 
+Windows 8 
+04 
+Medium 
+… 
+Web software / Packages 
+(Studied time, Used time : months  /  Last used : years  /  Level : Expert-Good-Medium) 
+Tools 
+Studied time 
+Used time 
+Last used 
+Level 
+HTML/DHTML 
+02 
+12 
+5/2013 
+Good 
+ASP 
+02 
+02 
+8/2012 
+Medium 
+XML 
+04 
+06 
+5/2013 
+Medium 
+Java Script/ Jquery 
+06 
+12 
+7/2014 
+Good 
+Photo Shop 
+06 
+12 
+5/2013 
+Medium 
+ASP.NET 
+06 
+07 
+5/2013 
+Good 
+PHP 
+05 
+06 
+2/2013 
+Good 
+J2EE 
+03 
+12 
+7/2014 
+Good 
+… 
+Methodologies and CASE Tools 
+(Studied time, Used time : months  /  Last used : years  /  Level : Expert-Good-Medium) 
+Tools 
+Studied time 
+Used time 
+Last used 
+Level 
+Enterprise Architect 
+02 
+03 
+5/2013 
+Medium 
+Relation Database 
+18 
+18 
+5/2013 
+Good 
+RBDMS 
+05 
+07 
+5/2013 
+Medium 
+MVC 
+02 
+12 
+8/2014 
+Good 
+Object Oriented Database 
+01 
+12 
+7/2014 
+Medium 
+… 
+Working Experience 
+Studying at FPT-APTECH HCM 
+Project name 
+Customer 
+From...to... 
+Scope (man/month) 
+Remedy 
+Schedule 
+Dr Duong Trong Phu Son 
+(teacher) 
+Oct 2012  Nov 2012 
+Position in project 
+Designer, Programmer 
+Software environment 
+Java, SQL Server 2008, Net Bean 6.9 
+Description 
+How to construct an application,  
+Set up schedule and appointment in hospital. 
+Teamwork. 
+Project name 
+Customer 
+From...to... 
+Scope 
+(man/month) 
+Online 
+Bus 
+Ticket 
+Reservation 
+Mr 
+Ho 
+Hoan 
+Kiem 
+(teacher) 
+Jan 2013  May 
+2013 
+Position in project 
+Team Leader,Analyst, Designer, Programmer 
+Software environment 
+Visual Studio 2012, SQL Server 2008, .NET 
+framework 4.0 
+Description 
+How to construct an web application, 
+Using Enterprise Architect, more powerful application 
+constructing. 
+Set up schedule and ticket reservation for bus online. 
+Teamwork. 
+Project name 
+Customer 
+From...to... 
+Scope 
+(man/month) 
+Supportive Learing 
+Mr Phạm Công Thành 
+(teacher) 
+Jul 2013  Sep 
+2013 
+Position in project 
+Designer, Programmer 
+Software environment 
+Java, SQL Server 2008, Net Bean 6.9, JBoss 
+Description 
+How to construct an web application,  
+Using Enterprise Architect (EJB). 
+Teamwork. 
+FUJINET COMAPNY (September 2013 – March 2015) : Senior Staff 
+Project name 
+Customer 
+From...to... 
+Scope 
+(man/month) 
+KENSAKU-TORAKU 
+Hitachi Solution 
+Sep 2013- June 
+2014 
+5 
+Position in project 
+Junior Coder, Tester 
+Software environment 
+Eclipse, Hibernate 3.0, Spring 2.0, Struts 1.0  
+Description 
+Manage construction, engineer, work time. 
+Searching and inserting information 
+Project name 
+Customer 
+From...to... 
+Scope 
+(man/month) 
+PRIME 
+Hitachi Solution 
+December 
+2013- 
+February 2014 
+2 
+Position in project 
+Designer. 
+Software environment 
+Visual Studio, VB.Net 
+Description 
+Manage tax, engineer, work time, cost. 
+Searching and inserting information 
+Project name 
+Customer 
+From...to... 
+Scope 
+(man/month) 
+K-MOBILE 
+K-SOL 
+July 
+2014- 
+September  2014 
+3 
+Position in project 
+Junior  Coder, Tester. 
+Software environment 
+Eclipse, Android MVC framework 
+Description 
+Manage electric pole. 
+Update and insert electric pole's information. 
+Project name 
+Customer 
+From...to... 
+Scope 
+(man/month) 
+ASP to NET 
+Hitachi Solution 
+Octorber 
+2014- 
+Now 
+3 
+Position in project 
+Senior Coder, Tester. 
+Software environment 
+Visual Studio ,  VB.Net 
+Description 
+Manage electric Terminal. 

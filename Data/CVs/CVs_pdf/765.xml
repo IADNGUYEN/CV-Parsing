@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="918" width="1188">
+	<fontspec id="0" size="18" family="ABCDEE+Lucida Fax" color="#000000"/>
+	<fontspec id="1" size="21" family="ABCDEE+Wingdings" color="#e26c09"/>
+	<fontspec id="2" size="21" family="ABCDEE+Lucida Fax,Bold" color="#e26c09"/>
+	<fontspec id="3" size="19" family="ABCDEE+Lucida Fax,Bold" color="#e26c09"/>
+	<fontspec id="4" size="19" family="ABCDEE+Lucida Fax,Bold" color="#000000"/>
+	<fontspec id="5" size="10" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="6" size="10" family="ABCDEE+Lucida Fax,Bold" color="#000000"/>
+	<fontspec id="7" size="19" family="ABCDEE+Lucida Fax,BoldItalic" color="#000000"/>
+	<fontspec id="8" size="18" family="ABCDEE+Lucida Fax,BoldItalic" color="#000000"/>
+	<fontspec id="9" size="19" family="ABCDEE+Wingdings" color="#e26c09"/>
+	<fontspec id="10" size="18" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="11" size="18" family="ABCDEE+Lucida Fax,Bold" color="#000000"/>
+	<fontspec id="12" size="23" family="ABCDEE+Andalus" color="#e26c09"/>
+	<fontspec id="13" size="21" family="ABCDEE+Andalus" color="#e26c09"/>
+<text top="109" left="189" width="6" height="21" font="0"> </text>
+<text top="148" left="189" width="6" height="21" font="0"> </text>
+<text top="188" left="189" width="6" height="21" font="0"> </text>
+<text top="227" left="189" width="6" height="21" font="0"> </text>
+<text top="266" left="189" width="6" height="21" font="0"> </text>
+<text top="306" left="189" width="6" height="21" font="0"> </text>
+<text top="345" left="189" width="6" height="21" font="0"> </text>
+<text top="385" left="189" width="6" height="21" font="0"> </text>
+<text top="424" left="189" width="6" height="21" font="0"> </text>
+<text top="464" left="189" width="6" height="21" font="0"> </text>
+<text top="503" left="189" width="6" height="21" font="0"> </text>
+<text top="542" left="189" width="6" height="21" font="0"> </text>
+<text top="582" left="189" width="6" height="21" font="0"> </text>
+<text top="621" left="189" width="6" height="21" font="0"> </text>
+<text top="661" left="189" width="6" height="21" font="0"> </text>
+<text top="700" left="189" width="6" height="21" font="0"> </text>
+<text top="740" left="189" width="6" height="21" font="0"> </text>
+<text top="779" left="189" width="6" height="21" font="0"> </text>
+<text top="407" left="59" width="19" height="24" font="1"></text>
+<text top="405" left="79" width="7" height="25" font="2"><b> </b></text>
+<text top="407" left="84" width="98" height="22" font="3"><b>CONNECT</b></text>
+<text top="407" left="182" width="6" height="22" font="4"><b> </b></text>
+<text top="457" left="59" width="8" height="11" font="5"></text>
+<text top="456" left="68" width="6" height="12" font="6"><b>  </b></text>
+<text top="448" left="73" width="89" height="22" font="4"><b>Phone: 0</b></text>
+<text top="448" left="162" width="124" height="22" font="7"><i><b>1224066285</b></i></text>
+<text top="448" left="286" width="6" height="22" font="4"><b> </b></text>
+<text top="484" left="59" width="8" height="11" font="5"></text>
+<text top="484" left="68" width="6" height="12" font="6"><b>  </b></text>
+<text top="475" left="73" width="69" height="22" font="4"><b>Email: </b></text>
+<text top="501" left="59" width="266" height="21" font="8"><i><b>jamethanhlong@gmail.com </b></i></text>
+<text top="535" left="59" width="8" height="11" font="5"></text>
+<text top="534" left="68" width="6" height="12" font="6"><b>  </b></text>
+<text top="526" left="73" width="98" height="22" font="4"><b>Address: </b></text>
+<text top="554" left="77" width="248" height="22" font="7"><i><b>313/17 Nguyen Trai St, </b></i></text>
+<text top="580" left="146" width="179" height="22" font="7"><i><b>5 Dist, HCM City. </b></i></text>
+<text top="784" left="301" width="6" height="22" font="7"><i><b> </b></i></text>
+<text top="406" left="346" width="19" height="22" font="3"><b>   </b></text>
+<text top="407" left="364" width="17" height="21" font="9"></text>
+<text top="406" left="382" width="217" height="22" font="3"><b> BASIC KNOWLEDGE  </b></text>
+<text top="450" left="405" width="8" height="20" font="10"></text>
+<text top="449" left="432" width="282" height="21" font="11"><b>Knowing about hardware PC. </b></text>
+<text top="482" left="405" width="8" height="20" font="10"></text>
+<text top="480" left="432" width="646" height="21" font="11"><b>Having some good basic knowledge about programing (C/C++) and </b></text>
+<text top="513" left="432" width="181" height="21" font="11"><b>database (MySQL). </b></text>
+<text top="546" left="405" width="8" height="20" font="10"></text>
+<text top="545" left="432" width="605" height="21" font="11"><b>Having the intellectual maturity about network infrastructure: </b></text>
+<text top="576" left="432" width="512" height="21" font="11"><b>Routing, Switch, NAT, ACL, Frame relay, MPLS VPN,… </b></text>
+<text top="609" left="405" width="8" height="20" font="10"></text>
+<text top="608" left="432" width="636" height="21" font="11"><b>Good in using Window Server 2008 and Linux (Ubuntu, CentOS) to </b></text>
+<text top="640" left="432" width="244" height="21" font="11"><b>manage network system. </b></text>
+<text top="673" left="405" width="8" height="20" font="10"></text>
+<text top="672" left="432" width="486" height="21" font="11"><b>Having a good basic about Wireless Technologies. </b></text>
+<text top="705" left="405" width="8" height="20" font="10"></text>
+<text top="703" left="432" width="326" height="21" font="11"><b>Knowing about Security Network. </b></text>
+<text top="737" left="405" width="8" height="20" font="10"></text>
+<text top="736" left="432" width="519" height="21" font="11"><b>Familiar with Virtual technologies: VMware EXS, KVM. </b></text>
+<text top="769" left="405" width="8" height="20" font="10"></text>
+<text top="768" left="432" width="427" height="21" font="11"><b>Good in understand the English documents. </b></text>
+<text top="813" left="378" width="6" height="22" font="4"><b> </b></text>
+<text top="221" left="239" width="19" height="24" font="1"></text>
+<text top="219" left="259" width="7" height="25" font="2"><b> </b></text>
+<text top="215" left="266" width="183" height="34" font="12">INTRODUCTION </text>
+<text top="217" left="449" width="5" height="31" font="13"> </text>
+<text top="260" left="247" width="8" height="11" font="5"></text>
+<text top="259" left="256" width="7" height="12" font="6"><b>  </b></text>
+<text top="252" left="262" width="143" height="21" font="11"><b>First name: LY </b></text>
+<text top="285" left="247" width="8" height="11" font="5"></text>
+<text top="284" left="256" width="7" height="12" font="6"><b>  </b></text>
+<text top="277" left="262" width="169" height="21" font="11"><b>Last name: LONG </b></text>
+<text top="309" left="247" width="8" height="11" font="5"></text>
+<text top="308" left="256" width="7" height="12" font="6"><b>  </b></text>
+<text top="300" left="262" width="237" height="21" font="11"><b>Birth day: 1 – 23 – 1993  </b></text>
+<text top="333" left="247" width="8" height="11" font="5"></text>
+<text top="333" left="256" width="7" height="12" font="6"><b>  </b></text>
+<text top="325" left="262" width="132" height="21" font="11"><b>Gender: Male </b></text>
+<text top="351" left="258" width="6" height="21" font="0"> </text>
+<text top="260" left="519" width="8" height="11" font="5"></text>
+<text top="259" left="528" width="6" height="12" font="6"><b>  </b></text>
+<text top="252" left="534" width="215" height="21" font="11"><b>Marital Status: Single. </b></text>
+<text top="285" left="519" width="8" height="11" font="5"></text>
+<text top="284" left="528" width="6" height="12" font="6"><b>  </b></text>
+<text top="277" left="534" width="519" height="21" font="11"><b>Native land: Go Cong Commune, Tien Giang Province. </b></text>
+<text top="309" left="519" width="8" height="11" font="5"></text>
+<text top="308" left="528" width="6" height="12" font="6"><b>  </b></text>
+<text top="300" left="534" width="525" height="21" font="11"><b>Hobbies: badminton, cycling, reading and researching </b></text>
+<text top="333" left="519" width="8" height="11" font="5"></text>
+<text top="333" left="528" width="6" height="12" font="6"><b>  </b></text>
+<text top="325" left="534" width="550" height="21" font="11"><b>Motto:  Some people die at 25 and aren't buried until 75. </b></text>
+<text top="350" left="519" width="6" height="21" font="11"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="918" width="1188">
+	<fontspec id="14" size="19" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="15" size="19" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="16" size="19" family="ABCDEE+Lucida Fax" color="#000000"/>
+<text top="109" left="189" width="6" height="21" font="0"> </text>
+<text top="148" left="189" width="6" height="21" font="0"> </text>
+<text top="188" left="189" width="6" height="21" font="0"> </text>
+<text top="227" left="189" width="6" height="21" font="0"> </text>
+<text top="266" left="189" width="6" height="21" font="0"> </text>
+<text top="306" left="189" width="6" height="21" font="0"> </text>
+<text top="345" left="189" width="6" height="21" font="0"> </text>
+<text top="385" left="189" width="6" height="21" font="0"> </text>
+<text top="424" left="189" width="6" height="21" font="0"> </text>
+<text top="464" left="189" width="6" height="21" font="0"> </text>
+<text top="503" left="189" width="6" height="21" font="0"> </text>
+<text top="542" left="189" width="6" height="21" font="0"> </text>
+<text top="582" left="189" width="6" height="21" font="0"> </text>
+<text top="621" left="189" width="6" height="21" font="0"> </text>
+<text top="661" left="189" width="6" height="21" font="0"> </text>
+<text top="700" left="189" width="6" height="21" font="0"> </text>
+<text top="740" left="189" width="6" height="21" font="0"> </text>
+<text top="779" left="189" width="6" height="21" font="0"> </text>
+<text top="152" left="57" width="17" height="21" font="9"></text>
+<text top="150" left="75" width="210" height="22" font="3"><b> COMMUNICATION:   </b></text>
+<text top="193" left="117" width="9" height="21" font="14"></text>
+<text top="192" left="144" width="364" height="22" font="4"><b>Good in communication: Empathy, </b></text>
+<text top="227" left="144" width="282" height="22" font="4"><b>sociable, honest and loyal. </b></text>
+<text top="262" left="117" width="9" height="21" font="14"></text>
+<text top="261" left="144" width="381" height="22" font="4"><b>Good behavior in work: enthusiasm, </b></text>
+<text top="296" left="144" width="309" height="22" font="4"><b>predisposition for discovery, </b></text>
+<text top="331" left="144" width="332" height="22" font="4"><b>creativity and problem solving. </b></text>
+<text top="151" left="555" width="17" height="21" font="9"></text>
+<text top="149" left="573" width="224" height="22" font="3"><b> SPECIALIZED SKILLS: </b></text>
+<text top="192" left="588" width="17" height="21" font="14"></text>
+<text top="191" left="615" width="96" height="22" font="4"><b>Network: </b></text>
+<text top="219" left="615" width="9" height="21" font="14"></text>
+<text top="218" left="642" width="454" height="22" font="4"><b>Knowing about Ethernet technology, VLAN, </b></text>
+<text top="244" left="642" width="125" height="22" font="4"><b>VTP, STP,… </b></text>
+<text top="272" left="615" width="9" height="21" font="14"></text>
+<text top="271" left="642" width="441" height="22" font="4"><b>Good in Routing: Static and Dynamic (Rip, </b></text>
+<text top="297" left="642" width="137" height="22" font="4"><b>OSPF, EIGRP) </b></text>
+<text top="325" left="615" width="9" height="21" font="14"></text>
+<text top="324" left="642" width="391" height="22" font="4"><b>Knowing basic about VPN, MPLS VPN. </b></text>
+<text top="351" left="615" width="9" height="21" font="14"></text>
+<text top="350" left="642" width="410" height="22" font="4"><b>Good in some WAN technologes: Frame </b></text>
+<text top="377" left="642" width="62" height="22" font="4"><b>Relay </b></text>
+<text top="404" left="615" width="9" height="21" font="14"></text>
+<text top="403" left="642" width="425" height="22" font="4"><b>Knowing about NAT, Control Access List </b></text>
+<text top="429" left="642" width="66" height="22" font="4"><b>(ACL). </b></text>
+<text top="457" left="615" width="9" height="21" font="14"></text>
+<text top="456" left="642" width="420" height="22" font="4"><b>Troubleshooting  some network connect </b></text>
+<text top="482" left="642" width="68" height="22" font="4"><b>errors.</b></text>
+<text top="487" left="711" width="5" height="17" font="15"><b> </b></text>
+<text top="510" left="588" width="17" height="21" font="14"></text>
+<text top="509" left="615" width="93" height="22" font="4"><b>System:  </b></text>
+<text top="536" left="615" width="9" height="21" font="14"></text>
+<text top="535" left="642" width="378" height="22" font="4"><b>Knowing basic about Linux (CentOS, </b></text>
+<text top="562" left="642" width="351" height="22" font="4"><b>Ubuntu) and Window server 2008 </b></text>
+<text top="589" left="588" width="17" height="21" font="14"></text>
+<text top="587" left="615" width="205" height="22" font="4"><b>Virtual technology: </b></text>
+<text top="616" left="615" width="9" height="21" font="14"></text>
+<text top="614" left="642" width="450" height="22" font="4"><b>Knowing basic about KVM, VMware ESX 5.0 </b></text>
+<text top="640" left="642" width="312" height="22" font="4"><b>and Cloud stored technology. </b></text>
+<text top="669" left="588" width="17" height="21" font="14"></text>
+<text top="668" left="615" width="114" height="22" font="4"><b>MPLS VPN: </b></text>
+<text top="695" left="615" width="9" height="21" font="14"></text>
+<text top="693" left="642" width="439" height="22" font="4"><b>Have a good basic about MPLS technology </b></text>
+<text top="720" left="642" width="382" height="22" font="4"><b>and deployment VPN based on MPLS </b></text>
+<text top="746" left="642" width="166" height="22" font="4"><b>infrastructure.  </b></text>
+<text top="775" left="588" width="17" height="21" font="14"></text>
+<text top="773" left="615" width="103" height="22" font="4"><b>Security:  </b></text>
+<text top="801" left="615" width="9" height="21" font="14"></text>
+<text top="799" left="642" width="412" height="22" font="4"><b>Security PPP (PAP, CHAP), layer 2 (port, </b></text>
+<text top="826" left="642" width="424" height="22" font="4"><b>DHCP…), layer 3 (ACL) and router (AAA). </b></text>
+<text top="415" left="57" width="17" height="21" font="9"></text>
+<text top="414" left="75" width="134" height="22" font="3"><b> EDUCATION </b></text>
+<text top="457" left="117" width="9" height="21" font="14"></text>
+<text top="456" left="144" width="310" height="22" font="4"><b>Ho Chi Minh City Pedagogical </b></text>
+<text top="482" left="144" width="112" height="22" font="4"><b>University </b></text>
+<text top="524" left="57" width="6" height="21" font="0"> </text>
+<text top="559" left="57" width="17" height="21" font="9"></text>
+<text top="558" left="75" width="221" height="22" font="3"><b> FOREIGN LANGUAGE </b></text>
+<text top="601" left="117" width="9" height="21" font="14"></text>
+<text top="600" left="144" width="344" height="22" font="4"><b>Proficient in listening, speaking, </b></text>
+<text top="626" left="144" width="362" height="22" font="4"><b>reading, writing and presenting in </b></text>
+<text top="653" left="144" width="90" height="22" font="4"><b>English. </b></text>
+<text top="734" left="62" width="17" height="21" font="9"></text>
+<text top="733" left="80" width="144" height="22" font="3"><b> CERTIFICATE </b></text>
+<text top="776" left="122" width="8" height="20" font="10"></text>
+<text top="774" left="149" width="335" height="21" font="11"><b>CCNA certificated by University of </b></text>
+<text top="800" left="149" width="85" height="21" font="11"><b>Science. </b></text>
+<text top="839" left="95" width="6" height="22" font="16"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="918" width="1188">
+<text top="109" left="189" width="6" height="21" font="0"> </text>
+<text top="148" left="189" width="6" height="21" font="0"> </text>
+<text top="188" left="189" width="6" height="21" font="0"> </text>
+<text top="109" left="66" width="17" height="21" font="9"></text>
+<text top="108" left="84" width="289" height="22" font="3"><b> EXPRENCES AND PROJECTS </b></text>
+<text top="152" left="93" width="17" height="21" font="14"></text>
+<text top="150" left="120" width="228" height="22" font="7"><i><b>MPLS VPN Technology </b></i></text>
+<text top="178" left="148" width="9" height="21" font="14"></text>
+<text top="176" left="175" width="268" height="22" font="4"><b>Time: 10/2014  – 05/2015 </b></text>
+<text top="204" left="148" width="9" height="21" font="14"></text>
+<text top="202" left="175" width="166" height="22" font="4"><b>Position: leader </b></text>
+<text top="229" left="148" width="9" height="21" font="14"></text>
+<text top="228" left="175" width="909" height="22" font="4"><b>Responsible for: studying about MPLS and deploying VPN based on MPLS network core. </b></text>
+<text top="256" left="148" width="9" height="21" font="14"></text>
+<text top="255" left="175" width="585" height="22" font="4"><b>Work location: Ho Chi Minh City University of Pedagogy </b></text>
+<text top="284" left="93" width="17" height="21" font="14"></text>
+<text top="282" left="120" width="259" height="22" font="7"><i><b>Building FreeNAS system </b></i></text>
+<text top="309" left="148" width="9" height="21" font="14"></text>
+<text top="308" left="175" width="268" height="22" font="4"><b>Time: 03/2014  – 05/2014 </b></text>
+<text top="335" left="148" width="9" height="21" font="14"></text>
+<text top="334" left="175" width="196" height="22" font="4"><b>Position: member   </b></text>
+<text top="362" left="148" width="9" height="21" font="14"></text>
+<text top="361" left="175" width="681" height="22" font="4"><b>Responsible for: building stored system and decentralizing user. </b></text>
+<text top="388" left="148" width="9" height="21" font="14"></text>
+<text top="387" left="175" width="451" height="22" font="4"><b>Work location: Vietnam Network  Company. </b></text>
+<text top="416" left="93" width="17" height="21" font="14"></text>
+<text top="415" left="120" width="167" height="22" font="7"><i><b>KVM technology </b></i></text>
+<text top="441" left="148" width="9" height="21" font="14"></text>
+<text top="440" left="175" width="268" height="22" font="4"><b>Time: 09/2014  – 11/2014 </b></text>
+<text top="468" left="148" width="9" height="21" font="14"></text>
+<text top="467" left="175" width="185" height="22" font="4"><b>Position: member </b></text>
+<text top="494" left="148" width="9" height="21" font="14"></text>
+<text top="493" left="175" width="705" height="22" font="4"><b>Responsible for: studying and configuring Virtual technology: KVM </b></text>
+<text top="521" left="148" width="9" height="21" font="14"></text>
+<text top="520" left="175" width="585" height="22" font="4"><b>Work location: Ho Chi Minh City University of Pedagogy </b></text>
+<text top="548" left="93" width="17" height="21" font="14"></text>
+<text top="547" left="120" width="420" height="22" font="7"><i><b>Building DNS and FTP server on Ubuntu  </b></i></text>
+<text top="574" left="148" width="9" height="21" font="14"></text>
+<text top="573" left="175" width="268" height="22" font="4"><b>Time: 08/2014  – 09/2014 </b></text>
+<text top="600" left="148" width="9" height="21" font="14"></text>
+<text top="599" left="175" width="166" height="22" font="4"><b>Position: leader </b></text>
+<text top="627" left="148" width="9" height="21" font="14"></text>
+<text top="626" left="175" width="673" height="22" font="4"><b>Responsible for: building DNS server and FTP server on Ubuntu  </b></text>
+<text top="653" left="148" width="9" height="21" font="14"></text>
+<text top="652" left="175" width="585" height="22" font="4"><b>Work location: Ho Chi Minh City University of Pedagogy </b></text>
+<text top="681" left="93" width="17" height="21" font="14"></text>
+<text top="680" left="120" width="275" height="22" font="7"><i><b>Building LAN for business  </b></i></text>
+<text top="706" left="148" width="9" height="21" font="14"></text>
+<text top="705" left="175" width="268" height="22" font="4"><b>Time: 03/2014  – 05/2014 </b></text>
+<text top="733" left="148" width="9" height="21" font="14"></text>
+<text top="732" left="175" width="166" height="22" font="4"><b>Position: leader </b></text>
+<text top="759" left="148" width="9" height="21" font="14"></text>
+<text top="758" left="175" width="700" height="22" font="4"><b>Responsible for: building mail server, FTP server, policy… for user </b></text>
+<text top="785" left="148" width="9" height="21" font="14"></text>
+<text top="784" left="175" width="585" height="22" font="4"><b>Work location: Ho Chi Minh City University of Pedagogy </b></text>
+</page>
+</pdf2xml>

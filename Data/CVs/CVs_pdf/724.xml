@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="46" family="Roboto" color="#ffffff"/>
+	<fontspec id="1" size="18" family="Roboto" color="#bde8da"/>
+	<fontspec id="2" size="16" family="Roboto" color="#494949"/>
+	<fontspec id="3" size="27" family="Roboto" color="#1fbc89"/>
+	<fontspec id="4" size="16" family="Roboto" color="#333333"/>
+	<fontspec id="5" size="16" family="Roboto" color="#1fbc89"/>
+	<fontspec id="6" size="16" family="Roboto" color="#333333"/>
+<text top="100" left="35" width="373" height="54" font="0">Quach Nhat Trung</text>
+<text top="162" left="35" width="263" height="22" font="1"><b>AI RESEARCHER / AI ENGINEER</b></text>
+<text top="1212" left="35" width="47" height="19" font="2">Sports</text>
+<text top="567" left="35" width="303" height="19" font="2">Now I am researching about Deep learning</text>
+<text top="589" left="35" width="321" height="19" font="2">models, and in next 2 years i want to become</text>
+<text top="611" left="35" width="311" height="19" font="2">a junior AI engineer, and become a senior in</text>
+<text top="633" left="35" width="91" height="19" font="2">next 4 years.</text>
+<text top="739" left="35" width="77" height="19" font="2">Organizing</text>
+<text top="784" left="35" width="122" height="19" font="2">Communications</text>
+<text top="829" left="35" width="62" height="19" font="2">Planning</text>
+<text top="874" left="35" width="76" height="19" font="2">Teamwork</text>
+<text top="919" left="35" width="50" height="19" font="2">Python</text>
+<text top="964" left="35" width="60" height="19" font="2">Analysis</text>
+<text top="301" left="35" width="246" height="32" font="3">Contact information</text>
+<text top="345" left="35" width="88" height="19" font="4">Date of birth</text>
+<text top="345" left="151" width="81" height="19" font="2">11-07-1988</text>
+<text top="372" left="35" width="51" height="19" font="4">Gender</text>
+<text top="372" left="151" width="35" height="19" font="2">Male</text>
+<text top="400" left="35" width="46" height="19" font="4">Phone</text>
+<text top="400" left="151" width="98" height="19" font="2">0939 126 627</text>
+<text top="428" left="35" width="40" height="19" font="4">Email</text>
+<text top="428" left="151" width="146" height="19" font="2">qntrung@gmail.com</text>
+<text top="455" left="35" width="59" height="19" font="4">Address</text>
+<text top="455" left="151" width="103" height="19" font="2">HCM, Vietnam</text>
+<text top="523" left="35" width="114" height="32" font="3">Objective</text>
+<text top="695" left="35" width="65" height="32" font="3">Skills</text>
+<text top="1037" left="35" width="214" height="32" font="3">Honors &amp; Awards</text>
+<text top="1105" left="35" width="208" height="19" font="2">Best employee in 2014-2015.</text>
+<text top="1073" left="287" width="77" height="19" font="5">2014-2015</text>
+<text top="1167" left="35" width="108" height="32" font="3">Interests</text>
+<text top="301" left="386" width="123" height="32" font="3">Education</text>
+<text top="369" left="386" width="137" height="19" font="6"><b>Can Tho University</b></text>
+<text top="391" left="386" width="220" height="19" font="5">Major: Information Technology</text>
+<text top="413" left="386" width="78" height="19" font="2">GPA: 3.1/4</text>
+<text top="337" left="718" width="148" height="19" font="5">Aug 2006 - Aug 2010</text>
+<text top="476" left="386" width="81" height="19" font="6"><b>NIIT center</b></text>
+<text top="498" left="386" width="248" height="19" font="5">Major: Software engineering - Java</text>
+<text top="520" left="386" width="78" height="19" font="2">GPA: 3.5/4</text>
+<text top="444" left="718" width="149" height="19" font="5">July 2008 - July 2010</text>
+<text top="582" left="386" width="204" height="32" font="3">Work experience</text>
+<text top="650" left="386" width="97" height="19" font="6"><b>Evolable Asia</b></text>
+<text top="672" left="386" width="86" height="19" font="5">AI Research</text>
+<text top="694" left="386" width="438" height="19" font="2">- Research about models in deep learning : ANN, CNN, RNN ...</text>
+<text top="716" left="386" width="171" height="19" font="2">- Make report every day.</text>
+<text top="760" left="386" width="233" height="19" font="2">Achievements and skills gained: </text>
+<text top="782" left="386" width="345" height="19" font="2">- Observe, learn and catch customers’ taste well.</text>
+<text top="803" left="386" width="249" height="19" font="2">- Improve research skill, teamwork.</text>
+<text top="618" left="735" width="130" height="19" font="5">Jan 2018 - Current</text>
+<text top="867" left="386" width="97" height="19" font="6"><b>Evolable Asia</b></text>
+<text top="889" left="386" width="202" height="19" font="5">Ruby + AngularJS Developer</text>
+<text top="911" left="386" width="284" height="19" font="2">- Maintain for platform marketing online</text>
+<text top="933" left="386" width="171" height="19" font="2">- Make report every day.</text>
+<text top="976" left="386" width="233" height="19" font="2">Achievements and skills gained: </text>
+<text top="998" left="386" width="345" height="19" font="2">- Observe, learn and catch customers’ taste well.</text>
+<text top="1020" left="386" width="249" height="19" font="2">- Improve research skill, teamwork.</text>
+<text top="835" left="719" width="147" height="19" font="5">Nov 2016 - Dec 2017</text>
+<text top="1084" left="386" width="84" height="19" font="6"><b>Neotek Ltd.</b></text>
+<text top="1105" left="386" width="108" height="19" font="5">Java developer</text>
+<text top="1127" left="386" width="152" height="19" font="2">Main responsibilities:</text>
+<text top="1149" left="386" width="222" height="19" font="2">- Development for ERP projects</text>
+<text top="1171" left="386" width="241" height="19" font="2">- Support and training for newbies</text>
+<text top="1193" left="386" width="433" height="19" font="2">- Management modules in ERP projects such as: accountant,</text>
+<text top="1215" left="386" width="160" height="19" font="2">warehouse, financial...</text>
+<text top="1051" left="722" width="144" height="19" font="5">Nov 2012 - Oct 2016</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="7" size="12" family="Roboto" color="#999999"/>
+<text top="0" left="386" width="165" height="19" font="2">Recognition and Gains:</text>
+<text top="22" left="386" width="226" height="19" font="2">- Ability research new technical.</text>
+<text top="44" left="386" width="306" height="19" font="2">- Support team member to release on time.</text>
+<text top="1239" left="806" width="61" height="15" font="7">© topcv.vn</text>
+</page>
+</pdf2xml>

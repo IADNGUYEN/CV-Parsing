@@ -1,0 +1,242 @@
+ 
+C HUONG  H OANG  N GUYEN 
+21/5A Xo Viet Nghe Tinh , Binh Thanh District, 
+Ho Chi Minh, Vietnam.  
+093 254 0811 
+Chuong.H.Nguyen@asu.edu 
+www.linkedin.com/in/ChuongNguyenVT 
+O BJECTIVE 
+Seeking a researcher position in the field of Artificial Intelligent & Machine Learning, 
+Autonomous Control, Robotics and Mechatronics 
+E DUCATION 
+Ph.D. Mechanical Engineering – Virginia Tech , Blacksburg, VA, 2012  2016. 
+GPA 3.86/4  – Major in Adaptive Control Theory, Robotics and Biomedical 
+applications. 
+Advisor: Dr. Alexander Leonessa. 
+M.S. Mechanical Engineering – Virginia Tech,  Blacksburg, VA, 2010   2012. 
+GPA 3.97/4  Major in Computer Vision and Mechatronics Applications. 
+Advisor: Dr. Alfred L. Wicks. 
+B.S. Mechanical Engineering: Manufacturing Engineering , 2003  2008. 
+Honor Program, Ho Chi Minh City University of Technology ( HCMUT ), Viet Nam. 
+GPA :  8.48/10  –  Class Rank:  5/255. 
+S OFTWARE 
+S KILLS 
+Programming languages 
+Design 
+Robotics 
+Keras, Tensorflow, 
+Pytorch 
+C/C++ 
+MATLAB/ Simulink 
+LabVIEW 
+Qt 
+Visual Studio  
+Flask/MySQL 
+Inventor 
+SolidWorks 
+Autocad 
+3D-Printer 
+ROS/ OpenCV / Linux 
+Embedded System/Arduino 
+Pixhawk/ Ardupilot 
+Unmanned Arial Vehicle  
+I MPORTANT 
+C OURSES 
+Advanced Linear Control I, II 
+Nonlinear Systems Control 
+Adaptive Control System 
+Geometric Control Theory 
+Unified System Dynamics 
+Digital Signal Processing 
+Digital Image Processing 
+Computer Vision 
+Machine Learning 
+Reinforcement Learning 
+Deep Learning  
+Mechatronics I, II 
+Robotics Dynamics 
+Bayesian Robotics 
+Intro. to Stochastic 
+Calculus of Variation 
+R ESEARCH 
+E XPERIENCE 
+Post-Doctoral Researcher, Human- Oriented Robotics and Control Lab, Arizona 
+State University ,  USA , Jun 2016 – Jan 2018. 
+Developed Machine Learning algorithms for Brain-Computer Interface systems,
+such as deciphering imagery speech or imagery voluntary motion, to control
+swarm of robots. 
+Developed platform and control algorithms for swarm of mobile and aerial robots. 
+Mentor for Undergrad and Grad students in research.  
+Graduate Research Assistant, Center for Dynamic Systems Modeling and Control,
+Virginia Tech, USA,  Aug 2012 – May 2016. 
+PhD
+Dissertation:
+Adaptive
+Predictor-Based
+Output Feedback Control of
+Unknown
+Multi-Input
+Multi-Output
+Systems:
+Theory
+and
+Application to
+Biomedical Inspired Problems 
+Develop rehabilitation devices for patients suffering movement disorder by using
+Functional Electrical Stimulation (FES): 
+o
+Developed adaptive control algorithms for systems that have uncertain  
+nonlinear dynamics, multi-input multi-output, and high relative degree. 
+o
+Implemented control algorithms to control musculoskeletal models 
+using OpenSim, Matlab, and Simulink. 
+o
+Experimentally validated the control algorithms on Quanser Helicopter Test
+Base through Matlab/ Simulink. 
+o
+Implemented the control algorithms to control Fetch robotics arm through
+combination of ROS, C++, Python, and Simulink. 
+Validated control and estimating algorithms on a scaled Ackermann steering based
+robotic car platform  
+o
+Implemented sensor fusions and estimation algorithms, such as 
+Extended Kalman Filter (EKF) and Particle Filters, for state estimation. 
+o
+Implemented control laws, such as Sliding Mode Control, PID, to 
+control vehicle position based on reference input. 
+o
+All works were implemented through MATLAB and LabVIEW. 
+Research and teaching assistant, Mechatronics Lab, Virginia Tech, USA,  Aug 2010 –
+May 2012. 
+o
+Master Thesis: Visual Perception System for Autonomous Ground 
+Vehicles: Object Recognition and Tracking. 
+o
+Developed a vision software for a robotics car platform to perform 
+multiple tasks, such as scene recognition, motion detection, and objects 
+(i.e. human, vehicles) detection and tracking. 
+o
+All works were implemented through combination of OpenCV, 
+MATLAB Vision Toolbox, and Machine Learning algorithms. The 
+software is developed in C++ and Qt. 
+o
+Graduate Teaching Assistant in Mechatronics Class and Advanced 
+Linear Control Class. 
+W ORK 
+E XPERIENCE 
+Machine learning Engineer at  JIO Health  83 Hoang Sa, 1st District, Ho Chi Minh,
+Vietnam. April 2018  Now 
+■
+Develop a deep learning system to diagnose  Xray images.  
+○ Improve the prediction accuracy (AUROC) up to 90% for 18 classes using a
+dataset of 360k images. 
+○ Testing different state of the art Deep Learning structures, such as DenseNet,
+ResNext, Dual Path Net, Squeeze and Excitation (SE), Convolution
+Block
+Attention Module (CBAM), and optimizers, such as Stochastic Weight Average
+Gradient (SWAG), Layer-Wise Adaptive Rate Scaling (LARS). 
+■
+Building an AI system to help Doctors diagnose patients’ health:  
+○ Building database and micro-web services to collect data from patients. 
+○ From patient’s sign/symptom, the AI system suggests the potential risks and the
+lab tests need to perform. 
+Intelligent UAS  7040 Virginia Manor Road, Beltsville, MD 20705. Nov 2015 – Mar
+2016 
+■
+Design an embedded system to control thermal cameras, such as FLIR TAU
+cameras. This work includes designing an integrated PCB with Arduino board, and
+writing controller software. 
+■
+Design 3D parts for commercial UAVs. 
+Intelligent Ground Vehicle Competition (IGVC), Virginia Tech Leonardo Team,
+Michigan, 2014. 
+■
+Chief member to develop a computer vision system for the robot 
+navigation, such as detecting and following line on grass, and avoiding 
+obstacles. 
+■
+The software was implemented through C++, OpenCV and LabVIEW. 
+DANAMECO Medical Joint-Stock Corporation, Da Nang, Viet Nam, 2009. 
+■
+Technical consultant for the company to purchase compress folding machine and
+ultrasonic welding machine. 
+Robotic Team of Mechanical Engineering Department, HCMUT, Robot 
+Contest 2007, 2008 and 2010 
+■
+Mentor for the team in 2010. One of 24 selected teams competing in 
+Nation Round in 2010. 
+■
+Team Leader in 2 years 2007, 2008. 
+■
+Designed and built the robots to perform various tasks, such as grasping blocks,
+passing bridge, and climbing stairs. 
+■
+Achieved the best idea and the best robot design in ROBOCON design 
+competition hold by HCMUT in 2008. 
+Trainee at C1 factory of Mechanical Engineering Department, HCMUT, 
+Summer  Fall 2007 
+■
+Bachelor Thesis: Design and simulate 3D Tube-bending machine. 
+■
+Experienced in operating lathes, millers, welding machines. 
+■
+Assembled hydraulic systems for Press and Break Iron Sheet 
+Machines. 
+A CTIVIES 
+Personal project  Summer 2013: Design and fully constructed the mechanical, 
+electrical and software systems for quadrotors as a hobby. 
+Personal project  July 2015: Build and control a human size humanoid robot 
+(InMoov Robot) using 3D printer and Arduino board as a hobby. 
+H ONORS & 
+A WARDS 
+Second Best poster in SouthWest Robotics Symposium, ASU, 2018. 
+Best robotics paper award in ASME Dynamic Systems And Control Conference, 
+Minnesota, 2016 
+Hord Fellowship, Mechanical Engineering Department, Virginia Tech, 2014. 
+U.S Government Scholarship: Vietnam Education Foundation (VEF)  
+Fellowship since 2012. 
+Award from HCMUT President for being selected team participating in the 
+Vietnam National Competition Robot Contest (Robocon) 2010. 
+Certificate of merit from HCMUT Dean of Mechanical Engineering 
+Department for excellent academic results in 2003-2004 and 2006-2007. 
+Two TOYOTA scholarships in 2006 and 2007. 
+Award from HCMUT President for first ranking in first round of 
+Vietnam South area Robocon 2007. 
+Prize of the Annual National Mechanics Olympic Contest Year of 
+2005, Subject: Theory of machines and mechanism. 
+Certificate of merit from HCMUT President for winning prize in 
+Mechanics Olympic Contest 2005. 
+P UBLICATION 
+Chuong H Nguyen and Panagiotis Artemiadis, “ Adaptive Multi-Degree of 
+Freedom BCI using Online Learning: Towards Novel Methods and Metrics of 
+Mutual Adaptation between Humans and Machines for BCI ,  accepted to PLOS 
+One Journal, 2018 
+Chuong H Nguyen and Panagiotis Artemiadis, “ EEG Feature Descriptors and 
+Discriminant Analysis under Riemannian Manifold perspective ,” 
+Neurocomputing, 275, pp. 1871-1883, 2018. 
+Chuong H Nguyen, George K Karavas and Panagiotis Artemiadis, “ Inferring 
+imagined speech using EEG signals: a new approach using Riemannian 
+manifold features ,” Journal of Neural Engineering, 15.1, 016002, 2018.  
+C. Nguyen, A. Leonessa,  Adaptive Predictor-Based Output Feedback Control 
+for a Class of Unknown MIMO Linear Systems ,  Journal of Nonlinear Science, 
+2016. 
+Chuong H Nguyen A. Leonessa,  Predictor-based Adaptive Output  Feedback 
+Control: Application to Functional Electrical Stimulation of a Human Arm 
+Model,  ASME Journal of Dynamic Systems, Measurement and Control, 2016 
+C. Nguyen, A. Leonessa,  Adaptive Predictor-Based Output Feedback Control 
+For A Class Of Unknown MIMO Nonlinear Systems: Experimental Results, 
+Proceedings of the 2015 American Control Conference, July 1-3 2015, Chicago, 
+IL, USA. 
+C. Nguyen, A. Leonessa,  Control Motion of A Human Arm: A simulation 
+study ,  International Conference of Control, Dynamic Systems, and Robotics 
+Ottawa, Ontario, Canada, May 15-16 2014. 
+C. Nguyen, A. Leonessa,  Adaptive Predictor-Based Output Feedback Control 
+for A Class Of Unknown MIMO Linear Systems,  Proceedings of the ASME 
+2014 Dynamic Systems and Control Conference DSCC 2014 October 22-24, 2014, 
+San Antonio, TX, USA. 
+C. Nguyen, A. Leonessa,  Adaptive Predictor-Based Output Feedback Control 
+for A Class Of Unknown MIMO Linear Systems: Experimental Results, 
+Proceedings of the ASME 2014 Dynamic Systems and Control Conference DSCC 
+2014 October 22-24, 2014, San Antonio, TX, USA  
+PROF. ORG 
+IEEE, ASME 

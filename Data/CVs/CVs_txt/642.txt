@@ -1,0 +1,47 @@
+Anh Pham
+Phone: +84 979-878-467 — anhphamlog@gmail.com — kaggle.com/anhpham — github.com/aannhh
+Languages
+Vietnamese, English.
+and Skills
+Fundamentals: self learning, data structures and algorithms, machine learning,
+object oriented programming, design patterns, multiprocessing.
+Programming languages: python, java.
+DS/ML toolkits: pytorch, tensorﬂow, keras, opencv, sklearn, numpy, pandas,
+jupyter lab/notebook, matplotlib...
+ML skills: reading research papers, EDA, preprocessing, image segmentation,
+image classiﬁcation, NLP, training with GPUs, hyperparameters tuning.
+Others: mysql, linux, amazon ec2, google cloud platform, git, github, docker.
+Education
+University of Information Technology, HCM-VNU
+B.Sc., Computer Science, 2014-2018.
+Certiﬁcates
+Deep Learning Specialization
+deeplearning.ai, Andrew Ng., 5 courses.
+Achievements
+TGS Salt Identiﬁcation Challenge — Kaggle Sep 2018  Oct 2018
+Skills: pytorch, gcp, image segmentation, UNet, SE nets, k-fold ensembling
+Details: I trained UNet models to segment salt body from seismic data.
+I used GCP instance with Tesla P100 and Tesla K80 GPUs to train my models.
+Results: Top 7%  #195/3234  Bronze badge.
+Projects
+Vietnamese Sentiment Analysis June 2018  June 2018
+Skills: tensorﬂow, nlp, lstm, attention mechanism, data crawling and processing
+Details: I used FastText pretrained word embedding to embed Vietnamese words.
+I built and train dynamic deep bidirectional LSTM with attention mechanism
+model to classify text.
+Realtime Hand-Gestures Recognition June 2018  June 2018
+Skills: tensorﬂow, cnn, object detection, ssd, mobilenetv2, aws ec2, transfer learning
+Details: I ﬁne-tuned Tiny SSD model to localize hands, apply transfer learning to
+build Siamese network based on MobileNetv2 to embed hands into 128-d vectors.
+Models are trained with Tesla K80 from AWS EC2.
+Simple Facial Landmark Detection Dec 2017  Jan 2018
+Skills: keras, cnn, build and train models
+Details: I trained a multitask CNN model to detect facial landmarks & expressions.
+Simple Autonomous Car in 2D Simulation June 2017  July 2017
+Skills: java, mlp, deeplearning4j, libgdx
+Details: I used deeplearning4j to build MLP models for wheel angle and accelerator
+then I trained them from my driving data.
+Handwritten digit recognition Dec 2016  Dec 2016
+Skills: java, cnn, deeplearning4j
+Starcraft: Brood War Bot May 2016  July 2016
+Skills: c++, bwapi

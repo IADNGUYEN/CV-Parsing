@@ -1,0 +1,43 @@
+BACH KHOA UNIVERSITY
+SEPTEMBER 2014  NOW
+DISSERTATION
+MARCH 2018  JUNE
+2018
+CRETA SOLUTIONS COMPANY
+JULY 2017  MARCH 2018
+TOEIC Certificate with score 725 issued by IIG Viet Nam
+2018
+Objective
+Short term:  Have a chance to work in a Technology company.  Gain more experience and be promoted to a higher position in the company.
+Long term:  Master as many Programming Language as I can.  Create a branded product of myself.
+ Education
+Major: Telecommunications Engineering
+Topic foo: Real-time attendance system based on Bluetooth Low Energy
+Build an attendance system include:  Estimote Beacon.  React-native based mobile application.  User's web interface by HTML5,CSS.  Server being built by NodeJS.  MySQL database.
+ Work Experience
+Back-end programmer
+Main responsibilities:  Build server by NodeJS for an IOT system about garden care and other projects...  Technical support for Security camera system.
+ Certifications
+
+
+
+439 Nguyen Trong Tuyen, Tan
+Binh District, Ho Chi MInh city,
+Vietnam
+
+[protected data]
+SKILLS
+NodeJS
+React Native
+HTML
+CSS
+Python
+INTERESTS
+Basketball, soccer.
+Rap music, guitar.
+Tran Hieu Hien
+Tran Hieu Hien
+WEB/MOBILE APPLICATION DEVELOPER
+© topcv.vn
+0168 284 3415
+hieuhien3012@gmail.com 

@@ -1,0 +1,95 @@
+THUY NGUYEN-CHINH
+AI Engineer & Computer Vision
+thuy.ng.ch@gmail.com
+0986-243-045
+District 10, Ho Chi Minh city
+https://github.com/AntiAegis
+OBJECTIVES
+I am looking for an AI engineer/Computer
+Vision position.
+I have a passion for Software and
+Computing, therefore, I want to cultivate
+my knowledge as well as progress my
+career in this ﬁeld.
+ABILITIES/STRENGTHS
+Mathematics
+C
+Python
+Matlab
+Machine Learning
+Deep Learning
+Linux
+OpenCV
+Tensorﬂow
+Science article
+Self study
+Leadership
+LANGUAGES
+Vietnamese (native)
+○ ○ ○ ○ ○
+English (IELTS 6.0)
+○ ○ ○ ○ ○
+EDUCATION/COURSES
+B.S. in Electrical & Electronics
+HoChiMinh city University of Technology
+September 2015 – June 2019
+Talent class of Electronics-Communications
+Current GPA: 8.89
+Machine Learning (Coursera)
+Standford University – Andrew Ng
+January 2018 – Febuary 2018
+Convolutional Neural Networks for
+Visual Recognition (CS231n)
+Standford University – Fei-Fei Li
+Febuary 2018 – April 2018
+REFEREE
+Prof. Dr. Thuong Le-Tien
+thuongle@hcmut.edu.vn
+68 Street 4, Do Thanh Housing, HCM city
+Prof. Dr. Thuong is also an IEEE fellow. His
+main ﬁeld of research is Forgery Image
+Detection. Now, he is guiding me to explore
+about Deep Learning approaches to solve
+new challenges in his research topic.
+PROJECTS
+Iris Recognition
+https://github.com/AntiAegis/Iris-Recognition
+June 2017 – December 2017
+Role: Leader.
+Description: I organized a team of 6 members to conduct a research
+about Iris recognition algorithms from science articles as a Summer
+project.
+Target: Two versions of Iris recognition application on Python and
+Matlab. Both of them are implemented on Linux.
+Language: Python + OpenCV, Matlab.
+Event Information Extraction from Flyers
+https://github.com/AntiAegis/Event-info-extraction-from-ﬂyers
+September 2017 – October 2017
+Role: Algorithm development.
+Description: This was my project with 2 classmates in the course
+"Digital Image Processing". Our work was reading an article from the
+Standford university and then realizing it into code.
+Target: A Matlab GUI extracting important information of events as
+text (e.g. time and location) from poster or ﬂyer images.
+Language: Matlab.
+Automatic Control via Internet
+https://github.com/AntiAegis/Automatic-control-via-Internet
+September 2017 – November 2017
+Role: System architecture, Networking, Firmware.
+Description: This was my project in the course "Embedded System
+Design". My team had 4 members and we designed ourselves a Linux
+embedded system based on knowledge learned from the course.
+Target: A smart home security prototype installed on Raspberry, MCU
+TIVAC-1294, and Linux computers.
+Language: C, Shell Script.
+Forgery Image Detection
+My current research and pre-thesis
+April 2018 – On going
+Role: Leader.
+Description: I and my colleague are researching about Deep Learning
+approaches in Forgery Image Detection ﬁeld. We read papers of
+conventional methods, then link them to modern Deep Learning
+models, which we learned from online courses and journal articles.
+Target: Deep Learning models solving emerging Forgery Image
+Detection problems.
+Language: Python + Tensorﬂow.

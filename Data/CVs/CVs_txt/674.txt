@@ -1,0 +1,122 @@
+Name: Nguyễn Quốc Trọng Nghĩa 
+Email: nghia.nguyen170192@gmail.com  
+Phone: +84908170192  
+Skype: nghia.nguyen170192 
+Address: 497/24/19 Phan Văn Trị Street, Ward 5, Go Vap District, 
+Ho Chi Minh City, Viet Nam 
+LinkedIn: vn.linkedin.com/in/nghianguyen170192/ 
+Personal Qualities 
+I am an active IT learner. I always improve my coding skills by implementing new 
+frameworks/libraries or new technologies and customizing them. My expertise is handling backend framework 
+as well as having experience with frontend development, which is involved in building responsive website 
+layout using HTML5/CSS/JavaScript. I am familiar with software development processes such as Scrum and 
+Agile methodology.  
+I work hard and improve steadily by learning new knowledge in order to have better quality in IT field. 
+I also have good communication with other colleagues and have good attitude toward deadline and other 
+pressures. 
+Skills 
+o Programming Languages: HTML5/CSS 3, JavaScript, C#, ASP.NET MVC 5 
+o Frontend: Bootstrap, JQuery and responsive web design 
+o Database: MySQL, Microsoft SQL Server. 
+o Editor Tools: Visual Studio, SQL Server Management Tool, Sublime Text 
+o Source version control tools: Git, Team Foundation Server (TFS), SVN 
+o Process management tools: Team Foundation Server (TFS), Trello, Jira 
+o Concepts: OOP, Design Patterns, DI, SOLID 
+o Software Development Process: Scrum, Agile.  
+o Operating Systems: Window and MacOs 
+o Communication tools: Skype/Skype for business, Slack 
+o English: IELTS 6.5 
+o Fluent in English communication via mail, phone and conference call. 
+o Teamwork, critical thinking, time management, problems analyzing and solving. 
+Education 
+Royal Melbourne Institute of Technology University Vietnam 
+Bachelor of Information Technology: 2011-2014 
+Work Experience 
+03/2017 – Now: Software Developer at SAI Digital 
+Company Homepage: http://www.sai-digital.com 
+o 
+Learning and working with Microsoft Dynamics CRM 2011. 
+o 
+Programming WebAPI with authentication for each 3rd parties to use( Zalo, Facebook chatbot) 
+o 
+Developing console applications to run daily and send data to 3rd parties API (Zalo, Facebook 
+chatbot) 
+o 
+Monitoring SQL database performance. 
+o 
+Planning to implement web portal for user to check all the report using Highchart.js 
+o 
+Maintaining current system and fixing known bugs/errors 
+12/2015 – 02/2017: Software Engineer at Harveynash Viet Nam 
+Company Homepage: http://www.harveynash.com/vn/ 
+o 
+Worked with employee management system. 
+o 
+Developed functions using Microsoft SQL Server.  
+o 
+Designed audit report (show history changes from a table) using triggers 
+o 
+Contributed great effort on refactor, maintenance and optimization. 
+o 
+Worked with SSRS reports(RDLC, RDL) 
+o 
+Used SCRUM process. 
+o 
+Used TFS for source version control and process management. 
+o 
+Communicated with Project Managers, Product Owners to estimate time for each backlogs via Skype 
+calls, Slack. 
+11/2014 – 12/2015: Web developer at Amaris 
+Company Homepage: http://amaris.com/en 
+o 
+Worked with several internal ERP apps. 
+o 
+Programed apps backend using only ASP.NET MVC 4, 5. 
+o 
+Designed database/tables using Microsoft SQL Server.  
+o 
+Contributed great effort on refactor, maintenance and optimization. 
+o 
+Implement company security package for several apps 
+o 
+Designed responsive UI using Bootstrap, HTML5/CSS, JavaScript/Jquery/AJAX. 
+o 
+Implemented and customized other external libraries such as XEditable, Select2, Google Place API 
+and International Telephone Input…. 
+o 
+Generated data reports to Excel/XML format 
+o 
+Modified modify internal/external libraries to fit app’s requirements. 
+o 
+Worked with JSON, XML and XSD format. 
+o 
+Used SCRUM process. 
+o 
+Experienced with using management tool: TFS for both code (branch, merge, checkin and checkout) 
+and process management: manage backlogs and sprints for each app. 
+o 
+Communicated with Project Managers, Application Owners to estimate time for each backlogs via 
+Skype calls/conference calls. 
+o 
+Helped colleagues when they had problems using frameworks, libraries or improving performance. 
+06/2014 – 09/2014: Internship as Web Developer at Evil Genius Technologies. 
+Company Homepage: http://evilgeniustechnologies.com/ 
+o 
+Worked with several web app projects using ASP.NET 
+o 
+Implemented new features for several projects using external framework/libraries such as Amazon 
+Glacier, PayPal, Parse Database, MailChimp. 
+o 
+Deployed successfully ASP.NET web apps using AppHarbor hosting server hooked with BitBucket. 
+o 
+Experienced with using management tool: Pivotal Tracker, BitBucket. 
+o 
+Contributed great effort to refactoring old code and fixing web app errors. 
+o 
+Designed frontend single page application using Bootstrap, BackboneJS 
+06/2013 – 12/2013: DND Media Part-time programmer. 
+Company Homepage: http://dndmedia.vn/ 
+o Worked with C#, .NET, SQL Server. 
+o Built an application generating 10 random characters for lottery and interacts with SQL Database 
+Server for Kinh Do.  
+o Built a SMS service for a game show using text message for registration and voting. 

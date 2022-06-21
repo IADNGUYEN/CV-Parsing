@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="50" family="AIZDCY+LMSans17" color="#000000"/>
+	<fontspec id="1" size="14" family="LBBSOH+LMSans10" color="#727272"/>
+	<fontspec id="2" size="14" family="UEBUZT+MarVoSym" color="#727272"/>
+	<fontspec id="3" size="21" family="UEVTOU+LMSans12" color="#3872b2"/>
+	<fontspec id="4" size="16" family="PJNKMQ+LMSans10" color="#000000"/>
+	<fontspec id="5" size="16" family="DJRTGU+LMSans10" color="#000000"/>
+<text top="216" left="112" width="299" height="46" font="0">Le Bui Phuong</text>
+<text top="263" left="112" width="107" height="46" font="0">Dong</text>
+<text top="217" left="503" width="124" height="13" font="1"><i>6V Nguyen Thi Tan</i></text>
+<text top="234" left="469" width="158" height="13" font="1"><i>2 ward, 8 district, HCMC</i></text>
+<text top="252" left="493" width="13" height="16" font="2">H</text>
+<text top="252" left="511" width="116" height="13" font="1"><a href="tel:+841629496493"><i>+84 1629 496 493</i></a></text>
+<text top="270" left="412" width="13" height="16" font="2">B</text>
+<text top="270" left="430" width="197" height="13" font="1"><a href="mailto:1512114@student.hcmus.edu.vn"><i>1512114@student.hcmus.edu.vn</i></a></text>
+<text top="288" left="451" width="177" height="13" font="1"><i>Date of birth: 24 April 1997</i></text>
+<text top="384" left="219" width="82" height="19" font="3">Summary</text>
+<text top="416" left="219" width="546" height="15" font="4">Algorithms, Data structures, Machine Learning, Data Mining, Computer Vision.</text>
+<text top="454" left="219" width="88" height="19" font="3">Education</text>
+<text top="486" left="112" width="93" height="15" font="4">October 2015</text>
+<text top="486" left="219" width="326" height="15" font="5"><b>Starting Ho Chi Minh University of Science</b></text>
+<text top="486" left="545" width="82" height="15" font="4">, Vietnam, .</text>
+<text top="511" left="137" width="355" height="15" font="4">to present Pursuing bachelor in Computer Science.</text>
+<text top="537" left="153" width="53" height="15" font="4">Courses</text>
+<text top="557" left="165" width="41" height="15" font="4">Taken</text>
+<text top="537" left="219" width="562" height="15" font="4">Linear Algebra, Statistic, Data structures and Algorithms, Database, Computer</text>
+<text top="557" left="219" width="360" height="15" font="4">Networking, AI, Machine Learning and Data Mining.</text>
+<text top="594" left="219" width="94" height="19" font="3">Experience</text>
+<text top="627" left="130" width="395" height="15" font="4">Caro Game Making caro game with small AI in C/C++.</text>
+<text top="653" left="173" width="33" height="15" font="4">Lego</text>
+<text top="673" left="132" width="74" height="15" font="4">Mindstorm</text>
+<text top="653" left="219" width="312" height="15" font="4">Research and Install NXT Segway with Rider.</text>
+<text top="699" left="144" width="491" height="15" font="4">Analytics Analyzing and Forecasting data products using Tableau tool.</text>
+<text top="723" left="125" width="525" height="15" font="4">Recognition Building a Face aging recognition model with keras framework.</text>
+<text top="748" left="219" width="403" height="15" font="4">Building a Recognizing hand-written digits model by SVM.</text>
+<text top="772" left="219" width="494" height="15" font="4">Building a Optical Character Recognition model using machine learning.</text>
+<text top="796" left="219" width="514" height="15" font="4">Building a Symbols Recognition scripts using feature extraction algorithms.</text>
+<text top="822" left="121" width="85" height="15" font="4">Data mining</text>
+<text top="843" left="119" width="86" height="15" font="4">and Statistic</text>
+<text top="822" left="219" width="452" height="15" font="4">Classification and clustering some basic problems on Weka and R.</text>
+<text top="880" left="219" width="92" height="19" font="3">Languages</text>
+<text top="913" left="128" width="188" height="15" font="4">Vietnamese Mothertongue</text>
+<text top="937" left="157" width="148" height="15" font="4">English Intermediate</text>
+<text top="974" left="219" width="179" height="19" font="3">Skills and Expertises</text>
+<text top="1007" left="126" width="79" height="15" font="4">Programing</text>
+<text top="1027" left="134" width="71" height="15" font="4">Languages</text>
+<text top="1007" left="219" width="114" height="15" font="4">C/C++, Python</text>
+<text top="1053" left="132" width="524" height="15" font="4">Algorithms Mathematics, Graph Theories, Searching, Sorting, Compressing.</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="129" left="147" width="637" height="15" font="4">Software Visual Studio, MS SQL Server, MS Office, PyCharm, IPythonNoteBook, Weka, R,</text>
+<text top="149" left="219" width="146" height="15" font="4">Tabelau, Rapidminer.</text>
+<text top="175" left="160" width="393" height="15" font="4">Others OpenCV, Keras, Tensorflow, Scikit (elementary).</text>
+<text top="213" left="219" width="199" height="19" font="3">Interests and Activities</text>
+<text top="245" left="219" width="276" height="15" font="4">Technology, Open-Source, Programming</text>
+<text top="270" left="219" width="407" height="15" font="4">Learning Model Improving, Behavior Analysis, Mathematics</text>
+<text top="294" left="219" width="229" height="15" font="4">Football, Travelling, Photography</text>
+</page>
+<outline>
+<item page="1">Summary</item>
+<item page="1">Education</item>
+<item page="1">Experience</item>
+<item page="1">Languages</item>
+<item page="1">Skills and Expertises</item>
+<item page="2">Interests and Activities</item>
+</outline>
+</pdf2xml>

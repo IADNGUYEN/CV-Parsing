@@ -1,0 +1,37 @@
+Do Ngoc Hai
+Machine Learning Engineer
+0399 866 388
+
+Male
+
+felix.do.1030@gmail.com
+
+30/10/1994
+
+linkedin.com/in/felix-do
+
+Hanoi, Vietnam
+
+Objective
+Looking to bring cutting-edge AI technology to solve real-world problems and advance myself further in this field
+of frontier technology.
+
+NEXUS FRONTIER TECH
+02/2018  11/2018
+Work experience
+Software Engineer, Machine Learning  Integration of AI system to ensure smooth autonomous operations on the client's server  Develop and deliver Natural Language Processing models specifically for the Japanese language  Develop a high-level API Tensorflow-based library/toolkit for easy deployment and researching purposes  Research and apply state of the art techniques like Meta Learning and Transfer Learning to boost efficiency and
+value of the company's AI applications  Improve capability and usage of DT42's Computer Vision models aimed at edge devices like Raspberry Pi and
+smartphones  Consult clients and executives on directions, applicability and potentials of AI implementation on different usages  Create teaching materials and consult on  for the academic team's AI course product
+
+Machine Learning  Proficient in Tensorflow and familiar with other ML frameworks  Experienced with cloud computing platforms, including Google Cloud
+Platform and AWS  Experienced use of various AI techniques including more advanced ones
+like GANs, Transfer Learning, Meta Learning, Reinforcement Learning
+Programing  Fluent in Python and its data analysis and visualization tools
+Researching  Very fast and efficient at researching and learning to stay up-to-date with
+the latest techniques, tools and trends in the field of AI
+Language  English (native-level)  Vietnamese (native)
+Others  Substantial amount of knowledge and a keen interest in a wide range of
+science fields including Mathematics, Physics, Astronomy, Chemistry
+Skills
+
+© topcv.vn

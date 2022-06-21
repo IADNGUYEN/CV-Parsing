@@ -1,0 +1,60 @@
+I am an junior developer seeking a full-time position in the field of
+information technology industry, where I can apply my knowledge and
+skills for continuous improvement. 
+O B J E C T I V E
+JAVA INTERN
+FPT SOFTWARE HCMC | June 2017  August 2017 
+Developed a management systems following the R&D and 
+company security rules  
+Work in team with many people who have the same passion 
+about ICT dreams 
+TRAVEL FLIGHTS SYSTEM
+PROJECT
+Developed a travel flight systems get ticket information such as: 
+origin, departure, time, price, seat remaining, plane infor... etc, 
+use external API  
+Use PHP lang and Framework Laravel   
+E X P E R I E N C E S  
+UNIVERSITY OF INFORMATION TECHNOLOGY 
+Vietnam National University Ho Chi Minh City
+ENGINEER | 2014  2019
+Major in Information Systems  Electronic Commerce
+E D U C A T I O N  
+The 11th Annual International Microelectronics Olympiad
+2015 and 2016
+Top 30 of scholarship candidates have chance to visit Harvard University 
+offered by Hoa-Sen Group 
+March 2017 
+Extracurricular activities certification in many social activities 
+A R C H I E V E M E N T S
+TO NGUYEN 
+DUY TAN
+J U N I O R  D E V E L O P E R
+C O N T A C T  
+Q U O T E S
+S K I L L S
+Phone: +84 947 402 164 
+Email: tonguyenduytan@gmail.com 
+14520809@gm.uit.edu.vn 
+Address: Dormitory Zone B, 
+Vietnam National University, Linh 
+Trung Ward, Thu Duc Dist., HCMC 
+700000
+Precision is the difference 
+between a butcher and a surgeon
+PHP / Laravel 
+HTML/CSS 
+Javascript 
+NodeJS 
+English
+S O C I A L  L I N K
+fb.me/lambor.tan 
+@tonguyenduytan 
+github.com/tanrobotix 
+ms: goldenapple@outlook.com
+DT
+WEB DEVELOP
+SUBJECT
+Developed a health care system use Symptoms API  
+Giving suggestions about health problems with symptoms 
+inputed 

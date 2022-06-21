@@ -1,0 +1,72 @@
+Page 1 / 2  
+PERSONAL 
+INFORMATION Huy-Tran Thanh 
+Address      25 Man Thien, District 9, Ho Chi Minh City 
+Mobile        01654 064 777 
+Email          huykan.it@gmail.com 
+WORK EXPERIENCE 
+05/2013 – 12/2013 
+Technical Translator at  IBM developerWorks 
+Translating tutorials or guide from IBM websites (English) to Vietnamese and 
+submit to IBM Vietnam. 
+12/2013  now 
+Freelancer 
+Works as researcher  Join some excited project in order to learn new technology.  
+EDUCATION AND 
+TRAINING 
+2012  2017 
+University of Information Technology  Vietnam National University, Ho Chi Minh 
+City 
+Faculty: Information System  Advanced Education Program. 
+GPA: 8.6/10  IELTS 5.5/9 
+Graduated: 2017 (Expected). 
+Scholar:  
+Received many scholarships such as Encouraging Scholarship (6 
+scholarships up to 2015).  
+Obtained highest mark of the class in 1st year and top 3 students of the class 
+in 2nd and 3rd year. 
+PERSONAL SKILLS 
+Programming  languages  1.  C# (OOP, Windows Form, ASP.NET, Console)  3/5 
+Main language with 5 project from 2012 to 2015.  
+2.  C/C++ (Console)  2/5 
+Main language for all assignment in first two year in university from 2012 to 2014 
+3.  SQL (Distributed Database, MS SQL Server and MySQL)  3/5 
+Good in query, design and normalization database. Also write simple procedure. 
+4. Java (Data structure and Algorithm)  1/5 
+Only apply for Data structure and Algorithm course in 2nd year. 
+Operating System 
+Windows (3/5), Linux (2/5) 
+SOCIAL SKILLS 
+Teamwork  Good communicate and quick adapt with other member(s) of team which is 
+gained through my experience as monitor of class in university.  Leadership (currently responsible for a team of 3-5 people). 
+Page 2 / 2  
+PROJECTS 
+02/2013 
+Earthquake Prediction by using Bayesian Theorem approach method 
+Language: C# (Console), Excel. 
+A final project of Discrete Mathematics for computer course, we must depend on 
+Math equation and given data in order to predict the frequency of occurrence of 
+earthquakes. 
+09/2014 
+Library Management 
+Language: C# (Windows form), MS SQL Server. 
+A project of Advanced Object Oriented Program which manage borrow and return 
+books, staffs, readers, import books,…. 
+10/2014 
+Warehouse Management 
+Language: C# (Windows form), MS SQL Server. 
+A project of Advanced Object Oriented Program which manage import, export of 
+many warehouses (base on Unilever Model). 
+05/2015 
+Online Shoes Shop – Bailaza (Buy Plaza) 
+Language: PHP, MySQL. 
+A project of Information Systems Project Management. The main objective focus 
+on divide task(s) base on personal skill and ability. 
+05/2015 
+Library Management Website 
+Language: C# (ASP.NET),  MS SQL Server 
+A project of Systems analysis and design. 
+10/2015 
+Hospital Management Application 
+Language: C# (ASP.NET),  MS SQL Server 
+A practical project for a small clinic in Ho Chi Minh. 

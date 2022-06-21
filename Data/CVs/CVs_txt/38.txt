@@ -1,0 +1,65 @@
+ 
+Contact Information 
+Ho Chi Minh city, Vietnam 
+01686825714 
+tranthingoc210395@gmail.com 
+Activities 
+Jan 2014  Feb 2014: 
+OPEN HEART OF THANH HOA 
+Member  Take part in  the voluntary 
+activities such as: collecting 
+papers, collecting money and old 
+furniture for charities. 
+Interests 
+I like soccer, listen to music, read 
+book, and travelling 
+TRẦN THỊ NGỌC 
+TESTER 
+SKILL 
+Flexible Team Working 
+English 
+Problem Sovling Skill 
+Good 
+Learn Fast 
+Good 
+Good Attitude At Work 
+Good 
+Work Experience 
+INTERSHIP AT ONLINE CRM           
+June 2016  August 2016 
+Tester 
+Main responsibilities: 
+ Developed test case and test case check list 
+ Executed test on multiple browsers and devices 
+ Retest and Recheck bugs 
+ Managed bugs using Trello 
+ Project: GoKids CRM. 
+SMARTLOG 
+June 2017  Present 
+Tester and B.A 
+Main responsibilities: 
+ Read an analysis the requirement / specification / design from 
+client- Manage plan for testing. 
+ Create /update testcase, checklist  
+ Write userguide. 
+ Report bugs/issue on Jira and follow, verify till it's fixed. 
+ Update test report. 
+ Using SQL 
+ Test the interface and functionality of site. 
+ Enter content for the site. 
+ Use devices to test on IOS ,Android 
+ Improve about communicate skill, writing by English skill, co-
+workingwith project team and working independently. 
+ Write automation test by cucumber using selenium 
+Project: 
+ TMS 
+ WMS 
+ SEM 
+ BIDDING 
+Certifications 
+December 2016 – Oracle 12C-PL/SQL : 8.5 
+June 2018 – Logigear Test Automation Program 
+Education 
+UNIVERSITY OF NATURAL 
+SCIENCES 
+Information System 

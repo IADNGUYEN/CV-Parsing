@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="18" family="Times New Roman,Bold" color="#333333"/>
+	<fontspec id="1" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="2" size="18" family="Times New Roman,Bold" color="#ffffff"/>
+	<fontspec id="3" size="18" family="Times New Roman" color="#ffffff"/>
+	<fontspec id="4" size="18" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="5" size="18" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="6" size="18" family="Arial" color="#000000"/>
+	<fontspec id="7" size="18" family="Times New Roman,Italic" color="#000000"/>
+<text top="67" left="322" width="189" height="16" font="0"><b>CURRICULUM VITAE</b></text>
+<text top="67" left="511" width="5" height="16" font="1"> </text>
+<text top="110" left="373" width="153" height="16" font="2"><b>PERSONAL DATA</b></text>
+<text top="110" left="526" width="5" height="16" font="3"> </text>
+<text top="292" left="512" width="5" height="16" font="2"><b> </b></text>
+<text top="323" left="55" width="83" height="16" font="4"><b>Full name:</b></text>
+<text top="323" left="139" width="174" height="16" font="1"> Huynh Le Nhat Truong</text>
+<text top="323" left="313" width="74" height="17" font="4"><b>    Email:</b></text>
+<text top="324" left="386" width="5" height="16" font="1"> </text>
+<text top="344" left="335" width="195" height="16" font="1">hlntruong450@gmail.com </text>
+<text top="323" left="563" width="64" height="16" font="4"><b>Mobile: </b></text>
+<text top="323" left="627" width="95" height="16" font="1">0938272813 </text>
+<text top="374" left="55" width="27" height="16" font="4"><b>Sex</b></text>
+<text top="374" left="82" width="14" height="16" font="1">:  </text>
+<text top="370" left="96" width="16" height="20" font="5"></text>
+<text top="374" left="112" width="68" height="16" font="1">  Male     </text>
+<text top="370" left="181" width="16" height="20" font="5"></text>
+<text top="374" left="197" width="67" height="16" font="1">  Female </text>
+<text top="374" left="335" width="99" height="16" font="4"><b>Date of birth</b></text>
+<text top="374" left="434" width="96" height="16" font="1">: 15/02/1993 </text>
+<text top="374" left="563" width="106" height="16" font="4"><b>Place of Birth</b></text>
+<text top="371" left="669" width="72" height="20" font="1">: Bến Tre </text>
+<text top="410" left="55" width="505" height="16" font="4"><b>Permanent Address: 793/50F/KP.4/P.Tân Hưng/Quận 7/ TPHCM</b></text>
+<text top="410" left="561" width="5" height="16" font="1"> </text>
+<text top="438" left="47" width="5" height="16" font="4"><b> </b></text>
+<text top="471" left="326" width="251" height="16" font="2"><b>EDUCATION BACKGROUND </b></text>
+<text top="501" left="66" width="134" height="16" font="1">From Sep/2011 to </text>
+<text top="522" left="66" width="73" height="16" font="1">Sep/2014 </text>
+<text top="492" left="267" width="11" height="17" font="6">- </text>
+<text top="493" left="294" width="226" height="16" font="4"><b>Cao Thang Technical College</b></text>
+<text top="493" left="520" width="5" height="16" font="1"> </text>
+<text top="513" left="267" width="11" height="17" font="6">- </text>
+<text top="513" left="294" width="209" height="16" font="1">College / Software Engineer </text>
+<text top="555" left="55" width="5" height="16" font="1"> </text>
+<text top="547" left="240" width="5" height="16" font="4"><b> </b></text>
+<text top="580" left="47" width="5" height="16" font="4"><b> </b></text>
+<text top="614" left="391" width="113" height="16" font="2"><b>KEY SKILLS </b></text>
+<text top="644" left="47" width="93" height="16" font="4"><b>Developer:  </b></text>
+<text top="664" left="68" width="11" height="17" font="6">- </text>
+<text top="665" left="88" width="304" height="16" font="1">Basic at JAVA, SDK (Eclipse, NetBean). </text>
+<text top="685" left="68" width="11" height="17" font="6">- </text>
+<text top="685" left="88" width="322" height="16" font="1">Basic at PHP, C/C++, SDK (Visual Studio). </text>
+<text top="706" left="68" width="11" height="17" font="6">- </text>
+<text top="706" left="88" width="202" height="16" font="1">Basic at DBMS (MySQL).  </text>
+<text top="726" left="68" width="11" height="17" font="6">- </text>
+<text top="727" left="88" width="330" height="16" font="1">Knowledge in mobile programing (Android). </text>
+<text top="747" left="68" width="11" height="17" font="6">- </text>
+<text top="748" left="88" width="353" height="16" font="1">Strong knowledge in OOP, some design partten. </text>
+<text top="768" left="68" width="11" height="17" font="6">- </text>
+<text top="769" left="88" width="333" height="16" font="1">Knowledge of software management process. </text>
+<text top="789" left="68" width="11" height="17" font="6">- </text>
+<text top="789" left="88" width="221" height="16" font="1">Source control systems: SVN. </text>
+<text top="811" left="81" width="46" height="16" font="4"><b>Level </b></text>
+<text top="811" left="207" width="46" height="16" font="4"><b>.NET </b></text>
+<text top="811" left="329" width="53" height="16" font="4"><b>JAVA </b></text>
+<text top="811" left="458" width="41" height="16" font="4"><b>SQL </b></text>
+<text top="811" left="553" width="82" height="16" font="4"><b>ORACLE </b></text>
+<text top="811" left="725" width="50" height="16" font="4"><b>Other </b></text>
+<text top="841" left="47" width="57" height="16" font="1">Known </text>
+<text top="841" left="227" width="5" height="16" font="4"><b> </b></text>
+<text top="841" left="353" width="5" height="16" font="4"><b> </b></text>
+<text top="841" left="476" width="5" height="16" font="4"><b> </b></text>
+<text top="841" left="591" width="5" height="16" font="4"><b> </b></text>
+<text top="841" left="748" width="5" height="16" font="1"> </text>
+<text top="868" left="47" width="44" height="16" font="1">Basic </text>
+<text top="865" left="220" width="14" height="20" font="5"></text>
+<text top="869" left="235" width="5" height="16" font="4"><b> </b></text>
+<text top="865" left="346" width="14" height="20" font="5"></text>
+<text top="869" left="360" width="5" height="16" font="4"><b> </b></text>
+<text top="865" left="469" width="14" height="20" font="5"></text>
+<text top="869" left="483" width="5" height="16" font="4"><b> </b></text>
+<text top="865" left="584" width="14" height="20" font="5"></text>
+<text top="869" left="598" width="5" height="16" font="4"><b> </b></text>
+<text top="869" left="697" width="107" height="16" font="1">PHP, Android </text>
+<text top="896" left="47" width="30" height="16" font="1">Pro </text>
+<text top="896" left="227" width="5" height="16" font="4"><b> </b></text>
+<text top="896" left="353" width="5" height="16" font="4"><b> </b></text>
+<text top="896" left="476" width="5" height="16" font="4"><b> </b></text>
+<text top="896" left="591" width="5" height="16" font="4"><b> </b></text>
+<text top="896" left="748" width="5" height="16" font="4"><b> </b></text>
+<text top="923" left="47" width="73" height="16" font="1">Excellent </text>
+<text top="924" left="227" width="5" height="16" font="4"><b> </b></text>
+<text top="924" left="353" width="5" height="16" font="4"><b> </b></text>
+<text top="924" left="476" width="5" height="16" font="4"><b> </b></text>
+<text top="924" left="591" width="5" height="16" font="4"><b> </b></text>
+<text top="924" left="748" width="5" height="16" font="4"><b> </b></text>
+<text top="951" left="47" width="136" height="16" font="4"><b>Languages Skills:</b></text>
+<text top="951" left="183" width="5" height="16" font="1"> </text>
+<text top="975" left="78" width="300" height="16" font="1">English: reading specialized materials IT </text>
+<text top="1002" left="47" width="136" height="16" font="4"><b>Computer Skills: </b></text>
+<text top="1002" left="183" width="406" height="16" font="1">Word, Excel, PowerPoint, Windows, Internet, Email, …</text>
+<text top="1002" left="589" width="5" height="16" font="4"><b> </b></text>
+<text top="1030" left="47" width="174" height="16" font="4"><b>Communication skills:</b></text>
+<text top="1030" left="221" width="5" height="16" font="1"> </text>
+<text top="1030" left="225" width="5" height="16" font="7"><i> </i></text>
+<text top="1053" left="47" width="756" height="16" font="1">The experience at work as well as organizing outside activities has improved my ability to communicate </text>
+<text top="1074" left="47" width="747" height="16" font="1">effectively with everybody. It also taught me the importance of listening, supporting and respecting the </text>
+<text top="1094" left="47" width="53" height="16" font="1">others. </text>
+<text top="1120" left="47" width="5" height="16" font="4"><b> </b></text>
+<text top="1153" left="335" width="225" height="16" font="2"><b>EMPLOYMENT HISTORY </b></text>
+<text top="1183" left="53" width="175" height="16" font="1">28/10/2014-12/11/2014 </text>
+<text top="1183" left="289" width="241" height="16" font="1">Intership Company IT Counting. </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="68" left="53" width="5" height="16" font="1"> </text>
+<text top="68" left="286" width="5" height="16" font="1"> </text>
+<text top="89" left="47" width="5" height="16" font="1"> </text>
+<text top="120" left="356" width="186" height="16" font="2"><b>WORK EXPERIENCE </b></text>
+<text top="150" left="53" width="123" height="16" font="1">Diploma Project </text>
+<text top="150" left="208" width="293" height="16" font="1">ECommerce Website (Diploma Project) </text>
+<text top="353" left="64" width="117" height="16" font="1">Course projects </text>
+<text top="181" left="208" width="167" height="16" font="1">Database management </text>
+<text top="202" left="208" width="55" height="16" font="1">system </text>
+<text top="181" left="420" width="64" height="16" font="1">Website </text>
+<text top="233" left="208" width="149" height="16" font="1">Analysis and design </text>
+<text top="254" left="208" width="69" height="16" font="1">Software </text>
+<text top="233" left="420" width="116" height="16" font="1">Use photoshop  </text>
+<text top="285" left="208" width="162" height="16" font="1">Software Engineering </text>
+<text top="285" left="420" width="151" height="16" font="1">School management </text>
+<text top="316" left="208" width="194" height="16" font="1">Analysis and management </text>
+<text top="337" left="208" width="165" height="16" font="1">software requirements </text>
+<text top="316" left="420" width="230" height="16" font="1">Personal financial management </text>
+<text top="368" left="208" width="187" height="16" font="1">Requirement engineering </text>
+<text top="364" left="420" width="178" height="20" font="1">Schedule’s arrangement </text>
+<text top="399" left="208" width="140" height="16" font="1">Java Programming </text>
+<text top="399" left="420" width="114" height="16" font="1">Apply Android </text>
+<text top="431" left="208" width="131" height="16" font="1">Network advance </text>
+<text top="431" left="420" width="85" height="16" font="1">Web proxy </text>
+<text top="462" left="208" width="64" height="16" font="1">Android </text>
+<text top="462" left="420" width="114" height="16" font="1">Apply Android </text>
+<text top="493" left="208" width="48" height="16" font="1">Coder </text>
+<text top="493" left="420" width="202" height="16" font="1">Apply Android,UI Android </text>
+<text top="524" left="208" width="37" height="16" font="1">PHP </text>
+<text top="524" left="420" width="153" height="16" font="1">Commercial website </text>
+<text top="592" left="68" width="109" height="16" font="1">Amberos LLC </text>
+<text top="613" left="103" width="35" height="16" font="1">LTD</text>
+<text top="613" left="138" width="5" height="16" font="4"><b> </b></text>
+<text top="555" left="208" width="5" height="16" font="1"> </text>
+<text top="555" left="420" width="5" height="16" font="1"> </text>
+<text top="586" left="208" width="5" height="16" font="1"> </text>
+<text top="586" left="420" width="5" height="16" font="1"> </text>
+<text top="618" left="208" width="5" height="16" font="1"> </text>
+<text top="618" left="420" width="5" height="16" font="1"> </text>
+<text top="649" left="208" width="5" height="16" font="1"> </text>
+<text top="649" left="420" width="5" height="16" font="1"> </text>
+<text top="670" left="47" width="5" height="16" font="1"> </text>
+<text top="853" left="47" width="5" height="16" font="1"> </text>
+<text top="884" left="358" width="187" height="16" font="2"><b>PERSONAL PROFILE </b></text>
+<text top="914" left="61" width="111" height="16" font="4"><b>ACTIVITIES </b></text>
+<text top="914" left="295" width="427" height="16" font="1">Watching movies, music, traveling, play games, play sport </text>
+<text top="945" left="55" width="207" height="16" font="4"><b>PERSONAL QUALITIES </b></text>
+<text top="945" left="295" width="544" height="16" font="1">Enthusiastic, open minded, caring and resourceful. Strong logical thinking, </text>
+<text top="968" left="295" width="514" height="16" font="1">self-motivated, eager to learn, highly responsible, carefulness in all the </text>
+<text top="992" left="295" width="53" height="16" font="1">works. </text>
+<text top="1026" left="47" width="5" height="16" font="1"> </text>
+<text top="710" left="373" width="152" height="16" font="2"><b>CAREER GOALS  </b></text>
+<text top="741" left="47" width="73" height="16" font="4"><b>Position: </b></text>
+<text top="740" left="305" width="292" height="16" font="1">Application Android, PHP,  Wordpress. </text>
+<text top="771" left="47" width="76" height="16" font="4"><b>Job type: </b></text>
+<text top="771" left="305" width="70" height="16" font="1">Full time </text>
+<text top="802" left="47" width="52" height="16" font="4"><b>Place: </b></text>
+<text top="801" left="305" width="136" height="16" font="1">Ho Chi Minh City </text>
+<text top="832" left="47" width="61" height="16" font="4"><b>Salary: </b></text>
+<text top="832" left="305" width="130" height="16" font="1">Salary agreement </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,65 @@
+ 
+Phat Lam 
+Software Engineer 
+lamthanhphat@gmail.com 
+(84)(97)361-9499 
+Ho Chi Minh City 
+Address: 250 Nam Hoa Street, District 9, Ho Chi Minh City, Viet Nam 
+Target: Before I will be thirty, I must have a product which can support many people or sharing 
+knowledge to them 
+Work History 
+FPT Software 
+Software Developer 
+In FPT Software, I had worked on three main project. In these project, I had worked on 
+many technologies from web application, android application, iOS application to backend 
+system. I was also a team lead. 
+Jul 2012  Aug 2015 
+Education 
+Information Technology Engineering 
+Nong Lam University 
+In this time, I had been trained about Java language, database management system, and 
+skill analysis and design system. I had also studied network system, security issue when 
+developing and deploy a product. 
+My graduation essay is: “Research to deploy and evaluate effectiveness of load 
+balancing techniques for web applications built on the Liferay portal”. 
+2008  2012 
+Strengths 
+Agile methodologies 
+▱▱▱▱▱▱▱▱▱▱ 
+Backend development 
+Java, Spring, MySQL, PostgreSQL 
+▱▱▱▱▱▱▱▱▱▱ 
+Frontend development 
+HTML5, Javascript, CSS3, AngularJS 
+▱▱▱▱▱▱▱▱▱▱ 
+Cloud computing 
+AWS, Google cloud platform 
+▱▱▱▱▱▱▱▱▱▱ 
+Work Experience 
+In the university, when I did my graduation essay, I used to Jmeter to create an automation test for web application. 
+Because we had to evaluate effectiveness of load balancing, we needed to create a test plan with many users. We 
+had many problems when making automation test with a multi-steps scenario. But we tried with many solution and 
+finally we could solve them. In the current time, I can do automation test with Jmeter well. 
+In FPT Software, when starting working, I joined to web developer team. At this time, I had studied all knowledge 
+about HTML, CSS and JavaScript. After one month, I could work as a senior web developer. Our team worked on a 
+framework single page application which is built on JavaScript. This application had to run on many different 
+devices so that we met a lot of errors on compatibility of CSS and performance on old device android or old iOS 
+version. Although there were still many limits, our product could release successfully. 
+In Aug 2013, I was sent to work in Japan one month. This was an opportunity for me to experience the Japanese 
+culture and working style of Japanese. We had to iterate with customer device (mobile devices and televisions), so 
+that I coded some dummy code for my team members could remote and debug on browser of PC. 
+From Oct 2013 to Aug 2014, besides developing web application, I had developing mobile application for android 
+and iOS. I written a new iOS application to replace the old application only one day. Because the size of old 
+application was big and run lowly. The day after release to customer, we got a blocker issue with new app. I was 
+afraid that I could not fix it and customer would revert the old app. I tried to fix this issue in that morning. 
+From Apr 2014 to Aug 2014, our team developed an application from customer idea. As role technical leader and 
+sub-PM, my team members and I had to design the system structure, screen design and make a demo for customer. 
+My friends and I were really much bigger after this project. 
+From Sep 2014 to Aug 2015, I joined a big project. Finally, this project could not release success but I got the 
+experience about project management, analysis an enterprise system or many new technical. During developing this 
+project, I would suggest my idea in the meeting and discuss with others. I maintained and improved the 
+authentication system by only myself. I discussed and shared my knowledge to other members. In this time, I had 
+practiced many skills from designing and developing front-end website to fixing and maintaining issues of API 
+system backend. 
+Tool: I have worked with IntelliJ Idea for three years. I used many others such as Apache HTTP, Tomcat, Maven, 
+SVN, GIT 

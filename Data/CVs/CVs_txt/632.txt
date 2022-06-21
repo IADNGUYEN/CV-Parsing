@@ -1,0 +1,220 @@
+ 
+CURRICULUM VITAE 
+PERSONAL INFORMATION 
+Full Name: Nguyễn Tân Dân 
+Date of Birth: June 7th,  1987 
+Gender: Male 
+Email: tandan@hotmail.com.vn 
+Mobile: 0986425279 
+Marital Status: Single 
+SKILLS 
+Mobile:  iOS (Objective C, Swift),  Android (Java, Kotlin), React Native 
+Front-End: HTML, CSS, SASS, JavaScript, jQuery, Boostrap, PhoneGap, ReactJS, TypeScript, Angular 
+Back-End: Java (Maven, JUnit, SWING, Servlets, JSP, JDBC, EJB, JPA, Hibernate, Spring MVC),  Node.js 
+(NPM, Yarn, Nodemon, Promise & Async – Await, express, ejs, body-parser, multer, bcrypt, express-
+session, jsonwebtoken, cookie-parser, eslint, webpack, socket.io, reload, request, typescript, mongoose, 
+mocha, supertest),  .NET (EF, LINQ, WCF, WPF, ASP.NET MVC, NUnit),  Python (Threading, SAX, urllib, 
+json, sqlite3, tkinter, pygame, pdb, unittest, Django)  
+Testing: Selenium, Apache POI, Log4j, TestNG, JMeter, Cucumber, Appium, Rest-Assured, Robot 
+Framework 
+Database: MySQL, SQL Server, Oracle, PostgreSQL, SQLite, MongoDB 
+Linux: OpenLDAP, bind., dhcp, Samba, ProFTPD/Vsftpd, MailPostfix/Zimbra, Apache/Nginx, 
+HeartBeat/HAproxy, OpenVPN, Zabbix/Nagios/Cacti, Squid, Snort, iptables, Asterisk. 
+Window: Active Directory, Exchange, Sharepoint, Lync, SystemCenter, Office 365, ISA/ForeFrontTMG 
+Virtualization: VMware-ESXi, Microsoft-HyperV, Nutanix-AHV, Oracle-VirtualBox, Docker 
+Cloud Computing: Amazon Web Services, Microsoft Azure, OpenStack 
+Network: VLAN, Trunking, STP, EtherChannel, HSRP, VRRP, Static routing, RIP, OSPF, IS-IS, MPLS, 
+WLAN, VoIP 
+Security: VPN, SSL, IPsec, IDP, 802.1x, Captive Portal 
+IDE: Android Studio, Xcode, NetBeans, Visual Studio, VS Code, Eclipse, PyCharm, IntelliJ IDEA 
+Tools: Git, Jenkins, JIRA, WordPress. SEO 
+Foreign Languages: English (Good at writing and reading) 
+Soft Skills: Communication, Teamwork, Presentation 
+EXPERIENCE 
+January 2016 – now: Infonam Inc. 
+Role: Full Stack Engineer 
+RPM (Revenue Performance Management)  
+Description: A portal which gives laboratories and radiology providers the ability to take control of their 
+billing operations and financial performance. RPM is much more than a laboratory billing system. it's a full-
+fledged Revenue Performance Management solution that helps laboratories optimize their billing. Be 
+responsible for migrating more than 52 big screens from old system to new one which using new 
+technologies.  
+Responsibilities:  
+o 
+Task management, Code reviewing 
+o 
+Perform various software development tasks 
+o 
+Create unit test 
+o 
+Deployment. 
+Accomplishments:   
+o 
+The system was deployed in many hospital in the US. 
+Technologies:  J2EE, Java, JSP, Spring, JPA, Hibernate, Multi-tenant Data Source, JSON, Ajax, JavaScript, 
+jQuery, JQgrid, Single Sign-On (SSO), Oracle DBMS, Tomcat Server. 
+Enterprise Document Engine 
+Description:  An engine that support for uploading, splitting medical documents into the enterprise document 
+management system. 
+Responsibilities:  
+o 
+Task management, Code reviewing 
+o 
+Perform various software development tasks 
+o 
+Create unit test 
+o 
+Deployment. 
+Accomplishments:   
+o 
+The system was deployed in many hospital in the US. 
+Technologies:  Java, Spring, Hibernate, JSON, Oracle DBMS. 
+Enterprise Document Management 
+Description:  The system that support for uploading and managing medical documentation. Providing online 
+secure file sharing of stored content that may be integrated with other applications.. 
+Responsibilities:  
+o 
+Task management, Code reviewing 
+o 
+Perform various software development tasks 
+o 
+Create unit test 
+o 
+Deployment. 
+Accomplishments:   
+o 
+The system was deployed in many hospital in the US. 
+Technologies:  J2EE, Java, JSP, Spring, JPA, Hibernate, Multi-tenant Data Source, JSON, Ajax, JavaScript, 
+jQuery, JQgrid, Single Sign-On (SSO), Oracle DBMS, Tomcat Server. 
+Client Portal 
+Description:  A client portal is an ideal way to interact with client physicians and laboratories. It allows them 
+to self-service, gaining immediate access to test, pricing, and eligibility information. 
+Responsibilities:  
+o 
+Task management, Code reviewing 
+o 
+Perform various software development tasks 
+o 
+Create unit test 
+o 
+Deployment. 
+Accomplishments:   
+o 
+The system was deployed in many hospital in the US. 
+Technologies:  Java, Spring framework, Hibernate, JSON, Ajax, JavaScript, AngularJS, jQuery, JQgrid, 
+RESTful Web Service APIs, Oracle DBMS, Tomcat server. 
+Patient Portal 
+Description:  The Patient Portal is a portal where you can enhance patient-provider communication, improve 
+patient payment, reduce administrative overhead. 
+Responsibilities:  
+o 
+Perform various software development tasks 
+o 
+Create unit test 
+o 
+Deployment. 
+Accomplishments:   
+o 
+The system was deployed in many hospital in the US. 
+Technologies:  J2EE, Java, JSP, Spring, JPA, Hibernate, Multi-tenant Data Source, JSON, Ajax, JavaScript, 
+jQuery, JQgrid, Single Sign-On (SSO), Oracle DBMS, Tomcat Server. 
+January 2014 – December 2015: Infonam Inc. 
+Role: Quality Control Engineer 
+Description: Zebra new technologies, products and services are being deployed that incorporate the use of 
+RF energy. These include radio networks and devices for RF identification technology for logistics 
+management, low-power access points to boost network availability in businesses, and LTE and Wi-Fi 
+products. These technologies often use radio waves to operate and must meet the same or similar exposure 
+guidelines as existing wireless products. 
+Responsibilities:  
+○ 
+Perform manual testing wireless connection, authentication, encryption and others related features: 
+WEP, WPA/WPA2 Personal, WPA/WPA2 Enterprise, 802.1x with many kinds of Radius server, 
+features: Captive Portal, Client Bridge … 
+○ 
+Perform testing activities: Investigate testing requirements, run the test, monitor and review the test 
+results, and create the test report.  
+○ 
+Perform manual testing features of Zebra products: Controller (NX9500, VX7000), Access Point 
+(AP8232, AP8132, AP8222, AP7131, AP6562, AP6522 ...) with release build 5.8.0 
+○ 
+Define Test Cases for especially are: Captive Portal, Client Bridge, VLAN, ACLs, 802.1x … 
+○ 
+Test integration with some other network devices: Cisco, Ruckus, HP … 
+○ 
+Perform new feature testing, downgrade/upgrade, verify defects, and provide inputs for product 
+development. 
+○ 
+Build test lab: setup servers (SNMP, DNS, DHCP, netflow …), configure L2-L3 devices, setup and 
+manage testing machines, install and manage Axon chassis. 
+○ 
+Bug control: create, monitor and verify bugs. 
+○ 
+Reports: daily, weekly reports. 
+Technologies: 
+○ 
+Wireless devices (Cisco, Ruckus …), especially Zebra devices. 
+○ 
+Network devices: Cisco, 3com, Buffalo, Netgear … 
+○ 
+Management system tools: Active Directory, DHCP, DNS … 
+○ 
+AAA server: Microsoft Radius, Free Radius. 
+January 2011 – December 2013: One Corporation 
+Role: System Engineer 
+Description: Setting up and troubleshooting Network System 
+Responsibilities: 
+○ 
+Support end-user’s network and system problems such as: cannot print, cannot use email, cannot 
+connect to the Internet, problems caused by virus … 
+○ 
+Troubleshooting WAN, LAN, voip system and devices: lost connection, cable problem … 
+○ 
+Maintenance, design and set up Network System. Perform monthly maintenance for PCs and 
+servers: clean temp and unnecessary files, scan virus, defragment disks … Investigate the location, 
+the structure of an office to make right decision in designing network system. Set up new system or 
+repair the system to compatible with the requirement and the budget of a customer 
+○ 
+Making Technical Documents after setting up one system: the topology of the system, the 
+information (such as the username, password, the warranty of devices …) and the necessary notes 
+○ 
+Designing network topology to meet the project’s requirements. All users’ permission are correct, 
+the user are managed locally via a domain controller, set up the CA server which user can use 
+certificate for security reason, the mobile user can use VPN to connect and access the database of 
+the company with high security, internal users can access both the Internet the local network 
+properly and the email have to be sent between internal and between internal and external. The 
+connection between two sides of the company is secured and consistence. The local website is 
+published successfully. 
+○ 
+Install, configure, and maintain infrastructure servers 
+○ 
+Estimating how much all the equipment cost: server, PC, network devices, cable… 
+○ 
+Setting up network system with planned devices 
+○ 
+Design suitable solution to migrate system on Amazon Web Services, Microsoft Azure 
+Technologies: 
+○ 
+Network devices: Cisco, Juniper, F5, PaloAlto, WatchGuard, Motorola, Ruckus, IBM, HP … 
+○ 
+Operating System: Microsoft Windows, OpenSource (CentOS, Fedora, Ubuntu, Debian, Redhat) 
+○ 
+Mail Mdaemon, Microsoft Exchange 
+○ 
+VoIP devices: Fonemosa, Cisco IP Phone 
+○ 
+Printers, faxes devices 
+○ 
+PBX system, voip system: Alcatel, Avaya 
+○ 
+Leased Line 
+○ 
+VPN (site-to-site VPN and Easy VPN) 
+EDUCATION 
+University of Technical Education Ho Chi Minh City 
+Certification: Telecommunication Engineer 
+CERTIFICATION & TRAINING 
+System: MCSA, MCSE, VCP-5, LPI-1, LPI-2, LPI-3 
+Network: CCNA, CCNP, CWNA, JNCIA, JNCIS, JNCIP 
+Security: CEHv7, Security+, CCISP 
+CWNA training 
+Soft Skills (April 2015) 

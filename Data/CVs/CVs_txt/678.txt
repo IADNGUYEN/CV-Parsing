@@ -1,0 +1,71 @@
+My system has the ability to understand and respone to Vietnamese 
+voice command in order to provide information of many kinds such 
+as weatherforecast, location... and adapt human needs like entertain-
+ing or studying purpose.
+My car can detect and follow the lane. It’s also able to detect and 
+identify stop trafc sign, red light and green light.
+AI/ML FRESHER
+My career goals are to develop software and algorithm to relating to one of 
+those feld: Artifcial Intelligence, Image Processing, BigData. In order to 
+become an AI engineer, I have achieved acceptable skills in programming 
+language, machine learning algorithms. As a result, I’m able to bring many 
+values that meet the requirements of the customers, which plays an import-
+ant role in development of the company.
+CONTACT
+484 Le Van Viet St, District 9
+github.com/vietkhoi1221
+vietkhoi1221@gmail.com
+SKILLS
+Python
+C/C++
+Machine Learning
+Image Processing
+Git, Linux
+SOFTWARES
+VS Code
+VS Studio
+Keil C
+Matlab
+HOBBIES
+PERSONAL INFORMATIONS
+Chatbot using Python
+2018
+Self  driving car using Neural Network
+2019
+WORK EXPERIENCES
+PROJECTS
+0971763396
+Major: Computer Engineering, expected graduation 2019 Ho Chi Minh 
+City University of Technology and Education. 
+GPA: 7.79/10 or 3.09/4. 
+Hard-working, meticulous senior student in Computer Engineering with 
+ability to articulate complex subject matter. 
+Good self-education skills, willing to help, listen and learn.
+2018
+Flower classifcation using Random Forest
+This fower classifer is able to distribute 4 species fowers with over 
+70% accuracy. This model uses Oxford's dataset which has 17 catego-
+ry fower dataset with 80 images for each class.
+Student Assistance Center HCMUTE                                     9/2015  9/2017 
+Collaborators. My responsibilities:  answer questions of students, 
+organize workshop…
+HONORS AND AWARDS
+University Scholarship in 1st, 2nd semester 2015  2016, 1st semester 
+2016  2017, 1st, 2nd semester 2017  2018 and 1st semester 2018  
+2019.
+FOOTBALL, READING, MUSIC & INSTRUMENT
+English
+Self  education
+Teamwork & 
+Communication
+KHOI NGUYEN VIET
+PERSONAL INFORMATIONS
+Research and use Machine Learning algorithms: CNN, Siamese 
+Neural Network, LeNet, ResNet, RNN, LSTM, GANs.
+Smart Building based on Deep Learning
+2019
+Applied Computing and Multimedia Lab in Taiwan        5/2019  7/2019 
+Internship. I have researched about “Smart Building based on Deep 
+Learning” project. In this project, I have assigned the topic “Study 
+and experiment for various, common architecture of neural 
+networks”. 

@@ -1,0 +1,75 @@
+Lê Lãm Thượng 
+(+84)9 39 66 88 39 
+tedle1997@yahoo.com 
+LinkedIn: ​http://bit.ly/2ADh9d0 
+Github: ​http://bit.ly/2AlJuFG 
+EDUCATION
+2017-2018 – ​Udacity​– Deep Learning Nanodegree 
+Skills gained: 
+Neural Network 
+Convolutional Network 
+Recurrent Network 
+Generative Adversarial Network 
+Deep Reinforcement Learning 
+Projects: 
+Neural Network for Regression on​ Bay Area 
+Bike Share Data 
+Convolutional Neural Network​ for Dog Breed 
+Classifier 
+Recurrent Neural Network​ for TV scripts 
+generation 
+Generative Adversarial Network​ for Facial 
+Generation 
+Deep Reinforcement Learning​ for 
+Quadcopter flight 
+2017-2018 – ​Udacity​– Data Analyst Nanodegree 
+Skills gained: 
+Data wrangling (SQL, JSON, CSV, XML) 
+Exploratory Data Analysis using Python and R 
+Statistic 
+Data Visualization with Tableau 
+Machine Learning 
+Projects: 
+Analyzed Bay Area Bike Share Data using  
+Python, Numpy, Pandas. 
+Investigated The Movie Database Dataset and 
+Visualizing Data in 1D and 2D using 
+Matplotlib, Seaborn​. 
+Mined data from openstreetmap and 
+stored/managed data in ​SQL ​and ​MongoDB 
+Explored and analyzed the ​Financial 
+Contributions to Presidential Campaigns by 
+State dataset using ​R 
+Visualized Titanic Dataset using ​Tableau 
+Identifed Fraud Emails using: 
+. Supervised learning:​ ​Naive Bayes, SVM, 
+Decision Tree, KNN, Adaboost 
+. Regression  
+. Unsupervised learning: Clustering, 
+K-means 
+. Text learning (with NLTK). 
+2013-2016 – ​North Seattle College​ – Associate 
+of Science, Computer Science Concentration 
+GPA: 3.27 
+Courses completed: 
+Introduction to Python 
+Java with Object Oriented Programming 
+Java with Data Structures and Algorithms 
+EMPLOYMENT
+2016 – ​Manulife Vietnam​ ​- Android  intern 
+Interned at Manulife Vietnam for Android 
+Development. 
+Worked out a solution for mobile 
+notification/communication using Firebase. The 
+project potentially saved 12 millions vnd per month of 
+company’s cost of communication with 50,000 
+agencies around Vietnam. 
+2014 – ​North Seattle College​- Lab assistant 
+Assisting Computer Science teacher Vince Offenback 
+with student lab for Python programming class 
+SKILLS
+Programming Languages: ​Python, Java, C++ 
+Android Development, Machine Learning with Deep 
+Learning 
+English  ​IELTS  7.0 overall 
+Reading: 8.0 Listening: 8.0Speaking: 6.5 Writing: 6.0 

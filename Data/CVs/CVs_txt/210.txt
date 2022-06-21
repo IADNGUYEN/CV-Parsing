@@ -1,0 +1,71 @@
+ 
+Ha Tuan Phu 
+783 Tran Xuan Soan 
+Tan Hung, District 7, HCM 
+016 9647 2636 ~ kendout@gmail.com 
+Objective 
+I am a Data Analyst and Data Processor with 1 year experience at Nielsen Vietnam and a Vietnam base Start-
+up about supplying drivers and cars for Uber and Grab in Vietnam. I am looking for the opportunity to 
+advance to a position where I can use my skills in analyzing data, delivering business intelligence, data mining 
+with Python. I am finding a good data science team to work with and also help me developing my skills in 
+machine learning and analyzing big data, prefer team with data scientists. 
+Experience 
+Intern in Maritime Bank  
+Maritime Bank – Khanh Hoi Branch 
+10/2015  4/2016 
+Internship in personal credit position. Assisting in making contracts and paper works. 
+Achievement:  Create over 300 debit account.  Making over 50 contracts. 
+Project Runner  
+Uber Vietnam – HCM Headquarter 
+8/2016  1/2017 
+Run project in Demanding and Vehicle team. Do campaigns to get new vehicles and drivers. Getting 
+demanding clients from various project. 
+Achievement:  Get 10 deals with restaurants/coffee shops.  Acquire 20 vehicles and over 20 drivers. 
+Intern in Bank for graduation paper 
+BIDV  HCM Headquarter 
+2/2017  5/2017 
+Internship in Credit Department and L/C department. Assisting in meeting clients and paper works. 
+Intern Operator and Analyst  
+Hoan Kim Car Rental – Start-up 
+5/2017  7/2017   
+Do operation works, being in charge of purchasing equipment and dealing with service providers. Do research 
+about market from company database. Revise driver’s Uber historical data to give advices and instructions to 
+driver to gain more revenue.   
+Achievement:  Found the new sources of client, which increase the number of client by 20%.  
+Data Processor 
+Nielsen Vietnam – HCM Headquarter 
+11/2017  4/2018   
+Processing and delivering database to clients and reporting team. Checking and inspecting issues on final 
+databases.  
+Achievement:  Creating document for creating Total Lines.  Setup 3 new Databases. 
+Data Collector – Data Miner  
+IPP Vietnam & Aion Sigma 
+12/2017  4/2018   
+Seeking for financial data source for testing the model. 
+Cleaning the raw data.  
+Crawling data from Google Maps API for re-defining the address. 
+Achivement:   Manage to find the good and large scale source of financial data. (20000+ records) 
+Qualifications 
+SAI GON UNIVERSITY 
+Major: Finance and Accounting  
+2013-2017 
+GPA: 2.84/4 
+Rewards: + TYPICAL STUDENT 2014-2015  
++ SCHOLARSHIP FOR EXCELLENCE  SAI GON UNIVERSITY 2014. 
+Skills 
+Data mining: Get data from web, Google etc. (with API or scraping static and dynamic web).  
+Finding insights from the data. 
+Working with global teams.  
+Manage tasks with Google environment (Schedule, mail, sheet etc.) 
+Analytical and Statistic basic knowledge. 
+Finance and Banking knowledge. Also some knowledge about other industries. 
+Oracle PL SQL (Extracting, Computing), Python. A little bit about C# 
+Have certification in Photoshop, Illustrator and InDesign.  
+Basic HTML5, CSS. 
+Hobbies & interests 
+Practicing skills with Python. 
+Read documentations about Python libraries, papers about statistic, machine learning and deep 
+learning. 
+Reading books about finance, history about industries. 
+I’m the guy who is aggressive, curious and extrovert.  
+Always eager to find new ways to automate the boring jobs.  

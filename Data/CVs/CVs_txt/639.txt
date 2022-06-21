@@ -1,0 +1,94 @@
+Nguyen Thanh Viet Cuong 
+Address 
+No 62 Ngo Duc Ke Street, Binh Thanh District, Ho Chi Minh City, Vietnam 
+Phone 
+(+84) 938 02 52 49 
+Skype 
+ntvcuong 
+Email 
+cuongvietnguyenthanh@gmail.com 
+Linkedin 
+https://vn.linkedin.com/in/ntvcuong 
+DoB 
+August 16th 1989 
+Personal statement 
+A highly motivated and experienced Data Analyst with more than two year’s experience in finance 
+and e-commerce industries. With a background in data science, statistics and finance, I love to play 
+with data a lot and currently look for a position in data science to use and further develop my 
+analytical/technical skills and knowledge in a practical and fast-paced environment. Eventual my 
+career goal in future is to become a fully-qualified Data Scientist for a well-respected and market-
+leading company. 
+Key Skills  
+Studied and applied Machine Learning algorithms into academic and enterprise projects 
+Proficiency in computer tools such as R, Python, Spark, Oracle/Redshift/PostgreSQL, 
+Microsoft Office, LISp-Miner, ... to analyze data, make reports and build 
+models/indicators. 
+Sometimes use Matlab, Bash Script, PHP, Pentaho Kettle in several specified tasks. 
+With the combination of programming, statistics, mathematics and finance as background, 
+I can adapt and learn new things from related fields quickly. 
+Ability to adapt to new environments and work independently under high pressure 
+Employment History 
+o Data Scientist (12/2017 – Present) 
+Gigatum 
+Job responsibilities: 
+Build, maintain and improve weekly, monthly and yearly reports for BOD and 
+other teams. 
+Build ad-hoc analyses and unified data dictionary. 
+Process crawled data and build churn prediction models using SVM, Random 
+Forest and XGBoost. 
+Study and explore built recommender systems like collaborative filtering and 
+matrix factorization. 
+o Data Analyst/Big Data Analyst (02/2017 – 10/2017) 
+Trusting Social 
+Job responsibilities: 
+Build and monitor regular reports based on various sources of data using R, Bash 
+Script and Python. 
+Make ad-hoc analyses to explore specific issues with statistical methods like 
+descriptive statistics, visualization, confident interval, hypothesis testing, time 
+series analysis, Gini calculation, curve fitting… on local or server using R, Spark 
+SQL and PostgreSQL. 
+Data supporter for  business analyst and product manager. 
+Support to build analytics database. 
+Interview Data Analyst candidates and guide new members. 
+o Data Engineer (05/2016 – 11/2016) 
+Chotot.com 
+Job responsibilities: 
+Monitor and maintain daily/monthly data generating process for other 
+departments. 
+Profiling and forecasting users’ behaviour based on Business Intelligence team’s 
+requests using methods like multiple regression, association rule... 
+Process ETL from other sources to data warehousing. 
+o Data Analyst, Risk Analysis Department (09/2014 – 09/2015) 
+Home Credit Vietnam 
+In plan to be promoted to Senior Data Analyst at October 2015 
+Job responsibilities:  
+Develop scoring functions, indicators for risk evaluation and their testing.  
+Create segmentation analysis to control fraud in region level. 
+Data mining using Oracle , Excel, LISp-Miner,.. Make ad-hoc analysis of fraud 
+indicators related to consumer credit products. 
+Manage Anti-Fraud team database and cooperate with other departments (Sales, 
+IT,...) when developing new system. 
+o Intern of Contemi Big Data Internship Program (06/2014 – 09/2014) 
+o Part-time Jobs (translator, private tutor, book fair volunteer,…) (2008 – 2014) 
+Education 
+o John von Neumann Institute, Vietnam National University (09/2012 – Pending) 
+Master of Quantitative and Computational Finance 
+o University of Science, Vietnam Nam National University (09/2008 – 06/2012) 
+Bachelor of Mathematics and Computer Science 
+o Coursera Verified Certificates 
+Operations Analytics authorized by University of Pennsylvania 
+Customer Analytics authorized by University of Pennsylvania 
+Neural Networks and Deep Learning authorized by deeplearning.ai 
+Improving Deep Neural Networks authorized by deeplearning.ai 
+Structuring Machine Learning Projects authorized by deeplearning.ai 
+Introduction to Big Data authorized by University of California, San Diego 
+Machine Learning Foundations: A Case Study Approach authorized by 
+University of Washington 
+Machine Learning: Regression authorized by University of Washington 
+Machine Learning: Classification authorized by University of Washington 
+A Crash Course in Data Science authorized by Johns Hopkins University 
+The Data Scientist’s Toolbox authorized by Johns Hopkins University 
+R Programming authorized by Johns Hopkins University 
+Getting and Cleaning Data authorized by Johns Hopkins University 
+o English Certificate: 
+TOEIC – Total Score: 735 – Date taken: June 2012 

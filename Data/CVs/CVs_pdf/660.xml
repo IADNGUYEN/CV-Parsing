@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="37" family="Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="30" family="Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="23" family="Arial,Bold" color="#000000"/>
+	<fontspec id="3" size="23" family="Arial" color="#000000"/>
+	<fontspec id="4" size="23" family="ABCDEE+Wingdings" color="#000000"/>
+<text top="116" left="271" width="386" height="35" font="0"><b>CURRICULUM VITAE </b></text>
+<text top="182" left="108" width="395" height="28" font="1"><b>PERSONAL INFORMATION </b></text>
+<text top="230" left="108" width="121" height="22" font="2"><b>Full Name </b></text>
+<text top="230" left="270" width="173" height="22" font="2"><b>: Le Thanh Dat </b></text>
+<text top="271" left="108" width="115" height="22" font="2"><b>Birthday   </b></text>
+<text top="271" left="270" width="15" height="22" font="2"><b>: </b></text>
+<text top="271" left="285" width="127" height="22" font="3">26/07/1992 </text>
+<text top="312" left="108" width="115" height="22" font="2"><b>Gender   </b></text>
+<text top="312" left="270" width="15" height="22" font="2"><b>: </b></text>
+<text top="312" left="285" width="59" height="22" font="3">Male </text>
+<text top="352" left="108" width="80" height="22" font="2"><b>Phone </b></text>
+<text top="352" left="216" width="7" height="22" font="2"><b> </b></text>
+<text top="352" left="270" width="15" height="22" font="2"><b>: </b></text>
+<text top="352" left="285" width="167" height="22" font="3">0120 34 74 194</text>
+<text top="352" left="452" width="7" height="22" font="2"><b> </b></text>
+<text top="393" left="108" width="71" height="22" font="2"><b>Email </b></text>
+<text top="393" left="216" width="7" height="22" font="2"><b> </b></text>
+<text top="393" left="270" width="15" height="22" font="2"><b>: </b></text>
+<text top="393" left="285" width="213" height="22" font="3">thdatle@gmail.com </text>
+<text top="434" left="108" width="115" height="22" font="2"><b>Address   </b></text>
+<text top="434" left="270" width="15" height="22" font="2"><b>: </b></text>
+<text top="434" left="285" width="219" height="22" font="3">31a 904, Hiep Phu,  </text>
+<text top="474" left="284" width="245" height="22" font="3">District 9, Ho Chi Minh </text>
+<text top="515" left="108" width="115" height="22" font="2"><b>Position   </b></text>
+<text top="515" left="270" width="15" height="22" font="2"><b>: </b></text>
+<text top="515" left="285" width="194" height="22" font="3">Mobile Developer </text>
+<text top="557" left="108" width="187" height="28" font="1"><b>EDUCATION </b></text>
+<text top="600" left="108" width="63" height="22" font="2"><b>Time </b></text>
+<text top="600" left="216" width="7" height="22" font="2"><b> </b></text>
+<text top="600" left="270" width="15" height="22" font="2"><b>: </b></text>
+<text top="600" left="285" width="80" height="22" font="3">9/2010 </text>
+<text top="595" left="365" width="73" height="27" font="3">– 2015</text>
+<text top="600" left="438" width="7" height="22" font="2"><b> </b></text>
+<text top="640" left="108" width="123" height="22" font="2"><b>University </b></text>
+<text top="640" left="270" width="15" height="22" font="2"><b>: </b></text>
+<text top="640" left="285" width="549" height="22" font="3">University of Technical Education Ho Chi Minh City </text>
+<text top="681" left="108" width="75" height="22" font="2"><b>Majoy </b></text>
+<text top="681" left="216" width="7" height="22" font="2"><b> </b></text>
+<text top="681" left="270" width="15" height="22" font="2"><b>: </b></text>
+<text top="681" left="285" width="257" height="22" font="3">Information Technology </text>
+<text top="676" left="542" width="234" height="27" font="3">– Information System </text>
+<text top="732" left="108" width="297" height="28" font="1"><b>TECHNICAL SKILLS </b></text>
+<text top="770" left="135" width="19" height="26" font="4"></text>
+<text top="774" left="154" width="7" height="22" font="3"> </text>
+<text top="774" left="162" width="311" height="22" font="2"><b>Programming Languages : </b></text>
+<text top="774" left="473" width="268" height="22" font="3">Java, C/C++, Swift, PHP.</text>
+<text top="774" left="741" width="7" height="22" font="2"><b> </b></text>
+<text top="802" left="135" width="19" height="26" font="4"></text>
+<text top="806" left="154" width="7" height="22" font="3"> </text>
+<text top="806" left="162" width="360" height="22" font="2"><b>Database Management System:</b></text>
+<text top="806" left="522" width="292" height="22" font="3"> Sqlite, Sql Server, MySQL.</text>
+<text top="806" left="814" width="7" height="22" font="2"><b> </b></text>
+<text top="833" left="135" width="19" height="26" font="4"></text>
+<text top="838" left="154" width="7" height="22" font="3"> </text>
+<text top="838" left="162" width="85" height="22" font="2"><b>Tools : </b></text>
+<text top="838" left="247" width="542" height="22" font="3">Eclipse, Xcode, VMware, Wamp Server, StarUML, </text>
+<text top="869" left="162" width="136" height="22" font="3">Genymotion.</text>
+<text top="869" left="298" width="7" height="22" font="2"><b> </b></text>
+<text top="897" left="135" width="19" height="26" font="4"></text>
+<text top="901" left="154" width="7" height="22" font="3"> </text>
+<text top="901" left="162" width="149" height="22" font="2"><b>Knowledge : </b></text>
+<text top="901" left="311" width="484" height="22" font="3">OOP, JSON, Design Patterns, UML, Testing, </text>
+<text top="933" left="162" width="197" height="22" font="3">XML, HTML basic.</text>
+<text top="933" left="360" width="7" height="22" font="2"><b> </b></text>
+<text top="960" left="135" width="19" height="26" font="4"></text>
+<text top="965" left="154" width="7" height="22" font="3"> </text>
+<text top="965" left="162" width="229" height="22" font="2"><b>Foreign Language : </b></text>
+<text top="965" left="391" width="85" height="22" font="3">English </text>
+<text top="960" left="477" width="283" height="27" font="3">– Good in reading English </text>
+<text top="997" left="162" width="124" height="22" font="3">documents.</text>
+<text top="997" left="286" width="7" height="22" font="2"><b> </b></text>
+<text top="1037" left="135" width="7" height="22" font="2"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="5" size="23" family="Symbol" color="#000000"/>
+<text top="114" left="108" width="352" height="28" font="1"><b>PROJECT EXPERIENCE </b></text>
+<text top="152" left="135" width="19" height="26" font="4"></text>
+<text top="157" left="154" width="7" height="22" font="3"> </text>
+<text top="157" left="162" width="255" height="22" font="2"><b>Online Payment Shop </b></text>
+<text top="157" left="417" width="236" height="22" font="3">( Android Application )</text>
+<text top="157" left="653" width="21" height="22" font="2"><b> : </b></text>
+<text top="183" left="189" width="11" height="29" font="5"></text>
+<text top="190" left="200" width="148" height="22" font="3">  Desciption : </text>
+<text top="185" left="348" width="353" height="27" font="3">“Online Payment Shop” provides </text>
+<text top="222" left="216" width="551" height="22" font="3">customers with a product that supports of buying or </text>
+<text top="253" left="216" width="568" height="22" font="3">selling online and integrates the mode of payment by </text>
+<text top="285" left="216" width="560" height="22" font="3">Paypal payment gateway. Design a simple and user-</text>
+<text top="317" left="216" width="183" height="22" font="3">friendly interface.</text>
+<text top="317" left="399" width="7" height="22" font="2"><b> </b></text>
+<text top="343" left="189" width="11" height="29" font="5"></text>
+<text top="350" left="200" width="329" height="22" font="3">  Programming language : java</text>
+<text top="350" left="530" width="7" height="22" font="2"><b> </b></text>
+<text top="377" left="189" width="11" height="29" font="5"></text>
+<text top="384" left="200" width="533" height="22" font="3">  Tools : eclipse, wamp server, genymotion, mysql</text>
+<text top="384" left="734" width="7" height="22" font="2"><b> </b></text>
+<text top="410" left="189" width="11" height="29" font="5"></text>
+<text top="417" left="200" width="239" height="22" font="3">  Team size : 3 people</text>
+<text top="417" left="439" width="7" height="22" font="2"><b> </b></text>
+<text top="443" left="189" width="11" height="29" font="5"></text>
+<text top="450" left="200" width="441" height="22" font="3">  My role : Team leader, developer, tester</text>
+<text top="450" left="642" width="7" height="22" font="2"><b> </b></text>
+<text top="478" left="135" width="19" height="26" font="4"></text>
+<text top="482" left="154" width="7" height="22" font="3"> </text>
+<text top="478" left="162" width="157" height="27" font="2"><b>What’re They </b></text>
+<text top="482" left="319" width="193" height="22" font="3">( iOS Application )</text>
+<text top="482" left="513" width="21" height="22" font="2"><b> : </b></text>
+<text top="508" left="189" width="11" height="29" font="5"></text>
+<text top="515" left="200" width="7" height="22" font="3"> </text>
+<text top="511" left="216" width="532" height="27" font="3">Desciption : “What’re They” is an English learning </text>
+<text top="547" left="216" width="309" height="22" font="3">application based on playing </text>
+<text top="543" left="526" width="232" height="27" font="3">– game activities that </text>
+<text top="579" left="216" width="598" height="22" font="3">provides players with a large vocabulary combining with </text>
+<text top="611" left="216" width="537" height="22" font="3">images, ability of fast reaction and the accuracy in </text>
+<text top="642" left="216" width="174" height="22" font="3">searching words</text>
+<text top="642" left="391" width="7" height="22" font="2"><b> </b></text>
+<text top="669" left="189" width="11" height="29" font="5"></text>
+<text top="676" left="200" width="337" height="22" font="3">  Programming language : Swift</text>
+<text top="676" left="538" width="7" height="22" font="2"><b> </b></text>
+<text top="702" left="189" width="11" height="29" font="5"></text>
+<text top="709" left="200" width="232" height="22" font="3">  Tools : Xcode, sqlite</text>
+<text top="709" left="432" width="7" height="22" font="2"><b> </b></text>
+<text top="735" left="189" width="11" height="29" font="5"></text>
+<text top="742" left="200" width="239" height="22" font="3">  Team size : 4 people</text>
+<text top="742" left="439" width="7" height="22" font="2"><b> </b></text>
+<text top="769" left="189" width="11" height="29" font="5"></text>
+<text top="776" left="200" width="297" height="22" font="3">  My role : Developer, tester</text>
+<text top="776" left="497" width="7" height="22" font="2"><b> </b></text>
+<text top="818" left="108" width="653" height="28" font="1"><b>PERSONAL CHARACTERISTICS &amp; ABILITIES </b></text>
+<text top="856" left="135" width="19" height="26" font="4"></text>
+<text top="860" left="154" width="443" height="22" font="3"> Creative, funny, friendly and responsible </text>
+<text top="887" left="135" width="19" height="26" font="4"></text>
+<text top="892" left="154" width="315" height="22" font="3"> Able to work under pressure </text>
+<text top="919" left="135" width="19" height="26" font="4"></text>
+<text top="923" left="154" width="423" height="22" font="3"> Able to work individually and in a team </text>
+<text top="951" left="135" width="19" height="26" font="4"></text>
+<text top="955" left="154" width="592" height="22" font="3"> Willing and able to learn new technology/programming </text>
+<text top="987" left="162" width="151" height="22" font="3">language fast </text>
+<text top="1014" left="135" width="19" height="26" font="4"></text>
+<text top="1019" left="154" width="492" height="22" font="3"> Join sports and arts activities enthusiastically </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="113" left="135" width="7" height="22" font="3"> </text>
+<text top="155" left="108" width="145" height="28" font="1"><b>HOBBIES </b></text>
+<text top="193" left="135" width="19" height="26" font="4"></text>
+<text top="197" left="154" width="81" height="22" font="3"> Travel </text>
+<text top="225" left="135" width="19" height="26" font="4"></text>
+<text top="229" left="154" width="100" height="22" font="3"> Football </text>
+<text top="256" left="135" width="19" height="26" font="4"></text>
+<text top="261" left="154" width="77" height="22" font="3"> Music </text>
+<text top="288" left="135" width="19" height="26" font="4"></text>
+<text top="292" left="154" width="79" height="22" font="3"> Movie </text>
+</page>
+</pdf2xml>

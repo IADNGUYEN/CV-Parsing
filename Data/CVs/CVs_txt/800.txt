@@ -1,0 +1,113 @@
+   
+MA VAN THIET 
+Telephone number: 0961 561 591 
+Nga Thach Award, Nga Son District, Thanh Hoa Province 
+Email:  mavanthiet204@gmail.com 
+PERSIONAL INFORMATION  
+Full Name  
+Ma Van Thiet  
+Day of Birth 
+April 20th, 1991  
+Gender  
+Male  
+Tel  
+0961 561 591  
+Email  
+mavanthiet204@gmail.com  
+Address  
+Nga Thach Award, Nga Son District, Thanh Hoa Province 
+Character  
+Hardworking, Cheerful, Active, Careful  
+CAREER OBJECTIVE  
+Want to work in a challenging environment  
+To have a good many opportunities to get promotion in my job  
+Develop my skills together with the development of company  
+Get CCIE and MSCE certification in the next several years  
+Become an Expert Networking and Administrator  
+EDUCATION  
+2009-2014:  Post and Telecommunications Institute of Technology  
+Major:  Electronics and Telecommunication (Graduated  2014)  
+Certification: 
+o Cisco: CCNA, CCNP-Routing, CCNP-Switching 
+o Microsoft:  MCSA     
+o Fortinet: NSE1, NSE2, NSE3 
+o Palo Alto: ACE, PSE 
+o SonicWall: NS103B 
+WORK EXPERIENCE 
+2013: Complete the course CCNA, CCNP 
+Responsibilities:  
+o Configuration: Router, Switch, Access point  
+o Setup, configuration and deployment on window server (win2k8, win2k3)  
+o Knowledge about these protocols: OSPF, RIP, EIGRP, BGP  
+o Security for layer 2:  DHCP snooping, Port security, Protected port  
+o Against loop for Switch: STP, PVST+, RSTP.  
+o Setup and maintain confidence voice IP  
+Mar-Sept 2014:  IT Staff at Vinarack company  
+Description: Vinarackis a company manufacturing and supply system shelves in 
+supermarket, school, household and many other large projects…  
+Responsibilities:  
+o Configuration Router, Switch, Access point  
+o Setup, configuration Server and LAN system  
+o Manage Server(win2k8), backup database  
+o Troubleshoot about network system, computer system  
+o Support users these matters relate computer and network.  
+Oct 2014 – Feb 2016: Staff at Terralogic company 
+Position: Quality Control Engineer level 2 
+Description:    
+o This is one of the largest software outsourcing companies in Vietnam to 
+provide quality software outsourcing services  
+o The company has many larger partners as a Cisco, Zebra, Juniper, Extreme 
+network, Samsung….  
+o All engineers are very intelligent in many fields such as networking, coding, 
+administrator, testing skill…  July 2014-May 2015:    
+Project:  Layer 2 switch product of Motorola partner  
+Description: This project will provide a switch layer-2 product for wired and wireless 
+network. This product includes many features operation at the access layer in the OSI 
+model. Example: Vlan, spanning tree (STP, RSTP), Security, Switching, QoS service 
+Responsibilities:   
+o Verify operation of each feature designed for switch devices.  It is working 
+correctly or incorrectly  
+o Deploy and configure each feature on switch device: Access list, Radius 
+server, QoS, Spanning tree (STP, RSTP), Monitor traffic, Security 802.1X 
+o Troubleshooting and take out the solution when we meet an issue  
+o Setup and mange Window server(2k12)   May 2015- Feb 2016:   
+Project: Wireless LAN, Controller, Access Point product of Zebra partner   
+Description: This project will product provides a wireless network for indoor and 
+outdoor. Furthermore, help us can centralize management AP through controller 
+(VX9000, NX9500, RFS7000 platform…). Can collect database by Nsight server 
+(NX9500 platform...)  
+Responsibilities:  
+o Setup access point: SSID, Wlan, Band 5G or 2.4G, Channel  
+o Deploy Structure Client Bridge on AP  
+o Troubleshooting and take out the solution when we meet an issue  
+o Setup voice confidence through Wlan  
+o Centralize management AP and monitor them by controller  
+Feb 2016 – Now: Network Engineer Staff at BMT company 
+Description: BMT is SI company, BMT is currently providing equipment and IT 
+services for offices, factories, businesses, multinational corporations, financial 
+institutions, insurance, banking, securities on the head Vietnam. 
+o Providing Solutions & Services Security. 
+o Providing Solutions & Services Networking. 
+o Providing Solutions & Services Storage. 
+o Providing Solutions & Services Data Backup. 
+o Providing Integrated Services Data Center. 
+Responsibilities:  
+o Deployment system network, camera, datacenter, server for StarBucks coffee   
+o Configuring system network and move system datacenter for BaoViet bank 
+o Deployment system network, datacenter, server for Duc Giang Hospital, Open 
+University, Coronet company, Huu Toan company. 
+o Deployment and configuring system security on these devices: Watchguard, 
+Fotigate 60D,100D, Palo Alto, Symantec… for Business corporation  
+o Supporting business corporation these matters relate to the network, server, 
+security. 
+SKILLS  
+Computer software proficiency: MS Office.  
+Good communication and presentation skills.  
+Able to work independently and within a team under pressure.  
+Quick-learner, self-confident and active.  
+Problem solving and analytical skills  
+English: Good writing, listening and speaking   
+HOBBIES  
+Watching TV, Reading books.  
+Playing sports: football, volleyball, chess and table tennis.  
+Singing. 

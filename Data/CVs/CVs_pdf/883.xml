@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="54" family="BCDEEE+PalatinoLinotype" color="#c00000"/>
+	<fontspec id="1" size="54" family="BCDEEE+PalatinoLinotype" color="#434342"/>
+	<fontspec id="2" size="14" family="BCDFEE+PalatinoLinotype" color="#5a5a5a"/>
+	<fontspec id="3" size="18" family="BCDFEE+PalatinoLinotype" color="#5a5a5a"/>
+	<fontspec id="4" size="14" family="BCDGEE+CenturyGothic" color="#5a5a5a"/>
+	<fontspec id="5" size="23" family="BCDFEE+PalatinoLinotype" color="#20201f"/>
+	<fontspec id="6" size="19" family="BCDFEE+PalatinoLinotype" color="#20201f"/>
+	<fontspec id="7" size="21" family="SymbolMT" color="#5a5a5a"/>
+	<fontspec id="8" size="21" family="ArialMT" color="#5a5a5a"/>
+	<fontspec id="9" size="21" family="BCDFEE+PalatinoLinotype" color="#5a5a5a"/>
+	<fontspec id="10" size="21" family="BCDFEE+PalatinoLinotype" color="#5f5f5f"/>
+	<fontspec id="11" size="14" family="SymbolMT" color="#5a5a5a"/>
+	<fontspec id="12" size="14" family="ArialMT" color="#5a5a5a"/>
+	<fontspec id="13" size="14" family="BCDFEE+PalatinoLinotype" color="#ffffff"/>
+<text top="81" left="159" width="160" height="55" font="0"><b>        </b></text>
+<text top="81" left="320" width="437" height="55" font="1"><b>Vu Hoang Phuc   </b></text>
+<text top="157" left="159" width="4" height="15" font="2"> </text>
+<text top="157" left="212" width="4" height="15" font="2"> </text>
+<text top="157" left="266" width="4" height="15" font="2"> </text>
+<text top="154" left="319" width="355" height="18" font="3">Apply for: AI/ Machine Learning Internship </text>
+<text top="200" left="106" width="8" height="18" font="4">  </text>
+<text top="243" left="159" width="4" height="18" font="4"> </text>
+<text top="302" left="159" width="140" height="24" font="5">PERSONAL</text>
+<text top="306" left="301" width="5" height="20" font="6"> </text>
+<text top="302" left="308" width="202" height="24" font="5">INFORMATION </text>
+<text top="333" left="186" width="10" height="26" font="7">•</text>
+<text top="339" left="196" width="6" height="19" font="8"> </text>
+<text top="338" left="213" width="65" height="21" font="9">E<a href="mailto:phucvu4697@gmail.com">mail: </a></text>
+<text top="338" left="278" width="225" height="21" font="10"><a href="mailto:phucvu4697@gmail.com">phucvu4697@gmail.com</a></text>
+<text top="338" left="503" width="5" height="21" font="9"><a href="mailto:phucvu4697@gmail.com"> </a></text>
+<text top="367" left="186" width="10" height="26" font="7">•</text>
+<text top="373" left="196" width="6" height="19" font="8"> </text>
+<text top="372" left="213" width="258" height="21" font="9">Phone number: 0902490300 </text>
+<text top="437" left="159" width="169" height="24" font="5">EDUCATION </text>
+<text top="468" left="186" width="10" height="26" font="7">•</text>
+<text top="474" left="196" width="6" height="19" font="8"> </text>
+<text top="473" left="213" width="297" height="21" font="9">2015-2019: University of Science</text>
+<text top="478" left="510" width="4" height="15" font="2"> </text>
+<text top="502" left="186" width="10" height="26" font="7">•</text>
+<text top="508" left="196" width="6" height="19" font="8"> </text>
+<text top="507" left="213" width="441" height="21" font="9">Speciality:  Mathematics and Computer Science</text>
+<text top="512" left="654" width="4" height="15" font="2"> </text>
+<text top="572" left="159" width="156" height="24" font="5">TECHNICAL</text>
+<text top="576" left="318" width="5" height="20" font="6"> </text>
+<text top="572" left="324" width="95" height="24" font="5">SKILLS </text>
+<text top="602" left="186" width="10" height="26" font="7">•</text>
+<text top="608" left="196" width="6" height="19" font="8"> </text>
+<text top="608" left="213" width="230" height="21" font="9">Math, Machine Learning</text>
+<text top="613" left="443" width="4" height="15" font="2"> </text>
+<text top="636" left="186" width="10" height="26" font="7">•</text>
+<text top="642" left="196" width="6" height="19" font="8"> </text>
+<text top="642" left="213" width="107" height="21" font="9">Algorithms</text>
+<text top="647" left="320" width="4" height="15" font="2"> </text>
+<text top="670" left="186" width="10" height="26" font="7">•</text>
+<text top="677" left="196" width="6" height="19" font="8"> </text>
+<text top="676" left="213" width="211" height="21" font="9">Python, Matlab, C/C++</text>
+<text top="681" left="424" width="4" height="15" font="2"> </text>
+<text top="741" left="159" width="134" height="24" font="5">PROJECTS </text>
+<text top="771" left="186" width="10" height="26" font="7">•</text>
+<text top="777" left="196" width="6" height="19" font="8"> </text>
+<text top="777" left="213" width="225" height="21" font="9">Ebolavirus classification</text>
+<text top="782" left="438" width="4" height="15" font="2"> </text>
+<text top="805" left="213" width="5" height="21" font="9"> </text>
+<text top="809" left="219" width="4" height="15" font="2"> </text>
+<text top="834" left="213" width="4" height="15" font="2"> </text>
+<text top="891" left="159" width="6" height="24" font="5"> </text>
+<text top="923" left="159" width="6" height="24" font="5"> </text>
+<text top="955" left="159" width="90" height="24" font="5">OTHER</text>
+<text top="959" left="251" width="5" height="20" font="6"> </text>
+<text top="955" left="257" width="95" height="24" font="5">SKILLS </text>
+<text top="992" left="186" width="7" height="18" font="11">•</text>
+<text top="996" left="193" width="4" height="14" font="12"> </text>
+<text top="991" left="213" width="503" height="21" font="9">Being able to understand and communicate in English</text>
+<text top="996" left="717" width="4" height="15" font="2"> </text>
+<text top="1026" left="186" width="7" height="18" font="11">•</text>
+<text top="1030" left="193" width="4" height="14" font="12"> </text>
+<text top="1025" left="213" width="370" height="21" font="9">Logical thinking, problem-solving skills</text>
+<text top="1030" left="583" width="4" height="15" font="2"> </text>
+<text top="1060" left="186" width="7" height="18" font="11">•</text>
+<text top="1064" left="193" width="4" height="14" font="12"> </text>
+<text top="1059" left="213" width="159" height="21" font="9">Team work skills</text>
+<text top="1064" left="373" width="4" height="15" font="2"> </text>
+<text top="1103" left="159" width="4" height="15" font="2"> </text>
+<text top="1140" left="159" width="4" height="15" font="2"> </text>
+<text top="1140" left="212" width="30" height="15" font="13">2014</text>
+<text top="1140" left="242" width="4" height="15" font="2"> </text>
+<text top="1140" left="266" width="4" height="15" font="2"> </text>
+<text top="1180" left="159" width="4" height="15" font="2"> </text>
+<text top="820" left="225" width="476" height="15" font="2">Description: Extracting features from protein sequences and classifying </text>
+<text top="844" left="225" width="151" height="15" font="2">them in Ebola species. </text>
+<text top="880" left="225" width="420" height="15" font="2">Method: Feature Engineering, PCA, Naive Bayes Classification </text>
+</page>
+</pdf2xml>

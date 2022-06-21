@@ -1,0 +1,104 @@
+Oct 2012  May 2016
+University of Information Techology HCMC
+Major: Computer Science
+GPA: 8.4/10
+October 2014  March 2016
+Vietnam Oucru
+Data Modelling Reseacher  Develop a modelling system about tropical medicine.  Data processing in R and MatLab.  Create reports and charts by requirements.
+March 2016  August 2016
+FPT Software
+Software Engineer  Develop Web Application based on ASP.NET MVC.  Communicate directly to client for requirements.  Create and execute project work plans and revises as
+appropriate to meet changing needs and requirements.
+August 2016  June 2017
+BStar Solutions
+Software Research Engineer  Develop and reseach UI Android Apps.  Create design and technical solutions.  Test UI Apps and User Experience Optimization.
+2016
+Bachelor Computer Science of Honors Program
+2016
+English Toeic 720
+2011
+FPT Aptech Programmer Certification
+Cao Ngoc Tuan
+Date of birth
+10 22, 1988
+Gender
+Male
+Phone
+01217058336
+Email
+ntuan1411t3@gmail.com
+Address
+Ho Chi Minh City, Vietnam
+OBJECTIVE
+Seeking position of a Data Scientist where I would be able to put to use the knowledge gained in the
+Computer Science, especially in Machine Learning and Data Mining.
+EDUCATION
+WORK EXPERIENCE
+CERTIFICATIONS
+2015
+Game UIT Hackathon  3rd Game Mobile Contest
+2014
+Game UIT Hackathon  Top 10 Game C++ Contest
+2013
+ACM UIT  3rd Programming Contest
+Programming
+Java, C/C++, R, Python
+Mathematics
+Probability, Statistics, Linear Algebra
+Knowledge
+Machine Learning, Data Mining as SVM, Logistic Regression, Random
+Forest,Tree Decision, matrix factorization, collaborative filtering ...
+Tool and Frameworks
+scikit-learn (Python), caret package (R), Retrofit (Android)
+Language
+English
+HONORS & AWARDS
+SKILLS
+INTERESTS
+I like soccer, music and travel.
+ADDITIONAL INFORMATION
+I am single and friendly.
+PROJECTS
+Malaria Cost-Effective Modelling System
+(2014  2015)
+Customer
+Oucru HCMC
+Description  This is the system of caculation cost-effective in new malaria prevention drug
+strategy. We collect data from Hospital for Tropical Diseases and do statistical
+method about cost and dalys of patients. Finally, we have a report for
+scientists at Oxford University.   
+Team size
+4
+My position
+System Developer
+My responsibilities  Analysis and design  Development  Review code
+Technologies used  R Studio  IPython
+HCMC Bus Web System
+(2015  2016)
+Customer
+Transport Deparment HCMC
+ItViec.com Recruitment
+Description  This is the website that helps people find information about bus and support
+tool as predict arrive time or find the minimum distance from your place to the
+neareast bus station convenient, anytime, anywhere from right on the website
+or your phone.
+Team size
+8
+My position
+Developer
+My responsibilities  Analysis and design  Optimize code  Bug Fixing
+Technologies used  ASP.NET MVC 5.0  MongoDB
+Perfect Body Lipo
+(2016  2017)
+Customer
+TransX
+Description  This is the Android app that helps people buy clothes around the world. We
+must optimize User Experience at UI.
+Team size
+6
+My position
+App UI Reseacher
+My responsibilities  Analysis and design  Reseach User Behaviour  Test and optimize
+Technologies used  Android Studio  Web Services
+REFERENCES
+© topcv.vn

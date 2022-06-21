@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1264" width="894">
+	<fontspec id="0" size="36" family="TKZMMG+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="1" size="21" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="2" size="21" family="FreeSerif" color="#000000"/>
+	<fontspec id="3" size="21" family="KDKKVT+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="4" size="21" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="5" size="21" family="USLJDA+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="6" size="21" family="ArialMT" color="#000000"/>
+	<fontspec id="7" size="21" family="TimesNewRomanPS" color="#000009"/>
+	<fontspec id="8" size="21" family="EUJRNG+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="9" size="21" family="OJJZXM+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="10" size="27" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="11" size="21" family="RQWAPF+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="12" size="21" family="NYPBOO+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="13" size="21" family="TKZMMG+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="14" size="18" family="SDQHVN+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="15" size="18" family="PSULUE+TimesNewRomanPS" color="#000000"/>
+	<fontspec id="16" size="21" family="DQHVHS+TimesNewRomanPSMT" color="#000000"/>
+<text top="149" left="282" width="341" height="48" font="0"><b>Đặng Trang Nhật Tảo</b></text>
+<text top="274" left="94" width="128" height="23" font="1"><b>Date of birth: </b></text>
+<text top="273" left="220" width="0" height="25" font="2">​</text>
+<text top="271" left="220" width="68" height="28" font="3">October</text>
+<text top="274" left="288" width="5" height="23" font="4"> </text>
+<text top="271" left="293" width="21" height="28" font="3">19</text>
+<text top="274" left="314" width="27" height="23" font="4">th, </text>
+<text top="271" left="341" width="42" height="28" font="5">1995</text>
+<text top="303" left="94" width="44" height="23" font="1"><b>Sex: </b></text>
+<text top="303" left="136" width="0" height="25" font="2">​</text>
+<text top="303" left="136" width="43" height="23" font="4">Male</text>
+<text top="334" left="94" width="81" height="23" font="1"><b>Address:</b></text>
+<text top="331" left="175" width="395" height="28" font="5"> Thu Duc District, Ho Chi Minh City, Vietnam</text>
+<text top="361" left="94" width="75" height="23" font="1"><b>Mobile: </b></text>
+<text top="361" left="168" width="0" height="25" font="2">​</text>
+<text top="361" left="168" width="49" height="23" font="4">+84 9</text>
+<text top="359" left="216" width="11" height="28" font="3">1</text>
+<text top="361" left="227" width="5" height="23" font="4"> </text>
+<text top="359" left="232" width="32" height="28" font="3">707</text>
+<text top="361" left="264" width="5" height="23" font="4"> </text>
+<text top="359" left="269" width="42" height="28" font="3">3957</text>
+<text top="361" left="311" width="6" height="23" font="6"> </text>
+<text top="392" left="94" width="66" height="23" font="7"><a href="mailto:xxx@gmail.com"><b>Email: </b></a></text>
+<text top="390" left="159" width="146" height="28" font="5"><a href="mailto:xxx@gmail.com">dangtrangnhattao</a></text>
+<text top="392" left="305" width="109" height="23" font="4">@gmail.com</text>
+<text top="418" left="94" width="94" height="28" font="8"><b>Linkedin: </b></text>
+<text top="419" left="188" width="399" height="28" font="9"><a href="https://www.linkedin.com/in/hvnsweeting">https://www.linkedin.com/in/dangtrangnhattao/</a></text>
+<text top="519" left="317" width="275" height="30" font="10"><b>TECHNICAL SKILLS </b></text>
+<text top="598" left="85" width="89" height="23" font="1"><b>Language</b></text>
+<text top="598" left="174" width="0" height="25" font="2">​</text>
+<text top="598" left="174" width="71" height="23" font="4">: Python</text>
+<text top="628" left="85" width="148" height="23" font="1"><b>Web framework</b></text>
+<text top="627" left="233" width="0" height="25" font="2">​</text>
+<text top="628" left="233" width="62" height="23" font="4">: Flask </text>
+<text top="657" left="85" width="47" height="23" font="1"><b>SCM</b></text>
+<text top="657" left="132" width="0" height="25" font="2">​</text>
+<text top="657" left="132" width="181" height="23" font="4">: Git, GitLab, GitHub</text>
+<text top="686" left="85" width="28" height="23" font="1"><b>OS</b></text>
+<text top="686" left="113" width="0" height="25" font="2">​</text>
+<text top="686" left="113" width="74" height="23" font="4">: Ubuntu</text>
+<text top="684" left="187" width="91" height="28" font="9">, Windows</text>
+<text top="715" left="85" width="195" height="23" font="1"><b>Team communication</b></text>
+<text top="715" left="280" width="0" height="25" font="2">​</text>
+<text top="715" left="279" width="63" height="23" font="4">: Slack </text>
+<text top="745" left="85" width="58" height="23" font="1"><b>Editor</b></text>
+<text top="745" left="143" width="0" height="25" font="2">​</text>
+<text top="745" left="142" width="207" height="23" font="4">: VSCode, SublimeText </text>
+<text top="742" left="349" width="48" height="28" font="3">, Vim</text>
+<text top="774" left="85" width="111" height="23" font="1"><b>Python tools</b></text>
+<text top="774" left="197" width="0" height="25" font="2">​</text>
+<text top="774" left="197" width="484" height="23" font="4">: virtualenv, pip, pep8, flake8, IPython, jupyter notebook </text>
+<text top="803" left="85" width="71" height="23" font="1"><b>Library</b></text>
+<text top="803" left="156" width="0" height="25" font="2">​</text>
+<text top="803" left="156" width="488" height="23" font="4">: requests, beautifulsoup, logging, JSON, numpy, pandas, </text>
+<text top="834" left="85" width="107" height="23" font="4">matplotlib…</text>
+<text top="907" left="369" width="165" height="30" font="10"><b>EDUCATION</b></text>
+<text top="981" left="83" width="485" height="28" font="11">HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG</text>
+<text top="981" left="567" width="5" height="28" font="12"> </text>
+<text top="1005" left="83" width="471" height="28" font="11">-Posts and Telecommunications Institute of Technology</text>
+<text top="1004" left="553" width="7" height="28" font="13"><b>-</b></text>
+<text top="1029" left="83" width="229" height="24" font="14"><a href="http://pymi.vn/"><i>Major : Electrical Engineering </i></a></text>
+<text top="206" left="365" width="176" height="24" font="15"><i>PYTHON DEVELOPER</i></text>
+<text top="1113" left="80" width="213" height="28" font="16">Pymi.vn | https://pymi.vn</text>
+<text top="1141" left="80" width="141" height="24" font="14"><i>Python programing</i></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1264" width="894">
+<text top="87" left="403" width="104" height="30" font="10"><b>SKILLS </b></text>
+<text top="130" left="94" width="290" height="23" font="4">- Reading English documentations</text>
+<text top="130" left="384" width="6" height="23" font="6"> </text>
+<text top="166" left="94" width="74" height="23" font="4">- Google</text>
+<text top="166" left="168" width="6" height="23" font="6"> </text>
+<text top="201" left="94" width="255" height="23" font="4">- Working alone or teamwork </text>
+<text top="271" left="368" width="167" height="30" font="10"><b>REFERENCE</b></text>
+<text top="315" left="94" width="167" height="23" font="1"><b>Nguyen Viet Hung</b></text>
+<text top="315" left="261" width="5" height="23" font="4"> </text>
+<text top="314" left="266" width="6" height="23" font="6"> </text>
+<text top="349" left="94" width="340" height="23" font="4">DevOps senior, Python mentor pymi.vn </text>
+<text top="384" left="94" width="215" height="23" font="4">Mobile: +84 982090290  </text>
+<text top="419" left="94" width="216" height="23" font="4">Email: hvn@familug.org </text>
+</page>
+</pdf2xml>

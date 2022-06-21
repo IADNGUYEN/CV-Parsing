@@ -1,0 +1,50 @@
+DUC-TAN LAM RESUME
+Status:
+3rd year Student, Faculty of Computer Science, HCMC University of
+Science
+Skills:
+Python, C++, Java, Bash, SQL, R, Linux
+Interests:
+Data Analysis, Data Visualization, Statistics, Blockchain
+Activities:
+Football, ESport, Reading, Music
+Contact:
+lamductan@gmail.com  +84 868 449 605
+Github:
+https://github.com/lamductan
+Summary
+3rd-year Undergraduate student in computer science. Passion in programming language, mathematics, problem-
+solving skills with strong efort in resolve problems. Have experience in working in a team and successfully com-
+pleting a project.
+Experience
+’2017/12  now
+Research, Developer
+Image processing with Sentinel-1 images
+Data analysis with EMDAT  a disaster database
+’2018/05
+2018/08
+Developer
+UTS
+Java developer intern
+Education
+2015  now
+Bachelor’s Degree, Computer Science
+University of Science
+Some useful courses:
+Machine Learning, Calculus, Linear Algebra, Computer Vi-
+sion, Data Mining, Database, Probability and Statistics, The Basics of Artifcial Intelligence,
+Object-Oriented Programming, Research Method, Introduction to Cryptography...
+Some academic projects
+SVG Project: A project for converting a SVG fle to a drawn console, using object-oriented
+methods, two graphical libraries: GDI+ and CImg, and Rapid XML Project
+Heatmap Project: A web service for visualizing data with their geo location.
+Awards
+ACM-ICPC: Honor prize  2017 Vietnam ACM-ICPC National Contest
+Strength
+Mathematics:
+Recently participated in National Mathematics Olympiads for high school students. High
+score in math course in university.
+English: Worked with and researched on many English documents from the frst year in university.
+Teamwork skill:
+Almost all projects at university require teamwork. Have experience in using github for
+managing group projects.

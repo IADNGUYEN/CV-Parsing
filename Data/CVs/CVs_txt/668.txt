@@ -1,0 +1,160 @@
+ 
+Lại Trọng Nghĩa  
+Email: laitrongnghia@yahoo.com 
+Mobile:0908237565 
+Career Objective 
+I am seeking a position in Information Technology department. I have more than 9 years of 
+experience in Microsoft Technologies like .NET Framework 3.5/4.0/4.5, ASP.NET MVC 3.0/4.0, ASP.NET, 
+ADO.NET, SQL Server and associated technologies like JQuery, XML, XSL transformations, JavaScript and 
+VB Script etc. I also have experience in analysis with UML language 
+Academic Credentials 
+Bachelor. Tech  
+Hung Vuong University  
+Jul-2002 
+Key Skill 
+Proficient and familiar with a vast array of programming languages, concepts and technologies including 
+Languages 
+: 
+.Net Framework(C#), LINQ, JQuery, Ajax, HTML5/CC3, 
+RESTful web services, Java Script, Java, PHP 
+Technical Tools 
+: 
+.Net Framework 4.0/4.5, Asp.net MVC 3.0/4.0, Entity 
+Framework,  NHibernate, Autofac,  AutoMapper, 
+NopCommerce, Facebook API, Telerik MVC 
+Database  
+: 
+MS SQL Server 2005/2008 
+Designing Tools 
+: 
+Power Designer, Visual Studio.Net 2010/2013, Dream weaver, 
+MS Project, MS Visio, Mockup GUIs  
+Operating system 
+: 
+Windows XP / Windows 7 
+Certifications 
+HDSE 
+Higher Diploma in Software 
+Engineering, Aptech 
+Aug 2003 
+Work Experiences 
+EH-Data 
+Software Developer (Java, PHP, .Net) 
+Jul 2003 – Oct 2003 
+Maintained the existing software/websites 
+Joined to team to develop management applications in Java, PHP language 
+Testing to make sure the quantity of product  
+Goodland Ltd. 
+Senior Software Developer (.Net, MS SQL) 
+Nov 2003 – July 2007 
+Maintained existing website 
+Developed and implemented software/website outsourcing for many local and foreign customer 
+Joined as a team leader role to some projects  
+Edge Marketing Vietnam 
+Senior Software Developer (.Net, MS SQL)/Junior Business Analyst 
+July 2007 – Now 
+Developed CRM or CMS system for well-known clients such as HSBC, ANZ, Mead Johnson, Johnnie 
+Walker, Syngenta, etc or internal use 
+Wrote technical specification documents 
+Researched and proposed various techniques 
+Conduct seminars and trained team members 
+Participated to make plan, inspect the progress of projects and report to line manager 
+Joined to analyse requirements from customers 
+Main Project Work 
+Title  
+: 
+ANZ Customer Relationship Management 
+Client 
+: 
+ANZ 
+Role 
+: 
+Team Leader 
+Tenure 
+: 
+Nov-2013 to Apr-2014 
+Team Size 
+: 
+5 
+Environment 
+: 
+ASP.NET MVC 3.0, .Net C# 4.0, JQuery, MS SQL Server 2008 
+and Windows Server 2003, Telerik Extension, IIS6/IIS7 
+Size of users 
+: 
+Over 800 users 
+Description 
+Build a customer relationship management (CRM) system for managing client’s interactions with current 
+and future their customers, track and measure marketing campaigns over networks. The system includes 
+call center, data storage, and customer data query. The system support more than 800 users system 
+Responsibilities 
+Inspecting the progress of project. 
+Design database structure, stored procedures and functions. 
+Involving in analyse requirements, coding, Unit Testing. 
+Title  
+: 
+CRM & Loyalty Program System 
+Client 
+: 
+Mead Johnson. 
+Role 
+: 
+Team Leader 
+Tenure 
+: 
+Jan-2013 to May-2003 
+Team Size 
+: 
+3  
+Environment 
+: 
+ASP.NET MVC 3.0, C# 3.5, JQuery, MS SQL Server 2005 and 
+Windows Server 2003, IIS6/IIS7 
+Size of users 
+: 
+Over 100 users 
+Description 
+System includes modules: customer information management, inbound and outbound call script, 
+interface gateway between top-up provider, SMS provider and mobile subscribers, promotion campaigns 
+management. In addition, system can also support the managers can export reports data mining easily. 
+Responsibilities 
+Inspecting the progress of project. 
+Design database structure, stored procedures and functions. 
+Involving in analyse requirements, coding, Unit Testing. 
+Title  
+: 
+Project Progress and Finance Management 
+Client 
+: 
+HZS, Japan 
+Role 
+: 
+Team Leader 
+Tenure 
+: 
+Jun-2008 to Nov-2008 
+Team Size 
+: 
+3  
+Environment 
+: 
+ASP.NET, C# 2.0 , JQuery, MS SQL Server 2000 and Windows 
+Server 2003, IIS6 
+Description 
+Tracking progress and finance of a project. An efficient supporting tool for tracking progress and finance 
+of a project, especially for the complex finance calculation. It includes three main functional groups: user 
+management, project progress management and project finance management. 
+Responsibilities 
+Inspecting the progress of project. 
+Design database structure, stored procedures and functions. 
+Involving in coding, Unit Testing. 
+Personal Dossier 
+Date of Birth 
+: 
+08-03-1980 
+Languages known 
+: 
+English 
+Address 
+: 
+308B Hoa Hung street, Ward 13 District 10, HCM city 

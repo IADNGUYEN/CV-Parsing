@@ -1,0 +1,57 @@
+CIRRICULUM VITAE 
+PERSONAL INFORMATION 
+Name: Nguyễn Công Trí Dũng 
+Nationality: Vietnamese. 
+Date of Birth: April 4th , 1983. 
+Place of Birth: Binh Thuan Province – Vietnam. 
+Gender: Male. 
+Marital status: Married 
+Mobile phone: 0944-153-155. 
+Email: nguyencongtridung@live.com. 
+Address: Di An District, Binh Duong Province. 
+KNOWLEDGE & SKILLS 
+Computer 
+Strong Language: C, C++, Java 
+Basic Language: C#, Python, Javascript, React Native, Android, HTML, CSS 
+Database: SQL server, MySQL. 
+IDE: Visual studio, Eclipse, Visual Code, Android studio 
+Editor: Notepad++ 
+Source control: Git, SVN 
+English 
+Skills in reading reference material. 
+Business English. 
+Others 
+Dynamic, hard-working & a good team player. 
+Trustworthy, enthusiastic & responsibility. 
+Working in high-pressure environment. 
+WORK EXPERIENCE 
+From 2017 to now: Shinkawa Vietnam. 
+Years of work: 18 months. 
+Current level: Senior developer. 
+Main duties: 
+ Maintain the Wire Bonder application. 
+ Analysis Requirements Specs. 
+ Design test case, estimate and coding. 
+ Execute test cases by manual. 
+ Develop new feature depend on client’s requirement. 
+ Write tool export text from excel to support multi languages for application 
+From 2012 to 2017: Gameloft Company Limited 
+Years of work: 5 years. 
+Current level: Supervisor. 
+Main duties: 
+ Manage a team of 10 – 20 members. 
+ Develop several 2D Games for MRE, MIDP, Android. 
+ Fixed bugs and improve game’s performance 
+ Review code of members. 
+ Train for new members. 
+EDUCATION 
+2002 – 2005: 
+Student of HCMC University of Natural Sciences 
+Faculty: Information Technology (3-Year) 
+Major: Information Technology Department. 
+Status: Graduated 
+2006 – 2009: 
+Student of HCMC University of Natural Sciences 
+Faculty: Information Technology (Fully-studied) 
+Major: Information Technology Department. 
+Status: Undergraduated. 

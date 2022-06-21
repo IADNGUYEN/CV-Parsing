@@ -1,0 +1,305 @@
+   
+(Page 1 of 8) 
+PERSONAL DETAILS 
+Name   
+: Phan Minh Quoc Cuong 
+Date of Birth   
+: 1979/09/24 (yyyy/mm/dd) 
+Home Address  
+: Apartment 218 building 595-601 CMT8, 
+District 10, HCMC 
+Cell phone 
+: 0907135073 
+Personal Email 
+: pm.quoccuong@gmail.com 
+Gender  
+: Male 
+Marital Status   
+: Married 
+Citizen of  
+: Vietnam 
+PROFESSIONAL SUMARY AND OBJECTIVE 
+Diligent Senior Software Testing Specialist with more than 10 years of experience testing various 
+windows/web-based applications. Proficient in test strategy implementation, test plan development, test 
+execution and bug tracking.  
+Specialize in test development scheduling execution and test team management.  
+Interesting and having knowledge in Automation test. Planning to become an expertise in Software 
+Automation Testing. 
+CORE QUALIFICATIONS 
+Have good knowledge and experience in Team management (including mentor, coaching, monitor 
+process and performance of team members) 
+Adept at analyzing business requirements and software requirement specifications. 
+Solid understanding of quality assurance and software development life cycles. 
+Familiar with Bug Tracking Tool & Process. 
+Have knowledge about Automation Test and willing to invest more effort into Automation Test. 
+Strong ability to implement about developing test plan, test cases, test scenario, test report. 
+Good knowledge about executing test on Win-Form, Web-Form, Mobile devices. 
+Expertise includes: 
+Java, ASP.Net, C#, VB, VB.Net, PHP, TCL programming. 
+Be able to work on  HTML, Javascript, CSS 
+Automation testing (experience SilkTest, FitNesse, have knowledge in Selenium Web-
+drive, TestComplete, JMetter). 
+(Page 2 of 8) 
+Have knowledge in testing REST API using Jmeter. 
+Databases: Oracle, SQL Server, My SQL. 
+Operating Systems such as Windows, Red Hat, CentOS, Ubuntu 
+Revision Control Systems: CSV, SVN 
+Networking in equivalent CCNA level. 
+Web Servers: Apache, IIS, Apache Tomcat 
+Integrated development environment: Eclipse, Intellij IDEA 
+Soft skills: 
+Good team-work spirit and working under pressure. 
+Straightforward, diligent, ready to take pains to study. 
+Accept challengers to get better results. 
+Always self-upgrade in technical skills. 
+Leadership and management. 
+Understand important of Time Management 
+LANGUAGES 
+Vietnamese     : Native 
+English 
+: Upper  Intermediate 
+ACADEMIC 
+1997  2002 
+Open University, Ho Chi Minh City – Computer Science 
+2006  2008 
+NIIT Saigon Academy – Software Engineering 
+PROFESSIONAL EXPERIENCE 
+June 2011  Present Working on Luxoft Vietnam as a Senior Testing Specialist – Team Leader  
+Project: IP Office solutions (A big America Telecom Company customer)  
+From Dec 2012 to Present 
+Description of Project : This is a telecom system which is built on hard-devices and  
+server machines with a many sub-systems (like as OneX portal, OneX for Mobile 
+devices, Voicemail pro, IPO Contact Center,…) combine to becomes telecom 
+solutions including Contact Center solutions for middle and big companies. 
+My Position: Senior Testing Specialist  Test Team Leader IP Office release 10.0. 
+Technologies, Tools and Platforms used in project: 
+ATTEST, TCL, SUN Solaris, TestComplete 
+MSSQL, JIRA, Quality Center. 
+Windows OS (such as Server 2012, Windows 7, Window 10 and Microsoft 
+Exchange) 
+CentOS, Ubuntu, Apache webserver 
+(Page 3 of 8) 
+Window Application, Web Application, Telephone devices (PBX, 
+Telephone, Base station) 
+Responsibilities: 
+Lead team to achieve goals from Managers. 
+Allocate tasks to team members and monitoring process. 
+Meeting and reports to Managers in Romania location. 
+Supervise and speed up the team for deadline and KPI targets.  
+Review test results and Test Design. 
+Troubleshooting and problem resolve in team. 
+Involving in Test Strategy for every Quater and planning tasks execution. 
+Involving in setting up Test environment. 
+Execute test automation Suites with Test Complete integrated Avaya Attest 
+system. 
+Coaching new team members. 
+Achievements: 
+Team achieves target. 
+Working with telecom system. 
+Working in high performance and high quality. 
+Quickly adopted testing software in new business domain. 
+Investigating and resolving problem. 
+Implementing Time Management 
+Working with multi-tasks simultaneously. 
+Project: ETL (A world's largest aerospace Company customer) 
+From June 2011 to Dec 2012 
+Description of Project: This is back-end software for Extractor, Transformation and 
+Loading data between other systems in Boeing Company 
+My Position: Manual and Automation Testing Specialist 
+Technologies and tools used in project: 
+Java, XML 
+MSSQL. 
+Fitnesse. 
+Responsibilities: 
+Allocate tasks to team members and monitoring process. 
+Weekly meeting and weekly reports for Team process and status with 
+Manager in Russia location. 
+Develop scripts based on Fixtures, execute scripts and analyze result in 
+Fitnesse. 
+Coaching new team members. 
+Achievements: 
+Working with a back-end software without GUI. 
+(Page 4 of 8) 
+Working for a customer with high standard requests. 
+Working colleagues in team from difference offices in other country. 
+Jan 2010 – June 2011 Working on Total Soft Bank Co, Ltd as an SQA engineer   
+Name of Project: SP-PSA Port (Singapore customer) 
+Description of Project:  
+This is a Computer Automated Terminal Operation System. It is a fully integrated 
+application for highest productivity for Maritime terminal operations. With 
+intelligent and real-time operation control, the system applies algorithms to create 
+optimal utilization of terminal devices. 
+My Position: SQA Engineer 
+Technologies, tools and platform used in project: 
+C#, VB.Net  
+Java Socket, .NET framework. 
+Oracle 11G 
+Visual Studio 2005, Toad 9.5 
+SilkTest 2010 
+Windows 
+Responsibilities: 
+Execute manual test. 
+Create and execute SQL queries for verifying data.  
+Maintain and execute Test scripts with 4Test Scripting Language. 
+Monthly meeting  with client for changing requests 
+Achievements: 
+Working in Seaport and container terminal business domain. 
+Working directly with customer. 
+I had developed a changing request when Developers were un-available via 
+Manager‘s approval and got good feedback from client. 
+Name of Project: PCT Port (Greece Customer) 
+Description of Project: 
+This is a Computer Automated Terminal Operation System. It is a fully integrated 
+application for highest productivity for Maritime terminal operations. With 
+intelligent and real-time operation control, the system applies algorithms to create 
+optimal utilization of terminal devices. 
+My Position: SQA Engineer 
+Technologies, tools and platform used in project: 
+C#, VB.Net  
+Java Socket, .NET framework. 
+Oracle 11G 
+Visual Studio 2005, Toad 9.5 
+Windows 
+(Page 5 of 8) 
+Responsibilities: 
+Execute manual test. 
+Create and execute SQL queries for verifying data.  
+Maintain and execute Test scripts with 4Test Scripting Language. 
+Test results report to Team Leader. 
+Feb 2009 – Jan 2010 Working on Corigo Company as a Developer 
+Name of Project: Corigo Workplace Enterprise  
+Description of Project:  
+This is HR and Payroll combined with Project and Tasks management on web  
+interface and has multi language support ability. It was using in corporation 
+companies. 
+My Position: Developer and Tester 
+Technologies and tools used in project: 
+Java, xml, JavaScript  
+JSP & Servlet, Velocity, Ajax, JDBC  
+Eclipse, Apache Tomcat  
+MSSQL and PostgreSQL 
+YourKit Java Profiler 
+Responsibilities: 
+Develop Java code under mentor and code review of an American java 
+expert. 
+Meeting with client frequently for getting feedback to improve company 
+product. 
+Achievements: 
+Develop Java code. 
+Active listening feedback from users.  
+Name of Project: www.dogmacollection.com 
+Description of Project:  
+This is on develop project. This project is a CMS website customization of Joomla  
+My Position: Developer and user trainer. 
+Technologies and Platforms used in project: 
+PHP, CSS  
+Eclispe, Xampp  
+MySQL 
+Responsibilities: 
+Edit PHP code and CSS code. 
+Meeting with client frequently for getting feedback. 
+Dec 2008 – Feb 2009  Work as a freelancer:  
+(Page 6 of 8) 
+Name of project: Project PureButtons (www.purebuttons.com) 
+This is ERP project which is combined Shopping Cart with web GUI development 
+by JavaScript, PHP and MySQL  
+My Position: Developer and Communicator  
+Technologies and tools used in project: 
+PHP, CSS  
+Eclispe, Xampp  
+MySQL 
+Responsibilities: 
+Developer with PHP and MySQL 
+Achievements: 
+Working with PHP and MySQL project 
+Communication with American customer. 
+Management own Project.  
+Working independence.  
+Management requirements. 
+Jul 2008 – Nov 2008 Working on FPT Software Company 
+Position: Senior Tester 
+Took part of Japanese Projects 
+Name of Project: J-CPS. 
+Description of Project:  
+This system use to analyze between Planning cost and Actual Cost of a Project 
+from two existing systems on Web interface  
+My Position: Senior Tester 
+Number of member in the project: 1 PM, 4 Developers, 1 Tester 
+Tool: EyeDrop, Druler. 
+Technologies and tools used in project: 
+JSP and Servlet  
+DB2 
+EyeDrop, Druler 
+Responsibilities:  
+Writing, reviewing test-cases. 
+Execute manual test-cases and execute automation scripts. 
+Management requirement and Q & A information. 
+Achievements: 
+Understand working out-source processes with Japanese customer. 
+Name of project: Mayfly 
+Description of project: This is used to management clients PC in network.The 
+company had duty to customize the old GUI into modern style GUI. 
+My Position: Senior tester 
+Programming language: Java Swing 
+Number of member in the project: 22 (PM, Leaders, Developers, Testers, 
+Communicators, QAs) 
+Responsibilities:  
+Writing, reviewing test-cases. 
+(Page 7 of 8) 
+Execute manual test-cases and test results report. 
+Management requirement and Q & A information. 
+Achievements: 
+Understand test-cases design for Japanese customer 
+2004 – 2008  
+Global System Engineering Corporation   
+Position: QA Team Leader 
+Responsibilities 
+: 
+Creating and reviewing test cases, test plans for projects. 
+Finding bugs/inconveniences of projects during their life-cycle. 
+Manage test-team with 5 members 
+Projects: 
+E-commerce Project Von-Mour: 
+I was only one tester of this Project in GSE Company. I spent a few days to read 
+documents and next around two weeks to write test-cases follow those documents 
+and updated test-cases.  A lot of issues had been tested and passed by me with 
+good quality. I worked in this QA position until the project was completed with 
+highly appreciated from Client and Project Manager.  
+E-commerce Project ASC and PAS-REO : 
+I had written test-cases and testing the entire project.  I kept support testing in 
+maintenance stages. 
+Project Eclp: 
+This is a finance project which is manage real-estate loan mortgage using by 
+brokers in Well-Fargo bank. 
+I had tested and raised overs hundred Issues.  I had been done all kinds of testing 
+such as individual issue testing, smoke testing and regression testing and I also 
+had done this QA position for Eclp project in several releases. 
+(Page 8 of 8) 
+2003 – 2004  
+Working in BlueBytez Software Company   
+Position: Tester 
+Responsibilities: 
+Creating the test cases, test plans for projects. 
+Finding bugs/inconveniences of projects during their life-cycle. 
+Netreport: 
+This is a web-application program.  It is a project management system used to 
+maintain projects and tasks statuses.  It is also a tracking/report system for issue 
+that are reported by users. 
+I joined in this project nearly from initial days. I had written test-cases and tested 
+them with all of user types of this program and have found too many bugs (over 
+two hundreds). I helped my manager to provide numerous side training classes for 
+customers.  I had also completed many written requirements and they all got 
+approved by customers. I worked with those above in one year.   
+Shop Hue: 
+This is a shopping cart web-application program for advertising and marketing 
+Souvenir Vietnamese Products of an American’s Company. 
+I was the only one QA person of this Project.  My duties were writting testcases 
+follow customer’s requirements and testi the entire software.  Deployment job was 
+also included in my duties. I worked with this project in two months while I was 
+wroking in Project above.  
+Events Website:  
+This is a web-application program. It helps website administrator to update and get Public 
+sites quickly and easily.  The advantage of this program is allow users to update the web 
+site without knowing web knowledge / skills. I was also the only one QA person of this 
+Project. Writing tescases and testing software were my duties at that time. I worked this 
+project in one month. 

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="32" family="TimesNewRomanPSMT" color="#769239"/>
+	<fontspec id="1" size="32" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="2" size="18" family="TimesNewRomanPSMT" color="#1152cc"/>
+	<fontspec id="3" size="18" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="4" size="16" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="5" size="17" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="6" size="18" family="BCDEEE+TrebuchetMS" color="#9bb856"/>
+	<fontspec id="7" size="12" family="BCDEEE+TrebuchetMS" color="#9bb856"/>
+	<fontspec id="8" size="12" family="BCDEEE+TrebuchetMS" color="#000000"/>
+	<fontspec id="9" size="19" family="BCDFEE+Wingdings" color="#000000"/>
+	<fontspec id="10" size="19" family="ArialMT" color="#000000"/>
+	<fontspec id="11" size="19" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="12" size="21" family="BCDEEE+TrebuchetMS" color="#000000"/>
+	<fontspec id="13" size="19" family="BCDGEE+SegoeUISymbol" color="#000000"/>
+	<fontspec id="14" size="27" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="15" size="19" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="16" size="28" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="17" size="19" family="SymbolMT" color="#000000"/>
+<text top="36" left="242" width="419" height="36" font="0">PHẠM NGUYỄN NGỌC SƠN</text>
+<text top="43" left="662" width="8" height="30" font="1"> </text>
+<text top="81" left="111" width="167" height="16" font="2"><a href="mailto:pson2900@gmail.com">pson2900@gmail.com </a></text>
+<text top="78" left="278" width="480" height="20" font="3">• (+84)1699805901 • 91/40 Quarter 3, Tan Phong Ward, Bien Hoa</text>
+<text top="82" left="758" width="4" height="15" font="4"> </text>
+<text top="103" left="66" width="4" height="16" font="5"> </text>
+<text top="118" left="75" width="169" height="21" font="6"><b>BRIEF INFORMATION</b></text>
+<text top="124" left="244" width="4" height="14" font="7"><b> </b></text>
+<text top="124" left="836" width="4" height="14" font="8"><b> </b></text>
+<text top="142" left="93" width="15" height="21" font="9">➢</text>
+<text top="145" left="109" width="5" height="18" font="10"> </text>
+<text top="142" left="120" width="649" height="22" font="11">I’m still a student,learning at the faculty of Electrical and Electronics Engineering. </text>
+<text top="168" left="6" width="4" height="16" font="5"> </text>
+<text top="184" left="75" width="10" height="21" font="6"><b>E</b></text>
+<text top="190" left="85" width="64" height="14" font="7"><b>XPERIENCE </b></text>
+<text top="190" left="836" width="4" height="14" font="8"><b> </b></text>
+<text top="205" left="6" width="6" height="24" font="12"><b> </b></text>
+<text top="244" left="93" width="19" height="24" font="13">➢</text>
+<text top="250" left="112" width="5" height="18" font="10"> </text>
+<text top="251" left="120" width="311" height="17" font="11">I known programming in C and Python.</text>
+<text top="253" left="432" width="4" height="15" font="4"> </text>
+<text top="273" left="6" width="5" height="17" font="3"> </text>
+<text top="291" left="93" width="19" height="24" font="13">➢</text>
+<text top="298" left="112" width="5" height="18" font="10"> </text>
+<text top="294" left="120" width="679" height="22" font="11">Learn and use raspberry pi but I’m still a newbie in this area, and use linux to do some </text>
+<text top="321" left="120" width="106" height="17" font="11">simple tasks. </text>
+<text top="355" left="93" width="19" height="24" font="13">➢</text>
+<text top="362" left="112" width="5" height="18" font="10"> </text>
+<text top="362" left="120" width="341" height="17" font="11">I have code Data structure and Algorithms  </text>
+<text top="408" left="93" width="19" height="24" font="13">➢</text>
+<text top="415" left="112" width="5" height="18" font="10"> </text>
+<text top="416" left="120" width="651" height="17" font="11">I have use git command (git clone, git add, git push), use git for read and reasearch </text>
+<text top="462" left="93" width="19" height="24" font="13">➢</text>
+<text top="468" left="112" width="5" height="18" font="10"> </text>
+<text top="469" left="120" width="423" height="17" font="11">Know use Linux for program and use Python in linux </text>
+<text top="505" left="93" width="19" height="24" font="13">➢</text>
+<text top="512" left="112" width="5" height="18" font="10"> </text>
+<text top="512" left="120" width="664" height="17" font="11">Know a little bit about  Linear regression, Logictis regresion ,Neural Network, Deep </text>
+<text top="535" left="120" width="221" height="17" font="11">Learning, Gradient Descent </text>
+<text top="561" left="93" width="19" height="24" font="13">➢</text>
+<text top="567" left="112" width="5" height="18" font="10"> </text>
+<text top="568" left="120" width="397" height="17" font="11">Know how to use basic Pandas to analyse datasets </text>
+<text top="594" left="93" width="19" height="24" font="13">➢</text>
+<text top="600" left="112" width="5" height="18" font="10"> </text>
+<text top="601" left="120" width="589" height="17" font="11">I use scikit learn to do some simple examples and now I’m learning simple </text>
+<text top="623" left="120" width="581" height="17" font="11">Tensorflow, Keras with Python, Build Machine learning algorthrim linear </text>
+<text top="646" left="120" width="639" height="17" font="11">regression, Logictic Regresion, Gradient Descent and know a little bit about CNN</text>
+<text top="648" left="760" width="4" height="15" font="4"> </text>
+<text top="671" left="93" width="4" height="14" font="7"><b> </b></text>
+<text top="693" left="75" width="11" height="21" font="6"><b>P</b></text>
+<text top="699" left="85" width="53" height="14" font="7"><b>ROJECTS </b></text>
+<text top="699" left="836" width="4" height="14" font="7"><b> </b></text>
+<text top="699" left="840" width="4" height="15" font="4"> </text>
+<text top="722" left="6" width="7" height="25" font="14"> </text>
+<text top="722" left="66" width="7" height="25" font="14"> </text>
+<text top="722" left="169" width="7" height="25" font="14"> </text>
+<text top="755" left="93" width="19" height="24" font="13">➢</text>
+<text top="762" left="112" width="5" height="18" font="10"> </text>
+<text top="763" left="120" width="224" height="17" font="15"><b>Facial Keypoints Detection</b></text>
+<text top="756" left="344" width="7" height="26" font="16"><b> </b></text>
+<text top="785" left="127" width="6" height="17" font="11">-</text>
+<text top="784" left="133" width="5" height="18" font="10"> </text>
+<text top="785" left="154" width="693" height="17" font="11">This is actually a simple competition on Kaggle.com which aims to automatically detect </text>
+<text top="807" left="127" width="671" height="17" font="11">where is the keypoints of face images. This can be used as a building block in several </text>
+<text top="830" left="127" width="131" height="17" font="11">application like: </text>
+<text top="847" left="201" width="11" height="24" font="17">+</text>
+<text top="853" left="212" width="5" height="18" font="10"> </text>
+<text top="854" left="228" width="282" height="17" font="11">Tracking faces in images and video </text>
+<text top="871" left="201" width="11" height="24" font="17">+</text>
+<text top="877" left="212" width="5" height="18" font="10"> </text>
+<text top="878" left="228" width="194" height="17" font="11">Analyse face expression </text>
+<text top="895" left="201" width="11" height="24" font="17">+</text>
+<text top="901" left="212" width="5" height="18" font="10"> </text>
+<text top="901" left="228" width="227" height="17" font="11">Biometrics/ face recognition </text>
+<text top="924" left="127" width="6" height="17" font="11">-</text>
+<text top="923" left="133" width="5" height="18" font="10"> </text>
+<text top="924" left="154" width="670" height="17" font="11">I have learn how to use pandas to load and transform dataset from Kaggle to memory </text>
+<text top="946" left="154" width="319" height="17" font="11">since everything is provided by files csv </text>
+<text top="969" left="127" width="16" height="17" font="11">-  </text>
+<text top="969" left="174" width="626" height="17" font="11">Build a simple neural networks with 3 Dense layers and use some techniques to </text>
+<text top="991" left="127" width="682" height="17" font="11">improve result quality and improve training performance like applying Dropout layers, </text>
+<text top="1014" left="127" width="460" height="17" font="11">using ELU activation instead of Relu to prevent overfiting </text>
+<text top="1036" left="127" width="6" height="17" font="11">-</text>
+<text top="1035" left="133" width="5" height="18" font="10"> </text>
+<text top="1036" left="154" width="581" height="17" font="11">Know how to load and save automatically a model after finishing training </text>
+<text top="1058" left="127" width="6" height="17" font="11">-</text>
+<text top="1058" left="133" width="5" height="18" font="10"> </text>
+<text top="1058" left="154" width="652" height="17" font="11">Apply some simple method to save features after finishing step ‘feature extraction’ </text>
+<text top="1081" left="154" width="695" height="17" font="11">since it takes a lot of time to do, one of my favorite solution I have used in this project is </text>
+<text top="1099" left="154" width="173" height="22" font="11">using python’s pickle </text>
+<text top="1126" left="127" width="6" height="17" font="11">-</text>
+<text top="1125" left="133" width="5" height="18" font="10"> </text>
+<text top="1126" left="154" width="677" height="17" font="11">Using matplotlib to render the result of my neural network after training since I would </text>
+<text top="1148" left="154" width="368" height="17" font="11">like to verify with the real picture from myself </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="18" size="16" family="SymbolMT" color="#000000"/>
+	<fontspec id="19" size="16" family="ArialMT" color="#000000"/>
+<text top="37" left="6" width="7" height="25" font="14"> </text>
+<text top="62" left="75" width="92" height="21" font="6"><b>KEY SKILLS</b></text>
+<text top="68" left="167" width="4" height="14" font="7"><b> </b></text>
+<text top="68" left="836" width="4" height="14" font="8"><b> </b></text>
+<text top="83" left="75" width="4" height="14" font="8"><b> </b></text>
+<text top="110" left="102" width="124" height="17" font="11">LANGUAGES </text>
+<text top="130" left="129" width="8" height="20" font="18">•</text>
+<text top="134" left="136" width="5" height="15" font="19"> </text>
+<text top="133" left="151" width="329" height="17" font="11">English: good enough for communicating </text>
+<text top="135" left="481" width="4" height="15" font="4"> </text>
+<text top="169" left="93" width="106" height="17" font="11">COMPUTER</text>
+<text top="171" left="199" width="4" height="15" font="4"> </text>
+<text top="204" left="66" width="508" height="17" font="11">Have a good skill in using shell on linux and window, build tools</text>
+<text top="206" left="575" width="4" height="15" font="4"> </text>
+<text top="225" left="66" width="4" height="15" font="4"> </text>
+<text top="252" left="124" width="9" height="24" font="17">•</text>
+<text top="258" left="133" width="5" height="18" font="10"> </text>
+<text top="259" left="151" width="289" height="17" font="11">Manage code effectively by using git</text>
+<text top="261" left="441" width="4" height="15" font="4"> </text>
+<text top="280" left="66" width="4" height="15" font="4"> </text>
+<text top="317" left="93" width="170" height="17" font="11">WORKING SKILLS </text>
+<text top="337" left="124" width="8" height="20" font="18">•</text>
+<text top="342" left="132" width="5" height="15" font="19"> </text>
+<text top="341" left="151" width="391" height="17" font="11">Working under pressure, Time Management: 8/10</text>
+<text top="343" left="542" width="4" height="15" font="4"> </text>
+<text top="372" left="124" width="8" height="20" font="18">•</text>
+<text top="377" left="132" width="5" height="15" font="19"> </text>
+<text top="375" left="151" width="297" height="17" font="11">Communicative &amp; Interpersonal: 9/10</text>
+<text top="377" left="448" width="4" height="15" font="4"> </text>
+<text top="407" left="124" width="8" height="20" font="18">•</text>
+<text top="412" left="132" width="5" height="15" font="19"> </text>
+<text top="410" left="151" width="271" height="17" font="11">Logical and Problem solving: 7/10</text>
+<text top="412" left="422" width="4" height="15" font="4"> </text>
+<text top="441" left="124" width="8" height="20" font="18">•</text>
+<text top="446" left="132" width="5" height="15" font="19"> </text>
+<text top="445" left="151" width="119" height="17" font="11">Planning,: 8/10</text>
+<text top="447" left="270" width="4" height="15" font="4"> </text>
+</page>
+</pdf2xml>

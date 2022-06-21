@@ -1,0 +1,76 @@
+[Curriculum Viate –Huynh Long Phuc] 
+HUYNH LONG PHUC 
+Date of Birth 
+: May 11st 1989 
+Gender 
+: Male 
+Marital Status 
+: Single 
+Address               : 26/4–Dong Da Street   
+Ward 2 – Tan Binh District   
+Ho Chi Minh City  Vietnam 
+Phone             
+: 0937787560 
+Email 
+: longphuchuynh@hotmail.com 
+AREA OF INTEREST 
+Mobile Android development. 
+CAREER OBJECTIVE 
+A position offers many opportunities and challenges, allowing me to maximize 
+knowledge and experience in Mobile Android Development. And in the next three 
+years, I will become a senior engineer in this field. 
+ACADEMIC PROFILE 
+09/2008– 09/2011 
+Student of Posts & Telecommunications Institute of Technology, Ho 
+Chi Minh city (PTIT HCM) 
+Department : Information Technology 
+Major          : Information Systems 
+Degree classification : Above Average 
+GPA            : 6.45/10 
+EXPERIENCE 
+11/2011– 07/2015 Working at Gameloft  Co., Ltd. 
+Position: Android Game Programmer 
+Key responsibilities: Porting HD Game to  Prototype Android 
+Device , implement new feature for game 
+07/2015– 11/2015 Working at Nexle  Co., Ltd. 
+Position: Senior Android Developer 
+Key responsibilities: Creation Android Application 
+SKILLS AND QUALIFICATIONS 
+[Curriculum Viate –Huynh Long Phuc] 
+Programming language:  C/C++, C#, Java. 
+Good knowledge  C/C++,Java. 
+Database:  SQL Server. 
+Foreign language: English (Normal) 
+PERSON SKILLS 
+Working well with others, willing to support others. 
+Working hard and extremely responsible for all tasks and assignments. 
+Ability to research and learn quickly.  
+Good communication skills and self-confidence, adapting quickly to new 
+circumstances 
+Smart, diligent, careful, meticulous. 
+Good reading skills in English. 
+SPECIFIC WORK EXPERIENCE 
+In C/C++ 
+o Master  Object  Oriented Programming 
+o Master the basic algorithms about arrays, strings, pointers… 
+o Having basic knowledge about  Data structures and Algorithms. 
+In SQL Server 
+o Having basic knowledge about  SQL Server. 
+o Have the good  ability about writing the sentences the query SQL. 
+o Thematic : Login and user permissions for employees. 
+In Android 
+o  Game name: Ice Age VillageFunction :  Porting this game to Alibaba Android Box TV, implement Alibaba 
+Billing for In App Purchase feature  Language: C/C++,Java OS : Android 
+o  Game name: Asphalt 8 Function : Porting this game to Huawei  Box TV, implement Huawei 
+Billing for In App Purchase feature  Language: C/C++,Java OS : Android 
+o  Game name: Real Football 2013 :  Porting this game to Tecno P5 tablet  Language: C/C++ , Java OS : Android 
+[Curriculum Viate –Huynh Long Phuc] 
+o  Game name: UNO  :  Porting this game to Sharp SHX12  phone  Language: C/C++,Java OS : Android 
+o  Game name: Modern Combat 4:  Porting this game to Panasonic P4 phone  Language: C/C++,Java OS : Android 
+o  Game name: Fantasy Town:  Porting this game to  Acer A210 Tablet  Language: C/C++,Java OS : Android 
+o  Game name: Block Breaker 3:  Porting this game to  Sony Xperia Arc, Sony Xperia Arc S phone  Language: C/C++,Java OS : Android 
+HOBBIES 
+Listenning to music. 
+Play the game 
+Watching movies. 
+Traveling 

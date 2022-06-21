@@ -1,0 +1,56 @@
+Applicant for:
+R&D Engineer (Java/Python/C), all levels
+TMA Solutions
+14 December 2018
+Bui Phong Hau
+buiphonghau2014@gmail.com
+Main interests: Python, Linux, C++, Java, Blockchain
+What skills, work projects or achievements make you a strong candidate for this
+position?
+C , C++, Python programming skill, Qt experience, Linux System Call programming
+foundation, English communication skill, reading skill, Problem Solving skill, Self-learing
+spirit.
+Top Jobs for IT People
+"Hiring the wrong person is the most costly mistake you can make."  Brian Tracy
+itviec.com
+08 6681 1397
+itviec@itviec.com
+Phong Hau
+Date of birth: 7/10/1996
+Ho Chi Minh City
+0378498818
+buiphonghau2018@gmail.com
+Summary
+Employment History
+Hobbies & Interests
+Professional Skills
+Languages
+3 years studied at University Of Information Technology, Major: Computer Engineer.
+1 year working as Embedded Developer 2 at FPT Software, Role: Application Developer with C, Tool Developer using Qt
+C++ and Python.
+Good foundation on OOP, Data Structure and Algorithm, knowledges about AI and Blockchain.
+Can be able to use English as working language.
+Hackerrank profile: https://www.hackerrank.com/buiphonghau2014
+FPT Software
+Embedded Software Developer
+October 2017  November 2018
+Made Unit Test for driver.
+Used Qt C++ framework to made tools support, writed program on Ras PI to mimic the operation of OBD-II device using C
+include collect messages from CAN bus and send it messages to cloud through API with multithread technique.
+I have learn teamwork skill, self-learning spirit, be able to accomplish tasks without instruction by research.
+I really like to read books to enhance my knowledge, also Udemy and Youtube is my favourite day by day training place.
+I have deep interest on Embedded World include Automotive domain and Machine Learning Technology.
+My favourite quote: 
+“Pursue excellence, and success will follow, pants down!”
+C
+Advanced
+C++
+Advanced
+Python
+Advanced
+Problem solving
+Intermediate
+Linux, Qt Framework
+Intermediate
+English
+Proficient

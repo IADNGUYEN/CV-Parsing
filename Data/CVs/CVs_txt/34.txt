@@ -1,0 +1,49 @@
+Cong Nguyen Thanh
+Software Developer
+A self-motivated software developer with hands-on experiences in the JVM ecosystem (Java, Scala)
+and web development (Spring Framework), especially RESTful APIs. I'm interested in writing clean,
+maintainable and well-tested code. Beside that, I'm also passionate about the big data processing
+with the Open source stack (Spark, Kafka).
+ntcong1312@gmail.com
+0972561432
+Da Nang
+linkedin.com/in/cong-nguyen-
+77b872143
+SKILLS
+Java
+Spring and its ecosystem
+NodeJS
+SQL (Postgres)
+NoSQL ( MongoDB)
+HTML, CSS, JS
+LANGUAGES
+English
+WORK EXPERIENCE
+12/205 – Present
+Java Developer
+Axon Active Vietnam
+Danang
+I spend almost the time working as a back-end developer. Designing and building data-intensive
+applications, RESTful web APIs. Working with database not only SQL but also NoSQL, improving
+the performance of the system with caching. Beside that, I have experiences with security using
+OAuth2.
+Mad Startup (December 2015 – August 2016): A web game that allows users to create and run
+their Startup.
+Fusion Metrics v1.0 (September 2016 – September 2017): Advanced mobile analytics reporting.
+SBB Dashboard (January 2017 – September 2017): A dashboard for user's locations tracking of
+SBB which is a transportation company in Switzerland.
+CERTIFICATES
+Oracle MOOC: Java Microservices Session 2 certiﬁcate (08/2017 – Present)
+Scala Programming for Data Science  Level 1 (11/2017 – Present)
+PERSONAL PROJECTS
+Traﬃc Data Monitoring (10/2017 – Present)
+Researching about big data processing with Apache Kafka and Spark
+eCommerce Cloud (09/2016 – 12/2016)
+Researching about Microservice Architecture using Spring Cloud
+EDUCATION
+09/2011 – 08/2016
+Bachelor's degree
+Da Nang University of Technology
+Information Technology
+Achievements/Tasks
+Courses

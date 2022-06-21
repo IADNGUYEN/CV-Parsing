@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="893">
+	<fontspec id="0" size="42" family="Arial,Bold" color="#0000ff"/>
+	<fontspec id="1" size="42" family="Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="15" family="Arial,Bold" color="#000000"/>
+	<fontspec id="3" size="16" family="Times New Roman" color="#000000"/>
+	<fontspec id="4" size="22" family="Times New Roman,Bold" color="#0000ff"/>
+	<fontspec id="5" size="22" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="6" size="7" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="7" size="16" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="8" size="16" family="Times New Roman,Italic" color="#000000"/>
+	<fontspec id="9" size="15" family="Times New Roman" color="#000000"/>
+	<fontspec id="10" size="16" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="11" size="16" family="Arial" color="#000000"/>
+	<fontspec id="12" size="21" family="Times New Roman" color="#000000"/>
+<text top="71" left="366" width="336" height="39" font="0"><b>Curriculum Vitae</b></text>
+<text top="71" left="702" width="12" height="39" font="1"><b> </b></text>
+<text top="113" left="300" width="4" height="14" font="2"><b> </b></text>
+<text top="130" left="300" width="4" height="14" font="2"><b> </b></text>
+<text top="149" left="300" width="4" height="15" font="3"> </text>
+<text top="168" left="300" width="4" height="15" font="3"> </text>
+<text top="187" left="300" width="4" height="15" font="3"> </text>
+<text top="206" left="300" width="4" height="15" font="3"> </text>
+<text top="225" left="300" width="4" height="15" font="3"> </text>
+<text top="244" left="131" width="217" height="20" font="4"><b> Personal Information </b></text>
+<text top="244" left="766" width="6" height="20" font="5"><b> </b></text>
+<text top="244" left="766" width="4" height="15" font="3"> </text>
+<text top="271" left="170" width="2" height="7" font="6"><b> </b></text>
+<text top="286" left="170" width="76" height="15" font="7"><b>Full name:</b></text>
+<text top="286" left="246" width="92" height="15" font="8"><i> Phạm Út Dễ </i></text>
+<text top="314" left="170" width="84" height="15" font="7"><b>Nationality:</b></text>
+<text top="314" left="253" width="86" height="15" font="8"><i> Vietnamese </i></text>
+<text top="342" left="170" width="101" height="15" font="7"><b>Place of birth:</b></text>
+<text top="342" left="270" width="160" height="15" font="8"><i> Kien Giang / Viet Nam </i></text>
+<text top="342" left="456" width="114" height="15" font="7"><b>    Date of Birth:</b></text>
+<text top="342" left="570" width="84" height="15" font="8"><i> 28/01/1995 </i></text>
+<text top="371" left="170" width="58" height="15" font="7"><b>Gender:</b></text>
+<text top="371" left="228" width="43" height="15" font="8"><i> Male </i></text>
+<text top="371" left="293" width="177" height="15" font="8"><i>                                           </i></text>
+<text top="371" left="471" width="105" height="15" font="7"><b>Marital status:</b></text>
+<text top="371" left="575" width="51" height="15" font="8"><i> Single </i></text>
+<text top="400" left="170" width="67" height="15" font="7"><b>Address: </b></text>
+<text top="400" left="237" width="499" height="15" font="8"><i>176 To Ngoc Van Street, Thanh Xuan Ward, District 12, Ho Chi Minh City </i></text>
+<text top="428" left="170" width="49" height="15" font="7"><b>Phone:</b></text>
+<text top="428" left="219" width="99" height="15" font="8"><i> 01627675135 </i></text>
+<text top="428" left="347" width="171" height="15" font="7"><b>                              Email:</b></text>
+<text top="428" left="518" width="138" height="15" font="8"><i> utde9x@gmail.com </i></text>
+<text top="456" left="170" width="82" height="15" font="7"><b>Languages:</b></text>
+<text top="456" left="251" width="267" height="15" font="8"><i> Vietnamese (Native), English (Normal) </i></text>
+<text top="273" left="766" width="4" height="15" font="3"> </text>
+<text top="492" left="169" width="4" height="15" font="8"><i> </i></text>
+<text top="493" left="792" width="4" height="15" font="7"><b> </b></text>
+<text top="528" left="131" width="4" height="15" font="8"><i> </i></text>
+<text top="528" left="792" width="4" height="15" font="3"> </text>
+<text top="553" left="137" width="93" height="20" font="4"><b>Objective</b></text>
+<text top="553" left="229" width="6" height="20" font="5"><b> </b></text>
+<text top="547" left="766" width="4" height="15" font="3"> </text>
+<text top="579" left="187" width="576" height="15" font="3">Take  advantages  of  skills,  experiences  and  knowledge  related  to  embedded </text>
+<text top="598" left="188" width="575" height="15" font="3">programming as well as digital logical designing and MCU designing. I believe it will </text>
+<text top="617" left="188" width="407" height="15" font="3">make positive contributions for the company's development.  </text>
+<text top="635" left="123" width="4" height="14" font="9"> </text>
+<text top="652" left="123" width="4" height="14" font="9"> </text>
+<text top="671" left="131" width="64" height="20" font="4"><b> Skills </b></text>
+<text top="671" left="766" width="6" height="20" font="5"><b> </b></text>
+<text top="670" left="769" width="4" height="15" font="3"> </text>
+<text top="698" left="162" width="2" height="7" font="6"><b> </b></text>
+<text top="705" left="135" width="15" height="18" font="10"></text>
+<text top="708" left="150" width="5" height="15" font="11"> </text>
+<text top="709" left="162" width="76" height="15" font="7"><b>Soft Skills </b></text>
+<text top="729" left="160" width="11" height="19" font="11">• </text>
+<text top="732" left="187" width="84" height="15" font="3">Team work. </text>
+<text top="753" left="160" width="11" height="19" font="11">• </text>
+<text top="757" left="187" width="90" height="15" font="3">Presentation. </text>
+<text top="778" left="160" width="11" height="19" font="11">• </text>
+<text top="782" left="187" width="311" height="15" font="3">English: able to communicate with co-worker. </text>
+<text top="801" left="123" width="5" height="19" font="12"> </text>
+<text top="821" left="135" width="15" height="18" font="10"></text>
+<text top="824" left="150" width="5" height="15" font="11"> </text>
+<text top="825" left="162" width="139" height="15" font="7"><b>Programming Skill </b></text>
+<text top="850" left="160" width="11" height="19" font="11">• </text>
+<text top="854" left="187" width="94" height="15" font="3">Embedded C. </text>
+<text top="875" left="160" width="11" height="19" font="11">• </text>
+<text top="879" left="187" width="53" height="15" font="3">C/C++. </text>
+<text top="899" left="160" width="11" height="19" font="11">• </text>
+<text top="903" left="187" width="133" height="15" font="3">Java Programming. </text>
+<text top="927" left="162" width="4" height="15" font="3"> </text>
+<text top="948" left="135" width="15" height="18" font="10"></text>
+<text top="951" left="150" width="5" height="15" font="11"> </text>
+<text top="952" left="162" width="67" height="15" font="7"><b>Software </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="893">
+	<fontspec id="13" size="15" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="14" size="17" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="15" size="17" family="Arial" color="#1f4d78"/>
+<text top="62" left="160" width="11" height="19" font="11">• </text>
+<text top="66" left="187" width="48" height="15" font="3">KeilC. </text>
+<text top="86" left="160" width="11" height="19" font="11">• </text>
+<text top="90" left="187" width="57" height="15" font="3">Eclipse. </text>
+<text top="110" left="160" width="11" height="19" font="11">• </text>
+<text top="113" left="187" width="99" height="15" font="3">Visual Studio. </text>
+<text top="133" left="160" width="11" height="19" font="11">• </text>
+<text top="137" left="187" width="78" height="15" font="3">CodeAVR. </text>
+<text top="158" left="160" width="11" height="19" font="11">• </text>
+<text top="162" left="187" width="179" height="15" font="3">STMCube/CubeSuite Plus </text>
+<text top="183" left="160" width="11" height="19" font="11">• </text>
+<text top="187" left="187" width="208" height="15" font="3">Altium/OrCad/Proteus Design. </text>
+<text top="206" left="123" width="4" height="14" font="9"> </text>
+<text top="225" left="123" width="5" height="19" font="12"> </text>
+<text top="257" left="133" width="105" height="20" font="4"><b>Education </b></text>
+<text top="257" left="762" width="6" height="20" font="5"><b> </b></text>
+<text top="289" left="178" width="5" height="15" font="11"> </text>
+<text top="290" left="187" width="92" height="15" font="3">2013 – 2018: </text>
+<text top="290" left="279" width="446" height="15" font="7"><b>Posts and Telecommunications Institute of Technology, Ho Chi </b></text>
+<text top="310" left="187" width="157" height="15" font="7"><b>Minh City, Viet Nam. </b></text>
+<text top="332" left="189" width="41" height="15" font="3">Major</text>
+<text top="332" left="230" width="197" height="15" font="7"><b>: Embedded Programming. </b></text>
+<text top="351" left="123" width="4" height="14" font="13"><b> </b></text>
+<text top="370" left="123" width="4" height="16" font="14"><b> </b></text>
+<text top="398" left="135" width="96" height="20" font="4"><b>Activities </b></text>
+<text top="398" left="761" width="6" height="20" font="5"><b> </b></text>
+<text top="434" left="177" width="159" height="15" font="3">    Sep  2013- July 2017: </text>
+<text top="434" left="337" width="321" height="15" font="7"><b>projects assigned by instructors in University </b></text>
+<text top="464" left="188" width="132" height="15" font="3">-  SMART HOME. </text>
+<text top="494" left="189" width="10" height="16" font="15">- </text>
+<text top="496" left="200" width="87" height="15" font="3"><a href="https://www.youtube.com/watch?v=8WnhCK23M8E"> Led Matrix. </a></text>
+<text top="520" left="189" width="10" height="16" font="15">- </text>
+<text top="521" left="200" width="159" height="15" font="3"> Burglar Alarm Circuit. </text>
+<text top="546" left="189" width="10" height="16" font="15">- </text>
+<text top="547" left="200" width="132" height="15" font="3"> Simple Calculator. </text>
+<text top="572" left="200" width="4" height="15" font="3"> </text>
+<text top="599" left="135" width="175" height="20" font="4"><b>Work Experience </b></text>
+<text top="599" left="761" width="6" height="20" font="5"><b> </b></text>
+<text top="635" left="184" width="142" height="15" font="3">    July 2017- Present: </text>
+<text top="635" left="325" width="267" height="15" font="7"><b>Interns at Gia Khang Co., Ltd about: </b></text>
+<text top="665" left="188" width="230" height="15" font="3">-  Programmable Logic Controller </text>
+<text top="689" left="189" width="10" height="16" font="15">- </text>
+<text top="691" left="200" width="174" height="15" font="3">Embedded Programming. </text>
+<text top="716" left="200" width="4" height="15" font="3"> </text>
+<text top="743" left="135" width="137" height="20" font="4"><b>Certifications </b></text>
+<text top="743" left="761" width="6" height="20" font="5"><b> </b></text>
+<text top="778" left="184" width="53" height="15" font="3">    2007:</text>
+<text top="778" left="237" width="4" height="15" font="7"><b> </b></text>
+<text top="803" left="166" width="4" height="15" font="3"> </text>
+<text top="803" left="200" width="179" height="15" font="3">- Computer Certificate: A. </text>
+<text top="828" left="166" width="4" height="15" font="3"> </text>
+<text top="828" left="200" width="218" height="15" font="3">- Certificate of English Level A. </text>
+<text top="828" left="447" width="4" height="15" font="3"> </text>
+<text top="828" left="501" width="4" height="15" font="3"> </text>
+</page>
+</pdf2xml>

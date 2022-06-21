@@ -1,0 +1,58 @@
+FPT UNIVERSITY
+OCT 2014  AUG 2018
+GLOBAL CYBERSOFT
+JAN 2017  APR 2017
+FPT UNIVERSITY  CAPSTONE PROJECT
+JAN 2018  APR 2018
+FCODE (FPT UNIVERSITY)
+OCT 2014  DEC 2014
+Excellent Student of Spring Semester 2016
+2016
+Objective
+On the way to becoming a Professional Software Engineer. With my knowledge and technical
+skills, I will contribute to the development of the company. And through the work, I can also
+improve myself.
+ Education
+Major: Software Engineering
+GPA: 8.1/10
+ Work Experience
+Internship
+Main responsibilities:  Study on an IoT platform.  Learn Spring MVC, Python 3.  Use Ubuntu OS as the main OS.  Develop an Admin Web Application.
+Gains:  Understand Spring Framework and Python 3.  Basic knowledge about IoT, MySQL and MongoDB.  Ability to work on Ubuntu OS.
+Team Leader
+Main responsibilities:  Research: Reinforcement Learning, Markov Decision Process, Q-Learning and Ant-Q
+algorithm.  Implement Ant-Q algorithm to solve the traveling salesman problem.  Develop a demo application to visualize the Ant-Q algorithm running process and collect
+data to compare Ant-Q with other heuristic algorithms.
+Gains:  Basic knowledge of Reinforcement Learning, Markov Decision Process, Q-Learning  Understand PyQT, Matplotlib and Ant-Q algorithm
+ Activities
+Member of FPT Coding Club Volunteer work.
+ Honors & Awards
+ October 12, 1996
+ Male
+ 01203135665
+ ducnha1210@gmail.com
+
+166/2A, Hiep Thanh Ward,
+District 12, Ho Chi Minh City
+
+https://www.facebook.com/d
+ucnha12
+SKILLS
+Teamwork
+Logical thinking and creative
+English
+Java
+Python
+Machine Learning
+INTERESTS
+Movie
+Music
+Traveling
+Pham Hoang Duc Nha
+Pham Hoang Duc Nha
+AI & DATA SCIENCE ENGINEER
+Pham Son Tung
+Global Cybersoft  Senior Embedded Software Engineer
+Email: tungps@gcsvn.com
+Phone: 097-720-5453
+ References

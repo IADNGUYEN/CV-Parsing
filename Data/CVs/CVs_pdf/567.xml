@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="18" family="EAAAAA+ArialUnicodeMS" color="#000000"/>
+	<fontspec id="1" size="19" family="EAAAAA+ArialUnicodeMS" color="#e1e8ed"/>
+	<fontspec id="2" size="15" family="EAAAAA+ArialUnicodeMS" color="#ffffff"/>
+	<fontspec id="3" size="15" family="EAAAAA+ArialUnicodeMS" color="#a8b0b5"/>
+	<fontspec id="4" size="16" family="EAAAAA+ArialUnicodeMS" color="#ffffff"/>
+	<fontspec id="5" size="16" family="EAAAAA+ArialUnicodeMS" color="#a8b0b5"/>
+	<fontspec id="6" size="39" family="EAAAAA+ArialUnicodeMS" color="#181818"/>
+	<fontspec id="7" size="18" family="EAAAAA+ArialUnicodeMS" color="#181818"/>
+	<fontspec id="8" size="23" family="EAAAAA+ArialUnicodeMS" color="#181818"/>
+	<fontspec id="9" size="15" family="EAAAAA+ArialUnicodeMS" color="#181818"/>
+	<fontspec id="10" size="13" family="EAAAAA+ArialUnicodeMS" color="#000000"/>
+<text top="-2" left="0" width="5" height="25" font="0"> </text>
+<text top="-2" left="608" width="5" height="25" font="0"> </text>
+<text top="61" left="32" width="67" height="27" font="1">Contact</text>
+<text top="94" left="32" width="246" height="22" font="2">262/2B Le Van Sy Street, Ward 14,</text>
+<text top="113" left="32" width="188" height="22" font="2">District 3, Ho Chi Minh City</text>
+<text top="132" left="32" width="106" height="22" font="2">+84858533839</text>
+<text top="132" left="138" width="61" height="22" font="3"> (Mobile)</text>
+<text top="151" left="32" width="200" height="22" font="2"><a href="mailto:khacquang.trinh@gmail.com">khacquang.trinh@gmail.com</a></text>
+<text top="187" left="32" width="243" height="23" font="4"><a href="https://www.linkedin.com/in/quang-trinh-khac-66476517b?jobid=1234&amp;lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BOV5hIOftRFemQZbfKBTEMA%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile">www.linkedin.com/in/quang-trinh-</a></text>
+<text top="208" left="32" width="123" height="23" font="4"><a href="https://www.linkedin.com/in/quang-trinh-khac-66476517b?jobid=1234&amp;lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BOV5hIOftRFemQZbfKBTEMA%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile">khac-66476517b</a></text>
+<text top="208" left="155" width="78" height="23" font="5"><a href="https://www.linkedin.com/in/quang-trinh-khac-66476517b?jobid=1234&amp;lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BOV5hIOftRFemQZbfKBTEMA%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile"> (LinkedIn)</a></text>
+<text top="229" left="32" width="208" height="23" font="4"><a href="https://tkhquang.github.io/personal-portfolio/">tkhquang.github.io/personal-</a></text>
+<text top="248" left="32" width="63" height="23" font="4"><a href="https://tkhquang.github.io/personal-portfolio/">portfolio/</a></text>
+<text top="248" left="96" width="76" height="23" font="5"><a href="https://tkhquang.github.io/personal-portfolio/"> (Portfolio)</a></text>
+<text top="268" left="32" width="178" height="23" font="4"><a href="https://www.freecodecamp.org/fcc6b7548be-1204-45a1-9ef0-f5cf14fbafe9">www.freecodecamp.org/</a></text>
+<text top="287" left="32" width="222" height="23" font="4"><a href="https://www.freecodecamp.org/fcc6b7548be-1204-45a1-9ef0-f5cf14fbafe9">fcc6b7548be-1204-45a1-9ef0-</a></text>
+<text top="307" left="32" width="91" height="23" font="4"><a href="https://www.freecodecamp.org/fcc6b7548be-1204-45a1-9ef0-f5cf14fbafe9">f5cf14fbafe9</a></text>
+<text top="307" left="123" width="57" height="23" font="5"><a href="https://www.freecodecamp.org/fcc6b7548be-1204-45a1-9ef0-f5cf14fbafe9"> (Other)</a></text>
+<text top="327" left="32" width="153" height="23" font="4"><a href="https://github.com/tkhquang">github.com/tkhquang</a></text>
+<text top="327" left="186" width="57" height="23" font="5"><a href="https://github.com/tkhquang"> (Other)</a></text>
+<text top="376" left="32" width="84" height="27" font="1">Top Skills</text>
+<text top="409" left="32" width="57" height="22" font="2">React.js</text>
+<text top="435" left="32" width="73" height="22" font="2">JavaScript</text>
+<text top="462" left="32" width="52" height="22" font="2">HTML5</text>
+<text top="57" left="335" width="316" height="54" font="6">Quang Trinh Khac</text>
+<text top="111" left="335" width="166" height="25" font="7">Front End Developer</text>
+<text top="163" left="335" width="101" height="33" font="8">Summary</text>
+<text top="207" left="335" width="503" height="25" font="7">I've always wanted to become a web developer. So, I started at</text>
+<text top="234" left="335" width="521" height="25" font="7">FreeCodeCamp and learned a lot of wonderful things. Currently, I</text>
+<text top="261" left="335" width="535" height="25" font="7">have a good understanding of web development and work well with</text>
+<text top="288" left="335" width="544" height="25" font="7">HTML5, CSS3, JavaScript. I also have experiences with Reactjs, I'm</text>
+<text top="315" left="335" width="527" height="25" font="7">always looking for chances to challenge myself as well as improve</text>
+<text top="342" left="335" width="73" height="25" font="7">my skills.</text>
+<text top="417" left="335" width="105" height="33" font="8">Education</text>
+<text top="461" left="335" width="122" height="25" font="7">freeCodeCamp</text>
+<text top="490" left="335" width="536" height="22" font="9">Front End Web Development Certification, Computer Science · (2018 - 2019)</text>
+<text top="538" left="335" width="292" height="25" font="7">University of Information Technology</text>
+<text top="567" left="335" width="378" height="22" font="9">Bachelor's degree, Information System · (2015 - 2017)</text>
+<text top="1152" left="0" width="5" height="25" font="0"> </text>
+<text top="1153" left="576" width="69" height="19" font="10">Page 1 of 1</text>
+</page>
+</pdf2xml>

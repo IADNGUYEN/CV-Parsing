@@ -1,0 +1,104 @@
+BACHKHOA UNIVERSITY
+JUN 2013  NOV 2018
+COMPANY: 3STONE CO.LTD
+JUNE 2017  AUG 2017
+COMPANY: XTEK CO.LTD
+DEC 2017  AUGUST 2018
+Object detection 
+Using YOLO (Convolution Neural Network) to detect person then use
+Face recognition and Deep Sort to track.
+AUGUST 2018 
+PRESENT
+Classifying MNIST Digits Using Logistics Regression.
+Applying logistics regression to MNIST digits classifying.
+MARCH 2018 
+APRIL 2018
+Wireless Sensor Network
+Modifying the free ZigBee Stack for the MRF24J40MA module  to
+remote control devices and display data on Web-Server.
+Building the Wireless Network  architecture like Star topology with
+Master/Slave protocol.
+FEBRUARY 2017  JANUARY 2018
+DC-DC boot buck converter with PID controller
+2016
+ Education
+Major: Control and Automation
+GPA: 7.67/10                                                                                          GRADUATION THESIS: 8.5/10
+ Bachelor Thesis
+Title: Automatic watering system 
+Supervisors: Assoc. Prof. Dr. HO PHAM HUY ANH 
+Description: The design and implementation of a low-cost system for monitoring and remote
+control of a greenhouse using fuzzy logic. For the control system a website was designed to
+visualize the main indicators such as nutrient, temperature, relative humidity, soil moisture
+and light level...The system was controlled and monitored by the webserver. The webserver
+was programmed with a fuzzy algorithm by Node-RED to monitor and perform control actions
+for soil moisture and nutrient.  For connectivity to the webpage, an ESP8266 Wemos  was
+used and the local area network was established with Lora wireless technology for data
+transmission. Thus, it was possible to establish a local area network, monitor and control the 
+greenhouse climate variables manually or automatically. The application designed allowed
+access to the configuration, monitoring, and control of climatic conditions in the greenhouse.
+Thus, the use of resources for a gable roof greenhouse prototype was optimized.
+ Working Experience
+POSITION: Embedded Software Engineer (Internship)                                                                
+RESPONSIBILITY: Researching environment monitoring project and exchange data with
+company’s server using Raspberry Pi 3, Arduino and some sensor to collect data with Python,
+C++ and SQL Programming.
+POSITION: Embedded Software Engineer (Developer)                                                                
+RESPONSIBILITY: Automatic system for Green House, Automatic Fire Alarm, automatic
+dosing nutrient for Hydroponic System.
+ Research Experience
+ Born on Jan, 18, 1995, in Ho
+Chi Minh city, Viet Nam
+ Male
+ (+84)355488193
+ hoanglocbk2216@gmail.com
+
+Ho Chi Minh, Vietnam
+FIELD OF INTERESTS
+Image Processing
+Pattern Recognition
+Deep Learning
+Intelligent control
+Identification & Control of 
+Nonlinear Systems
+Thai Hoang Loc
+Thai Hoang Loc
+CURRICULUM VITAE
+Simulation DC-DC converter with Matlab Simulink and design
+PCB  circuit.
+Design the chicken incubator
+Using PID controler for control temperature  and ON-OFF controller
+for relative humidity.
+2015
+LANGUAGES PROGRAMMING:
+Understanding and using programming languages: 
++C/ C++ 
++Python 
++Matlab 
+Modeling: Matlab Simulink.
+Open Liabraries: Open CV, Tensorflow.
+ENGLISH :
++ Reading, can understand a wider variety of texts on topics of personal or professional 
+interest that may consist of some specialized language.
++ Listening, can understand a conversation or a lecture with moderate speed.
++ Writing, can express ideas with simple sentences.
++ Speaking, can communicate in routine situations which requiring a simple and
+directexchange of information on familiar topics and activities.
+SELF-LEARNING
+OCTOBER 2017 
+PRESENT
+MEMBERS OF " STUDENTS ANDYOUTH" ORGANIZATIONS
+JAN 2014  PRESENT
+VIETNAMESE STUDENTS’ ASSOCIATION
+JUN 2014  JULY 2014
+40 years of Control & Automation Robot contest(2nd)                       
+Programming Line Follower Robot for 40 th year of Control &
+AutomationContest using ARM Controller.
+2016
+ PERSONAL SKILLS
+ Activities  Machine Learning by Prof. Andrew Ng on coursera.org.  Tensorflow for Deep Learning Research by Stanford University on http://web.stanford.edu.  Convolution Neural Network by Stanford University on youtube.com.
+"Students and youth" groups have over 4000 members.  Attend charity blood donation. 
+Attend volunteers in nursing homes, help the elderly...
+Green Summer Volunteer Campaign.
+ Honors & Awards
+© topcv.vn

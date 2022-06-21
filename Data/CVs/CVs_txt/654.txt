@@ -1,0 +1,70 @@
+Soccer
+Traveling
+Listen to music
+Watching movie
+I am a university student majoring in
+Computer Science. Currently, I am looking
+for an internship opportunity in the field of
+Front-end and Back-end. I consider this a
+great opportunity for me to have more
+knowledge and experience in the real
+working environment as well as to improve
+my skills in my work.  I have already finished about thinking
+proramming and OOP couse for JAVA
+programming in cybersoft academy center.  I have been learning front-end course 
+about html, css, bootstrap 4, SASS,
+JavaScript, AnglarJS, ReactJS in
+CyberSoft center.The course is expected to
+end in early December, 2019
+University of Greenwich VN (Oct 2015 > Now)
+Major: Computer Science
+Undergraduate student
+Employee manager project [Course project] (June 2019 > July
+2019)
+Technology: JAVA, OOP
+Software: Eclipse  This is a employee management sytem for a company  the user can add new employee, delete employee,  display list of the
+employee, calculating for salary for each position of employee  Result: The application does not errors and all functionalities meet
+their purpose.
+Layout VUS home page [Excerse practice] (15 June, 2019 > 25  june, 2019)
+Techonology: HTML, CSS
+Software: Visual Studio Code  Must design home page of VUS similar to Home page Explame
+ABCosmetics online shop [School project] ((Feb 2017 > May
+2017)
+Technology: C#, ASP.NET
+Software: Visual Studio 2016, SQL Server 2014
+Description:  This is an application created with win form in .NET  Customer can view products and create orders  Admin can assign status to the orders or cancel it
+Result: The application runs smoothly on all tested devices. All
+functionalitiesrun without any error
+Student Management System [School project] (May 2016 >
+Oct 2016)
+Technology: JAVA, OOP
+Software: EclipseDescription: This is a student management system.
+Trương Tăng Quang
+Intership For Front-End & Back-End
+Oct 25, 1997
+
+
+Male
+
+
+0799759531
+
+
+truongtangquang1997@gmail.com
+
+
+TP. Hồ Chí Minh, Vietnam
+
+https://www.facebook.com/quang.truo
+ngtang
+
+
+OBJECTIVE
+ADDITIONAL
+INFORMATION
+INTERESTS
+EDUCATION
+WORK EXPERIENCE This is a student management system. The user can choose to add, view, delete, edit students or
+lecturers.Result: The application does not errors and all functionalities
+meet theirpurpose.
+© topcv.vn

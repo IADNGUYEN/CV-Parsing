@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="16" family="Muli" color="#000000"/>
+	<fontspec id="1" size="16" family="Muli-Light" color="#4f4f4f"/>
+	<fontspec id="2" size="16" family="Muli-Light" color="#000000"/>
+	<fontspec id="3" size="23" family="Muli" color="#4f4f4f"/>
+	<fontspec id="4" size="43" family="Muli" color="#ffffff"/>
+	<fontspec id="5" size="23" family="Muli-Light" color="#ffffff"/>
+	<fontspec id="6" size="16" family="Muli-Light" color="#ffffff"/>
+	<fontspec id="7" size="12" family="ArialMT" color="#999999"/>
+<text top="484" left="35" width="220" height="20" font="0"><b>BLOCKCHAIN RESEARCH IN</b></text>
+<text top="506" left="35" width="137" height="20" font="0"><b>INSECLAB AT UIT</b></text>
+<text top="534" left="35" width="156" height="20" font="1">JUL 2018 - PRESENT</text>
+<text top="484" left="348" width="109" height="20" font="0"><b>RESEARCHER</b></text>
+<text top="512" left="348" width="152" height="20" font="1">Main responsibilities:</text>
+<text top="534" left="348" width="479" height="20" font="1">- Researching about Blockchain architecture and deploying smart</text>
+<text top="556" left="348" width="215" height="20" font="1">contract on remix IDE, Truffle.</text>
+<text top="577" left="348" width="516" height="20" font="1">- Deploying File Manager Dapp system using Uport, Oraclize, IPFS and</text>
+<text top="599" left="348" width="54" height="20" font="1">Reactjs</text>
+<text top="621" left="348" width="408" height="20" font="1">GitHub: https://github.com/haiktvn1/File-Manager-Dapp</text>
+<text top="731" left="35" width="242" height="20" font="0"><b>UNIVERSITY OF INFORMATION</b></text>
+<text top="753" left="35" width="112" height="20" font="0"><b>TECHNOLOGY</b></text>
+<text top="780" left="35" width="170" height="20" font="1">OCT 2015 - MAY 2020</text>
+<text top="731" left="348" width="348" height="20" font="0"><b>MAJOR: INFORMATION SECURITY ENGINEER</b></text>
+<text top="758" left="348" width="98" height="20" font="1">GPA: 7.54/10</text>
+<text top="890" left="35" width="39" height="20" font="2">2018</text>
+<text top="890" left="348" width="302" height="20" font="2">CCNA Certificate by NEO Training Center</text>
+<text top="964" left="35" width="126" height="29" font="3"><b>INTERESTS</b></text>
+<text top="1017" left="58" width="42" height="20" font="2">Music</text>
+<text top="1056" left="58" width="60" height="20" font="2">Hacking</text>
+<text top="1095" left="58" width="58" height="20" font="2">Gaming</text>
+<text top="1134" left="58" width="78" height="20" font="2">Swimming</text>
+<text top="964" left="338" width="77" height="29" font="3"><b>SKILLS</b></text>
+<text top="1017" left="338" width="53" height="20" font="2">Solidity</text>
+<text top="1059" left="338" width="30" height="20" font="2">C++</text>
+<text top="1102" left="338" width="85" height="20" font="2">Networking</text>
+<text top="278" left="35" width="123" height="29" font="3"><b>OBJECTIVE</b></text>
+<text top="331" left="35" width="769" height="20" font="2">My short term goals are improving knowledge and skills in Blockchain, after that build a real project to get</text>
+<text top="353" left="35" width="336" height="20" font="2">experience and make it better in next projects.</text>
+<text top="375" left="35" width="605" height="20" font="2">My long term goal is to learn and research to become an expert in Blockchain Tech.</text>
+<text top="431" left="35" width="223" height="29" font="3"><b>WORK EXPERIENCE</b></text>
+<text top="678" left="35" width="138" height="29" font="3"><b>EDUCATION</b></text>
+<text top="837" left="35" width="190" height="29" font="3"><b>CERTIFICATIONS</b></text>
+<text top="39" left="325" width="398" height="55" font="4"><b>Nguyễn Hoàng Hải</b></text>
+<text top="94" left="331" width="198" height="29" font="5">Blockchain Fresher</text>
+<text top="177" left="40" width="159" height="20" font="6">Ho Chi Minh, Vietnam</text>
+<text top="177" left="424" width="170" height="20" font="6">hainh9939@gmail.com</text>
+<text top="177" left="754" width="106" height="20" font="6">01672598218</text>
+<text top="1227" left="807" width="60" height="14" font="7">© topcv.vn</text>
+</page>
+</pdf2xml>

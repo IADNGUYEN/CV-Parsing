@@ -1,0 +1,53 @@
+Soccer
+Technology
+Music
+Animal
+Lê Đạt
+Fresher IoT Engineer
+Computer Skill
+Web Develop (HTML, CSS, PHP)
+C Programming
+English
+Teamwork
+09/2014  09/2018
+HCMC University of Technology and Education
+Major: Industrial Electronic
+GPA: 7.73/10
+Sept 2014  July 2018
+HCMUTE  Electronic Project 1
+DC Motor Speed Control using PWM and ADC with     
+PIC16F887 Microcontroller  Electronic Project 2
+Fingerprint attendance system by using Arduino  Final Project
+I'm making a graduate project with my partner. It's an
+IoT project which called Supermarket Control System.
+System consist of managing employees by using
+Fingerprint attendance system, controlling Ventilation
+and Air Conditioning, tracking product’s status,
+supermarket’s temperature and humandity on website
+and fire alarm system by using module SIM.    
+TOEIC Certificate with score 545 issued by IEG from my
+University
+03/2018
+Four scholarships from University and one Special
+scholarships from Falcuty
+2014-2017  Using Altium, Proteus,.. design PCB layout  C, C#, HDL programing.  Basic web develop 
+July 11, 1996
+
+Male
+
+0932094731
+
+ledat11071996@gmail.com
+
+43, Đường 475, Tổ 10, Phường Phước Long B,
+Q9,TPHCM
+
+© topcv.vn
+CONTACT INFORMATION
+SKILLS
+INTERESTS
+EDUCATION
+ACTIVITIES
+CERTIFICATIONS
+ACHIEVEMENTS & AWARDS
+BASIC KNOWLEDGE

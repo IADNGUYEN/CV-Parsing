@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="16" family="ArialMT" color="#002d36"/>
+	<fontspec id="1" size="16" family="BCDEEE+Calibri" color="#002d36"/>
+	<fontspec id="2" size="21" family="BCDFEE+Calibri" color="#ffffff"/>
+	<fontspec id="3" size="21" family="BCDGEE+Calibri" color="#002d36"/>
+	<fontspec id="4" size="23" family="BCDFEE+Calibri" color="#000000"/>
+	<fontspec id="5" size="16" family="BCDFEE+Calibri" color="#002d36"/>
+	<fontspec id="6" size="10" family="BCDEEE+Calibri" color="#002d36"/>
+	<fontspec id="7" size="16" family="SymbolMT" color="#ff0000"/>
+	<fontspec id="8" size="16" family="ArialMT" color="#ff0000"/>
+	<fontspec id="9" size="16" family="BCDEEE+Calibri" color="#000000"/>
+	<fontspec id="10" size="14" family="BCDFEE+Calibri" color="#000000"/>
+	<fontspec id="11" size="16" family="BCDFEE+Calibri" color="#ffffff"/>
+<text top="61" left="86" width="5" height="15" font="0"> </text>
+<text top="1186" left="86" width="5" height="15" font="0"> </text>
+<text top="116" left="86" width="4" height="17" font="1"> </text>
+<text top="156" left="95" width="55" height="21" font="2"><b>NAME</b></text>
+<text top="159" left="150" width="4" height="17" font="1"> </text>
+<text top="156" left="256" width="135" height="21" font="3"><b>Phan Hồng Đức</b></text>
+<text top="159" left="391" width="4" height="17" font="1"> </text>
+<text top="202" left="95" width="83" height="21" font="2"><b>JOB TITLE</b></text>
+<text top="205" left="178" width="4" height="17" font="1"> </text>
+<text top="201" left="256" width="286" height="24" font="4"><b>Machine Learning Developer</b></text>
+<text top="206" left="542" width="4" height="17" font="1"> </text>
+<text top="243" left="167" width="4" height="17" font="1"> </text>
+<text top="243" left="248" width="4" height="17" font="1"> </text>
+<text top="243" left="829" width="4" height="17" font="1"> </text>
+<text top="277" left="95" width="4" height="17" font="1"> </text>
+<text top="311" left="95" width="60" height="17" font="5"><b>Personal</b></text>
+<text top="311" left="154" width="4" height="17" font="1"> </text>
+<text top="341" left="122" width="110" height="17" font="1">Date of birth: 11</text>
+<text top="339" left="232" width="8" height="10" font="6">st</text>
+<text top="341" left="239" width="114" height="17" font="1"> December 1996 </text>
+<text top="370" left="122" width="96" height="17" font="1">Gender: Male </text>
+<text top="399" left="122" width="51" height="17" font="1">Phone: </text>
+<text top="399" left="172" width="91" height="17" font="5"><b>0966 642 912</b></text>
+<text top="399" left="264" width="4" height="17" font="1"> </text>
+<text top="428" left="122" width="45" height="17" font="1">Email: </text>
+<text top="428" left="167" width="208" height="17" font="5"><b>hongducphan912@gmail.com </b></text>
+<text top="457" left="95" width="135" height="17" font="5"><b>Personal Statement</b></text>
+<text top="457" left="230" width="4" height="17" font="1"> </text>
+<text top="483" left="122" width="8" height="20" font="7">•</text>
+<text top="488" left="129" width="5" height="15" font="8"> </text>
+<text top="487" left="147" width="40" height="17" font="9">Single</text>
+<text top="489" left="187" width="3" height="15" font="10"><b> </b></text>
+<text top="517" left="167" width="4" height="17" font="1"> </text>
+<text top="517" left="248" width="4" height="17" font="1"> </text>
+<text top="517" left="829" width="4" height="17" font="1"> </text>
+<text top="553" left="95" width="130" height="21" font="2"><b>Technical Skills</b></text>
+<text top="556" left="225" width="4" height="17" font="1"> </text>
+<text top="596" left="95" width="19" height="17" font="11"><b>OS</b></text>
+<text top="596" left="113" width="4" height="17" font="1"> </text>
+<text top="596" left="256" width="126" height="17" font="1">Windows, Mac OS </text>
+<text top="650" left="95" width="72" height="17" font="11"><b>Languages</b></text>
+<text top="650" left="166" width="4" height="17" font="1"> </text>
+<text top="635" left="256" width="260" height="17" font="1">Swift, Java, SQL, HTML, CSS, Javascript </text>
+<text top="664" left="256" width="246" height="17" font="1">Python, NumPy, Scikit-learn, Pandas </text>
+<text top="704" left="95" width="71" height="17" font="11"><b>Databases</b></text>
+<text top="704" left="165" width="4" height="17" font="1"> </text>
+<text top="704" left="256" width="247" height="17" font="1">Oracle MySQL, Microsoft SQL Server </text>
+<text top="743" left="95" width="123" height="17" font="11"><b>Methodologies &amp; </b></text>
+<text top="763" left="95" width="37" height="17" font="11"><b>Tools</b></text>
+<text top="763" left="131" width="4" height="17" font="1"> </text>
+<text top="753" left="256" width="389" height="17" font="1">OOP, Eclipse, Sublime Text, XCode, Jupyter Notebook, Git </text>
+<text top="798" left="86" width="4" height="17" font="1"> </text>
+<text top="798" left="829" width="4" height="17" font="1"> </text>
+<text top="833" left="95" width="432" height="21" font="2"><b>Education, Qualifications &amp; Special Achievements</b></text>
+<text top="836" left="526" width="4" height="17" font="1"> </text>
+<text top="872" left="95" width="71" height="17" font="1">University </text>
+<text top="872" left="256" width="99" height="17" font="1">FPT University </text>
+<text top="901" left="256" width="69" height="17" font="1">Final year </text>
+<text top="935" left="86" width="4" height="17" font="1"> </text>
+<text top="964" left="86" width="4" height="17" font="1"> </text>
+<text top="994" left="86" width="4" height="17" font="1"> </text>
+<text top="1023" left="86" width="4" height="17" font="1"> </text>
+<text top="1052" left="86" width="4" height="17" font="1"> </text>
+<text top="1081" left="86" width="4" height="17" font="1"> </text>
+<text top="1110" left="86" width="4" height="17" font="1"> </text>
+<text top="935" left="248" width="4" height="17" font="1"> </text>
+<text top="935" left="829" width="4" height="17" font="1"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="12" size="16" family="BCDEEE+Calibri" color="#ff0000"/>
+	<fontspec id="13" size="16" family="SymbolMT" color="#002d36"/>
+	<fontspec id="14" size="16" family="BCDHEE+CourierNewPSMT" color="#002d36"/>
+<text top="61" left="86" width="5" height="15" font="0"> </text>
+<text top="1158" left="86" width="5" height="15" font="0"> </text>
+<text top="1186" left="86" width="5" height="15" font="0"> </text>
+<text top="854" left="86" width="4" height="17" font="1"> </text>
+<text top="874" left="86" width="4" height="17" font="1"> </text>
+<text top="112" left="86" width="4" height="17" font="1"> </text>
+<text top="147" left="95" width="201" height="21" font="2"><b>RECENT ASSIGNMENTS</b></text>
+<text top="151" left="295" width="4" height="17" font="1"> </text>
+<text top="183" left="86" width="5" height="21" font="2"><b> </b></text>
+<text top="207" left="86" width="4" height="17" font="1"> </text>
+<text top="182" left="248" width="4" height="17" font="1"> </text>
+<text top="186" left="829" width="4" height="17" font="1"> </text>
+<text top="233" left="95" width="49" height="17" font="11"><b>Project</b></text>
+<text top="233" left="143" width="4" height="17" font="1"> </text>
+<text top="231" left="256" width="495" height="17" font="5"><b>Interior Furniture Augmented Reality System for Online Shopping (ifAR) </b></text>
+<text top="267" left="95" width="56" height="17" font="11"><b>Position</b></text>
+<text top="267" left="150" width="4" height="17" font="1"> </text>
+<text top="265" left="256" width="73" height="17" font="1">Developer </text>
+<text top="302" left="95" width="131" height="17" font="11"><b>Project Description</b></text>
+<text top="302" left="225" width="4" height="17" font="1"> </text>
+<text top="297" left="256" width="29" height="17" font="5"><b>ifAR</b></text>
+<text top="297" left="284" width="4" height="17" font="1"> </text>
+<text top="297" left="288" width="34" height="17" font="9">is an </text>
+<text top="297" left="323" width="236" height="17" font="1">augmented reality application that </text>
+<text top="297" left="559" width="241" height="17" font="9">allows users to superimpose virtual </text>
+<text top="317" left="256" width="545" height="17" font="9">real-world objects into human vision in real-world environment via smartphones.</text>
+<text top="317" left="800" width="4" height="17" font="12"> </text>
+<text top="337" left="256" width="503" height="17" font="9">Users have ability to scan, upload and contemplate interior furniture using </text>
+<text top="358" left="256" width="483" height="17" font="9">smartphone. We also establish an Interior Furniture Augmented Reality </text>
+<text top="378" left="256" width="526" height="17" font="9">Marketplace for Online Shopping, so that everyone can trade products online, </text>
+<text top="398" left="256" width="476" height="17" font="9">contemplate products in real-world environment through smartphone.</text>
+<text top="398" left="731" width="4" height="17" font="1"> </text>
+<text top="432" left="95" width="122" height="17" font="11"><b>My Responsibility</b></text>
+<text top="432" left="216" width="4" height="17" font="1"> </text>
+<text top="428" left="256" width="180" height="17" font="1">I done the following tasks: </text>
+<text top="454" left="275" width="8" height="20" font="13">•</text>
+<text top="458" left="283" width="5" height="15" font="0"> </text>
+<text top="458" left="310" width="193" height="17" font="1">Design the UI of application. </text>
+<text top="484" left="275" width="8" height="20" font="13">•</text>
+<text top="488" left="283" width="5" height="15" font="0"> </text>
+<text top="488" left="310" width="210" height="17" font="1">Work with Augmented Reality. </text>
+<text top="514" left="275" width="8" height="20" font="13">•</text>
+<text top="518" left="283" width="5" height="15" font="0"> </text>
+<text top="518" left="310" width="257" height="17" font="1">Work with Braintree PayPal checkout. </text>
+<text top="544" left="275" width="8" height="20" font="13">•</text>
+<text top="548" left="283" width="5" height="15" font="0"> </text>
+<text top="548" left="310" width="143" height="17" font="1">Work with database. </text>
+<text top="582" left="95" width="79" height="17" font="11"><b>Technology</b></text>
+<text top="582" left="173" width="4" height="17" font="1"> </text>
+<text top="574" left="275" width="8" height="20" font="13">•</text>
+<text top="579" left="283" width="5" height="15" font="0"> </text>
+<text top="579" left="310" width="73" height="17" font="1">XCode IDE </text>
+<text top="604" left="275" width="8" height="20" font="13">•</text>
+<text top="609" left="283" width="5" height="15" font="0"> </text>
+<text top="609" left="310" width="159" height="17" font="1">CocoaPods framework: </text>
+<text top="636" left="315" width="10" height="17" font="14">o</text>
+<text top="638" left="325" width="5" height="15" font="0"> </text>
+<text top="638" left="342" width="70" height="17" font="1">Alamofire </text>
+<text top="666" left="315" width="10" height="17" font="14">o</text>
+<text top="668" left="325" width="5" height="15" font="0"> </text>
+<text top="667" left="342" width="79" height="17" font="1">SwiftyJSON </text>
+<text top="695" left="315" width="10" height="17" font="14">o</text>
+<text top="697" left="325" width="5" height="15" font="0"> </text>
+<text top="696" left="342" width="102" height="17" font="1">BSImagePicker </text>
+<text top="724" left="315" width="10" height="17" font="14">o</text>
+<text top="726" left="325" width="5" height="15" font="0"> </text>
+<text top="725" left="342" width="112" height="17" font="1">BraintreeDropin </text>
+<text top="751" left="275" width="8" height="20" font="13">•</text>
+<text top="756" left="283" width="5" height="15" font="0"> </text>
+<text top="755" left="310" width="81" height="17" font="1">UIKit, ARKit </text>
+<text top="781" left="275" width="8" height="20" font="13">•</text>
+<text top="786" left="283" width="5" height="15" font="0"> </text>
+<text top="785" left="310" width="103" height="17" font="1">Git (GitKraken) </text>
+<text top="815" left="86" width="4" height="17" font="5"><b> </b></text>
+<text top="815" left="228" width="4" height="17" font="1"> </text>
+<text top="820" left="829" width="4" height="17" font="1"> </text>
+</page>
+</pdf2xml>

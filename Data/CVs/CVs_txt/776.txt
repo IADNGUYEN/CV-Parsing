@@ -1,0 +1,44 @@
+ 
+OLIVER P. SCHWARTZ 
+oliver.p.schwartz@gmail.com​ | 2314 Frist Center, Princeton NJ, 08544 | (650) 880-5752 | ​https://bit.ly/2f3ifm9  
+EDUCATION 
+Princeton University ​(Princeton, NJ)  
+September 2017 – June 2021 
+B.S.E. Candidate in Computer Science 
+2017-18 Academic Distinction (GPA 4.00) 
+Shapiro Prize for Academic Excellence (2018) 
+Sydney Grammar School ​(Sydney, Australia)  
+February 2011 – November 2016 
+Higher School Certificate 
+NSW Distinguished Achievers List, NSW All-Rounders List 
+99.80 Australian Tertiary Admissions Ranking (of a maximum 99.95, i.e. top 100 of over 77,000 candidates) 
+Full Academic Scholarship (2011-2016) 
+Arthur Giles Memorial Prize awarded for academic and sporting success 
+Old Sydneian’s Memorial Prize for general achievement 
+EXPERIENCE 
+Talent 100 ​(NSW, Australia)
+December 2016 – August 2017 
+Mentor/Tutor 
+Classroom teacher and 1-on-1 tutor. Taught in HSC-level Maths, Chemistry, and Physics 
+Configured and customized Canvas (an online learning management platform) 
+Lincoln Institute​ (NSW, Australia)
+June 2017 – Present 
+Software Engineer 
+Parsing mass invoice data with Python scripting 
+Automating creation of visuals using Plot.ly 
+Extensive integration with Bridge LMS API. Deployment and automation of enrolment scripts using AWS Lambda and 
+S3. Reverse engineering of an API with no documentation using Chrome Developer Tools. 
+EXTRA CURRICULAR ACTIVITIES 
+Princeton University ​(Princeton, NJ) 
+Heavyweight Rowing Team (2017-present)
+Center for Information Technology Policy (CITP) research contributor: configuration and testing of Internet of Things 
+(IoT) devices for vulnerabilities 
+Sydney Grammar School ​(Sydney, Australia) 
+Chemistry & Maths Olympiad Programs  Distinction Award 
+Rowing: 1st VIII (vice-captain) 
+Rugby: 1st XV 
+SKILLS AND INTERESTS 
+Programming and Systems Proficiency:​ Java, C, Python, Bash, Linux, Verilog, AWS, GitHub 
+Relevant Coursework: ​Algorithms & Data Structures, Programming Systems, Electronic Circuit Design, Logic Design,  
+Linear Algebra, Multivariable Calculus, General Physics I & II 
+Language Fluency: ​English & Slovak (native fluency) 

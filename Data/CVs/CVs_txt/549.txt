@@ -1,0 +1,162 @@
+ 
+Position applied for:___Developer PHP____ 
+Working time: Full time 
+Part time 
+PERSONAL INFORMATION   
+Full name: 
+(incl. diacritic)   Trần Nam Trung 
+Male 
+Female 
+Date of birth:  08/04/1991 
+Address:  Ấp 4, La Ngà, Định Quán, Đồng Nai 
+Phone: 0166 46 46 018 
+Email: namtrung804@gmail.com 
+Website: http://www.namtrung-cv.zz.mu/ or http://bit.ly/1kSFvob 
+Skype: namtrung804 
+CAREER OBJECTIVE   
+Improve knowledge, learn a lot of information, technology that was previously very 
+little to 
+work through. We 
+hope 
+to work 
+in 
+a modern 
+environment, healthy 
+competition and opportunities for advancement. Seeking an opportunity to work as 
+a functional developer towards professional growth and development in a renowned 
+organization. 
+EDUCATION   
+University 
+Department 
+Graduation year 
+Grade 
+University of Information 
+Technology 
+Information System 
+6/2014 
+Developer PHP 
+SKILLS 
+Skills 
+Year of experience 
+Rank 
+(1_begining, 5_expert) 
+Please circle one/ 
+Programming Languages 
+Database 
+My SQL 
+2.5 
+1   2   3   4    
+MongoDB 
+0.5 
+1   3   4  5 
+Framework 
+Phalcon 
+1.5 
+1   2   3  4    
+Zend Framework 2 
+1 
+1   2   3  4    
+Opencart 
+1 
+1   2   3   5 
+Frontend 
+HTML5/CSS3 
+2.5 
+1   2   3  4   
+Responsive Web 
+2.5 
+1   2   3   5 
+Jquery/Javascript 
+2.5 
+1   2   3  4   
+Others 
+Memcache 
+2 
+1   2   3   4    
+Session 
+2 
+1   2   3   5 
+SOAP 
+2 
+1   2   3   5 
+REST 
+2 
+1   2   3   4    
+Git and Subversion 
+1.5 
+1   2   3   4    
+Apache 
+2.5 
+1   2   3   4    
+UI/UX 
+1   2   3   5 
+Service Google / App 
+Facebook 
+1.5 
+1   2   3   4    
+Websocket 
+0.5 
+1   2    4   5 
+Extension Chrome 
+1 
+1   2   3   5 
+Scrum Agile 
+1 
+1   2    4   5 
+FOREIGN LANGUAGES 
+Please circle onet:   1_beginning 
+5_expert   
+Foreign languages 
+Listening 
+Speaking 
+Reading 
+Writing 
+English 
+1   2    4   5 
+1   2    4   5 
+1   2   3    5 
+1   2    4   5 
+EXPERIENCE    
+Company: YSDesigning 
+Address: Jurong West Street 61, block 565C, #4-010, Singapore 642656 
+Starting date:  02/2014 
+Finishing date: 05/2014 
+Job descriptions:  
+Convert PSD to HTML, CSS.  
+Responsive Web.  
+Code Web use CMS:Opencart, Prestashop 
+and Joomla. 
+Position:  PHP Developer 
+Role: Member 
+Company: Young World 
+Address: 1017/23 Lac Long Quan, Tan Binh district , HCMC 
+Starting date:  06/2014 
+Curent date 
+Job descriptions:  
+Zend and Phalcon Framework  
+Developer Marketing (Home , Landingpage , 
+Teaser,..)  
+API connect game ( API play game, 
+payment , get info, add item,...)  
+API Facebook , API Google , Extension 
+Chrome,... –  
+Events Game (Holiday, noel, promotion 
+game,...)-  
+Scrum Agile framework  
+Position:  PHP Developer 
+Role: Key Member 
+REFERENCES   
+If you are recruited, when can you start your work?____when there is agreement with 
+the company on assigned work______________________ 
+Salary expected:_______agreement 
+Negotiable? 
+   Yes  
+   No 
+Namtrung 
+______ Trần Nam Trung ________                    
+PORTFOLIO 
+Welcome to http://www.namtrung-cv.zz.mu/ or http://bit.ly/1kSFvob . This is my 
+portfolio website. Here, you can find more information about me. Thanks you. 
+HOBBIES    
+Soccer, Chess, Singing, Music, Picnic, and Read Detective Stories, Communicate with 
+everybody... 

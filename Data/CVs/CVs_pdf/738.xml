@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="13" family="BCDEEE+Calibri" color="#000000"/>
+	<fontspec id="1" size="13" family="BCDEEE+Calibri" color="#ffffff"/>
+	<fontspec id="2" size="13" family="BCDFEE+Calibri" color="#000000"/>
+	<fontspec id="3" size="13" family="BCDFEE+Calibri" color="#0462c1"/>
+	<fontspec id="4" size="13" family="SymbolMT" color="#000000"/>
+	<fontspec id="5" size="13" family="ArialMT" color="#000000"/>
+	<fontspec id="6" size="13" family="BCDGEE+Calibri" color="#000000"/>
+	<fontspec id="7" size="13" family="BCDHEE+Calibri" color="#000000"/>
+	<fontspec id="8" size="13" family="BCDFEE+Calibri" color="#ffff00"/>
+	<fontspec id="9" size="13" family="BCDIEE+Wingdings" color="#000000"/>
+	<fontspec id="10" size="13" family="BCDJEE+Calibri" color="#000000"/>
+	<fontspec id="11" size="13" family="BCDKEE+Calibri" color="#000000"/>
+<text top="8" left="68" width="3" height="16" font="0"><b> </b></text>
+<text top="24" left="68" width="3" height="16" font="0"><b> </b></text>
+<text top="41" left="68" width="47" height="16" font="0"><b>LY TRAN</b></text>
+<text top="41" left="115" width="7" height="16" font="1"><b>_</b></text>
+<text top="41" left="122" width="613" height="16" font="2">+84988245600        Email (preferred)<a href="mailto:ly.tran@fulbrightmail.org">: ly.tran@fulbrightmail.org </a>     Skype<a href="mailto:ly.tran@fulbrightmail.org">: ly.tran@fulbrightmail.org  </a>       Profil<a href="http://rpubs.com/lytran">e: </a></text>
+<text top="41" left="735" width="133" height="16" font="3"><a href="http://rpubs.com/lytran">http://rpubs.com/lytran</a></text>
+<text top="41" left="868" width="94" height="16" font="2"><a href="http://rpubs.com/lytran">         </a>                      </text>
+<text top="41" left="963" width="3" height="16" font="1"><b> </b></text>
+<text top="59" left="60" width="3" height="16" font="0"><b> </b></text>
+<text top="74" left="61" width="71" height="16" font="0"><b>EDUCATION </b></text>
+<text top="90" left="61" width="6" height="16" font="4">•</text>
+<text top="94" left="67" width="4" height="12" font="5"> </text>
+<text top="91" left="81" width="406" height="16" font="2">Bentley University, McCallum Graduate School of Business, Waltham, MA </text>
+<text top="108" left="81" width="222" height="16" font="0"><b>Master of Science in Business Analytics </b></text>
+<text top="108" left="324" width="3" height="16" font="0"><b> </b></text>
+<text top="108" left="378" width="3" height="16" font="0"><b> </b></text>
+<text top="108" left="432" width="3" height="16" font="0"><b> </b></text>
+<text top="108" left="486" width="3" height="16" font="0"><b> </b></text>
+<text top="108" left="540" width="3" height="16" font="0"><b> </b></text>
+<text top="108" left="594" width="3" height="16" font="0"><b> </b></text>
+<text top="108" left="648" width="3" height="16" font="0"><b> </b></text>
+<text top="108" left="702" width="3" height="16" font="2"> </text>
+<text top="126" left="81" width="302" height="16" font="0"><b>Master of Business Administration   -   Concentration: </b></text>
+<text top="126" left="383" width="102" height="16" font="6"><i><b>Business Analytics</b></i></text>
+<text top="126" left="485" width="4" height="16" font="2">  </text>
+<text top="126" left="540" width="3" height="16" font="2"> </text>
+<text top="126" left="594" width="3" height="16" font="2"> </text>
+<text top="126" left="648" width="70" height="16" font="2">                       </text>
+<text top="144" left="81" width="804" height="16" font="7"><i>Academic coursework: Data Modeling; Time Series Analysis; Quantitative Analysis for Business; Statistical Modeling for Business; Data Mining; Data-</i></text>
+<text top="162" left="81" width="340" height="16" font="7"><i>Driven Programming with Python; Optimization &amp; Simulation. </i></text>
+<text top="175" left="108" width="3" height="16" font="8"> </text>
+<text top="190" left="61" width="179" height="16" font="0"><b>TECHNICAL SKILLS &amp; STRENGTH </b></text>
+<text top="207" left="61" width="6" height="16" font="4">•</text>
+<text top="211" left="67" width="4" height="12" font="5"> </text>
+<text top="207" left="81" width="700" height="16" font="2">Data and visual modeling; analyzing data using R, Python, Oracle SQL, Excel, SPSS; managing database; reporting using Tableau. </text>
+<text top="224" left="61" width="6" height="16" font="4">•</text>
+<text top="228" left="67" width="4" height="12" font="5"> </text>
+<text top="225" left="81" width="806" height="16" font="2">Unsupervised and supervised machine learning algorithms; predictive models; hypothesis tests; estimation and confidence intervals; analysis of </text>
+<text top="241" left="81" width="309" height="16" font="2">variance; time series, mixed models, Bayesian methods. </text>
+<text top="255" left="60" width="3" height="16" font="2"> </text>
+<text top="270" left="61" width="150" height="16" font="0"><b>DATA ANALYSIS PROJECTS </b></text>
+<text top="286" left="61" width="55" height="16" font="2">Jun 2018: </text>
+<text top="286" left="116" width="131" height="16" font="0"><b>Early Adopters Analysis</b></text>
+<text top="286" left="248" width="3" height="16" font="2"> </text>
+<text top="303" left="61" width="11" height="15" font="9">➢</text>
+<text top="306" left="72" width="4" height="12" font="5"> </text>
+<text top="303" left="88" width="158" height="16" font="2">Assessed groups of high and </text>
+<text top="303" left="246" width="609" height="16" font="10">medium adopters and examined the change in using company’s products after each new product launch in the </text>
+<text top="319" left="88" width="42" height="16" font="2">market </text>
+<text top="336" left="61" width="11" height="15" font="9">➢</text>
+<text top="339" left="72" width="4" height="12" font="5"> </text>
+<text top="336" left="88" width="682" height="16" font="2">Recommended the list of clients in order of priorities who need to be reached by sales team before any new product launch </text>
+<text top="352" left="61" width="27" height="16" font="2">May </text>
+<text top="352" left="88" width="7" height="16" font="10">–</text>
+<text top="352" left="95" width="59" height="16" font="2"> Jun 2018: </text>
+<text top="352" left="153" width="208" height="16" font="0"><b>Prediction for New Product Adoption</b></text>
+<text top="352" left="362" width="3" height="16" font="2"> </text>
+<text top="369" left="61" width="11" height="15" font="9">➢</text>
+<text top="371" left="72" width="4" height="12" font="5"> </text>
+<text top="368" left="88" width="419" height="16" font="2">Examined adoption patterns of old version products in each group of clients </text>
+<text top="385" left="61" width="11" height="15" font="9">➢</text>
+<text top="388" left="72" width="4" height="12" font="5"> </text>
+<text top="385" left="88" width="624" height="16" font="2">Compared predicted and actual sales to find out extreme groups of clients that needed to be further investigated </text>
+<text top="402" left="61" width="11" height="15" font="9">➢</text>
+<text top="404" left="72" width="4" height="12" font="5"> </text>
+<text top="401" left="88" width="755" height="16" font="2">Provided insights about speakers who were hired and paid by company and competitors; suggested strategies to appropriately work with </text>
+<text top="418" left="88" width="73" height="16" font="2">stakeholders </text>
+<text top="434" left="61" width="72" height="16" font="2">March 2018: </text>
+<text top="434" left="133" width="267" height="16" font="0"><b>Loan Default Prediction and Email Classification</b></text>
+<text top="434" left="400" width="3" height="16" font="2"> </text>
+<text top="452" left="61" width="11" height="15" font="9">➢</text>
+<text top="454" left="72" width="4" height="12" font="5"> </text>
+<text top="451" left="88" width="699" height="16" font="2">Built a model to predict the probability of default based on the following variables: balance, income, occupation, marital status </text>
+<text top="468" left="61" width="11" height="15" font="9">➢</text>
+<text top="470" left="72" width="4" height="12" font="5"> </text>
+<text top="467" left="88" width="583" height="16" font="2">Predicted sales forecasts and trend of loan payments; recommended cut-off values for future investment  </text>
+<text top="485" left="61" width="11" height="15" font="9">➢</text>
+<text top="487" left="72" width="4" height="12" font="5"> </text>
+<text top="484" left="88" width="704" height="16" font="2">Used natural language process (NLP) to classify spam and regular emails. Built a model using Naïve Bayes to predict email types. </text>
+<text top="500" left="61" width="63" height="16" font="2">April 2018: </text>
+<text top="500" left="123" width="136" height="16" font="0"><b>Customer Segmentation</b></text>
+<text top="500" left="260" width="3" height="16" font="2"> </text>
+<text top="518" left="61" width="11" height="15" font="9">➢</text>
+<text top="520" left="72" width="4" height="12" font="5"> </text>
+<text top="517" left="88" width="577" height="16" font="2">Analyzed RFM for top 10 customers; Applied Pareto principle 80/20 to find the most valuable customers  </text>
+<text top="534" left="61" width="11" height="15" font="9">➢</text>
+<text top="536" left="72" width="4" height="12" font="5"> </text>
+<text top="533" left="88" width="666" height="16" font="2">Used clustering to segment customers to recommend for different treatments; Predicted repurchasing rate of customers </text>
+<text top="550" left="61" width="98" height="16" font="2">November 2017:  </text>
+<text top="567" left="61" width="11" height="15" font="9">➢</text>
+<text top="569" left="72" width="4" height="12" font="5"> </text>
+<text top="566" left="88" width="109" height="16" font="2">Built a model to pre</text>
+<text top="566" left="197" width="201" height="16" font="10">dict players’ salary during the 1986 –</text>
+<text top="566" left="398" width="240" height="16" font="2"> 1987 baseball season including diagnostics </text>
+<text top="584" left="61" width="11" height="15" font="9">➢</text>
+<text top="586" left="72" width="4" height="12" font="5"> </text>
+<text top="583" left="88" width="636" height="16" font="10">Designed and built a data structure based on Fitness center’s data needs; reported views developed in in Oracle SQL</text>
+<text top="583" left="725" width="3" height="16" font="2"> </text>
+<text top="599" left="61" width="75" height="16" font="2">August 2016: </text>
+<text top="599" left="136" width="161" height="16" font="0"><b>New York Citi Bike Program  </b></text>
+<text top="617" left="61" width="11" height="15" font="9">➢</text>
+<text top="619" left="72" width="4" height="12" font="5"> </text>
+<text top="616" left="88" width="301" height="16" font="2">Identified demographics and cycling habit of bike users</text>
+<text top="616" left="389" width="3" height="16" font="0"><b> </b></text>
+<text top="633" left="61" width="11" height="15" font="9">➢</text>
+<text top="635" left="72" width="4" height="12" font="5"> </text>
+<text top="632" left="88" width="705" height="16" font="2">Examined peak periods and the frequency of cycling activities; visualized locations where riders picked up and dropped off bikes </text>
+<text top="648" left="61" width="61" height="16" font="2">May 2016: </text>
+<text top="648" left="122" width="75" height="16" font="0"><b>Case Contest </b></text>
+<text top="648" left="197" width="7" height="16" font="11"><b>–</b></text>
+<text top="648" left="204" width="269" height="16" font="0"><b> 2016 Presidential Election Prediction (Use SAS) </b></text>
+<text top="666" left="61" width="11" height="15" font="9">➢</text>
+<text top="668" left="72" width="4" height="12" font="5"> </text>
+<text top="665" left="88" width="419" height="16" font="2">Predicted the likelihood of winning between Republican vs Democratic party</text>
+<text top="665" left="507" width="3" height="16" font="0"><b> </b></text>
+<text top="682" left="61" width="11" height="15" font="9">➢</text>
+<text top="685" left="72" width="4" height="12" font="5"> </text>
+<text top="681" left="88" width="427" height="16" font="2">Displayed the distribution of popular votes in States by gender and age group </text>
+<text top="681" left="515" width="3" height="16" font="0"><b> </b></text>
+<text top="698" left="61" width="3" height="16" font="2"> </text>
+<text top="714" left="61" width="159" height="16" font="0"><b>PROFESSIONAL EXPERIENCE </b></text>
+<text top="731" left="61" width="197" height="16" font="2">LivaNova PLC (formerly Cyberonics) </text>
+<text top="731" left="258" width="7" height="16" font="10">–</text>
+<text top="731" left="265" width="563" height="16" font="2"> a global medical technology company, Houston, TX                                                                         May 2018 </text>
+<text top="731" left="828" width="7" height="16" font="10">–</text>
+<text top="731" left="834" width="48" height="16" font="2"> present </text>
+<text top="747" left="61" width="186" height="16" font="0"><b>Marketing Analytics and Insights </b></text>
+<text top="764" left="61" width="6" height="16" font="4">•</text>
+<text top="768" left="67" width="4" height="12" font="5"> </text>
+<text top="765" left="88" width="554" height="16" font="2">Set up metrics and perform advanced analytics in R to generate value-creating insights from big data </text>
+<text top="781" left="61" width="6" height="16" font="4">•</text>
+<text top="785" left="67" width="4" height="12" font="5"> </text>
+<text top="782" left="88" width="800" height="16" font="2">Manipulate data from information systems: IBM Cognos, SaleLogix and external data to analyze sale trend and measure the effectiveness of </text>
+<text top="799" left="88" width="99" height="16" font="2">marketing efforts </text>
+<text top="812" left="60" width="3" height="16" font="0"><b> </b></text>
+<text top="827" left="61" width="230" height="16" font="2">Testing Services and Programs, Dover, DE </text>
+<text top="827" left="324" width="3" height="16" font="2"> </text>
+<text top="827" left="378" width="3" height="16" font="2"> </text>
+<text top="827" left="432" width="3" height="16" font="2"> </text>
+<text top="827" left="486" width="3" height="16" font="2"> </text>
+<text top="827" left="540" width="3" height="16" font="2"> </text>
+<text top="827" left="594" width="3" height="16" font="2"> </text>
+<text top="827" left="648" width="163" height="16" font="2">                              August 2016 </text>
+<text top="827" left="811" width="7" height="16" font="10">–</text>
+<text top="827" left="818" width="57" height="16" font="2"> July 2017 </text>
+<text top="844" left="61" width="104" height="16" font="0"><b>Business Analyst   </b></text>
+<text top="862" left="61" width="6" height="16" font="4">•</text>
+<text top="866" left="67" width="4" height="12" font="5"> </text>
+<text top="863" left="88" width="605" height="16" font="2">Based on revenue, expenditures and other variables, ran various statistical tests and exploratory data analysis </text>
+<text top="880" left="61" width="6" height="16" font="4">•</text>
+<text top="883" left="67" width="4" height="12" font="5"> </text>
+<text top="880" left="88" width="310" height="16" font="2">Developed statistical models, both linear and non-linear </text>
+<text top="897" left="61" width="6" height="16" font="4">•</text>
+<text top="901" left="67" width="4" height="12" font="5"> </text>
+<text top="898" left="88" width="598" height="16" font="2">Analyzed monthly financial results and applied statistical methods to measure effects of budget adjustments </text>
+<text top="914" left="61" width="6" height="16" font="4">•</text>
+<text top="918" left="67" width="4" height="12" font="5"> </text>
+<text top="915" left="88" width="537" height="16" font="2">Analyzed ad-hoc financial performance against history, budget, forecasts and explained variances </text>
+<text top="928" left="87" width="3" height="16" font="2"> </text>
+<text top="943" left="61" width="233" height="16" font="2">Testing Services and Programs, Dover, DE  </text>
+<text top="960" left="61" width="231" height="16" font="0"><b>Business Analyst &amp; Testing Diagnostician </b></text>
+<text top="960" left="324" width="3" height="16" font="0"><b> </b></text>
+<text top="960" left="378" width="3" height="16" font="0"><b> </b></text>
+<text top="960" left="432" width="3" height="16" font="0"><b> </b></text>
+<text top="960" left="486" width="3" height="16" font="0"><b> </b></text>
+<text top="960" left="540" width="198" height="16" font="0"><b>                                                                 </b></text>
+<text top="960" left="738" width="59" height="16" font="2">April 2016 </text>
+<text top="960" left="798" width="7" height="16" font="10">–</text>
+<text top="960" left="804" width="72" height="16" font="2"> August 2016</text>
+<text top="960" left="876" width="3" height="16" font="0"><b> </b></text>
+<text top="976" left="61" width="6" height="16" font="4">•</text>
+<text top="980" left="67" width="4" height="12" font="5"> </text>
+<text top="977" left="88" width="565" height="16" font="2">Verified and cleaned up database records; built better database structure to extract information faster </text>
+<text top="993" left="61" width="6" height="16" font="4">•</text>
+<text top="997" left="67" width="4" height="12" font="5"> </text>
+<text top="994" left="88" width="654" height="16" font="2">Analyzed customer data; increased customer satisfaction from 60% to 85% in 3 months that increased revenue by 30% </text>
+<text top="1007" left="108" width="3" height="16" font="2"> </text>
+<text top="1022" left="68" width="260" height="16" font="2">Prudential Financial Company, Hanoi, Vietnam  </text>
+<text top="1022" left="378" width="3" height="16" font="2"> </text>
+<text top="1022" left="432" width="3" height="16" font="2"> </text>
+<text top="1022" left="486" width="3" height="16" font="2"> </text>
+<text top="1022" left="540" width="3" height="16" font="2"> </text>
+<text top="1022" left="594" width="221" height="16" font="2">                                           December 2011 </text>
+<text top="1022" left="816" width="7" height="16" font="10">–</text>
+<text top="1022" left="822" width="122" height="16" font="2"> May 2014                     </text>
+<text top="1039" left="68" width="132" height="16" font="0"><b>Customer Data Analyst </b></text>
+<text top="1056" left="61" width="6" height="16" font="4">•</text>
+<text top="1059" left="67" width="4" height="12" font="5"> </text>
+<text top="1056" left="88" width="476" height="16" font="2">Leveraged data to create profiles of customer segments with their product preference </text>
+<text top="1073" left="61" width="6" height="16" font="4">•</text>
+<text top="1077" left="67" width="4" height="12" font="5"> </text>
+<text top="1073" left="88" width="510" height="16" font="2">Built models to predict retention behavior and suitable rewards to increase customer loyalty </text>
+<text top="1090" left="61" width="6" height="16" font="4">•</text>
+<text top="1094" left="67" width="4" height="12" font="5"> </text>
+<text top="1091" left="88" width="386" height="16" font="2">Identified trends and patterns in the advertising data to maximize ROI </text>
+<text top="1107" left="61" width="6" height="16" font="4">•</text>
+<text top="1111" left="67" width="4" height="12" font="5"> </text>
+<text top="1108" left="88" width="540" height="16" font="2">Prepared reporting analyses and dashboards to help Sales &amp; Marketing track key business metrics </text>
+</page>
+</pdf2xml>

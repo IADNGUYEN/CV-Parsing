@@ -1,0 +1,43 @@
+    CV 
+NGUYỄN VĂN LINH 
+EDUCATION 
+2011 – 2015  
+FPT University. HCM City. 
+Knowledge 
+C# programing 
+Java programing. 
+Software managerment. 
+System architecture. 
+Database design. 
+HTML, JavaScript, CSS, XML 
+PROFILE  
+Date of Birth: 04/10/1993 
+Place of Birth : Quang Nam 
+Gender:    Male 
+Phone:     01649 660 191 
+Email: linh0893@ gmail.com 
+Address:  
+129/1A1 Huynh Van Nghe, 
+Go Vap District, Ho Chi Minh 
+City. 
+Skill 
+Communicate. 
+Take photo. 
+Draw, painting. 
+Manage time, job. 
+Work in group. 
+WORK EXPERIENCE 
+June 2013  Present 
+C# Developer 
+Ongoing ASP.NET website development utilizing C#. 
+Developed SBW (business web) web application using SQL Server 
+2008 and VS 2013. 
+Leader Capstones Project for FPT University.  
+Develop applications manage sale on Post machine. (Passio coffee) 
+Java Developer 
+Joining RECEIPT website development utilizing Java on FSOFT. 
+Developed simple Android applications. 
+Develop simple Android game with LIBGDX. 
+Database design 
+Design database for SBW, HMS system. 
+Also HTML, CSS, JavaScript. 

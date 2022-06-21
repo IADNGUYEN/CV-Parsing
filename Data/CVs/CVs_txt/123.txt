@@ -1,0 +1,64 @@
+Do Tieu Thien
+Address:
+281/46, Ly Thuong Kiet Street, Ward 15, District 11, HCM City
+Tel:
+0945 022 711
+Email:
+dotieuthien9997@gmail.com
+Education
+2015 – 2019
+Digital Signal Processing Engineer, Bach Khoa University, Falcuty of Electrical  Electronics Engineering, Program for Talented Engineers.
+GPA  7.66.
+Specialized subjects:
+○ Digital Signal Processing;
+○ Image Processing;
+○ Digital Signal Processing on FPGA;
+○ Embedded System Programming.
+Project
+12/06/2017 –
+24/07/2017
+Fingerprint Recognition.
+○ Description: My team built an algorithm for fingerprint recognition and a module for
+validation. We built it on Matlab.
+○ Result: The accuracy was over 90 percent.
+11/11/2017 –
+06/12/2017
+Fire Detection.
+○ Description: I built an algorithm for fire detection on Raspberry Pi 3 with a camrera USB.
+I used Python and opencv library to build it.
+○ Result: The accuracy was 85 percent.
+19/01/2017 –
+09/02/2017
+Face Detection and Recognition.
+○ Description: I built an algorithm for face detection and recognition by using Haar feature.
+Then, i trained feature.
+○ Result: The accuracy was over 90 percent for detection, 80 percent for recognition.
+02/04/2018
+Forged Images Detection Using CNN.
+○ Description: My team is building an algorithm for splicing and copy-move forgeries in
+images by using a Convolutional Neural Network.
+Language
+English
+I can read English documents effectively
+Computer Skill
+1/2
+Python
+I have ability to applicate numpy, cv2, os, tensorflow on Linux platform.
+C
+I have basic knowledge of C programing.
+Hobby
+Music
+I frequently listen to music for relaxing.
+Sport
+I am really interested in football.
+Target of internship
+Internship is a good opportunity, so that i can improve not only knowledge but also
+skill. I hope that i can experience and research with orther experienced engineers.
+Reference
+Instructor
+Prof.Ph.D. Le Tien Thuong, Bach Khoa University.
+Link
+Code of my projects: https://github.com/dotieuthien
+Link
+Video demo : https://www.youtube.com/channel/UCczw75XfonoDdWP3ysLaxuQ/playlists
+2/2

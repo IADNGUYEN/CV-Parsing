@@ -1,0 +1,50 @@
+AZMAINE IQTIDAR 
+aiqtidar@princeton.edu  609-356-4315 
+__________________________________________________________________________________________ 
+EDUCATION 
+PRINCETON UNIVERSITY, PRINCETON, NJ 
+September 2017- June 2021 
+Department of Mechanical and Aerospace Engineering  
+(Current GPA: 3.3) 
+Intended Certificates: Robotics and Intelligence Systems, Engineering Physics 
+CAMBRIDGE INTERNATIONAL GCE O/A LEVELS, OXFORD INTERNATIONAL SCHOOL   
+May 2013 – June 2017 
+Class Valedictorian 
+HONORS 
+Honorable Mention, International Physics Olympiad 2016 (Switzerland) and 2017 (Indonesia) 
+World Highest Scorer in Mathematics and Country Highest Scorer in Computer Science, AS Level, Outstanding Cambridge Learner 
+Awards (2016) 
+Country highest scorer in Economics, O Level, Outstanding Cambridge Learner Awards (2015) 
+EXTRACURRICULAR ACTIVITIES 
+Represented Princeton University in the International CanSat Competition 2018 with the Princeton Rocketry Club 
+Participated in the 7th Annual Brown IEEE Robotics Competition (2018) with the Princeton Robotics Club 
+Member of the Princeton University Chess Club and Princeton MMA Consortium (concentration in Muay Thai and Brazilian 
+Jiu Jitsu) 
+ENGINEERING EXPERIENCE 
+Mechanical Engineer at Leonard Lab | Princeton University 
+June 2018 – August 2018 
+Set up an experiment consisting of a VICON system, Spotlights, and KOBUKI TurtleBots integrated under ROS (Robot OS) 
+Wrote code to solve first-order differential equations by compiling data from the aforementioned systems via sensors and VICON 
+cameras, and rerouting the results to the TurtleBots in real time 
+International CanSat Competition 2018 
+Part of a team which worked on designing and constructing an Aero-Braking Atmospheric Entry Probe 
+Designed, modeled (via CAD), 3D printed, and assembled the body of the probe based on differential equations for the drag 
+experienced by a body in a uniform hypersonic flow 
+Designed, implemented and tested the parachute release mechanism for the probe 
+7th Annual Brown IEEE Robotics Competition (2018) 
+Designed and constructed 16 cm x 16cm maze solving robot 
+Wrote the maze solving algorithm (an enhanced version of Trémaux's algorithm where the robot has a built in reference for 
+tracking its location) 
+Integrated sensors and encoders into the breadboards and interfaced them with my code via library subroutines 
+International Aerial Robotics Competition (2019) 
+Currently part of a team programming a Parrot Bebop Drone to enable it to interact with a human being and perform certain designated 
+tasks (as part of the competition) 
+SKILLS 
+Software:  
+Programming: Java, Python and C++, with a working knowledge of Visual Basic .Net 
+Computer Aided Design (CAD): Siemens NX, CREO and SolidWorks 
+Robot Operating System (ROS) 
+DMX Lighting Control 
+Highly proficient in MATLAB, Wolfram Mathematica, LaTeX and Microsoft Office 
+Hardware: Arduino, Rasberry Pi, TurtleBots, with a working knowledge of circuits and sensors 
+Spoken Languages: English, Bengali 

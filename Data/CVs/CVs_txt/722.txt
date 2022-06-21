@@ -1,0 +1,66 @@
+CURRICULUM VITAE 
+TRUONG NGUYEN HOANG ANH 
+I. 
+PERSONAL INFORMATION  Full name :  
+ANH, TRUONG NGUYEN HOANG  Gender :  
+Male  Date of birth :  25th November, 1992  Place of birth :  Dong Nai Province  Nationality :  
+Vietnamese  Marital status :  Single 
+II. 
+OBJECTIVE 
+Working in a challenging environment where there are opportunities using my 
+knowledge and experience to value and contributing for the growth and success 
+of workplace. 
+III. 
+QUALIFICATIONS  
+Year 
+Degree 
+University 
+Major 
+Sep 2010 – Sep 2014 Bachelor of 
+Science 
+Ton Duc Thang 
+University 
+Computer Science 
+Address : 288/12 Hoa Hung St. – Dist. 10 – HCMC 
+Mobile : 01689 304 378 
+Email : hoanganh727018@gmail.com 
+IV. 
+EXPERIENCE  
+WORK EXPERIENCE  August 2015 – September 2015 : Web Developer – SpiralEdge Co Ltd. 
+Description : This company is an outsource company for Swimoutlet.com, 
+Yogaoutlet.com and siblings sites which are retail store for sport goods. My jobs 
+were to create reports to support the business and to enhance the frontend sites. 
+Developed reports in ASP.NET MVC 4. 
+Enhanced and added new features to existing sites which were developed in 
+ASP classic. 
+Developed a tool to get synonyms (Big Thesaurus API).  December 2014 – July 2015 : Web Developer – iVIVU.com 
+Description : This is an online hotel booking service. I am the one who joined 
+in developments of both frontend and backend system. 
+Developed sites in ASP.NET WebForms and MVC 4. 
+Developed interactive sites with Javascript. 
+Managed database using MSSQL and optimize queries and stored 
+procedures. 
+Developed API integrated libraries and sites (Expedia API, TravPax API). 
+STUDY EXPERIENCE  May 2013 – May 2013 : Web Programmer – Web Layout Assignment 
+Implemented HTML pages from Photoshop files. 
+Corrected English grammar in webs.  February 2013 – May 2013 : Researcher – Adult Images Detecting Algorithm 
+Research  
+Found and researched on pulished articles about the same topic. 
+Implemented a simple program that can detect adult images in C++ using 
+OpenCV Library. 
+V. 
+LANGUAGE SKILL  English : Advanced 
+VI. 
+TECHNICAL SKILL  Software Development, Web Application Development.  Object  Oriented  Programming  (OOP), Data Structure & Algorithms.  Programming  languages : C#, VBScript, JavaScript, HTML, CSS, SCSS, 
+SQL, F#.  Subversion : TortoiseSVN, Github.  Framework : ASP.NET MVC, Entity Framework.  Tools : Visual Studio 2013.  Office Word, Excel, Powerpoint. 
+VII. STRENGTHS  Hard working, self-motivated and highly-responsible.  Quick understandability.  Good team work, time management. 
+VIII. ACTIVITIES  October – 2011 : Runner-up in the Ban Linh Sinh Vien Cong Nghe 2012 contest 
+held by Faculty of Information Technology of the Ton Duc Thang University.  December – 2012 : Volunteer at The 12th IEEE International Symposium on 
+Signal Processing and Information Technology held at the Ton Duc Thang 
+University. 
+IX. 
+PERSONAL INTERESTS  Socializing.  Traveling.  Games.  Cuisine. 
+X. 
+REFERENCE SOURCES  Vo Duc Vinh, Mr. 
+Lecturer at Ton Duc Thang University 
+Email : vdvinh@it.tdt.edu.vn 

@@ -1,0 +1,125 @@
+CURRICULUM	VITAE	
+PERSONAL	INFORMATION	
+Full	name:	
+VUONG	THIEN	TRI	
+Date	of	Birth:	
+Apr	18th,	1990	
+Place	of	Birth:	
+Ho	Chi	Minh	City.	
+Gender:	
+Male.	
+Marital	Status:	
+Single.	
+Nationality:	
+Viet	Nam.	
+Present	Address:	
+907/53M1	Lo	Gom,	5	Ward,	6	Dist,	
+Ho	Chi	Minh	City.	
+Telephone:	
+0363733009	
+Email:	
+vuongthientri1990@gmail.com 
+OBJECTIVE	
+2	years	to	become	team	leader,	providing	technical	solutions.	
+Next	2	years	to	become	project	manager.	
+EDUACATION	
+College	/	
+University	
+Degree	
+Year	of	
+Graduation	
+Major	
+University	of	
+Natural	Sciences	
+The	Bachelor	of	
+Information	Technology	
+2013	
+Programming	
+PROGRAMMING	EXPERIENCE	
+v Out	site:	
+September/2014	–	December/2016:	
+I	worked	at	the	company	FPT	Telecom	in	a	position	
+programmer.	My	work	is	write	new	source	code,	fix	bug,	
+modify	the	old	code	before	it	to	suit	requirements.	
+July/2017	–	November/2018:	
+I	worked	at	the	company	PIVOT	(worked	in	Japan)	in	a	
+position	programmer.	My	work	is	write	new	source	code,	
+fix	bug,	modify	the	old	code	before	it	to	suit	
+requirements.	
+Some	projects	that	I	joined	in:	
+Number	
+Project	Topic	
+1	
+Pia 
+2	
+Mobifone Tivi	
+3	
+Family Call 
+4	
+Voice Call	
+5	
+MobiMap For Cambodia	
+6	
+CMS FCall 
+7	
+Fpt Play Smart Tivi 
+8	
+QA Tool 
+9	
+Fshare Tool 
+Projects	detail:	
+1. Pia:  Summary:	This	app	watching	news	and	events	
+(movies,	music,	artists,	...).	Find	a	movie	theater	
+near	with	a	current	place.	You	can	post	
+comments	on	your	favorite	movies.  Position:	Programmer.  Platform:	IOS	(iphone).  Language:	Swift	4.  Frameworks:	RxSwift.	
+2. Mobifone Tivi:  Summary:	This	app	watching	movies	online	
+including	channel	live	tivi	and	channels	vod	on	
+smartphone.	Registration	to	watch	the	channel	
+package	by	sending	sms.  Position:	Programmer.  Platform:	IOS	(iphone,	ipad).  Language:	Objective	C.	
+3. Family Call:  Summary:	This	app	calling	easy	for	family	
+members	through	the	number	has	been	
+provided,	keyboard	number	will	be	replaced	
+with	pictures	of	family	members.  Position:	Programmer.  Platform:	IOS	(iphone,	ipad).  Language:	Objective	C.  Frameworks:	Cordova.  Technologies:	WebRTC.	
+4. Voice Call:  Summary:	Application	development	for	internal	
+calls	within	the	company	through	smartphone.  Position:	Programmer.  Platform:	IOS	(iphone,	ipad).  Language:	Objective	C.  Frameworks:	Linphone.	
+5. MobiMap For Cambodia:  Summary:	This	app	support	for	staff	installed	a	
+new	internet	customers,	looking	for	locations	to	
+support	customers	if	something	goes	wrong	on	
+smartphone.  Position:	Programmer.  Platform:	IOS	(iphone,	ipad).  Language:	Objective	C.  Frameworks:	Google	Map	SDK.	
+6. CMS FCall:  Summary:	Application	development	user	
+management,	tracking	and	statistics	the	number	
+of	calls,	call	time.  Position:	Programmer.  Platform:	Web	browser.  Language:	JavaScript,	html.  Frameworks:	Angular	JS,	bootstrap.	
+7. Fpt Play Smart Tivi:  Summary:	Application	development	watch	
+movies	online	including	channel	live	tivi	and	
+channels	vod	on	smart	tivi.  Position:	Programmer.  Platform:	Web	browser.  Language:	JavaScript,	html,	css.	
+8. QA Tool:  Summary:	Application	development	to	manage	
+project	progress	of	each	department	in	the	
+company.  Position:	Programmer.  Platform:	Web	browser.  Language:	JavaScript,	html,	css.  Frameworks:	Bootstrap.	
+9. Fshare Tool:  Summary:	Software	development	tool	Fshare	
+version	2	for	download	and	upload	function,	
+Multi-level	folder	management.  Position:	Programmer.  Platform:	Window,	MacOS.  Language:	C++.  Frameworks	&	Technologies:	Qt	framework,	
+firebreath.	
+v What	I	had	been	in	the	process	of	working	and	learning	at	
+the	university?	
+Creativity	in	problem	solving	and	offer	solutions.	
+Team	work.	
+Learning	the	different	programming	languages.	
+SKILLS	
+Programming	Languages	
+Level	
+Swift	
+Advanced	
+Objective	C	
+Advanced	
+C/C++	
+Advanced	
+JavaScript	
+Basic	
+HTML	
+Basic	
+CSS	
+Basic	
+PHP	
+Basic	
+SOFT	SKILL  Communication	skills.  Flexible,	creative	thinking	and	problem	solving.  Learning	new	things.  Friendly,	sociable,	funny.	
+HOBBY	&	INTEREST  Technology.  Photographer,	travel.  Football,	swimming, games,	music.	

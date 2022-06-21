@@ -1,0 +1,65 @@
+VŨ THỊ KIM HIỀN
+Software Tester
+0989564742
+kimhien2203@gmail.com
+175 Ky Dong Apartment, Truong Dinh
+Street, Ward 9, District 3, HCMC, District
+3, Ho Chi Minh, Vietnam
+Gender
+: Female
+Birthday
+: 20/03/1993
+Marital status
+: Single
+Nationality
+: Vietnamese
+Country
+: Vietnam
+Address
+: 175 Ky Dong Apartment, Truong Dinh Street, Ward 9, District 3, HCMC, District 3, Ho
+Chi Minh, Vietnam
+Level
+: Experienced (Non  Manager)
+Salary
+: Negotiable
+Job type
+: Full time
+Industry
+: IT  Software, Telecommunications
+Location
+: Ho Chi Minh , International
+Tester (Major: Information System)
+8/2016  Now : Software Tester  Easy IT Solutions
+EZITs is a product company. 
+I mainly test for EZConnect software. And I used to test data for some applications of my company as EZPaysuite,
+Saas. 
+EZConnect is a C# .NET application (Windows form). It is used to map data from a type to another type (Data
+types as Database, EDI, EDIFact, Flat File, XML). It supports several functions as AS2, FTP/ SFTP, PGP, Web Services,..
+And it supports for SQL Server, Oracle, ODBC.
+7/2015  9/2015 : Intern  Fsoft
+Participating Global Software Talent Program to know the process creates software:  Taking customer requirements  Analyzing and designing data model, database  Code (C#, SQL server mainly)  Unit test  Write document
+PERSONAL PROFILE
+CAREER INFORMATION
+OBJECTIVES
+EXPERIENCE
+Year(s) of Experience: 2
+Current Level: Experienced (Non  Manager)
+Completion date 5-2016
+Bachelor  Posts and Telecommunications Institute of Technology HCMC
+Encourage Learning Scholarship 2013  2014 (GPA: 8.08)
+Encourage Learning Scholarship 2014  2015 (GPA: 8.44)
+Database SQL Server MySQL
+Net
+HTML
+CSS
+Javascript
+Java
+Problem Solving
+Teamwork
+SKILLS
+English
+LANGUAGES
+EDUCATION
+Highest Degree Level: Bachelor
+CAREER HIGHLIGHTS
+© CareerBuilder.vn

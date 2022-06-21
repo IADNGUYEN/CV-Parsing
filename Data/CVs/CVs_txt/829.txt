@@ -1,0 +1,98 @@
+Lê Tuấn Đông
+Lê Tuấn Đông
+C#/.Net Fresher | Nam | Độc thân |
+21/07/1994
+Năm kinh ngiệm
+Mớ i t ốt  nghiệp/chưa có kinh nghiệm
+Mớ i t ốt  nghiệp/chưa có kinh nghiệm
+làm việc
+làm việc
+Công ty gần đây nhất
+T DA Solut ion
+T DA Solut ion với vị trí C#/.Net Fresher
+Bằng cấp cao nhất
+Cử nhân
+Cử nhân
+Ngoại ngữ
+English
+English  Sơ cấp
+Địa chỉ email
+let uandongit @gmail.com
+let uandongit @gmail.com
+Điện thoại
+01664591683
+01664591683
+Địa chỉ
+Nghĩa t hươ ng- T ư nghĩa- Quảng
+Nghĩa t hươ ng- T ư nghĩa- Quảng
+Ngãi,T hành phố Quảng Ngãi
+Ngãi,T hành phố Quảng Ngãi
+Nơi làm việc mong
+muốn
+Hồ Chí Minh
+Ngành nghề
+IT  Phần mềm
+Cấp bậc mong muốn
+Mới Tốt Nghiệp
+Mức lương mong
+muốn (USD)
+300
+Phúc lợi mong muốn
+Tiền thưởng | Chăm sóc sức khỏe | Đào tạo |
+Cơ hội du lịch
+THÔNG TIN CHUNG
+Chào các nhà tuyển dụng, tôi tên là Lê Tuấn Đông đến từ Quảng
+Ngãi. Tôi có  khả năng lập trình trên các nền tảng .Net, PHP và
+JavaScript. Tôi có năng lực tự tìm tòi và học hỏi, khả năng giải
+quyết vấn đề và chịu áp lực công việc cao. Tôi mong muốn được làm
+trong môi trường chuyên nghiệp của công ty và đóng góp hết sức
+mình vì lợi ích của bản thân và lợi ích chung của công ty.
+KỸ NĂNG
+Javascript/ Jquery
+PHP , HTML , CSS
+ASP.NET (c#)
+KINH NGHIỆM LÀM VIỆC
+Tháng 7/2017  Tháng 9/2017
+C# /.Net  Fresher
+C# /.Net  Fresher
+TDA Solution
+Thực tập sinh của trường đại học Đà Lạt đến công ty thực tập về
+mảng .Net củ thể là làm công việc về Winform và Entity Framework.
+Công việc: kết nối đến các server trong mạng lan, cho người sữ dụng
+tạo bảng trong server và thêm dữ liệu vào server, update, delete.
+TRÌNH ĐỘ HỌC VẤN
+Tháng 9/2013  Tháng 1/2018
+Công nghệ t hông t in
+Công nghệ t hông t in
+Cử nhân  Đại học Đà Lạt
+Dự án tham gia 1:
+Tên dự án: Web bán hàng (web ban hoa).
+Ngôn ngữ thực hiện: C#, ASP.Net MVC, SQL Server.
+Chức năng thực hiện quản lý các mặt hàng: chức năng đăng nhập,
+đăng xuất, thêm, xóa, sửa và tìm kiếm các mặt hàng, tạo tài
+khoảng người dùng.
+Công cụ: Visual Studio 2013, GIT.
+Số người tham gia: 3.
+Dự án tham gia 2:
+Tên dự án: Web tin tức.
+Ngôn ngữ thực hiện: PHP, JQuery, Bootstrap.
+Chức năng thực hiện: kết nối server, hiện các mẫu tin và chi tiết mẫu
+tin, phân trang cho các mẫu tin.
+Công cụ: GIT, Netbean, Sublime Text.
+Số người tham gia: 3.
+Dự án tham gia 3:
+Tên dự án: App FO Online
+Ngôn ngữ thực hiện: Winform c#.
+Tìm kiếm các ip server, name server trong mạng lan. Cho người
+dùng chọn tên server hoặc ip của server để kết nối. Viết chức năng
+tạo bảng và và thêm dữ liệu cho bảng đã tạo.
+Công cụ thực hiện: Visual Studio 2013, SVN.
+Số người tham gia: 5.
+Dự án tham gia 4:
+Tên dự án: App Maps ( Maps cho người kiếm thị ).
+Ngôn ngữ thực hiện: Android.
+Công việc: hiển thị bản đồ dùng google Maps API, tìm kiếm đường đi
+đến các địa điểm cho trước, quản lý các địa điểm như xóa và sửa
+các địa điểm. Bắt sự kiện khi người dùng từ bàn phím.
+Số người tham gia: 2.
+THÔNG TIN THAM KHẢO

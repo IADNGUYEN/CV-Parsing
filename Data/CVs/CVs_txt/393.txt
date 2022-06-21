@@ -1,0 +1,93 @@
+Hy Nguyen
+.....
+About
+A bright and enthusiastic person being interested in Computer Science, especially Natural Lan-
+guage Processing, being willing to learn and absorb new techniques and technology
+Experience
+02/2017  08/2017 Research Engineer
+Boomerang
+Research topics: Sentiment Analysis, Machine learning
+10/2016  01/2017 Teaching Assistant
+VNU-HCMC University of Science
+Course: Object-oriented Programming
+02/2016  06/2016 Research intern
+Universal Technology Service
+Research topics: Machine Learning, Tensorflow, Chat bot (wit.ai)
+Education
+2016  2018
+Master's Degree in Computer Science
+JAIST
+Expected graduation on September 2018
+2012  2016
+Bachelor's Degree in Computer Science
+VNU-HCMC University of Science
+Honors Program
+Publications
+SoICT 2016
+Hy Nguyen, Tung Le, Viet-Thang Luong, Minh-Quoc Nghiem, and Dien
+Dinh. 2016. The combination of similarity measures for extractive sum-
+marization. In Proceedings of the Seventh Symposium on Information
+and Communication Technology (SoICT '16), pp. 66-72, ACM, 2016
+VLSP 2016
+Hy Nguyen, Tung Le, Viet-Thang Luong, and Dien Dinh, “A simple
+supervised learning approach to sentiment classification at vlsp 2016,”
+in The Fourth International Workshop on Vietnamese Language and
+Speech Processing (VLSP 2016). (2nd rank in Opinion Mining Evalua-
+tion Campaign)
+Certifications
+05/2018
+Deep Learning Specialization
+deeplearning.ai, Coursera
+05/2018
+Convolutional Neural Networks
+deeplearning.ai, Coursera
+04/2018
+Structuring Machine Learning Projects
+deeplearning.ai, Coursera
+04/2018
+Improving Deep Neural Networks
+deeplearning.ai, Coursera
+04/2018
+Neural Networks and Deep Learning
+deeplearning.ai, Coursera
+03/2018
+Machine Learning
+Coursera
+09/2017
+IELTS. Overall Score: 5.5
+British Council
+Address
+70/2/16 Do Doc Long St,
+Tan Quy Ward,
+Tan Phu Dist,
+HCM City
+Mail
+giahy2507@gmail.com
+LinkedIn
+Hy Nguyen
+Languages
+Vietnamese
+English
+Technical Skills
+Python
+C/C++
+C#
+Other
+SQL
+Office
+Personal Skills
+Team
+Player
+Initiative
+Curiosity
+Problem
+Solving
+Manage
+Organize
+References
+Assoc. Prof. Dien Dinh
+Director of Computational
+Linguistics Center
+VNU.HCMUS
+Dr. Minh-Quoc Nghiem
+Lecturer at VNU.HCMUS

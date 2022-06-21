@@ -1,0 +1,146 @@
+CURRICULUM VITAE 
+LAM DUC DUONG 
+Researcher, Vietnam Academy of Science and Technology, Hanoi 
+Visiting Researcher, Osaka University 
+Date of birth: 1986-04-18 
+Tel: 0942 492 607  
+Email: lamducduong184@gmail.com 
+EDUCATION 
+2014/9: PhD degree  Engineering Science, Graduate School of Engineering Science, Osaka University, 
+Japan. 
+2011/9: Master degree  Engineering Science, Graduate School of Engineering Science, Osaka 
+University, Japan.  
+2008/6: Bachelor degree  Engineering Physics and Nanotechnology, University of Engineering and 
+Technology, Vietnam National University in Hanoi.  
+EXPERIENCES 
+2017/1 – present: Researcher in Vietnam Academy of Science and Technology, Osaka University  
+Investigate low noise and sensitive magnetic sensor: signal processing, cross-correlation 
+technique, Discrete Fourier Transform, data analysis (with Osaka University)      (Python)  
+Calculate and simulate 3D nano-systems 
+(Python) 
+Part time job at a company: Machine Learning R&D Team  
+Analysis data from the websites  
+Build Recommendation system for real estate and car 
+(Python, Java) 
+2015/4 – 2016/9: Postdoctoral researcher, CNRS-Université Paris 11, France  
+Investigate Micro-Electro-Mechanical Systems (MEMS)  
+Calculate/simulate a 3D composite micro-system  
+(Comsol Multiphysics) 
+2014/11 – 2015/3: Visiting researcher, AIST, Japan  
+Data analysis of X-ray spectra (continue)                                       (C) 
+2010/10 – 2014/9: Researching Assistant, Osaka University, Japan  Study X-ray absorption (XAS) and magnetic circular dichroism (XMCD).  Analyze X-ray spectra data: normalizes spectra, calculates atomic moments and estimates static 
+errors.                                                                  (C)  Calculate the etching parts in SEM (Scanning Electron Microscope) images           (C)  
+2004/9 – 2008/6: Bachelor, Physics and Nanotechnology, Vietnam National University in Hanoi  
+Private project: Estimate the probability of the 2 last numbers of the lottery system, optimize a 
+playing strategy to win money with assumption of the same appearing distribution for numbers  
+(00 – 99).  
+Participate to the University team in the ACM International Collegiate Programming Contest 
+operates under the auspices of the Association for Computing Machinery (ACM-ICPC) Asia 
+region. 
+(C) 
+2001/9 – 2004/6: Gifted High School Students in subject of Mathematical Informatics.  
+Participate to the Advance Mathematical Informatics and Algorithms group  
+Participate to the National Olympiad in Informatics Competition (2002 &2003)     (Pascal) 
+SKILLS 
+Languages:  
++ English: working proficiency 
++ Japanese: basic conservation (N3) 
+Programming:  
++ Pascal :  3 years 
++ C:  
+> 10 years 
++ Python:  5 months (learning) 
++ Java: 
+3 month (learning) 
++ Other: Labview, Comsol Multiphysics 
+Measurement: Magneto-Optic Kerr Effect (MOKE), Soft and hard X-ray absorption spectra (XAS), 
+Magnetic circular dichroism (XMCD) 
+Data Analysis: 
++ Linear algebra, calculus 
++ Signal processing 
+AWARDS 
+2017: The Best Poster Adward in the 4th International Symposium on Advanced Magnetic Materials and 
+Applications (ISAMMA) 
+2013, 2014: Masuda Yosahichi Foundation Scholarship for Asian Students in Japan 
+2007: 3rd prize, Vietnam National Physical Competition for University students  
+2006:  4th prize, Vietnam National Informatics Programming Competition for University students 
+Odon Vallet scholarship for Vietnamese students 
+2003: Odon Vallet scholarship (a French Foundation) for outstanding Vietnamese high school students 
+2002: 4th prize, Vietnam National Informatics Programming Competition for high school. 
+EXTRA-CURRICULAR ACTIVITIES 
+2015 – 2016/9:   
++ Vice – Director of Union of Vietnamese students in France 
++ Organizer Vietnamese Scientific Seminar Group in Orsay 
++ Co-founder of a volunteer group to help new students. 
+2010 – 2014/9: Coach and Assistant Manager of Vietnamese student soccer club in Osaka University 
+OTHERS:  
+9 peer-reviewed papers (3 1st authour papers), 6 international scientific conferences,  
+Play soccer, investigate soccer strategy.  
+Meet up people from foreign countries, interact with strangers, foreigners 
+ACADEMIC PUBLICATIONS 
+1. A. Bose,  A.K. Shukla, K. Konishi, S. Jain, N. Asam, S. Bhuktare, H. Singh, D.D. Lam, Y. 
+Fujii, S. Miwa, Y. Suzuki and A. A. Tulapurkar, “Observation of thermally driven field-like spin 
+torque in magnetic tunnel junctions”, Appl. Phys. Lett. 109, 032406 (2016)  
+2. D.D. Lam, F. Bonell, Y. Shiota, S. Miwa, N. Mizuochi, T. Shinjo, Y. Suzuki, “Growth of 
+perpendicular magnetic anisotropy CoFeB thin fims on Polymer buffer and voltage effect of 
+MgO|CoFeB bottom interface”, AIP ADVANCES 5(6):067132 (2015). 
+3. W. Skowroński, T. Nozaki, D.D. Lam, Y. Shiota, K. Yakushiji, H. Kubota, A. Fukushima, S. 
+Yuasa, Y. Suzuki, “Underlayer material influence on electric-field controlled perpendicular 
+magnetic anisotropy in CoFeB/MgO magnetic tunnel junctions”, PHYSICAL REVIEW B 
+91(18) (2015) 
+4. S. Jain, D. D. Lam, A. Bose, H. Sharma, V. R. Palkar, C. V. Tomy, Y. Suzuki, A. A. Tulapurkar, 
+"Magneto-Seebeck effect in spin-valve with in-plane thermal gradient”, AIP Advances 4, 
+127145 (2014) 
+5. D.D. Lam, F. Bonell, S. Miwa, Y. Shiota, K. Yakushiji, H. Kubota, T. Nozaki, A. Fukushima, S. 
+Yuasa and Y. Suzuki, “MgO thickness dependence of perpendicular magnetic anisotropy in 
+CoFeB thin films”, J. Korean Phys. Soc. 62,10,1461-1464 (2013) 
+6. D.D. Lam, F. Bonell, S. Miwa, Y. Shiota, K. Yakushiji, H. Kubota, T. Nozaki, A. Fukushima, S. 
+Yuasa and Y. Suzuki, “Composition dependence of perpendicular magnetic anisotropy in 
+Ta/CoxFe80-xB20/MgO/Ta (x=0, 10, 60) multilayers”, Journal of Magnetics, 18, 1 (2013) 
+7. P. Sheng, F. Bonell, S. Miwa, T. Nakamura, Y. Shiota, S. Murakami, D.D. Lam, S. Yoshida and 
+Y. Suzuki, “Detailed analysis of spin-dependent quantum interference effects in magnetic tunnel 
+junctions with Fe quantum wells”, Applied Physics Letters, 102, 032406 (2013) 
+8. F. Bonell, Y. Takahashi, D.D. Lam, S. Yoshida, Y. Shiota, S. Miwa, T. Nakamura, Y. Suzuki, 
+“Reversible change in the oxidation state and magnetic circular dichroism of Fe driven by an 
+electric field at the FeCo/MgO interface”, Applied Physics Letters 102, 152401 (2013) 
+9. F. Bonell, D. Lam, S. Yoshida, Y. Takahashi, Y. Shiota, S. Miwa, T. Nakamura, Y. Suzuki, 
+“Investigation of Au and Ag segregation on Fe(001) with soft x-ray absorption”, Surface 
+Sciences, 616, 125-130 (2013) 
+CONFERENCES 
+1. 
+D.D. Lam, T.H.T. Trinh, “Magnetic Dead Layer and a precise method to determine the interface 
+anisotropy of magnetic thin films”, ISAMMA2017, Phu Quoc, Vietnam, December, 10th – 13th, 
+2017 (the best Poster Adward) 
+2. 
+D.D. Lam, J.P. Adam, G. Agnus, S. Eimer, L. Herrera-Diez, N. Vernier, T. Devolder, T. Maroutian, 
+P. Auber, P. Lecoeur, D. Ravelosona, “Direct growth of perpendicular CoFeB/MgO structure on 
+piezoelectric films for strain control of domain wall motion”, MMM2016, New Orleans, LA, USA, 
+Oct 31th  Nov 4th, 2016 
+3. 
+D.D. Lam, F. Bonell, S. Miwa, Y. Shiota, N. Mizuochi, T. Shinjo, Y. Yomogida, T. Takenobu, Y. 
+Iwasa, Y. Suzuki, “Investigation of voltage control of magnetic anisotropy in CoFeB thin films with 
+ion gel dielectrics”, ICMFS 2015, Krakow, Poland, July 12th-18th , 2015 
+4. 
+D.D. Lam, F. Bonell, Y. Shiota, K. Tanaka, Y. Takahashi, S. Miwa, N. Mizuochi, T. Shinjo, Y. 
+Kotani, T. Nakamura, Y. Suzuki, “X-ray magnetic circular dichroism study of magnetic anisotropy 
+in Ta/CoFeB/MgO/Ta multilayers”,JSAP, Kanagawa, Japan, March 17th-20th , 2014. 
+5. 
+D.D. Lam, F. Bonell, S. Miwa, Y. Shiota, K. Yakushiji, H. Kubota, T. Nozaki, A. Fukushima, S. 
+Yuasa and Y. Suzuki, “MgO overlayer thickness dependence of perpendicular magnetic anisotropy 
+in Ta/CoxFe80-xB20/MgO/Ta (x=0, 10, 60) multilayers”, ICAUMS 2012, Nara, Japan, October, 2nd  
+5th, 2012. 
+6. 
+D.D. Lam, F. Bonell, S. Miwa, Y. Shiota, K. Yakushiji, H. Kubota, T. Nozaki, A. Fukushima, S. 
+Yuasa and Y. Suzuki, “Dependence of perpendicular magnetic anisotropy of CoFeB thin films on 
+thickness of MgO overlayer”, ICM 2012, Busan, Korea, July, 8th – 13th, 2012 
+7. 
+D.D. Lam, F. Bonell, K. Konishi, Y. Fujii, S. Murakami, Y. Shiota, T. Shinjo, Y. Suzuki, 
+“Perpendicular Magnetic Anisotropy of CoFeB thin films”, 5th International Workshop on Spin 
+Currents, Sendai, Japan, July 25th  28th , 2011. 
+REFERENCES 
+1. Prof. Yoshishige Suzuki, (PhD course Supervisor) 
+Osaka University, Graduate School of Engineering Science,  
+Department of Materials Engineering Science. 
+1-3, Machikaneyama-cho,Toyonaka city, Osaka 560-8531, Japan 
+Tel /fax : +81-6-6850-6425 
+E-mail: suzuki-y@mp.es.osaka-u.ac.jp 

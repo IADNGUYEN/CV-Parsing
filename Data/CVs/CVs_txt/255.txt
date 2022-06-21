@@ -1,0 +1,59 @@
+Phan Kien Tuong
+Contact
+Information
+Room BB79e, School of Computer Science,
+Email: phankientuong@gmail.com
+University of Nottingham Malaysia Campus
+Mobile: +60 10-4249 423
+GitHub: https://github.com/TuongPK
+Research
+Interests
+Neural Networks, Machine Learning, Computer Vision, Pattern Recognition, Remote
+Sensing
+Education
+University of Nottingham Malaysia Campus, Selangor, Malaysia
+PhD, Computer Science, Expected: July 2018
+Thesis Topic: Parallel Circuits  A Modular Neural Network Architecture
+Supervisors: Tomas Henrique Maul, PhD and Tuong Thuy Vu, PhD
+University of Nottingham Malaysia Campus, Selangor, Malaysia
+BSc, Computer Science (Honors), July 2012
+Journal
+Publications
+1. PHAN, K.T., MAUL, T.H., VU, T.T. and LAI, W.K. 2017. DropCircuit: A
+Modular Regularizer for Parallel Circuit Networks. (In Press) Neural Processing
+Letters.
+2. PHAN, K.T., MAUL, T.H. and VU, T.T. 2017. An Empirical Study on Improving
+the Speed and Generalization of Neural Networks Using a Parallel Circuit Approach.
+International Journal of Parallel Programming, 45, 780-796.
+Conference
+Publications
+1. PHAN, K.T., MAUL, T.H., VU, T.T. and LAI, W.K. 2016. Improving Neural
+Network Generalization by Combining Parallel Circuits with Dropout. In: HIROSE,
+A., OZAWA, S., DOYA, K., IKEDA, K., LEE, M. and LIU, D. (eds.) Neural
+Information Processing: 23rd International Conference, ICONIP 2016, Kyoto,
+Japan, October 16–21, 2016. Proceedings, Part III. Cham: Springer International
+Publishing.
+2. PHAN, K.T., MAUL, T.H. and VU, T.T. 2015. A Parallel Circuit Approach
+for Improving the Speed and Generalization Properties of Neural Networks. 11th
+International Conference on Natural Computation, ICNC 2015, Zhangjiajie, China.
+Awards
+PhD Funding — Crop for the Future Research Center (CFRRC)
+Full tuition fee and stipend.
+Projects
+Undergraduate Final Year Project — Content-based Image Retrieval
+Depict the orientations of images via Fourier domain.
+Develop and optimize a Deep Belief Network model to recognize the scenes.
+PhD Project — Vegetation Classiﬁcation based on Remote Sensing Imagery
+Generate a vegetation dataset of satellite images within Malaysian bounder.
+Perform numerous experiments to select the optimal models for the task.
+Tackle the heavy computational expenses by proposing more lightweight models.
+Compensate the reduction in generalization through an emphasize on modularity
+and diversiﬁed learning.
+1 of 2
+Technical
+Experiences
+Programming Skills:
+Java, Matlab, Python (Theano)
+Professional Activities:
+Peer-reviewer for Optical Engineering, Journal of Applied Remote Sensing
+2 of 2

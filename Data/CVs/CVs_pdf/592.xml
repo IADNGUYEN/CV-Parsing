@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="23" family="Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="14" family="Arial" color="#000000"/>
+	<fontspec id="2" size="9" family="Arial" color="#000000"/>
+	<fontspec id="3" size="14" family="Arial" color="#0462c1"/>
+	<fontspec id="4" size="16" family="Arial,Bold" color="#000000"/>
+	<fontspec id="5" size="18" family="Arial,Bold" color="#000000"/>
+	<fontspec id="6" size="14" family="Symbol" color="#000000"/>
+	<fontspec id="7" size="16" family="Arial" color="#000000"/>
+	<fontspec id="8" size="14" family="Arial,Bold" color="#000000"/>
+	<fontspec id="9" size="14" family="ABCDEE+Courier New" color="#000000"/>
+	<fontspec id="10" size="13" family="Arial" color="#000000"/>
+	<fontspec id="11" size="14" family="ABCDEE+Wingdings" color="#000000"/>
+<text top="113" left="352" width="221" height="22" font="0"><b>DINH NGOC HUNG </b></text>
+<text top="153" left="108" width="107" height="14" font="1">Date of birth: 27</text>
+<text top="152" left="215" width="8" height="9" font="2">th</text>
+<text top="153" left="223" width="88" height="14" font="1"> March 1988 </text>
+<text top="153" left="703" width="111" height="14" font="1">9/2D, 904 street </text>
+<text top="184" left="108" width="95" height="14" font="1">Gender: Male </text>
+<text top="184" left="708" width="107" height="14" font="1">Hiep Phu ward, </text>
+<text top="214" left="108" width="140" height="14" font="1">Mobile: 0977315246 </text>
+<text top="214" left="752" width="62" height="14" font="1">District 9 </text>
+<text top="245" left="108" width="46" height="14" font="1">Email<a href="mailto:hungdn2703@gmail.com">: </a></text>
+<text top="245" left="154" width="167" height="14" font="3"><a href="mailto:hungdn2703@gmail.com">hungdn2703@gmail.com</a></text>
+<text top="245" left="321" width="4" height="14" font="1"><a href="mailto:hungdn2703@gmail.com"> </a></text>
+<text top="245" left="637" width="177" height="14" font="1">Ho Chi Minh city, Vietnam </text>
+<text top="282" left="108" width="93" height="15" font="4"><b>OBJECTIVE</b></text>
+<text top="281" left="201" width="5" height="17" font="5"><b> </b></text>
+<text top="313" left="108" width="64" height="14" font="1">PM to be </text>
+<text top="350" left="108" width="63" height="15" font="4"><b>SKILLS </b></text>
+<text top="378" left="135" width="7" height="18" font="6"></text>
+<text top="383" left="142" width="4" height="14" font="1"> </text>
+<text top="383" left="162" width="79" height="14" font="1">C#, VB.Net </text>
+<text top="398" left="135" width="7" height="18" font="6"></text>
+<text top="402" left="142" width="4" height="14" font="1"> </text>
+<text top="402" left="162" width="229" height="14" font="1">Web developer with MVC, service </text>
+<text top="418" left="135" width="7" height="18" font="6"></text>
+<text top="422" left="142" width="4" height="14" font="1"> </text>
+<text top="422" left="162" width="145" height="14" font="1">SQL Server, My SQL </text>
+<text top="437" left="135" width="7" height="18" font="6"></text>
+<text top="442" left="142" width="4" height="14" font="1"> </text>
+<text top="442" left="162" width="182" height="14" font="1">Elastic search, Couchbase </text>
+<text top="457" left="135" width="7" height="18" font="6"></text>
+<text top="461" left="142" width="4" height="14" font="1"> </text>
+<text top="461" left="162" width="244" height="14" font="1">HTML, CSS, XML, bootstrap, kendo </text>
+<text top="476" left="135" width="7" height="18" font="6"></text>
+<text top="481" left="142" width="4" height="14" font="1"> </text>
+<text top="481" left="162" width="273" height="14" font="1">Javascript, jQuery, json, Ajax, AngularJs </text>
+<text top="518" left="108" width="103" height="15" font="4"><b>EDUCATION </b></text>
+<text top="549" left="135" width="37" height="14" font="1">2006 </text>
+<text top="546" left="172" width="280" height="17" font="1">– 2012: Danang University of Technology </text>
+<text top="580" left="135" width="4" height="14" font="1"> </text>
+<text top="580" left="162" width="296" height="14" font="1">Degree: Information technology engineering </text>
+<text top="616" left="108" width="168" height="15" font="4"><b>WORK EXPERIENCE </b></text>
+<text top="648" left="108" width="110" height="15" font="4"><b>FPT Software </b></text>
+<text top="681" left="108" width="80" height="15" font="7">Developer </text>
+<text top="681" left="613" width="127" height="15" font="7">September 2013 </text>
+<text top="678" left="740" width="75" height="18" font="7">– Present </text>
+<text top="710" left="135" width="7" height="18" font="6"></text>
+<text top="714" left="142" width="4" height="14" font="1"> </text>
+<text top="714" left="162" width="180" height="14" font="1">Analysis customer request </text>
+<text top="729" left="135" width="7" height="18" font="6"></text>
+<text top="734" left="142" width="4" height="14" font="1"> </text>
+<text top="734" left="162" width="237" height="14" font="1">Programming languages: C#, MVC </text>
+<text top="749" left="135" width="7" height="18" font="6"></text>
+<text top="753" left="142" width="4" height="14" font="1"> </text>
+<text top="753" left="162" width="395" height="14" font="1">Data management: SQL Server, elastic search, couchbase </text>
+<text top="769" left="135" width="7" height="18" font="6"></text>
+<text top="773" left="142" width="4" height="14" font="1"> </text>
+<text top="773" left="162" width="94" height="14" font="1">Crystal report </text>
+<text top="788" left="135" width="7" height="18" font="6"></text>
+<text top="793" left="142" width="4" height="14" font="1"> </text>
+<text top="793" left="162" width="262" height="14" font="1">Javascript, json, ajax, jquery, angularjs </text>
+<text top="808" left="135" width="7" height="18" font="6"></text>
+<text top="812" left="142" width="4" height="14" font="1"> </text>
+<text top="812" left="162" width="152" height="14" font="1">Plan and tracking task </text>
+<text top="827" left="135" width="7" height="18" font="6"></text>
+<text top="832" left="142" width="4" height="14" font="1"> </text>
+<text top="829" left="162" width="479" height="17" font="1">Build package and using SVN to control source (tracking, merge, tag…) </text>
+<text top="862" left="135" width="60" height="14" font="8"><b>Project: </b></text>
+<text top="891" left="162" width="9" height="15" font="9">o</text>
+<text top="893" left="171" width="4" height="14" font="1"> </text>
+<text top="893" left="189" width="37" height="14" font="8"><b>DMS </b></text>
+<text top="894" left="536" width="274" height="12" font="10">Distributor Management System (Centralized)</text>
+<text top="893" left="810" width="4" height="14" font="8"><b> </b></text>
+<text top="910" left="216" width="9" height="15" font="9">o</text>
+<text top="912" left="225" width="4" height="14" font="1"> </text>
+<text top="912" left="243" width="153" height="14" font="1">MVC, C#, web service </text>
+<text top="928" left="216" width="9" height="15" font="9">o</text>
+<text top="930" left="225" width="4" height="14" font="1"> </text>
+<text top="930" left="243" width="259" height="14" font="1">Angular js, css, javascript, jquery, json </text>
+<text top="947" left="216" width="9" height="15" font="9">o</text>
+<text top="949" left="225" width="4" height="14" font="1"> </text>
+<text top="949" left="243" width="249" height="14" font="1">Database: elastic search, couchbase </text>
+<text top="966" left="216" width="9" height="15" font="9">o</text>
+<text top="967" left="225" width="4" height="14" font="1"> </text>
+<text top="967" left="243" width="141" height="14" font="1">UI: Bootstrap, kendo </text>
+<text top="984" left="216" width="9" height="15" font="9">o</text>
+<text top="986" left="225" width="4" height="14" font="1"> </text>
+<text top="986" left="243" width="57" height="14" font="1">Module: </text>
+<text top="1002" left="290" width="7" height="16" font="11"></text>
+<text top="1005" left="297" width="4" height="14" font="1"> </text>
+<text top="1005" left="324" width="86" height="14" font="1">Master Data </text>
+<text top="1021" left="290" width="7" height="16" font="11"></text>
+<text top="1023" left="297" width="4" height="14" font="1"> </text>
+<text top="1023" left="324" width="66" height="14" font="1">Inventory </text>
+<text top="1039" left="290" width="7" height="16" font="11"></text>
+<text top="1042" left="297" width="4" height="14" font="1"> </text>
+<text top="1042" left="324" width="50" height="14" font="1">Orders </text>
+<text top="1058" left="290" width="7" height="16" font="11"></text>
+<text top="1060" left="297" width="4" height="14" font="1"> </text>
+<text top="1060" left="324" width="80" height="14" font="1">Promotions </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="108" left="290" width="7" height="16" font="11"></text>
+<text top="111" left="297" width="4" height="14" font="1"> </text>
+<text top="111" left="324" width="63" height="14" font="1">Payment </text>
+<text top="127" left="290" width="7" height="16" font="11"></text>
+<text top="130" left="297" width="4" height="14" font="1"> </text>
+<text top="130" left="324" width="58" height="14" font="1">Delivery </text>
+<text top="146" left="290" width="7" height="16" font="11"></text>
+<text top="148" left="297" width="4" height="14" font="1"> </text>
+<text top="148" left="324" width="49" height="14" font="1">Report </text>
+<text top="165" left="162" width="9" height="15" font="9">o</text>
+<text top="167" left="171" width="4" height="14" font="1"> </text>
+<text top="167" left="189" width="68" height="14" font="8"><b>DMS Lite </b></text>
+<text top="168" left="517" width="293" height="12" font="10">Distributor Management System (De-centralized)</text>
+<text top="167" left="810" width="4" height="14" font="8"><b> </b></text>
+<text top="184" left="216" width="9" height="15" font="9">o</text>
+<text top="186" left="225" width="4" height="14" font="1"> </text>
+<text top="186" left="243" width="92" height="14" font="1">Win form: C# </text>
+<text top="203" left="216" width="9" height="15" font="9">o</text>
+<text top="204" left="225" width="4" height="14" font="1"> </text>
+<text top="204" left="243" width="94" height="14" font="1">Crystal report </text>
+<text top="221" left="216" width="9" height="15" font="9">o</text>
+<text top="223" left="225" width="4" height="14" font="1"> </text>
+<text top="223" left="243" width="155" height="14" font="1">Database: SQL Server </text>
+<text top="240" left="216" width="9" height="15" font="9">o</text>
+<text top="241" left="225" width="4" height="14" font="1"> </text>
+<text top="241" left="243" width="107" height="14" font="1">UI: Devexpress </text>
+<text top="258" left="162" width="9" height="15" font="9">o</text>
+<text top="260" left="171" width="4" height="14" font="1"> </text>
+<text top="260" left="189" width="93" height="14" font="8"><b>Smart Route </b></text>
+<text top="277" left="216" width="9" height="15" font="9">o</text>
+<text top="279" left="225" width="4" height="14" font="1"> </text>
+<text top="279" left="243" width="153" height="14" font="1">MVC, C#, web service </text>
+<text top="296" left="216" width="9" height="15" font="9">o</text>
+<text top="297" left="225" width="4" height="14" font="1"> </text>
+<text top="297" left="243" width="259" height="14" font="1">Angular js, css, javascript, jquery, json </text>
+<text top="314" left="216" width="9" height="15" font="9">o</text>
+<text top="316" left="225" width="4" height="14" font="1"> </text>
+<text top="316" left="243" width="249" height="14" font="1">Database: elastic search, couchbase </text>
+<text top="333" left="216" width="9" height="15" font="9">o</text>
+<text top="335" left="225" width="4" height="14" font="1"> </text>
+<text top="335" left="243" width="141" height="14" font="1">UI: Bootstrap, kendo </text>
+<text top="351" left="216" width="9" height="15" font="9">o</text>
+<text top="353" left="225" width="4" height="14" font="1"> </text>
+<text top="353" left="243" width="217" height="14" font="1">Service: google maps, vietbando</text>
+<text top="353" left="461" width="4" height="14" font="8"><b> </b></text>
+<text top="384" left="108" width="230" height="15" font="4"><a href="http://careerbuilder.vn/vi/nha-tuyen-dung/chutex-international-co-ltd-cong-ty-tnhh-quoc-te-chutex.35A501B5.html"><b>Chutex International Co., Ltd </b></a></text>
+<text top="417" left="108" width="80" height="15" font="7">Developer </text>
+<text top="417" left="628" width="75" height="15" font="7">July 2011 </text>
+<text top="413" left="704" width="111" height="18" font="7">– August 2013 </text>
+<text top="446" left="135" width="7" height="18" font="6"></text>
+<text top="450" left="142" width="4" height="14" font="1"> </text>
+<text top="450" left="162" width="319" height="14" font="1">Analysis request from director and departments </text>
+<text top="465" left="135" width="7" height="18" font="6"></text>
+<text top="469" left="142" width="4" height="14" font="1"> </text>
+<text top="469" left="162" width="325" height="14" font="1">Design and management data using SQL server </text>
+<text top="485" left="135" width="7" height="18" font="6"></text>
+<text top="489" left="142" width="4" height="14" font="1"> </text>
+<text top="489" left="162" width="238" height="14" font="1">Developer application (C#, VB.Net) </text>
+<text top="504" left="135" width="7" height="18" font="6"></text>
+<text top="508" left="142" width="4" height="14" font="1"> </text>
+<text top="508" left="162" width="94" height="14" font="1">Crystal report </text>
+</page>
+</pdf2xml>

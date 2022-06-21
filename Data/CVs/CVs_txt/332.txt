@@ -1,0 +1,63 @@
+SKILLS  
+PROFESSIONAL SKILLs  
+C  
+C#.NET  
+Java  
+HTML, CSS  
+Javascript  
+MS SQL 
+Android (Java) 
+PERSONAL SKILLs  
+COMMUNICATION    
+ORGANIZATION  
+TEAM PLAYER  
+CREATIVITY  
+SOCIAL  
+Language  
+Professional 
+Software Engineer 
+CAREER OBJECTIVE  
+I really like analyzing and solving the problem in coding or 
+technology. Therefore, I want to develop my skills, create useful 
+value for software. With my passion, I am willing learning and get 
+more challenge to become full-stack developer. 
+EDUCATION  
+(2014 – 2018)  
+FPT University   
+Software Engineering 
+EXPERIENCES  
+(Oct-2017 – Dec-2017)  
+FPT University  
+Project: Lotteria Website (Order product)  
+Lecturer: Lam Huu Khanh Phuong  Subject: Software Architecture 
+& Design  I designed database and used Java MVC model. 
+(May-2017 – Sep-2017)  
+INTERNSHIP STUDENT  
+FPT Software HCM  
+(May-2018)  
+FPT University  
+Project: Building A Digital Signage System  
+Lecturer: Lam Huu Khanh Phuong   Subject: Capston Project  My team build a Web Application with .NET MVC 5, Web API for 
+Android application get data to display advertising. 
+(Oct-2018 – now)  
+Automation Test 
+ELCA VietNam 
+Project: SecuTix – Ticketing solution for EURO 2016  I used selenium to write test script by Java. There is know-how to 
+work CI/CD on Jenkins. 
+CERTIFICATION  
+(Jun-2018)  
+JAPANESE                                                                                           
+JLPT N4  
+REFERENCE  
+LÂM HỮU KHÁNH PHƯƠNG  
+FPT University – HCM campus  Lecturer  
+Phone: 091 5353 001  
+Address: Innovation building, lot 24, Quang Trung software park, 
+district 12, Ho Chi Minh city. Email: phuonglhk@fpt.edu.vn  
+Tran Minh Tan 
+06st January 1996  
+150/1 Dao Su Tich street  
+Nha Be district, HCM 
+city 
+(+84) 847677395 
+tantmse61751@gmail.com 

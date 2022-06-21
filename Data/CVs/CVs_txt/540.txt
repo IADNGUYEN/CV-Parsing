@@ -1,0 +1,51 @@
+NGUYỄN VIỆT HÙNG
+Software Development (part-time)
+ 05/12/1997
+ Male
+ 0169.360.7379
+ nvhungkt1997@gmail.com
+ 203/1B Huynh Van Nghe st.       
+Go Vap dist. Ho Chi Minh City
+ fb.com/nguyen.viet.hung.kt
+EXPECT
+Improving teamwork skill
+Working Environment
+Relationship
+Knowledge
+SKILL
+Teamwork
+Self-learning
+HOBBIES
+Hanging out
+Working with computer
+Football
+FPT UNIVERSITY
+09/2015  NOW
+LANGUAGE
+MASTERCOOK PROJECT
+9/2017  10/2017
+KMS TECHNOLOGY INTERNSHIP
+1/2018  4/2018
+REACKATHON
+12/2016  12/2016
+
+STUDY
+Software Engineering.
+Studying and using: Java, C# & .NET, Javascript.
+GPA: 8.6
+Having experiences in javascript (internship) and CRUD application (projects in school).
+Always be ready to study new knowledge.
+Vietnamese, English.
+
+EXPERIENCE
+Website for news and recipes about food.  Preparing documents: SRS, Arichitecture Design, GUI Desgin, Unit tests.  Developing system using Java.
+Personal role:  Leader: following group to keep the project on schedule.  Developer: taking part in developing system, both back-end and front-end.  Presenter.
+Github: https://github.com/nvhungkt/MasterCook
+Front-end web developer internship.
+Working with React Stack  Developing with ReactJs, Redux, Webpack, ...  Writing Unit tests with Karma, Mocha, Chai, Sinon, Enzyme, ...
+Learning working process:  Agile Programming and Scrum Framework.  Developing in high quality product.
+
+ACTIVITIES
+Audience award.  Hackathon: Developing with ReactJs.  Using: ReactJs, NodeJs, MongoDB.  Presenting the product to get the Audience award.
+Personal role:  Designer: Designing image for the project, designing UX, UI for the website.  Developer: Developing the website (mostly front-end).
+Github: https://github.com/ThuanLCSE/CoffeByourway

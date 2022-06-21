@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="13" family="Arial" color="#000000"/>
+	<fontspec id="1" size="14" family="Arial" color="#000000"/>
+	<fontspec id="2" size="18" family="Times New Roman,Bold" color="#000066"/>
+	<fontspec id="3" size="18" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="4" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="5" size="14" family="Times New Roman" color="#0000ff"/>
+	<fontspec id="6" size="14" family="Times New Roman" color="#000000"/>
+	<fontspec id="7" size="18" family="Times New Roman" color="#0000ff"/>
+<text top="1199" left="51" width="4" height="12" font="0"> </text>
+<text top="1215" left="51" width="4" height="14" font="1"> </text>
+<text top="1215" left="784" width="81" height="14" font="1">Page 1 of 7 </text>
+<text top="111" left="367" width="193" height="16" font="2"><b>CURRICULUM VITAE </b></text>
+<text top="155" left="373" width="180" height="20" font="2"><b>NGUYễN KHOA NGữ </b></text>
+<text top="208" left="50" width="186" height="16" font="3"><b>PERSONAL DETAILS </b></text>
+<text top="238" left="50" width="5" height="16" font="4"> </text>
+<text top="239" left="230" width="91" height="16" font="4">Full Name : </text>
+<text top="235" left="364" width="141" height="20" font="4">Nguyễn Khoa Ngữ </text>
+<text top="262" left="230" width="80" height="16" font="4">Job Titles: </text>
+<text top="262" left="364" width="131" height="16" font="4">Senior Developer </text>
+<text top="285" left="230" width="109" height="16" font="4">Date of Birth : </text>
+<text top="285" left="364" width="87" height="16" font="4">06/08/1987 </text>
+<text top="308" left="230" width="114" height="16" font="4">Place of Birth : </text>
+<text top="308" left="364" width="125" height="16" font="4">Daklak Province </text>
+<text top="331" left="230" width="72" height="16" font="4">Gender :  </text>
+<text top="331" left="364" width="41" height="16" font="4">Male </text>
+<text top="354" left="230" width="116" height="16" font="4">Marital Status : </text>
+<text top="354" left="364" width="51" height="16" font="4">Single </text>
+<text top="387" left="230" width="126" height="16" font="4">Home Address :  </text>
+<text top="377" left="364" width="497" height="16" font="4">Hiep  Thanh17  Street  –  Hiep  Thanh  Ward    –  District  12–  Ho  Chi </text>
+<text top="398" left="364" width="79" height="16" font="4">Minh City </text>
+<text top="420" left="230" width="71" height="16" font="4">Mobile :  </text>
+<text top="420" left="364" width="95" height="16" font="4">0974146341 </text>
+<text top="444" left="230" width="170" height="16" font="4">Email :<a href="mailto:nguyenkhoangu@gmail.com">                          </a></text>
+<text top="445" left="364" width="173" height="13" font="5"><a href="mailto:nguyenkhoangu@gmail.com">nguyenkhoangu@gmail.com</a></text>
+<text top="445" left="537" width="4" height="13" font="6"><a href="mailto:nguyenkhoangu@gmail.com"> </a></text>
+<text top="466" left="51" width="5" height="16" font="4"> </text>
+<text top="498" left="50" width="239" height="16" font="3"><b>SUMMARY INFORMATION </b></text>
+<text top="538" left="77" width="168" height="16" font="7">* Experiences in brief: </text>
+<text top="567" left="77" width="783" height="16" font="4">- 5 years experiences in software development with .NET technology: ASP.NET, C#, VB.Net, ADO.Net, </text>
+<text top="588" left="77" width="365" height="16" font="4">Crystal Report, JavaScript, Jquery, HTML, XML. </text>
+<text top="618" left="77" width="382" height="16" font="4">- Experiences and deep knowledge with SQL Server </text>
+<text top="647" left="77" width="783" height="16" font="4">- More experiences in the projects relating to Accounting management, Financial management, Inventory </text>
+<text top="668" left="77" width="291" height="16" font="4">management, Sales Order management  </text>
+<text top="698" left="77" width="6" height="16" font="7">-</text>
+<text top="698" left="83" width="473" height="16" font="4"> Good about reading and writing English, speaking is acceptable. </text>
+<text top="727" left="77" width="757" height="16" font="4">- Analyzing business, writing technical document, controlling quality and managing progress of projects </text>
+<text top="757" left="77" width="6" height="16" font="7">-</text>
+<text top="757" left="83" width="353" height="16" font="4"> IDEs: Visual studio 2003, 2008, 2010 and 2012 </text>
+<text top="797" left="77" width="78" height="16" font="7">* Hobbies:</text>
+<text top="797" left="156" width="272" height="16" font="4"> Music, sport, game and reading book</text>
+<text top="797" left="428" width="5" height="16" font="7"> </text>
+<text top="837" left="51" width="5" height="16" font="4"> </text>
+<text top="868" left="50" width="202" height="16" font="3"><b>EDUCATION HISTORY </b></text>
+<text top="908" left="50" width="89" height="16" font="4">From: 2005 </text>
+<text top="938" left="50" width="70" height="16" font="4">To: 2009 </text>
+<text top="908" left="220" width="450" height="16" font="4">University/School: Industrial University of Ho Chi Minh City </text>
+<text top="938" left="220" width="393" height="16" font="4">Degree/Qualifications: Engineer in Computer Science </text>
+<text top="969" left="51" width="5" height="16" font="4"> </text>
+<text top="1001" left="50" width="140" height="16" font="3"><b>CERTIFICATES </b></text>
+<text top="1044" left="50" width="60" height="16" font="4">English </text>
+<text top="1044" left="220" width="62" height="16" font="4">Level C </text>
+<text top="1080" left="51" width="5" height="16" font="4"> </text>
+<text top="1112" left="50" width="225" height="16" font="3"><b>EMPLOYMENT HISTORY </b></text>
+<text top="1152" left="50" width="112" height="16" font="4">From: 12/2009 </text>
+<text top="1152" left="222" width="338" height="16" font="4">Company: Fast Software Join Stock Company </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="1199" left="51" width="4" height="12" font="0"> </text>
+<text top="1215" left="51" width="4" height="14" font="1"> </text>
+<text top="1215" left="784" width="81" height="14" font="1">Page 2 of 7 </text>
+<text top="85" left="50" width="87" height="16" font="4">To: Present </text>
+<text top="85" left="222" width="204" height="16" font="4">Job Title: Senior Developer </text>
+<text top="114" left="222" width="638" height="16" font="4">Job  Description:  Analyzing  business,  writing  technical  document,  coding,  controlling </text>
+<text top="135" left="222" width="338" height="16" font="4">quality and managing progress of the projects. </text>
+<text top="175" left="50" width="5" height="16" font="4"> </text>
+<text top="175" left="222" width="5" height="16" font="4"> </text>
+<text top="212" left="51" width="5" height="16" font="4"> </text>
+<text top="244" left="50" width="125" height="16" font="3"><b>REFERENCES </b></text>
+<text top="283" left="50" width="5" height="16" font="4"> </text>
+<text top="278" left="220" width="86" height="16" font="4">Full Name: </text>
+<text top="278" left="409" width="172" height="16" font="4">Truong Ngoc Phi Long </text>
+<text top="314" left="220" width="69" height="16" font="4">Address: </text>
+<text top="304" left="409" width="451" height="16" font="4">14P1  Bau  Cat,  ward  2–  Tan  Binh  District    –  Ho  Chi  Minh </text>
+<text top="325" left="409" width="35" height="16" font="4">City </text>
+<text top="351" left="220" width="55" height="16" font="4">Phone: </text>
+<text top="351" left="409" width="95" height="16" font="4">0909073187 </text>
+<text top="377" left="51" width="5" height="16" font="4"> </text>
+<text top="397" left="51" width="5" height="16" font="4"> </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="1199" left="51" width="4" height="12" font="0"> </text>
+<text top="1215" left="51" width="4" height="14" font="1"> </text>
+<text top="1215" left="784" width="81" height="14" font="1">Page 3 of 7 </text>
+<text top="94" left="50" width="463" height="16" font="3"><b>APPENDIX -  PROJECT REFERENCE AND SKILL SET  </b></text>
+<text top="134" left="50" width="112" height="16" font="4">From: 12/2014 </text>
+<text top="164" left="50" width="69" height="16" font="4">To: Now </text>
+<text top="193" left="50" width="5" height="16" font="4"> </text>
+<text top="129" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="129" left="409" width="60" height="16" font="4">VIFON </text>
+<text top="158" left="221" width="80" height="16" font="4">Company: </text>
+<text top="158" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="188" left="221" width="54" height="16" font="4">Client: </text>
+<text top="188" left="409" width="415" height="16" font="4">Vietnam Food Industries Joint Stock Company (VIFON) </text>
+<text top="217" left="221" width="69" height="16" font="4">Position: </text>
+<text top="217" left="409" width="79" height="16" font="4">Developer </text>
+<text top="247" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="247" left="409" width="115" height="16" font="4">Coding, testing </text>
+<text top="283" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="273" left="409" width="221" height="16" font="4">- Purchase order Management </text>
+<text top="293" left="409" width="262" height="16" font="4">- Manufacturing Resource Planning </text>
+<text top="319" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="319" left="409" width="364" height="16" font="4">VB.Net, SQL Server 2008R2, Visual Studio 2003 </text>
+<text top="349" left="221" width="5" height="16" font="4"> </text>
+<text top="349" left="409" width="5" height="16" font="4"> </text>
+<text top="384" left="50" width="103" height="16" font="4">From: 7/2014 </text>
+<text top="413" left="50" width="93" height="16" font="4">To: 11/2014 </text>
+<text top="443" left="50" width="5" height="16" font="4"> </text>
+<text top="378" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="378" left="409" width="112" height="16" font="4">EUVIPHARM </text>
+<text top="408" left="221" width="80" height="16" font="4">Company: </text>
+<text top="408" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="438" left="221" width="54" height="16" font="4">Client: </text>
+<text top="438" left="409" width="234" height="16" font="4">Euvipharm Pharmaceutical JSC </text>
+<text top="467" left="221" width="69" height="16" font="4">Position: </text>
+<text top="467" left="409" width="131" height="16" font="4">Senior Developer </text>
+<text top="503" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="493" left="409" width="451" height="16" font="4">Analyzing  business,  writing  document,  coding,  testing  and </text>
+<text top="514" left="409" width="167" height="16" font="4">managing the progress </text>
+<text top="567" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="536" left="409" width="196" height="16" font="4">- Accounting management </text>
+<text top="557" left="409" width="285" height="16" font="4">- Inventory Management for Pharmacy </text>
+<text top="577" left="409" width="292" height="16" font="4">- Sales management, calculate discount  </text>
+<text top="598" left="409" width="221" height="16" font="4">- Purchase order Management </text>
+<text top="631" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="620" left="409" width="451" height="16" font="4">ASP.Net,  VB.Net,  JavaScript,  XML,  Ajax,  Jquery,    JSON, </text>
+<text top="641" left="409" width="393" height="16" font="4">SQL Server 2014, Visual Studio 2012, Crystal Report </text>
+<text top="667" left="221" width="5" height="16" font="4"> </text>
+<text top="667" left="409" width="5" height="16" font="4"> </text>
+<text top="702" left="50" width="112" height="16" font="4">From: 04/2014 </text>
+<text top="731" left="50" width="93" height="16" font="4">To: 07/2014 </text>
+<text top="761" left="50" width="5" height="16" font="4"> </text>
+<text top="696" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="696" left="409" width="37" height="16" font="4">PSD </text>
+<text top="725" left="221" width="80" height="16" font="4">Company: </text>
+<text top="725" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="754" left="221" width="54" height="16" font="4">Client: </text>
+<text top="755" left="409" width="151" height="14" font="1">Petrosetco Distribution</text>
+<text top="754" left="560" width="5" height="16" font="4"> </text>
+<text top="783" left="221" width="69" height="16" font="4">Position: </text>
+<text top="783" left="409" width="131" height="16" font="4">Senior Developer </text>
+<text top="818" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="808" left="409" width="427" height="16" font="4">Analyzing business, writing document, coding, testing and </text>
+<text top="829" left="409" width="167" height="16" font="4">managing the progress </text>
+<text top="871" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="850" left="409" width="196" height="16" font="4">- Accounting management </text>
+<text top="871" left="409" width="151" height="16" font="4">- Sales Management </text>
+<text top="891" left="409" width="221" height="16" font="4">- Purchase order Management </text>
+<text top="923" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="913" left="409" width="451" height="16" font="4">ASP.Net,  VB.Net,  JavaScript,  XML,  Ajax,  Jquery,  JSON, </text>
+<text top="934" left="409" width="393" height="16" font="4">SQL Server 2008, Visual Studio 2012, Crystal Report </text>
+<text top="959" left="221" width="5" height="16" font="4"> </text>
+<text top="959" left="409" width="5" height="16" font="4"> </text>
+<text top="994" left="50" width="112" height="16" font="4">From: 01/2014 </text>
+<text top="1023" left="50" width="93" height="16" font="4">To: 04/2014 </text>
+<text top="988" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="988" left="409" width="85" height="16" font="4">ROUSSEL </text>
+<text top="1017" left="221" width="80" height="16" font="4">Company: </text>
+<text top="1017" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="1046" left="221" width="54" height="16" font="4">Client: </text>
+<text top="1046" left="409" width="172" height="16" font="4">ROUSSEL VIETNAM </text>
+<text top="1075" left="221" width="69" height="16" font="4">Position: </text>
+<text top="1075" left="409" width="131" height="16" font="4">Senior Developer </text>
+<text top="1110" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="1100" left="409" width="451" height="16" font="4">Analyzing  business,  writing  document,  coding,  testing  and </text>
+<text top="1120" left="409" width="222" height="16" font="4">managing the project progress </text>
+<text top="1152" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="1142" left="409" width="197" height="16" font="4">- Accounting Management </text>
+<text top="1163" left="409" width="290" height="16" font="4">- Inventory Management for Pharmacy  </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="1199" left="51" width="4" height="12" font="0"> </text>
+<text top="1215" left="51" width="4" height="14" font="1"> </text>
+<text top="1215" left="784" width="81" height="14" font="1">Page 4 of 7 </text>
+<text top="84" left="409" width="221" height="16" font="4">- Purchase order Management </text>
+<text top="123" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="113" left="409" width="451" height="16" font="4">ASP.Net,  VB.Net,  JavaScript,  XML,  Ajax,  JSON,  SQL </text>
+<text top="134" left="409" width="355" height="16" font="4">Server 2008, Visual Studio 2010, Crystal Report </text>
+<text top="159" left="221" width="5" height="16" font="4"> </text>
+<text top="159" left="409" width="5" height="16" font="4"> </text>
+<text top="184" left="50" width="5" height="16" font="4"> </text>
+<text top="205" left="50" width="112" height="16" font="4">From: 10/2013 </text>
+<text top="226" left="50" width="93" height="16" font="4">To: 03/2014 </text>
+<text top="188" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="188" left="409" width="93" height="16" font="4">TINNGHIA </text>
+<text top="218" left="221" width="80" height="16" font="4">Company: </text>
+<text top="218" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="247" left="221" width="54" height="16" font="4">Client: </text>
+<text top="247" left="409" width="311" height="16" font="4">TIN NGHIA JOINT-STOCK COMPANY </text>
+<text top="277" left="221" width="69" height="16" font="4">Position: </text>
+<text top="277" left="409" width="131" height="16" font="4">Senior Developer </text>
+<text top="313" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="303" left="409" width="451" height="16" font="4">Analyzing  business,  writing  document,  coding,  testing  and </text>
+<text top="323" left="409" width="222" height="16" font="4">managing the project progress </text>
+<text top="377" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="346" left="409" width="197" height="16" font="4">- Accounting Management </text>
+<text top="366" left="409" width="183" height="16" font="4">- Inventory Management </text>
+<text top="387" left="409" width="192" height="16" font="4">- Production Management </text>
+<text top="408" left="409" width="221" height="16" font="4">- Purchase order Management </text>
+<text top="440" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="430" left="409" width="451" height="16" font="4">ASP.Net,  VB.Net,  JavaScript,  XML,  Ajax,  JSON,  SQL </text>
+<text top="451" left="409" width="355" height="16" font="4">Server 2005, Visual Studio 2010, Crystal Report </text>
+<text top="476" left="221" width="5" height="16" font="4"> </text>
+<text top="476" left="409" width="5" height="16" font="4"> </text>
+<text top="502" left="50" width="112" height="16" font="4">From: 05/2013 </text>
+<text top="523" left="50" width="93" height="16" font="4">To: 10/2013 </text>
+<text top="506" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="506" left="409" width="98" height="16" font="4">TINTHANH </text>
+<text top="535" left="221" width="80" height="16" font="4">Company: </text>
+<text top="535" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="564" left="221" width="54" height="16" font="4">Client: </text>
+<text top="564" left="409" width="311" height="16" font="4">TIN NGHIA JOINT-STOCK COMPANY </text>
+<text top="592" left="221" width="69" height="16" font="4">Position: </text>
+<text top="592" left="409" width="131" height="16" font="4">Senior Developer </text>
+<text top="628" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="618" left="409" width="427" height="16" font="4">Analyzing business, writing document, coding, testing and </text>
+<text top="638" left="409" width="222" height="16" font="4">managing the project progress </text>
+<text top="691" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="660" left="409" width="183" height="16" font="4">- Inventory Management </text>
+<text top="680" left="409" width="197" height="16" font="4">- Accounting Management </text>
+<text top="701" left="409" width="192" height="16" font="4">- Production Management </text>
+<text top="722" left="409" width="221" height="16" font="4">- Purchase order Management </text>
+<text top="754" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="743" left="409" width="451" height="16" font="4">VB.Net,  SQL  Server  2005,  Visual  Studio  2010,  Crystal </text>
+<text top="764" left="409" width="53" height="16" font="4">Report </text>
+<text top="789" left="221" width="5" height="16" font="4"> </text>
+<text top="789" left="409" width="5" height="16" font="4"> </text>
+<text top="815" left="50" width="5" height="16" font="4"> </text>
+<text top="836" left="50" width="112" height="16" font="4">From: 12/2012 </text>
+<text top="857" left="50" width="93" height="16" font="4">To: 05/2013 </text>
+<text top="819" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="819" left="409" width="125" height="16" font="4">TRINHVUONG </text>
+<text top="848" left="221" width="80" height="16" font="4">Company: </text>
+<text top="848" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="878" left="221" width="54" height="16" font="4">Client: </text>
+<text top="878" left="409" width="226" height="16" font="4">Trinh Vuong garment Co., Ltd </text>
+<text top="907" left="221" width="69" height="16" font="4">Position: </text>
+<text top="907" left="409" width="131" height="16" font="4">Senior Developer </text>
+<text top="937" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="937" left="409" width="251" height="16" font="4">Writing document, coding, testing </text>
+<text top="983" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="963" left="409" width="196" height="16" font="4">- Accounting management </text>
+<text top="983" left="409" width="181" height="16" font="4">- Inventory management </text>
+<text top="1004" left="409" width="190" height="16" font="4">- Production management </text>
+<text top="1037" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="1026" left="409" width="451" height="16" font="4">ASP.Net,  VB.Net,  JavaScript,  XML,  SQL  Server  2008, </text>
+<text top="1047" left="409" width="244" height="16" font="4">Visual Studio 2010, Ajax, JSON  </text>
+<text top="1073" left="221" width="5" height="16" font="4"> </text>
+<text top="1073" left="409" width="5" height="16" font="4"> </text>
+<text top="1108" left="50" width="112" height="16" font="4">From: 08/2012 </text>
+<text top="1138" left="50" width="93" height="16" font="4">To: 12/2012 </text>
+<text top="1103" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="1103" left="409" width="44" height="16" font="4">VFM </text>
+<text top="1131" left="221" width="80" height="16" font="4">Company: </text>
+<text top="1131" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="1160" left="221" width="54" height="16" font="4">Client: </text>
+<text top="1160" left="409" width="262" height="16" font="4">Vietnam Fund Management (VFM) </text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="8" size="12" family="Arial" color="#000000"/>
+<text top="1199" left="51" width="4" height="12" font="0"> </text>
+<text top="1215" left="51" width="4" height="14" font="1"> </text>
+<text top="1215" left="784" width="81" height="14" font="1">Page 5 of 7 </text>
+<text top="88" left="221" width="69" height="16" font="4">Position: </text>
+<text top="88" left="409" width="131" height="16" font="4">Senior Developer </text>
+<text top="116" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="116" left="409" width="256" height="16" font="4">Writing document, coding, testing  </text>
+<text top="145" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="145" left="409" width="181" height="16" font="4">- Financial Management </text>
+<text top="174" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="174" left="409" width="387" height="16" font="4">VB.Net, SQL Server 2005, Visual Studio 2003, CSV </text>
+<text top="203" left="221" width="5" height="16" font="4"> </text>
+<text top="203" left="409" width="5" height="16" font="4"> </text>
+<text top="229" left="50" width="107" height="16" font="4">From 05/2012 </text>
+<text top="249" left="50" width="88" height="16" font="4">To 08/2012 </text>
+<text top="233" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="233" left="409" width="55" height="16" font="4">BIVID </text>
+<text top="261" left="221" width="80" height="16" font="4">Company: </text>
+<text top="261" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="290" left="221" width="54" height="16" font="4">Client: </text>
+<text top="290" left="409" width="133" height="16" font="4">BIVID CO., LTD </text>
+<text top="319" left="221" width="69" height="16" font="4">Position: </text>
+<text top="319" left="409" width="131" height="16" font="4">Senior Developer </text>
+<text top="354" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="344" left="409" width="451" height="16" font="4">Analyzing  business,  writing  document,  coding,  testing  and </text>
+<text top="365" left="409" width="163" height="16" font="4">managing the progress</text>
+<text top="368" left="572" width="3" height="11" font="8"> </text>
+<text top="397" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="386" left="409" width="181" height="16" font="4">- Inventory management </text>
+<text top="407" left="409" width="145" height="16" font="4">- Sales management</text>
+<text top="410" left="554" width="3" height="11" font="8"> </text>
+<text top="439" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="428" left="409" width="451" height="16" font="4">VB.Net,  SQL  Server  2005,  Visual  Studio  2003,  Crystal </text>
+<text top="449" left="409" width="53" height="16" font="4">Report </text>
+<text top="474" left="221" width="5" height="16" font="4"> </text>
+<text top="474" left="409" width="5" height="16" font="4"> </text>
+<text top="509" left="50" width="112" height="16" font="4">From: 01/2012 </text>
+<text top="539" left="50" width="93" height="16" font="4">To: 02/2012 </text>
+<text top="504" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="504" left="409" width="102" height="16" font="4">LUKSLAND </text>
+<text top="532" left="221" width="80" height="16" font="4">Company: </text>
+<text top="532" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="561" left="221" width="54" height="16" font="4">Client: </text>
+<text top="561" left="409" width="220" height="16" font="4">Luks Land (Vietnam) Co. Ltd </text>
+<text top="590" left="221" width="69" height="16" font="4">Position: </text>
+<text top="590" left="409" width="131" height="16" font="4">Senior Developer </text>
+<text top="619" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="619" left="409" width="423" height="16" font="4">Analyzing business, writing document, coding and testing </text>
+<text top="648" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="648" left="409" width="425" height="16" font="4">Financial Management Software, connect to Vietcombank </text>
+<text top="676" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="676" left="409" width="392" height="16" font="4"> VB.Net, SQL Server 2005, Visual Studio 2003, CSV </text>
+<text top="705" left="221" width="5" height="16" font="4"> </text>
+<text top="705" left="409" width="5" height="16" font="4"> </text>
+<text top="731" left="50" width="112" height="16" font="4">From: 10/2011 </text>
+<text top="752" left="50" width="93" height="16" font="4">To: 12/2011 </text>
+<text top="735" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="735" left="409" width="39" height="16" font="4">FCC </text>
+<text top="764" left="221" width="80" height="16" font="4">Company: </text>
+<text top="764" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="792" left="221" width="54" height="16" font="4">Client: </text>
+<text top="792" left="409" width="291" height="16" font="4">FCC Control and Fumigation Company </text>
+<text top="821" left="221" width="69" height="16" font="4">Position: </text>
+<text top="821" left="409" width="79" height="16" font="4">Developer </text>
+<text top="850" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="850" left="409" width="58" height="16" font="4">Coding </text>
+<text top="879" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="879" left="409" width="239" height="16" font="4">Financial Management Software </text>
+<text top="914" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="904" left="409" width="451" height="16" font="4">VB.Net,  SQL  Server  2005,  Visual  Studio  2003,  Crystal </text>
+<text top="925" left="409" width="53" height="16" font="4">Report </text>
+<text top="950" left="221" width="5" height="16" font="4"> </text>
+<text top="950" left="409" width="5" height="16" font="4"> </text>
+<text top="976" left="50" width="112" height="16" font="4">From: 05/2011 </text>
+<text top="996" left="50" width="93" height="16" font="4">To: 03/2012 </text>
+<text top="979" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="979" left="409" width="60" height="16" font="4">VIFON </text>
+<text top="1008" left="221" width="80" height="16" font="4">Company: </text>
+<text top="1008" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="1037" left="221" width="54" height="16" font="4">Client: </text>
+<text top="1037" left="409" width="415" height="16" font="4">Vietnam Food Industries Joint Stock Company (VIFON) </text>
+<text top="1066" left="221" width="69" height="16" font="4">Position: </text>
+<text top="1066" left="409" width="79" height="16" font="4">Developer </text>
+<text top="1095" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="1095" left="409" width="251" height="16" font="4">Writing document, coding, testing </text>
+<text top="1140" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="1120" left="409" width="188" height="16" font="4">- Inventory Management  </text>
+<text top="1140" left="409" width="104" height="16" font="4">- Sales Order  </text>
+<text top="1161" left="409" width="290" height="16" font="4">- Connect with GESO to get Sales data  </text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="1199" left="51" width="4" height="12" font="0"> </text>
+<text top="1215" left="51" width="4" height="14" font="1"> </text>
+<text top="1215" left="784" width="81" height="14" font="1">Page 6 of 7 </text>
+<text top="87" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="87" left="409" width="343" height="16" font="4">VB.Net, SQL Server 2005, Visual Studio 2003 </text>
+<text top="116" left="221" width="5" height="16" font="4"> </text>
+<text top="116" left="409" width="5" height="16" font="4"> </text>
+<text top="142" left="50" width="112" height="16" font="4">From: 06/2011 </text>
+<text top="162" left="50" width="93" height="16" font="4">To: 08/2011 </text>
+<text top="145" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="145" left="409" width="127" height="16" font="4">HOUSEWARES </text>
+<text top="174" left="221" width="80" height="16" font="4">Company: </text>
+<text top="174" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="203" left="221" width="54" height="16" font="4">Client: </text>
+<text top="203" left="409" width="223" height="16" font="4">Vietnam Housewares Co., Ltd </text>
+<text top="232" left="221" width="69" height="16" font="4">Position: </text>
+<text top="232" left="409" width="79" height="16" font="4">Developer </text>
+<text top="260" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="260" left="409" width="199" height="16" font="4">Writing document, coding  </text>
+<text top="289" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="289" left="409" width="354" height="16" font="4">Developing software for Inventory Management </text>
+<text top="318" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="318" left="409" width="318" height="16" font="4">VB.Net, MSSQL 2000, Visual Studio 2003 </text>
+<text top="347" left="221" width="5" height="16" font="4"> </text>
+<text top="347" left="409" width="5" height="16" font="4"> </text>
+<text top="382" left="50" width="112" height="16" font="4">From: 02/2011 </text>
+<text top="412" left="50" width="93" height="16" font="4">To: 07/2011 </text>
+<text top="377" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="377" left="409" width="82" height="16" font="4">HUYBAO </text>
+<text top="405" left="221" width="80" height="16" font="4">Company: </text>
+<text top="405" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="434" left="221" width="54" height="16" font="4">Client: </text>
+<text top="434" left="409" width="337" height="16" font="4">HB-Kmix Trading Service Company Limited  </text>
+<text top="463" left="221" width="69" height="16" font="4">Position: </text>
+<text top="463" left="409" width="79" height="16" font="4">Developer </text>
+<text top="492" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="492" left="409" width="141" height="16" font="4">Coding and testing </text>
+<text top="538" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="517" left="409" width="206" height="16" font="4"> - Accounting Management  </text>
+<text top="538" left="409" width="160" height="16" font="4"> - Maid Management  </text>
+<text top="558" left="409" width="243" height="16" font="4"> - Human Resource Management </text>
+<text top="590" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="580" left="409" width="451" height="16" font="4">VB.Net,  MSSQL  Server  2005,  Visual  Studio  2003,  Crystal </text>
+<text top="600" left="409" width="53" height="16" font="4">Report </text>
+<text top="626" left="221" width="5" height="16" font="4"> </text>
+<text top="626" left="409" width="5" height="16" font="4"> </text>
+<text top="660" left="50" width="112" height="16" font="4">From: 10/2010 </text>
+<text top="689" left="50" width="93" height="16" font="4">To: 12/2010 </text>
+<text top="719" left="50" width="5" height="16" font="4"> </text>
+<text top="740" left="50" width="5" height="16" font="4"> </text>
+<text top="654" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="654" left="409" width="30" height="16" font="4">AD </text>
+<text top="683" left="221" width="80" height="16" font="4">Company: </text>
+<text top="683" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="712" left="221" width="54" height="16" font="4">Client: </text>
+<text top="712" left="409" width="233" height="16" font="4">Advanced Distribution Co., Ltd </text>
+<text top="741" left="221" width="69" height="16" font="4">Position: </text>
+<text top="741" left="409" width="79" height="16" font="4">Developer </text>
+<text top="770" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="770" left="409" width="58" height="16" font="4">Coding </text>
+<text top="815" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="795" left="409" width="340" height="16" font="4"> - Developing the Sales management software  </text>
+<text top="815" left="409" width="398" height="16" font="4"> - Customize the website to export sales data report for </text>
+<text top="836" left="409" width="71" height="16" font="4">customer </text>
+<text top="868" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="858" left="409" width="451" height="16" font="4">VB.Net, MSSQL Server 2008, Asp.Net, XML, Ajax, JSON, </text>
+<text top="878" left="409" width="308" height="16" font="4">Visual Studio 2008, Crystal Report, Excel </text>
+<text top="903" left="221" width="5" height="16" font="4"> </text>
+<text top="903" left="409" width="5" height="16" font="4"> </text>
+<text top="938" left="50" width="112" height="16" font="4">From: 06/2010 </text>
+<text top="968" left="50" width="93" height="16" font="4">To: 09/2010 </text>
+<text top="998" left="50" width="5" height="16" font="4"> </text>
+<text top="1018" left="50" width="5" height="16" font="4"> </text>
+<text top="933" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="933" left="409" width="118" height="16" font="4">SCHAEFFLER </text>
+<text top="962" left="221" width="80" height="16" font="4">Company: </text>
+<text top="962" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="990" left="221" width="54" height="16" font="4">Client: </text>
+<text top="990" left="409" width="153" height="16" font="4">Schaeffler VietNam  </text>
+<text top="1019" left="221" width="69" height="16" font="4">Position: </text>
+<text top="1019" left="409" width="79" height="16" font="4">Developer </text>
+<text top="1048" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="1048" left="409" width="258" height="16" font="4">Coding, testing, writing documents </text>
+<text top="1084" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="1073" left="409" width="252" height="16" font="4">- Sales and Purchase Management </text>
+<text top="1094" left="409" width="205" height="16" font="4">- Internal Sale Management </text>
+<text top="1126" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="1115" left="409" width="451" height="16" font="4">VB.NET, MSSQL Server 2005, Visual Studio 2003, Crystal </text>
+<text top="1136" left="409" width="104" height="16" font="4">Report, Excel </text>
+<text top="1161" left="221" width="5" height="16" font="4"> </text>
+<text top="1161" left="409" width="5" height="16" font="4"> </text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1262" width="892">
+<text top="1199" left="51" width="4" height="12" font="0"> </text>
+<text top="1215" left="51" width="4" height="14" font="1"> </text>
+<text top="1215" left="784" width="81" height="14" font="1">Page 7 of 7 </text>
+<text top="92" left="50" width="112" height="16" font="4">From: 02/2010 </text>
+<text top="122" left="50" width="93" height="16" font="4">To: 05/2010 </text>
+<text top="87" left="221" width="108" height="16" font="4">Project Name: </text>
+<text top="87" left="409" width="41" height="16" font="4">HAI  </text>
+<text top="116" left="221" width="80" height="16" font="4">Company: </text>
+<text top="116" left="409" width="138" height="16" font="4">Fast Software JSC </text>
+<text top="146" left="221" width="54" height="16" font="4">Client: </text>
+<text top="146" left="409" width="151" height="16" font="4">HAI Agrochem JSC </text>
+<text top="176" left="221" width="69" height="16" font="4">Position: </text>
+<text top="176" left="409" width="79" height="16" font="4">Developer </text>
+<text top="205" left="221" width="125" height="16" font="4">Responsibilities: </text>
+<text top="205" left="409" width="141" height="16" font="4">Coding and testing </text>
+<text top="241" left="221" width="154" height="16" font="4">Project  Description: </text>
+<text top="231" left="409" width="451" height="16" font="4">Customize  Accounting  Management  Software  according  to </text>
+<text top="252" left="409" width="171" height="16" font="4">the customer's requests </text>
+<text top="284" left="221" width="148" height="16" font="4">Used Technologies: </text>
+<text top="274" left="409" width="451" height="16" font="4">VB.Net,  MSSQL  Server  2005,  Visual  Studio  2003,  Crystal </text>
+<text top="295" left="409" width="53" height="16" font="4">Report </text>
+<text top="317" left="51" width="5" height="16" font="4"> </text>
+<text top="340" left="51" width="3" height="11" font="8"> </text>
+</page>
+</pdf2xml>

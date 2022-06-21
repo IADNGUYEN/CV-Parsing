@@ -1,0 +1,41 @@
+Green Summer Volunteer Campaign
+Introduction Society
+Computer Architecture
+Programming Languages
+DESIGN PROJECT 2  Smart Parking
+The project using camera and OpenCV library to detect the parked
+cars to facilitate the service to the users.
+DESIGN PROJECT 1  Smart Farming
+Controlling 2 relays by automatic or manual modes. The system is
+designed to run RTOS in STM32F103C8T6 KIT.
+Getting data from environment sends to LCD display.
+The Computer: used to process image.
+GRADUATION THESIS  Smart Car Park System
+System models include:
+The Camera: used to observe the parking lot.
+INTERNSHIP PROJECT  Indoor Fingerprinting
+Rebuilding a system about Indoor Fingerprinting.
+Study about Python, Tensorﬂow, DNN, CNN, LSTM,...
+Jan 2017
+Jun 2017
+Aug 2017
+Dec 2017
+Jan 2018
+Jul 2018
+Nov 2018
+Aug 2018
+Embedded
+C/C++
+Python
+Verilog
+Java
+Deep Learning
+GPA
+3.06 (TOP 1)
+fb.com/gioinguyen1305
+(+84) 98 178 7097
+gioinguyen1305@gmail.com
+District 9, Ho Chi Minh City
+To ﬁnd a position where I can use the knowledge
+and strengths what I have.
+To add value and continue to grow the company.

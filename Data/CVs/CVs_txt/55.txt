@@ -1,0 +1,133 @@
+Date of birth
+July 11, 1990
+Gender
+FeMale
+Phone
+0765075210
+Email
+thanhtuyen117@gmail.com
+Address
+C8 Street, Tay Thanh Ward, Tan
+Phu District, Ho Chi Minh City.
+OBJECTIVE
+I want to become a professional
+software developer (maybe even
+become "great") with apassion for
+discovery, learning, diligence,
+actively gain experience,
+professionalism and good
+communication.
+SKILLS
+C-C++
+QT
+MS SQL, MySQL, SQLite
+IriTech company
+Dec 2012  Present
+Quan Quan technology company
+June 2012  Oct 2012
+Sai Gon Lab company
+Feb 2012  Apr 2012
+Gemini
+Jan 2017  Sep 2018
+Image Database Management
+Feb 2016  Nov 2017
+IrisLineChart
+Oct 2015  Oct 2015
+Position: Software engineer  Application development.  Improve, manternance and fix bug.  Research, apply to project.  Unittest.  Deployment and release product.  Onsite in Korea during 3 months.
+Position: Developer  Design + Web development.
+Position: Intership  Developer  Web developer.
+Description: Gemini-Core is an iris biometrics device that has its own
+computation power, memory, storage and peripherals to perform iris image
+acquisition, template generation, and matching.GeminiDemo provides a
+secure authentication framework for embedded devices like Raspberry pi.
+The system also provides iris recognition functions such as enrollment and
+identification, and refines the best iris images for biometric authentication
+purposes.
+Language: QT, C-C++.
+Task: Implement and manternance some functions of alls: server, modules,
+sdk and demo, sample code.
+Description: With purpose building an Image Database Management System
+(IDMS) for querying and getting all images to test algorithm, we need two
+components:Web Service API and client application.The client application will
+support features: Searching, Offline working mode, Batch processing,
+Streaming image processing, Preview, Searching with threshold, Failure
+Auditing, User Authentication.
+Language: QT, C-C++.
+Task: Implement and manternance all functions of client side.
+Description: Show multi chart of iris marking manual result, to compare or
+preview, export.
+Language: QT, C-C++.
+Võ Thị Thanh Tuyền
+Software Developer
+WORK EXPERIENCE
+PROJECTS
+Java
+HTML, CSS, XML, Javascript
+.NET
+C#
+PHP + MySQL
+TOOLS AND SORTWARE
+Tools:  TortoiseSVN  Visual Studio  Eclipse  Total comander  Winmerge  SQlite Expert Tool, ...
+Operating System  Windows: Windows Server
+2003,2008; Windows XP; Windows
+7, Windows 8, Windows 10.  Linux: Ubuntu, RedHat5,
+RedHat6, Fedora, CentOS.
+PCLogin-ForYourIrisOnly
+Nov 2014  Jan 2015
+BioAPI
+Aug 2014  Jan 2016
+IriTracker
+Mar 2013  Nov 2016
+IriSecureID
+Jan 2013  Feb 2014
+Others
+Jan 2012  Present
+Some project at school
+2008  2012
+Task: Implement and manternance all functions.
+Description: ForYourIrisOnly Solution for PC provides a secure authentication
+framework for Windows-based personal computers (PCs), it simplifies the
+protection of your private data by using a handy iris scanner device,
+protecting your sensitive information on your computers, or locking
+applications from unauthorized User.Main function: Windows Log-On, Single
+Sign On, Data Protection and Application Lock.
+Language: QT, C-C++.
+Task: Implementation some functions, manternance.
+Description: The BioAPI specification, provides a high-level generic biometric
+authentication model suited to most forms of biometric technology.
+Language: C-C++.
+Task: Unittest for API on windows and linux, multi thread testing, debug, fix
+bugs.
+Description: It is a time and attendance software designed to automatically
+manage employee attendance by using iris recognition technology, auto send
+report, bulletin,... with client-server model.
+Language: QT, C-C++.
+Task: Implement and maintenance all functions of client side.
+Description: A complete iris recognition system, consisting of iris cameras,
+host device-based software, and IriSecureService.IriSecureIDClient is an
+application demonstrating how to use IriTech’s devices (IriShield, IriMagic,
+IriCAMM, IriTeminal, IriHerald, or IriCourier) with IriSecureIDService.
+Language: QT, C-C++.
+Task: Implement and maintenance all functions of client side.
+Description: Some other projects: Iddk library, Iricore, RD- SDK & Ultilities, RD
+wrapper  IriShieldRegDevAPI, Authenticaion client Tool, …
+Language: C-C++.
+Task: Unittest, implementation some functions.  Website for selling milk: PHP + MySQL
+Ho Chi Minh City University of Pedagogy
+Oct 2008  May 2012
+Nhat Nghe Education JSC
+Sep 2011  Nov 2011
+Annual scholarships for all semesters of the course.
+2008-2012  Ability to quickly learn and research new knowledge.  Working well under pressure and strict deadline.  Be able to work independently and in team.  Dynamic, active, creative and enthusiasm in work.  Have experience for estimating time to complete
+project.  Responsible and decisive.  Quick adapting in a new environment.  Be very responsible and willing to learn new things,
+overcoming obstacles.  Be very sociable and friendly with everyone.
+2019  Website for selling: Java  Website for selling laptop: ASP.NET + SQL  Charity management system: C#, ASP.NET + DNN
+Some project at Quan Quan company  Website for selling: C# + DB OOP  Website booking online: C# + DB OOP
+Major: Software Technology
+GPA: 7.98/10
+Major: Web Developer: C#, ASP.NET, SQLServer
+GPA: 9/10
+© topcv.vn
+EDUCATION
+HONORS & AWARDS
+SOFT SKILLS

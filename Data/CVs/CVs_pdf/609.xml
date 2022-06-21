@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="22" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="1" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="2" size="14" family="Arial" color="#212121"/>
+	<fontspec id="3" size="14" family="ArialMT" color="#212121"/>
+	<fontspec id="4" size="19" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="5" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="6" size="16" family="SymbolMT" color="#000000"/>
+	<fontspec id="7" size="16" family="ArialMT" color="#000000"/>
+<text top="113" left="377" width="169" height="23" font="0"><b>HOANG THU VAN </b></text>
+<text top="158" left="278" width="366" height="17" font="1">Korea Advanced University of Science and Technology </text>
+<text top="196" left="129" width="60" height="14" font="2"><b>Address</b></text>
+<text top="196" left="189" width="605" height="14" font="3">: Areum Hall (KAIST), 291 Daehak-ro, Guseong-dong, Yuseong-gu, Daejeon, South Korea </text>
+<text top="231" left="360" width="40" height="14" font="2"><b>Email</b></text>
+<text top="231" left="400" width="161" height="14" font="3">: vanhoang@kaist.ac.kr </text>
+<text top="266" left="459" width="4" height="17" font="1"> </text>
+<text top="305" left="420" width="82" height="19" font="4"><b>Objective </b></text>
+<text top="346" left="108" width="647" height="17" font="1">I am a third year student majoring in computer science. I have a strong problem solving skill and </text>
+<text top="369" left="108" width="644" height="17" font="1">programming skill, and an interest to advanced technology. I am looking for a computer science </text>
+<text top="393" left="108" width="607" height="17" font="1">research opportunity in a laboratory environment to gain experience for my future study.  </text>
+<text top="431" left="108" width="4" height="17" font="1"> </text>
+<text top="470" left="401" width="120" height="19" font="4"><b>Relevant skills </b></text>
+<text top="511" left="108" width="111" height="17" font="5"><b>Technical Skills: </b></text>
+<text top="546" left="135" width="8" height="20" font="6"></text>
+<text top="551" left="143" width="5" height="15" font="7"> </text>
+<text top="550" left="162" width="314" height="17" font="1">Proficient in C/C++, Python, and Java language </text>
+<text top="570" left="135" width="8" height="20" font="6"></text>
+<text top="575" left="143" width="5" height="15" font="7"> </text>
+<text top="574" left="162" width="624" height="17" font="1">Having problem-solving skill, can deal with problems effectively can solve complex algorithm </text>
+<text top="598" left="162" width="71" height="17" font="1">problems. </text>
+<text top="636" left="108" width="81" height="17" font="5"><b>Teamwork: </b></text>
+<text top="671" left="135" width="8" height="20" font="6"></text>
+<text top="675" left="143" width="5" height="15" font="7"> </text>
+<text top="675" left="162" width="572" height="17" font="1">Accustomed to working effectively and diligently in groups during academic projects  </text>
+<text top="713" left="108" width="117" height="17" font="5"><b>Communication: </b></text>
+<text top="748" left="135" width="8" height="20" font="6"></text>
+<text top="752" left="143" width="5" height="15" font="7"> </text>
+<text top="752" left="162" width="627" height="17" font="1">Confident verbal communication skills as demonstrated delivering presentation at university  </text>
+<text top="772" left="135" width="8" height="20" font="6"></text>
+<text top="777" left="143" width="5" height="15" font="7"> </text>
+<text top="776" left="162" width="402" height="17" font="1">Can speak English fluently, and Chinese, and a little Korean. </text>
+<text top="799" left="162" width="4" height="17" font="1"> </text>
+<text top="822" left="378" width="4" height="17" font="1"> </text>
+<text top="846" left="378" width="203" height="19" font="4"><b>Extracurricular Activities </b></text>
+<text top="870" left="135" width="8" height="20" font="6"></text>
+<text top="874" left="143" width="5" height="15" font="7"> </text>
+<text top="874" left="162" width="593" height="17" font="1">Assistant in KAIST International House, organizing Korean Language Class and Events for </text>
+<text top="897" left="162" width="216" height="17" font="1">International Students in KAIST. </text>
+<text top="920" left="162" width="4" height="17" font="1"> </text>
+<text top="944" left="450" width="76" height="19" font="4"><b>Interests </b></text>
+<text top="967" left="135" width="8" height="20" font="6"></text>
+<text top="972" left="143" width="5" height="15" font="7"> </text>
+<text top="972" left="162" width="375" height="17" font="1">Enjoy reading books and playing piano in my free time.  </text>
+<text top="995" left="216" width="4" height="17" font="1"> </text>
+<text top="1018" left="162" width="4" height="17" font="1"> </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="27" family="Times New Roman" color="#000000"/>
+	<fontspec id="1" size="21" family="Times New Roman" color="#000000"/>
+	<fontspec id="2" size="21" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="3" size="21" family="Symbol" color="#000000"/>
+	<fontspec id="4" size="21" family="Arial" color="#000000"/>
+	<fontspec id="5" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="6" size="23" family="Times New Roman" color="#000000"/>
+<text top="60" left="344" width="211" height="24" font="0">Huynh Thien Khoi </text>
+<text top="94" left="90" width="718" height="19" font="1">19E2, Nguyen Van Thuong Street, 25 Ward, Binh Thanh District, Ho Chi Minh City </text>
+<text top="122" left="222" width="455" height="19" font="1">Phone : 0389977232. Email : htk241998@gmail.com </text>
+<text top="168" left="361" width="176" height="19" font="2"><b>Personal statement </b></text>
+<text top="210" left="54" width="790" height="19" font="1">I  am  a  third  -  year  student  studying  in  Physics  and  Computer  Science  Major  with  a  good </text>
+<text top="238" left="54" width="790" height="19" font="1">academic  record  and  some  soft  skills  acquired  through  extra-curricular  activities  and </text>
+<text top="266" left="54" width="790" height="19" font="1">projects. I am confident in my teamwork skills and my willingness to learn new things. I also </text>
+<text top="294" left="54" width="790" height="19" font="1">have basic knowledge in programming and data structure. I am looking for an internship for </text>
+<text top="322" left="54" width="279" height="19" font="1">machine learning, data science.   </text>
+<text top="365" left="422" width="54" height="19" font="2"><b>Skills </b></text>
+<text top="402" left="81" width="10" height="26" font="3"></text>
+<text top="408" left="91" width="6" height="19" font="4"> </text>
+<text top="409" left="108" width="735" height="19" font="1">I have developed good communication skills from studying and working on projects in </text>
+<text top="436" left="108" width="69" height="19" font="1">classes. </text>
+<text top="459" left="81" width="10" height="26" font="3"></text>
+<text top="465" left="91" width="6" height="19" font="4"> </text>
+<text top="466" left="108" width="711" height="19" font="1">I have beginner level knowledge regarding data structure, object-oriented languages </text>
+<text top="493" left="108" width="138" height="19" font="1">like C++, Java.  </text>
+<text top="516" left="81" width="10" height="26" font="3"></text>
+<text top="522" left="91" width="6" height="19" font="4"> </text>
+<text top="523" left="108" width="710" height="19" font="1">I am IT literate with a typing speed of 55 - 60 wpm and the ability to use most basic </text>
+<text top="551" left="108" width="720" height="19" font="1">software packages to an intermediate level (Microsoft Word, Excel and PowerPoint). </text>
+<text top="594" left="396" width="106" height="19" font="2"><b>Experience </b></text>
+<text top="636" left="296" width="306" height="19" font="1">I have no prior working experience. </text>
+<text top="679" left="400" width="97" height="19" font="2"><b>Education </b></text>
+<text top="722" left="54" width="309" height="19" font="1">Ho Chi Minh University Of Science </text>
+<text top="749" left="54" width="110" height="19" font="1">2016 – 2020 </text>
+<text top="776" left="54" width="424" height="16" font="5">Department : Faculty of Physics and Engineering Physics. </text>
+<text top="800" left="54" width="285" height="16" font="5">Major : Physics and Computer Science.</text>
+<text top="796" left="339" width="6" height="22" font="6"> </text>
+<text top="825" left="54" width="106" height="19" font="1">GPA : 6.97. </text>
+<text top="852" left="54" width="5" height="16" font="5"> </text>
+<text top="877" left="350" width="199" height="19" font="2"><b>Hobbies and interests </b></text>
+<text top="914" left="135" width="10" height="26" font="3"></text>
+<text top="920" left="145" width="6" height="19" font="4"> </text>
+<text top="921" left="162" width="456" height="19" font="1"> I usually play games and read books in my free time. </text>
+<text top="943" left="135" width="10" height="26" font="3"></text>
+<text top="949" left="145" width="6" height="19" font="4"> </text>
+<text top="950" left="162" width="599" height="19" font="1">Sometimes, I also study and watch courses online about programming, </text>
+<text top="978" left="162" width="227" height="19" font="1">communication skills, . . .  </text>
+</page>
+</pdf2xml>

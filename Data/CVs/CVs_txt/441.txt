@@ -1,0 +1,61 @@
+Sep 2016  June 2020
+University of Science
+Major: Physics and Computer Science
+GPA: 7.02
+Oct 2016  June 2018
+NES Club
+leader of electronic group  Organize events.  Learning Arduino and Hardware skills.  Make projects
+2016
+Office computing
+Language
+English
+Computer
+Word, Excel, PowerPoint, Adobe Illustrator.
+Computer
+C, C++, Java, Data Structure.
+Tran Tai Phuc
+Date of birth
+Dec 06, 1998
+Gender
+Male
+Phone
+0939 881 223
+Email
+ttphuc1998@gmail.com
+Address
+Ho Chi Minh City, Vietnam
+Website
+https://www.facebook.com/trantai.phuc
+OBJECTIVE
+Applying skill in software and hardware in reality and improving skills are lacked
+EDUCATION
+ACTIVITIES
+CERTIFICATIONS
+SKILLS
+INTERESTS
+I like soccer, music..
+PROJECTS
+Yumi Project
+(2018  2019)
+Customer
+People
+Description  This project make mart house where help people control their house by
+voice or phone and laptop.
+Team size
+4
+My position
+Developer
+My responsibilities  Analysis and design  Development  Coding  House model
+Technologies used  Arduino.  Java.
+Racing Hero
+(2018  2019)
+Customer
+Student
+Description  This project make a car which people can control by phone by bluetooth
+Team size
+4
+My position
+Developer
+My responsibilities  Analysis and design  Development  Coding  Car model
+Technologies used  Arduino.
+© topcv.vn

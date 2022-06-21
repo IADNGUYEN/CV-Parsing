@@ -1,0 +1,53 @@
+Tu Hoang Minh
+Curriculum Vitae
+Tan Phong Ward, District 7
+Ho Chi Minh City, Vietnam
+0915866373
+hmtu14@apcs.vn
+Education
+2014–Curent
+Bachelor of Computer Science, Ho Chi Minh University of Science, HCM City,
+Advanced Programming in Computer Science Class GPA: 3.35.
+2011–2014
+High school, Quoc Hoc  Hue High school for the Gifted, Hue City.
+Experience
+10/2017–
+Current
+Internship, KMS Technology, HCM City.
+Work on CV Parsing project.
+Using NLP and Machine Learning approach to extract information from candidates’ CV.
+2016–Current
+Research, Taxi recommender system, HCM University of Science.
+Research with Dr. Dinh Ba Tien on taxi recommendation and predicting passenger demand
+03/2017–
+10/2017
+Internship, VietBanDo Company, HCM City.
+Develop and work on a distributed graph database project
+Programming skills
+Master
+Python.
+Have experience working with Python frameworks for Machine Learning such as Pytorch,
+TensorFlow, NLTK, OpenCV, ...
+Intermediate
+C/C++, Java, HTML, CSS, JavaScript.
+Have done some school/self projects using these programming languages
+Publications
+Duy V. Phung, Tu M. Hoang, Anh T. Nguyen, and Tien B. Dinh.
+Dta hunter
+system: A new statistic-based framework of predicting future demand for taxi
+drivers. In Proceedings of the Eighth International Symposium on Information and
+Communication Technology, SoICT 2017, pages 159–166, New York, NY, USA,
+2017. ACM.
+1/2
+Languages
+English Advanced
+Japanese
+Basic
+Interests
+Research
+Machine Learning, Data Science
+Reading
+Computer Science/Mathematics books and Novels
+Sport
+Running
+2/2

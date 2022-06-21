@@ -1,0 +1,41 @@
+Quoc Chuong Nguyen
+Curriculum vitae
+Date of Birth
+: Sep 22th 1996
+Address
+: No 90/39, Au Duong Lan street, Ward 3, District 5, Ho Chi Minh City, Vietnam
+Phone
+: +84 164 416 5169
+email
+: quoc.chuong1413017@gmail.com
+Personal Statement
+A current student of Theoretical Physics  Interested in Physics, Mathematics  Love
+solving puzzles and working with computer  Open-minded, crave for knowledge and
+mysteries.
+Education
+2014  present
+University of Natural Sciences, Ho Chi Minh City
+Major: Theoretical Physics
+Gpa: 8.36/10
+2011  2014
+Thoai Ngoc Hau Specialized High School, Long Xuyen City
+Scientific activities
+None
+Skills and qualifications
+Good knowledge of basic Mathematics and Physics: Probability and Statistics,
+Linear Algebra, Group Theory, Quantum Mechanics and Statistical Physics
+Have some experiences in Physics Simulation and Computational Physics: Ising
+Model, Markov chain, Monte Carlo
+Know how to use some pakages for Data Analysis and Database: Numpy, Scipy,
+Pandas, Matplotlib and Sqlite3
+Languages & Computer Skills
+Vietnamese:
+Mother tongue
+English:
+Fluent English
+Programming languages:
+Python (Proficient) LATEX(Basic)
+Selective Interests
+Reading books, especially Science books
+Playing video games
+Solving puzzles

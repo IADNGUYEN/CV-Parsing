@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="44" family="JGZFSZ+Raleway" color="#ffffff"/>
+	<fontspec id="1" size="14" family="JGZFSZ+Raleway" color="#5a5a78"/>
+	<fontspec id="2" size="14" family="JGZFSZ+Raleway" color="#000000"/>
+	<fontspec id="3" size="14" family="YJMFLP+Raleway" color="#ffffff"/>
+	<fontspec id="4" size="14" family="JGZFSZ+Raleway" color="#6e6e6e"/>
+	<fontspec id="5" size="14" family="YJMFLP+Raleway" color="#000000"/>
+	<fontspec id="6" size="14" family="GFAWRG+CMSY10" color="#000000"/>
+<text top="55" left="216" width="469" height="42" font="0">DUC-TAN LAM RESUME</text>
+<text top="150" left="88" width="46" height="14" font="1">Status:</text>
+<text top="150" left="193" width="468" height="14" font="2">3rd year Student, Faculty of Computer Science, HCMC University of</text>
+<text top="168" left="193" width="55" height="14" font="2">Science</text>
+<text top="203" left="88" width="38" height="14" font="1">Skills:</text>
+<text top="203" left="193" width="255" height="14" font="2">Python, C++, Java, Bash, SQL, R, Linux</text>
+<text top="237" left="88" width="62" height="14" font="1">Interests:</text>
+<text top="237" left="193" width="373" height="14" font="2">Data Analysis, Data Visualization, Statistics, Blockchain</text>
+<text top="271" left="88" width="65" height="14" font="1">Activities:</text>
+<text top="271" left="193" width="222" height="14" font="2">Football, ESport, Reading, Music</text>
+<text top="306" left="88" width="57" height="14" font="1">Contact:</text>
+<text top="306" left="193" width="288" height="14" font="2">lamductan@gmail.com - +84 868 449 605</text>
+<text top="340" left="88" width="49" height="14" font="1">Github:</text>
+<text top="340" left="193" width="213" height="14" font="2">https://github.com/lamductan</text>
+<text top="398" left="110" width="69" height="14" font="3"><b>Summary</b></text>
+<text top="434" left="64" width="768" height="14" font="2">3rd-year Undergraduate student in computer science. Passion in programming language, mathematics, problem-</text>
+<text top="452" left="64" width="765" height="14" font="2">solving skills with strong effort in resolve problems. Have experience in working in a team and successfully com-</text>
+<text top="470" left="64" width="115" height="14" font="2">pleting a project.</text>
+<text top="507" left="110" width="80" height="14" font="3"><b>Experience</b></text>
+<text top="541" left="73" width="102" height="14" font="4">’2017/12 - now</text>
+<text top="541" left="197" width="148" height="14" font="5"><b>Research, Developer</b></text>
+<text top="574" left="213" width="282" height="14" font="2">Image processing with Sentinel-1 images</text>
+<text top="598" left="213" width="326" height="14" font="2">Data analysis with EMDAT - a disaster database</text>
+<text top="632" left="73" width="64" height="14" font="4">’2018/05</text>
+<text top="650" left="73" width="62" height="14" font="4">2018/08</text>
+<text top="632" left="197" width="74" height="14" font="5"><b>Developer</b></text>
+<text top="632" left="802" width="29" height="14" font="1">UTS</text>
+<text top="672" left="213" width="149" height="14" font="2">Java developer intern</text>
+<text top="726" left="110" width="72" height="14" font="3"><b>Education</b></text>
+<text top="759" left="73" width="77" height="14" font="4">2015 - now</text>
+<text top="759" left="197" width="271" height="14" font="5"><b>Bachelor’s Degree, Computer Science</b></text>
+<text top="759" left="687" width="145" height="14" font="1">University of Science</text>
+<text top="793" left="218" width="158" height="14" font="5"><b>Some useful courses:</b></text>
+<text top="793" left="396" width="418" height="14" font="2">Machine Learning, Calculus, Linear Algebra, Computer Vi-</text>
+<text top="811" left="197" width="617" height="14" font="2">sion, Data Mining, Database, Probability and Statistics, The Basics of Artificial Intelligence,</text>
+<text top="828" left="197" width="553" height="14" font="2">Object-Oriented Programming, Research Method, Introduction to Cryptography...</text>
+<text top="856" left="197" width="177" height="14" font="5"><b>Some academic projects</b></text>
+<text top="889" left="210" width="86" height="14" font="5"><b>SVG Project:</b></text>
+<text top="889" left="304" width="509" height="14" font="2">A project for converting a SVG file to a drawn console, using object-oriented</text>
+<text top="907" left="197" width="494" height="14" font="2">methods, two graphical libraries: GDI+ and CImg, and Rapid XML Project</text>
+<text top="931" left="213" width="124" height="14" font="5"><b>Heatmap Project:</b></text>
+<text top="931" left="345" width="389" height="14" font="2">A web service for visualizing data with their geo location.</text>
+<text top="967" left="197" width="53" height="14" font="5"><b>Awards</b></text>
+<text top="1000" left="213" width="77" height="14" font="5"><b>ACM-ICPC:</b></text>
+<text top="1000" left="297" width="384" height="14" font="2">Honor prize - 2017 Vietnam ACM-ICPC National Contest</text>
+<text top="1053" left="110" width="62" height="14" font="3"><b>Strength</b></text>
+<text top="1098" left="86" width="7" height="14" font="6">•</text>
+<text top="1099" left="101" width="97" height="14" font="5"><b>Mathematics:</b></text>
+<text top="1099" left="211" width="618" height="14" font="2">Recently participated in National Mathematics Olympiads for high school students. High</text>
+<text top="1117" left="101" width="232" height="14" font="2">score in math course in university.</text>
+<text top="1145" left="86" width="7" height="14" font="6">•</text>
+<text top="1146" left="101" width="56" height="14" font="5"><b>English:</b></text>
+<text top="1146" left="166" width="612" height="14" font="2">Worked with and researched on many English documents from the first year in university.</text>
+<text top="1174" left="86" width="7" height="14" font="6">•</text>
+<text top="1174" left="101" width="111" height="14" font="5"><b>Teamwork skill:</b></text>
+<text top="1174" left="225" width="604" height="14" font="2">Almost all projects at university require teamwork. Have experience in using github for</text>
+<text top="1192" left="101" width="176" height="14" font="2">managing group projects.</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,102 @@
+ 
+ĐƯỢC PHẠM
+Local Vietnamese
+04-10-1987, Male, Single
+Nguyen Huu Canh, Binh Thanh district, Ho Chi Minh
+0938098194
+duocpv87@gmail.com
+Candidate's Expectation
+Position:
+Team leader or technical leader
+Job Level:
+Team Leader/Supervisor
+Work Place:
+Ho Chi Minh
+Job Category: IT  Software
+Salary :
+1300 USD per month
+Total years of
+experience:
+6 year(s).
+Highest Degree:
+College
+Language Proficiency:
+English(Intermediate)
+Japanese(Beginner)
+Current Job Level:
+Team Leader/Supervisor
+Career Objective
+English: Capability of reading and translating specific documents expertly, and communicating normal.
+Japanse: I have just finished unit 12 of the Minna No Nihongo.
+Other skills: Teamwork, presentation, work under high pressure, customer service, self study,…         
+HOBBIES
+Sports: jogging, swimming
+Others: reading books, classical music.
+CAREER OBJECTIVES  Get the foreign onsite opportunity.  Get more experience in technology and science, especially in my favorite area IT.  Get a stable and good job with a level of satisfying salary.
+Career Highlights
+N/A
+Education & Qualifications
+College  Hanoi University of Science and Technology
+Information Technology  Sep 2005  Sep 2010
+Other Certificates:
+Ø  IBM Certified Database Administrator DB2
+Ø  IBM Certified Database Associate DB2
+Ø  IBM Certified Application Developer
+Work Experience
+Team leader  
+IVS VN  Jun 2014  Present
+Task:
+Ø  Asign tasks for members in team
+Ø  Create BD, DD
+Ø  Support coding
+Ø  Coding
+Techinical:
+Ø  Java: Seasar2 framework, jquery, css
+Ø  PHP: CakePHP, Drupal
+Ø  Objective-C
+Ø  MySQL
+Ø  SQL Server
+Senior Java Developer  
+QuanTic  Oct 2013  May 2014
+Task:
+Ø  Research and give solutions for improving performance of application.
+Ø  Project is built on Google App Engine.
+Technical:
+Ø  Jsp, servlet.
+Ø  Datastore.
+Ø  Jquery, css, photoshop.
+Senior Java Developer  
+NEC Viet Nam  Mar 2013  Sep 2013
+Tasks:
+Ø  Study Specification and SRS, then create detailed design
+Ø  Coding
+Technique:
+Ø  Using Java as main technology and  Frameworks such as Spring Security, Spring   MVC, myBatis with
+PostgreSQL.
+Ø  Others: CSS, JavaScript (Jquery).
+Ø  Source management with SVN.
+Java developer  
+Viettel Software Center  Jan 2011  Dec 2012
+Tasks:
+Ø Analysis, design (web app.) and coding.
+ØJoin two projects: Customer Management Project and BCCS-Gateway Project.
+Technique:
+ØJava and  Frameworks: Struts1.x, Struts2.x, Hibernate.
+Ø Write PL/SQL code and use Oracle database management system.
+ØSoftware management using StarTeam and SVN tool.
+Java developer  
+FPT Software  Aug 2010  Dec 2010
+Tasks:
+Ø  Base on J2ME to make games for mobile devices.
+Ø  Develop Web applications by Java and frameworks, for instances, Struts, Hibernate and MySQL
+database management system.
+Internship first and then work as a part-time employee  
+Software Center, Vietnam Academy of Science and Technology  Jul 2008  Jul 2010
+Tasks:
+Ø  Participate in building electronic portal of Vietnam Academy of Science and Technology.
+Techniques:  Liferay portal and frameworks: Struts1.x, Struts2.x and  Hibernate.
+Skills
+N/A
+References
+N/A
+Powered by TCPDF (www.tcpdf.org)

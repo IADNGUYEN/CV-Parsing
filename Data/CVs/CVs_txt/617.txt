@@ -1,0 +1,38 @@
+Ly Thanh Hau
+Address
+Linh Trung Ward,
+Thu Duc District, Ho Chi Minh City
+Date of Birth
+30th March 1992
+Nationality
+Viet Nam
+Phone
+(+84) 1658-970-069
+Email
+thanhhauuit@gmail.com
+Objective
+To acquire the position of a junior .Net Developer and utilize my technical knowledge for developing .Net and
+contribute to multiple projects.
+Education
+2007-2010
+An Nhon I High School, focused on Math  Physics  Chemistry
+2010-2015
+University of Information Technology  UIT
+GPA
+7,39
+Technical Skills
+Languages: C#, VB, ASP, HTML/CSS3/Java Scrip, C/C++,...
+Database: SQL, MySQL.
+Web Server: Apache, IIS.
+Good at testing and debuging with Visual Studio.
+Good in working with Windows XP/7/8 and Linux operating system
+Personal Skills
+Skilled at researching and extracting information crucial for applications development.
+Good problem sovlving skills and self-motivated.
+Experience
+Project ERP  Time Card (Responsibility of Assiduity Management).
+Project Metal Health (Responsibility of Tests, Diagnostic Statistics and Doctors Management).
+Project Total Commander (Windows Programming Course).
+Project Mail Client (Computer – Network Programming Course).
+Building Website interacts with Snort log packets (Network – Application Programming Course).
+Project Steganography (Network Security Course).

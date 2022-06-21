@@ -1,0 +1,66 @@
+THAI THANH SANG
+DATA SCIENCE ENGINEER
+EXPERIENCES
+CAREER OBJECTIVE
+Becoming a Data Scien st or related posi-
+ons.
+Learning more about professional knowl-
+edge, experiences and skills in AI ﬁeld.
+Working in a learning and challenging envi-
+ronment to develop myself and contribute 
+to the growth of the organiza on.
+CONTACT
+Phone number
+0163.220.8790
+Email
+sang.thaithanh29@gmail.com
+Address
+132 Ho Van Hue, Phu Nhuan District, Ho 
+Chi Minh City
+EDUCATION
+University of Science Ho Chi Minh City
+Bachelor of Science in Computer Science
+GPA: 3.57/4.0 (8.53/10)
+PERSONAL SKILLS
+Foreign Language: 650/990 TOEIC (Read-
+ing and Listening), 280/400 TOEIC (Speak-
+ing and Wri ng)
+Communica on: Ability to explain things 
+plain and clearly (being a MC at outdoor 
+ac vi es)
+Team-work: Working eﬀec vely with 
+others to achieve common goals
+Adaptability: Ready to learn new things 
+and challenge myself
+TECHNICAL SKILLS
+Programming Languages: C/C++, Python, Java, SQL, HTML
+ML Frameworks: Tensorﬂow, scikit-learn, pandas, numpy
+Tools: MS Visual Studio, MS SQL Server
+Opera ng Systems: Windows, Linux (Ubuntu)
+09/2017-06/2018: Undergraduate Thesis: Image Inpain ng with 
+Deep learning
+04/2018-06/2018: Data Scien st Intern at Kyanon Digital Company
+ACHIEVEMENTS
+2017, 2018
+Scholarship for Talented Student (Awarded by An Giang province).
+2017
+Award cer ﬁcate for Top 5 Highest GPA in IT Faculty (for academic 
+year 2014 students).
+Scholarship for Talented Student (Awarded by Studio60 company).
+2016, 2017, 2018
+Academic Intensive Scholarship.
+2014
+Award cer ﬁcate for the Best Student in High School.
+References available upon request
+Researching knowledge about Deep learning, CNN architec-
+tures, GAN models and post-processing image techniques.
+Developing ideas to improve the results both in terms of accura-
+cy and training  me.
+Developing methods to make the problem more realis c and 
+handle images with diﬀerent sizes.
+Researching ﬁnding suitable inﬂuencers for brands based on 
+social networks data.
+Researching and implemen ng pre-processing of input data for 
+the Vietnamese sen ment classiﬁca on problem.
+Developing manually data labeling rules and improving work-
+ﬂow of annotators.

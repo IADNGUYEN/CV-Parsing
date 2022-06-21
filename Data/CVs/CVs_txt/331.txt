@@ -1,0 +1,52 @@
+ 
+PHAM VIET LAP  
+Android developer 
+Full name: Pham Viet Lap 
+Gender: Male 
+Marital status: Single. 
+Date of birth: October 10th, 1994 
+Email: pvietlap@gmail.com  
+Phone number: 098.202.7974 
+Address: Ho Chi Minh City 
+Short term: learning and improving my 
+skill to be a good staff. 
+Long term: becoming a good developer. 
+Hobbies: reading books, doing volunteer, 
+swimming, playing football and going 
+fishing.  
+Activities: Join Green summer campaign 
+(Jul 2015  Aug 2015)  Built house for poor families  Planted trees along Ho Chi Minh  Long 
+Thanh  Dau Giay Highway 
+CURRICULUM VITAE 
+……………………………….. 
+9/2017: Got BS Degree: rank: Good  
+2012-2017: Studied at Ho Chi Minh City University of Transport 
+2013 – 2016: got certifications ACM/ICPC (2013, 2014, 2015, 
+2016)  
+………………………………..                                                     
+2017: First Prize in the 2016 School Contest in Information 
+Technology for Specialized Students 
+2016: Second Prize in the 2016 University Contest in Mechanics 
+2015:  
++ Acknowledgement for Excellent Achievement from the 
+National Youth Union. 
++ Encouragement Prize in the 2015 National Olympic Contest in 
+Applying Information Technology in Mechanics 
++ Third prize in the 2015 National Olympic Contest for non-IT 
+students in Technology Information. 
+2013: Second Prize non- IT team The 2013 ACM-ICPC 
+Programming Contest Asia Da Nang Regional 
+……………………………….. 
+EXPERICES:  
+I created project “Touch By” by myself when I was a student. 
+Link  Link GitHub : 
+https://github.com/pvietlap/TouchBuy 
+Description  The app helps people to buy a cell phone on 
+their phone. 
+Tool  Android Studio 2.2, Java, Android 4.0  Google Cloud Message 
+SKILLS: 
++ Programing: Can use programing languages: Java, C++, PHP 
+with development tools: Android Studio, Dreamweaver … 
+EDUCATION BACKGROUND 
+HONORS & AWARDS 
+EXPERICES AND SKILLS  

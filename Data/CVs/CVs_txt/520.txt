@@ -1,0 +1,70 @@
+ 
+CURRICULUM VITAE 
+PERSIONAL DETAILS 
+Full Name 
+Tran quang hiep 
+Date of Birth 
+December 06, 1986 
+Gender 
+Male 
+Marital Status 
+Single 
+Permanent Address 
+66/20F Phan Huy Ich Street, Tan Binh District, HCM City, Vietnam 
+Mobile phone 
+0906 43 86 79 
+E-mail 
+oscarhiep86@gmail.com  
+OBJECTIVE 
+Develop my skills with development of company,I want to prove myself. 
+EDUCATION 
+2005  2009 
+HCMC University of Foreign Language  Information Technology  
+Bachelor in Information Technology(Graduated  2009) 
+Subjects studied : 
+Operating Systems : XP 
+Programming languages : C, C++, ASP, ASP.NET, C#, Java, HTML, XML. 
+Databases : SQL Server 2000, Oracle 9i. 
+And subjects : System Analysis and Design, Software Project Management, Object  
+Oriented Programming(using C# language ), Database Management System, Design and 
+develop website 
+I have 5 years programming experience 
+After once subjects I must make a project for close. 
+Some projects : 
+Shop fashion Management (OOP  using ASP.NET language)    
+To be a good staff 
+Work in professional environment. 
+To have good opportunities to get promotion in my job 
+Trying to learn experiences from work as much as possible and doing my best in order to 
+accomplish my task. 
+EXPERIENCE 
+2009  2010 
+Gia Viet Company (137/8 Nguyen Thi Minh Khai, Dictrict 1, HCM) 
+System Administrator 
+Manage IT room 
+Manage, maintain film on website www.ephim24g.net 
+Upload film and control Admin film 
+Report to manager 
+Design and Programming website www.giaviet.net.vn : using VS 2005 and SQL 2005 
+2010  2011 
+Ich Phuong Company (35 Dang Dung Street, Dictrict 1, HCM) 
+Programmer : used Visual 2005 (ASP.NET language) and  SQL server 2005 
+2011  2012 
+Working at home 
+Programmer 
+Some project: Using Object  Oriented Programming 
+All project used Visual 2010 (ASP.NET language) and  SQL server 2008 
+2012-2014 
+Woking at FPT Telecom 
+Programmer : used Visual 2010 (ASP.NET language) and  SQL server 2008 
+2015-now 
+Woking at TS24 Company (www.ts24.vn) 
+Programmer : used Visual 2010 (ASP.NET language) and  SQL server 2008,  
+MVC5 with visual 2015 and sql server 2014. 
+SKILLS 
+.NET programming. 
+My best skills is ASP.NET , I have a lot woking experience with Component One  Crystal and 
+SQL 2008, framework 4.0 
+Knowledge in Photoshop, CSS, HTML, setup mail server. 
+INTERESTS 
+Football, Travel, Music. 

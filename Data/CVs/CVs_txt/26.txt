@@ -1,0 +1,55 @@
+Lê Thái Duy
+S Ắ P  T Ố T  N G H I Ệ P
+Giới thiệu
+"
+Là một người thích tìm tòi, học hỏi những điều mới lạ và sẵn sàng học tập mỗi
+ngày để có thể thích ứng với các công nghệ mới.
+"
+Liên hệ
+
+18/06/1995
+
+leethaiduy@gmail.com
+
+841267693801
+
+https://www.facebook.com/mynam
+eleeduy
+
+Hoàng Minh Đạo, Phường 5, Quận 8, TP.HCM
+KỸ NĂNG
+Lập trình ngôn ngữ C/C++ cơ
+bản
+Lập trình ngôn ngữ Python cơ
+bản
+Lập trình Shell Linux cơ bản
+Hiểu biết cơ bản về Deep
+Learning
+Tiếng Anh
+CHỨNG CHỈ
+TOEIC
+(17/04/2017)
+655
+HỌC VẤN
+TỰ ĐỘNG HÓA
+08/2013  11/2018
+Đại Học Bách Khoa-Tp.HCM
+Điểm trung bình (GPA): 8.33
+KINH NGHIỆM LÀM VIỆC
+CỘNG TÁC VIÊN IT
+04/2017  03/2018
+Công ty IIG Vietnam  Giám thị trông thi cho các bài thi của IIG tổ chức  Cài đặt, sử chữa hệ thống mạng, hệ thống máy tính để phục vụ cho các 
+bài thi
+THỰC TẬP SINH
+07/2017  10/2017
+Công ty TNHH Kỹ Thuật Tự Động Bến Thành  Điều khiển Robot Scara sử dụng bộ điều khiển Syntec
+DỰ ÁN
+ ĐIỀU KHIỂN LÒ NHIỆT
+Đồ án   Sử dụng bộ điều khiển PID và vi điều khiển TM4C123G
+ TẮT MỞ THIẾT BỊ ĐIỆN BẰNG
+GIỌNG NÓI
+Đồ án   Sử dụng Google Assistant và các mạch Esp8266
+ MÔ HÌNH XE TỰ LÁI
+Luận văn   Sử dụng Convolutional Neural Network dự đoán góc lái giúp xe bám theo 
+làn đường  Sử dụng MobileNets để nhận diện biển báo giao thông  Video demo: https://www.youtube.com/watch?v=VESRGgGYIac
+©VietCV.io

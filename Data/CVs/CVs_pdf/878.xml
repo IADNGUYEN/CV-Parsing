@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="1" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="2" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="3" size="18" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="4" size="30" family="TimesNewRomanPSMT" color="#0d2352"/>
+	<fontspec id="5" size="17" family="TimesNewRomanPS" color="#000050"/>
+	<fontspec id="6" size="14" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="7" size="14" family="TimesNewRomanPSMT" color="#0000ff"/>
+	<fontspec id="8" size="21" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="9" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="10" size="14" family="ArialMT" color="#000000"/>
+	<fontspec id="11" size="18" family="ArialMT" color="#000000"/>
+	<fontspec id="12" size="18" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="13" size="14" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="14" size="16" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="15" size="21" family="TimesNewRomanPS" color="#d0cece"/>
+	<fontspec id="16" size="16" family="TimesNewRomanPS" color="#d0cece"/>
+<text top="1099" left="116" width="47" height="15" font="0"><i> Le Vu<b> </b></i></text>
+<text top="1099" left="752" width="55" height="15" font="1"><i><b> Page 1 </b></i></text>
+<text top="1117" left="108" width="4" height="17" font="2"> </text>
+<text top="289" left="267" width="5" height="16" font="3"> </text>
+<text top="306" left="99" width="5" height="16" font="3"> </text>
+<text top="326" left="99" width="5" height="16" font="3"> </text>
+<text top="112" left="430" width="5" height="16" font="3"> </text>
+<text top="112" left="451" width="5" height="16" font="3"> </text>
+<text top="136" left="451" width="228" height="27" font="4">Le Dinh Thien Vu </text>
+<text top="168" left="451" width="75" height="16" font="5"><b>Developer</b></text>
+<text top="167" left="526" width="5" height="16" font="3"> </text>
+<text top="187" left="451" width="180" height="13" font="6">Date of birth:  April 21, 1996 </text>
+<text top="204" left="451" width="120" height="13" font="6">Gender        :  Male </text>
+<text top="221" left="451" width="162" height="13" font="6">Phone          : 0981875044 </text>
+<text top="238" left="451" width="85" height="13" font="6">Email           <a href="mailto:vuldt2103@gmail.com">: </a></text>
+<text top="238" left="536" width="138" height="13" font="7"><a href="mailto:vuldt2103@gmail.com">vuldt2103@gmail.com</a></text>
+<text top="236" left="674" width="5" height="16" font="3"><a href="mailto:vuldt2103@gmail.com"> </a></text>
+<text top="347" left="99" width="5" height="16" font="3"> </text>
+<text top="368" left="99" width="5" height="16" font="3"> </text>
+<text top="347" left="430" width="5" height="16" font="3"> </text>
+<text top="347" left="802" width="5" height="16" font="3"> </text>
+<text top="389" left="108" width="16" height="19" font="8"><b>O</b></text>
+<text top="393" left="124" width="83" height="15" font="9"><b>BJECTIVE</b></text>
+<text top="389" left="207" width="14" height="19" font="8"><b>   </b></text>
+<text top="389" left="270" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="324" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="702" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="756" width="5" height="19" font="8"><b> </b></text>
+<text top="389" left="810" width="5" height="19" font="8"><b> </b></text>
+<text top="412" left="108" width="4" height="13" font="6"> </text>
+<text top="429" left="135" width="5" height="13" font="6">-</text>
+<text top="429" left="140" width="4" height="14" font="10"> </text>
+<text top="429" left="162" width="197" height="13" font="6">Have a chance to practice skills. </text>
+<text top="447" left="135" width="5" height="13" font="6">-</text>
+<text top="446" left="140" width="4" height="14" font="10"> </text>
+<text top="447" left="162" width="298" height="13" font="6">Be a part of team to develop project of company. </text>
+<text top="464" left="135" width="5" height="13" font="6">-</text>
+<text top="463" left="140" width="4" height="14" font="10"> </text>
+<text top="464" left="162" width="96" height="13" font="6">Master of Java. </text>
+<text top="482" left="135" width="6" height="16" font="3">-</text>
+<text top="481" left="141" width="5" height="17" font="11"> </text>
+<text top="484" left="162" width="129" height="13" font="6">Full-Stack Developer</text>
+<text top="482" left="291" width="5" height="16" font="3">.</text>
+<text top="482" left="295" width="5" height="16" font="12"><b> </b></text>
+<text top="503" left="108" width="5" height="16" font="12"><b> </b></text>
+<text top="524" left="108" width="14" height="19" font="8"><b>E</b></text>
+<text top="527" left="122" width="90" height="15" font="9"><b>DUCATION</b></text>
+<text top="524" left="212" width="9" height="19" font="8"><b>  </b></text>
+<text top="524" left="270" width="5" height="19" font="8"><b> </b></text>
+<text top="524" left="324" width="5" height="19" font="8"><b> </b></text>
+<text top="524" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="524" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="524" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="524" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="524" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="524" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="524" left="702" width="100" height="19" font="8"><b>_________ </b></text>
+<text top="546" left="108" width="4" height="13" font="6"> </text>
+<text top="564" left="108" width="118" height="13" font="6">Oct 2015 – Present </text>
+<text top="564" left="270" width="106" height="13" font="13"><b>FPT University. </b></text>
+<text top="581" left="108" width="4" height="13" font="13"><b> </b></text>
+<text top="581" left="162" width="4" height="13" font="13"><b> </b></text>
+<text top="581" left="216" width="4" height="13" font="13"><b> </b></text>
+<text top="581" left="270" width="164" height="13" font="6">Major: Software Engineer. </text>
+<text top="598" left="108" width="4" height="13" font="6"> </text>
+<text top="598" left="162" width="4" height="13" font="6"> </text>
+<text top="598" left="216" width="4" height="13" font="6"> </text>
+<text top="598" left="270" width="80" height="13" font="6">GPA: 7.2/10 </text>
+<text top="616" left="108" width="4" height="13" font="6"> </text>
+<text top="634" left="108" width="21" height="19" font="8"><b>W</b></text>
+<text top="638" left="129" width="42" height="15" font="9"><b>ORK </b></text>
+<text top="634" left="171" width="14" height="19" font="8"><b>E</b></text>
+<text top="638" left="185" width="97" height="15" font="9"><b>XPERIENCE</b></text>
+<text top="634" left="282" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="324" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="702" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="756" width="5" height="19" font="8"><b> </b></text>
+<text top="634" left="810" width="5" height="19" font="8"><b> </b></text>
+<text top="657" left="108" width="4" height="15" font="14"> </text>
+<text top="676" left="108" width="115" height="13" font="6">09/2017 - 11/2017 </text>
+<text top="676" left="270" width="102" height="13" font="13"><b>FPT University.</b></text>
+<text top="676" left="372" width="4" height="13" font="6"> </text>
+<text top="693" left="270" width="70" height="13" font="6">Developer. </text>
+<text top="710" left="270" width="421" height="13" font="6">Description:  - Create completely a news website using MVC model.  </text>
+<text top="728" left="358" width="194" height="13" font="6">- Working in group, 3 members </text>
+<text top="747" left="108" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="162" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="216" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="270" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="324" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="378" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="432" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="486" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="540" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="594" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="648" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="702" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="756" width="5" height="19" font="15"><b> </b></text>
+<text top="747" left="810" width="5" height="19" font="15"><b> </b></text>
+<text top="769" left="108" width="4" height="15" font="14"> </text>
+<text top="788" left="108" width="138" height="13" font="6">16/1/2018 - 13/7/2018 </text>
+<text top="788" left="270" width="451" height="13" font="13"><b>Robert Bosch Engineering and Business Solutions Vietnam Company. </b></text>
+<text top="810" left="270" width="115" height="13" font="6">Internship student. </text>
+<text top="827" left="270" width="319" height="13" font="6">Internship Java (Spring Boot), Angular 4, C# (WPF) </text>
+<text top="845" left="108" width="4" height="15" font="14"> </text>
+<text top="865" left="108" width="15" height="19" font="8"><b>A</b></text>
+<text top="868" left="123" width="85" height="15" font="9"><b>CTIVITIES</b></text>
+<text top="865" left="208" width="13" height="19" font="8"><b>   </b></text>
+<text top="865" left="270" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="324" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="702" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="756" width="5" height="19" font="8"><b> </b></text>
+<text top="865" left="810" width="5" height="19" font="8"><b> </b></text>
+<text top="888" left="108" width="4" height="15" font="14"> </text>
+<text top="907" left="108" width="107" height="13" font="6">12/2016 - 3/2017 </text>
+<text top="907" left="216" width="103" height="13" font="13"><b>FPT University </b></text>
+<text top="928" left="270" width="196" height="13" font="6">Collaborator of FPT University. </text>
+<text top="945" left="270" width="215" height="13" font="6">- Working at the recruitment room. </text>
+<text top="960" left="108" width="5" height="19" font="15"><b> </b></text>
+<text top="960" left="162" width="5" height="19" font="15"><b> </b></text>
+<text top="960" left="216" width="5" height="19" font="15"><b> </b></text>
+<text top="960" left="270" width="5" height="19" font="15"><b> </b></text>
+<text top="960" left="324" width="5" height="19" font="15"><b> </b></text>
+<text top="960" left="378" width="5" height="19" font="15"><b> </b></text>
+<text top="960" left="432" width="5" height="19" font="15"><b> </b></text>
+<text top="960" left="486" width="5" height="19" font="15"><b> </b></text>
+<text top="960" left="540" width="5" height="19" font="15"><b> </b></text>
+<text top="960" left="594" width="5" height="19" font="15"><b> </b></text>
+<text top="963" left="648" width="144" height="15" font="16"><b>_________________ </b></text>
+<text top="982" left="108" width="4" height="13" font="6"> </text>
+<text top="999" left="108" width="123" height="13" font="6">9/8/2017-12/8/2017 </text>
+<text top="999" left="270" width="98" height="13" font="13"><b>FPT University</b></text>
+<text top="999" left="369" width="4" height="13" font="6"> </text>
+<text top="1021" left="270" width="274" height="13" font="6">Member of Field Trip Season II (Singapore)  </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="17" size="9" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="18" size="14" family="SymbolMT" color="#000000"/>
+<text top="1099" left="116" width="47" height="15" font="0"><i> Le Vu<b> </b></i></text>
+<text top="1099" left="752" width="55" height="15" font="1"><i><b> Page 2 </b></i></text>
+<text top="1117" left="108" width="4" height="17" font="2"> </text>
+<text top="109" left="108" width="5" height="19" font="15"><b> </b></text>
+<text top="109" left="162" width="5" height="19" font="15"><b> </b></text>
+<text top="109" left="216" width="5" height="19" font="15"><b> </b></text>
+<text top="109" left="270" width="5" height="19" font="15"><b> </b></text>
+<text top="109" left="324" width="5" height="19" font="15"><b> </b></text>
+<text top="109" left="378" width="5" height="19" font="15"><b> </b></text>
+<text top="109" left="432" width="5" height="19" font="15"><b> </b></text>
+<text top="109" left="486" width="5" height="19" font="15"><b> </b></text>
+<text top="109" left="540" width="5" height="19" font="15"><b> </b></text>
+<text top="109" left="594" width="5" height="19" font="15"><b> </b></text>
+<text top="112" left="648" width="144" height="15" font="16"><b>_________________ </b></text>
+<text top="130" left="108" width="4" height="13" font="6"> </text>
+<text top="148" left="108" width="134" height="13" font="6">26/5/2018 -27/5/2018 </text>
+<text top="148" left="270" width="223" height="13" font="13"><b>HACKATHON Policypal Network</b></text>
+<text top="148" left="493" width="4" height="13" font="6"> </text>
+<text top="169" left="270" width="141" height="13" font="6">Member of 1170 team. </text>
+<text top="191" left="270" width="300" height="13" font="6">- Research and raise idea for Dapp. (BlockChain) </text>
+<text top="210" left="108" width="15" height="19" font="8"><b>A</b></text>
+<text top="213" left="123" width="115" height="15" font="9"><b>CHIEVEMENT</b></text>
+<text top="210" left="238" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="270" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="324" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="702" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="756" width="5" height="19" font="8"><b> </b></text>
+<text top="210" left="810" width="5" height="19" font="8"><b> </b></text>
+<text top="233" left="108" width="4" height="15" font="14"> </text>
+<text top="252" left="108" width="34" height="13" font="6">2016 </text>
+<text top="252" left="162" width="4" height="13" font="6"> </text>
+<text top="252" left="216" width="4" height="13" font="6"> </text>
+<text top="252" left="270" width="237" height="13" font="6">Certification of Completing Summit 2. </text>
+<text top="269" left="108" width="112" height="13" font="6">26 -27 May 2018  </text>
+<text top="269" left="270" width="7" height="13" font="6">1</text>
+<text top="267" left="278" width="6" height="9" font="17">st</text>
+<text top="269" left="284" width="35" height="13" font="6"> Prize</text>
+<text top="269" left="319" width="4" height="13" font="13"><b> </b></text>
+<text top="269" left="322" width="360" height="13" font="6">Building Decentralized Insurance Platform HACKATHON.</text>
+<text top="268" left="683" width="4" height="15" font="14"> </text>
+<text top="286" left="108" width="4" height="15" font="14"> </text>
+<text top="307" left="108" width="12" height="19" font="8"><b>S</b></text>
+<text top="310" left="120" width="55" height="15" font="9"><b>KILLS </b></text>
+<text top="307" left="174" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="216" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="270" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="324" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="702" width="5" height="19" font="8"><b> </b></text>
+<text top="307" left="756" width="5" height="19" font="8"><b> </b></text>
+<text top="310" left="810" width="4" height="15" font="9"><b> </b></text>
+<text top="329" left="108" width="4" height="13" font="13"><b> </b></text>
+<text top="346" left="108" width="71" height="13" font="13"><b>Language  </b></text>
+<text top="346" left="216" width="4" height="13" font="13"><b> </b></text>
+<text top="346" left="270" width="196" height="13" font="6">Communicating Fluent English. </text>
+<text top="364" left="108" width="4" height="13" font="6"> </text>
+<text top="381" left="108" width="123" height="13" font="13"><b>Software Engineer </b></text>
+<text top="381" left="270" width="4" height="13" font="13"><b> </b></text>
+<text top="381" left="324" width="4" height="13" font="13"><b> </b></text>
+<text top="398" left="243" width="5" height="13" font="6">-</text>
+<text top="398" left="248" width="4" height="14" font="10"> </text>
+<text top="398" left="270" width="159" height="13" font="6">Fundamental C Language </text>
+<text top="415" left="243" width="5" height="13" font="6">-</text>
+<text top="415" left="248" width="4" height="14" font="10"> </text>
+<text top="415" left="270" width="166" height="13" font="6">Fundamental C# Language </text>
+<text top="433" left="243" width="5" height="13" font="6">-</text>
+<text top="432" left="248" width="4" height="14" font="10"> </text>
+<text top="433" left="270" width="122" height="13" font="6">Java OOP language </text>
+<text top="450" left="243" width="5" height="13" font="6">-</text>
+<text top="449" left="248" width="4" height="14" font="10"> </text>
+<text top="450" left="270" width="84" height="13" font="6">Java Desktop </text>
+<text top="467" left="243" width="5" height="13" font="6">-</text>
+<text top="467" left="248" width="4" height="14" font="10"> </text>
+<text top="467" left="270" width="107" height="13" font="6">Java Spring Boot </text>
+<text top="485" left="243" width="5" height="13" font="6">-</text>
+<text top="484" left="248" width="4" height="14" font="10"> </text>
+<text top="485" left="270" width="134" height="13" font="6">Angular 4 framework </text>
+<text top="502" left="243" width="5" height="13" font="6">-</text>
+<text top="501" left="248" width="4" height="14" font="10"> </text>
+<text top="502" left="270" width="196" height="13" font="6">Fundamental Solidity Language </text>
+<text top="521" left="108" width="8" height="19" font="8"><b>I</b></text>
+<text top="524" left="116" width="86" height="15" font="9"><b>NTERESTS</b></text>
+<text top="521" left="202" width="19" height="19" font="8"><b>   </b></text>
+<text top="521" left="270" width="5" height="19" font="8"><b> </b></text>
+<text top="521" left="324" width="5" height="19" font="8"><b> </b></text>
+<text top="521" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="521" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="521" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="521" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="521" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="521" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="521" left="702" width="5" height="19" font="8"><b> </b></text>
+<text top="521" left="756" width="5" height="19" font="8"><b> </b></text>
+<text top="524" left="810" width="4" height="15" font="9"><b> </b></text>
+<text top="543" left="108" width="4" height="15" font="14"> </text>
+<text top="562" left="108" width="101" height="15" font="14">Soccer, music. </text>
+<text top="581" left="108" width="4" height="15" font="14"> </text>
+<text top="602" left="108" width="13" height="19" font="8"><b>P</b></text>
+<text top="605" left="121" width="76" height="15" font="9"><b>ROJECTS</b></text>
+<text top="602" left="197" width="24" height="19" font="8"><b>   </b></text>
+<text top="602" left="270" width="5" height="19" font="8"><b> </b></text>
+<text top="602" left="324" width="5" height="19" font="8"><b> </b></text>
+<text top="602" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="602" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="602" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="602" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="602" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="602" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="602" left="702" width="5" height="19" font="8"><b> </b></text>
+<text top="602" left="756" width="5" height="19" font="8"><b> </b></text>
+<text top="604" left="810" width="5" height="16" font="3"> </text>
+<text top="621" left="135" width="7" height="18" font="18"></text>
+<text top="625" left="142" width="4" height="14" font="10"> </text>
+<text top="626" left="162" width="84" height="13" font="13"><b>  Sport News </b></text>
+<text top="652" left="108" width="4" height="13" font="6"> </text>
+<text top="652" left="203" width="62" height="13" font="6">Customer </text>
+<text top="652" left="338" width="4" height="13" font="6"> </text>
+<text top="652" left="378" width="91" height="13" font="6">LAB java web </text>
+<text top="678" left="108" width="4" height="13" font="6"> </text>
+<text top="678" left="203" width="65" height="13" font="6">Team size </text>
+<text top="678" left="338" width="4" height="13" font="6"> </text>
+<text top="678" left="378" width="11" height="13" font="6">3 </text>
+<text top="703" left="108" width="4" height="13" font="6"> </text>
+<text top="703" left="203" width="53" height="13" font="6">Position </text>
+<text top="703" left="338" width="4" height="13" font="6"> </text>
+<text top="703" left="378" width="66" height="13" font="6">Developer </text>
+<text top="729" left="108" width="4" height="13" font="6"> </text>
+<text top="729" left="203" width="139" height="13" font="6">Description of project  </text>
+<text top="755" left="358" width="5" height="13" font="6">-</text>
+<text top="755" left="363" width="4" height="14" font="10"> </text>
+<text top="755" left="378" width="238" height="13" font="6">Create website by using java language. </text>
+<text top="781" left="358" width="5" height="13" font="6">-</text>
+<text top="780" left="363" width="4" height="14" font="10"> </text>
+<text top="781" left="378" width="215" height="13" font="6">To update latest news about sports. </text>
+<text top="807" left="108" width="4" height="13" font="6"> </text>
+<text top="807" left="203" width="100" height="13" font="6">Responsibilities </text>
+<text top="807" left="338" width="4" height="13" font="6"> </text>
+<text top="807" left="378" width="4" height="13" font="6"> </text>
+<text top="833" left="358" width="5" height="13" font="6">-</text>
+<text top="832" left="363" width="4" height="14" font="10"> </text>
+<text top="833" left="378" width="188" height="13" font="6">Analysis and design database.  </text>
+<text top="859" left="358" width="5" height="13" font="6">-</text>
+<text top="858" left="363" width="4" height="14" font="10"> </text>
+<text top="859" left="378" width="253" height="13" font="6">Coding about display data from database. </text>
+<text top="884" left="108" width="4" height="13" font="6"> </text>
+<text top="884" left="203" width="116" height="13" font="6">Technologies used </text>
+<text top="884" left="338" width="4" height="13" font="6"> </text>
+<text top="884" left="378" width="8" height="13" font="6">. </text>
+<text top="902" left="358" width="5" height="13" font="6">-</text>
+<text top="901" left="363" width="4" height="14" font="10"> </text>
+<text top="902" left="378" width="97" height="13" font="6">Hibernate 4.3.1 </text>
+<text top="928" left="358" width="5" height="13" font="6">-</text>
+<text top="927" left="363" width="4" height="14" font="10"> </text>
+<text top="928" left="378" width="146" height="13" font="6">Java Spring MVC 4.0.1 </text>
+<text top="953" left="358" width="5" height="13" font="6">-</text>
+<text top="953" left="363" width="4" height="14" font="10"> </text>
+<text top="953" left="378" width="66" height="13" font="6">Bootstrap. </text>
+<text top="979" left="358" width="5" height="13" font="6">-</text>
+<text top="979" left="363" width="4" height="14" font="10"> </text>
+<text top="979" left="378" width="110" height="13" font="6">SQL server 2017. </text>
+<text top="1005" left="108" width="4" height="13" font="6"> </text>
+<text top="1019" left="135" width="7" height="18" font="18"></text>
+<text top="1023" left="142" width="4" height="14" font="10"> </text>
+<text top="1024" left="162" width="79" height="13" font="13"><b>  Lookup IP </b></text>
+<text top="1050" left="108" width="4" height="13" font="6"> </text>
+<text top="1050" left="203" width="62" height="13" font="6">Customer </text>
+<text top="1050" left="338" width="4" height="13" font="6"> </text>
+<text top="1050" left="378" width="123" height="13" font="6">Nguyễn Minh Tiến. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="19" size="14" family="TimesNewRomanPSMT" color="#ff0000"/>
+<text top="1099" left="116" width="47" height="15" font="0"><i> Le Vu<b> </b></i></text>
+<text top="1099" left="752" width="55" height="15" font="1"><i><b> Page 3 </b></i></text>
+<text top="1117" left="108" width="4" height="17" font="2"> </text>
+<text top="112" left="108" width="4" height="13" font="6"> </text>
+<text top="112" left="203" width="4" height="13" font="6"> </text>
+<text top="112" left="338" width="4" height="13" font="6"> </text>
+<text top="112" left="378" width="86" height="13" font="6">01212731555 </text>
+<text top="137" left="108" width="4" height="13" font="6"> </text>
+<text top="137" left="203" width="53" height="13" font="6">Position </text>
+<text top="137" left="338" width="4" height="13" font="6"> </text>
+<text top="137" left="378" width="66" height="13" font="6">Developer </text>
+<text top="163" left="108" width="4" height="13" font="6"> </text>
+<text top="163" left="203" width="139" height="13" font="6">Description of project  </text>
+<text top="189" left="358" width="5" height="13" font="6">-</text>
+<text top="189" left="363" width="4" height="14" font="10"> </text>
+<text top="189" left="378" width="407" height="13" font="6">Find out IP addresses which belong to foreign country to block and </text>
+<text top="215" left="378" width="84" height="13" font="6">check DDoS. </text>
+<text top="241" left="358" width="5" height="13" font="6">-</text>
+<text top="240" left="363" width="4" height="14" font="10"> </text>
+<text top="241" left="378" width="47" height="13" font="6">Lookup</text>
+<text top="241" left="425" width="4" height="13" font="19"> </text>
+<text top="241" left="428" width="366" height="13" font="6">city, region, country, location, organization from IP address. </text>
+<text top="267" left="108" width="4" height="13" font="6"> </text>
+<text top="267" left="203" width="100" height="13" font="6">Responsibilities </text>
+<text top="293" left="358" width="5" height="13" font="6">-</text>
+<text top="292" left="363" width="4" height="14" font="10"> </text>
+<text top="293" left="378" width="93" height="13" font="6">Analysis data.  </text>
+<text top="319" left="358" width="5" height="13" font="6">-</text>
+<text top="318" left="363" width="4" height="14" font="10"> </text>
+<text top="319" left="378" width="290" height="13" font="6">Using Bootstrap to code front-end (basic level). </text>
+<text top="344" left="358" width="5" height="13" font="6">-</text>
+<text top="344" left="363" width="4" height="14" font="10"> </text>
+<text top="344" left="378" width="204" height="13" font="6">Using Scriptlet to code back-end. </text>
+<text top="370" left="108" width="4" height="13" font="6"> </text>
+<text top="370" left="203" width="116" height="13" font="6">Technologies used </text>
+<text top="396" left="358" width="5" height="13" font="6">-</text>
+<text top="396" left="363" width="4" height="14" font="10"> </text>
+<text top="396" left="378" width="62" height="13" font="6">Bootstrap </text>
+<text top="422" left="358" width="5" height="13" font="6">-</text>
+<text top="422" left="363" width="4" height="14" font="10"> </text>
+<text top="422" left="378" width="36" height="13" font="6">JSTL </text>
+<text top="448" left="358" width="5" height="13" font="6">-</text>
+<text top="447" left="363" width="4" height="14" font="10"> </text>
+<text top="448" left="378" width="202" height="13" font="6">Server: Apache Tomcat 8.0.27.0. </text>
+<text top="474" left="358" width="5" height="13" font="6">-</text>
+<text top="473" left="363" width="4" height="14" font="10"> </text>
+<text top="474" left="378" width="204" height="13" font="6">Java EE version: Java EE 7 Web. </text>
+<text top="496" left="135" width="7" height="18" font="18"></text>
+<text top="501" left="142" width="4" height="14" font="10"> </text>
+<text top="501" left="162" width="103" height="13" font="13"><b>  Domain Name </b></text>
+<text top="527" left="108" width="4" height="13" font="6"> </text>
+<text top="527" left="203" width="62" height="13" font="6">Customer </text>
+<text top="527" left="338" width="4" height="13" font="6"> </text>
+<text top="527" left="378" width="123" height="13" font="6">Nguyễn Minh Tiến. </text>
+<text top="553" left="108" width="4" height="13" font="6"> </text>
+<text top="553" left="203" width="4" height="13" font="6"> </text>
+<text top="553" left="338" width="4" height="13" font="6"> </text>
+<text top="553" left="378" width="86" height="13" font="6">01212731555 </text>
+<text top="579" left="108" width="4" height="13" font="6"> </text>
+<text top="579" left="203" width="53" height="13" font="6">Position </text>
+<text top="579" left="338" width="4" height="13" font="6"> </text>
+<text top="579" left="378" width="66" height="13" font="6">Developer </text>
+<text top="605" left="108" width="4" height="13" font="6"> </text>
+<text top="605" left="203" width="139" height="13" font="6">Description of project  </text>
+<text top="631" left="358" width="5" height="13" font="6">-</text>
+<text top="630" left="363" width="4" height="14" font="10"> </text>
+<text top="631" left="378" width="429" height="13" font="6">Find out domain name through IP address. (To be serve for individual) </text>
+<text top="656" left="108" width="4" height="13" font="6"> </text>
+<text top="656" left="203" width="100" height="13" font="6">Responsibilities </text>
+<text top="682" left="358" width="5" height="13" font="6">-</text>
+<text top="682" left="363" width="4" height="14" font="10"> </text>
+<text top="682" left="378" width="93" height="13" font="6">Analysis data.  </text>
+<text top="708" left="358" width="5" height="13" font="6">-</text>
+<text top="708" left="363" width="4" height="14" font="10"> </text>
+<text top="708" left="378" width="195" height="13" font="6">Using Java Swing to implement </text>
+<text top="734" left="358" width="5" height="13" font="6">-</text>
+<text top="733" left="363" width="4" height="14" font="10"> </text>
+<text top="734" left="378" width="279" height="13" font="6">Using file .jar library to modify theme of app. </text>
+<text top="760" left="108" width="4" height="13" font="6"> </text>
+<text top="760" left="203" width="116" height="13" font="6">Technologies used </text>
+<text top="786" left="358" width="5" height="13" font="6">-</text>
+<text top="785" left="363" width="4" height="14" font="10"> </text>
+<text top="786" left="378" width="146" height="13" font="6">Java Swing framework. </text>
+<text top="808" left="135" width="7" height="18" font="18"></text>
+<text top="813" left="142" width="4" height="14" font="10"> </text>
+<text top="813" left="162" width="84" height="13" font="13"><b>Management</b></text>
+<text top="813" left="246" width="4" height="13" font="6"> </text>
+<text top="813" left="250" width="35" height="13" font="13"><b>Tools</b></text>
+<text top="813" left="285" width="4" height="13" font="6"> </text>
+<text top="813" left="324" width="4" height="13" font="6"> </text>
+<text top="813" left="378" width="4" height="13" font="6"> </text>
+<text top="839" left="108" width="4" height="13" font="6"> </text>
+<text top="839" left="203" width="62" height="13" font="6">Customer </text>
+<text top="839" left="338" width="4" height="13" font="6"> </text>
+<text top="839" left="378" width="90" height="13" font="6">Lê Hữu Nghĩa </text>
+<text top="865" left="108" width="4" height="13" font="6"> </text>
+<text top="865" left="203" width="53" height="13" font="6">Position </text>
+<text top="865" left="338" width="4" height="13" font="6"> </text>
+<text top="865" left="378" width="66" height="13" font="6">Developer </text>
+<text top="891" left="108" width="4" height="13" font="6"> </text>
+<text top="891" left="203" width="135" height="13" font="6">Description of project </text>
+<text top="917" left="358" width="5" height="13" font="6">-</text>
+<text top="916" left="363" width="4" height="14" font="10"> </text>
+<text top="917" left="378" width="139" height="13" font="6">This is a web services. </text>
+<text top="943" left="358" width="5" height="13" font="6">-</text>
+<text top="942" left="363" width="4" height="14" font="10"> </text>
+<text top="943" left="378" width="390" height="13" font="6">Manage feedback from customers, draw chart to show the trend. </text>
+<text top="968" left="358" width="5" height="13" font="6">-</text>
+<text top="968" left="363" width="4" height="14" font="10"> </text>
+<text top="968" left="378" width="174" height="13" font="6">Build Administrator system. </text>
+<text top="994" left="358" width="5" height="13" font="6">-</text>
+<text top="994" left="363" width="4" height="14" font="10"> </text>
+<text top="994" left="378" width="159" height="13" font="6">Manage budget of teams.  </text>
+<text top="1020" left="108" width="4" height="13" font="6"> </text>
+<text top="1020" left="203" width="100" height="13" font="6">Responsibilities </text>
+<text top="1046" left="358" width="5" height="13" font="6">-</text>
+<text top="1046" left="363" width="4" height="14" font="10"> </text>
+<text top="1046" left="378" width="169" height="13" font="6">Support to create Database. </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="1099" left="116" width="47" height="15" font="0"><i> Le Vu<b> </b></i></text>
+<text top="1099" left="752" width="55" height="15" font="1"><i><b> Page 4 </b></i></text>
+<text top="1117" left="108" width="4" height="17" font="2"> </text>
+<text top="112" left="358" width="5" height="13" font="6">-</text>
+<text top="111" left="363" width="4" height="14" font="10"> </text>
+<text top="112" left="378" width="263" height="13" font="6">Create APIs using Spring Boot framework. </text>
+<text top="137" left="358" width="5" height="13" font="6">-</text>
+<text top="137" left="363" width="4" height="14" font="10"> </text>
+<text top="137" left="378" width="188" height="13" font="6">Using Angular 4 for front-end. </text>
+<text top="163" left="358" width="5" height="13" font="6">-</text>
+<text top="163" left="363" width="4" height="14" font="10"> </text>
+<text top="163" left="378" width="252" height="13" font="6">Create services to interact with back-end. </text>
+<text top="189" left="108" width="4" height="13" font="6"> </text>
+<text top="189" left="203" width="116" height="13" font="6">Technologies used </text>
+<text top="215" left="358" width="5" height="13" font="6">-</text>
+<text top="214" left="363" width="4" height="14" font="10"> </text>
+<text top="215" left="378" width="64" height="13" font="6">Angular 4 </text>
+<text top="241" left="358" width="5" height="13" font="6">-</text>
+<text top="240" left="363" width="4" height="14" font="10"> </text>
+<text top="241" left="378" width="91" height="13" font="6">Css3/HTML5  </text>
+<text top="267" left="358" width="5" height="13" font="6">-</text>
+<text top="266" left="363" width="4" height="14" font="10"> </text>
+<text top="267" left="378" width="94" height="13" font="6">Spring Boots 2 </text>
+<text top="293" left="358" width="5" height="13" font="6">-</text>
+<text top="292" left="363" width="4" height="14" font="10"> </text>
+<text top="293" left="378" width="105" height="13" font="6">Spring Data JPA </text>
+<text top="319" left="358" width="5" height="13" font="6">-</text>
+<text top="318" left="363" width="4" height="14" font="10"> </text>
+<text top="319" left="378" width="133" height="13" font="6">MySQL Work Bench </text>
+<text top="341" left="135" width="7" height="18" font="18"></text>
+<text top="345" left="142" width="4" height="14" font="10"> </text>
+<text top="346" left="162" width="34" height="13" font="13"><b>ETM</b></text>
+<text top="346" left="196" width="4" height="13" font="6"> </text>
+<text top="346" left="200" width="64" height="13" font="13"><b>Compiler </b></text>
+<text top="346" left="264" width="4" height="13" font="6"> </text>
+<text top="372" left="108" width="4" height="13" font="6"> </text>
+<text top="372" left="203" width="62" height="13" font="6">Customer </text>
+<text top="372" left="338" width="4" height="13" font="6"> </text>
+<text top="372" left="378" width="91" height="13" font="6">Bùi Tất Thắng </text>
+<text top="398" left="108" width="4" height="13" font="6"> </text>
+<text top="398" left="203" width="53" height="13" font="6">Position </text>
+<text top="398" left="338" width="4" height="13" font="6"> </text>
+<text top="398" left="378" width="66" height="13" font="6">Developer </text>
+<text top="423" left="108" width="4" height="13" font="6"> </text>
+<text top="423" left="203" width="139" height="13" font="6">Description of project  </text>
+<text top="449" left="358" width="5" height="13" font="6">-</text>
+<text top="449" left="363" width="4" height="14" font="10"> </text>
+<text top="449" left="378" width="281" height="13" font="6">Convert from files to show data on Grid view. </text>
+<text top="475" left="108" width="4" height="13" font="6"> </text>
+<text top="475" left="203" width="100" height="13" font="6">Responsibilities </text>
+<text top="501" left="358" width="5" height="13" font="6">-</text>
+<text top="501" left="363" width="4" height="14" font="10"> </text>
+<text top="501" left="378" width="216" height="13" font="6">Follow up the requirement of user.  </text>
+<text top="527" left="358" width="5" height="13" font="6">-</text>
+<text top="526" left="363" width="4" height="14" font="10"> </text>
+<text top="527" left="378" width="200" height="13" font="6">Research and customize Ribbon. </text>
+<text top="553" left="108" width="4" height="13" font="6"> </text>
+<text top="553" left="203" width="116" height="13" font="6">Technologies used </text>
+<text top="579" left="358" width="5" height="13" font="6">-</text>
+<text top="578" left="363" width="4" height="14" font="10"> </text>
+<text top="579" left="378" width="345" height="13" font="6">C#/WPF framework. (Window Presentation Foundation) </text>
+<text top="606" left="108" width="15" height="19" font="8"><b>R</b></text>
+<text top="609" left="123" width="84" height="15" font="9"><b>ESEARCH </b></text>
+<text top="606" left="207" width="8" height="19" font="8"><b>I</b></text>
+<text top="609" left="215" width="86" height="15" font="9"><b>NTERESTS</b></text>
+<text top="606" left="302" width="28" height="19" font="8"><b>   </b></text>
+<text top="606" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="606" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="606" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="606" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="606" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="606" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="606" left="702" width="5" height="19" font="8"><b> </b></text>
+<text top="606" left="756" width="5" height="19" font="8"><b> </b></text>
+<text top="606" left="810" width="5" height="19" font="8"><b> </b></text>
+<text top="629" left="161" width="5" height="16" font="3"> </text>
+<text top="649" left="108" width="241" height="13" font="6">- Blockchain, React, JavaScript, NodeJs</text>
+<text top="647" left="349" width="5" height="16" font="3"> </text>
+<text top="677" left="108" width="21" height="19" font="8"><b>W</b></text>
+<text top="680" left="129" width="185" height="15" font="9"><b>ORKING PREFERENCE</b></text>
+<text top="677" left="314" width="16" height="19" font="8"><b>   </b></text>
+<text top="677" left="378" width="5" height="19" font="8"><b> </b></text>
+<text top="677" left="432" width="5" height="19" font="8"><b> </b></text>
+<text top="677" left="486" width="5" height="19" font="8"><b> </b></text>
+<text top="677" left="540" width="5" height="19" font="8"><b> </b></text>
+<text top="677" left="594" width="5" height="19" font="8"><b> </b></text>
+<text top="677" left="648" width="5" height="19" font="8"><b> </b></text>
+<text top="677" left="702" width="5" height="19" font="8"><b> </b></text>
+<text top="677" left="756" width="5" height="19" font="8"><b> </b></text>
+<text top="677" left="810" width="5" height="19" font="8"><b> </b></text>
+<text top="700" left="161" width="5" height="16" font="3"> </text>
+<text top="720" left="108" width="109" height="13" font="6">Working location </text>
+<text top="720" left="284" width="121" height="13" font="6">: Ho Chi Minh City </text>
+<text top="746" left="108" width="138" height="13" font="6">Expected job category </text>
+<text top="746" left="284" width="317" height="13" font="6">: Junior Java Developer and Blockchain Developer.  </text>
+</page>
+</pdf2xml>

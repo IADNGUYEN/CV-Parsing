@@ -1,0 +1,98 @@
+Nguyen Huynh Minh Trung’s CV  Confidential 
+1 
+NGUYEN HUYNH MINH TRUNG 
+PERSONAL DETAILS 
+Name:  
+Nguyen Huynh Minh Trung 
+Date of Birth: 
+February, 13th 1989 
+Sex: 
+Male 
+Telephone: 
+01632 822 545 
+Email:  
+phuhokhongtien@gmail.com 
+Address:  
+114/35, Duong Quang Ham Street, 5 Ward, Go Vap District, HCM city 
+Nationality:  
+Vietnamese 
+EDUCATION 
+From October 2008 to 2011:  
+Graduated from  Institute Of Applied Science & Technology in Ho Chi Minh city.  
+Industry: Information Technology 
+PROFESSIONAL SUMMARY 
+Programmer with 4 years experience. 
+Programming through hospital management software, restaurant management, warehouse 
+management. Web florist, Gateway identify user credentials + gateway log…  
+Can handle large data sets. 
+Always learn and apply new technologies to work. 
+Quickly grasp the problem. 
+Can work independently or work group 
+Hightest position: leader 
+Can work in high pressure environment. 
+COMPUTER SKILLS 
+Languages:  
+o .NET Framework 1.0/1.1/2.0/3.0/4.0/4.5, C#  
+o ASP.NET  MVC, AJAX, WPF 
+o HTML, CSS, XML, Jquery, Bootstrap 
+o Linq Entity Farmework. 
+Databases:  
+o MS SQL Server 2000/2005/2008 
+o My SQL 
+Development, Design Tools: 
+o Visual Studio 2003/2005/2008/2010/2012 
+o Entity Framework  
+Nguyen Huynh Minh Trung’s CV  Confidential 
+2 
+o Subversion, TortoiseSVN, SVN for Visual Studio , TFS 
+o Rational Rose  
+o Crystal Report 
+o DotnetBar, Kendo UI 
+Other:  
+o OOP, Design Database, Optimize code and query 
+OTHER SKILLS 
+Foreign Languages:  
+o English 
+Soft skills:  
+o Good in communication 
+o Quick problem solving 
+o Time management 
+o Team management 
+o Quick research 
+PROFESSIONAL EXPERIENCE 
+Software overall management hospital  (Ehis) 
+o Team size: 7 member. 
+o Customize model of App. 
+o Fix bug. 
+o Software using technology: 
+C#,.Netframework 2.0, 3.0 
+Oracle 
+Crystal reports 
+XML 
+Restaurant Management (POS) 
+o Team size: 4 member. 
+o Code app. 
+o Fix bug. 
+o Software using technology: 
+C#,.Netframework 4.5 
+MS SQL 
+Webservice API 
+Payment Online with gateway EPAYMENT 
+Gateway identify user credentials + gateway log  
+o Team size: 4 member. 
+o Code app, webservice, dll. 
+o Fix bug. 
+o Using technology: 
+C#,.Netframework 4.5 
+MS SQL 
+Webservice API 
+Entity Framework, MVC 4 
+HOBBY 
+Nguyen Huynh Minh Trung’s CV  Confidential 
+3 
+Listen to music 
+Play badminton 
+Take a photo 
+Passionate about new technology 
+Sincerely yours 
+Nguyen Huynh Minh Trung 

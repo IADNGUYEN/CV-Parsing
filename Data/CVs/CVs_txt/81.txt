@@ -1,0 +1,53 @@
+CURRICULUM VITAE 
+THAM PHAN THI HONG 
+Phone number: (+84) 1865 113 221 
+Email address: hongthamk38@gmail.com 
+Date of birth: December 30 1994 
+Vietnamese (Mother tonge) 
+English (Intermidiate) 
+EXTRACURRICULAR 
+EXPERIENCES  Participating on 
+entertainment team (College 
+of Information & 
+Communication Technology 
+and Student Associations My 
+Tu  Chau Thanh)  Participating on youth 
+team (College of Information 
+& Communication 
+Technology) 
+INFORMATION  Now: Software engineering 
+CanTho University  ctu.edu.vn  July 2015: Certificate of Global 
+Software Talent 
+Global Java Developer training course by 
+Fpt Software  www.fpt-software.com 
+PROFESSIONAL 
+EXPERIENCES  Project GST from Fpt Software 
+Graduation project  Supervisor: Pham 
+The Phi (ptp@cit.ctu.edu.vn) 
+Technical Keywords: Spring, Hibernate, 
+Java (EE), MVC  Project building website: mtpc.edu.vn 
+Scholar project, Supervisor: Huynh Xuan 
+Hiep (hxhiep@cit.ctu.edu.vn) 
+Technical Keywords: Joomla Framework, 
+CSS, Responsive  Project Arduino Robot 
+Scholar project, Supervisor: Huynh Xuan 
+Hiep (hxhiep@cit.ctu.edu.vn) 
+Techical Keywords: Embedded, Arduino, 
+Motor Shield  Project Game X-hunter 
+Scholar project, Supervisor: Ho Quang 
+Thai (hqthai@cit.ctu.edu.vn) 
+Techical Keywords: Java, Socket, Canvas  Project Game Faster Typing 
+Scholar project, Supervisor: Phan Phuong 
+Lan (pplan@cit.ctu.edu.vn) 
+COMPETENCES  Software development: 
+Java, C/C++ (Netbean, Eclipse, DevC)  Mobile development: 
+Android (Android Studio, Eclipse + 
+ADT)  Web development: 
+HTML, CSS, JavaScript, PHP, Spring, 
+Hibernate, Joomla  Multimedia development: Paint , 
+Proshow Producer  DB Management: 
+MySQL, Microsoft SQL Server , 
+Microsoft Access  Architectural Design: 
+UML(StarUML, Powerdesigner)  Embedded Development: 
+MSP430 (Code Composer Studio), 
+Arduino (Arduino IDE) 

@@ -1,0 +1,90 @@
+Page 1 of 2 
+Trần Hoàng Vũ 
+Passionate & interesting mathematics with experiences on statistic, big data, machine 
+learning. Hard working, enthusiastic, always keen to learn. 
+Personal Information 
+Date of birth  
+: 11/03/1991  
+Place of birth  : Khanh Hoa/ Viet Nam  
+Gender  
+: Male.   
+Marital status  : Single 
+Contact Address 
+: 06 Nguyen Chanh Sat, Tan Binh district, Ho Chi Minh City. 
+Phone  
+: 01667638491.   
+Email  
+: tranhoangvu.khtn@gmail.com.       
+Languages   
+: Vietnamese(Native), English.     
+Education 
+2009  
+: Nha Trang University, Viet Nam 
+2010 – Oct 2014  : University of science Ho Chi Minh City, Viet Nam. 
+Department  
+: Math and Computer science. 
+Major  
+: Statistic and probability. 
+Career Goals 
+Short term 
+: Work as staff in a firm where I can get practical 
+experience and further studying. 
+Long term 
+: General manager at company. 
+Experience Summary 
+April 2017 – Now 
+Company  
+: Fastdata JSC 
+: http://www.fastdata.vn/ 
+Positions  
+: Data Mining Engineer 
+Job descriptions :Working with structured big data in telecom with over 35  
+million users. 
+❖ Use quantitative methods and customer 
+segmentation to develop analytical models to solve 
+business needs. 
+❖ Using Crisp-DM Methodology and machine 
+learning to predict behavior’s customer in 
+supervised or unsupervised learning situation. 
+Page 2 of 2 
+❖ Using python dealing with unstructured and 
+structured data, data cleansing, preparation, and 
+analysis. 
+Jan 2016 – April 2017 
+Company  
+: Thuy Thien Corporation 
+: http://www.ttsoft.com.vn/ 
+Positions  
+: Software Engineer. 
+Job descriptions : Participate to the development software with delphi and     
+database Firebird. 
+: Participate in designer interface (UI), working with the  
+database Firebird and SQL server. 
+Skills 
+❖ Soft Skills 
+Good mathematics and statistics (descriptive Statistic, Analysis of Variance, 
+mixed effects model, logistic regression, Linear regression, event history and 
+survival analysis) 
+Experience machine learning (clustering as K-mean, association as apriori, ...) 
+Collecting, processing and analyzing data to provide insight to consultants. 
+Analyze quantitative data using statistical software (python, Eview, MS 
+Excel). 
+Incisive analytical skill and problem-solving skill. 
+Work under pressure and meet deadline of the project. 
+Hard working, responsible, creative, strong interpersonal and communication 
+skills. 
+❖ Programming Skills 
+Python, R, Matlab, C/C++, C#, Java, Delphi, Android. 
+Database: IBM Netezza, MS SQL server, Firebird. 
+Software application: IBM SPSS Modeler 
+❖ Teamwork 
+Strengths: Planning, listening and giving solutions and evaluation. 
+Hobbies & Interests 
+Reading books, Playing football, Gathering with my friends. 
+Reference 
+Hà Chính Hiến (CEO)  
+Vũ Ngọc Hồng Phúc (PM) 
+Fastdata Jsc, Ho Chi Minh City 
+ThuyThien Jsc, Ho Chi Minh City 
+Email : hien.ha@fastdata.vn 
+Email: phucvnh@ttsoft.com.vn 

@@ -1,0 +1,337 @@
+ 
+Page 1 of 7 
+CURRICULUM VITAE 
+NGUYễN KHOA NGữ 
+PERSONAL DETAILS 
+Full Name : 
+Nguyễn Khoa Ngữ 
+Job Titles: 
+Senior Developer 
+Date of Birth : 
+06/08/1987 
+Place of Birth : 
+Daklak Province 
+Gender :  
+Male 
+Marital Status : 
+Single 
+Home Address :  Hiep Thanh17 Street – Hiep Thanh Ward  – District 12– Ho Chi 
+Minh City 
+Mobile :  
+0974146341 
+Email :                          
+nguyenkhoangu@gmail.com 
+SUMMARY INFORMATION 
+* Experiences in brief:  5 years experiences in software development with .NET technology: ASP.NET, C#, VB.Net, ADO.Net, 
+Crystal Report, JavaScript, Jquery, HTML, XML.  Experiences and deep knowledge with SQL Server  More experiences in the projects relating to Accounting management, Financial management, Inventory 
+management, Sales Order management  Good about reading and writing English, speaking is acceptable.  Analyzing business, writing technical document, controlling quality and managing progress of projects  IDEs: Visual studio 2003, 2008, 2010 and 2012 
+* Hobbies: Music, sport, game and reading book 
+EDUCATION HISTORY 
+From: 2005 
+To: 2009 
+University/School: Industrial University of Ho Chi Minh City 
+Degree/Qualifications: Engineer in Computer Science 
+CERTIFICATES 
+English 
+Level C 
+EMPLOYMENT HISTORY 
+From: 12/2009 
+Company: Fast Software Join Stock Company 
+Page 2 of 7 
+To: Present 
+Job Title: Senior Developer 
+Job Description: Analyzing business, writing technical document, coding, controlling 
+quality and managing progress of the projects. 
+REFERENCES 
+Full Name: 
+Truong Ngoc Phi Long 
+Address: 
+14P1 Bau Cat, ward 2– Tan Binh District  – Ho Chi Minh 
+City 
+Phone: 
+0909073187 
+Page 3 of 7 
+APPENDIX   PROJECT REFERENCE AND SKILL SET  
+From: 12/2014 
+To: Now 
+Project Name: 
+VIFON 
+Company: 
+Fast Software JSC 
+Client: 
+Vietnam Food Industries Joint Stock Company (VIFON) 
+Position: 
+Developer 
+Responsibilities: 
+Coding, testing 
+Project  Description:  Purchase order Management  Manufacturing Resource Planning 
+Used Technologies: 
+VB.Net, SQL Server 2008R2, Visual Studio 2003 
+From: 7/2014 
+To: 11/2014 
+Project Name: 
+EUVIPHARM 
+Company: 
+Fast Software JSC 
+Client: 
+Euvipharm Pharmaceutical JSC 
+Position: 
+Senior Developer 
+Responsibilities: 
+Analyzing business, writing document, coding, testing and 
+managing the progress 
+Project  Description:  Accounting management  Inventory Management for Pharmacy  Sales management, calculate discount  Purchase order Management 
+Used Technologies: 
+ASP.Net, VB.Net, JavaScript, XML, Ajax, Jquery,  JSON, 
+SQL Server 2014, Visual Studio 2012, Crystal Report 
+From: 04/2014 
+To: 07/2014 
+Project Name: 
+PSD 
+Company: 
+Fast Software JSC 
+Client: 
+Petrosetco Distribution 
+Position: 
+Senior Developer 
+Responsibilities: 
+Analyzing business, writing document, coding, testing and 
+managing the progress 
+Project  Description:  Accounting management  Sales Management  Purchase order Management 
+Used Technologies: 
+ASP.Net, VB.Net, JavaScript, XML, Ajax, Jquery, JSON, 
+SQL Server 2008, Visual Studio 2012, Crystal Report 
+From: 01/2014 
+To: 04/2014 
+Project Name: 
+ROUSSEL 
+Company: 
+Fast Software JSC 
+Client: 
+ROUSSEL VIETNAM 
+Position: 
+Senior Developer 
+Responsibilities: 
+Analyzing business, writing document, coding, testing and 
+managing the project progress 
+Project  Description:  Accounting Management  Inventory Management for Pharmacy  
+Page 4 of 7  Purchase order Management 
+Used Technologies: 
+ASP.Net, VB.Net, JavaScript, XML, Ajax, JSON, SQL 
+Server 2008, Visual Studio 2010, Crystal Report 
+From: 10/2013 
+To: 03/2014 
+Project Name: 
+TINNGHIA 
+Company: 
+Fast Software JSC 
+Client: 
+TIN NGHIA JOINT-STOCK COMPANY 
+Position: 
+Senior Developer 
+Responsibilities: 
+Analyzing business, writing document, coding, testing and 
+managing the project progress 
+Project  Description:  Accounting Management  Inventory Management  Production Management  Purchase order Management 
+Used Technologies: 
+ASP.Net, VB.Net, JavaScript, XML, Ajax, JSON, SQL 
+Server 2005, Visual Studio 2010, Crystal Report 
+From: 05/2013 
+To: 10/2013 
+Project Name: 
+TINTHANH 
+Company: 
+Fast Software JSC 
+Client: 
+TIN NGHIA JOINT-STOCK COMPANY 
+Position: 
+Senior Developer 
+Responsibilities: 
+Analyzing business, writing document, coding, testing and 
+managing the project progress 
+Project  Description:  Inventory Management  Accounting Management  Production Management  Purchase order Management 
+Used Technologies: 
+VB.Net, SQL Server 2005, Visual Studio 2010, Crystal 
+Report 
+From: 12/2012 
+To: 05/2013 
+Project Name: 
+TRINHVUONG 
+Company: 
+Fast Software JSC 
+Client: 
+Trinh Vuong garment Co., Ltd 
+Position: 
+Senior Developer 
+Responsibilities: 
+Writing document, coding, testing 
+Project  Description:  Accounting management  Inventory management  Production management 
+Used Technologies: 
+ASP.Net, VB.Net, JavaScript, XML, SQL Server 2008, 
+Visual Studio 2010, Ajax, JSON  
+From: 08/2012 
+To: 12/2012 
+Project Name: 
+VFM 
+Company: 
+Fast Software JSC 
+Client: 
+Vietnam Fund Management (VFM) 
+Page 5 of 7 
+Position: 
+Senior Developer 
+Responsibilities: 
+Writing document, coding, testing  
+Project  Description:  Financial Management 
+Used Technologies: 
+VB.Net, SQL Server 2005, Visual Studio 2003, CSV 
+From 05/2012 
+To 08/2012 
+Project Name: 
+BIVID 
+Company: 
+Fast Software JSC 
+Client: 
+BIVID CO., LTD 
+Position: 
+Senior Developer 
+Responsibilities: 
+Analyzing business, writing document, coding, testing and 
+managing the progress 
+Project  Description:  Inventory management  Sales management 
+Used Technologies: 
+VB.Net, SQL Server 2005, Visual Studio 2003, Crystal 
+Report 
+From: 01/2012 
+To: 02/2012 
+Project Name: 
+LUKSLAND 
+Company: 
+Fast Software JSC 
+Client: 
+Luks Land (Vietnam) Co. Ltd 
+Position: 
+Senior Developer 
+Responsibilities: 
+Analyzing business, writing document, coding and testing 
+Project  Description: 
+Financial Management Software, connect to Vietcombank 
+Used Technologies: 
+VB.Net, SQL Server 2005, Visual Studio 2003, CSV 
+From: 10/2011 
+To: 12/2011 
+Project Name: 
+FCC 
+Company: 
+Fast Software JSC 
+Client: 
+FCC Control and Fumigation Company 
+Position: 
+Developer 
+Responsibilities: 
+Coding 
+Project  Description: 
+Financial Management Software 
+Used Technologies: 
+VB.Net, SQL Server 2005, Visual Studio 2003, Crystal 
+Report 
+From: 05/2011 
+To: 03/2012 
+Project Name: 
+VIFON 
+Company: 
+Fast Software JSC 
+Client: 
+Vietnam Food Industries Joint Stock Company (VIFON) 
+Position: 
+Developer 
+Responsibilities: 
+Writing document, coding, testing 
+Project  Description:  Inventory Management  Sales Order  Connect with GESO to get Sales data  
+Page 6 of 7 
+Used Technologies: 
+VB.Net, SQL Server 2005, Visual Studio 2003 
+From: 06/2011 
+To: 08/2011 
+Project Name: 
+HOUSEWARES 
+Company: 
+Fast Software JSC 
+Client: 
+Vietnam Housewares Co., Ltd 
+Position: 
+Developer 
+Responsibilities: 
+Writing document, coding  
+Project  Description: 
+Developing software for Inventory Management 
+Used Technologies: 
+VB.Net, MSSQL 2000, Visual Studio 2003 
+From: 02/2011 
+To: 07/2011 
+Project Name: 
+HUYBAO 
+Company: 
+Fast Software JSC 
+Client: 
+HB-Kmix Trading Service Company Limited  
+Position: 
+Developer 
+Responsibilities: 
+Coding and testing 
+Project  Description:  Accounting Management  Maid Management  Human Resource Management 
+Used Technologies: 
+VB.Net, MSSQL Server 2005, Visual Studio 2003, Crystal 
+Report 
+From: 10/2010 
+To: 12/2010 
+Project Name: 
+AD 
+Company: 
+Fast Software JSC 
+Client: 
+Advanced Distribution Co., Ltd 
+Position: 
+Developer 
+Responsibilities: 
+Coding 
+Project  Description:  Developing the Sales management software  Customize the website to export sales data report for 
+customer 
+Used Technologies: 
+VB.Net, MSSQL Server 2008, Asp.Net, XML, Ajax, JSON, 
+Visual Studio 2008, Crystal Report, Excel 
+From: 06/2010 
+To: 09/2010 
+Project Name: 
+SCHAEFFLER 
+Company: 
+Fast Software JSC 
+Client: 
+Schaeffler VietNam  
+Position: 
+Developer 
+Responsibilities: 
+Coding, testing, writing documents 
+Project  Description:  Sales and Purchase Management  Internal Sale Management 
+Used Technologies: 
+VB.NET, MSSQL Server 2005, Visual Studio 2003, Crystal 
+Report, Excel 
+Page 7 of 7 
+From: 02/2010 
+To: 05/2010 
+Project Name: 
+HAI  
+Company: 
+Fast Software JSC 
+Client: 
+HAI Agrochem JSC 
+Position: 
+Developer 
+Responsibilities: 
+Coding and testing 
+Project  Description: 
+Customize Accounting Management Software according to 
+the customer's requests 
+Used Technologies: 
+VB.Net, MSSQL Server 2005, Visual Studio 2003, Crystal 
+Report 

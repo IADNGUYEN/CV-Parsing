@@ -1,0 +1,49 @@
+NGUYỄN HOÀNG PHỤNG 
+B: 06/21/1992 
+T: 01644.229.337 
+E: nguyenhoangphung311@gmail.com 
+A: 685/66/3 XVNT, P26, Q. Bình Thạnh 
+PERSONAL SUMMARY 
+A skilled mobile developer, I would like to have wide knowledge, experience about to development apps 
+on smartphone, excellent communication skills and able to work alongside amazing teams and allow me 
+to continue to develop my knowledge and potential. Create applications help life easier, life better. 
+WORK EXPERIENCE 
+iServiceSoft VN (1/2014  Present): Developer 
+Connection, analysing and processing raw data. 
+Responsible for loading, extracting and validation of client data. 
+Fix bug, update database of customer 
+Analyzing data and conducting compatibility and quality assurance testing. 
+Designing, developing and implementing new functionality, both back-end and front-end 
+iServiceSoft VN (9/2013  12/2013): Trainee Developer 
+Working with other developers to build technical solutions, learn research problems is assigned 
+KEY SKILLS AND COMPETENCIES 
+SOFT SKILLS 
+Have problem solving and time management skills, ability teamwork and independently. 
+Working with pressure and challenges in the work, ability research technologies and new solutions 
+Knowledge about development model SCRUM, ability building and development project 
+Responsibility for work, progress of the project and report the work assigned, trying to meet the 
+requirements of product 
+Confident, sense of responsibility, patience, passionate of new technologies and be eager to learn 
+from each other 
+SPECIALIZED 
+Knowledge of Java, C#, C, C++, Javascript, CSS, HTML, YUI, XML/JSON 
+Understanding Android philosophy architect and life cycle  
+Experience with Activity, Fragment, AsyncTask, ActionBar, SQLite, BaseAdapter, Push 
+notification(use GCM) 
+Working experience in Eclipse, Android Studio, IntelliJ IDEA, Visual Studio, SVN, Trello, RazorSql 
+Experience with data migration, data analysis, debugging 
+Knowledge Photoshop basic 
+Has apps submitted to Google Play Store: 
+https://play.google.com/store/apps/details?id=social.com.paper 
+ACADEMIC QUALIFICATIONS 
+Ho Chi Minh City University of Science (10/2010  9/2013) – Bachelor of Information Technology 
+Trained about development model SCRUM of Axon Active VN company (8/2013) 
+nhphung113 
+linkedin.com/in/nhphung113 
+hoangphung92 
+HOBBIES 
+Running, listening music, read books, buy books old, read news technologies 
+Develop apps on Android 
+Quote: “Simple can be harder than complex” Steve Jobs 
+REFERENCES 
+Mr. Khoa Bui – Team Leader  iServiceSoft VN  093.921.31.82 

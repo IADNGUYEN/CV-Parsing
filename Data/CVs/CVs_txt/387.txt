@@ -1,0 +1,29 @@
+ 
+NGUYEN BAO XUAN TRUONG 
+Address: 1242, Pham Van Dong, Linh Tay, ThuDuc, HCM 
+Mobile: 098-229-239-0 
+E-mail: nbxtruong@gmail.com 
+Objective: To obtain a challenging jobs position for my life in the IoT Engineer.  
+Education:  
+Software engineer, NIIT University (2012)  
+Bachelor of Science, FPT-Greenwich University (2014)  
+Master Bachelor of Science, French University Pole (2017) 
+Scholarship:  Scholarships for outstanding students of the NIIT University 2011. 
+Academic interests:  Deployment and maintenance computer and network for a company (Assuming training of NIIT)  
++ In survey research.  
++ Collect customer feedback and analyze customer complaints.  
++ The last thing to check every month is your system's maintenance log.  Join Web Development for three weeks (Assuming training of NIIT)  
++ Researching customer demands. 
++ Prototype demo for customers review.  
++ Monthly maintenance.  Join solve the problem when deployment an application of information technology in a company 
+(Assuming training of FPT-Greenwich)  
++ Write a report for Information Systems Engineering (Rich Picture, Use Case Modeling and 
+Critical Analysis…).  
+Skills:  Fron-end: HTML, CSS, AngularJS, AngularJS Material, Bootstrap, Javascript.  Back-end: Java, C#, Javascript, SQL Server, MySQL.  Can solve problem when deployment an application.  
+Work experience: 
+5-2017: IoT Blocky Project 
+7-2017: Smart devices 
+3-2018: OriginTrail Supply Chains 
+5-2018: Hyperledger Indy 
+Other activities:  
+Optimize old systems by the software, learn about computer hardware and read technology news. 

@@ -1,0 +1,683 @@
+   
+CURRICULUM VITAE
+I. Skills & Expertise
+Strong knowledge and experience quantitative (data) analysis  Strong working knowledge of regression, testing, statistical techniques.  Strong knowledge of theory of applied mathematics, probability and statistics.  Strong experience with quantitative (data) analysis softwares.
+Strong ability to research   Strong  ability  to  comprehend  and  synthesize  academic  literature  in  statistics  techniques,
+quantitative methods, economic and finance.
+Understand knowledge Machine Learning, Deep learning  Finished 2 courses “Machine Learning” online at Udacity. (Python): Intro to Machine Learning 
+Course, Machine Learning for Trade Course: Navie Bayers, SVM, Decision Trees, Regression, 
+Clustering, Text Learning, … Scikit-learn, Python.  And learn machine learning through public (forum) 
+examples.  Problem Solving with Algorithms and Data Structures.  Strong programming experience: Python, C, Matlab, Gauss
+Have knowledge management information system (MIS)  I graduated with a bachelor's degree in Management Information Systems (MIS) as highest 
+honors in Mathematics and Statistics Faculty Course 35 (2009 – 2013).  Have knowledge of SQL, Oracle, Access. I wrote myself database to manage time (base on 
+GTD methods – app Gqueues)
+Strong analysis skill, knowledge and experience
+Name
+TRAN CONG PHU KHANH
+Gender
+Male
+Phone No
++841668258528
+Email
+topol.phukhanh@gmail.com
+Address
+102 Room, ATLAS  Tower,  793/54/1/17A 
+Tran Xuan Soan, Tan Hung Ward, 7 District,  Ho Chi Minh City  Experienced investment analyst at Stock company: Marco analysis report monthly, sector report,
+financial statement analysis. Have experience in follow macro-economic, sector situation.  Have experience working with financial statements, economic indicators, valuation, business 
+analysis.  Knowledge of various angles on topics: corporate finance, international finance, banking and 
+economics. Many topics have been researched extensively (table at last of my CV).
+Have ability to simplify and effectively communicate complex concepts  Interactive experience in doing research as research assistant (mainly responsible for research 
+methodology, data collection, quantitative processing) with supervisors (RMIT are international 
+environment)  Interact with the students to consultant in Research methods and Quantitative analyses.
+II. Experience 
+Consultant/Lecture: Quantitative (data) analyses in Research methods.
+The course is organized by myself. 
+09/2014 – Present | Ho Chi Minh City. 
+Students  are masters research  students in finance, banking  and  economics major,  02  doctor
+researcher students. Some of my students are lecture in universities (they research to publish their
+article). More than 100 students. (Fee 4.5 mil 7.5 mil VND for 6-10 times meeting 1  1). 
+Details:
+Make them clearly related article (especially quantitative methods part) and answer
+their questions.
+Researching and Advising them on the method to answering their research question
+(focus on: proper and updated, compare with other methods, strengths and weaknesses,
+reasons  for  choosing  methods)  and  teaching  in  econometrics  (measure,  testing,
+regression, …)
++ Time series: VAR, VECM, SVAR, sign restricted VAR, BVAR, restricted VAR,
+break, non-linear, markov switching, regime, smooth transition, STR…, long short
+run, causality, cointegration, bootstrap, …ARCH-GARCH types, …
++  Panel  data:  Sys  Dif  GMM,  likelihood,  iv,  3lsl,  fmols  dols,  cointegration
+regression, threshold, nonlinear, restrictions, bootstrap, …
++ Evenstudy, Risk model, … Other statistical techniques.     All students’s files and students’s emails conversation box are stored.
+Research Advisor
+Young Research Economics Club (University of Economic HCM city)
+11/2014 – 12/2016 | Ho Chi Minh City     Clarification of feasibility of scientific research 
+Guiding students to quantitative research.   Teach econometric and build a methodology: proxyed variables, data model, regression,
+pre-test, post-test, estimator, robustness check. 
+Some of my students have a scientific research award.
+Research Assistant  Level 4
+RMIT University Vietnam | Ho Chi Minh City
+Accounting, Economics, Finance and Marketing, COCM
+Part – time, Full  time (05/2014 – 4/2016)
+Research Assistant for PhD Le Thai Ha1
+In Vietnam, she has the 5th highest number of published international journals 
+I am responsible for research methodology, data collection, quantitative processing. 
+I comment 6 papers which journal/ conference sent to my supervisor to judge. Evaluate the 
+strengths and weaknesses of the research. 
+Requires high quality research to be sufficiently qualified to publish in high-ranking foreign 
+journals. 
+Reading and comprehending reports and related literature 
+Conducting data analysis using the appropriate methods and/or techniques (e.g., assigned
+econometric models) 
+Providing data files and reports and materials to the project leader in a timely manner 
+Writing research reports based upon data results 
+Provide academic judgement when required 
+To take responsibility for developing research methods and techniques within the framework of
+the project 
+Research and implement the contributions of experts who are judge us paper when we submit
+us paper to journals. 
+Other duties as assigned by the Surpervisor.
+Some of the articles that I assisted were published in the highest ranking journal (Q1* ranking)
+Those are papers published that I assistant research: 
+Le, T. H., Chang, Y., & Park, D. (2017). Energy demand convergence in APEC: An empirical
+analysis. Energy Economics, 65, 32-41. 
+Le,  T.  H.,  &  Tran-Nam,  B.  (2017).  Trade  Liberalization,  Financial  Modernization  and
+Economic Development: An Empirical Study of Selected Asia-Pacific Countries. Research in
+Economics. 
+Le,  T.  H.,  Chang,  Y.,  &  Park,  D.  (2016).  Trade  openness  and  environmental  quality:
+International evidence. Energy Policy, 92, 45-55. 
+Le, T. H., Kim, J., & Lee, M. (2016). Institutional quality, trade openness, and financial sector
+development in Asia: An empirical investigation. Emerging Markets Finance and Trade, 52(5),
+1047-1059. 
+Le, T. H. (2016). Dynamics between energy, output, openness and financial development in
+sub-Saharan African countries. Applied Economics, 48(10), 914-933.
+1 http://cafef.vn/le-thai-ha-nu-giang-vien-co-thoi-gian-hoan-thanh-luan-an-tien-si-ngan-ky-luc-tai-dai-hoc-so-1-
+singapore-20171020101737884.chn 
+Le, T. H. (2015). Do soaring global oil prices heat up the housing market? Evidence from
+Malaysia. Economics, 9(27), 1.
+Ranking: 3 Q1 ranking papers, 2 Q2 ranking papers. (*Q1 is highest ranking.)
+Level 4 as Research Assistant is highest level in RMIT.
+Investment Analysis
+Viet First Securities Corporation | Headquarters in Ho Chi Minh City
+Full – time (04/2014 – 07/2014), Part – time (08/2014 – 09/2014) 
+Following and analysing the technology, consumer, securities and textiles sectors
+o
+The large-cap company: Vinamilk (2nd), Masan Group (5th), FPT (12th), HAG (13th), KDC
+(15th), SSI (20th). Futhur more HCM, TCM, TNG, REE, BMP, FIT,...
+o
+Writing a full-report, short-report and quick-note to analysis companies and sectors.
+Example public report (Click to download TCM, KDC)
+o
+Participating in the annual meeting of shareholders (TCM), the meeting analyst
+financial investments (BMP, HAG), the Initial Public Offering meeting (Vinatex) to
+get information. 
+Following macroeconomic situation and writing full-report monthly. Example public
+report (Click to download July, August) 
+Developing macroeconomic data, constructing price commodities data for financial
+analysis. 
+Constructing model for analysis and forecast CPI index, securities market index and a
+few indicators to suport the investment decision. 
+Other duties as assigned by department heads.
+Teaching Assistant in Advanced Quantitative Methodology Research
+University of Economics Ho Chi Minh City 
+06/2013 – 10/2013 | Ho Chi Minh City 
+01 course: Students are lecutures in Industrial University of Ho Chi Minh City (Banking and Finance
+major) / 
+03 course: Students are masters research student. 
+Support teachers to teach economics and quantitative research in Stata, answer questions about
+theory and practice. 
+Answer students' questions about the economic model of the thesis, paper. By direct or email.
+Internship HDBank
+HDBank
+01/2013 – 03/2013 (3 months) | Ho Chi Minh City      Intern at Enterprise Customer Services position.
+Collaborator Market Research 
+AQ Services International  Market Research
+Privately Held; 51-200 employees; Market Research Industry
+November 2010 – June 2012 (1 year 8 months) 
+Surveying the quality of service and submitting report to the head office
+III. Honors & Awards
+UEH Excellent Assignment Award 2012
+University Of Economics HCM City
+February 2013, Decision 34/QĐ-ĐHKT-ĐTN
+The Prize in Econometrics 
+Young Economist Award  UEH 2013
+University of Economics HCM City
+May 2013, Decision 56/TB-ĐHKT-ĐTN
+The Prize in Scientific Research
+Issue “Tạp chí Công nghệ Ngân hàng” No 93,  December/2013 (Paper 8-17)
+“Analysing the impact of the A Chau Bank’s event in August 21st, 2012 on stock
+prices of banks listed in Vietnam’ stock exchanges.”
+Scholarship student learning outcomes  Encourage education
+University of Economics HCM City
+2010  Decision 917/QĐ-ĐHKT-QLĐT&CTSV
+2012  Decision 985/QĐ-ĐHKT-QLĐT&CTSV 
+2013  Decision 2118/QĐ-ĐHKT-QLĐT&CTSV
+IV. Education
+University of Economics Ho Chi Minh City 
+Bachelor of  Management Information Systems, Mathematical Finance, 
+Very good Level, 2009 – 2013
+GPA: 8.16/10; 
+Major Mathematical Finance GPA: 8.56/10 
+Highest honor in Mathematics and Statistics Faculty K35 (2009 – 2013)
+Quoc Hoc – Hue High School for the Gifted 
+Mathematics Class, Very good Level in Grade 10, 11, 12
+Graduated high school in Very good Level. 
+The Second prize of the Provincial level excellent student (primary) contest 
+Student was on behalf of the good student team to speak prior to the junior high
+school district level competition. 
+First Prize in Apply pocket calculator for mathematics – District Contest 
+First Prize in Mathematics – District Contest 
+First Prize in Chemistry– District Contest 
+Third Prize in the Provincial Level Mathematics Contest 
+The only student is selected on behalf of the mathematics class to present Space
+Geometry Research (hình học không gian), during extra-curricular activities (6
+participating classes) – when I was 12 grade.
+V. Extra 
+Curricular Activities
+2011/2012
+:   University Sports Association – Table tennis
+2010-2013 
+:   Member of Securities Club of University of Economics  SCUE
+2011-2013 
+:   Member of Student's Group of Finance Research  SFR.
+Interest
+Listen to music, Football, Chinese chess
+Yoga, Good at swimming.
+VI. Reference
+Teacher and supervisor PhD. Anh Tran Thi Tuan
+University of Economics Ho Chi Minh City 
+Mathematics and Statistics Faculty 
+Lecturer of Mathematical Finance and Econometrics
+Email: anhttt@ueh.edu.vn                  Phone No: 0908.154.660/ 0909.514.660
+Master Students
+Phương: 01293312897/01675292645
+Thu: 0935858740
+The student is usually a UEH (University of Economic Ho Chi Minh City) master research
+students. They selects an article usually posted in the high rank articles (Q1 or Q2). Then, they do
+research for Vietnam’s  data  (company,  bank,  macro, financial  development) or national groups of
+Vietnam (Asian, Pacific, Asia, development country) with the same aim of research. 
+Micro level
+Firm
+Capital Structure:
+Determinant factors, 
+Financial leverage, firm growth and financial strength; 
+Asymmetric adjustment toward optimal capital structure; 
+The firm-level credit multiplier
+Corporate leverage and the collateral channel
+Firm performance:
+Capital structure, equity ownership and firm performance
+Working capital management:
+Working capital management, corporate performance, and financial constraints. 
+Excess cash holdings and shareholder value 
+Cash holdings and macroeconomics impact
+Dividends:
+Dividends and earnings quality
+Investment behavior:
+Corporate Investment behaviour and monetary policy
+Dividends, investment and cash flow uncertainty
+Agency costs: 
+A balancing act: managing financial constraints and agency costs to minimize investment 
+inefficiency 
+Capital structure 
+Financial distress:
+Lifecycle and corporate restructuring
+Financial distress and corporate tax avoidance 
+Micro level
+Bank
+Impact of Bank profitability:
+Bank-factor, macro-factor
+Diversification of bank profits
+Influence of monetary policy
+Country approach
+Risk:
+Risk, capital and efficiency banking
+Relationship between credit risk and liquidity risk
+Ownership Structure and Risk (asset risk, default risk)
+Credit:
+Factors affecting credit growth 
+Factors  affecting credit effectiveness
+Liquidity Shocks:
+Bank-to-bank Lending Channel, Transmission of Bank Liquidity Shocks
+Stock
+Price company:
+Tests of a five-factor asset pricing model.
+Dividends and resistance dividend
+Comoment risk and stock returns. 
+Market index Price:
+Monetary policy, exchange rates and stock prices ; 
+Gold and stock, a safe or haven?
+Oil price impact of
+Others:
+Do foreign investors improve informational efficiency of stock prices; 
+Liquidity and asset pricing
+Macroeconomics 
+level:
+Monetary:
+Exchange rates; 
+Retail interest rate pass-through (monetary fundamentals); (monetary policy); (during the 
+global financial crisis) 
+Monetary fundamentals;
+Sector:
+Financial development; money supply, economic growth; income; inflation; energy 
+consumption; effectiveness of monetary policy; Real estate; Real sector; public debt.
+Capital flows:
+Financial flows and income; Foreign direct investment, regulations; growth; Corruption; real 
+exchange rate volatility;
+Ẻxpenditure decentralization; 
+Economic growth: Government debt; Fiscal deficits 
+International transmission:
+Growth in China and the US: Effects on a economy
+International reserves and the global financial crisis. 
+Dollazation; System risk
+Others:
+Banking system concentration; unemployment 
+Terms of trade shocks; private savings 
+Topic (Main reference articles)
+My master
+research
+students
+Major
+Corporate Finance
+Bei, Z. and Wijewardana, W.P., 2012. Financial leverage, firm
+growth  and  financial  strength  in  the  listed  companies  in  Sri
+Lanka. Procedia-Social and Behavioral Sciences, 40, pp.709-715.
+Case of Vietnam.
+Thu
+Master’s
+corporate
+finance
+UEH
+Baños-Caballero, S., García-Teruel, P.J. and Martínez-Solano, P.,
+2014. Working capital management, corporate performance, and
+financial constraints. Journal of Business Research, 67(3), pp.332-
+338.
+Case of Vietnam.
+Thảo
+Master’s
+corporate
+finance
+UEH
+Deng, L., Li, S., Liao, M. and Wu, W., 2013. Dividends, investment
+and  cash  flow  uncertainty:  Evidence  from  China. International
+Review of Economics & Finance, 27, pp.112-124.
+Case of Vietnam.
+Anh
+Master’s
+corporate
+finance
+UEH
+Zulkhibri,  M.,  2013.  Corporate  Investment  Behaviour  and
+Monetary  Policy:  Evidence  from  Firm-level  Data  for
+Malaysia. Global Economic Review, 42(3), pp.269-290.
+Case of Vietnam.
+Đạt
+Master’s
+corporate
+finance
+UEH
+Guariglia,  A.  and  Yang,  J.,  2012.  A balancing  act:  managing
+financial  constraints  and  agency  costs  to  minimize  investment
+inefficiency in the Chinese market. In Working paper, University of
+Birmingham.
+Case of Vietnam.
+Hoa
+Master’s
+corporate
+finance
+UEH
+Dang, V.A., Kim, M. and Shin, Y., 2014. Asymmetric adjustment
+toward  optimal  capital  structure:  Evidence  from  a
+crisis. International Review of Financial Analysis, 33, pp.226-242.
+Case of Vietnam.
+Hồng
+Master’s
+corporate
+finance
+UEH
+Laura Serghiescua , Viorela-Ligia Văideanb, Determinant factors of
+the capital structure of a firm- an empirical analysis. Emerging
+markets queries in finance and business (15 ( 2014 ) 1447 – 1457)
+Case of Vietnam.
+Bảo
+Master’s
+corporate
+finance
+UEH
+Excess cash holdings and shareholder value Edward Lee Affiliation
+unknown  Ronan  Powell  *  University  of  New  South  Wales,
+Australia
+Xuân
+Master’s
+corporate
+finance
+UEH
+Case of Vietnam.
+The Determinants of Capital Structure: An Empirical Study of New
+Zealand-Listed Firms. Fitriya Fauzi (Corresponding Author) Asian
+Journal of Finance & Accounting 2013.
+Case of Vietnam.
+Tuyết Ngân
+Master’s
+corporate
+finance
+UEH
+Financial distress: Lifecycle and corporate restructuring SzeKee
+Koh a, , Robert B. Durand b , Lele Dai c , Millicent Chang. Journal
+⁎
+of Corporate Finance 33 (2015) 19–33
+Case of Vietnam.
+Phương
+Master’s
+corporate
+finance
+UEH
+Dividends and earnings quality
+Kim
+Master’s
+corporate
+finance
+UEH
+The firm-level credit multiplier
+Khôi
+Master’s
+corporate
+finance
+UEH
+Corporate leverage and the collateral channel
+Hiền
+Master’s
+corporate
+finance
+UEH
+Capital structure, equity ownership and firm performance
+Lan
+Master’s
+corporate
+finance
+UEH
+Macroeconomics  Economics
+Financial development and relationship evolvement among money
+supply, economic growth and inflation
+Case of Vietnam
+Truc
+Master’s
+corporate
+finance
+UEH
+Market volatility and retail interest rate pass-through Kuan-Min
+Wang a, Yuan-Ming Lee. Economic Modelling 26 (2009) 1270–
+1282
+Case of Agribank.
+Phạm Trúc
+Master’s
+corporate
+finance
+UEH
+Spilioti, S. and Vamvoukas, G., 2015. The impact of government
+debt on economic growth: An empirical investigation of the Greek
+market. The Journal of Economic Asymmetries, 12(1), pp.34-40.
+Case of Vietnam.
+Thái Hà
+Master  of
+Public
+Finance
+UEH
+Stock Market
+Lambert, Marie, and Georges H bner. "Comoment risk and stock
+returns." Journal of Empirical Finance 23 (2013): 191-205.
+Case of Vietnam.
+Tùng
+Master’s
+corporate
+finance
+UEH
+He,  W.  and  Shen,  J.,  2014.  Do  foreign  investors  improve
+informational  efficiency  of  stock  prices?  Evidence  from
+Japan. Pacific-Basin Finance Journal, 27, pp.32-48.
+Case of Vietnam.
+Hào
+Master’s
+corporate
+finance
+UEH
+Osborn, D.R. and Vehbi, T., 2015. Growth in China and the US:
+Effects  on  a  small  commodity  exporter  economy. Economic
+Modelling, 45, pp.268-277.
+Case of  Pacific countries.
+Vân
+Master’s
+corporate
+finance
+UEH
+Abouwafia,  H.E.  and  Chambers,  M.J.,  2015.  Monetary  policy,
+exchange  rates  and  stock  prices  in  the  Middle  East
+region. International Review of Financial Analysis, 37, pp.14-28.
+Case of Vietnam.
+Dương
+Master’s
+corporate
+finance
+UEH
+Hsu, Y.H., 2007. Is Corruption a Grabbing Hand? A Panel Data
+Study of FDI. Graduate Institute of Political Economy, National
+Cheng Kung University, Taiwan, pp.1-18.
+Case of  Asia countries.
+Nhung
+Master  of
+Public
+Finance
+UEH
+International Finance
+Dąbrowski,  Marek  A.,  Monika  Papież,  and  Sławomir  Śmiech.
+"Exchange rates and monetary fundamentals in CEE countries:
+Evidence from a panel approach." Journal of Macroeconomics 41
+(2014): 148-159.
+Case of  Pacific countries.
+Thảo
+Master’s
+corporate
+finance
+UEH
+Financial Development and the Effectiveness of Monetary Policy
+Case of developing countries
+Trang
+Master’s
+corporate
+finance
+UEH
+Shailer, G. and Wang, K., 2015. Government ownership and the
+cost of debt for Chinese listed corporations. Emerging Markets
+Review, 22, pp.1-17.
+Case of  Pacific countries.
+Đoan
+Master’s
+corporate
+finance
+UEH
+Adam, Christopher S., and David L. Bevan. "Fiscal deficits and
+growth in developing countries." Journal of Public Economics 89,
+no. 4 (2005): 571-597.
+Case of  Asia countries.
+Gia
+Master  of
+Public
+Finance
+UEH
+Fama, Eugene F., and Kenneth R. French. "International tests of a
+five-factor  asset  pricing  model." Journal  of  Financial
+Economics (2016).
+Case of  Pacific countries.
+Hiếu
+Master  of
+Accountanc
+y UEH
+Dominguez, K.M., Hashimoto, Y. and Ito, T., 2012. International
+reserves and the global financial crisis. Journal of International
+Economics, 88(2), pp.388-406.
+Cảnh
+Master’s
+corporate
+finance
+UEH
+Feldmann,  H.,  2015.  Banking  system  concentration  and
+unemployment in developing countries. Journal of Economics and
+Business, 77, pp.60-78.
+My
+Master  of
+Banking
+UEH
+Adams, S. and Opoku, E.E.O., 2015. Foreign direct investment,
+regulations and growth in sub-Saharan Africa. Economic Analysis
+and Policy, 47, pp.48-56.
+Trang
+Master’s
+corporate
+finance
+UEH
+Dominguez, K.M., Hashimoto, Y. and Ito, T., 2012. International
+reserves and the global financial crisis. Journal of International
+Economics, 88(2), pp.388-406.
+Chi
+Master’s
+corporate
+finance
+UEH
+Chowdhury, A., 2015. Terms of trade shocks and private savings in
+the
+developing
+countries. Journal
+of
+Comparative
+Economics, 43(4), pp.1122-1134.
+Thắng
+Master’s
+corporate
+finance
+UEH
+Anwar, S. and Cooray, A., 2015. Financial flows and per capita
+income  in  developing  countries. International  Review  of
+Economics & Finance, 35, pp.304-314.
+Các dòng vốn (FDI, đầu tư trong nước, kiều hối, ODA) và thu nhập
+đầu người. Lý thuyết trước mối quan hệ và thực nghiệm dữ liệu tại
+các quốc gia Châu Á Thái Bình Dương.
+Việt
+Master’s
+corporate
+finance
+UEH
+Wu,  A.M.  and  Wang,  W.,  2013.  Determinants  of  expenditure
+decentralization:  Evidence  from  China. World  Development, 46,
+pp.176-184.
+Thuận
+Master  of
+Public
+Finance
+UEH
+Chang, S.C., 2015. Effects of financial developments and income
+on  energy  consumption. International  Review  of  Economics  &
+Finance, 35, pp.28-44.
+Case of  Pacific countries.
+An
+Master’s
+corporate
+finance
+UEH
+Al-Abri, A. and Baghestani, H., 2015. Foreign investment and real
+exchange rate volatility in emerging Asian countries. Journal of
+Asian Economics, 37, pp.34-47.
+Ái
+Master’s
+corporate
+finance
+UEH
+Albulescu,  C.T.,  2015.  Banks’  Profitability  and  Financial
+Soundness Indicators: A Macro-level Investigation in Emerging
+Countries. Procedia Economics and Finance, 23, pp.203-209.
+Thu
+Master  of
+Banking
+UEH
+Ngân hàng Banking
+Factors affecting bank liquidity case of Vietnam.
+Vinh
+Master  of
+Banking
+UEH
+Profit Bank – Country Approach case of Vietnam.
+Phương
+Master  of
+Banking
+UEH
+Diversification of bank profits affect bank profits
+Hương
+Master  of
+Banking
+Open
+University
+Factors affecting bad debt (non-performing loan) bank case of
+Yến
+Master  of
+Vietnam.
+Banking
+Open
+University
+Factors affecting bad debt (non-performing loan) bank – dynamic
+model case of Vietnam.
+Thúy
+Master  of
+Banking
+UEH
+Factors affecting credit growth case of Vietnam.
+Trang
+Master  of
+Banking
+UEH
+Factors that affect credit effectiveness case of Vietnam.
+Thủy
+Master  of
+Banking
+UEH
+The relationship between credit risk and liquidity risk case of
+Vietnam.
+Thanh
+Master  of
+Banking
+UEH
+Factors  affecting  the  efficiency  of  banking  operations  case  of
+Vietnam.
+Trang
+Master  of
+Banking
+UEH
+Tan, Y., & Floros, C. (2013). Risk, capital and efficiency in Chinese
+banking. Journal of International Financial Markets, Institutions
+and Money, 26, 378-393.
+Case of  Vietnam.
+Đình
+Master  of
+Banking
+UEH
+Hristov,  N.,  H lsewig,  O.,  &  Wollmershäuser,  T.  (2014).  The
+interest  rate  pass-through  in  the  Euro  area  during  the  global
+financial crisis. Journal of Banking & Finance, 48, 104-119.
+Case of  Vietnam.
+Phux
+Master  of
+Banking
+UEH
+Ownership Structure and Risk in Publicly Held and
+Privately Owned Banks
+Khá
+Master  of
+Banking
+UEH
+The influence of monetary policy on bank
+profitability
+Thu
+Master  of
+Banking
+UEH
+All students’s files and students’s emails conversation box are stored.
+If I have chance to interview, I will take it.
+I confirm that the information provided is true and accurate
+to the best of my knowledge.

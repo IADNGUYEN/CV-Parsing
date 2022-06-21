@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="16" family="RobotoCondensed" color="#fcf8e0"/>
+	<fontspec id="1" size="14" family="RobotoCondensed" color="#fcf8e0"/>
+	<fontspec id="2" size="23" family="RobotoCondensed" color="#33c4e8"/>
+	<fontspec id="3" size="16" family="RobotoCondensed-Light" color="#fcf8e0"/>
+	<fontspec id="4" size="23" family="FontAwesome" color="#ffffff"/>
+	<fontspec id="5" size="13" family="FontAwesome" color="#ffffff"/>
+	<fontspec id="6" size="48" family="RobotoCondensed" color="#d0d3d7"/>
+	<fontspec id="7" size="48" family="RobotoCondensed" color="#ffffff"/>
+	<fontspec id="8" size="16" family="RobotoCondensed" color="#ffffff"/>
+	<fontspec id="9" size="12" family="ArialMT" color="#999999"/>
+<text top="350" left="23" width="56" height="19" font="0"><b>ĐẠI HỌC</b></text>
+<text top="350" left="498" width="110" height="18" font="1"><b>8/2015 - HIỆN TẠI</b></text>
+<text top="503" left="23" width="82" height="19" font="0"><b>CÔNG TY QA</b></text>
+<text top="503" left="493" width="114" height="18" font="1"><b>11/2015 - 12/2015</b></text>
+<text top="591" left="23" width="333" height="19" font="0"><b>CÔNG TY TNHH QUẢNG CÁO XÂY DỰNG TÁO VÀNG</b></text>
+<text top="591" left="501" width="106" height="18" font="1"><b>04/2016 - 4/2017</b></text>
+<text top="680" left="23" width="226" height="19" font="0"><b>CÔNG TY SWISS POST SOLUTIONS</b></text>
+<text top="680" left="493" width="114" height="18" font="1"><b>12/2017 - 04/2018</b></text>
+<text top="769" left="23" width="34" height="19" font="0"><b>MWG</b></text>
+<text top="769" left="493" width="114" height="18" font="1"><b>06/2018 - 08/2018</b></text>
+<text top="963" left="23" width="348" height="19" font="0"><b>LỚP TRƯỞNG LỚP ĐẠI HỌC HỆ THỐNG THÔNG TIN 11</b></text>
+<text top="139" left="23" width="92" height="27" font="2"><b>MỤC TIÊU</b></text>
+<text top="183" left="23" width="582" height="19" font="3">Trở thành một chuyên gia trong phân tích thông tin kỹ thuật, qui trình, nghiệp vụ và kết quả dữ</text>
+<text top="204" left="23" width="579" height="19" font="3">liệu hiện nay, biểu diễn dưới dạng biểu đồ  hoặc sơ đồ, bảng biểu và báo cáo. Sau đó, sử dụng</text>
+<text top="225" left="23" width="557" height="19" font="3">dữ liệu và kết quả để xác định xu hướng và mô hình để dự đoán điều gì có thể xảy ra trong</text>
+<text top="246" left="23" width="564" height="19" font="3">tương lai và đề xuất các kỹ thuật, qui trình, công nghệ, ứng dụng sử dụng để hỗ trợ ra quyết</text>
+<text top="266" left="23" width="31" height="19" font="3">định.</text>
+<text top="303" left="34" width="13" height="24" font="4"></text>
+<text top="299" left="63" width="88" height="27" font="2"><b>HỌC VẤN</b></text>
+<text top="371" left="23" width="235" height="19" font="3">Đại học Công Nghiệp TP. Hồ Chí Minh</text>
+<text top="401" left="23" width="219" height="19" font="3">Chuyên ngành Hệ Thống Thông Tin</text>
+<text top="455" left="28" width="25" height="24" font="4"></text>
+<text top="451" left="63" width="129" height="27" font="2"><b>KINH NGHIỆM</b></text>
+<text top="523" left="23" width="134" height="19" font="3">Nhân viên kinh doanh</text>
+<text top="553" left="23" width="579" height="19" font="3">-Trực tiếp quảng cáo, tư vấn và bán cho khách hàng dịch vụ và sim Mobi từ Công ty Mobifone</text>
+<text top="612" left="23" width="108" height="19" font="3">Nhân viên thời vụ</text>
+<text top="642" left="23" width="422" height="19" font="3">-Tham gia sản xuất các loại biển quảng cáo, poster và bìa sản phẩm</text>
+<text top="701" left="23" width="108" height="19" font="3">Nhân viên thời vụ</text>
+<text top="731" left="23" width="389" height="19" font="3">-Xử lý các loại dữ liệu trên phần mềm theo yêu cầu của công ty</text>
+<text top="790" left="23" width="117" height="19" font="3">Nhân viên thực tập</text>
+<text top="820" left="23" width="556" height="19" font="3">- Phân tích dữ liệu trên cơ sở dữ liệu Bách Hóa Xanh, nghiên cứu và phát triển các phương</text>
+<text top="840" left="23" width="570" height="19" font="3">pháp khai thác dữ liệu, dự báo dữ liệu, áp dụng các phương pháp dự báo doanh số bán hàng</text>
+<text top="861" left="23" width="554" height="19" font="3">cho Bách Hóa Xanh, phát triển ứng dụng dự báo bán hàng bằng Python và SQL Postgress</text>
+<text top="915" left="29" width="21" height="24" font="4"></text>
+<text top="911" left="63" width="114" height="27" font="2"><b>HOẠT ĐỘNG</b></text>
+<text top="366" left="662" width="13" height="14" font="5"></text>
+<text top="363" left="686" width="74" height="19" font="3">20/04/1997</text>
+<text top="401" left="663" width="11" height="14" font="5"></text>
+<text top="398" left="686" width="30" height="19" font="3">Nam</text>
+<text top="435" left="663" width="11" height="14" font="5"></text>
+<text top="432" left="686" width="86" height="19" font="3">01634746647</text>
+<text top="470" left="663" width="12" height="14" font="5"></text>
+<text top="467" left="686" width="185" height="19" font="3">nguyen.h.dang.739@gmail.co</text>
+<text top="488" left="686" width="12" height="19" font="3">m</text>
+<text top="523" left="665" width="8" height="14" font="5"></text>
+<text top="520" left="686" width="138" height="19" font="3">2605/1B ,Đường Vườn</text>
+<text top="541" left="686" width="157" height="19" font="3">Lài,Phường An Phú Đông,</text>
+<text top="561" left="686" width="156" height="19" font="3">Quận12, TP. Hồ Chí Minh</text>
+<text top="597" left="666" width="5" height="14" font="5"></text>
+<text top="594" left="686" width="185" height="19" font="3">https://www.facebook.com/n</text>
+<text top="614" left="686" width="111" height="19" font="3">guyen.h.dang.739</text>
+<text top="682" left="646" width="80" height="27" font="2"><b>KĨ NĂNG</b></text>
+<text top="726" left="646" width="69" height="19" font="3">SQL Server</text>
+<text top="771" left="646" width="85" height="19" font="3">SQL Postgree</text>
+<text top="816" left="646" width="60" height="19" font="3">ASP .NET</text>
+<text top="861" left="646" width="151" height="19" font="3">HTML,CSS,JAVASCRIPT</text>
+<text top="906" left="646" width="43" height="19" font="3">Python</text>
+<text top="951" left="646" width="43" height="19" font="3">Matlab</text>
+<text top="996" left="646" width="132" height="19" font="3">Business Intelligence</text>
+<text top="1041" left="646" width="97" height="19" font="3">Ionic3, Cordova</text>
+<text top="1104" left="646" width="92" height="27" font="2"><b>SỞ THÍCH</b></text>
+<text top="1148" left="669" width="58" height="19" font="3">Đọc sách</text>
+<text top="1186" left="669" width="44" height="19" font="3">Nấu ăn</text>
+<text top="28" left="471" width="403" height="57" font="6"><b>NGUYỄN HOÀI ĐĂNG</b></text>
+<text top="25" left="474" width="403" height="57" font="7"><b>NGUYỄN HOÀI ĐĂNG</b></text>
+<text top="80" left="773" width="106" height="20" font="8"><b>THỰC TẬP SINH</b></text>
+<text top="1237" left="830" width="60" height="14" font="9">© topcv.vn</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,40 @@
+ 
+NGUYEN LE SON 
+Personal Information 
+Date of Birth: July 23, 1996 
+Gender: Male 
+Mobile: 0987903563   
+Email:  sonnguyen167189@gmail.com   
+Address: Thu Duc District, HCM City 
+Goal 
+► Program and optimize the code for the 
+company 
+► Improve own skill and develop better 
+software 
+Education 
+8/2014  09/2018 
+Ho Chi Minh University of 
+Technology and Education 
+Major:  Computer 
+Engineering Technology 
+GPA: 6.74/10 
+Hobbies 
+Music, game 
+Experience 
+Subjects 
+C programing  
+Embedded system 
+Android programing 
+Machine Learning 
+Python – tkinter 
+Internet of things 
+Networking 
+VHDL 
+RTOS 
+Skills 
+C 
+Java, VHDL, ML 
+English 
+Office 
+Teamwork 
+Technology 

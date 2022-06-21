@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="37" family="DDIXZB+TeXGyreHeros" color="#4d4d4d"/>
+	<fontspec id="1" size="37" family="YJUHGF+Lato-Light" color="#4d4d4d"/>
+	<fontspec id="2" size="20" family="DDIXZB+TeXGyreHeros" color="#0394de"/>
+	<fontspec id="3" size="14" family="DDIXZB+TeXGyreHeros" color="#4d4d4d"/>
+	<fontspec id="4" size="17" family="GFRORN+TeXGyreHeros" color="#4d4d4d"/>
+	<fontspec id="5" size="14" family="GFRORN+TeXGyreHeros" color="#4d4d4d"/>
+	<fontspec id="6" size="11" family="DDIXZB+TeXGyreHeros" color="#0394de"/>
+<text top="44" left="317" width="128" height="37" font="0">Nguyen</text>
+<text top="44" left="452" width="149" height="37" font="1">Viet Sang</text>
+<text top="92" left="334" width="250" height="21" font="2">Computer Science Student</text>
+<text top="128" left="94" width="347" height="15" font="3">Faculty of CSE, University of Technology, VNU-HCM</text>
+<text top="128" left="495" width="222" height="15" font="3">Phone number: (+84) 937292905</text>
+<text top="146" left="94" width="364" height="15" font="3">268 Ly Thuong Kiet, Ward 14, Dist 10, HCMC, Vietnam</text>
+<text top="146" left="495" width="210" height="15" font="3">Email: 1512798@hcmut.edu.vn</text>
+<text top="164" left="495" width="123" height="15" font="3">Skype: ngvietsang</text>
+<text top="192" left="85" width="102" height="18" font="4"><b>OBJECTIVE</b></text>
+<text top="223" left="85" width="615" height="15" font="3">Become a professional engineer in the field of Software Engineering and Artificial Intelligence</text>
+<text top="249" left="85" width="116" height="18" font="4"><b>EXPERIENCE</b></text>
+<text top="276" left="85" width="97" height="15" font="3">Jun-Aug, 2018</text>
+<text top="276" left="207" width="361" height="15" font="5"><b>NLP Research Scientist Intern in KNOREX Vietnam</b></text>
+<text top="294" left="207" width="570" height="15" font="3">Evaluated and improved some features in Language Detection, Key Mining, Word2Vec</text>
+<text top="314" left="85" width="104" height="15" font="3">From Jan, 2018</text>
+<text top="314" left="207" width="418" height="15" font="5"><b>Research with Question-Answering Project in ML4U Group</b></text>
+<text top="332" left="207" width="274" height="15" font="3">- Knowledge in the field of Deep Learning</text>
+<text top="350" left="207" width="182" height="15" font="3">- Tensor Flow programming</text>
+<text top="368" left="207" width="659" height="15" font="3">- Sharing knowledge by presentations weekly coordinated by Dr. Nguyen Duc Dung at University of</text>
+<text top="386" left="207" width="153" height="15" font="3">Technology, VNUHCM.</text>
+<text top="422" left="85" width="105" height="18" font="4"><b>EDUCATION</b></text>
+<text top="449" left="85" width="74" height="15" font="3">2015 - now</text>
+<text top="449" left="186" width="334" height="15" font="5"><b>Bachelor of Engineering in Computer Sciences</b></text>
+<text top="452" left="666" width="179" height="12" font="6">University of Technology, Vietnam</text>
+<text top="467" left="186" width="143" height="15" font="3">Expected: April 2019.</text>
+<text top="485" left="186" width="167" height="15" font="3">Cumulative GPA: 8.13/10</text>
+<text top="518" left="85" width="64" height="18" font="4"><b>SKILLS</b></text>
+<text top="549" left="110" width="355" height="15" font="3">• Programming Languages: C/C++, MATLAB, Python</text>
+<text top="576" left="110" width="154" height="15" font="3">• English: Intermediate</text>
+<text top="602" left="110" width="467" height="15" font="3">• Deutsch: Level A1, expected Goethe Zertifikat B1 in December 2018</text>
+<text top="629" left="85" width="212" height="18" font="4"><b>ACHIEVEMENTS/PRIZES</b></text>
+<text top="656" left="85" width="80" height="15" font="3">2015 - 2016</text>
+<text top="656" left="186" width="533" height="15" font="5"><b>Promoting Scholarship from Faculty of Computer Science and Engineering</b></text>
+<text top="674" left="186" width="319" height="15" font="3">Given Scholarship for Top 20 Excellent Students</text>
+<text top="694" left="85" width="80" height="15" font="3">2016 - 2017</text>
+<text top="694" left="186" width="335" height="15" font="5"><b>Comprehensive Excellent Student in University</b></text>
+<text top="697" left="666" width="179" height="12" font="6">University of Technology, Vietnam</text>
+<text top="712" left="186" width="386" height="15" font="3">Given Certificate for Outstanding Students by the Principal</text>
+<text top="733" left="85" width="65" height="15" font="3">Oct, 2017</text>
+<text top="733" left="186" width="291" height="15" font="5"><b>Scholarship from James Cook University</b></text>
+<text top="735" left="791" width="54" height="12" font="6">Singapore</text>
+<text top="751" left="186" width="587" height="15" font="3">Awarded a 50% scholarship on One Academic Year in any Major in Bachelor of Business</text>
+<text top="771" left="85" width="64" height="15" font="3">Apr, 2018</text>
+<text top="771" left="186" width="382" height="15" font="5"><b>Certificate of Agile Software Development with Scrum</b></text>
+<text top="789" left="186" width="200" height="15" font="3">Given by Axon Active Vietnam</text>
+<text top="809" left="85" width="64" height="15" font="3">Apr, 2015</text>
+<text top="809" left="186" width="280" height="15" font="5"><b>National Excellent Student Competition</b></text>
+<text top="811" left="695" width="150" height="12" font="6">Academic year: 2014 - 2015</text>
+<text top="827" left="186" width="272" height="15" font="3">Win Honourable mention prize in Physics</text>
+<text top="845" left="186" width="659" height="15" font="3">Given Certificate of Chairman of People’s Committee of Dak Lak Province for outstanding perfor-</text>
+<text top="863" left="186" width="45" height="15" font="3">mance</text>
+<text top="880" left="85" width="67" height="15" font="3">Nov, 2014</text>
+<text top="880" left="186" width="311" height="15" font="5"><b>Certificate of Physics and the Youth Jouney</b></text>
+<text top="883" left="695" width="150" height="12" font="6">Academic year: 2013 - 2014</text>
+<text top="898" left="186" width="450" height="15" font="3">Win 3rd prize in the competition for High School students in Vietnam</text>
+<text top="1083" left="451" width="37" height="15" font="3">1 of <a href="783.html#2">2</a></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="14" family="LYXSIP+TeXGyreHeros" color="#4d4d4d"/>
+<text top="133" left="85" width="232" height="18" font="4"><b>CONTRIBUTED PROJECTS</b></text>
+<text top="160" left="85" width="68" height="15" font="3">Dec, 2017</text>
+<text top="160" left="186" width="418" height="15" font="5"><b>An Application for determining locations of a group people</b></text>
+<text top="178" left="186" width="265" height="15" font="3">- Java Gateway and Analytic Application</text>
+<text top="196" left="186" width="328" height="15" font="3">- Android Application using GPS and Google Map</text>
+<text top="214" left="186" width="410" height="15" font="3">- Connection supported by UDP, TCP and cloudMQTT service</text>
+<text top="234" left="85" width="64" height="15" font="3">Apr, 2017</text>
+<text top="234" left="186" width="301" height="15" font="5"><b>Java Application for Hospital Management</b></text>
+<text top="252" left="186" width="373" height="15" font="3">- Managing data of employees, patients, drugs, rooms,...</text>
+<text top="270" left="186" width="223" height="15" font="3">- Working with database and SQL</text>
+<text top="288" left="186" width="164" height="15" font="3">- Using Oracle Database</text>
+<text top="308" left="85" width="65" height="15" font="3">Oct, 2018</text>
+<text top="308" left="186" width="261" height="15" font="5"><b>Model for predicting Price of Houses</b></text>
+<text top="326" left="186" width="138" height="15" font="3">- Preprocessing data</text>
+<text top="344" left="186" width="349" height="15" font="3">- Experiment with models, fine-tune, compare results</text>
+<text top="380" left="85" width="266" height="18" font="4"><b>SOCIAL ACTIVITIES/SERVICES</b></text>
+<text top="407" left="85" width="65" height="15" font="3">Oct, 2016</text>
+<text top="407" left="186" width="380" height="15" font="5"><b>Certificate from Ho Chi Minh Communist Youth Union</b></text>
+<text top="409" left="716" width="130" height="12" font="6">University of Technology</text>
+<text top="425" left="186" width="602" height="15" font="3">Certificate of merit for outstanding achievements in the work of the Communist Youth Union</text>
+<text top="445" left="85" width="68" height="15" font="3">Aug, 2016</text>
+<text top="445" left="186" width="267" height="15" font="5"><b>Member of Tay Nguyen Youth Summit</b></text>
+<text top="448" left="786" width="59" height="12" font="6">Da Lat City</text>
+<text top="463" left="186" width="212" height="15" font="3">Learn how to understand myself</text>
+<text top="481" left="186" width="365" height="15" font="3">Do research on the most popular careers in Da Lat City</text>
+<text top="501" left="85" width="66" height="15" font="3">Jan, 2016</text>
+<text top="501" left="186" width="196" height="15" font="5"><b>Spring Volunteer Campaign</b></text>
+<text top="504" left="756" width="90" height="12" font="6">Ho Chi Minh City</text>
+<text top="519" left="186" width="246" height="15" font="3">Captain of Computer Faculty’s Group</text>
+<text top="537" left="186" width="372" height="15" font="3">Given Certificate for successfully completing the mission</text>
+<text top="557" left="85" width="80" height="15" font="3">2015 - 2016</text>
+<text top="557" left="186" width="506" height="15" font="5"><b>Working in The Associated Organ of Vietnamese Students’ Association</b></text>
+<text top="575" left="186" width="478" height="15" font="3">Faculty of Computer Science and Engineering, University of Technology:</text>
+<text top="593" left="186" width="449" height="15" font="3">- From Oct, 2015 to Jun, 2016: Member of the Executive Committee</text>
+<text top="611" left="186" width="306" height="15" font="3">- From Jun, 2016 to Oct, 2017: Vice Chairman</text>
+<text top="631" left="85" width="61" height="15" font="3">Jul, 2016</text>
+<text top="631" left="186" width="256" height="15" font="5"><b>Green Summer Volunteer Campaign</b></text>
+<text top="633" left="756" width="90" height="12" font="6">Ho Chi Minh City</text>
+<text top="648" left="186" width="276" height="15" font="3">Vice-captain of Computer Faculty’s Group</text>
+<text top="666" left="186" width="372" height="15" font="3">Given Certificate for successfully completing the mission</text>
+<text top="702" left="85" width="82" height="18" font="4"><b>HOBBIES</b></text>
+<text top="733" left="85" width="471" height="15" font="3">Reading classic novels; Writing; Listening to rock music; Playing soccer</text>
+<text top="760" left="724" width="130" height="15" font="7"><i>November 23, 2018</i></text>
+<text top="778" left="735" width="120" height="15" font="7"><i>Nguyen Viet Sang</i></text>
+<text top="1100" left="451" width="37" height="15" font="3">2 of <a href="783.html#2">2</a></text>
+</page>
+</pdf2xml>

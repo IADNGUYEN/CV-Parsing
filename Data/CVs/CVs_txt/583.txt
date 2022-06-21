@@ -1,0 +1,84 @@
+Gender
+: Male
+Birthday
+: 17/11/1996
+Marital status
+: Single
+Nationality
+: Vietnamese
+Country
+: Vietnam
+Address
+: 42/1 Tô Ký, Trung Mỹ Tây Ward, District 12, District 12, Ho Chi Minh, Vietnam
+Level
+: Entry Level
+Salary
+: Negotiable
+Job type
+: Full time
+Industry
+: IT  Software
+Location
+: Ho Chi Minh
+PERSONAL PROFILE
+CAREER INFORMATION
+EXPERIENCE
+Year(s) of Experience: Not yet
+Current Level: Entry Level
+0362007667
+nhat.trinhminh1711@g
+mail.com
+*Short term:  Make use of current abilities to accomplish defined task in a dynamic and professional
+working environment.  Have the opportunities to learn and improve technical skills among predecessors and
+co-workers.  Keep up with self-development in social skills and daily communication for better
+teamwork and network extension
+* Long term:  Become an official employee of the company and fully contribute to the company
+success and evolution
+TRỊNH MINH NHẬT
+Software Developer with experiment in Azure Service and Web Development
+OBJECTIVES
+9/2018  12/2018 : Team Leader  FPT-University Nidust Team
+* Machine Learning Mail Spam Filter  Description: The main purpose of this capstone project is to develop a dedicated mail spam module embedded
+to mail server filtering mail content and mail classifying.  Technologies: ASP.NET Framework Class Library, Azure Service, Microsoft Azure Machine Learning Studio,
+Exchange Server  Position: Team leader, Developer.  Team size: 5.
+Javascript Core
+Report Writing
+MVC Design Pattern
+SQL
+ASP.NET Framework
+English
+Teamwork Skills
+Independence Working Skills
+SKILLS
+English
+LANGUAGES
+EDUCATION
+Highest Degree Level: Bachelor
+8/2018  11/2018 : Self-Development  Nidust.com
+* Auto Hiring Project  Description: This project is a combination of .NET technologies I've learn at CodeSchool in 6 months.  Technologies: Onion architecture, ASP.NET Framework, Entity Framework, Identity Framework.  Position: Full-stack developer.  Team size: 1.
+9/2017  1/2018 : Internship  SPLUS SOFTWARE JSC
+* ISS Project  Description: This is a Japanese cross region maintenance project.  Technologies: Postgresql, MVC pattern.  Position: official developer and self-testing.  Team size: 11  13. 
+* Linkware Project  Description: A newly development multi-service project with various organization co-operation.  Technologies: ASP.NET Framework, Oracle.  Position: SQL module writer and SQL package processing.  Team size: 7  9.
+12/2017  2/2018 : Freelancer  Nidust.com
+*Shopify Project:  Description: An e-commerce project selling postcard, card template for personal or retail.  Technologies: Javascript, HTML/CSS.  Position: Full-stack developer.  Team size: 1.  Attachment: http://cardanz.com/
+Completion date 12-2018
+Bachelor  FPT-Universiy
+* Graduation Information  Major: Information Assurance  GPA: 7.3
+* Java OOP Red developer certificate  This is a school certificate for student archived max result at OOP LAB subject
+* Honorable Student of Semester  This is a school certificate to honor student archived the total GPA of over 8.0 at specific semester
+* British Council IELTS certificate  Time: 30/6/2018  Total Brand: 6.0
+Lưu Nguyên Khôi
+0938 999 441 / luu.nguyen.khoi@gmail.com
+Business Intelligence Manager
+A. Menarini Singapore. Rep Office in HCMC
+Nguyễn Hùng Mạnh
+0905327198 / manh.nhkim@gmail.com
+CodeSchool mentor
+CodeSchool
+Nguyễn Thiện Ân
+0378115292 / annguyenthienit@gmail.com
+Senior Project Manager
+SPLUS SOFTWARE JSC
+CAREER HIGHLIGHTS
+REFERENCES
+© CareerBuilder.vn

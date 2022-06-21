@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="39" family="ABCDEE+Cambria" color="#39a4b7"/>
+	<fontspec id="1" size="21" family="ABCDEE+Cambria" color="#404040"/>
+	<fontspec id="2" size="23" family="ABCDEE+Cambria" color="#2a7a87"/>
+	<fontspec id="3" size="18" family="ABCDEE+Cambria" color="#404040"/>
+	<fontspec id="4" size="18" family="ABCDEE+Cambria,Bold" color="#252525"/>
+	<fontspec id="5" size="18" family="ABCDEE+Arial" color="#404040"/>
+<text top="40" left="108" width="319" height="46" font="0">Tran Phuong Dung </text>
+<text top="103" left="108" width="688" height="25" font="1">136/16 Dang Van Ngu Street, Ward 14, Phu Nhuan District, Ho Chi Minh City </text>
+<text top="149" left="108" width="455" height="25" font="1">+84938432828 | tranphuongdung.cse@gmail.com </text>
+<text top="195" left="108" width="108" height="28" font="2">Objective: </text>
+<text top="223" left="108" width="715" height="21" font="3">I am looking for a job to fully utilize my skills and to further my knowledge and experience in </text>
+<text top="244" left="108" width="232" height="21" font="3">the field of Computer Science. </text>
+<text top="283" left="108" width="115" height="28" font="2">Education: </text>
+<text top="332" left="108" width="641" height="21" font="4"><b>BACHELOR OF SCIENCE (HONORS) IN COMPUTER SCIENCE | 2015 - 2017 | THE </b></text>
+<text top="353" left="108" width="255" height="21" font="4"><b>UNIVERSITY OF NOTTINGHAM </b></text>
+<text top="383" left="108" width="5" height="21" font="3">·</text>
+<text top="384" left="113" width="5" height="20" font="5"> </text>
+<text top="383" left="119" width="316" height="21" font="3">First Class. GPA on a 100.0 scale: 67/100 </text>
+<text top="411" left="108" width="5" height="21" font="3">·</text>
+<text top="411" left="113" width="5" height="20" font="5"> </text>
+<text top="411" left="119" width="332" height="21" font="3">Dean’s Excellence Award of CS department </text>
+<text top="453" left="108" width="669" height="21" font="4"><b>BACHELOR OF SCIENCE IN COMPUTER SCIENCE | 2013 - 2015 | HO CHI MINH CITY </b></text>
+<text top="474" left="108" width="251" height="21" font="4"><b>INTERNATIONAL UNIVERSITY </b></text>
+<text top="504" left="108" width="5" height="21" font="3">·</text>
+<text top="505" left="113" width="5" height="20" font="5"> </text>
+<text top="504" left="119" width="347" height="21" font="3">GPA on a 100.0 scale (2013-2015): 82.6/100 </text>
+<text top="546" left="108" width="674" height="21" font="4"><b>HIGH SCHOOL DIPLOMA | 2013 | LE HONG PHONG HIGH SCHOOL FOR THE GIFTED </b></text>
+<text top="576" left="108" width="5" height="21" font="3">·</text>
+<text top="577" left="113" width="5" height="20" font="5"> </text>
+<text top="576" left="119" width="455" height="21" font="3">Specialized in French, Mathematics, Physics and Chemistry </text>
+<text top="615" left="108" width="66" height="28" font="2">Skills: </text>
+<text top="643" left="108" width="99" height="21" font="4"><b>COMPUTER </b></text>
+<text top="673" left="108" width="5" height="21" font="3">·</text>
+<text top="674" left="113" width="5" height="20" font="5"> </text>
+<text top="673" left="119" width="160" height="21" font="3">Windows XP, 8.1, 10 </text>
+<text top="700" left="108" width="5" height="21" font="3">·</text>
+<text top="701" left="113" width="5" height="20" font="5"> </text>
+<text top="700" left="119" width="109" height="21" font="3">Ubuntu 16.04 </text>
+<text top="728" left="108" width="5" height="21" font="3">·</text>
+<text top="728" left="113" width="5" height="20" font="5"> </text>
+<text top="728" left="119" width="126" height="21" font="3">Microsoft Office </text>
+<text top="756" left="108" width="175" height="21" font="4"><b>WEB DEVELOPMENT </b></text>
+<text top="786" left="108" width="5" height="21" font="3">·</text>
+<text top="787" left="113" width="5" height="20" font="5"> </text>
+<text top="786" left="119" width="156" height="21" font="3">HTML5 and XHTML </text>
+<text top="814" left="108" width="5" height="21" font="3">·</text>
+<text top="814" left="113" width="5" height="20" font="5"> </text>
+<text top="814" left="119" width="170" height="21" font="3">JavaScript and jQuery </text>
+<text top="841" left="108" width="5" height="21" font="3">·</text>
+<text top="841" left="113" width="5" height="20" font="5"> </text>
+<text top="841" left="119" width="278" height="21" font="3">MySQL database design, connection </text>
+<text top="868" left="108" width="5" height="21" font="3">·</text>
+<text top="869" left="113" width="5" height="20" font="5"> </text>
+<text top="868" left="119" width="269" height="21" font="3">API design with XML compatibility </text>
+<text top="645" left="479" width="174" height="21" font="4"><b>MACHINE LEARNING </b></text>
+<text top="675" left="469" width="5" height="21" font="3">·</text>
+<text top="676" left="474" width="5" height="20" font="5"> </text>
+<text top="675" left="479" width="208" height="21" font="3">Data Mining with WEKA, R </text>
+<text top="702" left="469" width="5" height="21" font="3">·</text>
+<text top="703" left="474" width="5" height="20" font="5"> </text>
+<text top="702" left="479" width="212" height="21" font="3">Classification &amp; Regression </text>
+<text top="729" left="469" width="5" height="21" font="3">·</text>
+<text top="730" left="474" width="5" height="20" font="5"> </text>
+<text top="729" left="479" width="94" height="21" font="3">Forecasting </text>
+<text top="758" left="479" width="231" height="21" font="4"><b>PROGRAMMING LANGUAGE </b></text>
+<text top="788" left="469" width="5" height="21" font="3">·</text>
+<text top="789" left="474" width="5" height="20" font="5"> </text>
+<text top="788" left="479" width="240" height="21" font="3">Proficient: C/C++, Java, Python </text>
+<text top="815" left="469" width="5" height="21" font="3">·</text>
+<text top="816" left="474" width="5" height="20" font="5"> </text>
+<text top="815" left="479" width="357" height="21" font="3">Familiar: Matlab, JavaScript, Assembly, Pascal, </text>
+<text top="836" left="479" width="119" height="21" font="3">Haskell, Prolog </text>
+<text top="863" left="497" width="4" height="21" font="3"> </text>
+<text top="907" left="108" width="126" height="28" font="2">Experience: </text>
+<text top="942" left="108" width="734" height="21" font="4"><b>MACHINE LEARNING INTERN | TENTACLE TECHNOLOGIES MSC SDN BHD | 17 JULY 2016 – </b></text>
+<text top="964" left="108" width="178" height="21" font="4"><b>15 SEPTEMBER 2016 </b></text>
+<text top="994" left="108" width="5" height="21" font="3">·</text>
+<text top="995" left="113" width="5" height="20" font="5"> </text>
+<text top="994" left="119" width="706" height="21" font="3">Working full-time, this position involved developing a Pre-emptive Incident Management in </text>
+<text top="1015" left="119" width="701" height="21" font="3">Oil &amp; Gas using Predictive Analytics (PIPE). PIPE collaborates Oil and Gas data from several </text>
+<text top="1036" left="119" width="702" height="21" font="3">sources to train a predictive model which predicts the failure of the system. PIPE generates </text>
+<text top="1057" left="119" width="695" height="21" font="3">system alerts, highlights the risks and provides early warning signals to prevent incidents. </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="6" size="13" family="ABCDEE+Cambria" color="#39a4b7"/>
+<text top="1118" left="459" width="3" height="16" font="6"> </text>
+<text top="97" left="108" width="120" height="28" font="2">Languages: </text>
+<text top="125" left="108" width="5" height="21" font="3">·</text>
+<text top="126" left="113" width="5" height="20" font="5"> </text>
+<text top="125" left="119" width="246" height="21" font="3">Vietnamese: Native proficiency. </text>
+<text top="152" left="108" width="5" height="21" font="3">·</text>
+<text top="153" left="113" width="5" height="20" font="5"> </text>
+<text top="152" left="119" width="216" height="21" font="3">English: Fluent. IELTS – 6.5. </text>
+<text top="179" left="108" width="5" height="21" font="3">·</text>
+<text top="180" left="113" width="5" height="20" font="5"> </text>
+<text top="179" left="119" width="676" height="21" font="3">French: Fluent. Achieved Baccalauréat, an academic qualification for French high school </text>
+<text top="201" left="119" width="461" height="21" font="3">students in DELF B1 (Diploma in French Language Studies). </text>
+<text top="240" left="108" width="89" height="28" font="2">Projects </text>
+<text top="275" left="108" width="737" height="21" font="4"><b>OIL SPILL DETECTION AND FORECASTING USING SUPPORT VECTOR MACHINES – THESIS | </b></text>
+<text top="296" left="108" width="95" height="21" font="4"><b>2016-2017 </b></text>
+<text top="327" left="108" width="5" height="21" font="3">·</text>
+<text top="327" left="113" width="5" height="20" font="5"> </text>
+<text top="327" left="119" width="693" height="21" font="3">A data-driven failure analysis employing machine learning technique to forecast partial or </text>
+<text top="348" left="119" width="722" height="21" font="3">complete failures of the oil system. Oil and gas data are collected from several sources to train </text>
+<text top="369" left="119" width="680" height="21" font="3">a predictive model using Sequential minimal optimizer (SMO) algorithm which classifies </text>
+<text top="390" left="119" width="663" height="21" font="3">failure and normal events. The SMO model is optimized and enhanced to minimize the </text>
+<text top="411" left="119" width="236" height="21" font="3">uncertainty of the predictions. </text>
+<text top="440" left="108" width="589" height="21" font="4"><b>IBEAM PROJECT FOR BLUE SNOW ENERGY CO-OPERATION | 2015-2016 </b></text>
+<text top="470" left="108" width="5" height="21" font="3">·</text>
+<text top="471" left="113" width="5" height="20" font="5"> </text>
+<text top="470" left="119" width="707" height="21" font="3">Use Machine Learning algorithm to design the application for cooling air-cond system of the </text>
+<text top="491" left="119" width="693" height="21" font="3">building. The system uses MVC architecture design with the implementation of server and </text>
+<text top="512" left="119" width="616" height="21" font="3">client (Android app) side using Jetty and Jersey API for RESTful communication. </text>
+<text top="541" left="108" width="350" height="21" font="4"><b>WEB APPLICATION DEVELOPMENT | 2015 </b></text>
+<text top="571" left="108" width="5" height="21" font="3">·</text>
+<text top="571" left="113" width="5" height="20" font="5"> </text>
+<text top="571" left="119" width="691" height="21" font="3">Project Management System: an online project management tool (create project, generate </text>
+<text top="592" left="119" width="205" height="21" font="3">milestones and tasks, etc.) </text>
+<text top="634" left="108" width="407" height="21" font="4"><b>PRINCIPLES OF DATABASE MANAGEMENT | 2015 </b></text>
+<text top="664" left="108" width="5" height="21" font="3">·</text>
+<text top="665" left="113" width="5" height="20" font="5"> </text>
+<text top="664" left="119" width="712" height="21" font="3">House Rental Website: a website that improves the house rental service (helping students to </text>
+<text top="685" left="119" width="715" height="21" font="3">find a suitable house to rent, allowing the landlords to register the houses they want to rent). </text>
+<text top="727" left="108" width="294" height="21" font="4"><b>ARTIFICIAL INTERLLIGENCE | 2015 </b></text>
+<text top="757" left="108" width="5" height="21" font="3">·</text>
+<text top="758" left="113" width="5" height="20" font="5"> </text>
+<text top="757" left="119" width="574" height="21" font="3">Minesweeper: a computer program that automatically solve Minesweeper. </text>
+<text top="799" left="108" width="275" height="21" font="4"><b>SOFTWARE ENGINEERING | 2015 </b></text>
+<text top="830" left="108" width="5" height="21" font="3">·</text>
+<text top="830" left="113" width="5" height="20" font="5"> </text>
+<text top="830" left="119" width="688" height="21" font="3">Bookstore Website: provide people opportunities to look for and purchase their yearning </text>
+<text top="851" left="119" width="268" height="21" font="3">books, upload/download E-Books. </text>
+<text top="878" left="108" width="4" height="21" font="3"> </text>
+</page>
+</pdf2xml>

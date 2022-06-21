@@ -1,0 +1,29 @@
+Đặng Trang Nhật Tảo
+Date of birth: ​October 19th, 1995
+Sex: ​Male
+Address: Thu Duc District, Ho Chi Minh City, Vietnam
+Mobile: ​+84 91 707 3957 
+Email: dangtrangnhattao@gmail.com
+Linkedin: https://www.linkedin.com/in/dangtrangnhattao/
+TECHNICAL SKILLS 
+Language​: Python
+Web framework​: Flask 
+SCM​: Git, GitLab, GitHub
+OS​: Ubuntu, Windows
+Team communication​: Slack 
+Editor​: VSCode, SublimeText , Vim
+Python tools​: virtualenv, pip, pep8, flake8, IPython, jupyter notebook 
+Library​: requests, beautifulsoup, logging, JSON, numpy, pandas, 
+matplotlib…
+EDUCATION
+HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG Posts and Telecommunications Institute of Technology-
+Major : Electrical Engineering 
+PYTHON DEVELOPER
+Pymi.vn | https://pymi.vn
+Python programing
+SKILLS  Reading English documentations  Google  Working alone or teamwork 
+REFERENCE
+Nguyen Viet Hung  
+DevOps senior, Python mentor pymi.vn 
+Mobile: +84 982090290  
+Email: hvn@familug.org 

@@ -1,0 +1,63 @@
+ 
+LY TRAN_+84988245600        Email (preferred): ly.tran@fulbrightmail.org      Skype: ly.tran@fulbrightmail.org         Profile: http://rpubs.com/lytran                                
+EDUCATION 
+Bentley University, McCallum Graduate School of Business, Waltham, MA 
+Master of Science in Business Analytics 
+Master of Business Administration    Concentration: Business Analytics  
+Academic coursework: Data Modeling; Time Series Analysis; Quantitative Analysis for Business; Statistical Modeling for Business; Data Mining; Data-
+Driven Programming with Python; Optimization & Simulation. 
+TECHNICAL SKILLS & STRENGTH 
+Data and visual modeling; analyzing data using R, Python, Oracle SQL, Excel, SPSS; managing database; reporting using Tableau. 
+Unsupervised and supervised machine learning algorithms; predictive models; hypothesis tests; estimation and confidence intervals; analysis of 
+variance; time series, mixed models, Bayesian methods. 
+DATA ANALYSIS PROJECTS 
+Jun 2018: Early Adopters Analysis 
+Assessed groups of high and medium adopters and examined the change in using company’s products after each new product launch in the 
+market 
+Recommended the list of clients in order of priorities who need to be reached by sales team before any new product launch 
+May – Jun 2018: Prediction for New Product Adoption 
+Examined adoption patterns of old version products in each group of clients 
+Compared predicted and actual sales to find out extreme groups of clients that needed to be further investigated 
+Provided insights about speakers who were hired and paid by company and competitors; suggested strategies to appropriately work with 
+stakeholders 
+March 2018: Loan Default Prediction and Email Classification 
+Built a model to predict the probability of default based on the following variables: balance, income, occupation, marital status 
+Predicted sales forecasts and trend of loan payments; recommended cut-off values for future investment  
+Used natural language process (NLP) to classify spam and regular emails. Built a model using Naïve Bayes to predict email types. 
+April 2018: Customer Segmentation 
+Analyzed RFM for top 10 customers; Applied Pareto principle 80/20 to find the most valuable customers  
+Used clustering to segment customers to recommend for different treatments; Predicted repurchasing rate of customers 
+November 2017:  
+Built a model to predict players’ salary during the 1986 – 1987 baseball season including diagnostics 
+Designed and built a data structure based on Fitness center’s data needs; reported views developed in in Oracle SQL 
+August 2016: New York Citi Bike Program  
+Identified demographics and cycling habit of bike users 
+Examined peak periods and the frequency of cycling activities; visualized locations where riders picked up and dropped off bikes 
+May 2016: Case Contest – 2016 Presidential Election Prediction (Use SAS) 
+Predicted the likelihood of winning between Republican vs Democratic party 
+Displayed the distribution of popular votes in States by gender and age group  
+PROFESSIONAL EXPERIENCE 
+LivaNova PLC (formerly Cyberonics) – a global medical technology company, Houston, TX                                                                         May 2018 – present 
+Marketing Analytics and Insights 
+Set up metrics and perform advanced analytics in R to generate value-creating insights from big data 
+Manipulate data from information systems: IBM Cognos, SaleLogix and external data to analyze sale trend and measure the effectiveness of 
+marketing efforts 
+Testing Services and Programs, Dover, DE 
+August 2016 – July 2017 
+Business Analyst  
+Based on revenue, expenditures and other variables, ran various statistical tests and exploratory data analysis 
+Developed statistical models, both linear and non-linear 
+Analyzed monthly financial results and applied statistical methods to measure effects of budget adjustments 
+Analyzed ad-hoc financial performance against history, budget, forecasts and explained variances 
+Testing Services and Programs, Dover, DE  
+Business Analyst & Testing Diagnostician 
+April 2016 – August 2016 
+Verified and cleaned up database records; built better database structure to extract information faster 
+Analyzed customer data; increased customer satisfaction from 60% to 85% in 3 months that increased revenue by 30% 
+Prudential Financial Company, Hanoi, Vietnam  
+December 2011 – May 2014                     
+Customer Data Analyst 
+Leveraged data to create profiles of customer segments with their product preference 
+Built models to predict retention behavior and suitable rewards to increase customer loyalty 
+Identified trends and patterns in the advertising data to maximize ROI 
+Prepared reporting analyses and dashboards to help Sales & Marketing track key business metrics 

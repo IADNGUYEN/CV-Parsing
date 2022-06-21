@@ -1,0 +1,65 @@
+1 
+CURRICULUM  VITAE 
+PERSONAL INFORMATION 
+Full name: Tran Dang Khoa 
+Gender: Male 
+Date of birth:  06/03/1991 
+Contact address: 22/7/1 1st Street, Hiep Binh Phuoc Ward, Thu Duc District, Ho Chi Minh City 
+Mobile phone: 0123 248 4304 
+Email address: khoatran6391@gmail.com 
+TECHNICAL SKILLS 
+Have experience in Source Control (Subversion) 
+Design Pattern: Creational patterns (Abstract Factory, Singleton) 
+Java – OOP:  
+Package, class, access modifier  
+Attributes of OOP (abstraction, encapsulation, polymorphism, inheritance) 
+Java – Android:  
+Android activity, life cycle, passing data, intent  
+Android UI: layout, control, event listener, menu, listview, list adapter, custom listview  
+SQLite: query and manipulate data  
+Location and map: implement Googlemap, marker  
+Thread: use asyncTask to update UI and request to webservice  
+SharedPreference: store, fetch, edit data  
+BroadcastReceiver: Intent Filter, Service  
+Send and receive JSON data, parsing JSON 
+Database: MySQL, SQLite 
+Webservice: PHP webservice (API: login, register, download, upload, list files, delete files) 
+2 
+EDUCATION 
+University: University of Information and Technology (UIT) 
+Graduation: 02/2015 
+English: Read and understand document well 
+Certificate: TOEIC – 770 
+EXPERIENCE AND PROJECT 
+I had 3 months (25/05/2015 – 14/08/2015) experience training at TMA Training Center and 
+developed an Android application: Mobile ShareFile 
+Project description:  
+Project Manager: Mr. Phong Bui  
+User can upload files from device to server  
+Download files from server  
+Share their files (url) via email  
+Search and sort files 
+Role:  
+Main coder  
+Assign tasks to other members  
+Building webservice with PHP and MySQL  
+Hosting webservice at www.hostinger.vn 
+Link to project: https://ttc.edu.vn/svn/TTC-
+EXTERNAL/K029/Android1/Group%202/Source%20Code/Members/khoa.tran/ 
+SOFT SKILLS  
+Learn and acquire quickly  
+Logical thought  
+Take a strong concentration on particular work 
+CAREER OBJECTIVE  
+Have a stable job with my major to maximize the knowledge and personal excellence in 
+the field of IT, as an Android developer 
+3  
+An active and progressive working environment which provides many opportunities and 
+challenges  
+Gain experiences and have more skills with the development of the company  
+Contribute to the success of company and projects 
+HOBBIES AND INTERESTS  
+Listen to music  
+Play computer games  
+Handout with friends 
+TOEIC CERTIFICATE 

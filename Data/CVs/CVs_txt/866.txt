@@ -1,0 +1,83 @@
+System Design & Programming
+Applied Math & Machine 
+Learning  Algorithms
+Data  Science
+Network Protocols
+University
+Faculty
+Department
+Year
+GPA  
+Bach Khoa University
+Electrical and Electronic Engineering
+Control Engineering & Automation
+09/2013 – 04/2018
+8.19/10 (Talent Program)
+EDUCATION BACKGROUND 
+AI & Machine Learning 
+Approaches: K-nearest neighbors, 
+fuzzy control, neuron network, SVM 
+Bayesian network.
+Applied mathematics : Linear 
+Algebra, Calculus, Optimization, 
+Probability Theory and Statistics.
+Programming languages: Assembly 
+, C, C++, C# , java, knowledgeable 
+about Realtime design pattern. 
+Processing: basic 
+fundamImageentals of image 
+processing , Opencv, Emgucv.
+Protocol : TCP/IP, Modbus, 
+Mqtt, Opc DA, Opc UA, http.
+Web : Asp.net/core MVC , Rest 
+API, Database(Mysql)
+Microcontroller (STM32F4) 
+and  raspberry pi (Raspbian os).
+TECHNICAL KNOWLEDGES
+PROJECTS
+Thesis: Traffic control system and violation treatment using Neuron 
+network and Fuzzy control (Data Communication using Modbus 
+TCP/IP).
+Automatic number-plate detection & recognition:  Plate localization 
+using Haar Cascade, Optical character recognition using SVM .
+Modbus to MQTT (IoT gateway): Design(Real time design pattern, 
+Web Interface), Code(.Net), Test, Write User Manual.
+Queue management system for Hospital : coding Backend (.net core 
+MVC), RestfulAPI, android app, using Mysql database.
+Drainage pump system for Ho Chi Minh city: I assisted my lecturer , 
+Ph.D Truong Dinh Chau  to programming PLC, SCADA, HMI. 
+Volunteering at care centers for 
+children, for elderly .
+Social Activities in Bach Khoa 
+University.
+SOCIAL ACTIVITIES
+0162 756 8819 
+094 225 8247
+tranvanductt@gmail.com
+58/7J Dong Nai, District 10
+Ho Chi Minh City
+March 28th,1995
+INTERESTS
+Language: English Intermediate
+Open-Minded
+Time Management
+Hard Working
+Goal Oriented
+Honest, enthusiastic and sociable  
+PERS0NAL QUALITIES 
+I am looking for a AI & Data Science 
+Engineer Job that offers a greater 
+challenge, increased benefits for 
+myself, and the opportunity to help 
+the company advance efficiently, 
+bring interesting innovation ideas to 
+real life.
+CAREER OBIJECTIVES
+SKILL
+2014  Silver medal of Viet Nam Mathematical Olympiad (Calculus) for 
+University students.
+2015  Bronze medal of Viet Nam Mathematical Olympiad(Linear 
+Algebra) for University students. 
+2015  Bronze medal of Viet Nam Physical Olympiad for University 
+students.  
+HONORS & AWARDS

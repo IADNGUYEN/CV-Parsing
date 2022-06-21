@@ -1,0 +1,128 @@
+Application Form 
+1. Personal Information: 
+Full Name: Le Hoang Duy 
+Birthday: 19/12/1985 
+Gender: Male 
+Hone Address: 32, Kha Van Can Street, Thu Duc District, Viet Nam 
+Cell Phone: 0978.025.441 
+Email Address: hoangduyniit@gmail.com 
+2. Summary 
+Desired Job: 
+Job Title: Tester/QC 
+Career Objective 
+With the main objective being towards satisfaction, both for myself and the company, I 
+strive to work towards the high standards of loyalty and dedication which has been 
+consistent throughout, thereby making work a pleasure. 
+Objective Expand leadership responsibilities, improve organizational ability to exceed 
+corporate goals, and help honor all long-term commitments made to customers, 
+stakeholders, employees and the communities in which we live 
+HIGHLIGHTS OF QUALIFICATION 
+Have 4 years’ experience in total of software development and Testing with multiple 
+projects including web application, desktop application.. 
+Analytical skills, to critically evaluate the information gathered from multiple sources, 
+reconcile conflicts, decompose high-level information into details, abstract up from low-
+level information to a more general understanding, distinguish presented user requests 
+from the underlying true needs, and distinguish solution ideas from requirements 
+Ability to learn quickly and solve problems under high pressure. 
+Manual Testing Skills: 
+Experience in analyzing function requirements and translate them to test case 
+Well acquainted with Software Development Life Cycle and Software Testing Life Cycle 
+Experience in performing Function Testing, Integration Testing, System Testing, 
+Regression Testing, Performance Testing.. 
+Proficient  in developing, maintaining and executing test case for different Black Box 
+Testing methodologies 
+Experience using defect bug tracker like Jira, Redmine. 
+Well versed with Test Document (Test plan, Test Scenario, Test Case, Test Data….) 
+Automation Testing Skills 
+Experience in working Test Automation Tool like Selenium, Soap UI, jmeter 
+Experience in working on Page object Model Design 
+Create Generic and Web Driver generic classes function for entire project 
+Experience in indentifying object locator and creating Page Factory for all the page 
+Experience in writing Xpath expression. 
+Integrated TestNG, with our current project. 
+Knowledge in Keyword and Data Driven frame work 
+Good in Dot Net Framework and programming language(C#, java) 
+Technical Skill: 
+C#, VB.NET, ASP.NET MVC, ASP net Web API 
+Automation Testing Tool: Selenium, SoapUI, Post Man 
+Bug Tracking: JiRa, Redmine. 
+Unit Testing and Code analysis: NUnit, JUnit 
+MS SQL 2008: Analysis and Design E/R Model,T-SQL and Store procedure  
+Independent or Team Work 
+Source control: SVN 
+Programming Tool: Visual Studio 2010,  2013 
+3. Working Experience 
+2013- Present. 
+Edison HCM (123, Bach Dang street, Tan Binh District, HCM) 
+Position: 
+11/ 2013-10/2014: Developer 
+10/2014- 12/2016 :  QC Engineer 
+Project  : Shougun R Enviroment. 
+Project detail: This is a software that base on .net framework 4.0 and MS-SQL server 2008. Programming 
+language: C#. This is a Waste Management System. It developed to provide the service for activities 
+includes amongst other things, collection, transport, treatment and disposal of waste together with 
+monitoring and regulation. The goal is enhance the efficiency of work can be linked to a database of 
+business with customer data that appropriate in one series of operations such as cost estimate, taking 
+orders, coordinate car, sales, payment request, receive money, managed Manifest page and Manifest 
+electronic. Now, there are so many Japan’s company using this product. In addition, they can require to 
+add or customized new features into System belong to their business relies on the feature of ShougunR.  
+Scope of Project:   
+Back end – Desktop:  
+Desktop Application and Mobile Application 
+Product Management: 
+Manage Product Category 
+Inventory Product 
+Manage Supplier/ Warehouse 
+Sales Management: 
+Manage export/ import trash 
+Estimating Shipping & Handling 
+Accounting:  
+Manage import/export money  
+Manage payment request 
+Manage receive money  
+Customer Service: 
+Store customer’s information 
+Automation service: 
+linked with finance system software 
+Linked with MOBILE SHOUGUN 
+Responsibilities:  
+Be in charge of developing important modules of project 
+Understanding the business requirement of  the customer 
+Plan, estimate and assign task to team member 
+Develop test case, test plan (manual test) and test script (load test) to execute 
+application, check list  
+Monitor and control team member progress and get involve in unleashing and solving 
+any raised problem relate to bug of design or bug programming from Developer team 
+member 
+Identified defects, report and interacted with the development team to resolve them 
+Be in charge of carrying out integration, regression and system testing before release 
+product for customer. 
+Work with client for big release and new system/devices. 
+Skill Set Utilized 
+Solid experience in .net 4.0, MS SQL 2008. 
+Best practice in software development 
+Good experience in planning and estimating 
+Strong leadership in managing team 
+Strong communicate with BSE and Developer for to resolve problem related to bug. 
+12/2011 – 5/2012 
+Fujinet Company:(Pho Quang, Tan Binh) 
+1. Project Name: NuriTDE  
+Role at project: Quality Control 
+Project Detail: This is a software of freight company in Japan. At times of the day, the program will call 
+batchs.exe automatic to implement jobs such as : get information from orders detail, then check store and 
+import data into database and export file .CSV. 
+2. Project Name: Kinmu 
+Role at project: Quality Control 
+Project Detail: Kinmu project is a calendar to manage industrious information of staff at Japan company. It 
+provides the solution for employee in know number of presence and absence day, create daily report to 
+describe number of work in day and other work relate to company. 
+3. Project Name: Time Card 
+Role at project: Developer 
+Project Detail: Time Cards project is a system to manage all staff. It is issued to its employee for working at 
+the client site until the completion of the project. The employee  use their time card for all work processes 
+and expenses during the contract period. The time card data enable company to prepare the final billing that 
+needs to be submitted to the client for release of payment in lieu work   
+4. EDUCATION  
+NIIT Thu Duc – HCM, Vietnam: Bachelor of Science in Dot Net Technology Of Microsoft 
+Language: English  TOEIC score 500, Japanese: elementary level 
+5. My Expectations:  Type of Position Sought: full-Time Pernament  Desired work:HCM City  Salary Expectations: 800 $ up. 

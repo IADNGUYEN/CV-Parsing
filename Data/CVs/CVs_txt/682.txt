@@ -1,0 +1,50 @@
+Nguyen Van Qui
+STUDENT  BACH KHOA UNIVERSITY
+497 Hoa Hao, Wark 7, Districs 10, Ho Chi Minh City
+ (+84) 969-88-1202
+|
+ nvqui97@gmail.com
+|
+Birth: 12/02/1997
+|
+ www.posq?uit0.com
+“It is the first step that is troublesome.”
+FORM
+May 18, 2018
+INTERNSHIP APPLICATION
+Machine Learning Engineer
+About Me
+I am a third year student at Bach Khoa University from Telecommunication–Electronic department.
+ID: 1512702
+Graduation year: 2019
+GPA: 6.8
+I have a passion for Machine Learning especially Deep Learning. In pursuit of that passion, I have completed my image
+processing course at school . I also learned more about algorithm optimization.
+My favorite: research computer, science, machine learning. Entertainment: listen to music, swimming,...
+Skills
+Programming: C/C++, Python, Matlab,…
+I have good teamwork skills
+I knowledge using Keras, TFLearn/TensorFlow
+I know using algorithm optimization
+Microcontroller(8051, PIC, Arduino, TIVA TM4C123), IoT, Embedded
+OS Preference: linux, windows,…
+Language: using English basic
+Other: Latex, MS office, Photoshop
+Projects  ML
+2017  image processing: On-Road Vehicle and Lane Detection wit h Matlab
+2017  MNIS: Handwritten digits classification with Keras
+2018  IMDB: IMDB Movie reviews sentiment classification with Keras
+2018  Research: Emotion Recognition with TFLearn
+NOW  UT-Dataset: Human Activity Video classification
+Other: [Embedded-IoT]Smart light traffic, [Embedded-IoT]Smart home simple, [Embedded-Iot]Smart Garden, [Computer-
+Networking]Net chatting
+MAY 18, 2018
+About Company
+I would like to take an intership and collaborate in a real project to experience difficulties and enhance my skills likely.
+I really hope to get a chance for attending in all your company’s project specialized in image processing, neural network, deep
+learning, artificial intelligence …
+I hope to practice at the company.
+Sincerely
+Nguyen Van Qui
+.:
+MAY 18, 2018

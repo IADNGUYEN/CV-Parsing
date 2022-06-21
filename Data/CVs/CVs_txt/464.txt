@@ -1,0 +1,68 @@
+CURRICULUM VITAE   
+PERSONAL DATA: 
+Full Name: Do Nguyen Trung Dung 
+Address: 45/29 Tran Thai Tong, F15, QTB, TP.HCM 
+Telephone Mobile: 0976 650 613 
+Email: dungbme10@gmail.com 
+Marital Status:  Single 
+Date of Birth:  16/04/1992  
+Gender: Male 
+Present Nationality: Viet Nam  
+Languages: Vietnamese  English 
+EDUCATION: 
+Bachelor’s degree, Biomedical Engineering, International University – Vietnam National 
+University, 2010  2015 
+Working as Lab research assistance role 
+o Conducting experiment protocol for bio data measurement. 
+o Handle and analyze bio data from patients (MRI, FNIRS, ECG, EMG, etc.) 
+o Writing scientific paper for conference at university level. 
+o Working on various machine learning and other statistical analysis methods. 
+WORK HISTORY:  
+Software Engineer, Splus Software, 11/2015-12/2016 (1 year) 
+Working in variety of outsourcing projects in with main targets are Japanese and 
+Singapore customers. 
+Mostly working for web base applications, Android mobile and .NET.   
+Design and Implement database interface. 
+Software Engineer, RBVN – Robert Bosch Engineering and Business Solution, 2/2017 – now 
+(1 year 8 months) 
+Responsible for implementing and maintenance backend web base API, integration 
+with other third party modules within cooperation (ALM and Jenkins).  
+Research and implement ElaticSearch NoSql base storage engine for improve query 
+performance and visualization for data monitoring. 
+Experience with big data architecture system like ELK stack. 
+Communication with Indian and Germany teams for getting and analyzing customer’s 
+requirement. 
+Technical support for internal customers.  
+Achievement: Top performance for individual employee  year 2018. 
+Skills: 
+Java, Python, javascripts (jquery, angular, backbone, etc). 
+Experience with populaer python libraries : Numpy, Pandas, OpenCV, Scikit-learn, etc  
+Experience with Machine learning framework like TensorFlow, Pytorch, Keras  
+Proficient coding ability and machine learning skill set with experience working with AI 
+module related to Computer vision, Natural language processing.  
+Experiencing with source control system (Git-SVN). 
+Main Projects: 
+Objects-Vehicle detection:  
+Built application to find and show location of vehicles from input image based on state of 
+the art YOLO algorithm with allow for real time vehicle tracking.  
+Enhance model performance base on pre-train VGG16 deep learning model, regulation 
+method like dropout layer, normalization, and RELU activation between layers.  
+Adam gradient use for learning rate scaling and accumulating gradient momentum allow 
+efficient gradient stepping update and fast convergence.  
+Sequence to Sequence architecture:  
+Appling for chatbot, sentences translation, article summary, etc application. 
+Gate network architect (GRU, LSTM) for handling vanishing gradient.  
+Word embedding (Word2Vec) model for vectorising representation of sentence, words.  
+Attention mechanism being applied to deal with long input sentences sequences.  
+Image caption: Built application allow computer understand context of different input images. 
+Using state of the art RESNET 50 model as image feature extraction allowing faster training, 
+combine with word embedding layer to feed forward to LSTM model and generate image 
+description. 
+Others machine learning project related to regression, classification, ensemble learning.  
+Several freelancer projects related to web application and real time cryptocurrency trading. 
+TRAINING AND PROFESSIONAL DEVELOPMENT: 
+Artificial Intelligent Training Organize by RBVH with 7 sections long, Bach Khoa 
+University of technology, last from 1-2018 to 4-2018. 
+Convolutional Neural Network, deeplearning.ai, by Andrew Ng. Complete all course’s project 
+and quizzes. 
+Sequence Model, deeplearning.ai, by Andrew Ng. Complete all course’s project and quizzes. 

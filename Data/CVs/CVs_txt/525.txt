@@ -1,0 +1,72 @@
+APPLICATION FORM 
+Name: Nguyễn Quang Hải 
+Work Exprerience : TMA, CSC 
+GPA:7,25/10 
+Toeic: 700 
+University: University Of Information Technology (UIT) 
+Phone: 01649688769 
+Email: nguyenquanghai712@gmail.com  
+DOB: 07-12-1991 
+Dear Sir/Madam, 
+According to the recruitment information of your company. I know that you are looking 
+for Java Developer. I recognize the company's requirements are consistent with my profile 
+and I would like to apply for this position.  
+I graduated in 6/2014. I’m comfortable working with both back-end and front-end 
+technologies such as J2EE or Angular JS technology. 
+TECHNICAL SKILLS 
+Java Skill  
+I master EJB and Strut Framework . 
+I have successfully designed, developed applications with Java Swing and  
+Website with J2EE technology  
+EJB 
+Struts framework 
+JDBC, JPA (Hibernate) 
+JSP, Servlet 
+Webservice 
+Ajax, Jquery, javascript 
+Experience in XML processing (JAXB, SAX, …)  
+Spring MVC (basic). 
+Front-End Skill 
+I have 1 year working experience as a Angular JS developer at TMA .  
+I gained  many skills such as 
+JavaScript: AngularJS single page application, Jquery.  
+Bootstrap, Responsive website 
+HTML / HTML5: Semantic web 
+CSS / CSS3: Media Queries… 
+AJAX, JSON, XML. 
+Build mock up by Balsamiq 
+C# skill 
+I developed some winform and Webform projects with Ado.net. I also know LinQ, 
+Entity Framework, ASP.Net MVC framework . 
+PROFESSIONAL EXPERIENCE 
+TMA Solution   April/2014 – June/2015 
+Position: Junior Angular JS Developer 
+Project: Omnivista (US Client) 
+Project Description: A system which manage network devices such as switch, 
+router 
+Team Size: 20 
+Responsibilities: Getting clear requirement and implementing directives developed 
+by ourself for many features and modules. 
+UIT University   Feb-Jun 2013 
+Project:System Sale DVD, CD Online  
+Project Description: 
+Distributing web application sale DVD, CD online.  
+Responsibilities:  
+Use taglib Strut for present View  
+Build Session Bean  for processing logic. 
+JPA for CRUD. 
+Developed a Jax-WS  Web Service  for upload images of application. 
+Technologies:  
+Strut 1 ,EJB ,JDBC ,Webservice Jax-WS, XML, CSS/HTML/JavaScript, 
+jQuery.  
+Intern CSC 
+Training and working in real J2EE (jsp-servlet) project from 9-2103 to 12-2013 
+Intern Fpt-Software 
+Work with C# MVC3  ASP.NET from 9-2012 to 12-2012 
+My score and pictures to verify. 
+Picture :My score and Intern Certificate 
+I think  my Curriculum Vitae can be unimpressive but if you call me to test my skills, I 
+sure you will please and I can explain more about many projects which I coded. 
+I am looking forward to hearing from you soon.  
+Regards, 
+Nguyen Quang Hai 

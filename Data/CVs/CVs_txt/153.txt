@@ -1,0 +1,56 @@
+TRAN THI MY NHIEN 
+PERSONAL INFORMATION 
+Full name : NHIEN, TRAN THI MY 
+Date of birth : August 28
+rd 
+Gender : Female 
+1991 
+Place of birth : Hong Dan, Bac Lieu 
+Material status : Single 
+Mobile phone : 01666634096 
+E- mail : mynhienit55@gmail.com 
+Address : 397/20 Street Do Xuan Hop, Phuoc Long B Ward, 9 District, Ho Chi 
+Minh City. 
+OBJECTIVE 
+I wish to have a good opportunity to work independent or as part of a dynamic 
+team where I could make a significant contribution while developing my skills 
+yet further. I am willing to learn more and more to improve myself. 
+EDUCATIONAL BACKGROUND 
+Period : 2000 – 2004 
+University of Technology and Education 
+Major: Information Technology 
+GPA: 3.0 
+PROFESSIONAL SUMMARY 
+.Net Programming. 
+Object – Oriented Programming. 
+Managing database system. 
+Skill to work in a team and independently. 
+Easily adapting to new surroundings and conditions. 
+Communication and interpersonal skills. 
+Java programming. 
+Web server: IIS, WampServer, Tomcat 7. 
+COMPUTER SKILLS 
+Languages: C, C++, C#, ASP.NET MVC4, ASP.NET MVC5, Java, 
+JSP 
+Servlet, HTML, Javascript, XML. 
+Operating Systems: Windows XP/Vista/Win7/ Win8. 
+Development, Design Tools: Design Pattern, Enterprise Architect, 
+Visual 
+Studio, Eclipse. 
+Databases: MySQL, MS SQL Server 2008, MS SQL Server 2012. 
+Other: OOP, Database Design, Microsoft Office. 
+OTHER SKILLS 
+Foreign Languages 
+English Skill: speaking, reading and writing in the average level. 
+Soft skills 
+Good problem solving and troubleshooting skills. 
+Having a good background in computer science about computer architect, 
+data structure and algorithm. 
+Skill to work in a team and independently. 
+Ability to grasp and learn quickly new technologies.
+Good at self-studying skill. 
+WORKING HISTORY: 
+Company:  TMA Solutions. 
+Position:  Web developer. 
+Period:  2000-2004. 
+ACTIVITIES: Swimming, Traveling, coding. 

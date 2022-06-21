@@ -1,0 +1,92 @@
+LINH NGUYEN
+Data Scientist & Curious Person
+huylinh.nguyen@outlook.com
+01649 475 731
+Ho Chi Minh
+https://tulip4attoo.github.io/
+github.com/Tulip4attoo
+EDUCATION
+Exchange student in School of
+Computer Science and Statistics
+Trinity College Dublin
+Sep 2016 – Jan 2017
+M.S. in Quantitative Finance
+John von Neumann Institute
+Sep 2015 – Ongoing
+B.A. in International Economics
+Foreign Trade University
+Aug 2010 – June 2014
+Major in Mathematics
+High school for gifted student, VNU
+Aug 2007 – June 2010
+SKILLS
+Collaborative Filtering
+Neural Networks
+Deep Learning
+NLP
+Genetic Algorithm
+Python
+R
+C#
+Tensorﬂow
+Scikit-learn
+Scrapy & Selenium
+Pandas & Numpy
+Matplotlib & Dash
+Unity
+OpenCV
+MOOCS
+CS224n  NLP with Deep Learning
+Stanford University
+Neural Networks and Deep Learning
+Coursera
+Machine Learning
+Coursera
+EXPERIENCE
+Data Scientist
+FPT R&D, FPT Telecom
+Apr 2017 – Mar 2018
+Ho Chi Minh city
+PlayTV Recommendation System project:
+Designed, deployed and automated a Recommendation System for a large
+video platform (millions of users).
+Scraped data from IMDb (and other websites) using Python (scrapy).
+Worked with internal product team to develop view of product.
+DNS project:
+Detected malicious domain names (Precision/Recall 98%).
+Data Analytics Consultant
+Gotit!
+Feb 2017 – May 2017
+Ho Chi Minh city
+Chatbot project:
+Worked on software engineering and data analytics tasks.
+Supported in building models.
+Data Scientist Apprentice
+Tenpoint7
+Jan 2016 – Sep 2016
+Ho Chi Minh city
+D2O project:
+Built models for time series predicting (hospitality revenue).
+Visualized results.
+Optimized results (Reduce training time by 75%).
+SIDE PROJECTS
+Chrome TRex bot
+https://github.com/Tulip4attoo/chrome_trex
+Created an end-to-end bot to play Chrome Dinosaur game.
+Used screenshots as input of my model.
+Technical Blog
+https://tulip4attoo.github.io/
+Aug 2015 – Ongoing
+Wrote about my side projects, competitions and technical things.
+ACHIEVEMENTS
+2017
+Top 10/300 of Entropy  Data Analytics Competition
+2015
+Top 7/250 of Data Hackathon 3.0  Analytics Vidhya forum
+2013
+Top 10 of M&A Contest 2013  Vietnam M&A forum
+2008
+3rd prize of Hanoi Mathematical Olympiad 2008
+2007
+Highest score of the entrance exam of Lam Son Specialized
+School 2007

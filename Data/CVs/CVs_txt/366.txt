@@ -1,0 +1,282 @@
+Vo Dang Huy 
+18-Jul-1988 
+vdhuy18@gmail.com 
+224/52 Ben Van Don Street, 
+District 4, 
+Ho Chi Minh City, VN 70000 
+Mobile : +84 935156516 
+ACADEMIC DETAILS 
+Bachelor in Telecommunication [2010] from Posts and telecommunications institute of technology. 
+WORK EXPERIENCE 
+March 2017 to current: Work as Business Analyst in Home Credit, Vietnam. 
+June 2016 to January 2017: Work as Business Analyst in Advanced Vision Technology, 
+Vietnam. 
+February 2011 to June 2016: Work as Senior Quality Control cum Business Analyst at 
+Aricent Group, Vietnam. 
+CAREER HIGHLIGHTS 
+Has 7 year experience in ICT with 2 years in Quality Control and 5 years in Business Analyst. 
+Annual award from CEO of global HQ for setting up the lab and testing platform in VN. 
+2 months in Taiwan for technical discussion/workshop, deploy the infrastructure (HW+ SW) and perform 
+UAT for service provider (FarEasTone Telecom). 
+Multiple trips to India for training, technical discussion and setting up the projects in VN. 
+Diversifying communications with customers and partners: Germany, Italy, Belgium, France, Taiwan, USA, 
+India and China. 
+Having a proven exposure to hold the elaborate interaction with customers and stack-holders. 
+Having hands-on experience in working with top-notched customers: Nokia, Alcatel-Lucent, DTAG and OFR. 
+Having a proven ability to deliver an excellent quality service to company, customer and development team. 
+Possessed active and dynamic approaches, self- discipline and adaptation to work in various testing processes 
+along with ability to work both independently and aggregately. Able to take responsibility as a senior team 
+member in projects. 
+SKILLS 
+English (fluent, TOEIC 855), Chinese (intermediate) and Japanese (beginner). 
+Deep knowledge in SDLC, ISTQB, Agile, test methodology and test design. 
+Possess innovative mindset, incessantly augmenting efficiency of work.  
+Bug management: JIRA, HP QC, Bugzilla. 
+Strong knowledge in database schema, SQL and Oracle administration. 
+HTML, CSS and javascript (Basic knowledge). 
+Cloud, SaaS, ESXi and Openstack. 
+Automation: Selenium Webdriver (Java), Bash script. 
+Elicitation, analysis, interaction and negotiation skills. Be able to propose solutions which focus on improving 
+the business objective and quality of product. 
+Practical hand-on on UML, wireframe (visio and balsamiq) and diagram (ERD and context diagram). 
+Good in presentation and documentation. 
+Time and budget management. 
+PROJECT DETAILS 
+Financial system 
+Description 
+: 
+Engaging the financial core system of Home Credit Viet Nam, particularly in the VISA 
+card system. Become the Tier 2 escalation for troubleshooting and provide the analysis 
+for system’s new functionality. Work with business from other departments for any 
+change request and analyze the impact to the core system and local applications. 
+Company 
+: 
+Home Credit – HCMC, Vietnam 
+Duration 
+: 
+March, 2017 to current 
+Role 
+: 
+Business Analyst 
+Team Size 
+: 
+8 
+Skills 
+: 
+Oracle, JIRA, wiki, enterprise architect, HTML/CSS, mobile application, Balsamiq, 
+visio. 
+Job 
+: 
+Provide technical support for production’s issues. 
+Become the interface between business users and development for development of 
+new features.  
+Receive change request and analyses the system’s and business’s impact. 
+Enhance and nominate new requirements to gratify the customer’s business 
+objectives. 
+Provide estimation and develop the test suit which address customer’s requirement. 
+Guide the testing team for the commitment of quality of the project 
+Smart Tool 
+Description 
+: 
+A banking tool for processing the money transfer for ANZ bank. This tool digests the 
+input transaction file and perform all the necessary activities which can further direct all 
+the transaction to core banking network. The tool is empowered with enterprise features 
+Which help to prevent fraudulence as well as augment the robustness. 
+Company 
+: 
+Advanced Vision Technology– HCMC, Vietnam 
+Duration 
+: 
+June, 2016 to January 2017 
+Role 
+: 
+Business Analyst 
+Team Size 
+: 
+9 
+Skills 
+: 
+TFS, JIRA, banking, HTML/CSS, mobile application, Sharepoint, Balsamiq, visio. 
+Job 
+: 
+Communicate with customer and Head of center for the project’s kick-off. 
+Define the methodology and testing process that can balance scope of work, 
+quality, business objective and budget. 
+Elicit the ideas and business requirement from customers. 
+Enhance and nominate new requirements to gratify the customer’s business 
+objectives. 
+Enunciate and articulate the visons to developer, delineate the application’s low 
+level behavior and to find out the most feasible approach. 
+Balance the requirements and budget, act as PM’s aide in providing the CR. 
+Provide estimation and develop the test suit which address customer’s requirement. 
+Guide the testing team for the commitment of quality of the project 
+Open Service Platform 
+Description 
+: 
+An Open Service Platform based on RHEL and have carrier-class functionality: Oracle 
+Database, cluster with HA architecture, distributing processing environment and cloud. 
+A software solution for service provider which offer high-end features. It is a unified and 
+open platform inherited most appealing features from RHEL which multiple vendors can 
+build and deploy their Intelligent Network applications. This is being used by top-
+notched service provider like DTAG, AT&T and OFR. 
+More information: https://support.alcatel-lucent.com/portal/web/support/product-
+result?entryId=1-0000000002439 
+Company 
+: 
+Aricent Group – HCMC, Vietnam 
+Duration 
+: 
+April, 2014 to June, 2016 
+Role 
+: 
+Business Analyst 
+Team Size 
+: 
+20 
+Skills 
+JIRA, Bugzilla, visio, intergration test, regression test, performance test and UAT. 
+Cloud: VSphere 6, Openstack (Hypersphere) 
+Oracle 12, RHEL 6& 7,  distributed processing, high available structure 
+Automation: bash script and selenium (Java). 
+Intelligent network, telecom, service. 
+Job 
+: 
+Participate in customer’s workshop, kick-off to define the general points. 
+Convoke and host the meetings for stack-holders or 3rd party for the pre-requisite, 
+requirements on SW capability. 
+Assess requirement from customers, make judgement on the Change Request and 
+evaluate effort 
+Analyze customer’s expectation into functional requirements and hand over 
+appropriate teams (SW architect, 3rd party vendor, R&D etc...) 
+Manage the time-line and identify the risks. 
+Create the artifacts: Scope of work HLD, LLD, user requirement, functional 
+requirement, deployment strategy and test suite. 
+Run integration, regression and performance testing. 
+Run UAT and work with customer to close the deployment phase. 
+M&S for GPRS/EGPRS 
+Description 
+: 
+An M&S activity for PCU1 involves a close interaction with customer to receive bugs 
+and understand the fault scenarios.  
+This is the Maintenance & Support activity for EGPRS/GPRS network with totally 260 
+operators and 1.5 billion subscribers. This project has been with another company for the 
+last 7 years and as request from the customer, it has been transferred to my company. It 
+has been a real challenge to gain a deep knowledge for the new project in a short time 
+Company 
+: 
+Aricent Group – HCMC, Vietnam 
+Duration 
+: 
+August, 2013 to April, 2014 
+Role 
+: 
+Senior Test Engineer 
+Team Size 
+: 
+8 
+Skills 
+: 
+Bugzilla, HP Quality Control tool, wireshark, C.  
+Job 
+: 
+Contact with the 3rd party company to identify their action items and build a testing 
+framework. 
+Identify the required hardware and infrastructure for the project. 
+Go through all the bugs in the past and prepare the scope of work. 
+Co-operate with the managers to find out the customer’s expectation and understand 
+their request 
+Make a detailed plan for the testing process and build up the required setup according 
+to the expectations from the customer 
+Closely coordinate with the customer to receive bugs and analyze the fault scenario 
+Prepare the test report and statistics data 
+Radio transmission control application                     
+Description 
+: 
+A desktop application allows the operator to control and supervise the operation of radio 
+network devices (BTS). 
+A pack of applications (including desktop application) that is used to control and 
+supervise the operation of the various radio transmission devices using the latest IP 
+transmission technology (IPoEthernet, IPoTDM). 
+Company 
+: 
+Aricent Group – HCMC, Vietnam 
+Duration 
+: 
+August, 2012 to April, 2013 
+Role 
+: 
+Test Engineer 
+Team Size 
+: 
+30 
+Skills 
+: 
+Bugzilla, HP Quality Control tool, wireshark, , JAVA, C.  
+Job 
+: 
+Analyze customer’s requirements and write test cases. 
+Perform the GUI, sanity. 
+Update the test and bug finding status. 
+Create the test result and report to manager. 
+Interact with development team for log analysis and scenario reproducing. 
+Monitor team members and ensure the required productivity to complete the project 
+on time. 
+Radio transmission control application                     
+Description 
+: 
+A fault-free, extremely stable software pack that is implemented for high speed railway 
+system 
+A very big project for building a fault-free software with high stability for the high-speed 
+railway system (GSM-R) that will be used by the railway company. 
+More details: https://networks.nokia.com/railways/gsm-railway 
+Company 
+: 
+Aricent Group – HCMC, Vietnam 
+Duration 
+: 
+February, 2011 to August, 2012 
+Role 
+: 
+Test Engineer 
+Team Size 
+: 
+50 
+Skills 
+: 
+Bugzilla, HP Quality Control tool, wireshark, Putty, VNC, Hexeditor, Nethawk. 
+Job 
+: 
+Set up the real testing environment. 
+Analyze the technical specifications and transfer knowledge to the team. 
+Study and analyse the System Feature Specification, Requirement Specification as 
+well as the Design documents from the development. 
+Write and review various test scenarios for many components based on the 
+specification. 
+Discuss with development team to revise the High-level Design document for 
+optimization. 
+Test the product including System Integration, Function, System, Regression test. 
+Prepare the test/issue report for the customer and guarantee the SW can be 
+delivered on time with less than 5% of critical bugs. 
+Build-up a small team capable of handling the Maintenance & Support activity 
+after the delivery of the product. 
+FIELD OF INTERESTS 
+New technology and current trend.  
+Network, service, Cloud  
+Communication language  
+INDUSTRIAL EXPOSURE 
+Industrial Visit at: 
+Nokia Networks: cellular network (2G/3G) and core network. Duration: 4 year. 
+Alcatel-Lucent: Intelligent Network, Cloud, web service. Duration: 2 year. 
+Australia New Zealand Bank (ANZ): banking, web and mobile. Duration: 1 year. 
+Inplant Training at: 
+Testing methodology: ISTQB, Agile and AIM (Alcatel-Lucent proprietary methodology which covers the 
+deployment phase). 
+Telecom network: 2G, 3G, 4G and Intelligent Network (IN). 
+Cloud, virtualization (Vsphere + Openstack). 
+RHEL, oracle administration. 
+STRENGTH & HOBBIES 
+Responsibility and high commitment.  
+Sharp eyes for product's quality  
+Reading books.  
+Learn communication languages.  
+(Vo Dang Huy) 

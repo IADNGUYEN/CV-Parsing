@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="16" family="RobotoCondensed" color="#fcf8e0"/>
+	<fontspec id="1" size="14" family="RobotoCondensed" color="#fcf8e0"/>
+	<fontspec id="2" size="23" family="FontAwesome" color="#392330"/>
+	<fontspec id="3" size="23" family="RobotoCondensed" color="#95cd87"/>
+	<fontspec id="4" size="16" family="RobotoCondensed-Light" color="#ffffff"/>
+	<fontspec id="5" size="16" family="RobotoCondensed-Light" color="#fcf8e0"/>
+	<fontspec id="6" size="13" family="FontAwesome" color="#392330"/>
+	<fontspec id="7" size="48" family="RobotoCondensed" color="#bb9fa0"/>
+	<fontspec id="8" size="48" family="RobotoCondensed" color="#ed1c24"/>
+<text top="408" left="23" width="109" height="19" font="0"><b>FPT UNIVERSITY</b></text>
+<text top="408" left="480" width="128" height="18" font="1"><b>JAN 2015 - PRESENT</b></text>
+<text top="560" left="23" width="193" height="19" font="0"><b>FPT SOFTWARE HỒ CHÍ MINH</b></text>
+<text top="560" left="474" width="134" height="18" font="1"><b>JAN 2017 - MAY 2017</b></text>
+<text top="877" left="23" width="330" height="19" font="0"><b>FPT UNIVERSITY: FOOTBALL PITCH RESERVATION</b></text>
+<text top="877" left="477" width="131" height="18" font="1"><b>JUN 2017 - OCT 2017</b></text>
+<text top="1070" left="23" width="393" height="19" font="0"><b>FPT UNIVERSITY: CAPSTONE PROJECT (KEEPING TRACK OF</b></text>
+<text top="1091" left="23" width="104" height="19" font="0"><b>CHILD SYSTEM)</b></text>
+<text top="1070" left="477" width="131" height="18" font="1"><b>JUN 2017 - OCT 2017</b></text>
+<text top="122" left="31" width="20" height="24" font="2"></text>
+<text top="118" left="63" width="174" height="27" font="3"><b>Personal Summary</b></text>
+<text top="164" left="23" width="332" height="19" font="4">- Sociable, friendly, easy communicate with everyone.</text>
+<text top="184" left="23" width="173" height="19" font="4">- Able to deal with pressure.</text>
+<text top="205" left="23" width="338" height="19" font="4">- Learn from mistake and improve for the better result.</text>
+<text top="226" left="23" width="155" height="19" font="4">- Responsible for the job.</text>
+<text top="259" left="23" width="87" height="27" font="3"><b>Objective</b></text>
+<text top="303" left="23" width="566" height="19" font="4">- Seeking a position to further to develop expertise and experience in Software Engineering.</text>
+<text top="324" left="23" width="256" height="19" font="4">- Contributing my ability to organizations.</text>
+<text top="361" left="34" width="13" height="24" font="2"></text>
+<text top="357" left="63" width="91" height="27" font="3"><b>Education</b></text>
+<text top="429" left="23" width="176" height="19" font="5">Major: Software Engineering</text>
+<text top="459" left="23" width="58" height="19" font="4">GPA: N/A</text>
+<text top="513" left="28" width="25" height="24" font="2"></text>
+<text top="509" left="63" width="154" height="27" font="3"><b>Work Experience</b></text>
+<text top="581" left="23" width="36" height="19" font="5">Intern</text>
+<text top="611" left="23" width="132" height="19" font="4">Main responsibilities:</text>
+<text top="632" left="23" width="236" height="19" font="4">- Write and construct web application.</text>
+<text top="652" left="23" width="389" height="19" font="4">- Learn Spring MVC, Spring boot, MySQL, MongoDB, Bootstrap.</text>
+<text top="673" left="23" width="282" height="19" font="4">- Developing an fresher management system.</text>
+<text top="694" left="23" width="351" height="19" font="4">- Developing Front-end using HTML5, CSS3, Bootstrap 3.</text>
+<text top="715" left="23" width="416" height="19" font="4">- Developing Back-end using Spring MVC, Hibernate and MongoDB.</text>
+<text top="735" left="23" width="350" height="19" font="4">- Building test plan, implement unit test and system test.</text>
+<text top="756" left="23" width="143" height="19" font="4">Recognition and Gains:</text>
+<text top="777" left="23" width="269" height="19" font="4">- Understand Spring Framework, Hibernate.</text>
+<text top="798" left="23" width="207" height="19" font="4">- Improve reading document skill.</text>
+<text top="818" left="23" width="316" height="19" font="4">- Improve English Communication, Teamwork Skill.</text>
+<text top="839" left="23" width="353" height="19" font="4">- Experiences working under a professional environment.</text>
+<text top="898" left="23" width="117" height="19" font="5">Student, Developer</text>
+<text top="928" left="23" width="132" height="19" font="4">Main responsibilities:</text>
+<text top="949" left="23" width="254" height="19" font="4">- Write Web API using Spring MVC, Gson.</text>
+<text top="969" left="23" width="323" height="19" font="4">- Design UI using HTML, CSS, JavaScript, Bootstrap.</text>
+<text top="990" left="23" width="202" height="19" font="4">Achievements and skills gained: </text>
+<text top="1011" left="23" width="184" height="19" font="4">- Improving Self-learning skill.</text>
+<text top="1111" left="23" width="127" height="19" font="5">Developer / member</text>
+<text top="1141" left="23" width="132" height="19" font="4">Main responsibilities:</text>
+<text top="1162" left="23" width="152" height="19" font="4">- Learn Java for android.</text>
+<text top="1183" left="23" width="253" height="19" font="4">- Set up project, design project structure.</text>
+<text top="1203" left="23" width="197" height="19" font="4">- Design database using MySQL</text>
+<text top="1224" left="23" width="382" height="19" font="4">- Developing Back-end using Spring Boot, Hibernate, Jackson.</text>
+<text top="1245" left="23" width="199" height="19" font="4">- Developing Android using java.</text>
+<text top="345" left="662" width="13" height="14" font="6"></text>
+<text top="342" left="686" width="79" height="19" font="4">Oct 23, 1996</text>
+<text top="380" left="663" width="11" height="14" font="6"></text>
+<text top="377" left="686" width="30" height="19" font="4">Male</text>
+<text top="415" left="663" width="11" height="14" font="6"></text>
+<text top="412" left="686" width="86" height="19" font="4">01223354223</text>
+<text top="449" left="663" width="12" height="14" font="6"></text>
+<text top="446" left="686" width="148" height="19" font="4">baoch2310@gmail.com</text>
+<text top="484" left="665" width="8" height="14" font="6"></text>
+<text top="481" left="686" width="135" height="19" font="4">Ho Chi Minh, Vietnam</text>
+<text top="550" left="646" width="66" height="27" font="3"><b>SKILLS</b></text>
+<text top="595" left="646" width="45" height="19" font="5">English</text>
+<text top="640" left="646" width="178" height="19" font="5">Logical thinking and creative</text>
+<text top="685" left="646" width="99" height="19" font="5">Public Speaking</text>
+<text top="730" left="646" width="66" height="19" font="5">Teamwork</text>
+<text top="775" left="646" width="78" height="19" font="5">Self-learning</text>
+<text top="837" left="646" width="106" height="27" font="3"><b>INTERESTS</b></text>
+<text top="882" left="669" width="43" height="19" font="5">Soccer</text>
+<text top="920" left="669" width="38" height="19" font="5">Music</text>
+<text top="958" left="669" width="38" height="19" font="5">Movie</text>
+<text top="996" left="669" width="61" height="19" font="5">Travelling</text>
+<text top="28" left="629" width="246" height="57" font="7"><b>Cao Huy Bảo</b></text>
+<text top="25" left="632" width="246" height="57" font="8"><b>Cao Huy Bảo</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="9" size="12" family="ArialMT" color="#999999"/>
+<text top="178" left="23" width="316" height="19" font="4">Nguyễn Thị Cẩm Hương - Lecture at FPT University</text>
+<text top="198" left="23" width="319" height="19" font="4">Email: huongntc2@fpt.edu.vn - Phone: 0909912347</text>
+<text top="240" left="23" width="425" height="19" font="4">Nguyễn Công Chính - Junior Software Engineering Developer at TMA</text>
+<text top="261" left="23" width="323" height="19" font="4">Email: chinhncse@gmail.com - Phone: 0909574705.</text>
+<text top="302" left="23" width="344" height="19" font="4">Nguyễn Thanh Nghĩa - Team leader of capstone project</text>
+<text top="323" left="23" width="353" height="19" font="4">Email: nghiantse61642@fpt.edu.vn - Phone: 0968195330</text>
+<text top="2" left="23" width="199" height="19" font="4">Achievements and skills gained:</text>
+<text top="23" left="23" width="203" height="19" font="4">- Improve writing document skill.</text>
+<text top="44" left="23" width="162" height="19" font="4">- Improve Technical skill.  </text>
+<text top="119" left="32" width="16" height="24" font="2"></text>
+<text top="115" left="63" width="104" height="27" font="3"><b>References</b></text>
+<text top="1237" left="830" width="60" height="14" font="9">© topcv.vn</text>
+</page>
+</pdf2xml>

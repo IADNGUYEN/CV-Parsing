@@ -1,0 +1,180 @@
+ 
+CV_LE_QUOC_DINH_EMBEDDED_SOFTWARE_DEVELOPER 
+Page 1 of 3 
+Curriculum vitae 
+PERSONAL DETAILS 
+Full Name:  
+DINH LE QUOC 
+Job Titles: 
+Embedded Software Developer 
+Date of Birth:  
+08/10/1993 
+Gender:  
+Male 
+Email: 
+dinhlespkt@gmail.com 
+Phone: 
+0903848687 
+SUMMARY INFORMATION 
+Strong foundation in Electrical and Electronic, Micro-controllers and Networking. 
+Experience in C/C++ Programming Languages and scripting languages. 
+Experience in embedded testing and debugging, Automation Test System. 
+Experience in firmware programing, Linux programming. 
+Experience in communication protocols, network protocols. 
+Experience and have passionate in research and development electrical products. 
+Have a knowledge in RTOS, Linux Embedded OS. 
+Have knowledge in algorithm, data structures. 
+Spoken/Written languages: English. 
+EDUCATION HISTORY 
+From: 10/2012 
+To: 01/2017 
+HCMC University of Technology and Education 
+Faculty: Electrical and Electronic 
+Diploma: Computer Engineering 
+Member of 3DVisionLab, head by Dr. Nguyen Van Thai 
+LEQUOC DINH  Resume 
+CV_LE_QUOC_DINH_EMBEDDED_SOFTWARE_DEVELOPER 
+Page 2 of 3 
+PROJECT REFERENCE AND SKILL SET 
+ATTENDED PROJECTS 
+From: 10/2017 
+To: Now 
+Company: 
+Ban Vien Co., LTD 
+Position: 
+Embedded Engineer (Tester and Developer) 
+Responsibilities  Module owner of MCAL SPI driver.  Develop C# Generation Tool.  Refer requirements to prepare and execute UT/IT test-cases for Driver 
+Code.  Analyze bugs if have any. 
+Used Programming 
+Languages: 
+C, C# 
+Toos/Hardware: 
+Multi IDE, Visual Studio, SVN 
+From: 06/2017 
+To: 09/2017 
+Company: 
+IOT Technology Investment and Development Co, Ltd 
+Position: 
+Team Leader 
+Responsibilities:  Lead a small team (4 member).  Research and develop IoT products.  Support team members to solve technical issues. 
+Used Programming 
+Languages: 
+PHP, C/C++, Lua, Shell Script, MySQL 
+Tools/Hardware 
+STM8, Raspberry Pi, ESP8266, Zigbee , BLE, git 
+From: 04/2016 
+To: 06/2017 
+Project Name: 
+Automation Test Framework 
+Company: 
+FPT Software 
+Position: 
+Embedded Engineer (Tester and Developer) 
+Responsibilities:  Refer user manual and hardware manual to prepare and execute test-
+cases (UT, IT, ST) for BSP and analyze bugs if have any.  Porting and maintaining Demo applications that used to test BSP at 
+system level.  Co-operate with customer to develop Automation Test System. 
+Used Programming 
+Languages: 
+C/C++, Python, Shell script 
+Tools/Hardware 
+Eclipse, svn, gcovr, git, Yocto 
+LEQUOC DINH  Resume 
+CV_LE_QUOC_DINH_EMBEDDED_SOFTWARE_DEVELOPER 
+Page 3 of 3 
+INFORMATION TECHNOLOGY SKILLS 
+Experiences: 
+0:  0 month 
+2:  6 – 12 months 
+4:  2 – 5 years 
+1:  1 – 6 months 
+3:  1 – 2 years 
+5:  > 5 years 
+Last used: 
+Last year used 
+Expert level: 
+1:  Beginner Level 
+3:  Sometimes have to use manuals 
+5:  Expert Level 
+2:  Always have to use manuals 
+4:  Can solve problems 
+Experiences 
+Last used 
+Expert level 
+1 
+2 
+3 
+4 
+5 
+Platform, Framework 
+QT, GStreamer, Ionic 2 
+2 
+2017 
+x 
+RTOS (FreeRTOS) 
+2 
+2017 
+x 
+Embedded Linux 
+4 
+2018 
+x 
+Programming 
+C 
+4 
+2018 
+x 
+PHP, MySQL, HTM, Javascript 
+2 
+2017 
+x 
+C++, C# , Java, TypeScript 
+3 
+2018 
+x 
+Tools 
+Git, SVN 
+3 
+2018 
+x 
+Android Studio, Visual Studio, X-Code 
+2 
+2018 
+x 
+Micro-controllers 
+AVR, STM8/32 
+3 
+2017 
+x 
+PIC 
+2 
+2015 
+x 
+FOREIGN LANGUAGE 
+Experiences: 
+0:  0 month 
+2:  6 – 12 months 
+4:  2 – 5 years 
+1:  1 – 6 months 
+3:  1 – 2 years 
+5:  > 5 years 
+Last used: 
+Last year used 
+Expert level: 
+1:  Beginner 
+3:  Fluent 
+5:  Translator 
+2:  Conversational 
+4:  Expert 
+Experiences 
+Last used 
+Expert level 
+1 
+2 
+3 
+4 
+5 
+Languages 
+English 
+3 
+2018 
+x 

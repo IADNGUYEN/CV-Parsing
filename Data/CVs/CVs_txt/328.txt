@@ -1,0 +1,49 @@
+CURRICULUM VITAE 
+PERSONAL INFORMATION 
+Full name:  
+BUI THAI CONG 
+Address:  
+229 KP2, Ward Tan Chanh Hiep, District 12 
+Email:   
+buithaicongbk@gmail.com  
+Mobile:  
+(84)981 758 708 
+CAREER OBJECTIVE 
+Short – term goal:  
+Become a good engineer in the field of Machine Learning, Data Science, AI. 
+Long – term goal:  
+To develop a stable and long-term job.  
+EDUCATION BACKGROUND 
+Back Khoa University (2010  2015). 
+Bachelor of Electrical – Electronics Engineering, specialized Controls – 
+Automation.  
+CAREER HISTORIES 
+FPT Software Ho Chi Minh Company. (02/2015  02/2016) 
+Description: Develop embedded software by C/C++ on AutoSar board. 
+Global Cybersoft Vietnam. (03/2016 – 10/2017) 
+Description: Develop embedded software by Java on Set Top Box digital 
+television.  
+PROJECT WORK 
+THESIS GRADUATE, ROBOT SELF – BALANCING ON 1 WHEEL  
+Programming C on microcontroller kit TIVA – TM4C123GXL.  
+Design controller, simulation in Matlab – Simulink and embedded control 
+algorithms.  
+Links refer to: https://www.youtube.com/watch?v=vOHBPEoxH6A 
+PROJECT WORK 2, ROBOT SELF – BALANCING ON 2 WHEEL.  
+Programming C on microcontroller kit TIVA – TM4C123GXL,  
+Design controller in Matlab – Simulink and embedded control algorithms. 
+TUNING PARAMETERS IN CONTROL SYSTEM BY USING GENETIC 
+ALGORITHM  
+Simulate system on Matlab – Simulink.  
+Write Genetic Algorithm by m script on Matlab to tuning parametes PID 
+controler.  
+SOLVE GAME FLAPPY BIRD ON PYTHON  
+Create game using library Pygame to simulate object Birds population and 
+Tubes.  
+Using Genetic Algorithm to training Neural Network and find out weighs 
+control Bird flap/not flap to pass targets in game. 
+SKILLS  
+Deep understanding most of Machine Learning algorithms  
+Using frameworks Tensorflow, Keras.  
+Implement code in Machine Learning, Deep Learning  
+Programming Language: C, Python, Java. 

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="32" family="ArialMT" color="#000000"/>
+	<fontspec id="1" size="16" family="ArialMT" color="#444444"/>
+	<fontspec id="2" size="16" family="FontAwesome" color="#000000"/>
+	<fontspec id="3" size="16" family="ArialMT" color="#000000"/>
+	<fontspec id="4" size="16" family="Arial" color="#000000"/>
+	<fontspec id="5" size="16" family="Arial" color="#000000"/>
+	<fontspec id="6" size="17" family="ArialMT" color="#000000"/>
+<text top="69" left="45" width="238" height="36" font="0">Trần Thanh Tỉnh</text>
+<text top="110" left="45" width="96" height="18" font="1">Data Science</text>
+<text top="169" left="44" width="16" height="16" font="2"></text>
+<text top="169" left="60" width="236" height="18" font="3"> thanhtinh160896@gmail.com  </text>
+<text top="169" left="296" width="13" height="16" font="2"></text>
+<text top="169" left="309" width="116" height="18" font="3"> 0929056434  </text>
+<text top="169" left="425" width="9" height="16" font="2"></text>
+<text top="169" left="435" width="161" height="18" font="3"> Ho Chi Minh, Vietnam</text>
+<text top="275" left="42" width="191" height="18" font="4"><b>University of Information</b></text>
+<text top="295" left="42" width="90" height="18" font="4"><b>Technology</b></text>
+<text top="322" left="42" width="151" height="18" font="1">Agu 2014 - Jan 2019</text>
+<text top="275" left="310" width="211" height="18" font="5"><i>Major: Computer Engineering</i></text>
+<text top="303" left="310" width="88" height="18" font="1">GPA: 7.5/10</text>
+<text top="233" left="42" width="102" height="19" font="6">EDUCATION</text>
+<text top="438" left="42" width="191" height="18" font="4"><b>University of Information</b></text>
+<text top="459" left="42" width="90" height="18" font="4"><b>Technology</b></text>
+<text top="486" left="42" width="153" height="18" font="1">Agu 2017 - Dec 2017</text>
+<text top="438" left="310" width="200" height="18" font="5"><i>Research and Development</i></text>
+<text top="467" left="310" width="301" height="18" font="1">Design IP core part used to motion detect.</text>
+<text top="512" left="42" width="191" height="18" font="4"><b>University of Information</b></text>
+<text top="533" left="42" width="90" height="18" font="4"><b>Technology</b></text>
+<text top="559" left="42" width="153" height="18" font="1">Agu 2017 - Nov 2017</text>
+<text top="512" left="310" width="200" height="18" font="5"><i>Research and Development</i></text>
+<text top="541" left="310" width="359" height="18" font="1">Design IP core part used to finger print recognition</text>
+<text top="586" left="42" width="144" height="18" font="4"><b>TMA Solutions-TIC</b></text>
+<text top="613" left="42" width="147" height="18" font="1">Jan 2018 - Currently</text>
+<text top="586" left="310" width="69" height="18" font="5"><i>Research</i></text>
+<text top="615" left="310" width="459" height="18" font="1">Research in Data science - AI/ Machine learning, Deep learning,</text>
+<text top="636" left="310" width="167" height="18" font="1">Reinforcement learning</text>
+<text top="397" left="42" width="170" height="19" font="6">WORK EXPERIENCE</text>
+<text top="752" left="42" width="103" height="18" font="4"><b>Part-time Job</b></text>
+<text top="779" left="42" width="137" height="18" font="1">Jan 2016 - Present</text>
+<text top="752" left="310" width="389" height="18" font="5"><i>AEC center (American English Communication center)</i></text>
+<text top="781" left="310" width="445" height="18" font="1">- Trainee management. Improve English communication skills.</text>
+<text top="711" left="42" width="94" height="19" font="6">ACTIVITIES</text>
+<text top="897" left="42" width="36" height="18" font="1">2018</text>
+<text top="897" left="287" width="299" height="18" font="1">IBM Data Science Professional Certificate</text>
+<text top="927" left="42" width="36" height="18" font="1">2018</text>
+<text top="927" left="287" width="228" height="18" font="1">AI/ Machine learning - Coursera</text>
+<text top="957" left="42" width="36" height="18" font="1">2019</text>
+<text top="957" left="287" width="408" height="18" font="1">Engineering degree-University of Information Technology</text>
+<text top="856" left="42" width="144" height="19" font="6">CERTIFICATIONS</text>
+<text top="1074" left="42" width="92" height="18" font="1">English skills</text>
+<text top="1100" left="42" width="143" height="18" font="1">Logical thinking and</text>
+<text top="1121" left="42" width="56" height="18" font="1">creative</text>
+<text top="1148" left="42" width="34" height="18" font="1">Java</text>
+<text top="1174" left="42" width="106" height="18" font="1">Python, C/C++</text>
+<text top="1201" left="42" width="117" height="18" font="1">Data processing</text>
+<text top="1032" left="42" width="63" height="19" font="6">SKILLS:</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="7" size="14" family="ArialMT" color="#555555"/>
+<text top="1225" left="787" width="71" height="17" font="7">© topcv.vn</text>
+</page>
+</pdf2xml>

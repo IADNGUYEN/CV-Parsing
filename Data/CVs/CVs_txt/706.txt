@@ -1,0 +1,54 @@
+CURRICULUM VITAE 
+VINH TRUNG LUU 
+Have just finished Postdoc at Telecom-Paristech in Statistical Learning in 
+Traffic flow analytics project. Looking for an advance and responsible 
+research position in Data Analytics. 12 years’ experience concentrated in 
+Software Engineering and Data Mining. 3 first-author publications, 1 first-
+author in submission manuscript. 
+DOB: 25/10/1979 Marital status: Single 
+E-mail: luuvinhtrung79@gmail.com 
+Personal page: https://sites.google.com/site/vinhtrungluu 
+Research interests: Traffic Flow Analytics, Statistical Learning, Clustering, Web Usage Behavior, 
+Web Prediction and Recommendation, Sequence Alignment 
+Education 
+Ph.D degree: 12/2016, MIPS-ENSISA, Haute-Alsace uni., in Web usage mining 
+Master degree: 12/2009, Bordeaux 1 uni. (PUF-HCM), Master of Software Engineering, 
+dissertation of software development methodology evaluation after industrial internship 
+Bachelor degree: 12/2005, HCM Natural Science uni., Bachelor of Software Engineering 
+Additional relevant experience 
+In R&D team of building J2EE web application back-end for IBM RFID middleware 
+Freelance technical translator (English-Vietnamese) of DatViet publisher (2008) 
+Work experience 
+08/2005-09/2005: VN Web solution, part-time Web developer, got PHP and MySQL skills  
+09/2005-11/2006: HPT Software Center, PHP&MySQL developer, got software development 
+process experience 
+11/2006-12/2007: Clearpath Development, Java developer, got J2EE and SQL skills 
+06/2009-12/2010: Splendid Tech., Java senior developer, got J2EE, SQL and Eclipse skills 
+1/2011-12/2013: HCM OU uni., CS researcher and lecturer of Software Project Management, 
+got presentation and academic writing skills 
+12/2013-12/2016: PhD, got Clustering, Sequence Alignment, Web Usage Behavior, Web             
+Prediction&Recommendation methods, and Java, Latex, R skills, and publications (details below). 
+05/2017-08/2018: Postdoc, got Statistical Regression methods, Python, Tableau, PostgreSQL,      
+PostGIS, Non-SQL, Open Street Map, Fedora skills 
+Other relevant qualifications 
+AOTS software design and development completing certificate (scholarship 1/2006)  
+Publication 
+1. Vinh-Trung Luu, Germain Forestier, Mathis Ripken, Frédéric Fondement, Pierre-Alain Muller: 
+Web usage prediction and recommendation using web session clustering. In Digital 
+Information Management (ICDIM), 2016 Eleventh International Conference, pp. 107-113. 
+IEEE, 2016. 
+2. Vinh-Trung Luu, Mathis Ripken, Germain Forestier, Frédéric Fondement, Pierre-Alain Muller: 
+Using Glocal Event Alignment for Comparing Sequences of Significantly Different Lengths. 
+In Machine Learning and Data Mining in Pattern Recognition, pp. 58-72. Springer International 
+Publishing, 2016. 
+3. Vinh-Trung  Luu, Germain Forestier, Frédéric Fondement, Pierre-Alain Muller:  
+Web Site Audience Segmentation Using Hybrid Alignment Techniques. In Trends and 
+Applications in Knowledge Discovery and Data Mining, pp. 29-40. Springer International 
+Publishing, 2015. 
+In submission 
+4. Vinh-Trung Luu, Mathis Ripken, Germain Forestier, Frédéric Fondement, Pierre-Alain Muller: 
+A review of alignment-based similarity measures for web usage mining (Elsevier journal). 
+Referees 
+Pierre-Alain Muller, Thesis director (pierre-alain.muller@uha.fr)  
+Stephan Clemencon, Postdoc supervisor  
+(stephan.clemencon@telecom-paristech.fr) 

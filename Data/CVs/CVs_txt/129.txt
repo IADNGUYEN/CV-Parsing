@@ -1,0 +1,71 @@
+Sep 2013  Jan 2018
+BACH KHOA UNIVERSITY (BKU)
+Major: CONTROL & AUTOMATION
+GPA: 7.6/10                                                            
+GRADUATION THESIS:8.9/10
+Nov, 2017  Oct, 2018
+Experience
++ Nearly 1 year learning and research in AI field such as COMPUTER
+VISION, DNN, CNN...
++ 6 months working for technology company about COMPUTER
+VISION.
++ Familiar with OpenCV Library (Python/C++)
++ Project implementations:  Researching and applying some of state-of-arts about object           
+detection to detect objects: YOLO, Faster-RCNN, SSD Mobile Net  Face recognition: Using and apply some of deep neuron network   
+structures such as FaceNet, MTCNN to recognize and identify
+human in video frames into wild.  Contact Lenses recognition in Industrial.  Research and Develop AR(Augmented Reality) Technology and 3D
+reconstruction using depth camera
++  Familiar with some frameworks which is built deep learning             
+models like Tensorflow, Keras and SK-Learn in Python.
++ Ability to understand basically popular machine learning algorithms
+like KNN, K-mean clustering, SVM. ... 
+PHUNG NGOC TUNG DUONG
+CONTROL & AUTOMATION ENGINEER
+Date of birth:
+OCT 04, 1995
+Gender:
+Male
+Phone:
++84 1647 220 333
+Email:
+tungduonghmd@gmail.com
+Address:
+1010/12-Lac Long Quan, Tan Binh, HCMC
+Website:
+https://www.facebook.com/tungduong95dhbk
+TARGET
+I am seeking a position that will allow me to use my practical experience, strong interpersonal skills as well as
+my eagerness to contribute to a quality of company. Moreover, I'd like to work in a professional and active
+environment where i can work and study more knowledge from my colleagues to become a expert in AI field. 
+EDUCATION
+WORK EXPERIENCE
++ Have experience working on Unix/Linux environment
+June, 2016  Jan, 2018
+In University
+ACADEMIC
++ Having knowledge in Mathematics such as Algebra(8.5),
+Calculus(9.0), Probability(6.5).
++ Strong C/C++, Python.
++ Research in the field of Internet of things (IOTs) and ZigBee
+technology to remote control devices and display data on Web-Server.
++ ACADEMIC PROJECT : Control parallel robot and image processing,
+researching fuzzy logic controller to control real system.   Using OpenCV library and computer vision based on C++ platform
+to detect ball on plate system 6 degrees of freedom.   Applying Intelligent Control (Fuzzy logic controller) into ball on plate
+system to calculate error in order to evaluate and optimize system.
+(https://www.facebook.com/tungduong95dhbk/videos/1198097673653893/)
++ Investigating and Researching in the field related to AI and Intelligent
+Control, "pattern recognition" in machine learning.   Digit handwriting recognition in Matlab   Face recognition.
++ Understanding deep neuron network as well as CNN for images
+recognition and classification.
+July, 2017  Nov, 2017
+Internship
++ Internship at Robust Bosch Engineering in Automotive field. 
+Jan 2014  PRESENT
+Member of " students and youth" ORGANIZATIONS
+"Students and youth" groups have over 4000 members  Organizing volunteer activities for students .
+(https://www.facebook.com/groups/sinhvienvatuoitre/?fref=ts)  Attend charity blood donation.  Attend volunteers in nursing homes, help the elderly...
+2016
+40 years of Control & Automation Robot contest: 2nd
+ACTIVITIES
+HONORS & AWARDS
+© topcv.vn

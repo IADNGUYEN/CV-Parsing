@@ -1,0 +1,33 @@
+TRAN VAN NHAT 
+DEVELOPER
+CONTACT INFO
+Mobile: +84 1656752025  
+Email: nhat10a11@gmail.com 
+Address: 23/22 Street 22, Hiep Binh Chanh Ward, Thu Duc District, Ho Chi
+Minh City
+I started learning programming from high school. The first year in university,
+I learned more and programming was my passion. I dreamed of being able to
+write clean code, developing useful software for life. I will turn my passion
+into my work, so that I can create the best value products.
+STAGE EXPERIENCE
+AEGONA SOFTWARE AND IT SOLUTION  Octolium Project: Website project to create automatic timetable. 
+Technology: ASP.Net MVC, Entities Framework, MSSQL, AngularJS,... 
+Implement: Full-stack Developer  Unity3D Game Project: Education Game.( Outsource ) 
+Technology: Unity3D 
+Implement: Fix bug logic scenario 
+10/2017  5/2018 
+EDUCATION
+HO CHI MINH UNIVERSITY OF TECHNOLOGY AND EDUCATION  
+3-year students
+Major in Mechatronics Engineering
+LE KHIET HIGHT SCHOOL(QUANG NGAI CITY) 
+Graduated in 2015
+Unprofessional
+15-03-1997
+MY SKILLS 
+Back-end:  C, C#,Visual Basic, Python  ASP.Net MVC  ASP.Net Core (self learn)  Entities Framework, MSSQL 
+Front-end:  AngularJS  React (self learn)  HTML, CSS, JS,... 
+Other:  Resolve problem  Team work  Look for infomation 
+career goals  Become Senior developer  Develop problem-solving skills  Share knowledge and
+experience  Learn new things in life and
+work

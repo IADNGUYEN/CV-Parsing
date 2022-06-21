@@ -1,0 +1,36 @@
+            Quang Do Huu Ngoc
+E: quang.bon128@gmail.com  M: +84 1265 989 881 
+vn.linkedin.com/in/quangdo128
+SUMMARY:
+Quang is embedded engineer who experienced at developing the projects for health care, Lighting 
+System (smart city), Data-logger usually working on  ARM Microcontroller: STM32, MSP430, 
+CC2420, CC2541. Working on low-power wireless protocols ZigBee, BLE, RFID also implement 
+MCU interface: UART, SPI, IC2 … I am goal-oriented, critical thinking, inquisitive learner, fully 
+responsible at job . Fluent in English(TOEIC 650+). Core competencies include:
+C-Shell  Embedded Linux OS  Development C  Perl  C#  UML  Wireless protocol 
+PROFESSIONAL EXPERIENCE
+PROJECT
+Pulse oximeter: A non-invasive method for monitoring oxygen of blood. The advantage of the 
+project is more wavelength of light help measure hemoglobin more precisely. I am responsible for 
+software part. Porting SPI driver for communication between MSP430 F1 and optical biosensing 
+AFE4490, sampling and encoding ADC register to read raw data (absorption of photodiode). 
+Display the graphical results on Windows User Interface. Use UML to draw the flow chart.
+Verify quality of software Module: Responsible for writing test case, test script to consider 
+whether source code meet conditions about quality. Using Perl to generate the reports automatically.
+Getting the projects done on time. Good communication with manager and colleagues. 
+Street Lighting System: Configure, monitoring, control every cluster street lights. The different of 
+this project is able to manage the sequence of lights on every street with low-power wireless 
+protocols. Handle the faults make sure the system working stable when the environment is 
+changing. Develop firmware allow control system by turning on/off the lights and collect data from 
+light sensor, temperature for Monitoring application. The project take advantage of Multicast-RPL 
+protocols (on ZigBee stack) provide flexible management model of system by associate any lights 
+into different groups (represent a street) and ability to ensure the reliable connections between many
+street lights.
+Data Logger: TI Sensor Tag with sensors reading temperature, humidity from environment and 
+display the result via BLE (CC2541). By running BLE stack a low-power communication to display
+on tablets or smartphone when needed make a significant power consumption. The firmware can be 
+upload through Over-the-Air downloads (ODA). Additionally, a basic feature is store the parameter 
+with real-time clock (RTC) information into flash help logging the data.
+EDUACATION
+Bachelor of Engineer in Electronics & Telecommunication
+University of Technology  HCM  2014

@@ -1,0 +1,66 @@
+VO THANH DUC
+.NET developer
+ Feb 14, 1997
+ Male
+ 0935140297
+ vothanhducdhqn@gmail.com
+ BinhDinh, Vietnam
+ https://github.com/vothanhduc55
+OBJECTIVE
+I have just graduated from Quy Nhon
+university and I want to find a job
+about .net developer or front-end
+developer, devote all my ability for the
+team and the company, I am a funny
+guy and I am sure that I will make fun
+for team to create more energy for
+work. Your company is the best choice
+for someone who want to get a new
+technology so that they can develop in
+the future.
+SKILLS
+HTML/CSS/JAVASCRIPT
+OPP
+Data Structures & Algorithms
+.NET core
+Angular
+Sql Server
+MongoDB
+QUY NHON UNIVERSITY
+JAN 2015  JAN 2019
+BIG GAME
+APR 8 2018
+IT-DAY 2018
+MAY 21, 2018
+Certificate of english proficiency (Level B1)
+
+EDUCATION
+Major: Information technology
+GPA: 2.5/4                 6.35/10
+
+ACTIVITIES
+Take part in some traditional game in my university Be a singer in afterpiece
+Member of organizers  Take some photo in event as a photographer  Take part in a group dance 
+
+WORK EXPERIENCE  Build simple e-comercial website of book using php.
++ Team size : 3.
++ Technologies: HTML/CSS + PHP/MYSQL. 
++ Descriptsion: A website to buy some book, manage account user and repository of book.
++ Responsibility: 
+Design UX/UI for website. 
+Code back-end functions
+Manage tasks for member
+Support member to fix issues.  Internship project : Meeting room booking management.
++ Team size : 5.
++ Technologies: Asp.net core API, Angular 6, MongoDB.  
++ Descriptsion: A website to help booking a room with calendar and manage room.
++ Responsibility: 
+Design UX/UI for website.
+Code front-end CRUD user, building using angular 7
+Support member to fix issues. 
+
+CERTIFICATIONS
+Scholarship for students with high academicachievement in 8th Semester2019
+
+HONORS & AWARDS
+© topcv.vn

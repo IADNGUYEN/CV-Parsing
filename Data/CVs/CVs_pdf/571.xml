@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="50" family="FUHNQN+LMSans17" color="#000000"/>
+	<fontspec id="1" size="25" family="TXFALJ+LMSans17" color="#727272"/>
+	<fontspec id="2" size="14" family="YAMZJY+MarVoSym" color="#727272"/>
+	<fontspec id="3" size="14" family="PHKMTH+LMSans10" color="#0000ff"/>
+	<fontspec id="4" size="21" family="YAMZJY+MarVoSym" color="#727272"/>
+	<fontspec id="5" size="17" family="EIBTEG+LMSans12" color="#59b24c"/>
+	<fontspec id="6" size="21" family="YASMNT+LMSans12" color="#59b24c"/>
+	<fontspec id="7" size="16" family="HVZLSE+LMSans10" color="#000000"/>
+	<fontspec id="8" size="16" family="WRUFQM+LMSans10" color="#000000"/>
+	<fontspec id="9" size="14" family="WRUFQM+LMSans10" color="#000000"/>
+	<fontspec id="10" size="14" family="PHKMTH+LMSans10" color="#000000"/>
+	<fontspec id="11" size="16" family="PHKMTH+LMSans10" color="#000000"/>
+	<fontspec id="12" size="14" family="HVZLSE+LMSans10" color="#000000"/>
+	<fontspec id="13" size="14" family="YAMZJY+MarVoSym" color="#59b24c"/>
+	<fontspec id="14" size="14" family="HVZLSE+LMSans10" color="#0000ff"/>
+	<fontspec id="15" size="17" family="WRUFQM+LMSans10" color="#59b24c"/>
+<text top="165" left="112" width="325" height="46" font="0">Nguyễn Bá Bình</text>
+<text top="233" left="112" width="195" height="23" font="1"><i>Computer Engineer</i></text>
+<text top="204" left="531" width="13" height="16" font="2">H</text>
+<text top="205" left="549" width="84" height="13" font="3"><a href="tel:0969052523"><i>0969 052.523</i></a></text>
+<text top="222" left="437" width="13" height="16" font="2">B</text>
+<text top="223" left="455" width="178" height="13" font="3"><a href="mailto:nguyenbabinhcse@gmail.com"><i>nguyenbabinhcse@gmail.com</i></a></text>
+<text top="235" left="467" width="15" height="23" font="4">Í</text>
+<text top="241" left="487" width="146" height="13" font="3"><a href="http://linkedin.com/in/binhnb"><i>linkedin.com/in/binhnb</i></a></text>
+<text top="299" left="232" width="429" height="16" font="5"><i>Every champion was once a contender that refused to give</i></text>
+<text top="319" left="435" width="23" height="16" font="5"><i>up.</i></text>
+<text top="377" left="219" width="88" height="19" font="6">Education</text>
+<text top="410" left="132" width="74" height="14" font="7">2013–2018</text>
+<text top="410" left="219" width="362" height="14" font="8"><b>Bachelor Computer Engineering Talent Program</b></text>
+<text top="410" left="581" width="5" height="14" font="7">,</text>
+<text top="430" left="219" width="475" height="14" font="7">Faculty of Computer Science and Engineering, Bách Khoa University,</text>
+<text top="450" left="219" width="207" height="14" font="7">Major: Comupter Engineering.</text>
+<text top="471" left="219" width="36" height="13" font="9"><b>GPA:</b></text>
+<text top="471" left="260" width="42" height="13" font="10"><i>7.5/10</i></text>
+<text top="507" left="219" width="94" height="19" font="6">Experience</text>
+<text top="540" left="114" width="92" height="14" font="7">2018–Present</text>
+<text top="540" left="219" width="152" height="14" font="8"><b>Hardware Developer</b></text>
+<text top="540" left="371" width="5" height="14" font="7">,</text>
+<text top="540" left="381" width="137" height="14" font="11"><i>CyberCore VietNam</i></text>
+<text top="540" left="518" width="136" height="14" font="7">, Hồ Chí Minh City.</text>
+<text top="561" left="219" width="499" height="13" font="12">Deploy a Machine Learning solution for Object Classification in FPGA platform.</text>
+<text top="579" left="219" width="143" height="13" font="12">Detailed achievements:</text>
+<text top="596" left="219" width="8" height="16" font="13">{</text>
+<text top="597" left="235" width="260" height="13" font="12">Deep Learning Specialization Certificate <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/F36BB4BPLSDD">(</a></text>
+<text top="597" left="496" width="22" height="13" font="14"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/F36BB4BPLSDD">link</a></text>
+<text top="597" left="518" width="6" height="13" font="12"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/F36BB4BPLSDD">)</a></text>
+<text top="614" left="219" width="8" height="16" font="13">{</text>
+<text top="615" left="235" width="340" height="13" font="12">Object Classification using Binarized Neural Networks;</text>
+<text top="631" left="237" width="7" height="16" font="15"><b>-</b></text>
+<text top="633" left="252" width="282" height="13" font="12">Network: Binarized Neural Networks (W1A1)</text>
+<text top="649" left="237" width="7" height="16" font="15"><b>-</b></text>
+<text top="651" left="252" width="109" height="13" font="12">Platform: PYNQ.</text>
+<text top="667" left="237" width="7" height="16" font="15"><b>-</b></text>
+<text top="669" left="252" width="147" height="13" font="12">Board: ZC706, Ultra96.</text>
+<text top="685" left="237" width="7" height="16" font="15"><b>-</b></text>
+<text top="687" left="252" width="78" height="13" font="12">Video demo:</text>
+<text top="687" left="335" width="22" height="13" font="14"><a href="https://drive.google.com/open?id=156Sw_Dv2xs-6XMaDDvk9qbFzb1d8Ocl7">link</a></text>
+<text top="704" left="219" width="8" height="16" font="13">{</text>
+<text top="705" left="235" width="333" height="13" font="12">Handwritten Text Recognition using Neutral Network</text>
+<text top="721" left="237" width="7" height="16" font="15"><b>-</b></text>
+<text top="723" left="252" width="167" height="13" font="12">Network: Neutral Network.</text>
+<text top="738" left="237" width="7" height="16" font="15"><b>-</b></text>
+<text top="741" left="252" width="179" height="13" font="12">Platform: Pure Verilog HDL.</text>
+<text top="756" left="237" width="7" height="16" font="15"><b>-</b></text>
+<text top="758" left="252" width="142" height="13" font="12">Board: ZC706, KC705.</text>
+<text top="774" left="237" width="7" height="16" font="15"><b>-</b></text>
+<text top="776" left="252" width="78" height="13" font="12">Video demo:</text>
+<text top="776" left="335" width="22" height="13" font="14"><a href="https://drive.google.com/open?id=1jy8tyn83TwbjCck5RGxY2ahR6q78pE4R">link</a></text>
+<text top="801" left="132" width="74" height="14" font="7">2017–2018</text>
+<text top="801" left="219" width="146" height="14" font="8"><b>Software Developer</b></text>
+<text top="801" left="365" width="5" height="14" font="7">,</text>
+<text top="801" left="375" width="95" height="14" font="11"><i>FPT Software</i></text>
+<text top="801" left="470" width="136" height="14" font="7">, Hồ Chí Minh City.</text>
+<text top="822" left="219" width="350" height="13" font="12">Building a Crawler to collect data from multiple sources</text>
+<text top="840" left="219" width="129" height="13" font="12">Detail achievements:</text>
+<text top="857" left="219" width="8" height="16" font="13">{</text>
+<text top="858" left="235" width="249" height="13" font="12">Social Network API: Facebook, Twitter.</text>
+<text top="875" left="219" width="8" height="16" font="13">{</text>
+<text top="876" left="235" width="177" height="13" font="12">Crawling framework: Scrapy.</text>
+<text top="893" left="219" width="8" height="16" font="13">{</text>
+<text top="894" left="235" width="354" height="13" font="12">Familiar with AWS Infrastructure: EC2, ECS, Lambda. . .</text>
+<text top="911" left="219" width="8" height="16" font="13">{</text>
+<text top="912" left="235" width="179" height="13" font="12">Learn about design patterns.</text>
+<text top="947" left="219" width="86" height="19" font="6">Hard Skill</text>
+<text top="979" left="113" width="92" height="14" font="7">Programming</text>
+<text top="1000" left="141" width="65" height="14" font="7">Language</text>
+<text top="979" left="219" width="106" height="14" font="7">Python, Verilog</text>
+<text top="979" left="490" width="58" height="14" font="7">Machine</text>
+<text top="1000" left="489" width="58" height="14" font="7">Learning</text>
+<text top="979" left="561" width="176" height="14" font="7">Image Classification, NLP</text>
+<text top="1026" left="154" width="189" height="14" font="7">Crawler Facebook, Twitter</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="16" size="17" family="YASMNT+LMSans12" color="#59b24c"/>
+	<fontspec id="17" size="16" family="YAMZJY+MarVoSym" color="#59b24c"/>
+<text top="128" left="219" width="80" height="19" font="6">Soft Skill</text>
+<text top="161" left="136" width="304" height="14" font="7">Teamwork Software development process</text>
+<text top="181" left="219" width="117" height="14" font="7">and management</text>
+<text top="215" left="219" width="92" height="19" font="6">Languages</text>
+<text top="248" left="157" width="173" height="14" font="7">English TOIEC 835/990</text>
+<text top="284" left="219" width="74" height="19" font="6">Interests</text>
+<text top="317" left="124" width="312" height="14" font="7">Professional Design system, beautiful coding</text>
+<text top="341" left="148" width="307" height="14" font="7">Personal Game Online, music, reading book</text>
+<text top="378" left="219" width="93" height="19" font="6">References</text>
+<text top="410" left="219" width="123" height="16" font="16">Technical Leader</text>
+<text top="430" left="218" width="9" height="18" font="17">{</text>
+<text top="431" left="235" width="337" height="14" font="7">Mr. Nguyen Quoc Khai (nqkhai1706@gmail.com)</text>
+<text top="451" left="218" width="9" height="18" font="17">{</text>
+<text top="452" left="235" width="278" height="14" font="7">Mr. Ho Lai Tuan (holaituan@gmail.com)</text>
+</page>
+<outline>
+<item page="1">Education</item>
+<item page="1">Experience</item>
+<item page="1">Hard Skill</item>
+<item page="1">Soft Skill</item>
+<item page="2">Languages</item>
+<item page="2">Interests</item>
+<item page="2">References</item>
+</outline>
+</pdf2xml>

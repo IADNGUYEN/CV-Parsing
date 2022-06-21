@@ -1,0 +1,144 @@
+ 
+1 
+Socialist Republic of Vietnam 
+Independence – Freedom – Happiness 
+-o0o- 
+CURRICULUM VITAE 
+I. 
+PERSONAL 
+Name of full:  Phuc Anh, Nguyen 
+Date of birth:  June 17th,1990  in Can Tho City 
+Gender: Male 
+Present address: 234/46, Le Duc Tho Street, 6 Ward, Go Vap District, Ho Chi Minh City. 
+Email: nguyen.phuc.anh96@gmail.com 
+mobile phone: 0984 599 835 
+II. 
+EDUCATION 
+2013  2015: Master Program of Computer Science, Ho Chi Minh City University of 
+Technology.  
+2008  2012: Bachelor of Computer Science, Industrial University of Ho Chi Minh City. 
+III. WORK 
+1. Skills 
+ASP.NET, MVC, C# (2 years). 
+AJAX,  JavaScript, XML (2 years), Java (1 year) and Spring MVC Framework. 
+Windows Phone, PHP, C/C++, Google Map API. 
+Database: MS SQL Server (2 years), MySQL, MongoDB. 
+Good understanding in software development process. 
+Good knowledge of object-oriented analysis and design. 
+Strong knowledge on data structures and algorithms. 
+Good knowledge on data mining and machine learning, tools: Weka and R. 
+Information analysis, problem solving. 
+High responsibility, ability to work in a team and under high pressure. 
+2. Working experience 
+Time 
+Company 
+Project 
+2/2012-
+08/2012  SEC-HUI. 
+address: No.12, Nguyen Van Bao Street, 
+4 Ward, Go Vap District, HCM City.  Software Developer: Analyzing and 
+developing websites, applications.    Projects: DanhGiaNhanSu    C#, ASP.NET, SQL Server 2008 
+08/2012 – 
+08/2013  EPMT Company. 
+address: No.43, An Nhon Street, 17 
+Ward, Go Vap District, HCM City.  Software Engineer: Designing and 
+developing systems.  Projects: AIC, AkzoNobel VietNam, 
+HRM EDU.  C#, ASP.NET, MVC4, SQL Server 
+2 
+2008. 
+09/2013 – 
+12/2015  Ho Chi Minh City University of 
+Technology.  Master student  Projects: 
++ Auto Minesweeper: a project of 
+Artificial Intelligence  subject, this game 
+can find the mines automatically, using 
+Resolution algorithm and Propositional 
+logic. 
++ Text classification on Newspaper: a 
+project 
+of 
+knowledge-based 
+systems 
+subject, classifies topic of a newspaper 
+which belongs to economic topic or not. 
+Machine learning method: Naïve Bayes. 
++ RockPaperScissors: this is a java 
+game using socket client – server. 
++ BusRoute: a website allows user to 
+find bus routes that is the shortest path, 
+using location on Google Map, MongoDB 
+database, ASP.NET MVC4 and Spanning  Tree algorithm. 
++ 
+Master 
+thesis 
+“Cash 
+outflow 
+forecasting for purchases with credit 
+loans”: a real research on a company at 
+Viet Nam. This project implements cash 
+flow forecasting on time series data, 
+combines 
+clustering 
+and 
+ensemble 
+methods in machine learning. Science 
+instructor: Professor Dr. Tru Hoang Cao. 
+3. Projects 
+No 
+Project name 
+Description 
+1 
+DanhGiaNhanSu  
+Devoloping a website that allows employees 
+in company to evaluate their performance.  
+Duration: 2-3 months.  
+Project team size: 3.  
+Responsibility: software analysis, design and 
+development.  
+Technology: .NET, C#, SQL Server 2008, 
+ASP.NET, HTML, Ajax, Javascript 
+2 
+AIC  
+Developing a system to support AIC to 
+manage its employees efficiently. The system 
+consists of some modules, such as work 
+hours, gift management, food management, 
+stationery management…  
+Duration: 6 months.  
+Project team size: 6-8 
+3  
+Responsibility: software analysis, design and 
+development.  
+Technology: .NET, C#, SQL Server 2008, 
+ASP.NET, HTML, Ajax, Javascript, EPMT 
+Framework 
+3 
+AkzoNobel VietNam  
+The system was developed on website 
+application 
+that 
+allows 
+AkzoNobel’s 
+employees to manage their Projects.  
+Duration: 4-5 months.  
+Project team size: 6.  
+Responsibility: software analysis, design and 
+development.  
+Technology: .NET, C#, SQL Server 2008, 
+ASP.NET MVC4, HTML, Ajax, Javascript. 
+4 
+HRM EDU  
+This system is a desktop application for 
+university 
+human 
+resource 
+management 
+which was applied to Sao Do University, 
+Thanh Do University, Ba Ria-Vung Tau 
+University….  
+Duration: long-term.  
+Project team size: 5-8.  
+Responsibility: software analysis, design and 
+development.  
+Technology: .NET, C#, SQL Server 2008. 
+EPMT Framework. 

@@ -1,0 +1,39 @@
+Mr. NGUYEN QUOC DUY
+Date of Birth: December 31, 1980
+Permanent Address: 49, 13 Street, Hiep Thanh Ward, 
+Thu Dau Mot City, Binh Duong Province, Vietnam
+Mobile phone: 0933.580.157
+E-mail: ngquduy@gmail.com
+OBJECTIVES  Try to learning as much as possible and doing my best in order to accomplish my
+task.  To have good opportunities to get promotion in my job.  Develop my skills with development of company, I want to prove myself.
+EXPERIENCES
+Februay 2014 – Present
+Freelanser 
+Support for some friends, some factories in IT issues. (PCs, Laptops, printers, LAN,
+internet.......) 
+August 2012 – Februay 2014
+Vietturk Co., Ltd 
+IT Support specialist
+Viettutk Company is a garment jackets company's Turkey, experts for brands such as
+Hugo Boss…
+Responsibility:  Manage IT room  Manage, maintain and backup database (MS SQL server 2000)  Install, repair, and ensure proper working for all PC in the company.  Manage, maintain, and fixing all hardware (Printer, PC, Server, Network, PABX
+system...  Manage and maintain company IT network and server.  Supported Admin Department to manage the telephone system.  Plan and carry out information back up daily.  Setup, configuration Server and LAN system, maintain computer, handle 
+troubleshoot, support end user  Managing SQL database system (Vietnamese accountant software)  Checking security, scanning anti-virus  Making plan and report to factory manager.
+January 2006 – July 2012
+Esquel Garment Manufacturing Co Ltd. – Vietnam
+IT technical support
+Esquel Group – Hong Kong is one of the world's leading producers of premium
+cotton shirts (Nike, Tommy, ect . . .)
+Responsibility:   Performed  network  management, helpdesk  administration,  backup  software &
+application development,  Install, repair, and ensure proper working for all PC in the company.  Manage, maintain, and fixing all hardware (Printer, PC, Server, Network, PABX
+system...  Add, authorized users and remove users on system.  Manage and maintain company IT network and server.  Internet: Acceleration, security. (Linux and Squid)  Manage antivirus system (Symantec)  Support Admin Department to manage the telephone system.  Plan and carry out information back up daily.
+Achievements:  Built full IT system for new factory at AMATA industrial zone: using main internal
+IT team based on vendor’s minimum allowance.  Successful to renovate full IT network system as Esquel IT standard  Built & successfully applied GPRO system, Esquel Vietnam to be the first company
+to successfully use these technologies for their production tracking control in real
+time in Vietnam.
+SKILLS  System Analysis and Design.  Troubleshooting quickly  English skills: spoken, read and written
+EDUCATION  2007: SaiGon CTT
+Lean Cisco CCNA certification  2009 : Tan Duc (TD&T) IT School JSC
+Configuration and troubleshooting windows server 2008 active directory domain
+services.  1999 – 2003: Binh Duong University  Binh Duong, Vietnam
+Bachelor of Science in Information Technology (Graduated  2003)  1996 – 1999: Dau Tieng High School – Binh Duong, VietNam

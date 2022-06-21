@@ -1,0 +1,152 @@
+ 
+Nguyen Van Hung 
+Senior Front-end Developer 
+Email:  vanhung_nguyen1984@yahoo.com 
+Phone: 0933085202 
+SUMMARY 
+Brief description about your-self. 
+Front-end development is one of the most important for e commerce stuff. Develop a website to 
+run on Cross-browser, cross-platform, cross-device is becoming the current trend of the world. I 
+love to build this part and I am a dedicated person in Front-end.  
+Love: wife, android.  
+Hate: Work overtime. 
+Core Responsibilities:  
+Define architectural layout for web project (Desktop / Mobile).  
+Coding HTML/HTML5, CSS, JavaScript for web project. 
+Skills Summary  
+5 years of experience in web development using HTML, HTML5, CSS, CMS, 
+JavaScript, Photoshop.  
+3 years of experience in develop social stuff as: Facebook, Tweeter, G+ and 
+Pinterest.  
+3 years of experience in develop responsive web. (including android/ IOs tablet and 
+mobile)  
+1 year of experience in develop Google snippet optimization.  
+1 year of experience in develop newsletter.  
+Capable to learn fast the new technologies.  
+Have 2 years experience work on JQUERY / pure JavaScript framework and able to 
+work on any other JavaScript framework (Angular JS, sencha, etc...).  
+Has been working directly with customers since 2010 (almost through email or 
+Skype)  
+Able to identify / follow the process to work in team. 
+Nguyen Van Hung 
+Front-end developer 
+2/6 
+TECHNICAL SKILLS 
+Programming Languages: PHP. 
+None Programming Languages: HTML/HTML5, JavaScript, CSS. 
+Platforms: Cross-browser, cross-platform. 
+Tools: Notepad++, Photoshop. 
+Database Management Systems: My SQL. 
+IDEs: N/A 
+Operating Systems: Windows, Mac, Android (phone/tablet), iOS (phone/tablet). 
+Foreign Languages: English. 
+Management Skills: N/A. 
+Soft Skills: Communication (verbal skill), negotiation, time management, decision making, 
+adaptability. 
+Others: (optional) 
+EDUCATION 
+NIIT Hoa Sen.  
+Nguyen Van Hung 
+Front-end developer 
+3/6 
+PROFESSIONAL EXPERIENCE  
+<11/2009> – < 08/2013> Harveyansh 
+<Team leader> 
+Project Description:  Build web for Hearst magazine. 
+Responsibilities:  Provide solution for PM, implement code reviewer, CMO.  Manage tasks for whole team member and review their performance per six months of the 
+year.  Support coding and troubleshooting for urgent tickets. 
+Accomplishments:  Based on the good quality and stable in long time for each time I delivery the product to client. 
+My team increase up to five guys and become a team. One year later, we get the trust from client 
+and we have many more projects from them, our team increase up to 40 persons (including 
+managers, testers and developers) and the project become a ODC.  During time I'm work for Harveynash I did build success twenty web sites for Hearst. In that list, 
+I’m got the reward about the best structure of HTML5 site (Womansday: 
+http://www.womansday.com/ ,  Goodhousekeeping: http://www.goodhousekeeping.com/ , 
+Harpersbazaar : http://www.harpersbazaar.com/) and the best structure for responsive web 
+(Roadandtrack: http://www.roadandtrack.com/) 
+Technologies: CMS system, Pearl, HTML/HTML5, JQUERY, CSS3 and everything else. 
+<09/2013> – < 2/2014> FTP Software 
+<Senior Developer> 
+The first project description:  Optimization web for RWE Company. 
+Responsibilities:  
+Restructure HTML, CSS of the site to serve maintenance, loading performance and multi 
+language. 
+Customization layout of SharePoint system to make it consistent page by page. 
+Remove and rewrite whole third-party JavaScript. 
+Accomplishments:  
+My mission have been completed as every single word I said. 
+Technologies: SharePoint system. 
+Nguyen Van Hung 
+Front-end developer 
+4/6 
+The second description:  Develop mobile version for RWE project. 
+Responsibilities:  
+Define business way to interaction between frontend and backend.  
+Define whole page structure and needed JavaScript stuff to have the best inherit and 
+reusable. 
+Support team in case by case to trouble shooting issue and gave out solution. 
+Accomplishments:   With lacking knowledge team about mobile platform at the beginning, we did control the how 
+way to do and make the app come true. The feature grow up phase by phase. 
+Technologies: SharePoint API, a little bit HTML5, Sencha framework. 
+<03/2014> – < Until now> Whitelabelled 
+<Senior Developer> 
+Project description:  Optimization/Development web for Whitelabelled Company. 
+Responsibilities:  
+Redesign website following client requirement based on Magento system.  
+Maintenance WhiteLabelled's products. 
+Build owner-whitelabelled web controls. (Optimize for mobility) 
+Accomplishments:  
+Complete tasks and become a key person of the offshore team put at VietNam. 
+Build successful flex controls support on multiple platforms and can integrated to any systems. 
+Technologies: Wordpress, Magento system, SASS, HTML5, Pure CSS3 animation, 
+Hardware Accelerated CSS, native script. 
+*************** Hearst Magazine *************** 
+I) Project Role: junior developer, senior developer, team leader. 
+II) Project Duration: 3 years. 
+Nguyen Van Hung 
+Front-end developer 
+5/6 
+III) Project Description:  Build web for Hearst magazine based on your CMS system. 
+IV) Responsibilities:  Provide solution for PM, implement code reviewer, CMO.  Manage tasks for whole team member and review their performance per six month of the 
+year.  Support coding and troubleshooting for urgent tickets. 
+V) Accomplishments:  Based on the good quality and stable for each time I delivery the product to client. My team 
+increase up to five guys and become a team. One year later, we get the trust from client and 
+we have many more projects from them, our team increase up to 40 persons (including 
+managers, testers and developers) and the project become a ODC.  During time I'm work for Harveynash I did build success twenty web sites for Hearst. In 
+that list, I’m got the reward about the best structure of HTML5 site (Womansday: 
+http://www.womansday.com/ ,  Goodhousekeeping: http://www.goodhousekeeping.com/ , 
+Harpersbazaar : http://www.harpersbazaar.com/) and the best structure for responsive 
+web (Roadandtrack: http://www.roadandtrack.com/) 
+*************** //Hearst Magazine *************** 
+*************** Optimization web for RWE Company *************** 
+I) Project Role: Senior developer. 
+II) Project Duration: 3 months. 
+III)Project Description: Optimization web for RWE Company. 
+IV)Responsibilities:  Restructure HTML, CSS of the site to easy maintenance, improve page performance and 
+support multi languages.  Customization layout for SharePoint system to make pages consistent together.  Remove and rewrite the whole third-party JavaScript 
+V) Accomplishments:  At the first time when I join this project, the (back-end team) almost dead because they 
+cannot complete this project, the company already spent 1 year to try complete this project.  
+This pilot project is very important with them. I was helped them complete all the complex 
+task related to frontend with short time frame.  Client very pleasure when they fly from Germany to Vietnam to see our product and 
+company get that client one year later. 
+*************** //Optimization web for RWE Company *************** 
+Nguyen Van Hung 
+Front-end developer 
+6/6 
+*************** Develop mobile version for RWE project *************** 
+I) Project Role: Senior developer. 
+II) Project Duration: 2 months. 
+III) Project Description: Develop mobile version for RWE project. 
+IV) Responsibilities:  Define business way to interaction between frontend and backend.  Define whole page structure and needed JavaScript stuff to have the best inherit and 
+reusable.  Support team in case by case to trouble shooting issue and gave out solution. 
+V) Accomplishments:  With the team lacking knowledge about mobile platform at the beginning, we did control 
+how way to do and make the app come true.  
+*************** //Develop mobile version for RWE project *************** 
+*************** Whitelabelled *************** 
+I) Project Role: Senior developer, take care frontend part for Whitelabelled. 
+II) Project Duration: 1 year and to be continue... 
+III) Project Description: Maintenance, develop web for Whitelabelled company based on 
+Magento system. 
+IV) Responsibilities:  Redesign website following client requirement based on Magento system.  Maintenance WhiteLabelled's products.  Build owner-whitelabelled web controls. (Optimize for mobility) 
+V) Accomplishments:  Complete tasks in time and become a key person of the offshore team put at VietNam.  Build successful flex controls support on multiple platforms and can integrated to any 
+systems. 
+*************** //Whitelabelled *************** 

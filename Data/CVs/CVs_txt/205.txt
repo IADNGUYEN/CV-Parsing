@@ -1,0 +1,67 @@
+ 
+TELECOMMUNICATION AND NETWORKING 
+LY HONG DAT 
+PROFILE 
+My name Hong Dat and I’m final-year student of 
+University of Information Technology. I’m looking 
+for new working enviroment and I also want to 
+challenge myself with other majors   
+CONTACT: 
+Phone: +84 128-660-2226 
+Address: 261/2 Hau Giang, Dist 6 Ho Chi Minh city 
+Email: lydat143@gmail.com 
+Facebook: facebook.com/hongdat.ly 
+SKILL 
+EXPERIENCE 
+9/2017  5/2018                      Komit consulting 
+Part time                        
+System admin  
+Assigned work: monitoring and maintain system 
+server; build devops tool to support developer 
+start, deploy project or backup and restore 
+database, …; device management; handle issues 
+about network; …  
+Use ubuntu as main operating system to work 
+Code devop tool by python  
+Use ansible to build enviroment for new server 
+and manage ssh key and http authentication for 
+client  
+Used other tools: Postgresql, Supervisor, ngninx, 
+docker pipenv,… 
+PROJECTS 
+Game Snake 
+Programming in C 
+Application Chat 
+Programming in C# 
+https://github.com/lydat143/Chat-Application 
+Playfair and Hill  
+encryption/decryption 
+algorithm 
+Programming in C# 
+https://github.com/AnToanMangMayTinh/playfair-
+and-hill-algorithm  
+Resource management tool 
+Programming in Python  
+PHP with framework Laravel 
+https://github.com/DoAnCN/WebManagementInfo 
+2014-2019 
+2012-2014 
+HTML, CSS, JS 
+C# 
+Linux 
+Python 
+Golang 
+EDUCATION 
+University of 
+Information Technology 
+Bachelor of 
+Telecommunication and 
+Networking 
+Nguyen Tat Thanh  
+High School 
+Introduction of 
+programming 
+Basic-Network 
+Programming 
+Network security 
+Capstone Project 

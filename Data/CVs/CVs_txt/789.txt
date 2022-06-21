@@ -1,0 +1,32 @@
+FPT University
+Sep 2011  Aug 2015
+Software Engineer
+FPT Software  FSU11_PCS Project
+Jan 2014  Apr 2014
+FPT University  Capstone Project
+Dec 2014  Apr 2015
+Software developer  Develop a web application from an old window application.  Team size: 30  My responsibility: Implement a part of module base on old app, old code(C++),detail design.  Technologies and tools used: JSF, DB2, Tomcat 6, Eclipse Kepler, JIRA
+Software developer  Develop a web application with features: Matching job and CV, do online contest, upload and sharing
+material...  Team size: 3  My responsibility: Design, implement, test module applicant. Write report(SRS,Guideline,Test case)  Technologies and tools used:Visual Studio 2013, IIS 8, MVC 4, TFS, Bootstrap, SQL Server 2008, Entity
+Framework
+Languages
+English
+Programming
+Java,C# .NET
+Operating System
+Window
+Other
+OOP, Libgdx, Neo4j, Javascript, HTML, CSS, Android, Spring
+Mr.Khánh
+Software Architect
+FPT software company
+Email:Khanhndq@fsoft.com.vn
+Tel: 098 931 6686
+Hoàng Ngọc Anh
+Phone: 0120 3025 747
+Email: anhhnse@gmail.com
+Address: 83/1/6A Tam Bình, Phường Tam Phú, Quận Thủ Đức, TP HCM
+EDUCATION
+EXPERIENCE
+SKILLS & INTERESTS
+REFERENCE

@@ -1,0 +1,110 @@
+Applicant for:
+Senior Data Scientist (Machine Learning)
+TMA Solutions
+14 December 2018
+Tuan Tran
+tuan.trancaominh@hotmail.com
+Main interests: Python, C++, Java
+What skills, work projects or achievements make you a strong candidate for this
+position?
+Note from ITviec: Tuan Tran skipped the cover letter.
+Top Jobs for IT People
+"Hiring the wrong person is the most costly mistake you can make."  Brian Tracy
+itviec.com
+08 6681 1397
+itviec@itviec.com
+JACOB TRAN
+Address: Binh Thanh District, Ho Chi Minh, Vietnam
+Mobile: (+84) 917 682 701.
+Email: tuan.trancaominh@hotmail.com
+Highly numerate, mathematical and good programming skill with R and Python.
+Hard working, cooperative and delivery-oriented.
+P R O F E S S I O N A L
+E X P E R I E N C E
+MAR 2018 – RECENT
+DATA SCIENTSIT.
+SENTIFI VIETNAM, HO CHI MINH, VIETNAM.
+Collaborating with senior data scientists on running and optimizing models in an
+NLP project with using Tensorflow and Keras packages.
+Participating the influencer score project. Building up the score for indicating the
+impact of a financial twitter to market.
+Using Python, PostSQL, MongoDB and Elasticsearch for daily tasks. Indeed,
+extracting data from sever and Twitter API based on requirements and other
+purposes.
+SEP 2017 – FEB 2018
+FINANCIAL MODEL INTERNSHIP.
+PREDICTIVE ANALYTICS GROUP, MELBOURNE, AUSTRALIA.
+Successfully cleaning large data sets, then using them for modeling and testing.
+Participating in modeling several time series projects (sales of an electricity
+company  and  a  pharmacy  company),  and  employing  those  models  for
+forecasting and conducting many hypothesis tests.
+MAR 2013 – AUG 2014
+SHOP AND GPROD CONTENT ADMIN.
+GAMELOFT VIETNAM, HO CHI MINH, VIETNAM.
+Managed  and  updated  game  contents  and  non-game  contents  (game
+description, screen shoot, video, and others) of more than 300 games on Product
+Manager and Gameloft Production Sites.
+Frequently kept track of the changes of the devices’ names, specifications, and
+checking or updating on Product Manager Site accordingly.
+Weekly derived a database of new devices from large raw information of around
+20000 devices clicking Gameloft Production Site.
+AUG 2012 – FEB 2013
+UNIVERSAL BANKER.
+CITI BANK VIETNAM, HO CHI MINH CITY, VIETNAM.
+Attracted  successfully  a  number  of  new-to-bank  qualified  customers  in
+consistence with the Bank’s business strategy
+E D U C A T I O N
+JUL 2016 – JUN 2017
+MONASH UNIVERSITY, VICTORIA, AUSTRALIA
+MASTER OF STATISTICAL SCIENCE (EXCHANGE PROGRAM)
+Solid  knowledge  of  time  series  with  various  financial  models  and  forecast
+methods: Autoregressive models (AR), Moving average models (MA), ARIMA
+models, Parametric and Non-Parametric forecast methods and others.
+Advanced financial models with short-interest rate models, Black-Scholes option
+pricing, and Generalized method of moments in financial model.
+FEB 2015 – JUN 2016
+LA TROBE UNIVERSITY, VICTORIA, AUSTRALIA
+MASTER OF STATISTICAL SCIENCE
+Applied Statistics, Applied Probability with various applications of Statistics in
+real-life.  Optimizing  the  effectiveness  of  systems  and  processes,  and
+understanding the implications of upgrades to existing processes (in terms of
+cost, customer satisfaction and other requirements)
+Regression Analysis and Analysis Medical Data provide numerous regression
+models:  Generalize  Linear  Model,  Generalize  Boost  Model,  Logarithmic
+Regression Model and Missing data analysis    
+Data mining and algorithms give fundamental knowledge and techniques in data
+mining and machine learning.
+AUG 2008 – JUL 2012
+BANKING UNIVERSITY OF HO CHI MINH CITY, VIETNAM
+BACHELOR OF COMMERCE
+Majors : Banking and Finance.
+R E S E A R C H  
+AUG 2016 – JUN 2017
+SAMPLING THEOREM FOR SUB-GAUSSIAN PROCESSES
+MASTER STATISTICS THESIS
+Investigated two stochastic sampling theorems, and numerical studied a well-
+conducted result in an article of Olenko and Kozachenko. 
+R  language  was  employed  as  the  main  program  in  the  thesis,  with  using
+packages “Ggplot2” and “RGL” to conduct the numerical study and produce plots
+of the theorems’ upper bounds in 2-Dimensions and 3-Dimensions. Therefore, R
+skill was improved significantly.
+S K I L L S
+R
+Throughout the master course and many Kaggle projects, R programing had
+been trained in advanced level.
+PYTHON
+Experience  during  working  in  Sentifi,  several  projects  from  Kaggle  and  the
+Internship. Familiar with Tensorflow, Keras, LightGBM and many other packages.
+SQL/MONGODB/ELASTICSEARCH
+Self-educating during working at Sentifi. Using Python and official packages
+(SQLite, PyMongo) for data query and data wrangling.
+R E F E R E N C E S
+DR. ANDRIY OLENKO
+MASTER THESIS SUPERVISOR – COODINATOR.
+LA TROBE UNIVERSITY
+Email: A.Olenko@latrobe.edu.au
+MR. CUONG NGUYEN
+SHOP & GPROD CONTENT MANAGER
+GAMELOFT VIETNAM
+Tel: +84 165 867 9659
+Email: cuong.nguyenviet@gameloft.com

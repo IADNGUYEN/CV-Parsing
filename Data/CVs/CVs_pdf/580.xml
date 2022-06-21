@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="32" family="CIDFont+F1" color="#000000"/>
+	<fontspec id="1" size="19" family="CIDFont+F2" color="#4016f2"/>
+	<fontspec id="2" size="15" family="CIDFont+F3" color="#636a6b"/>
+	<fontspec id="3" size="15" family="CIDFont+F1" color="#636a6b"/>
+	<fontspec id="4" size="19" family="CIDFont+F2" color="#2f5496"/>
+	<fontspec id="5" size="15" family="CIDFont+F4" color="#636a6b"/>
+	<fontspec id="6" size="15" family="CIDFont+F5" color="#636a6b"/>
+	<fontspec id="7" size="15" family="CIDFont+F6" color="#636a6b"/>
+	<fontspec id="8" size="15" family="CIDFont+F2" color="#636a6b"/>
+	<fontspec id="9" size="0" family="CIDFont+F6" color="#636a6b"/>
+<text top="96" left="313" width="299" height="40" font="0">L Ê   M I N H   T H U Ậ N  </text>
+<text top="219" left="182" width="257" height="22" font="1">T E C H N I C A L   S K I L L S  </text>
+<text top="247" left="163" width="119" height="19" font="2">Operating System:</text>
+<text top="247" left="282" width="178" height="19" font="3"> Linux, Microsoft Windows,  </text>
+<text top="272" left="152" width="156" height="19" font="2">Programming Language:</text>
+<text top="272" left="308" width="163" height="19" font="3"> C, C++, C#, SQL, Android  </text>
+<text top="296" left="141" width="100" height="19" font="2">Software Tools:</text>
+<text top="296" left="241" width="237" height="19" font="3"> KeilC, CCS, Visual Studio, SQL Server, </text>
+<text top="317" left="261" width="97" height="19" font="3">Android studio </text>
+<text top="385" left="187" width="248" height="22" font="4">C O U R S E   P R O J E C T S  </text>
+<text top="413" left="164" width="295" height="19" font="2">Measuring temperature and humidity device  </text>
+<text top="437" left="235" width="153" height="19" font="2">(Feb 2017 – May 2017)  </text>
+<text top="462" left="148" width="7" height="19" font="5"></text>
+<text top="463" left="155" width="4" height="17" font="6"> </text>
+<text top="464" left="173" width="314" height="17" font="7">Describe: 3 members. Measuring temperature and </text>
+<text top="483" left="173" width="324" height="17" font="7">humidity, then transmit to computer with Bluetooth </text>
+<text top="502" left="173" width="147" height="17" font="7">standard. Module: chip </text>
+<text top="501" left="320" width="94" height="19" font="2">MSP430G2553</text>
+<text top="502" left="415" width="56" height="17" font="7">, SHT10 </text>
+<text top="523" left="173" width="43" height="17" font="7">sensor </text>
+<text top="522" left="217" width="25" height="19" font="2">(I2C</text>
+<text top="523" left="242" width="197" height="17" font="7">) and HC06 Bluetooth module (</text>
+<text top="522" left="438" width="36" height="19" font="2">UART</text>
+<text top="523" left="474" width="13" height="17" font="7">). </text>
+<text top="542" left="148" width="7" height="19" font="5"></text>
+<text top="544" left="155" width="4" height="17" font="6"> </text>
+<text top="544" left="173" width="320" height="17" font="7">My task: Using kit MSP430G2 kit communicate to </text>
+<text top="563" left="173" width="96" height="17" font="7">sensor STH10. </text>
+<text top="586" left="122" width="267" height="19" font="2">Home automation (Sep 2017 – Dec 2017) </text>
+<text top="611" left="148" width="7" height="19" font="5"></text>
+<text top="612" left="155" width="4" height="17" font="6"> </text>
+<text top="613" left="173" width="291" height="17" font="7">Describe: 3 members. Measuring temperature, </text>
+<text top="632" left="173" width="292" height="17" font="7">humidity and brightening controlled light, fan, </text>
+<text top="651" left="173" width="151" height="17" font="7">stepper motor by phone.</text>
+<text top="651" left="324" width="4" height="17" font="8"> </text>
+<text top="670" left="148" width="7" height="19" font="5"></text>
+<text top="671" left="155" width="4" height="17" font="6"> </text>
+<text top="671" left="173" width="316" height="17" font="7">My task: Planning to make project and Interfacing </text>
+<text top="690" left="173" width="71" height="19" font="2">MSP430G2</text>
+<text top="691" left="244" width="153" height="17" font="7"> kit with SHT10 sensor (</text>
+<text top="690" left="397" width="20" height="19" font="2">I2C</text>
+<text top="691" left="417" width="69" height="17" font="7">), BH1750 </text>
+<text top="711" left="173" width="49" height="17" font="7">sensor (</text>
+<text top="710" left="222" width="20" height="19" font="2">I2C</text>
+<text top="711" left="242" width="165" height="17" font="7">) and ESP8266 Wifi SoC (</text>
+<text top="710" left="407" width="36" height="19" font="2">UART</text>
+<text top="711" left="443" width="53" height="17" font="7">), Relay </text>
+<text top="732" left="173" width="50" height="17" font="7">module.</text>
+<text top="732" left="224" width="4" height="17" font="8"> </text>
+<text top="754" left="122" width="324" height="19" font="2">Garage Managing Software (Sep 2017 – Dec 2017) </text>
+<text top="779" left="148" width="7" height="19" font="5"></text>
+<text top="780" left="155" width="4" height="17" font="6"> </text>
+<text top="781" left="173" width="294" height="17" font="7">Describe: 4 members. Building the software to </text>
+<text top="800" left="173" width="290" height="17" font="7">manage Garage. We used three-layer software </text>
+<text top="819" left="173" width="73" height="17" font="7">architecture</text>
+<text top="819" left="246" width="4" height="17" font="8"> </text>
+<text top="838" left="148" width="7" height="19" font="5"></text>
+<text top="839" left="155" width="4" height="17" font="6"> </text>
+<text top="840" left="173" width="304" height="17" font="7">My task: Planning to make project, counting bill </text>
+<text top="859" left="173" width="139" height="17" font="7">and car repair voucher</text>
+<text top="859" left="312" width="4" height="17" font="8"> </text>
+<text top="904" left="232" width="157" height="22" font="4">E D U C A T I O N  </text>
+<text top="932" left="183" width="255" height="17" font="8">University of Information Technology </text>
+<text top="955" left="166" width="49" height="19" font="2">Course:</text>
+<text top="955" left="215" width="239" height="19" font="3"> Computer engineering (2014 – 2019) </text>
+<text top="980" left="227" width="43" height="19" font="2">Major:</text>
+<text top="980" left="270" width="123" height="19" font="3"> Embedded system </text>
+<text top="1004" left="266" width="32" height="19" font="2">GPA:</text>
+<text top="1004" left="298" width="56" height="19" font="3"> 6.96/10 </text>
+<text top="1051" left="306" width="0" height="1" font="9"> </text>
+<text top="221" left="545" width="5" height="22" font="4"> </text>
+<text top="246" left="545" width="5" height="22" font="4"> </text>
+<text top="270" left="597" width="151" height="22" font="4">O B J E C T I V E  </text>
+<text top="298" left="545" width="148" height="19" font="2">Seeking IOT internship </text>
+<text top="323" left="545" width="222" height="19" font="2">Advancing embedded programing </text>
+<text top="347" left="545" width="248" height="19" font="2">Looking for new and challenging tasks </text>
+<text top="372" left="545" width="183" height="19" font="2">Cooperating with funny and </text>
+<text top="393" left="545" width="121" height="19" font="2">perservant people </text>
+<text top="530" left="626" width="4" height="17" font="7"> </text>
+<text top="530" left="751" width="4" height="17" font="7"> </text>
+<text top="550" left="551" width="112" height="17" font="7">14520913@gm.ui</text>
+<text top="570" left="582" width="54" height="17" font="7">t.edu.vn </text>
+<text top="550" left="694" width="81" height="17" font="7">0943919412 </text>
+<text top="593" left="670" width="4" height="17" font="7"> </text>
+<text top="616" left="547" width="56" height="19" font="2">Address:</text>
+<text top="617" left="603" width="193" height="17" font="7"> QL13, Hiệp Bình Chánh, Thủ </text>
+<text top="637" left="611" width="121" height="17" font="7">Đức, Hồ Chí Minh </text>
+<text top="660" left="590" width="86" height="19" font="2">Date of birth:</text>
+<text top="661" left="676" width="78" height="17" font="7"> 28/11/1996 </text>
+<text top="685" left="626" width="48" height="19" font="2">Gender</text>
+<text top="685" left="674" width="44" height="17" font="7">: Male </text>
+<text top="758" left="624" width="97" height="22" font="4">S K I L L S  </text>
+<text top="786" left="634" width="76" height="19" font="2">Team work </text>
+<text top="810" left="582" width="180" height="19" font="2">Reading English documents </text>
+<text top="835" left="620" width="104" height="19" font="2">Communicative </text>
+<text top="882" left="594" width="156" height="22" font="4">A C T I V I T I E S  </text>
+<text top="910" left="545" width="247" height="17" font="8">Excellent volunteer of green summer </text>
+<text top="930" left="545" width="114" height="17" font="8">campaign (2015) </text>
+<text top="1011" left="671" width="0" height="1" font="9"> </text>
+<text top="1052" left="458" width="4" height="17" font="7"> </text>
+</page>
+</pdf2xml>

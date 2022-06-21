@@ -1,0 +1,71 @@
+Oct 2013  20 January 2018
+Univercity technology of education
+Major: Computer Engineering
+GPA: 6.93/10
+Academic: University
+Toeic: 460
+Core subjects: Digital, Micro-processing, Mobile application
+Development, IOT.
+Support subjects for programming: C programming, C #, C ++, data
+structure, python, java.
+Part-time
+Part-time Sales Staff
+Serve, shipper, write SEO articles
+Feb 2017  Mac 2017
+Internship
+Trainee Chấn Thiêng,Installing software, assembling laptop repair
+Apr 2017  Jun 2017
+Internship
+Trainee at VNPRO,Configure Router
+Dec 2017  May 2018
+Java Development
+DXC company, software Engineering
+Oct 2013  Agt 2014
+Spring Volunteer Group
+Volunteers  Gather gifts and distribute them to people in remote areas
+Nguyễn Triệu Liêm
+Major : Computer Engineering
+Date of birth:
+July 18, 1995
+Gender:
+Male
+Phone:
+0981722195
+Email:
+trieuliem18@gmail.com
+Address:
+10/31 street 379, District 9, TP.HCM
+Website:
+https://www.facebook.com/liem.trieu.94
+OBJECTIVE  High salary  To do the right job  To study and develop more skill   Practice the correct knowledge learned.   I pledge to contribute my best to the company
+EDUCATION
+WORK EXPERIENCE
+ACTIVITIES  Help people, enjoy the people to have a warm and happy New Year
+2017
+TOEIC Certificate with score 460
+2018
+Computer Engineering
+Language
+Communicate English
+Computer
+Microsoft Word, Microsoft Excel, Microsoft Powerpoint, Outlook, Eclipse,
+Matlab, Visual Studio.
+CERTIFICATIONS
+SKILLS
+HOBBY
+Playing game, play guitar and learn English
+ADDITIONAL INFORMATION Easy to adapt to the new working environment Enthusiastic, eager to learn, interested in others Be responsible for the work being done
+PROJECTS
+Course projects
+(2014  2017)
+Customer
+Instructor
+Description  Smart home, Smart Car, Smart Garden (Android app programming program
+connected via ESP, using ST32F4 kit, using Raspberry B+ kit)
+Team size
+2
+My position
+Developer
+My responsibilities  Development software  Check code  Write code  Optimize code  Bug Fixing
+Technologies used  Open Source  Python  Git hub  CCS  Eclipse
+© topcv.vn

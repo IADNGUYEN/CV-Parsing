@@ -1,0 +1,138 @@
+ 
+> OBJECTIVVE ----------------------------------------------------- 
+Improve domains: Automation Test and English skills 
+> EXPERIENCE ----------------------------------------------------- 
+Application: Project related to the Satellite Television domain  
+Responsibilities: 
+Reading a large of specification documents 
+Perform Manual Testing: Test case and Ad-hoc testing based on the 
+specification (SRS, Architecture documents of component/features) 
+Bug tracking: bug finding, bug reporting, reproducing and analyzing 
+posted bugs  
+Modify test cases, estimate test time 
+Writing Guidelines/Reference document for the features 
+Performed special task such as tracking change requests, set up test 
+environment for special request. 
+Technologies used in project: 
+Test tools: Testlink, Jira 
+Project’s tools: Linux, VMWare, WinSCP, FileZilla etc. 
+Achievements: 
+Improving a set of test skills, including: analyzing and debugging bugs, 
+bug finding, bug reporting, test estimation, test strategy  
+Familiar with working with developers to resolve and to clarify the posted 
+bugs. 
+Setting up special test environment and work with many device types 
+Being used to work in big teams (having more than 100 members from 
+many teams of different countries) 
+Enhancing knowledge of network domain 
+Other skills:  Known Selenium Webdriver  
+Jun 2013  2017 
+SQA Engineer 
+Global CyberSoft – A Hitachi Consulting Company 
+HUỲNH TRƯỜNG BÌNH 
+Software Quality Control 
+> ABOUT 
+Professional ethics 
+Familiar with 
+computer using and 
+programming, 
+specializing software 
+testing. 
+Acquiring training 
+and experience in 
+reality about 
+software 
+development and 
+software testing 
+process. 
+Well experienced in 
+defining and building 
+Concept of 
+Operation, SRS and 
+Vision and Scope 
+documents in 
+Requirement phase. 
+Expertizing in 
+creating test plan, 
+designing test cases 
+methodically, 
+executing test cases, 
+finding bugs, and 
+reporting bugs. 
+Having experience in 
+setting up network 
+devices and working 
+with operating 
+systems such as 
+Windows, Linux. 
+Good learning skill and 
+catching new things, 
+concepts, or 
+technologies. 
+ 485 Cong Hoa, Tan Binh  HCMC 
+ +84 1666 282 262  
+ binhtruonghuynh@gmail.com 
+binhtruonghuynh 
+Application: 
+Building a multi-function system that allows an HVAC engineer to 
+calculate and design HVAC system faster and more effective. The 
+software allows users to use other software’s output and export input for 
+AutoCAD to design equipment automatically. 
+Responsibilities: 
+Business Analyst 
+Collecting requirement, defining use cases 
+Working with team building up SRS, Concept of Operation document 
+Test leader 
+Building up test plan, test process, allocating team resource, defining 
+test cases, executing test cases and reporting test results 
+Supporter 
+Resolving problems related to development tools (working in TFS 
+environment) 
+Defining Code Standard document 
+Building up Implement Process 
+Technologies used in project: 
+C# 
+WPF 
+MS SQL Server 2005 
+MVVM pattern  
+.NET 4.0 
+Microsoft Test Manager tool 
+Achievements: 
+Improving testing skills 
+Having knowledge of domains: C#, WPF languages, Prism Pattern 
+Strong management skill and build up software process 
+Jun 2012  Dec 2012 
+Business Analyst, SQC/SQA, Technical Supporter, Programmer  
+Senior Student Capstone Project  
+Ecosystem Studio Software  Working for Dr. Le Hung Tien, Redsun Company 
+> EDUCATION 
+VAN LANG UNIVERSITY, 
+SE Program of 
+Carnegie Mellon 
+University 
+Candidate for Bachelor 
+degree of Software 
+Engineering 
+Coursework 
+Requirement 
+Engineering 
+Software 
+Architecture and 
+Design 
+Software 
+Measurement 
+and Analysis 
+Software Process 
+and Quality 
+Management 
+Software Testing 
+Object Oriented 
+Programming C++  
+Fundamental of 
+Computing 
+(Java) 
+Software Project 
+Management 
+Database 
+Network and 
+Communication 

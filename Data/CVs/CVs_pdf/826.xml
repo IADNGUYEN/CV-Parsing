@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="40" family="UTMAmbroseRegular" color="#5fbb46"/>
+	<fontspec id="1" size="17" family="HelveticaNeueRegular" color="#000000"/>
+	<fontspec id="2" size="18" family="HelveticaNeueRegular" color="#231f20"/>
+	<fontspec id="3" size="24" family="UTMAmbroseRegular" color="#5fbb46"/>
+	<fontspec id="4" size="18" family="HelveticaNeueRegular" color="#000000"/>
+	<fontspec id="5" size="17" family="HelveticaNeueItalic" color="#9b9a9a"/>
+	<fontspec id="6" size="17" family="HelveticaNeueRegular" color="#5fbb46"/>
+	<fontspec id="7" size="17" family="HelveticaNeueRegular" color="#231f20"/>
+	<fontspec id="8" size="18" family="HelveticaNeueRegular" color="#9b9a9a"/>
+<text top="27" left="578" width="311" height="51" font="0">Pham Van Hai</text>
+<text top="99" left="735" width="155" height="20" font="1">Phone: 0964782553</text>
+<text top="126" left="649" width="241" height="20" font="1">Email: phamhaibkit@gmail.com</text>
+<text top="154" left="605" width="285" height="20" font="1">Address: 11 District,Ho Chi Minh city</text>
+<text top="326" left="23" width="401" height="22" font="2">Seeking position of a Hardware Engineer where I</text>
+<text top="355" left="23" width="412" height="22" font="2">would be able to put to use the knowledge gained</text>
+<text top="384" left="23" width="403" height="22" font="2">in the hardware development cycle and technical</text>
+<text top="412" left="23" width="73" height="22" font="2">aptitude.</text>
+<text top="280" left="23" width="133" height="30" font="3">Objective</text>
+<text top="552" left="23" width="142" height="22" font="4">Hardware Design</text>
+<text top="595" left="23" width="55" height="22" font="4">C/C++</text>
+<text top="637" left="23" width="98" height="22" font="4">Verilog HDL</text>
+<text top="680" left="23" width="90" height="22" font="4">Photoshop</text>
+<text top="722" left="23" width="93" height="22" font="4">HTML/CSS</text>
+<text top="765" left="23" width="85" height="22" font="4">Javascript</text>
+<text top="808" left="23" width="49" height="22" font="4">Office</text>
+<text top="503" left="23" width="82" height="30" font="3">Skills</text>
+<text top="280" left="735" width="143" height="30" font="3">Education</text>
+<text top="324" left="476" width="171" height="22" font="4">Sep 2011 - Jan 2016</text>
+<text top="347" left="693" width="185" height="20" font="5"><i>University of technology</i></text>
+<text top="393" left="729" width="149" height="30" font="3">Experience</text>
+<text top="448" left="476" width="121" height="20" font="1">Nov 2015 - Dec</text>
+<text top="471" left="476" width="38" height="20" font="1">2015</text>
+<text top="471" left="806" width="73" height="20" font="6">members</text>
+<text top="471" left="805" width="73" height="20" font="6">members</text>
+<text top="448" left="733" width="145" height="20" font="7">Bkit hardware club</text>
+<text top="500" left="476" width="328" height="21" font="8">-Join project testbench for  Hella Viet Nam</text>
+<text top="547" left="476" width="160" height="20" font="1">Jan 2013 - Dec 2016</text>
+<text top="570" left="806" width="73" height="20" font="6">members</text>
+<text top="570" left="805" width="73" height="20" font="6">members</text>
+<text top="547" left="733" width="145" height="20" font="7">Bkit hardware club</text>
+<text top="600" left="476" width="113" height="21" font="8">-Circuit design</text>
+<text top="623" left="476" width="250" height="21" font="8">-Embedded system applications</text>
+<text top="646" left="476" width="378" height="21" font="8">-Design product automation of agricultural short-</text>
+<text top="669" left="476" width="82" height="21" font="8">day crops </text>
+<text top="716" left="744" width="135" height="30" font="3">Activities</text>
+<text top="771" left="476" width="152" height="20" font="1">Jun 2014 - Jul 2014</text>
+<text top="771" left="648" width="231" height="20" font="7">University sports associations</text>
+<text top="793" left="476" width="5" height="21" font="8">.</text>
+<text top="840" left="476" width="121" height="20" font="1">Sep 2012 - Sep</text>
+<text top="863" left="476" width="38" height="20" font="1">2012</text>
+<text top="863" left="693" width="186" height="20" font="6">University of technology</text>
+<text top="863" left="692" width="186" height="20" font="6">University of technology</text>
+<text top="840" left="760" width="118" height="20" font="7">Blood donation</text>
+<text top="885" left="476" width="341" height="21" font="8">Devote a small part of themselves to society</text>
+<text top="932" left="476" width="161" height="20" font="1">Aug 2013 - Oct 2013</text>
+<text top="932" left="709" width="169" height="20" font="7">University Candidates</text>
+<text top="955" left="723" width="155" height="20" font="7">Assistance Program</text>
+<text top="955" left="476" width="5" height="21" font="8">.</text>
+<text top="324" left="730" width="148" height="20" font="1">Hardware Engineer</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,121 @@
+2012  2015
+Ly Tu Trong Technical College
+05/2016  05/2019
+Itvina
+PHP Developer
+Web development with Zend Framework: dungcuve.vn, seamedia.vn
+... 
+Web development with Laravel Framework: izifix.vn. 
+Web development with HTML + Bootstrap 3, CSS, Javascript/Jquery 
+Database: MySQL
+03/2016  04/2016
+Trieu Tin
+PHP Developer
+Web development with HTML + Bootstrap 3, CSS, Javascript/Jquery 
+Database: MySQL.
+Vo Hoang Phuc
+PHP Developer
+Date of birth:
+22/12/1993
+Gender:
+Male
+Phone:
+0365888989
+Email:
+phucvo1293@gmail.com
+Address:
+15 Tan Son Hoa, phuong 2, Tan Binh, Ho Chi Minh City
+OBJECTIVE
+2+ years of software experience. 
+Experiences in PHP, Javascript, CSS. 
+Good at MySQL.. 
+Experienced working in Trieu Tin Company and Itivna Company.
+EDUCATION
+WORK EXPERIENCE
+INTERESTS
+I like music..
+PROJECTS
+Izifix.vn
+(2016  2016)
+Customer
+Izifix.vn
+Description
+An intermediary floor between people needing to transport goods and people have
+trucks, barges.
+Team size
+2
+My position
+Developer
+My responsibilities  Development  Review code  Optimize code  Bug Fixing
+Technologies used
+Laravel 5.4, PHP 7.0, Bootstrap, Jquery, MySQL, React Native
+Dungcuve.vn
+(2016  2016)
+Customer
+Dungcuve.vn
+Description
+Carry out shopping cart functionality, product listings, purchase …
+Team size
+1
+My position
+Developer
+My responsibilities  Development  Review code  Optimize code  Bug Fixing
+Technologies used
+Zend 1, PHP 7.0, Bootstrap, Jquery, MySQL.
+Seamedia.vn
+(2016  2016)
+Customer
+Seamedia.vn
+Description
+Company with event introduction.
+Team size
+1
+My position
+Developer
+My responsibilities  Development  Review code  Optimize code  Bug Fixing
+Technologies used
+Zend 1, PHP 7.0, Bootstrap, Jquery, MySQL.
+ITVINA Teamwork
+(2016  2016)
+Customer
+ITVINA Teamwork
+Description
+Manage project tasks, notes, meetings, chat in company
+Team size
+2
+My position
+Developer
+My responsibilities  Development  Review code  Optimize code  Bug Fixing
+Technologies used
+Zend 1, PHP 7.0, Bootstrap, Jquery, MySQL, React Native, Doctrine, Firebase
+365Express’s software
+(2017  2018)
+Customer
+365Express’s software
+Description
+365Express is a freight company. Management software from staff to pick up
+goods, transport goods and deliver goods. Management of receipts / payments for
+customers and suppliers
+Team size
+4
+My position
+Developer
+My responsibilities  Development  Review code  Optimize code  Bug Fixing
+Technologies used
+Zend 1, PHP 7.2, Bootstrap, Jquery, MySQL, Doctrine, Laravel 5.4
+Smartpost software
+(2018  2019)
+Customer
+365Express’s software
+Description
+Smartpost is software for courier companies. Management software from staff to
+pick up goods, transport goods and deliver goods. Management of receipts /
+payments for customers and suppliers
+Team size
+3
+My position
+Leader
+My responsibilities  Development  Review code  Optimize code  Bug Fixing
+Technologies used
+Zend 1, PHP 7.2, Bootstrap, Jquery, MySQL, Doctrine, Laravel 5.4
+© topcv.vn

@@ -1,0 +1,170 @@
+Applicant for:
+R&D Engineer
+TMA Solutions
+8 December 2017
+Ha Giang Nguyen
+giangnhse60950@fpt.edu.vn
+What skills, work projects or achievements make you a strong candidate for this
+position?
+I have participated in the project of FPT Software and customer is Hitachi Healthcare
+Top Jobs for IT People
+"My #1 job is to hire A+ players."  Steve Jobs
+itviec.com
+08 6681 1397
+itviec@itviec.com
+CURRICULUM VIATE 
+PERSONAL INFORMATION 
+Full name  
+: Nguyen Ha Giang 
+Day of Birth   
+: Feb 04 1992 
+Gender 
+: Male 
+Address  
+: Cao Lanh Provincial City, Dong Thap Province 
+E-mail  
+: Giangnhse60950@fpt.edu.vn 
+Phone number  
+: 0915 501 492 
+Position 
+Position applied  
+: Developer 
+Strong skills  
+Programming languages/Roles 
+Rank (1:beginning  5: expert) 
+Months/ Years of experience 
+ Java 
+1 
+2 
+3 
+4 
+5 
+3 
+Month (s) 
+Year (s) 
+ .NET 
+1 
+2 
+3 
+4 
+5 
+6 
+Month (s) 
+Year (s) 
+ C/C++ 
+1 
+2 
+3 
+4 
+5 
+3 
+Month (s) 
+Year (s) 
+Others: 
+SQL server 
+1 
+2 
+3 
+4 
+5 
+6 
+Month (s) 
+Year (s) 
+Foreign languages 
+Rank (1:beginning  5: expert) 
+Notes 
+Last Used 
+ English 
+1 
+2 
+3 
+4 
+5 
+2017 
+ Japanese 
+N5 
+N4 
+N3 
+N2 
+N1 
+Others: 
+OBJECTIVE 
+Improve programming skills  
+Be exchanged learning with experts in the field of technology.  
+Learning and gaining more valuable experience  
+EDUCATION 
+University  
+: 
+FPT University 
+Major  
+: 
+Software Engineer 
+Graduation month & year  
+: 
+June 2018 
+Marks/ GPA  
+: 
+6.0/10 
+EXPERIENCE 
+ At university  
+ At company 
+Project’s name  
+Course management 
+Customer’s name  
+FPT University teachers 
+Starting date  
+May 2016 
+Finishing date: June 2016 
+Team size 
+1 
+Your role : Developer 
+Project descriptions  
+Develop an application that allows teachers to sign up for classes, and students can 
+choose classes to learn. 
+Your responsibility & 
+achievements  
+Create database, create a database connection, design the theme, create function…. 
+Technologies Used 
+SQL server 2008, C# (Visual studio 2010), C++… 
+ At university  
+ At company 
+Project’s name  
+Point management 
+Customer’s name  
+FPT University teachers 
+Starting date  
+July 2016 
+Finishing date: August  2016 
+Team size 
+3 
+Your role : Developer 
+Project descriptions  
+Manage student scores, search and report results. 
+Your responsibility & 
+achievements  
+Idea, create database, create functions, connect database, design login interface… 
+Technologies Used 
+C# (Visual studio 2010), SQL server 2008, C++… 
+ At university  
+ At company (FPT Software) 
+Project’s name  
+MR_IMGX(DTLZ15MRI) 
+Customer’s name  
+Hitachi Healthcare 
+Starting date  
+Sep  2017 
+Finishing date: Present 
+Team size 
+12 
+Your role : Developer 
+Project descriptions  
+Fix bugs MRI system, MRI UI, design and create document as customer suggested…  
+Your responsibility & 
+achievements  
+Fix bugs, create change specification (CS), POV, ITC, UTC, ITR… 
+Technologies Used 
+C# (Visual studio 2015), SQL server 2014… 
+INTERESTS 
+Strategy game, RPG game,… 
+Comic, manga… 
+Music 

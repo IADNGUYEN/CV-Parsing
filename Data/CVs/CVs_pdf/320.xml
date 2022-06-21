@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="ABCDEE+Candara,Bold" color="#000000"/>
+	<fontspec id="1" size="16" family="ABCDEE+Candara" color="#000000"/>
+	<fontspec id="2" size="23" family="ABCDEE+Candara,Bold" color="#3d79a1"/>
+	<fontspec id="3" size="18" family="Symbol" color="#000000"/>
+	<fontspec id="4" size="18" family="Arial" color="#000000"/>
+	<fontspec id="5" size="18" family="ABCDEE+Candara" color="#000000"/>
+	<fontspec id="6" size="18" family="ABCDEE+Candara,Bold" color="#000000"/>
+	<fontspec id="7" size="21" family="ABCDEE+Candara" color="#000000"/>
+	<fontspec id="8" size="32" family="ABCDEE+Candara,Bold" color="#000000"/>
+	<fontspec id="9" size="21" family="ABCDEE+Candara,Bold" color="#7e7e7e"/>
+	<fontspec id="10" size="16" family="ABCDEE+Cambria" color="#7e7e7e"/>
+<text top="57" left="54" width="4" height="17" font="0"><b> </b></text>
+<text top="84" left="54" width="4" height="17" font="1"> </text>
+<text top="110" left="54" width="4" height="17" font="1"> </text>
+<text top="136" left="54" width="4" height="17" font="1"> </text>
+<text top="162" left="54" width="4" height="17" font="1"> </text>
+<text top="188" left="54" width="4" height="17" font="1"> </text>
+<text top="214" left="54" width="4" height="17" font="1"> </text>
+<text top="241" left="54" width="4" height="17" font="1"> </text>
+<text top="267" left="54" width="4" height="17" font="1"> </text>
+<text top="309" left="46" width="104" height="24" font="2"><b>Summary </b></text>
+<text top="303" left="243" width="8" height="22" font="3"></text>
+<text top="308" left="251" width="5" height="17" font="4"> </text>
+<text top="308" left="270" width="577" height="18" font="5">3+ years’ experience in software development includes Analysis, Design and </text>
+<text top="330" left="270" width="316" height="18" font="5">Development of Web-based applications. </text>
+<text top="348" left="243" width="8" height="22" font="3"></text>
+<text top="353" left="251" width="5" height="17" font="4"> </text>
+<text top="353" left="270" width="456" height="18" font="5">Expertise in Object Oriented Programming (OOP) concepts. </text>
+<text top="371" left="243" width="8" height="22" font="3"></text>
+<text top="376" left="251" width="5" height="17" font="4"> </text>
+<text top="376" left="270" width="537" height="18" font="5">Experience in implementing applications using Spring, Struts and ORM </text>
+<text top="398" left="270" width="100" height="18" font="5">frameworks. </text>
+<text top="448" left="46" width="59" height="24" font="2"><b>Skills </b></text>
+<text top="442" left="243" width="8" height="22" font="3"></text>
+<text top="447" left="251" width="5" height="17" font="4"> </text>
+<text top="447" left="270" width="194" height="18" font="6"><b>Programming Languages</b></text>
+<text top="447" left="464" width="103" height="18" font="5">: Java, C, SQL </text>
+<text top="465" left="243" width="8" height="22" font="3"></text>
+<text top="470" left="251" width="5" height="17" font="4"> </text>
+<text top="470" left="270" width="189" height="18" font="6"><b>Java/J2EE Technolohgies</b></text>
+<text top="470" left="460" width="142" height="18" font="5">: servlets, jsp, jdbc </text>
+<text top="488" left="243" width="8" height="22" font="3"></text>
+<text top="493" left="251" width="5" height="17" font="4"> </text>
+<text top="493" left="270" width="135" height="18" font="6"><b>J2EE Frameworks</b></text>
+<text top="493" left="406" width="360" height="18" font="5">: Apache Struts, Spring, Hibernate, Junit, Log4J </text>
+<text top="511" left="243" width="8" height="22" font="3"></text>
+<text top="516" left="251" width="5" height="17" font="4"> </text>
+<text top="516" left="270" width="146" height="18" font="6"><b>Web  Technologies</b></text>
+<text top="516" left="416" width="456" height="18" font="5">: XML, XSL, XSLT, CSS, Java Script, HTML, Ajax, Websockets, </text>
+<text top="538" left="270" width="104" height="18" font="5">Web services </text>
+<text top="556" left="243" width="8" height="22" font="3"></text>
+<text top="561" left="251" width="5" height="17" font="4"> </text>
+<text top="561" left="270" width="151" height="18" font="6"><b>Application Servers</b></text>
+<text top="561" left="421" width="251" height="18" font="5">: Tomcat, WebSphere, WebLogic </text>
+<text top="579" left="243" width="8" height="22" font="3"></text>
+<text top="584" left="251" width="5" height="17" font="4"> </text>
+<text top="584" left="270" width="71" height="18" font="6"><b>Database</b></text>
+<text top="584" left="341" width="294" height="18" font="5">: MySQL, Oracle, Microsoft SQL Server </text>
+<text top="602" left="243" width="8" height="22" font="3"></text>
+<text top="607" left="251" width="5" height="17" font="4"> </text>
+<text top="607" left="270" width="26" height="18" font="6"><b>IDE</b></text>
+<text top="607" left="296" width="325" height="18" font="5">: Eclipse, Netbeans, RAD, Spring Tool Suite </text>
+<text top="625" left="243" width="8" height="22" font="3"></text>
+<text top="630" left="251" width="5" height="17" font="4"> </text>
+<text top="630" left="270" width="115" height="18" font="6"><b>Source Control</b></text>
+<text top="630" left="386" width="164" height="18" font="5">: CVS, Subversion, Git </text>
+<text top="648" left="243" width="8" height="22" font="3"></text>
+<text top="653" left="251" width="5" height="17" font="4"> </text>
+<text top="653" left="270" width="117" height="18" font="6"><b>Methodologies</b></text>
+<text top="653" left="387" width="129" height="18" font="5">: Waterfall, Agile </text>
+<text top="703" left="46" width="120" height="24" font="2"><b>Experience </b></text>
+<text top="702" left="243" width="445" height="21" font="7">FPT TECHNOLOGY SOLUTIONS - Hanoi, Vietnam </text>
+<text top="702" left="730" width="146" height="21" font="7">11/2013 - Present </text>
+<text top="733" left="243" width="353" height="18" font="6"><b>Invoice Certification System (ICS), 2013 – now </b></text>
+<text top="757" left="270" width="8" height="22" font="3"></text>
+<text top="762" left="278" width="5" height="17" font="4"> </text>
+<text top="762" left="297" width="530" height="18" font="5">Provide a public online services for e-invoice creation and verification. </text>
+<text top="786" left="270" width="8" height="22" font="3"></text>
+<text top="791" left="278" width="5" height="17" font="4"> </text>
+<text top="791" left="297" width="572" height="18" font="5">Provide a national centralize e-invoice database for management and cross-</text>
+<text top="813" left="297" width="134" height="18" font="5">checking by GDT. </text>
+<text top="837" left="270" width="8" height="22" font="3"></text>
+<text top="842" left="278" width="5" height="17" font="4"> </text>
+<text top="842" left="297" width="437" height="18" font="5">Provide a solution to authenticate Vietnamese e-invoices. </text>
+<text top="865" left="270" width="8" height="22" font="3"></text>
+<text top="871" left="278" width="5" height="17" font="4"> </text>
+<text top="870" left="297" width="547" height="18" font="5">Allow government, companies, and individual to check the validity of an </text>
+<text top="893" left="297" width="62" height="18" font="5">invoice. </text>
+<text top="921" left="243" width="307" height="21" font="7">FPT SOFTWARE – Hanoi, Vietnam </text>
+<text top="921" left="728" width="149" height="21" font="7">12/2011 – 03/2013 </text>
+<text top="952" left="243" width="172" height="18" font="6"><b>NSK, 09/2011 – 09/2013 </b></text>
+<text top="976" left="270" width="8" height="22" font="3"></text>
+<text top="981" left="278" width="5" height="17" font="4"> </text>
+<text top="981" left="297" width="334" height="18" font="5">Develop an ERP system for an UK customer.</text>
+<text top="981" left="631" width="4" height="18" font="6"><b> </b></text>
+<text top="1005" left="270" width="8" height="22" font="3"></text>
+<text top="1010" left="278" width="5" height="17" font="4"> </text>
+<text top="1010" left="297" width="561" height="18" font="5">Standardize the Basic Supply Chain Management (SCM) business process, </text>
+<text top="1032" left="297" width="535" height="18" font="5">such as Finance, Invoice, Sales Order, Purchase order, Shipping, Stock, </text>
+<text top="1054" left="297" width="119" height="18" font="5">Forecast, etc… </text>
+<text top="1078" left="270" width="8" height="22" font="3"></text>
+<text top="1083" left="278" width="5" height="17" font="4"> </text>
+<text top="1083" left="297" width="566" height="18" font="5">Consolidate Production, Sales, and Inventory related information for cross-</text>
+<text top="1105" left="297" width="432" height="18" font="5">regional visualization and real-time data communication. </text>
+<text top="94" left="266" width="256" height="33" font="8"><b>Duong Viet Trung </b></text>
+<text top="138" left="266" width="98" height="21" font="9"><b>Developer </b></text>
+<text top="186" left="266" width="112" height="19" font="10">Hanoi, Vietnam </text>
+<text top="209" left="266" width="322" height="19" font="10">dg.viettrung@gmail.com - (84) 167 760 6899 </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="16" family="ABCDEE+Candara,Bold" color="#808080"/>
+	<fontspec id="12" size="21" family="ABCDEE+Candara,Bold" color="#000000"/>
+	<fontspec id="13" size="21" family="Symbol" color="#000000"/>
+	<fontspec id="14" size="21" family="Arial" color="#000000"/>
+<text top="57" left="54" width="96" height="17" font="0"><b>Trung Duong </b></text>
+<text top="57" left="792" width="48" height="17" font="11"><b>P a g e</b></text>
+<text top="57" left="845" width="23" height="17" font="0"><b> | 2 </b></text>
+<text top="78" left="54" width="4" height="17" font="0"><b> </b></text>
+<text top="114" left="46" width="108" height="24" font="2"><b>Education </b></text>
+<text top="113" left="243" width="315" height="21" font="7">FPT UNIVERSITY – Hanoi, Vietnam </text>
+<text top="113" left="778" width="99" height="21" font="7">2014 - 2016 </text>
+<text top="145" left="243" width="357" height="21" font="12"><b>Master’s degree, Software Engineering </b></text>
+<text top="176" left="243" width="5" height="21" font="7"> </text>
+<text top="208" left="243" width="315" height="21" font="7">FPT UNIVERSITY – Hanoi, Vietnam </text>
+<text top="208" left="775" width="102" height="21" font="7">2009 - 2013 </text>
+<text top="239" left="243" width="373" height="21" font="12"><b>Bachelor’s degree, Software Engineering </b></text>
+<text top="292" left="46" width="115" height="24" font="2"><b>Languages </b></text>
+<text top="281" left="243" width="10" height="26" font="13"></text>
+<text top="287" left="253" width="6" height="19" font="14"> </text>
+<text top="287" left="270" width="108" height="21" font="7">Vietnamese </text>
+<text top="313" left="243" width="10" height="26" font="13"></text>
+<text top="320" left="253" width="6" height="19" font="14"> </text>
+<text top="319" left="270" width="63" height="21" font="7">English</text>
+<text top="319" left="333" width="5" height="21" font="12"><b> </b></text>
+<text top="370" left="54" width="4" height="17" font="1"> </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,85 @@
+TRAN VIET HUNG
+Software Engineering
+ 12/02/1994
+ Nam
+ 0938107570
+ hungtvse61314@gmail.com
+ 39 Chu Thien, Hiep Tan ward, Tan
+Phu district, HCMC
+ https://www.facebook.com/mrhu
+ngtv
+OBJECTIVE
+Ruby on rails developer, front-end
+developer
+SKILLS
+English
+Japanese
+Team Work
+Comunication
+Scheduling the work
+Computer (MS Office)
+Logical thinking and creative
+INTERESTS
+Football
+Music
+Traveling
+Comunicate with foreigner
+TRAN QUANG KHAI HIGH SCHOOL
+09/2009  05/2012
+FPT UNIVERSITY
+2013  NOW
+PRACTICE REAL WORK AND JOINED IN FRESHER TRAINING
+PROGRAM OF FPT SOFTWARE HO CHI MINH
+05/2016  09/2016
+FPT SOFTWARE
+05/2016  09/2016
+SELF-EMPLOYEE
+04/2017  09/2017
+
+EDUCATION
+High school 's Degree
+Major: Software Engineering
+Job: Java Developer
+Fresher Java certificate
+480-hour-training certificate
+
+TECHNICAL SKILLS
+Experience and knowledge:  Ruby, Ruby on rails framework  Java (Web application)
+Knowledge about: HTML, CSS, Javascript and JQuery
+Have a knowledge with Relational database design and implement using PostgreSQL, MySQL
+Have a experience using: RubyMine, Atom, Git with Github 
+Netbeans IDE, Eclipse, SQL Server
+Linux/MacOS
+Have an experience and knowledge in Agile/ Scrum methodology
+
+WORK EXPERIENCE
+Position: Internship  Join to internal project of company for coding, maintain and develop as a java developer.  Join to reality project Deutsche Bank for testing as a tester.
+Position: Ruby on rails Developer
+Develop a marketplace web application (Photographer Finding and Booking System) Working in group ( 4 developer ) Working follow to Agile/Scrum methodology
+* Main responsibilities  Product owner  Coding (Client and Server side)  Testing (Rspec, Cucumber acceptance test)  UI/UX  Write and clarify document (Test case, database and sequence diagram...)
+* Achievement and skill gained  Improved more coding and testing skills, and knew more technology  Improved Soft skill such as Team work (especially pair-programing) and Presentation
+FPT FOOTBALL CLUB
+2013  2017
+FPT MUSIC CLUB
+2013  2017
+Achieve Start-Up certificate of FPT University
+Achieve Java Fresher certificate of FPT Software Ho Chi Minh
+480 hour training Java certificate
+2016
+Mr Hoang Nhac Trung
+Lecturer in FPT University
+Email: trung,hoangnhac@gmail.com
+
+ACTIVITIES
+Member
+As a member in FPT University football team had a lot of friendly match vs many school and
+company.
+Achieved champions in FPT University league and QuangTrung software city league.
+Member
+As a member of FPT Music Club was participated a lot of show in university and acoustic
+coffee.
+Volunteer and participate a lot of program and event to help poor children.
+
+CERTIFICATIONS
+
+REFERENCES

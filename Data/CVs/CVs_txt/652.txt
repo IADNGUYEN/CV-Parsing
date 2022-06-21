@@ -1,0 +1,74 @@
+Tran Thi My Huyen
+SOFTWARE DEVELOPER
+I am a fast learner person, highly motivated
+and able to work under pressure. I am always
+willing to learn new skills in order to enhance
+my abilities. Hopeful for the position of
+Software Developer to apply 3 + years of
+experience in developing designs, test, and
+code; debugging programs to real problems,
+and adding value to the business.  Ability to quickly learn new technologies.  Have worked with big projects under high
+pressure and tight deadline.  Skilled in independent work & teamwork
+Contact information
+Date of birth
+Aug 27, 1994
+Gender
+Female
+Phone
+0909 835 690
+Email
+Tranthimyhuyen1994@gm
+ail.com
+Address
+239/35 Khuong Viet St
+Tan Phu Dist, HCM city
+Objective
+Technical Skills:  Have 3 years experience in Software
+Development  Programming Languages: VB 6.0/VB.NET  Using VS, SQL Developer, Crystal report  Knowledge about Java, C, C++, C#  Web technologies: HTML/CSS  Design test cases.  Japanese: immediate
+Soft Skills:
+Education
+HO CHI MINH UNIVERSITY OF NATURAL SCIENCES
+Major: Programming languages: C, C++, C#, Java, HTML,
+Databases: SQL Server, Oracle. Network Management.
+Sep 2012  Nov 2015
+JAPANESE DONG DU CENTER
+Write  Read  Speak  Listen skills
+Sep 2017  Present
+Work experience
+FUJINET SYSTEM JSC
+Software Developer
+Main responsibilities:  Programming Languages: VB.NET, C#, C++, HTML, CSS  Database Management Systems: Oracle PL/SQL  Version control: SVN, Git  Analytics and reporting: Crystal report 
+Oct 2015  Present
+Assignments:
+Super Cocktail
+A Sale Management software including keep and track the item
+and manage staff and customer, view the revenue by report
+Environment: 
+Super Cocktail, VS 2010, Oracle Database 11, Crystal report 11.
+Main Responsibilities: 
+Programming a Regester/Update/Delete Data form, code and
+design Revenue Report.
+Write test cases, create evidence.
+Achievements and skills gained: 
+Using Crystal report 11, 
+Have knowledge about Sale Management business.
+Oct 2015  Present
+Music
+Travel
+Movie
+Certifications
+N3 NAT-TEST
+Feb 2019
+Interests:
+Musashi
+Migration of data between Oracle Database and SQL Server.
+Environment: 
+VS 2015, SQL Developer, SQL Server Migration Assistant.
+Main Responsibilities: 
+Convert database from Oracle Database to SQL Server 
+Write test cases, create evidence.
+Achievements and skills gained: 
+How to use the SQL Server Migration tool.
+Have knowledge about SQL Database.
+Jul 2017  Oct 2017
+© topcv.vn

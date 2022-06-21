@@ -1,0 +1,81 @@
+Ngo Thai Ngoc CV  Confidential 
+1 
+CURRICULUM VITAE 
+PERSONAL DETAILS 
+Name:  
+Ngo Thai Ngoc 
+Nationality :   
+Cam Son commune,  
+Mo Cay Nam district, Ben Tre province, Vietnamese 
+Date of Birth  : 
+March, 15th 1993 
+Sex :  
+Male 
+Marital status : 
+Single 
+Phone No :  
+0987096206 
+Email : 
+magicianngoc@gmail.com 
+EDUCATIONAL BACKGROUND 
+University of Information Technology  
+Faculty of Computer Engineering 
+AWARD 
+Complete contest AMO 2015 be certified 
+PROFESSIONAL SUMMARY 
+Cooperative and able to perform within a team-oriented atmosphere 
+Medium English communication 
+SOFTWARE 
+Databases etc: My SQL 
+Programming Languages: C#, JavaScript , C, C++  
+Programming Tools: Visual Studio 2013, Android Studio, Keil uVison, Proteus, 
+Quartus, Code version, Qt. 
+HARDWARE 
+Atmel AVR, 8051 
+OPERATING SYSTEMS 
+Windows, Ubuntu, lunix 
+Ngo Thai Ngoc CV  Confidential 
+2 
+PROFESSIONAL EXPERIENCE 
+2014/09 – Until now 
+2014/09 – 2015/02 
+Developer 
+Project: Led the music circuit run by at16 
+Project Description:  
+Make music circuit frequency analysis 
+Read and write chip AT 16 to create the effect led to the music 
+Team size: 3 people 
+Responsibilities: 
+Analyze requirements and data processing identified 
+Database design and testing 
+Coding and unit testing 
+2015/02 – 2015/06 
+Developer  
+Project:  LED matrix control 
+Project Description:  
+Communication matrix led with a computer by com port 
+Create matrix effects led by AT 16 
+Responsibilities: 
+Analyze the requirement 
+Design database and Prototype 
+Coding and unit testing 
+Team size: 3 people 
+Ngo Thai Ngoc CV  Confidential 
+3 
+2015/07 – 2016/01 intership in FPT software 
+2015/07 – 2015/09 
+Tester in Fpt software 
+2015/09-2016/01 
+Developer in Fpt software 
+Project:  Tool design component  
+Project Description:  
+Build tool design component by Qt using C++ 
+tool to communicate with the hardware in I2C 
+Responsibilities: 
+Design tool 
+Buil function tool 
+Test and fix bug 
+Hobby: 
+Traveling 
+Swimming 
+Fitness 

@@ -1,0 +1,62 @@
+Chế Viết Hải 
+AI Internship 
+Date of birth: 
+08/11/1997 
+Gender: 
+Male 
+Phone: 
+0905858162 
+Email: 
+cheviethai123@gmail.com 
+Address: 
+KTX khu B, dhqg Ho Chi Minh, Thu 
+Duc. 
+Website: 
+https://www.facebook.com/cheviet.hai 
+CAREER OBJECTIVE 
+Energetic and passionate college student working towards Data science and Data warehouse. 
+Aiming to use my knowledge to build a reliable software infrastructure that enables computation 
+over large datasets. Be able to apply knowledge of Machine Learning and/or Statistics into 
+software. 
+EDUCATION 
+2015 2019 
+University of Information Technology 
+o Major: Computer Science 
+o GPA until now: 3.04 
+PROJECTS 
+CREATE AN AI GAME 
+(10/2016  12/2016) 
+Reversi is a strategy board game for two players, played on an 8×8 
+Description 
+uncheckered board. The project was intent on building an AI player that 
+plays with user. 
+Team size 
+4 people. 
+My position 
+Developer.  Apply the min-max algorithm to find the best strategy. 
+My responsibilities  Build a data structure to store strategy and movement of disks.  Optimize code.  Review code. 
+Technologies used  C#. 
+CERTIFICATIONS 
+2017 
+Machine Learning A-Z™: Hands-On Python & R In Data 
+Science. 
+2017 
+The Ultimate Hands-On Hadoop  Tame your Big Data. 
+ADDITIONAL INFORMATION 
+Familiar with Numpy, Pandas, Matplotlib and have experience with other machine 
+learning libraries in Python such as Xgboost, Kerar, Tensorflow ...
+
+In the same knowledge with similar packages in R.
+Currently learning about datamining with spark.
+Able to work with Ubuntu environment. 
+
+Ability to work under high pressure.
+SKILL 
+Programming language 
+Intermediate C++ and more advance in Python, Beginner R. 
+Language 
+English, Basic Japanese. 
+Communication 
+Once worked in a Western restaurant as a part-time job, 
+therefore familiar with working as a team and communicate 
+with the customer. 

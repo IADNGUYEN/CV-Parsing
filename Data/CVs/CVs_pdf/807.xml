@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="9" family="FontAwesomeRegular" color="#3ebe1e"/>
+	<fontspec id="1" size="14" family="ArialItalic" color="#ffffff"/>
+	<fontspec id="2" size="33" family="ArialBold" color="#a6a7a8"/>
+	<fontspec id="3" size="33" family="ArialBold" color="#ffffff"/>
+	<fontspec id="4" size="17" family="ArialItalic" color="#ffffff"/>
+	<fontspec id="5" size="14" family="ArialRegular" color="#ffffff"/>
+	<fontspec id="6" size="18" family="ArialBold" color="#ffffff"/>
+	<fontspec id="7" size="16" family="FontAwesomeRegular" color="#ffffff"/>
+	<fontspec id="8" size="15" family="ArialRegular" color="#26a307"/>
+	<fontspec id="9" size="17" family="ArialBold" color="#26a307"/>
+	<fontspec id="10" size="14" family="ArialRegular" color="#26a307"/>
+	<fontspec id="11" size="16" family="ArialRegular" color="#000000"/>
+<text top="374" left="20" width="8" height="9" font="0"></text>
+<text top="406" left="21" width="7" height="9" font="0"></text>
+<text top="439" left="21" width="7" height="9" font="0"></text>
+<text top="471" left="20" width="8" height="9" font="0"></text>
+<text top="504" left="22" width="5" height="9" font="0"></text>
+<text top="720" left="265" width="29" height="12" font="1"><i>2013</i></text>
+<text top="741" left="265" width="29" height="12" font="1"><i>2011</i></text>
+<text top="44" left="32" width="249" height="28" font="2"><b>TRẦN KIM TRỌNG</b></text>
+<text top="43" left="32" width="249" height="28" font="3"><b>TRẦN KIM TRỌNG</b></text>
+<text top="78" left="109" width="96" height="28" font="2"><b>LUYẾN</b></text>
+<text top="77" left="109" width="96" height="28" font="3"><b>LUYẾN</b></text>
+<text top="127" left="112" width="90" height="14" font="4"><i>DEVELOPER</i></text>
+<text top="374" left="42" width="65" height="12" font="5">04/06/1989</text>
+<text top="407" left="42" width="26" height="12" font="5">Nam</text>
+<text top="439" left="42" width="163" height="12" font="5">0939502023 - 01687228899</text>
+<text top="471" left="42" width="172" height="12" font="5">trankimtrongluyen@gmail.com</text>
+<text top="504" left="42" width="129" height="12" font="5">Thu Duc - Ho Chi Minh</text>
+<text top="566" left="74" width="166" height="16" font="6"><b>CAREER OBJECTIVE</b></text>
+<text top="606" left="11" width="266" height="12" font="5">Learn more things when working to accumulate</text>
+<text top="628" left="11" width="249" height="12" font="5">much experience to become leader in future</text>
+<text top="679" left="89" width="136" height="16" font="6"><b>CERTIFICATIONS</b></text>
+<text top="720" left="11" width="26" height="12" font="5">SEO</text>
+<text top="741" left="11" width="148" height="12" font="5">DEGREE OF ASSOCIATE</text>
+<text top="792" left="128" width="58" height="16" font="6"><b>SKILLS</b></text>
+<text top="836" left="11" width="45" height="12" font="5">English:</text>
+<text top="890" left="11" width="62" height="12" font="5">Teamwork:</text>
+<text top="944" left="11" width="69" height="12" font="5">CodeIgniter:</text>
+<text top="998" left="11" width="46" height="12" font="5">Laravel:</text>
+<text top="1052" left="11" width="66" height="12" font="5">Wordpress:</text>
+<text top="1106" left="11" width="38" height="12" font="5">MySql:</text>
+<text top="1160" left="11" width="70" height="12" font="5">SQL Server:</text>
+<text top="1214" left="11" width="37" height="12" font="5">HTML:</text>
+<text top="51" left="320" width="16" height="16" font="7"></text>
+<text top="53" left="337" width="279" height="16" font="6"><b>  E X P E R I E N C E   R E C O R D</b></text>
+<text top="94" left="758" width="106" height="13" font="8">09/2017 - 08/2018</text>
+<text top="92" left="325" width="166" height="14" font="9"><b>ARIS VIETNAM Co., LTD</b></text>
+<text top="123" left="320" width="58" height="12" font="10">Developer</text>
+<text top="145" left="329" width="124" height="12" font="10">- Analytic requirement</text>
+<text top="166" left="329" width="104" height="12" font="10">- Product planning</text>
+<text top="188" left="329" width="122" height="12" font="10">- Full stack developer</text>
+<text top="209" left="329" width="211" height="12" font="10">- Fix bug: art.aris-vn.com (Cake PHP)</text>
+<text top="231" left="329" width="219" height="12" font="10">- Fix bug aris-vn.com, API (Wordpress)</text>
+<text top="253" left="329" width="428" height="12" font="10">- Develop new module for HR on Zend Framework (open source Sentrifugo)</text>
+<text top="274" left="329" width="177" height="12" font="10">- Report: daily, weekly, monthly</text>
+<text top="296" left="329" width="142" height="12" font="10">- Learn Laravel, ReactJS</text>
+<text top="317" left="329" width="170" height="12" font="10">- Other request from manager</text>
+<text top="361" left="758" width="106" height="13" font="8">06/2016 - 09/2017</text>
+<text top="360" left="325" width="213" height="14" font="9"><b>3DRAMS Joint Stock Company</b></text>
+<text top="390" left="320" width="110" height="12" font="10">Developer - Leader</text>
+<text top="412" left="329" width="269" height="12" font="10">- Planning for website ecommerce: 3drams.com</text>
+<text top="434" left="329" width="176" height="12" font="10">- Join to develop and supports </text>
+<text top="455" left="329" width="134" height="12" font="10">- Planning Point system</text>
+<text top="477" left="329" width="228" height="12" font="10">- Build and manage team for 4 members</text>
+<text top="498" left="329" width="186" height="12" font="10">- Writing document for developer</text>
+<text top="520" left="329" width="124" height="12" font="10">- Analytic requirement</text>
+<text top="542" left="329" width="195" height="12" font="10">- Meeting, Report: weekly, monthly</text>
+<text top="563" left="329" width="107" height="12" font="10">- Processing tester</text>
+<text top="628" left="758" width="106" height="13" font="8">01/2016 - 05/2016</text>
+<text top="606" left="325" width="437" height="14" font="9"><b>Mai Han Manufacturing - Trading - Service Joint Stock Company</b></text>
+<text top="636" left="320" width="90" height="12" font="10">SEOer - Leader</text>
+<text top="658" left="329" width="246" height="12" font="10">- Make plans for SEO projects, link systems</text>
+<text top="679" left="329" width="148" height="12" font="10">- Report key word position</text>
+<text top="701" left="329" width="164" height="12" font="10">- Manage team for 3 member</text>
+<text top="723" left="329" width="193" height="12" font="10">- Support code website maihan.vn</text>
+<text top="744" left="329" width="196" height="12" font="10">- Develop satellite website for SEO</text>
+<text top="766" left="329" width="115" height="12" font="10">- Analytics keywords</text>
+<text top="831" left="758" width="106" height="13" font="8">01/2015 - 12/2015</text>
+<text top="808" left="325" width="521" height="14" font="9"><b>ASIA Accounting Software Investment &amp; Development Joint Stock Company</b></text>
+<text top="839" left="320" width="62" height="12" font="10">Deloy Staff</text>
+<text top="860" left="329" width="176" height="12" font="10">- Learning accountant software</text>
+<text top="882" left="329" width="189" height="12" font="10">- Making planning for deployment</text>
+<text top="903" left="329" width="277" height="12" font="10">- Setup environment, install software and training</text>
+<text top="925" left="329" width="479" height="12" font="10">- Discussing, analytics and development customer requests: module, function, report</text>
+<text top="947" left="329" width="185" height="12" font="10">- Daily report and monthly report</text>
+<text top="968" left="329" width="80" height="12" font="10">- Test request</text>
+<text top="990" left="329" width="300" height="12" font="10">- Develop tools: VB.NET, Crystal Report, SQL Server</text>
+<text top="1033" left="758" width="106" height="13" font="8">03/2013 - 12/2014</text>
+<text top="1032" left="325" width="251" height="14" font="9"><b>PORTLOGICS Joins Stock Company</b></text>
+<text top="1063" left="320" width="62" height="12" font="10">Deloy Staff</text>
+<text top="1084" left="329" width="185" height="12" font="10">- Learning Port logistics software</text>
+<text top="1106" left="329" width="189" height="12" font="10">- Making planning for deployment</text>
+<text top="1128" left="329" width="277" height="12" font="10">- Setup environment, install software and training</text>
+<text top="1149" left="329" width="479" height="12" font="10">- Discussing, analytics and development customer requests: module, function, report</text>
+<text top="1171" left="329" width="185" height="12" font="10">- Daily report and monthly report</text>
+<text top="1192" left="329" width="80" height="12" font="10">- Test request</text>
+<text top="1214" left="329" width="348" height="12" font="10">- Develop tools: VB.NET, Crystal Report, SQL Server, Oracle.</text>
+<text top="1236" left="329" width="213" height="12" font="10">- Projects Dinh Vu Port, Da Nang Port</text>
+<text top="1266" left="873" width="20" height="14" font="11">1/2</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="5" left="11" width="58" height="12" font="5">Bootstrap:</text>
+<text top="59" left="11" width="68" height="12" font="5">CSS, CSS3:</text>
+<text top="5" left="758" width="106" height="13" font="8">02/2011 - 12/2012</text>
+<text top="4" left="325" width="141" height="14" font="9"><b>Hong Chau Co., LTD</b></text>
+<text top="35" left="320" width="214" height="12" font="10">Administrative Staff / Website develop</text>
+<text top="56" left="329" width="533" height="12" font="10">- Assist Project Manager in arranging meetings with Client, contractors and design consultants</text>
+<text top="78" left="329" width="297" height="12" font="10">(including structural, M&amp;E, and architectural design).</text>
+<text top="100" left="329" width="490" height="12" font="10">- Attend the meetings with Project Manager (PM) and other supervisors, takes notes of</text>
+<text top="121" left="329" width="254" height="12" font="10">meeting minutes, and deliver to all attendees</text>
+<text top="143" left="329" width="522" height="12" font="10">- Receive and deliver (by courier) all drawings, correspondence from &amp; to Client, contractors</text>
+<text top="164" left="329" width="132" height="12" font="10">and design consultants</text>
+<text top="186" left="329" width="482" height="12" font="10">- Assist Office Manager with preparing proposal, pre-feasibility &amp; feasibility study, and</text>
+<text top="208" left="329" width="218" height="12" font="10">capability statement to submit to Client</text>
+<text top="229" left="329" width="501" height="12" font="10">- Translate all documents including technical specification, tender documents and others</text>
+<text top="251" left="329" width="105" height="12" font="10">relating to projects</text>
+<text top="272" left="329" width="505" height="12" font="10">- Assist PM in liaising with Client, consultants in case of any queries arising from on-going</text>
+<text top="294" left="329" width="45" height="12" font="10">projects</text>
+<text top="316" left="329" width="312" height="12" font="10">- File all documents relating to the undertaking projects</text>
+<text top="337" left="329" width="430" height="12" font="10">- Support Client with preparing and issuing tender documents to contractors</text>
+<text top="359" left="329" width="354" height="12" font="10">- Administrator and develop website PHP HTML, MySQL (40%)</text>
+<text top="433" left="320" width="13" height="16" font="7"></text>
+<text top="434" left="333" width="146" height="16" font="6"><b>  W E A K N E S S</b></text>
+<text top="476" left="329" width="130" height="12" font="10">- Not yet focus thinking</text>
+<text top="497" left="329" width="52" height="12" font="10">- Straight</text>
+<text top="519" left="329" width="89" height="12" font="10">- Bad-tempered</text>
+<text top="541" left="329" width="60" height="12" font="10">- Stubborn</text>
+<text top="562" left="329" width="60" height="12" font="10">- Reckless</text>
+<text top="636" left="320" width="15" height="16" font="7"></text>
+<text top="638" left="336" width="120" height="16" font="6"><b>  H O B B I E S</b></text>
+<text top="679" left="329" width="56" height="12" font="10">- Reading</text>
+<text top="701" left="329" width="44" height="12" font="10">- Travel</text>
+<text top="723" left="329" width="54" height="12" font="10">- Football</text>
+<text top="744" left="329" width="96" height="12" font="10">- Listening music</text>
+<text top="1266" left="873" width="20" height="14" font="11">2/2</text>
+</page>
+</pdf2xml>

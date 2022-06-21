@@ -1,0 +1,77 @@
+ 
+CAN THO UNIVERSITY (2011-2015) 
+Computer Engineering 
+Skill learned : Python, Linux, C,C++,Auto CAD, Mutisim ,Quartus II 
+11.0, Protues ModelSim. 
+Studies 
+System design traffic lights 
+System design temperature sensors 
+Studies and development of embedded systems  
+CERTIFICATIONS AND AWARDS 
+Awarded scholaship in student of Can Tho University. 
+Awarded scholarship Amcham women engineer of intel 
+EDUCATION 
+WORK EXPERIENCE 
+SAVIWAVE (Aug 2015 to Sep 2016) 
+QA/TESTER Embedded  
+Main task: Test Firmwave , Internet of thing 
+Test-Execution (Automation) & Reporting; Bug Verification 
+Write script cover test case and check list test case other can do 
+test 
+Submit Bugs on SBM or JIRA 
+Implementation on modules: TCP/IP socket API for SMPP API 
+Library, SMSC App 
+Communicate directly to client for requirements 
+Run test case on Linux, auto test tool. 
+WIGO analytics company (Sep 2016 to Now) 
+QA/ TESTER: WEB, MOBILE. 
+Dessign test case,to testing. 
+Write document. 
+Test database (MySQL) and analysis data. 
+Test-Execution (Manually) & Reporting; Bug Verification. 
+SKILLS 
+Working Platforms  
+:  
+Windows & Linux. 
+Programming Languages: 
+C, C++, Python & Java. 
+DEs 
+: 
+IntelliJ IDEA & Eclipse. 
+Databases 
+: 
+MySQL. 
+Proficient Development of Client-Server Applications, API 
+Libraries & Frameworks. 
+Proficient Development of Embedded Systems & Protocol Stacks. 
+Proficient Development of Desktop & Web Applications. 
+Proficient Use of Microsoft Office suite: Word, Excel, 
+PowerPoint, Outlook 
+Proficient Use of Content Management Systems:HP QC (Quality 
+Center), SBM (Serena Business Manager), JIRA. 
+Knowledge of Software Development Process, Design Pattern, 
+Software Testing 
+Knowledge of Communications Protocol, Networking, Hardware 
+CHÂU KIM NHẨN 
+Computer engineer 
+ABOUT ME 
+"Computer Engineering – I have 
+developed skill in design circuit 
+and programming for MCU. I'm an 
+easy going person that works well 
+with everyone .Moreover ,I'm self-
+motivation,combined with 
+imagination and creative                               
+PGA:7.00/10 
+Dedicated professional with 
+10+ years of experience in 
+programming and quality 
+control looking for a high 
+position in SoftwareTesting. 
+OBJECTIVE 
+CONTACT 
+ME 
+0963863447 
+Kimnhanchau93@gmail.com 
+599 CMTT, TP HCM 
+/kimnhan.chau 

@@ -1,0 +1,54 @@
+ 
+NAME 
+Phan Hồng Đức 
+JOB TITLE 
+Machine Learning Developer 
+Personal 
+Date of birth: 11st December 1996 
+Gender: Male 
+Phone: 0966 642 912 
+Email: hongducphan912@gmail.com 
+Personal Statement 
+Single 
+Technical Skills 
+OS 
+Windows, Mac OS 
+Languages 
+Swift, Java, SQL, HTML, CSS, Javascript 
+Python, NumPy, Scikit-learn, Pandas 
+Databases 
+Oracle MySQL, Microsoft SQL Server 
+Methodologies & 
+Tools 
+OOP, Eclipse, Sublime Text, XCode, Jupyter Notebook, Git 
+Education, Qualifications & Special Achievements 
+University 
+FPT University 
+Final year 
+RECENT ASSIGNMENTS 
+Project 
+Interior Furniture Augmented Reality System for Online Shopping (ifAR) 
+Position 
+Developer 
+Project Description 
+ifAR is an augmented reality application that allows users to superimpose virtual 
+real-world objects into human vision in real-world environment via smartphones. 
+Users have ability to scan, upload and contemplate interior furniture using 
+smartphone. We also establish an Interior Furniture Augmented Reality 
+Marketplace for Online Shopping, so that everyone can trade products online, 
+contemplate products in real-world environment through smartphone. 
+My Responsibility 
+I done the following tasks: 
+Design the UI of application. 
+Work with Augmented Reality. 
+Work with Braintree PayPal checkout. 
+Work with database. 
+Technology 
+XCode IDE 
+CocoaPods framework: 
+o Alamofire 
+o SwiftyJSON 
+o BSImagePicker 
+o BraintreeDropin 
+UIKit, ARKit 
+Git (GitKraken) 

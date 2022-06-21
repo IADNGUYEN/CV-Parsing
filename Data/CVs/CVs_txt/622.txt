@@ -1,0 +1,82 @@
+CURRICULUM VITAE 
+ 
+Full name 
+:  Châu Quốc Sơn 
+Date of Birth  
+:  19/09/1988 
+Address 
+:  322/12/2 Nguyễn Tất Thành Street, 4 District 
+Email  
+:  chauquocson@gmail.com 
+Phone   
+:  0907.414.531 
+1. VIEWS OF WORKING 
+Working environment expectations:  Professional, active environment  Good for enhancing personal skills for working as well as for soft 
+skills  Good for adaptation of knowledge 
+Working perspective:  No stop learning, improving , work as hard as I can 
+2. PROFESSIONAL SKILLS 
+Work with Scrum model 
+High skills of Bugzilla, Jira, Redmine… 
+High performance of Automation test and Selenium IDE 
+Deep knowledge of software developing process and testing failure 
+Good knowledge of UX 
+Good logic thinking 
+High skill of Ad-hoc testing 
+Integration testing skill 
+Black box testing skill 
+Regression testing skill 
+Team work as well as individual working performance 
+Communication and presentation 
+Activeness and flexibility of work 
+High skilled solving problem experience. 
+3. PRACTICAL EXPERIENCES 
+PERIOD 
+PRACTICAL EXPERIENCES 
+From 01/2011 until now  
+VNG Enterprise, position as QC 
+Engineer 
+ Read the specifications document then 
+identifying unclear or inconsistent items and 
+Q&A to clarify these. 
+ Create Test Plan, Test Case, Test Scenarios 
+and implement test. 
+ Execute manual testing in Web and Mobile 
+applications. 
+ Responsibility on application quality and 
+schedule of Chanel Avaya (1900 561 558) 
+ Analyze and raise the issues, propose the 
+solution/method to improve the system. 
+ Open and verify bugs. 
+ Daily monitoring the incident tracking system 
+to coordinate with relevant people to analyze and 
+resolve incident. 
+From 5/2010 until 12/2010  
+VNG Enterprise, position as 
+Customer Service Team Leader 
+ Staff training 
+ Leading and supporting team 
+ Call Center team leading 
+ Quality responsibility of Chanel “Như Chưa 
+Hề Có Cuộc Chia Ly” 
+ Responsibility on team working  
+From 7/2008 until 4/2010   
+VNG Enterprise, position as  
+Customer Service Executive 
+ Support participating product over the phone, 
+web and email 
+4. PROJECTS 
+My Plus (myplus.vn) 
+Staff working project BE CS (CSTool) 
+Customer support website of VNG (hotro.zing.vn) 
+Promotion website for VIP customers (vip.hotro.zing.vn) 
+Chanel Avaya of VNG (1900 561 558) 
+Customer service mobile applications on Android and IOS 
+Access management tool (AMT) 
+5. EDUCATION AND TRAINING 
+Bachelor of Science in Information  Technology  specialized in Software 
+Engineering 
+6. EXTRA ACTIVITIES 
+Out-door team activities 
+Organization events 
+Joined short-termed courses hold by Human Resouce Office 
+Joined events of VNG Uninon member 

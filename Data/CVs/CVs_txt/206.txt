@@ -1,0 +1,265 @@
+Page 1 of 6 
+Curriculum Vitae 
+Personal Information 
+Full name: TRAN CONG THO 
+Nationality:  Vietnamese  
+Place of birth: Lam Dong / Viet Nam  
+Date of Birth: 09/04/1990 
+Gender:   
+Male  
+Marital status: Married 
+Phone:  
+0932.474.098 
+Email: trandev90@gmail.com 
+Languages: Vietnamese (Native), English (Normal) 
+Experience Summary 
+3+ years of software experience  
+Strong experiences in C#, ASP.NET, Javascript, Telerik Control 
+Knowledgeable of human resource management system, material resource planning 
+system, android developement 
+Good at MSSQL, Oracle 
+Skills 
+Soft Skills 
+Team work 
+Can communicate to the customer in project context effectively 
+Programming Skills 
+C#, ASP.NET 
+HTML, JavaScript, AJAX, Telerik Control, Bootstrap 
+MSQL Server 2008, Oracle 10g, Oracle 11g 
+Android 
+Functional Design  
+Database Design 
+Software 
+Platforms: Windows 
+Others: Eclipse, Visual Studio 2010, Visual Studio 2013, Toad Data Modeler, Sql 
+Developer 
+Page 2 of 6 
+Education 
+2008 – 2012 Ho Chi Minh University of Technology, Ho Chi Minh, Viet Nam – 
+hutech.edu.vn 
+2014: Oracle Database Administration Workshops 1 – SaiGonCTT, Ho Chi Minh, 
+Viet Nam  
+Working history 
+From 
+To 
+Company 
+Location 
+Title 
+02/2012 
+Present 
+K System & Solution Co., Ltd 
+Ho Chi Minh 
+City, Viet Nam 
+Team Leader 
+Professional Experience 
+02/2012 – Present  
+K System & Solution Co., Ltd 
+Ho Chi Minh City, Viet Nam 
+Software Developer 
+Android Development 
+Web Development with ASP.NET 
+Window development with C#.NET 
+Environment: Visual Studio 2005, Visual Studio 2008 
+Database: SQL Server 2010, SQL Server 2008, Oracle 10g, Oracle 11g 
+Team Leader 
+Managing project Risk Management System 
+Managing project Human Resource Management System 
+Managing team member. 
+Managing Development Schedules. 
+Design Function dependent on customer request 
+Design Database 
+Working with customers and partners. 
+Documentation and training to the customers. 
+Study Oracle Administration 
+Hobbies & Interests 
+Listen Music 
+Playing football 
+Page 3 of 6 
+Project References 
+From February 2012 to April 2012 
+K System & Solution Co., Ltd          
+Project 
+: Mobile MSC 
+Position  
+: Developer 
+Description 
+: Internal Android application for Samsung Vietnam 
+Responsibilities :  
+Develop android application 
+Develop web service to sync data from mobile to Samsung server 
+Maintenance 
+Hardware  
+: Samsung Smartphone 
+O/S 
+: Android 
+Special software 
+:  
+Languages  
+: Java 
+Work Location  
+: HCM City, Vietnam 
+From May 2012 to September 2012 
+K System & Solution Co., Ltd          
+Project 
+: Bethel Vina MRP 
+Position  
+: Developer 
+Description 
+: Material Resource Planning System for Bethel Vina 
+Responsibilities :  
+Develop base on customer request 
+Web site ASP.NET using Telerik Control for Ajax, Web Service, Javascript 
+Hardware  
+:  
+O/S 
+:  
+Special software 
+: Visual Studio 2010, MS SQL Server 
+Languages  
+: ASP.NET 
+Work Location  
+: HCMC, Vietnam 
+From October 2012 to November 2012                 K System & Solution Co., Ltd          
+Project 
+: Human Vina Tech Reporting 
+Position  
+: Developer 
+Description 
+: Help PG submit sale data from shop to Samsung 
+Responsibilities :  
+Web site ASP.NET using Telerik Control for Ajax, Web Service, Javascript 
+Develop background service to send data from Web Server to Samsung Server 
+Page 4 of 6 
+Hardware  
+:  
+O/S 
+:  
+Special software 
+: Visual Studio 2010, SQL Server 2008, Telerik Controls 
+Languages  
+: ASP.NET 
+Work Location  
+: HCMC, Vietnam 
+From December 2012 to May 2013  
+K System & Solution Co., Ltd
+Project 
+: Risk Management System 
+Position  
+: Developer 
+Description 
+: Internal application for Samsung Vietnam 
+Responsibilities :  
+Design function and database base on customer request 
+Develop web site using ASP.NET, Telerik Controls, SQL Server 2008 
+Hardware  
+:  
+O/S 
+:  
+Special software 
+: Visual Studio 2010, Telerik Controls, SQL Server 2008 
+Languages  
+: ASP.NET 
+Work Location  
+: HCMC, Vietnam 
+From September 2013 to April 2014 
+K System & Solution Co., Ltd         
+Project 
+: Pungkook VietNam Human Resource Management System 
+Position  
+: Project Leader 
+Description 
+: Human Resource Management System 
+Responsibilities :  
+Design function and database base on customer request 
+Managing team member coding 
+Write service to sync data from Finger Machine Server to Oracle Database 
+Learn oracle administration 
+Hardware  
+:  
+O/S 
+:  
+Special software 
+: Visual Studio 2010, Toad Data Modeler, Oracle 11g 
+Languages  
+: ASP.NET, Oracle , Background Service 
+Work Location  
+: HCMC, Vietnam 
+From May 2014 to August 2014 
+K 
+System 
+& 
+Solution 
+Co., 
+Ltd         
+Project 
+: Pungkook Indonesia Human Resource Management System 
+Position  
+: Project Leader  
+Description 
+: Human Resource Management System 
+Page 5 of 6 
+Responsibilities :  
+Managing team member  
+Documentation and training to the customer 
+Hardware  
+:  
+O/S 
+:  
+Special software 
+: Visual Studio 2010, Toad Data Modeler, Oracle 11g 
+Languages  
+: ASP.NET , Oracle 11g, Background Service 
+Work Location  
+: Subang, Indonesia 
+From October 2014 to September 2014 
+K System & Solution Co., Ltd         
+Project 
+: K Solution Human Resource Management System 
+Position  
+: Project Leader 
+Description 
+: Human Resource Management System 
+Responsibilities :  
+Design function and database 
+Managing team member coding 
+Web site ASP.NET using Telerik Control for Ajax, Web Service, Javascript, 
+Bootstrap 
+Hardware  
+:  
+O/S 
+:  
+Special software 
+: Visual Studio 2010, MS SQL Server, Bootstrap, Telerik 
+Languages  
+: ASP.NET 
+Work Location  
+: HCMC, Vietnam 
+From February 2015 to Present 
+K 
+System 
+& 
+Solution 
+Co., 
+Ltd         
+Project 
+: Hyosung TPM Circle Supporting System 
+Position  
+: Project Leader 
+Description 
+: web application using ASP.NET 
+Responsibilities :  
+Design function and database base on customer logic 
+Managing team member coding 
+Web site ASP.NET using Telerik Control for Ajax, Web Service, Javascript, 
+Bootstrap 
+Page 6 of 6 
+Hardware  
+:  
+O/S 
+:  
+Special software 
+: Visual Studio 2010, MS SQL Server, Bootstrap, Telerik 
+Languages  
+: ASP.NET 
+Work Location  
+: Dong Nai, Vietnam 

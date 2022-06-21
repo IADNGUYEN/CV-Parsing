@@ -1,0 +1,132 @@
+CURRICULUM VITAE 
+Trần Duy Khánh 
+45/35 Lê Văn Huân Street, 
+Ward 13,District Tân Bình, HCM City 
+E-mail: khanh.tranduy@hotmail.com 
+Tel: 01666652363 
+PERSIONAL DETAILS 
+Date of Birth: 05/04/1988 
+Gender: Male 
+Marital Status: Single 
+Mobile phone: 01666652363 
+E-mail: khanh.tranduy@hotmail.com 
+OBJECTIVE 
+To be a good staff. 
+Try to learning as much as possible and doing my best in order to accompish my 
+task. 
+To have good opportunities to get promotion in my job. 
+Develop my skills with development of company, I want to prove myself. 
+As a programming enthusiast, always want to develop best applications. 
+Beside that with confidence in leadership ability always set the goal of becoming 
+a good manager 
+EDUCATION 
+2006  2010            
+The University of Natural Sciences  HCM, Vietnam (Graduated  2010) 
+EXPERIENCE 
+I have 7 years programming experience on  mobile phone  
+5 years for C++ (game) and 2 years Java (application) 
+1 years programming experience on C# application , Web API ,Nodejs. 
+2 years experience  for leader team (about 5 people) 
+2010  2016 
+Gameloft Vietnam. 
+Position: Game developer (4 years)  programmer  trainer (1 year) 
+Project 
+Project name 
+Details 
+Brother in Arms 2 
+(first-person shooter game) 
+Porting from C++ desktop to IOS  
+Add shop (self/buy)  weapons and items 
+Add function in app purchase 
+Apply push notification online 
+Asphalt 6 
+(racing game 3D) 
+Porting to Bada OS , make sure game run 
+stable  
+Asphalt 7  
+Dungeon hunter 2 
+The dark night rise 
+Porting to window8/ windowphone 
+Porting from OpenGl to DirectX 
+Add tracking function 
+Add in app purchase 
+My little pony  
+Porting to Android platform 
+Make sure game run stable 
+Fix bugs scale on multiple resolution 
+Gameloft Hub 
+Create application introduce about window 
+phone game 
+Integrated some mini game to application 
+Push  notification when have new game  
+Connect Google + , Facebook  
+Trainer Developer 
+Training for newbie  (Java , openGl , 
+DirectX) 
+Create  document for training  
+Research and document new technology 
+Support  
+2016 – 2017 
+Morning Start company. 
+Position: Lead project 
+Project 
+CLM for Golden Gate 
+Maintain, 
+add 
+new 
+functions 
+for 
+application CLM on desktop 
+G-People application 
+Manage team mobile  
+Review Code mobile team 
+Create API flow chart  
+Coding android for application 
+Support create api backend team (.Net) 
+2016 – 2017 (freelancer) 
+One health company. 
+Position: Lead Project  
+Project 
+Oh doctor application 
+Application using for Hong Duc hospital 
+with the main functions such as : chat/call 
+for doctor , get health news , question and 
+answer online with doctor… 
+Build team 
+Design / struct / flow chart for Application 
+Design database (MySQL) 
+Design UX review UI 
+Create API (.PHP) 
+Support technology  
+2017  2018 
+Proteusion research and developer  company. 
+Position: Leader Android  
+Project 
+Wrappy application 
+This is sns application with main functions 
+is call/ chat , post status which using 
+blockchain 
+technology 
+transaction 
+cryptocurrency . 
+Create android application 
+Coding android 
+Management task 
+Support member in team about technology 
+Research about blockchain , smart contract 
+Coding smart contract create new token 
+Create app chat/call Using xmpp server 
+SKILLS  
+§ My best skills is C++. I have a lot woking experience with C++ special game 
+programing  5 years 
+§ Android  programming  expert  3 years. 
+§ Cocos2dx  1 years 
+§ Blockchain   + smartcontract  6 months. 
+§ System Analysis and Design 
+§ Object  Oriented Programming    
+§ Good communication   
+§ Independent or team work 
+§ Communication and interpersonal skills           
+English skills: spoken (basic), read and written 
+INTERESTS  
+Play music instrument (guitar , piano) , Badminton, Tennis , Travel . 

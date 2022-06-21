@@ -1,0 +1,46 @@
+Duong Quang Cuong
+ Tran Hung Dao, Dong Hoa, Di An, Binh Duong
+ 0966462600
+|
+ cuong.duong2016@qcf.jvn.edu.vn
+|
+Birth year: 1994
+To accept any position that provides challenges and opportunities for additional training and healthy learning
+education
+2012-2016
+UNIVERSITY OF FINANCE AND MARKETING
+Bachelor degree in Corporate Finance
+2016-2018
+JOHN VON NEUMANN INSTITUTE
+Master student in Quantitative and Computational Finance
+Key subjects: Stochastic Calculus, Probability and Statistics, Linear Algebra and Optimization, Risk
+Analysis, Machine Learning & Data Mining , Derivatives Pricing in Practice, Risk Modeling, Time series
+Analytics and Forecasting
+certificate
+Microsoft office certification: Level B
+TOEIC: 870
+experience
+Jan – May
+2016
+HSC  HO CHI MINH CITY SECURITIES CORPORATION
+Position: Internship at brokerage department
+Main responsibilities:
+Read specialized document and daily report
+Research market and identify potential stock
+Dec  2017
+PROBABILITY AND STATISTICS: COURSE PROJECT
+Project dessciption:
+Modeling the daily stock return and estimating model’s parameters by using Maximum
+Likelihood Estimation (MLE)
+Building and backtesting (estimating profit/loss, risk...) a trading strategy
+Using the macroeconomics data to fit a multiple linear regression model to predict the GDP.
+Then using Bayesian information criterion (BIC) to find a best sub-model
+programing skill
+Python
+Basic  having ability to solve simple problems by Python
+strength
+Having progressive spirit, an willing to learn attitude and good self-study skill
+Integrity
+Good command of listening and reading English
+weakness
+Lack of work experience

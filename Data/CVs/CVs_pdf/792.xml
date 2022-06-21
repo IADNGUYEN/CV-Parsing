@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="20" family="Arial" color="#444444"/>
+	<fontspec id="1" size="17" family="Arial" color="#444444"/>
+	<fontspec id="2" size="17" family="ArialMT" color="#494949"/>
+	<fontspec id="3" size="32" family="ArialMT" color="#494949"/>
+<text top="271" left="59" width="100" height="23" font="0"><b>Education</b></text>
+<text top="314" left="42" width="384" height="19" font="1"><b>Ho Chi Minh City University of Technology and</b></text>
+<text top="333" left="42" width="273" height="19" font="1"><b>Education [ Oct 2014  -  Dec 2018 ]</b></text>
+<text top="362" left="42" width="197" height="19" font="2">Major: Computer Network</text>
+<text top="391" left="42" width="272" height="19" font="2">- Advanced Networking Technology</text>
+<text top="410" left="42" width="230" height="19" font="2">- Network Monitoring Systems</text>
+<text top="430" left="42" width="182" height="19" font="2">- Network Programming</text>
+<text top="450" left="42" width="234" height="19" font="2">- Unix/Linux Operating System</text>
+<text top="469" left="42" width="150" height="19" font="2">- Networks Security</text>
+<text top="506" left="42" width="395" height="19" font="1"><b>Pymi.vn | https://pymi.vn [ Aug 2018  -  Oct 2018 ]</b></text>
+<text top="535" left="42" width="198" height="19" font="2">Major: Python programing</text>
+<text top="564" left="42" width="273" height="19" font="2">being join this course:  8/12 session</text>
+<text top="626" left="59" width="199" height="23" font="0"><b>TECHNICAL SKILLS</b></text>
+<text top="669" left="42" width="199" height="19" font="2">- Language: Python, Shell</text>
+<text top="688" left="42" width="209" height="19" font="2">- SCM: Git, GitLab, GitHub </text>
+<text top="708" left="42" width="165" height="19" font="2">- OS: Centos, Ubuntu</text>
+<text top="727" left="42" width="227" height="19" font="2">- Team communication: Slack</text>
+<text top="747" left="42" width="211" height="19" font="2">- Editor: Atom, SublimeText</text>
+<text top="766" left="42" width="455" height="19" font="2">- Python tools: virtualenv, pip, pep8, flake8, IPython, jupyter</text>
+<text top="786" left="42" width="71" height="19" font="2">notebook</text>
+<text top="806" left="42" width="413" height="19" font="2">- Basic Technical knowledge in system administration,</text>
+<text top="825" left="42" width="431" height="19" font="2">network maintenance, hardware maintenance, operating</text>
+<text top="845" left="42" width="63" height="19" font="2">systems</text>
+<text top="864" left="42" width="409" height="19" font="2">- Network Tools: Wireshark, nmap, Metasploit, Hydra,</text>
+<text top="884" left="42" width="358" height="19" font="2">NagiOS, Snort, DVWA, OpenDayLight, Mininet</text>
+<text top="904" left="42" width="467" height="19" font="2">- Installing and configuring PROXY, DNS, DHCP, FTP, WEB,</text>
+<text top="923" left="42" width="463" height="19" font="2">NIS, NFS, Samba, VLAN, NAT, VPN, ACL, firewall, IDS/IPS,</text>
+<text top="943" left="42" width="242" height="19" font="2">routing, SNMP, ICMP, HTTP …</text>
+<text top="962" left="42" width="466" height="19" font="2">- Building a Simple Software-Defined Networking Systemwith</text>
+<text top="982" left="42" width="184" height="19" font="2">OpenDaylight Controller</text>
+<text top="1055" left="59" width="112" height="23" font="0"><b>PROJECTS</b></text>
+<text top="1097" left="42" width="318" height="19" font="1"><b>Diploma Project [ Feb 2018  -  Jul 2018 ]</b></text>
+<text top="1126" left="42" width="461" height="19" font="2">Computer Network: Software Defined Networking and Demo</text>
+<text top="1155" left="42" width="156" height="19" font="2">Teamwork: 2 people</text>
+<text top="1174" left="42" width="138" height="19" font="2">Status: completed</text>
+<text top="1194" left="42" width="90" height="19" font="2">Knowledge:</text>
+<text top="1213" left="42" width="443" height="19" font="2"> - About Networking Defined Software, OpenFlow protocol</text>
+<text top="505" left="559" width="120" height="19" font="2">Networking and</text>
+<text top="525" left="559" width="101" height="19" font="2">infrastructure</text>
+<text top="552" left="559" width="54" height="19" font="2">Python</text>
+<text top="580" left="559" width="126" height="19" font="2">Reading English</text>
+<text top="599" left="559" width="122" height="19" font="2">documentations</text>
+<text top="627" left="559" width="130" height="19" font="2">Working alone or</text>
+<text top="647" left="559" width="75" height="19" font="2">teamwork</text>
+<text top="271" left="575" width="197" height="23" font="0"><b>Contact information</b></text>
+<text top="314" left="559" width="86" height="19" font="2">15/08/1995</text>
+<text top="342" left="559" width="105" height="19" font="2">01668203818</text>
+<text top="371" left="559" width="249" height="19" font="2">tranthingocanh1508@gmail.com</text>
+<text top="400" left="559" width="240" height="19" font="2">District 9 Ho Chi Minh, Vietnam</text>
+<text top="463" left="575" width="54" height="23" font="0"><b>Skills</b></text>
+<text top="708" left="575" width="112" height="23" font="0"><b>References</b></text>
+<text top="750" left="559" width="279" height="19" font="2">HCMC University of Technology and</text>
+<text top="770" left="559" width="82" height="19" font="2">Education </text>
+<text top="789" left="559" width="246" height="19" font="2">Faculty Information Technology </text>
+<text top="809" left="559" width="220" height="19" font="2">Email: kcntt@hcmute.edu.vn</text>
+<text top="846" left="559" width="145" height="19" font="2">Nguyen Viet Hung </text>
+<text top="865" left="559" width="236" height="19" font="2">DevOps senior, Python mentor</text>
+<text top="885" left="559" width="64" height="19" font="2">pymi.vn </text>
+<text top="905" left="559" width="181" height="19" font="2">Mobile: +84 982090290</text>
+<text top="924" left="559" width="183" height="19" font="2">Email: hvn@familug.org</text>
+<text top="157" left="314" width="270" height="36" font="3">Tran Thi Ngoc Anh</text>
+<text top="195" left="379" width="142" height="19" font="2">Software Engineer</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="4" size="14" family="ArialMT" color="#555555"/>
+<text top="43" left="42" width="455" height="19" font="2"> - Using OpenDaylight SDN controller with Mininet Emulator</text>
+<text top="63" left="42" width="407" height="19" font="2"> - Demo SDN: Routing, NAT, Firewall, Loadbalancing</text>
+<text top="119" left="42" width="401" height="19" font="1"><b>Computer Network Essay [ Sep 2018  -  Dec 2018 ]</b></text>
+<text top="148" left="42" width="457" height="19" font="2">Embedded system: Turn A Raspberry Pi into a music player</text>
+<text top="177" left="42" width="156" height="19" font="2">Teamwork: 2 people</text>
+<text top="196" left="42" width="101" height="19" font="2">Status: doing</text>
+<text top="1232" left="799" width="71" height="17" font="4">© topcv.vn</text>
+</page>
+</pdf2xml>

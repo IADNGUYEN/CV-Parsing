@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="46" family="Roboto" color="#ffffff"/>
+	<fontspec id="1" size="18" family="Roboto" color="#733c59"/>
+	<fontspec id="2" size="16" family="Roboto" color="#494949"/>
+	<fontspec id="3" size="27" family="Roboto" color="#479b9d"/>
+	<fontspec id="4" size="16" family="Roboto" color="#333333"/>
+	<fontspec id="5" size="16" family="Roboto" color="#333333"/>
+	<fontspec id="6" size="16" family="Roboto" color="#479b9d"/>
+	<fontspec id="7" size="16" family="Roboto" color="#494949"/>
+<text top="100" left="35" width="384" height="54" font="0">Tran Thi My Huyen</text>
+<text top="162" left="35" width="202" height="22" font="1"><b>SOFTWARE DEVELOPER</b></text>
+<text top="611" left="35" width="308" height="19" font="2">I am a fast learner person, highly motivated</text>
+<text top="633" left="35" width="323" height="19" font="2">and able to work under pressure. I am always</text>
+<text top="655" left="35" width="320" height="19" font="2">willing to learn new skills in order to enhance</text>
+<text top="677" left="35" width="278" height="19" font="2">my abilities. Hopeful for the position of</text>
+<text top="699" left="35" width="288" height="19" font="2">Software Developer to apply 3 + years of</text>
+<text top="720" left="35" width="305" height="19" font="2">experience in developing designs, test, and</text>
+<text top="742" left="35" width="315" height="19" font="2">code; debugging programs to real problems,</text>
+<text top="764" left="35" width="239" height="19" font="2">and adding value to the business.</text>
+<text top="1154" left="35" width="303" height="19" font="2">- Ability to quickly learn new technologies. </text>
+<text top="1176" left="35" width="303" height="19" font="2">- Have worked with big projects under high</text>
+<text top="1198" left="35" width="199" height="19" font="2">pressure and tight deadline.</text>
+<text top="1220" left="35" width="294" height="19" font="2">- Skilled in independent work &amp; teamwork</text>
+<text top="301" left="35" width="246" height="32" font="3">Contact information</text>
+<text top="345" left="35" width="88" height="19" font="4">Date of birth</text>
+<text top="345" left="151" width="94" height="19" font="2">Aug 27, 1994</text>
+<text top="372" left="35" width="51" height="19" font="4">Gender</text>
+<text top="372" left="151" width="53" height="19" font="2">Female</text>
+<text top="400" left="35" width="46" height="19" font="4">Phone</text>
+<text top="400" left="151" width="98" height="19" font="2">0909 835 690</text>
+<text top="428" left="35" width="40" height="19" font="4">Email</text>
+<text top="428" left="151" width="189" height="19" font="2">Tranthimyhuyen1994@gm</text>
+<text top="450" left="151" width="52" height="19" font="2">ail.com</text>
+<text top="477" left="35" width="59" height="19" font="4">Address</text>
+<text top="477" left="151" width="162" height="19" font="2">239/35 Khuong Viet St</text>
+<text top="499" left="151" width="164" height="19" font="2">Tan Phu Dist, HCM city</text>
+<text top="567" left="35" width="114" height="32" font="3">Objective</text>
+<text top="826" left="35" width="197" height="32" font="3">Technical Skills:</text>
+<text top="895" left="35" width="268" height="19" font="2">- Have 3 years experience in Software</text>
+<text top="916" left="35" width="94" height="19" font="2">Development</text>
+<text top="938" left="35" width="306" height="19" font="2">- Programming Languages: VB 6.0/VB.NET</text>
+<text top="960" left="35" width="289" height="19" font="2">- Using VS, SQL Developer, Crystal report</text>
+<text top="982" left="35" width="252" height="19" font="2">- Knowledge about Java, C, C++, C#</text>
+<text top="1004" left="35" width="228" height="19" font="2">- Web technologies: HTML/CSS </text>
+<text top="1026" left="35" width="140" height="19" font="2">- Design test cases.</text>
+<text top="1048" left="35" width="162" height="19" font="2">- Japanese: immediate</text>
+<text top="1110" left="35" width="129" height="32" font="3">Soft Skills:</text>
+<text top="301" left="386" width="123" height="32" font="3">Education</text>
+<text top="369" left="386" width="374" height="19" font="5"><b>HO CHI MINH UNIVERSITY OF NATURAL SCIENCES</b></text>
+<text top="391" left="386" width="403" height="19" font="6">Major: Programming languages: C, C++, C#, Java, HTML,</text>
+<text top="413" left="386" width="388" height="19" font="6">Databases: SQL Server, Oracle. Network Management.</text>
+<text top="337" left="719" width="147" height="19" font="6">Sep 2012 - Nov 2015</text>
+<text top="476" left="386" width="218" height="19" font="5"><b>JAPANESE DONG DU CENTER</b></text>
+<text top="498" left="386" width="239" height="19" font="6">Write - Read - Speak - Listen skills</text>
+<text top="444" left="732" width="134" height="19" font="6">Sep 2017 - Present</text>
+<text top="560" left="386" width="204" height="32" font="3">Work experience</text>
+<text top="628" left="386" width="164" height="19" font="5"><b>FUJINET SYSTEM JSC</b></text>
+<text top="650" left="386" width="140" height="19" font="6">Software Developer</text>
+<text top="672" left="386" width="152" height="19" font="2">Main responsibilities:</text>
+<text top="694" left="386" width="403" height="19" font="2">- Programming Languages: VB.NET, C#, C++, HTML, CSS</text>
+<text top="716" left="386" width="358" height="19" font="2">- Database Management Systems: Oracle PL/SQL </text>
+<text top="738" left="386" width="470" height="19" font="2">- Version control: SVN, Git - Analytics and reporting: Crystal report </text>
+<text top="596" left="734" width="131" height="19" font="6">Oct 2015 - Present</text>
+<text top="843" left="386" width="168" height="32" font="3">Assignments:</text>
+<text top="912" left="386" width="106" height="19" font="5"><b>Super Cocktail</b></text>
+<text top="934" left="386" width="456" height="19" font="6"> A Sale Management software including keep and track the item</text>
+<text top="956" left="386" width="424" height="19" font="6">and manage staff and customer, view the revenue by report</text>
+<text top="999" left="386" width="100" height="19" font="7"><b>Environment:</b> </text>
+<text top="1021" left="386" width="453" height="19" font="2"> Super Cocktail, VS 2010, Oracle Database 11, Crystal report 11.</text>
+<text top="1065" left="386" width="164" height="19" font="7"><b>Main Responsibilities: </b></text>
+<text top="1087" left="386" width="441" height="19" font="2"> Programming a Regester/Update/Delete Data form, code and</text>
+<text top="1109" left="386" width="169" height="19" font="2">design Revenue Report.</text>
+<text top="1131" left="386" width="243" height="19" font="2"> Write test cases, create evidence.</text>
+<text top="1175" left="386" width="236" height="19" font="7"><b>Achievements and skills gained:</b> </text>
+<text top="1197" left="386" width="175" height="19" font="2"> Using Crystal report 11, </text>
+<text top="1218" left="386" width="373" height="19" font="2"> Have knowledge about Sale Management business.</text>
+<text top="880" left="734" width="131" height="19" font="6">Oct 2015 - Present</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="8" size="14" family="Roboto" color="#555555"/>
+<text top="181" left="35" width="44" height="19" font="2">Music</text>
+<text top="181" left="198" width="44" height="19" font="2">Travel</text>
+<text top="209" left="35" width="44" height="19" font="2">Movie</text>
+<text top="7" left="35" width="164" height="32" font="3">Certifications</text>
+<text top="75" left="35" width="99" height="19" font="2">N3 NAT-TEST</text>
+<text top="43" left="297" width="67" height="19" font="6">Feb 2019</text>
+<text top="137" left="35" width="115" height="32" font="3">Interests:</text>
+<text top="85" left="386" width="62" height="19" font="5"><b>Musashi</b></text>
+<text top="107" left="386" width="428" height="19" font="6">Migration of data between Oracle Database and SQL Server.</text>
+<text top="151" left="386" width="100" height="19" font="7"><b>Environment: </b></text>
+<text top="173" left="386" width="410" height="19" font="2"> VS 2015, SQL Developer, SQL Server Migration Assistant.</text>
+<text top="217" left="386" width="163" height="19" font="7"><b>Main Responsibilities:</b> </text>
+<text top="239" left="386" width="396" height="19" font="2"> Convert database from Oracle Database to SQL Server </text>
+<text top="261" left="386" width="243" height="19" font="2"> Write test cases, create evidence.</text>
+<text top="304" left="386" width="236" height="19" font="7"><b>Achievements and skills gained:</b> </text>
+<text top="326" left="386" width="303" height="19" font="2"> How to use the SQL Server Migration tool.</text>
+<text top="348" left="386" width="277" height="19" font="2"> Have knowledge about SQL Database.</text>
+<text top="53" left="729" width="138" height="19" font="6">Jul 2017 - Oct 2017</text>
+<text top="1238" left="795" width="72" height="18" font="8">© topcv.vn</text>
+</page>
+</pdf2xml>

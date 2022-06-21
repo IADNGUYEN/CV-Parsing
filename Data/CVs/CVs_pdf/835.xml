@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="30" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="1" size="12" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="2" size="14" family="SymbolMT" color="#000000"/>
+	<fontspec id="3" size="14" family="ArialMT" color="#000000"/>
+	<fontspec id="4" size="14" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="5" size="14" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="6" size="16" family="ABCDEE+Calibri" color="#ffffff"/>
+	<fontspec id="7" size="14" family="ABCDEE+Calibri" color="#ffffff"/>
+	<fontspec id="8" size="13" family="ABCDEE+Calibri" color="#ffffff"/>
+	<fontspec id="9" size="13" family="ABCDEE+Calibri" color="#ffffff"/>
+	<fontspec id="10" size="16" family="ABCDEE+Calibri" color="#ffffff"/>
+	<fontspec id="11" size="14" family="Arial" color="#000000"/>
+	<fontspec id="12" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="13" size="13" family="ABCDEE+Calibri" color="#000000"/>
+<text top="6" left="108" width="412" height="30" font="0"><b>                                        KAJAL GIRI </b></text>
+<text top="45" left="162" width="3" height="12" font="1"><b> </b></text>
+<text top="117" left="142" width="7" height="18" font="2"></text>
+<text top="121" left="149" width="4" height="14" font="3"> </text>
+<text top="120" left="169" width="631" height="15" font="4">Working on a web development project for the site RoundTableIndia  using Django as a framework and </text>
+<text top="141" left="169" width="132" height="15" font="4">python as a language </text>
+<text top="159" left="142" width="7" height="18" font="2"></text>
+<text top="164" left="149" width="4" height="14" font="3"> </text>
+<text top="163" left="169" width="602" height="15" font="4">Build an Seperation Tool using <b>pyqt4</b> and <b>openCV</b>  for the Project  <b>Automatic Traffic Counting and </b></text>
+<text top="184" left="169" width="130" height="15" font="5"><b>Classification(ATCC) </b> </text>
+<text top="202" left="142" width="7" height="18" font="2"></text>
+<text top="207" left="149" width="4" height="14" font="3"> </text>
+<text top="206" left="169" width="623" height="15" font="4">Create a mail sending form using <b>php mailer</b> where user get a confirmation mail and the admin get all </text>
+<text top="227" left="169" width="547" height="15" font="4">the details of the form filled by the user and the website link is <b>http://www.freshsites.co</b> </text>
+<text top="248" left="169" width="3" height="15" font="4"> </text>
+<text top="270" left="35" width="64" height="17" font="6"><b>COURSES</b></text>
+<text top="271" left="99" width="3" height="15" font="7"> </text>
+<text top="291" left="142" width="7" height="18" font="2"></text>
+<text top="295" left="149" width="4" height="14" font="3"> </text>
+<text top="295" left="169" width="536" height="15" font="4">Completed the G Suite Administrator Fundamentals course from Coursera  with  89.1%. </text>
+<text top="313" left="142" width="7" height="18" font="2"></text>
+<text top="317" left="149" width="4" height="14" font="3"> </text>
+<text top="317" left="169" width="494" height="15" font="4">Completed the Python and django Full Stack Web Developer course from udemy </text>
+<text top="521" left="35" width="261" height="17" font="6"><b>ACADEMIC PROJECTS AND TRAININGS</b></text>
+<text top="523" left="296" width="3" height="14" font="8"><b> </b></text>
+<text top="520" left="757" width="3" height="14" font="9"> </text>
+<text top="547" left="35" width="169" height="15" font="5"><b>Major Project,JISCE NADIA</b> </text>
+<text top="547" left="758" width="93" height="15" font="5"><b>Jan’17-may’17 </b></text>
+<text top="569" left="135" width="7" height="18" font="2"></text>
+<text top="573" left="142" width="4" height="14" font="3"> </text>
+<text top="573" left="162" width="636" height="15" font="5"><b>Coordinate</b> a team of five members for the project of <b>Text Annotation Tools Development in NATURAL </b></text>
+<text top="594" left="162" width="157" height="15" font="5"><b>LANGUAGE PROCESSING </b></text>
+<text top="612" left="135" width="7" height="18" font="2"></text>
+<text top="616" left="142" width="4" height="14" font="3"> </text>
+<text top="616" left="162" width="629" height="15" font="4">In this project,we are using <b>Brat rapid annotation</b> tool to create an extension for the annotations done </text>
+<text top="637" left="162" width="86" height="15" font="4">from this tool<b> </b></text>
+<text top="655" left="135" width="7" height="18" font="2"></text>
+<text top="659" left="142" width="4" height="14" font="3"> </text>
+<text top="659" left="162" width="634" height="15" font="4">One of the major advancement of our project is that each tool will be independent in its processing and </text>
+<text top="680" left="162" width="57" height="15" font="4">platform<b> </b></text>
+<text top="703" left="35" width="216" height="15" font="5"><b>Vocational Training</b>,<b>Globsyn NSDC</b> </text>
+<text top="703" left="333" width="3" height="15" font="4"> </text>
+<text top="703" left="758" width="89" height="15" font="5"><b>Dec’15-jan’16 </b></text>
+<text top="724" left="135" width="7" height="18" font="2"></text>
+<text top="729" left="142" width="4" height="14" font="3"> </text>
+<text top="728" left="162" width="613" height="15" font="5"><b>Accomplished</b> the training on  <b>DOTNET C#</b>  at the <b>Globsyn National Skill Development Corporation  </b></text>
+<text top="746" left="135" width="7" height="18" font="2"></text>
+<text top="750" left="142" width="4" height="14" font="3"> </text>
+<text top="750" left="162" width="605" height="15" font="5"><b>Led </b> and managed a team of three co-trainees for the project of <b>Online Shopping </b>using <b>DOTNETC#</b> </text>
+<text top="768" left="135" width="7" height="18" font="2"></text>
+<text top="772" left="142" width="4" height="14" font="3"> </text>
+<text top="772" left="162" width="582" height="15" font="4">Most of the<b> recommendations </b>were<b> implemented </b>and some of them were taken up for<b> future </b></text>
+<text top="793" left="162" width="108" height="15" font="5"><b>Implementation </b> </text>
+<text top="816" left="35" width="127" height="17" font="6"><b>TECHNICAL SKILLS</b> </text>
+<text top="839" left="136" width="7" height="18" font="2"></text>
+<text top="843" left="143" width="4" height="14" font="3"> </text>
+<text top="843" left="163" width="161" height="15" font="5"><b>Languages:</b> C, Python,SQL </text>
+<text top="860" left="136" width="7" height="18" font="2"></text>
+<text top="865" left="143" width="4" height="14" font="3"> </text>
+<text top="864" left="163" width="157" height="15" font="5"><b>Libraries: </b>OpenCv, PYQT4 </text>
+<text top="882" left="136" width="7" height="18" font="2"></text>
+<text top="887" left="143" width="4" height="14" font="3"> </text>
+<text top="886" left="163" width="290" height="15" font="5"><b>Areas of Interest:</b> Data Structure, OOPS, DBMS<b> </b></text>
+<text top="910" left="35" width="195" height="17" font="6"><b>CO-CURRICULAR ACTIVITIES </b></text>
+<text top="935" left="35" width="55" height="15" font="5"><b>Painting </b></text>
+<text top="955" left="135" width="7" height="18" font="2"></text>
+<text top="959" left="142" width="4" height="14" font="3"> </text>
+<text top="959" left="162" width="640" height="15" font="4">Trained in <b>MADHUBANI / MITHILA PAINTING</b>, an ancient and epic art form of Kolkata from <b>Chakraborty </b></text>
+<text top="980" left="162" width="125" height="15" font="5"><b>Sangeet Kala Sadan </b></text>
+<text top="998" left="135" width="7" height="18" font="2"></text>
+<text top="1002" left="142" width="4" height="14" font="3"> </text>
+<text top="1002" left="162" width="611" height="15" font="4">Trained in many other art forms like <b>Glass Painting</b>, <b>Fabric Painting</b>, <b>Canvas Painting</b>, <b>Oil Painting</b> &amp; </text>
+<text top="1023" left="162" width="106" height="15" font="5"><b>Emboss Painting</b> </text>
+<text top="1046" left="35" width="69" height="15" font="5"><b>Handicraft </b></text>
+<text top="1046" left="694" width="3" height="15" font="5"><b> </b></text>
+<text top="1067" left="135" width="7" height="18" font="2"></text>
+<text top="1071" left="142" width="4" height="14" font="3"> </text>
+<text top="1070" left="162" width="450" height="15" font="5"><b>Captain</b> of the Handicrafts Society at school with over 60 fellow students  </text>
+<text top="1088" left="135" width="7" height="18" font="2"></text>
+<text top="1093" left="142" width="4" height="14" font="3"> </text>
+<text top="1092" left="162" width="447" height="15" font="5"><b> Expertise </b>in making different types of <b>Woolen Crafts </b>and<b> Hand Stitches </b> </text>
+<text top="1110" left="135" width="7" height="18" font="2"></text>
+<text top="1115" left="142" width="4" height="14" font="3"> </text>
+<text top="1114" left="162" width="463" height="15" font="5"><b> Skilled </b> in making different <b>greetings and handicrafts with waste products</b> </text>
+<text top="1135" left="108" width="3" height="15" font="4"> </text>
+<text top="72" left="36" width="220" height="17" font="6"><b>PROFESSIONAL QUALIFICATION </b></text>
+<text top="96" left="36" width="351" height="15" font="5"><b>INTERN,AiSeeTechnologies(http://www.aiseetech.com/)</b></text>
+<text top="97" left="388" width="4" height="14" font="11"><b> </b></text>
+<text top="96" left="467" width="4" height="17" font="12"><b> </b></text>
+<text top="96" left="611" width="3" height="14" font="13"><b> </b></text>
+<text top="96" left="760" width="97" height="15" font="5"><b>Apr’18-Present </b></text>
+<text top="363" left="38" width="83" height="17" font="6"><b>EDUCATION</b></text>
+<text top="363" left="120" width="4" height="17" font="12"><b> </b></text>
+<text top="390" left="133" width="81" height="15" font="5"><b>Examination </b></text>
+<text top="390" left="375" width="31" height="15" font="5"><b>Year </b></text>
+<text top="390" left="556" width="111" height="15" font="5"><b>Board/University </b></text>
+<text top="390" left="796" width="55" height="15" font="5"><b>%/CGPA </b></text>
+<text top="414" left="151" width="44" height="15" font="4">B.Tech </text>
+<text top="435" left="61" width="225" height="15" font="4">(Computer Science and Engineering) </text>
+<text top="414" left="357" width="69" height="15" font="4">2013-2017 </text>
+<text top="435" left="389" width="3" height="15" font="4"> </text>
+<text top="414" left="531" width="161" height="15" font="5"><b>JIS College of Engineering </b></text>
+<text top="435" left="500" width="222" height="15" font="5"><b>An Autonomous Institution(WBUT</b>) </text>
+<text top="414" left="801" width="44" height="15" font="5"><b>8.6/10 </b></text>
+<text top="460" left="77" width="194" height="15" font="4">Higher Secondary(Standard XII) </text>
+<text top="460" left="357" width="69" height="15" font="4">2011-2012 </text>
+<text top="460" left="583" width="57" height="15" font="4">WBCHSE </text>
+<text top="460" left="809" width="29" height="15" font="4">60% </text>
+<text top="484" left="102" width="142" height="15" font="4">Secondary(Standard X) </text>
+<text top="484" left="357" width="69" height="15" font="4">2009-2010 </text>
+<text top="484" left="588" width="47" height="15" font="4">WBBSE </text>
+<text top="484" left="809" width="29" height="15" font="4">63% </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="14" size="9" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="15" size="9" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="16" size="14" family="ABCDEE+Calibri" color="#ffffff"/>
+	<fontspec id="17" size="13" family="ABCDEE+Calibri" color="#000000"/>
+<text top="3" left="108" width="3" height="15" font="4"> </text>
+<text top="24" left="108" width="3" height="15" font="4"> </text>
+<text top="46" left="35" width="137" height="17" font="6"><b>SOCIAL INITIATIVES </b></text>
+<text top="70" left="135" width="7" height="18" font="2"></text>
+<text top="74" left="142" width="4" height="14" font="3"> </text>
+<text top="73" left="162" width="603" height="15" font="5"><b>Trained a team of 21 volunteers</b> to collect &amp; distribute a sum of <b>INR 0.03 million</b> for the victims of </text>
+<text top="94" left="162" width="154" height="15" font="5"><b>Uttarakhand Flood</b> 2013 </text>
+<text top="112" left="135" width="7" height="18" font="2"></text>
+<text top="117" left="142" width="4" height="14" font="3"> </text>
+<text top="116" left="162" width="634" height="15" font="5"><b>Cataloged</b> and <b>designed</b> the <b>“CSE Department Placement Brochure”</b> for companies visiting the campus </text>
+<text top="137" left="162" width="95" height="15" font="4">for placements </text>
+<text top="155" left="135" width="7" height="18" font="2"></text>
+<text top="160" left="142" width="4" height="14" font="3"> </text>
+<text top="159" left="162" width="626" height="15" font="4">Conducted  <b>over 12 motivational seminars</b> in different schools of <b>JIS group</b> for the students of class 10</text>
+<text top="158" left="788" width="8" height="10" font="14">th</text>
+<text top="159" left="796" width="10" height="15" font="4">   </text>
+<text top="180" left="162" width="42" height="15" font="4">and 12</text>
+<text top="179" left="204" width="8" height="10" font="14">th</text>
+<text top="180" left="212" width="3" height="15" font="4"> </text>
+<text top="246" left="135" width="7" height="18" font="2"></text>
+<text top="250" left="142" width="4" height="14" font="3"> </text>
+<text top="249" left="162" width="265" height="15" font="5"><b>Certificate </b>of <b>Social Service Help Age India</b> </text>
+<text top="267" left="135" width="7" height="18" font="2"></text>
+<text top="272" left="142" width="4" height="14" font="3"> </text>
+<text top="271" left="162" width="642" height="15" font="5"><b>Certified </b>for <b>participation </b>on a one day Workshop on <b>“Application of Mathematical Tool in Competitive </b></text>
+<text top="292" left="162" width="631" height="15" font="5"><b>World”</b> organized by <b>Department Of</b> <b>Mathematics, JIS College of Engineering</b> and sponsored by <b>TEQIP</b> </text>
+<text top="310" left="135" width="7" height="18" font="2"></text>
+<text top="315" left="142" width="4" height="14" font="3"> </text>
+<text top="314" left="162" width="217" height="15" font="5"><b>Won Gold Medal </b>in <b>Relay Race in 7</b></text>
+<text top="313" left="379" width="9" height="10" font="15"><b>th</b></text>
+<text top="314" left="388" width="257" height="15" font="5"><b> ANNUAL SPORTS </b>organized by <b>JIS group </b> </text>
+<text top="332" left="135" width="7" height="18" font="2"></text>
+<text top="337" left="142" width="4" height="14" font="3"> </text>
+<text top="336" left="162" width="375" height="15" font="5"><b>Approved </b>for <b>participation </b>in <b>Soft Skill Training Programme </b> </text>
+<text top="354" left="135" width="7" height="18" font="2"></text>
+<text top="358" left="142" width="4" height="14" font="3"> </text>
+<text top="358" left="162" width="523" height="15" font="5"><b>Certified </b>for <b>participation </b>in<b> “EXORSA v1.0” Online Technical Fest of MYWBUT.COM</b> </text>
+<text top="405" left="135" width="7" height="18" font="2"></text>
+<text top="409" left="142" width="4" height="14" font="3"> </text>
+<text top="408" left="162" width="612" height="15" font="5"><b>Adaptable </b>to <b>Work </b>with<b> positive attitude </b>to contribute<b> </b>the<b> healthy functioning </b>of the<b> organization</b> </text>
+<text top="426" left="135" width="7" height="18" font="2"></text>
+<text top="431" left="142" width="4" height="14" font="3"> </text>
+<text top="430" left="162" width="222" height="15" font="5"><b>Self-Motivated</b> and <b>Great Patience</b>  </text>
+<text top="448" left="135" width="7" height="18" font="2"></text>
+<text top="453" left="142" width="4" height="14" font="3"> </text>
+<text top="452" left="162" width="235" height="15" font="5"><b>Sincerity</b> towards<b> job</b> and <b>punctuality</b> </text>
+<text top="470" left="135" width="7" height="18" font="2"></text>
+<text top="475" left="142" width="4" height="14" font="3"> </text>
+<text top="474" left="162" width="195" height="15" font="5"><b>Willingness </b>to learn new things </text>
+<text top="225" left="33" width="229" height="15" font="16"><b>AWARDS AND RECOGNITIONS            </b></text>
+<text top="382" left="31" width="95" height="17" font="6"><b>Strengths        </b></text>
+<text top="543" left="304" width="313" height="15" font="4">Address: 1001,Tagore Park, Block –C,KOL – 700039 </text>
+<text top="564" left="106" width="606" height="15" font="4">Contact No: (+91)9830033008,(+91)9830033738 E-mail: girikajal1994@gmail.com, Date of Birth: 17</text>
+<text top="562" left="712" width="9" height="10" font="14">th</text>
+<text top="564" left="721" width="92" height="15" font="4"> February 1994</text>
+<text top="565" left="812" width="6" height="14" font="17">  </text>
+</page>
+</pdf2xml>

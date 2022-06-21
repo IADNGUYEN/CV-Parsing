@@ -1,0 +1,162 @@
+Applicant for:
+R&D Engineer (Java/Python/C), all levels
+TMA Solutions
+16 December 2018
+Hoang Minh Tuoi
+tuoihoangminh@gmail.com
+Main interests: Python, C#, C++, C language, Embedded
+What skills, work projects or achievements make you a strong candidate for this
+position?
+Dear TMA Solutions,
+I'm Tuoi. I graduated Bach Khoa University with major is Computer Engineering.
+Currently, I am working as an Embedded Software Engineer.
+I found you are looking for R&D Engineer position.
+Based on my knowledge and passion on AI domain. I would like to apply to R&D
+Engineer position in your company.
+For more personal information, please refer attached file.
+Please kindly contact to me if you have any question.
+Thanks and Best regards,
+Tuoi Hoang
+Top Jobs for IT People
+"My #1 job is to hire A+ players."  Steve Jobs
+itviec.com
+08 6681 1397
+itviec@itviec.com
+HOANG MINH TUOI 
+EMBEDDED SOFTWARE DEVELOPER 
+tuoihoangminh@gmail.com 
++84-70 725 9601 
+LINKEDIN URL 
+5 Nguyen Lam Street, 6 Ward, District 10, Ho 
+Chi Minh City 
+EDUCATION 
+BACHELOR OF ENGINEERING 
+COMPUTER ENGINEERING 
+NOV 2017 
+Bach Khoa University Ho Chi Minh city 
+CERTIFICATION 
+Nov 2017, Bachelor of engineering 
+computer engineering. 
+Nov 
+2017, 
+Reporting 
+Skills 
+ITD 
+certification. 
+GENERAL INFORMATION 
+Used to work onsite in Japan for software 
+demonstration. 
+Has over 3 years of Software Embedded Programming. 
+Has nearly 2 years on developing BSP drivers with 
+RTOS environment. 
+Has knowledge on PCB development. 
+Main responsibilities: Acting as an embedded software 
+engineer of development and testing, include: 
+Development: 
+Apply full V-Model for software development 
+process. 
+Cooperate with stakeholder to create the 
+requirement specification. 
+Create design software specifications. 
+Create 
+source 
+code 
+based 
+on 
+design 
+specifications. 
+Analyzing and solving issues or bugs. 
+Peer review outputs for correctness. 
+Create and verify Meeting Minutes for Design 
+Review. 
+Collect and report the status for higher 
+managers. 
+Testing: 
+Execute test, include: Unit test, Integration test, 
+Automation testing and Manual testing. 
+Collect and create test reports. 
+Peer review outputs of testing phase. 
+2 
+JOB OBJECTIVE 
+Short term: 
+Improve the technical skills, such as: embedded 
+programming, problem analyzing and solving, etc. 
+Become expert embedded software engineer 
+with a passion for developing embedded software 
+product that expedite the efficiency and 
+effectiveness of organizational success. Well-
+versed in technology and writing code to create 
+systems that are high quality and safety. 
+Improve soft skills, such as: communication, 
+presentation, English, etc. 
+Long term: 
+Improve management skills, such as: planning, 
+leadership, cost management, risk management, 
+etc. 
+PERSONAL INFORMATION 
+Date of Birth: Dec 17th, 1993 
+Gender: Male 
+Marital status: Single 
+Health status: Good 
+SKILLS 
+Hardware knowledge: 
+ARM: STM32F103, STM32F411, ARM Core 
+A53 
+SoC: Renesas Boards, Orange Pi 
+AVR chips: ATMEGA328 
+Networking chips: ESP8266, CC2541, 
+SIM800 
+Development tools: 
+Lauterbach 
+PARTNER-JET2 
+Cantata 
+Coverity 
+ARM Keil-C 
+Debugging: 
+JTAG 
+ST-Link 
+Working environment: 
+Linux kernel 
+RTOS (FreeRTOS) 
+Programming language: 
+C/C++ 
+Python 
+Linux bash shell 
+UML 
+Software: 
+Enterprise Architecture 
+Visual Studio Code 
+MS Office/LibreOffice 
+English: 
+Listening, speaking, reading and writing: 
+Good 
+3 
+EXPERIENCE 
+FreeRTOS BSP driver development 
+Project location: Renesas Design Vietnam 
+Project duration: From Mar 2017 to Now 
+Role: Embedded software engineer 
+Project detail: Develop BSP drivers on V3H with FreeRTOS environment; in order to perform the camera 
+processing purpose. It will use many hardware resources, such as: Camera Serial Interface 2 (CSI2), Video 
+Input Module (VIN), Display Unit (DU), Inter-Integrated circuit (I2C), Timer, etc. 
+Detail personal tasks: 
+Development tasks: 
+Module owner of Camera Serial Interface 2 (CSI2), Error Management Module (EMM), General-
+Purpose Input/Output (GPIO), Peripheral Component Interconnect Express (PCIe). 
+Cooperate with stakeholder to discuss/clear the requirements of drivers, include: feature 
+requirement, performance requirement, etc. 
+Create design specifications, include: API User Manual, Function Design, Detail Design. 
+Create source code based on design specifications and adapt the requirement from customer, such 
+as: Follow MISRA C coding rules 2012, cyclomatic complexity, etc. 
+Analyze and fix bugs which is detected by test execution. 
+Peer review output of other members for correctness, such as: API spec, FD, DD, source code, etc. 
+Create and verify Meeting Minutes for Design Review with QA department 
+Technical support other members, such as: Boot loader for Boards, create tool guideline, etc. 
+Collect and report the status of development process for higher managers. 
+Testing tasks: 
+Prepare test specification, test program and test environments for PCIe, CSI2, EMM, GPIO drivers. 
+Execute test for drivers, include: Automation Testing (Cantata application), Manual Testing (On-
+Boards), Unit Test, Register Test, Integration Test, etc. 
+Collect and create test reports. 
+Peer review output of other members. 
+Technical support other members to create test cases. 

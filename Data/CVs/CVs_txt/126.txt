@@ -1,0 +1,99 @@
+CURRICULUM VITAE 
+Personal Information 
+Full name: Le Minh Nguyen (Nguyễn  Lê Minh)             
+Nationality: Vietnamese 
+Date of Birth: 10/03/1993 
+Gender: Male                                 
+Marital status: Single 
+Phone: 0164 617 4739                  
+Email: minhnguyen31093@gmail.com 
+Languages:  Vietnamese (Native), English (Intermediate) 
+Address:   65 – Yersin  Street – Cau Ong Lanh Ward – District 1 – HCMC. 
+My Linkedin: https://www.linkedin.com/in/minhnguyen31093 
+My Github: https://github.com/minhnguyen31093 
+My Youtube Channel: https://www.youtube.com/user/EternalUnlimitedTear 
+Education 
+Information Technology 
+Faculty of Electronics and Computer Science Engineering 
+2011  2014 Cao Thang Technical College, Ho Chi Minh City, Viet Nam 
+Summary 
+I am a good skilled developer working as Android Developer for more than one 
+year and a half. Mobile development is my favorite. Not only individual working, but 
+also team working is suitable for me. I like to study the library and development of new 
+library in Android. The next time, I will learn IOS and Window Phone. I am willing to 
+learn new technologies and techniques to overcome challenges in my field of work. Soft 
+skills, such as: information searching and analyzing, solving problems, are other fantastic 
+abilities of mine. 
+Skills 
+Soft Skills 
+○ Teamwork, Manage time, Organizational effectiveness 
+○ English: Communicate, discuss in groups, read English documents 
+Programming Skills 
+○ Language: C#, HTML, CSS, Java 
+○ Database: SQLite, ORMLite, MySQL, Microsoft SQL Server 
+○ Network: JSON, XML, REST API, Dropbox API, Facebook API, Twitter 
+API, Google API, Parse API 
+○ Software Design: OOP, Design Pattern 
+○ SDK: ASP.NET, Java 
+○ Development: Android 
+Software 
+○ Platforms: Windows 
+○ IDE and Tools: Eclipse, Netbeans, Visual Studio, Android Studio, MySQL 
+Workbench, Microsoft SQL Server, Flash, Photoshop, Google, Corel 
+Studio, 3DS Max. 
+Experience 
+9/2015 – Now Software Engineer at HiP 
+6/2014 – 7/2015 Software Engineer at Agilsun Co., LTD 
+9/2015 – Now: Lich Van Nien New  
+Lich Van Nien help you to know the Zodiac time, CanChi, Good and Bad day, 
+Start Direction or what should and shouldn’t do in your chosen day. It also help 
+you to manage information with day and month easier. 
+In this project I learned: Infinite Viewpager, Transform animation, Dialog from 
+bottom, Calculate Lunar day, Wheel view, newest Facebook API, Facebook 
+Audience Network, Parse push notification, Google Plus, Google Analytics, 
+Google Location Services, Alarm manager, Ringtone manager, Volley, Okhttp, 
+Gson, ActiveAndroid. 
+8/2015 – 9/2015: The KidzGrow App  
+The KidzGrow App is the most complete child development tool for parents and 
+caregivers. 
+In this project I learned: Viewpager Intro, Picasso 
+Library I created: https://github.com/minhnguyen31093/Countries-Picker 
+6/2015 – 7/2015: Retotus  
+In this project I learned: Fragment backstack 
+3/2015  5/2015: Ludi 
+Ludi help you find and receive detailed information of ongoing and upcoming 
+events within an appropriate radius of your current location. 
+Mobile app: https://play.google.com/store/apps/details?id=com.agilsun.ludi 
+In this project I learned: Google Map API, Google Cloud Message, Push 
+notification, Data storage, Twitter API, Location Service, Get contacts, Scan QR 
+code, Horizontalscrollview snap to page, Pie Chart. 
+12/2014  2/2015: TuoiThoDuDoi 
+Read comics from TuoiThoDuDoi.com 
+Comics are translated from TuoiThoDuDoi team. 
+Mobile app: 
+https://www.dropbox.com/s/hchr726e5cdxqgd/04062015TuoiThoDuDoi.apk?dl=1 
+In this project I learned: Facebook API, Google Admob, Increase performance, 
+Gridview pull to refresh and load more, Directional Viewpager, Multi Screen 
+support. 
+10/2014  11/2014: ImmaNjoy 
+ImmaNjoy is an application that makes it easy to create questionnaire, checklist 
+and article of new style unprecedented.  
+Mobile app: 
+https://play.google.com/store/apps/details?id=com.sharedsys.ImmaNjoy  
+In this project I learned: REST API, JSON, Listview pull to refresh and load more, 
+Expandable Listview, Custom UI. 
+7/2014  9/2014: Camera Animal 
+A funny app to create funny photos, use funny animal heads. User requirement: 
+funny is a must ! 
+In this project I learned: Image progress, Android handle. 
+Project References 
+Reminiscent: includes Reminder, Alarm, Sticky Note, Schedule, Favorite files, 
+folders, videos, music, websites, Spending Management with chart, English and 
+Vietnamese Language https://github.com/minhnguyen31093/Reminiscent 
+Hotel Management https://github.com/minhnguyen31093/Hotel-Management 
+Hobbies & Interests 
+Reading books: Harry Potter, Light Novel,...  
+Listen to music: Pop, Traditional. 
+Playing games: Final Fantasy Series, GTA Series,... 
+Watching Movies: Marvel Series, Once Upon A Time,... 
+Travel: Hue, Ha Noi, Nha Trang, Da Lat,... 

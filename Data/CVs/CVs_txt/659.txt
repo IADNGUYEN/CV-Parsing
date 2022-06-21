@@ -1,0 +1,205 @@
+ 
+CURRICULUM VITAE 
+PERSONAL DETAILS: 
+Full Name:        ĐẶNG SƠN TÙNG 
+Date of Birth:  09 – 11 – 1984 
+Marital Status: Single 
+Permanent residence: Hoa Hiep Bac ward, Dong 
+Hoa District, Phu Yen Province. 
+Gender:  Male 
+Contact Address:  01 Street, Truong Tho ward, Thu 
+Duc District, HCM city. 
+E-Mail Address:    
+o 
+dang.sontung@yahoo.com 
+o 
+tungdangson@gmail.com  
+Contact Telephone Number:   0944 811 772 
+WORKING EXPERIENCES: 
+Recent Company: OSG Asia and OSG Viet Nam  
+Recent Job Title:  IT Senior Specialist (OSG Asia) and Manager in Viet Nam 
+From:       09/2015 
+To    :       #Current  
+Job description  
+I had ready maintain & set up new Hardware (PC, Laptop), 
+Software with License, & all of IT asset.   
+Company: Japan Vietnam Fertilizer 
+Salary: 800 (USD) 
+Admin network layout: Lan, Wan (VPN), Routing network 
+for 6 Country and City connecting to OSA (Singapo). 
+Management & issue any rule/policy for security network 
+(Fortinet Firewall) 
+Backup, organize, and management Blade IBM Server.               
+Window Server 2008/2012: Domain Server – DHCP, DNS, 
+TCP/IP, Active Directory, Database Server (MS SQL 2012 R2), 
+Hyber – V (Replication/failover for most of Server) 
+Manage ERP Microsoft Dynamics Navision 2013, and SQL 
+Server Database. Support user in 6 Country in Asia for using 
+ERP. 
+Mail Exchange, Office 365/2013/2016 and Web Stock 
+Admin hosting.    
+Manage Cloud Communication (Bitrix24), sharing and team 
+working (Task/Mission issue/Reporting), and Support Tools 
+Company: Japan Vietnam Fertilizer  
+Recent Job Title:  Deputy IT Manager 
+From:       05/2011  
+To    :       09/2015  
+Job description  
+I had ready maintain & set up new Hardware (PC, Laptop), 
+Software with License, & all of IT asset.   
+Admin network layout: Lan, Metro Wan (HCM  Dong Nai), 
+Routing network. 
+Management & issue any rule/policy for security network 
+(Cyberoam Firewall) 
+Backup, organize, and management Window Server 
+2003/2008/2012: Domain Server – DHCP, DNS, TCP/IP, 
+Domain controller, Database Server, Navision – ERP Server, 
+Backup Addition Domain & Data Server – DFS. 
+Build document/procedure: IT rule, policy, training, and 
+document for IT Management follow ISO 9000 
+Mail and Web Admin hosting.    
+Setup, configure and assist user about MS Business Navision 
+Solution – ERP.   
+Net salary: 14.500.000 (VND) 
+From  to:  03/2010 – 05/2011                         
+Job description  
+During the time, I already maintain, set up new computer, 
+administer network, support quickly to users.  
+Management Mail User and Web Admin,  
+Design, develop new Web Server to use for IT Management. 
+To keep status of Data Base Server always good and backup it 
+weekly and manager to access for users. 
+Company: Ampharco USA  
+Job title: IT Engineer  
+Net salary: 6.500.000 (VND) 
+Reason for leaving : I want to work on 
+Good and Professional Environment  
+Write and design code, module to develop software for 
+technology manager in company 
+Maintain and setup hardware, software for Computer  
+I coordinate with ISO Section to Build document as : IT rule, 
+policy, training, and document for IT Management follow ISO 
+9001 
+From  to: 01/2009 – 01/2010 
+Job description  
+My job is to maintain, set up and repair the computer, network 
+Domain, support users, staff on my company as soon as have 
+request.  
+Setup, management mail user and web local, update inform to 
+public. 
+To keep status the Data base good and backup it every week 
+and issue to access it for users. 
+Write and design code, module to develop software for 
+management of all department and my company  
+Company: Thermtrol Corporation 
+Job title: IT Engineer  
+Net salary: 4.000.000(VND)  
+From – to: 9/2007 – 12/2009 
+Job description  
+To issue the ideal background for during the game, advance 
+algorithm,  
+Write code for all action of character by languages as C/C ++, 
+Cscript, Quest 3D, Lua Script. 
+Testing Game for complete as requirement/ 
+Company: Aragon Studio .,Ltd 
+Job title: Programmer (Code design) 
+Net salary: 3.500.000 (VND) 
+ 
+From: 02-2012 
+ 
+To:     09-2013 
+Institution:    Ho Chi Minh City Open University 
+Degree Attained: BACHELOR’S  
+DEGREE 
+Description:    
+To complete and advance Information Technical about 
+Science Computing as : Web service, Network Script, 
+protocol as VS C# 2012 
+Network Advance: Microsoft Window Server, IIS, Email 
+Server, Domain Controller, Routing, TCP/IP, Graphics 
+Network. 
+Safety & Security Information Technology.  
+Major: Computer Science 
+EDUCATION BACKGROUND: 
+TRAINING COURSE ATTENDED: 
+ 
+From : 09/2004 
+ 
+To :     8/2007 
+Institution :         The Technical Economy Industry College II 
+Degree Attained:  Bachelor  
+Description:   to learn any basic subject in Information 
+Technical: Web, Program, algorithm, graphics design, database 
+& network. 
+Major: Information Technology 
+ 
+10/2015  
+Conducted by:                Ibizcs – Singapo 
+Name of course:     ERP 
+Description Course:  All of about Microsoft Dynamic NAV 2013, 
+management – ERP.  
+ 
+05/2015  
+Conducted by:                Nhat Nghe Academy 
+Name of course:    MCSE 
+Description Course:  All of about Window Server 2012 R2 
+infrastructure, solution for enterprise & organization 
+management network multisite. 
+Understanding weak point & risk of system. There for, have 
+solution avoid attack and protect it system.  
+ 
+01/2015  
+Conducted by:                Nhat Nghe Academy 
+Name of course:   LPI I & II (Linux) 
+Description  Course :  All of about Linux Server – 
+CenOS/Redhat as : Email, Web, File Server, authenticate 
+services…etc.  
+ 
+09/2014 
+Conducted by:                Nhat Nghe Academy 
+Name of course:    CCNA  
+Description Course:  All of about infrastructure network layout 
+and Cisco technology as: Switching, Routing, TCP/IPv4/6, Vlan, 
+Security… 
+ 
+11/2012  
+Conducted by:            Cyberoam Technologies Pvt. Ltd 
+English Language Skill:  
+Level B, to be able basically communicate, good read/write, read document. 
+Computer skills:   
+OS: Advance on Window XP, 7, 8.1, 10 
+Linux: Ubuntu, CenOS 
+Server: Window Server 2003/2008/2012, Linux CenOS 
+Languages: Basically   C/C++, KnowledgeVisual Studio 2010/2012  
+Database: Knowledge SQL Server 2005/2008 
+Software: Advance MS Office 2010/2013, Security, Anti Virut, Firewall, Backup Software… 
+Web: Knowledge HTML, DreamWeaver, PHP & MySQL, ASP.Net & C# 2010/2013, LAML – 
+linux. 
+Network: Lan, Wan: Metro, VPN, Routing/Switching Cisco, Firewall Advance – Cyberoam UTM 
+layer 8, Fortinet Device and Technology. 
+EXPECTED JOB & WORK LOCATION: 
+Target Job Description & something myself: 
+I’m a fluent speaker, smartly, and funny. I love football, billiards, music and discover anywhere by go 
+travel. 
+I want to work in the professional place where exist career, stable, advancement. But most of all I can 
+learn experience and to raise knowledge. 
+Name of course:    CCNSP 
+All of security technology from Cyberoam on Network as: IPS, Qos, 
+Firewall rules, Anti Virut, Spam, Attack From Internet, Policy, VPN, 
+SSH, UTM  Layer 8 for management. 
+ 
+08/2008  
+Conducted by:             The Viet – My Language Center 
+Name of course:  English 
+Certificate Attained: Certificate (Level B) 
+ 
+10/2005  
+Conducted by: The Profession Training Center  at  9.District – 
+HCM City 
+Name of course:  Hardware of 
+Computer  
+Certificate Attained:  Certificate 
+Expected Profession: IT (or Concern)   
+Expected Job Location: Ho Chi Minh/Dong Nai/ Binh Duong.  
+Expected Salary:  ~ 1000$  
+Thanks you so much for your spending time with my resume! 

@@ -1,0 +1,147 @@
+CURRICULUM VITAE 
+PERSONAL DATA 
+Full Name: Hứa Thiện Tâm 
+Date of Birth: 06/12/1990 
+Place of Birth: Hồ Chí Minh City 
+Gender: Male  
+Marital Status: Single  
+Nationality: Vietnamese 
+Present Address: 99 Trần Hưng Đạo Street, Ward 6, District 5, Hồ Chí Minh City 
+Telephone: 08-3855-1077 
+Mobile: 0902-994-024 
+E-mail: tamcbt1990@gmail.com 
+JOB OBJECTIVE  
+Web & Software Developer 
+Improve knowledge & experience 
+Work in dynamic, friendly environment 
+Technical expert 
+WORKING EXPERIENCES 
+Dec/2010 
+Saigon Đẹp Center  
+Customer relationship Management project 
+o 
+Project languages: ASP.NET, C#, SQL Server 
+o 
+Position: team leader 
+o 
+Works:  
+Planning  
+Requirement specification 
+Coding and design 
+o 
+All module 
+Testing 
+Mar/2012 
+TrustBank  
+AGM (Annual General Meeting) project 
+o 
+Project languages: ASP.NET, C#, SQL Server, CSS, javascript 
+o 
+Position: Developer 
+o 
+Works:  
+Voting module 
+Report module 
+Barcode scanning module 
+Improve performance  
+Cash Collection Website project 
+o 
+Project languages: Asp.NET, C#, SQL Server, CSS 
+o 
+Position: key person 
+o 
+Works: 
+Planning 
+Requirement specification 
+Coding and design 
+o 
+All module 
+Testing  
+E-Lottery project 
+o 
+Project languages: C#, SQL Server 
+o 
+Position: Supporter 
+o 
+Works:  
+Set up E-Lottery event at branches 
+Feb/2013 
+Vietnam Construction Bank  
+HRM (Human Resource Management) Project  
+o 
+Project languages: ASP.NET, C#, SQL Server, CSS 
+o 
+Position: key person 
+o 
+Works: 
+All categories module 
+Employee management module 
+Insurance management module 
+Dash board module 
+Concurrent Employee module 
+Contract management module 
+Position management module 
+Login by domain user module 
+Create user with role module 
+Report module  
+KPI (Key Performance Indicator) project 
+o 
+Project languages: ASP.NET, C#, SQL Server, Oracle, CSS 
+o 
+Position: key person 
+o 
+Works: 
+Connect to Smartbank’s database to take out customer 
+info and balance for calculating indicators 
+Check customer’s current balance module 
+Import customer indicator module 
+Indicator management module 
+KPI adjustment module 
+Export KPI reports for branches, departments, groups and 
+employees module  
+Core Banking’s Supporter 
+o 
+Project languages: Oracle 
+o 
+Position: support 
+o 
+Works: 
+Fund checking 
+Daily reporting 
+EDUCATION BACKGROUND 
+From 2005 to 2008: Ernst Thalmann High School 
+From 2008 to 2012: Vietnamese American Training College  
+Computer Programming and Analysis 
+KEY SKILLS 
+Languages Skills 
+Toeic 465 
+Can read, write, communicate in English fluently 
+Computer Skills 
+Java, javascript, jquery, AJAX 
+C, C++, C#, ASP.NET, VB.NET 
+UML 
+XML 
+Web service 
+CSS 
+SQL Server 
+Oracle 
+Create & handle big database 
+MS Office 
+MS Project 
+Can work on Crystal report 
+PC Trouble-Shooting, Hardware Knowledge 
+Others skill 
+Multitask 
+Tracking daily report 
+Banking general knowledge 
+Make user guide book 
+Googling 
+ACTIVITIES 
+Listen to rock music, playing guitar, reading weapons and military vehicles document and 
+review of computer hardware. 
+Watching TV, swimming and traveling. 
+PERSONAL QUALITIES 
+Sense of Responsibility 
+Spirited teamwork 
+Can work under heavy pressure 
+Self-motivated 

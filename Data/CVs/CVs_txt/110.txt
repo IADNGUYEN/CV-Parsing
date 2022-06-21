@@ -1,0 +1,58 @@
+2014  2015
+2017  2018
+2016  2017
+2015  2016
+University
+Majors
+Strength
+Weakness
+Career goals
+EXPERIENCE
+participate in union activities.
+Support the exam season.
+Advising education enrollment.
+Participate in Skill Club.
+Social charity work.
+EDUCATION
+complete the general theory.
+electrical circuit,  Basic electronics.
+Digital Technical .
+programming language c/c++.
+network engineering,  hardware software design, VHDL.
+practice : processor,  electronic, RTOS.
+Project 1: Smart home control circuit.
+graduation project.
+internship.
+Embedded system design, Internet of Things application.
+Project 2: Switch IOT.
+Ho Chi Minh City University of Technology and Education.
+Computer Engineering technology  Embedded System.
+ABOUT ME
+My greatest strengths in all the works done are sense of 
+responsibility,  carefulness and on time.
+I look forward to working in the feld of embedded systems  
+Internet of  Things, in a professional environment, approach 
+new technologies and have a long-term commitment to my 
+work place.
+Lack of experience due to just have graduation should 
+accumulate more.
+TRẦN MINH SANG
+CONTACT
+tranminhsang214@gmail.com
+0169 2121 497
+SOFTWARE
+Proteus
+Ofce
+Keil C
+Visual Studio
+Android studio
+HOBBIES
+Moto
+Music
+Travel
+SKILL
+C/C++
+JAVA
+VHDL
+English
+Teamwork

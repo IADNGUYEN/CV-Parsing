@@ -1,0 +1,87 @@
+Pham Tuan Anh
+Embedded System Engineer
+Programming
+Hardware
+Responsibility
+Teamwork
+Self-study
+Public Speaking
+Ming-Hung Chen, 
+Associate Professor 
+Department of Electrical Engineering,
+Email: mhchen@mail.mcut.edu.tw
+Tel: +886-2-29089899 ext: 4820
+Sep 2015  July 2017
+MingChi University of Technology (MCUT)
+MS in Electrical Engineering
+Taiwan
+Sep 2010  July 2015
+Da Nang University of Science&Technology (DUT)
+BS in Mechatronics Engineering
+Vietnam
+Sep 2015  July 2017
+MCUT
+Research Assistant
+Main responsibilities:  Research on Wireless Power Transfer System.  Assist my Professor in the research LAB.
+Projects:  Design a personal fitness device 
+Take part in writing a C program using Keil C to sample
+microphone input, acceleration input, temperature input,
+display on LCD (ST7735), output to a buzzer.  Design a PCB layout for a GPS tracking device using
+Altium:
+Create the component library and routing.
+Publications:
+Paper: Design and Optimization of High-Efficiency
+Resonant Wireless Power Transfer System.
+Published in 2016_07_07_IEEE International Conference
+on System Science and Engineering (ICSSE2016).
+Recognition and Gains:  Strong programming skills in C for real-time control
+and sensor processing.  Knowledge of peripheral buses like I2C and SPI, UART,
+..., serial port, digital to analog converters (DAC), analog
+to digital converters (ADC), real-time operating systems,
+Altium, debugging tools such as bus analyzers and
+oscilloscopes. Ability to read schematics and understand the
+electronic circuitry. Familiar with ARM (STM32, TM4C), AVR, 8051, BLE,
+Wifi. Familiar with uVision Keil, Eclipse, CCS, IAR, Arduino
+IDE. Understand makefile, linked file, library, GCC...
+Apr 2018  current
+Arrive Technologies
+Software Developer
+Main responsibilities:  Take part in writing driver for CodeChip (FPGA)
+product.  Support client.
+Sep, 3rd 1992
+
+Male
+
+0942743552
+
+tuananhcdt1@gmail.com
+
+HCM city, Vietnam
+
+Skype: phamtuananh0135
+
+CONTACT INFORMATION
+SKILLS
+REFERENCES
+EDUCATION
+WORK EXPERIENCE
+Projects: 80G STM SAR CodeChip(Optical Transport Network)
+Writing driver for the CodeChip using GNU and Eclipse to
+manage the operation of the chip. The CodeChip is used
+to provide the functionality of transport, multiplexing,
+switching, management, supervision, and survivability of
+optical channels carrying client signals.  100G STM1 SAR ODUk SAR CodeChip 
+Take part in writing driver for the CodeChip and go
+onsite  for supporting the customer(ZTE)
+Publications:
+Recognition and Gains:  Familiar with Objective C programming, GDB debugger,
+GIT...  Improve the public speaking skill.  Knowledge of C++, Python.
+TOEIC Certificate with score 775 out of 990
+2017
+Annual Scholarship in MCUT
+2015-2017
+Annual Scholarship in DUT
+2010-2015
+© topcv.vn
+CERTIFICATIONS
+HONORS & AWARDS

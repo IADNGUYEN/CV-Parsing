@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="25" family="Roboto" color="#236b81"/>
+	<fontspec id="1" size="16" family="Roboto" color="#484848"/>
+	<fontspec id="2" size="29" family="Roboto" color="#236b81"/>
+	<fontspec id="3" size="16" family="Roboto" color="#236b81"/>
+	<fontspec id="4" size="16" family="FontAwesome" color="#484848"/>
+	<fontspec id="5" size="17" family="Roboto" color="#484848"/>
+	<fontspec id="6" size="18" family="Arial" color="#000000"/>
+<text top="247" left="46" width="131" height="30" font="0">OBJECTIVE</text>
+<text top="295" left="46" width="255" height="19" font="1">To do what i love and be better at it.</text>
+<text top="340" left="46" width="138" height="30" font="0">EDUCATION</text>
+<text top="495" left="46" width="224" height="30" font="0">WORK EXPERIENCE</text>
+<text top="73" left="218" width="173" height="35" font="2">VU TIEN LUC</text>
+<text top="58" left="654" width="200" height="19" font="3">IOT ENGINEER - SOFTWARE</text>
+<text top="80" left="766" width="88" height="19" font="3">DEVELOPER</text>
+<text top="125" left="238" width="94" height="19" font="1">Nov 27, 1991</text>
+<text top="124" left="218" width="15" height="16" font="4"></text>
+<text top="125" left="556" width="35" height="19" font="1">Male</text>
+<text top="124" left="537" width="13" height="16" font="4"></text>
+<text top="150" left="218" width="13" height="16" font="4"></text>
+<text top="150" left="537" width="14" height="16" font="4"></text>
+<text top="178" left="238" width="127" height="19" font="1">TP HCM, Vietnam</text>
+<text top="177" left="220" width="9" height="16" font="4"></text>
+<text top="178" left="556" width="113" height="19" font="1">[protected data]</text>
+<text top="177" left="540" width="6" height="16" font="4"></text>
+<text top="388" left="46" width="225" height="19" font="3">MAJOR: SOFTWARE ENGINEER</text>
+<text top="410" left="46" width="144" height="19" font="1">Oct 2013 - Dec 2017</text>
+<text top="387" left="368" width="410" height="20" font="5"><b>POSTS AND TELECOMMUNICATIONS INSTITUTE OF</b></text>
+<text top="409" left="368" width="112" height="20" font="5"><b>TECHNOLOGY</b></text>
+<text top="432" left="368" width="78" height="19" font="1">GPA: 3.0/4</text>
+<text top="542" left="46" width="100" height="19" font="3">ALGORITHMS</text>
+<text top="564" left="46" width="142" height="19" font="1">June 2009 - Present</text>
+<text top="541" left="368" width="477" height="20" font="5"><b>UNIVERSITY OF ENGINEERING AND TECHNOLOGY(UET) AND</b></text>
+<text top="563" left="368" width="95" height="20" font="5"><b>BY MY SELF</b></text>
+<text top="586" left="368" width="193" height="19" font="1">- Good in in data structures</text>
+<text top="608" left="368" width="456" height="19" font="1">- Good in some basics algorithms such as sorting, trees, graphs,</text>
+<text top="630" left="368" width="256" height="19" font="1">hashtable, dynamic programming ...</text>
+<text top="652" left="368" width="357" height="19" font="1">- Attended ACM/ICPC Asia Regional Contest 2010</text>
+<text top="691" left="46" width="102" height="19" font="3">NETWORKING</text>
+<text top="713" left="46" width="142" height="19" font="1">June 2014 - Present</text>
+<text top="690" left="368" width="80" height="20" font="5"><b>PTIT HCM</b></text>
+<text top="713" left="368" width="376" height="19" font="1">- Experienced in how does the low level internet work</text>
+<text top="735" left="368" width="448" height="19" font="1">- Done many projects related to networking such as Torrenting,</text>
+<text top="757" left="368" width="414" height="19" font="1">Multiplayer game, MQTT server, FPT server follows RFC....</text>
+<text top="796" left="46" width="139" height="19" font="3">OBJECT-ORIENTED</text>
+<text top="818" left="46" width="142" height="19" font="1">June 2015 - Present</text>
+<text top="795" left="368" width="80" height="20" font="5"><b>PTIT HCM</b></text>
+<text top="818" left="368" width="224" height="19" font="1">- Experienced Java, C#, VB.NET</text>
+<text top="840" left="368" width="229" height="19" font="1">- Experienced in object-oriented.</text>
+<text top="879" left="46" width="46" height="19" font="3">C/C++</text>
+<text top="901" left="46" width="142" height="19" font="1">June 2009 - Present</text>
+<text top="878" left="368" width="249" height="20" font="5"><b>RENESAS, BAN VIEN, UET, SELF</b></text>
+<text top="901" left="368" width="253" height="19" font="1">- Fault Injection for virtual hardware</text>
+<text top="923" left="368" width="214" height="19" font="1">- Library System Management</text>
+<text top="945" left="368" width="170" height="19" font="1">- Many small projects ...</text>
+<text top="984" left="46" width="29" height="19" font="3">SQL</text>
+<text top="1006" left="46" width="142" height="19" font="1">June 2016 - Present</text>
+<text top="983" left="368" width="211" height="20" font="5"><b>MXV, PASONA TECH, SELF</b></text>
+<text top="1006" left="368" width="128" height="19" font="1">- Database design</text>
+<text top="1028" left="368" width="95" height="19" font="1">- SQL queries</text>
+<text top="1050" left="368" width="235" height="19" font="1">- Good at optimising SQL queries</text>
+<text top="1072" left="368" width="311" height="19" font="1">- Good at database structure 1NF, 2NF, 3NF</text>
+<text top="1111" left="46" width="56" height="19" font="3">NO SQL</text>
+<text top="1133" left="46" width="135" height="19" font="1">Aug 2017 - Present</text>
+<text top="1110" left="368" width="132" height="20" font="5"><b>PTIT HCM , SELF</b></text>
+<text top="1133" left="368" width="365" height="19" font="1">Experienced in MongoDB database for IOT projects</text>
+<text top="1172" left="46" width="175" height="19" font="3">SOFTWARE DEVELOPER</text>
+<text top="1194" left="46" width="116" height="19" font="1">Nov 2015 - 2016</text>
+<text top="1171" left="368" width="117" height="20" font="5"><b>PASONA TECH</b></text>
+<text top="1194" left="368" width="328" height="19" font="1">- Optimising their SQL procedures and queries</text>
+<text top="148" left="239" width="110" height="24" font="6">01686743836</text>
+<text top="150" left="560" width="211" height="24" font="6">vutienluc1991@gmail.com</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="7" size="25" family="Roboto" color="#246b81"/>
+	<fontspec id="8" size="16" family="Roboto" color="#494949"/>
+	<fontspec id="9" size="16" family="Roboto" color="#246b81"/>
+	<fontspec id="10" size="17" family="Roboto" color="#494949"/>
+<text top="631" left="46" width="80" height="30" font="7">SKILLS</text>
+<text top="914" left="46" width="319" height="30" font="7">ADDITIONAL INFORMATION</text>
+<text top="962" left="46" width="128" height="19" font="8">- Creative thinking</text>
+<text top="984" left="46" width="376" height="19" font="8">- Very good at solving problems and heavy thinking...</text>
+<text top="1006" left="46" width="190" height="19" font="8">- Can handle high pressure</text>
+<text top="1028" left="46" width="199" height="19" font="8">- Know a little bit of Spanish</text>
+<text top="1050" left="46" width="115" height="19" font="8">- A nature lover, </text>
+<text top="1072" left="46" width="144" height="19" font="8">- Enjoy doing charity</text>
+<text top="631" left="464" width="195" height="30" font="7">CERTIFICATIONS</text>
+<text top="824" left="464" width="130" height="30" font="7">INTERESTS</text>
+<text top="34" left="368" width="346" height="19" font="8">- Debugging and fixing their accounting software</text>
+<text top="56" left="368" width="166" height="19" font="8">- Testing their products</text>
+<text top="78" left="368" width="42" height="19" font="8">- UML</text>
+<text top="117" left="46" width="175" height="19" font="9">SOFTWARE DEVELOPER</text>
+<text top="139" left="46" width="148" height="19" font="8">May 2017 - Dec 2017</text>
+<text top="116" left="368" width="369" height="20" font="10"><b>MERCHANDISE EXCHANGE OF VIETNAM(MXV)</b></text>
+<text top="139" left="368" width="244" height="19" font="8">- Future products market software</text>
+<text top="161" left="368" width="234" height="19" font="8">- Auto trading, balancing buy/sell</text>
+<text top="183" left="368" width="325" height="19" font="8">- FIX Stock trading and Bank trading protocol)</text>
+<text top="205" left="368" width="269" height="19" font="8">- Database developing and optimising</text>
+<text top="244" left="46" width="147" height="19" font="9">IOT PROGRAMMING</text>
+<text top="266" left="46" width="135" height="19" font="8">Nov 2017 - Present</text>
+<text top="243" left="368" width="80" height="20" font="10"><b>PTIT HCM</b></text>
+<text top="266" left="368" width="421" height="19" font="8">- My thesis is an IOT project (an automatic parking system)</text>
+<text top="288" left="368" width="473" height="19" font="8">developed from scratch (Embedded, MQTT broker, MQTT pub/sub</text>
+<text top="310" left="368" width="485" height="19" font="8">client, management software)(Highest score in sub-committee - A+)</text>
+<text top="331" left="368" width="473" height="19" font="8">- Automated Mushroom House with IOT system (Server, Database,</text>
+<text top="353" left="368" width="258" height="19" font="8">Embedded, Management System ...)</text>
+<text top="393" left="46" width="154" height="19" font="9">EMBEDDED ENGINER</text>
+<text top="414" left="46" width="132" height="19" font="8">Jan 2018 - Present</text>
+<text top="391" left="368" width="75" height="20" font="10"><b>RENESAS</b></text>
+<text top="414" left="368" width="395" height="19" font="8">- Fault Injection to testing Hardware on Renesas RH850</text>
+<text top="436" left="368" width="228" height="19" font="8">- Safety Application Notes(SAN)</text>
+<text top="458" left="368" width="305" height="19" font="8">- Familar with big company reporting rules.</text>
+<text top="480" left="368" width="248" height="19" font="8">- Life cycle of system development</text>
+<text top="502" left="368" width="376" height="19" font="8">- Self investigation, Reporting, UML, Funtional Design</text>
+<text top="524" left="368" width="268" height="19" font="8">- Tool program for Faul Injection, SAN</text>
+<text top="546" left="368" width="241" height="19" font="8">- Unit Test for Fault Injection, SAN</text>
+<text top="568" left="368" width="76" height="19" font="8">- Python, C</text>
+<text top="678" left="46" width="76" height="19" font="8">Teamwork</text>
+<text top="731" left="46" width="204" height="19" font="8">Logical thinking and creative</text>
+<text top="785" left="46" width="58" height="19" font="8">Reading</text>
+<text top="838" left="46" width="114" height="19" font="8">Communication</text>
+<text top="678" left="464" width="245" height="19" font="8">ACM ICPC - Programming Contest</text>
+<text top="700" left="464" width="36" height="19" font="8">2010</text>
+<text top="740" left="464" width="100" height="19" font="8">TOEIC 790 IIG</text>
+<text top="761" left="464" width="36" height="19" font="8">2018</text>
+<text top="872" left="464" width="123" height="19" font="8">Watching movies</text>
+<text top="872" left="659" width="131" height="19" font="8">Listening to Music</text>
+<text top="911" left="464" width="96" height="19" font="8">playing guitar</text>
+<text top="911" left="659" width="147" height="19" font="8">go fishing in the wild</text>
+</page>
+</pdf2xml>

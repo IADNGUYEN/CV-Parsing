@@ -1,0 +1,227 @@
+Manikandan C 
+Blockchain Developer     
+maniegsp@gmail.com 
++91 8760327127  
+https://www.linkedin.com/in/manikandan-c-4960973a/ 
+Objective: 
+Utilizing my skills and abilities in a company that offers professional growth and new 
+avenues for learning while being resourceful, innovative and flexible. I aspire to see my 
+personal skills and professional qualities to contribute positively to the organization’s 
+success and its holistic improvement. 
+Career Summary:  
+6+ years of extensive experience with Blockchain & Microsoft Technologies in IT 
+industry. 
+Expertise working in roles such as a Blockchain Developer in distributed industry 
+sectors and verticals. 
+Experience on Blockchain platforms like Ethereum,  Hyperledger, Quorum etc. 
+Proficiency in languages like Solidity, Node js, Angular JS, MongoDB, chaincode, 
+ERC20 & ERC223 Token implementation, remix, IPFS, JQuery, Javascript, HTML5, 
+and CSS3. 
+Experienced with Microsoft Azure, Azure machine learning, Amazon alexa, Power BI 
+and MS SharePoint. 
+Developed applications using Ethereum, hyperledger for different use cases. 
+Familiarity with P2P networks and consensus algorithms. 
+Expertise working in roles such as a SharePoint Developer in distributed industry 
+sectors and verticals. 
+Experience with full life cycle application development, which has included 
+requirements gathering, analysis, conceptual design, configuration, coding, 
+development, testing, and deployment. 
+Team player with leadership qualities, strong communication, analytical and logical 
+problem-solving skills. 
+Interacting with clients, analyzing their business requirements and providing support 
+extensively. 
+Industry Experience: 
+Currently working as Associate for Ernst & Young(EY) from Apr 2016  Till Date. 
+Worked as Software Development Engineer for HTC Global Services from Dec 2012 – 
+March 2016. 
+Worked as Trainee for HTC Global Services from May 2012 – Dec 2012. 
+Technical Skills:                 
+Web Technologies 
+: Node JS, AngularJS, Web3 JS, JQuery, C#,     
+JavaScript, CSS, HTML, Power BI, 
+Microsoft Azure, Amazon Alexa, ASP.Net 
+Blockchain Platform        : Ethereum, Hyperledger, Quorum                  
+IDE 
+: Remix, Microsoft Visual Studio 2017/2013 with  
+.Net Framework 4.5/4.0/3.5, VS Code 
+Database 
+: Microsoft SQL Server 2008 R2/2012, MongoDB 
+Version Control 
+: Team Foundation Server, GitHub 
+Educational Profile: 
+Completed B.E., (Computer Science and Engineering) in 2011 from   
+E.G.S.P.Engineering.College, Nagapattinam (Affiliated to Anna University, Chennai.). 
+Project Details: 
+#1 
+Project Title  
+: 
+Kuwait finance house(KFH) bank charity 
+Designation   
+: 
+Blockchain Developer 
+Technology 
+: 
+Ethereum, Node js, AngularJS, MongoDB 
+Platform 
+: 
+Ethereum POA 
+Project Description:  
+The scope of the project is to manage the donation that are made to different charity 
+programs by Kuwait finance house bank. It will bring organizations and individual donors 
+have transparency in the money spent in the charity program. The Transactions are added 
+to the blockchain providing an indelible and transparent record of the payment. Record of 
+fund transfer is updated to all participants showing exactly the transaction source and 
+destination. The system is updated with the progress made on the program by a trusted 
+entity and is available to public. 
+Role and Responsibilities: 
+Created ERC20 token on ethereum blockchain 
+Developed nodejs services to get data from the blockchain 
+Designed & Developed smart contract functions and DB. 
+Involved in unit testing, integration testing and deployment of the application. 
+Designed framework for the project in VS 2017. 
+Interaction with client frequently for better understanding and to resolve the issues 
+in a timely manner. 
+Initial design of the site with guidance from the UI design team. 
+#2 
+Project Title  
+: 
+Asset Tracking 
+Designation   
+: 
+Blockchain Developer 
+Technology 
+: 
+Ethereum, Node js, Angular JS, MongoDB 
+Platform 
+: 
+Ethereum POW 
+Project Description:  
+In supply chain industry, assets are a critical component of any business or organization, 
+but tracking those assets can be one of the most time-consuming process. In the case of 
+any business, recalling the asset or ownership identification is very challenging. Also it is 
+impossible to identify the assets or the ownership when the assets are transferred to 
+different business entities. This system also eliminates third party involvement and even 
+audits. With this application, we can move assets from one entity to another and also 
+combine multiple assets (child assets) into a single (parent) asset with an AI enabled add-
+on of amazon alexa which makes search easier and the system will provide you all 
+information about your assets. 
+Role and Responsibilities: 
+Developed nodejs web service to get data from the blockchain 
+Developed smart contract functions. 
+Developed amazon alexa lamda function. 
+Developed the asset tracker part which is the core of the project. 
+Initial design of the site with guidance from the UI design team. 
+#3 
+Project Title  
+: 
+Airlines Insurance Claim & Loyalty Program  
+Designation   
+: 
+Blockchain Developer 
+Technology 
+: 
+Ethereum, Solidity, Nodejs, Angularjs, MongoDB 
+Platform 
+: 
+Ethereum POW 
+Project Description:  
+Under normal circumstances, the users do not have access/receive any feedbacks of live 
+flight delays data and unable to make a decision for opting right insurance. When envisaged 
+with Blockchain wallet based loyalty program, it provides a win-win for the customers as 
+well as industry players catering to airlines, hotel and insurance. User can redeem rewards 
+points and the insurance can be claimed for flight delay. Banking system authenticates the 
+user through password security and face verification process before any investments or 
+transactions are performed. Prediction analysis using azure machine learning based on 
+historical data 
+Role and Responsibilities: 
+Designed & Developed DB and smart contract functions. 
+Developed nodejs web service to get data from the blockchain 
+Developed the azure machine learning experiment to predict the flight delay. 
+Initial design of the site with guidance from the UI design team. 
+#4 
+Project Title  
+: 
+Remittance   
+Designation   
+: 
+Blockchain Developer 
+Technology 
+: 
+Hyperledger, Chaincode, GO, Nodejs, Angularjs,  
+Project Description:  
+The scope of the project is to speed up and simplify the cross-border payments process, 
+cutting out many of the traditional middlemen and making money remittance more 
+affordable. This system provides guaranteed, real-time transactions across borders, 
+reducing the risk of loss due to currency fluctuations. Using this system user can funds to 
+each other directly, no one acts as an intermediary. Those in the network validating the 
+transaction, are seeing data relating to the code of the transaction, not the personal data. 
+Role and Responsibilities: 
+Developed smart contract functions using chaincode. 
+Developed nodejs web service to get data from the blockchain 
+Involved in unit testing, integration testing and deployment of the application. 
+#5 
+Project Title  
+: 
+EY Rewards & Recognition   
+Designation   
+: 
+Blockchain Developer 
+Technology 
+: 
+Ethereum, Solidity, Nodejs, Angularjs, MongoDB 
+Platform 
+: 
+Ethereum POW 
+Project Description:  
+Award is a recognition mechanism to appreciate and reward achievements of employees 
+who have gone the extra mile to achieve goals every quarter. Rewards & Recognition voting 
+system on Blockchain will ensure that the system is secure, tamper proof and there is 
+complete traceability.The Transactions are added to the blockchain providing an indelible 
+and tamper proof record for the voting system 
+Role and Responsibilities: 
+Designed DB and smart contract functions. 
+Developed nodejs web service to get data from the blockchain 
+Involved in unit testing, integration testing and deployment of the application. 
+#6      Project Title  
+: 
+Business integrated Planning Optimization  
+System (BiPOS)  
+Client   
+: 
+Western Digital, Malaysia 
+Designation   
+: 
+Sharepoint Developer 
+Technology 
+: 
+SharePoint 2010, SQL 2008 R2,SSIS 
+Project Description:  
+Business integrated Planning Optimization System (BiPOS) is a centralized KPI 
+management system that will be used globally by Western Digital to support business 
+planning and costing optimization. System allows user to manage KPIs of HDD (Hard Disk 
+Drive) and HSA (Head Stack Assembly) manufacturing process. The results from this KPI 
+will be released to use in Finance Costing System. 
+Role and Responsibilities: 
+Created SharePoint Application pages and Web Parts to implement data retrieval and 
+manipulation. 
+Deployed Site Features and Web Parts by using SharePoint Management shell. 
+Involved in unit testing, integration testing and deployment of the application 
+Developed the SSIS packages for bulk data movement. 
+Personal Details: 
+Date of Birth  
+: 06/08/1990 
+Gender 
+: Male 
+Nationality 
+: Indian 
+Languages Known 
+: English, Tamil, and Malayalam 
+Linkedin  
+: https://www.linkedin.com/in/manikandan-c-4960973a/ 
+Declaration: 
+Hereby, I declare that the information furnished above is true to the best of my 
+knowledge. 
+Place: India,Kochi, Kerala  
+Date:  
+Signature 
+(Manikandan C) 

@@ -1,0 +1,362 @@
+NGUYEN THANH DAT 
+Phone: +84 906 744 028| Email: thanhdat0888@gmail.com  
+1 
+PERSONAL INFORMATION 
+Date & Place of birthday: Dec 8th, 1988 in Quy Nhon, Binh Dinh, Vietnam 
+Nationality: Vietnamese 
+LinkedIn: http://lnkd.in/dnkpryA 
+Permanent address: A6.1, Lu Gia Plaza, 70 Lu Gia, 15 Ward, District 11, HCM City  
+EDUCATION 
+2010 
+FPT University 
+Hanoi, Vietnam 
+Degree: 
+Bachelor in Software engineering 
+Interested Subjects: Programing courses (C, C++, JAVA, C#), Linux Operation System, 
+Human computer interaction, Software project management, Ethics 
+in information technology, E-commerce, Data Warehouse, ERP, 
+SW Entrepreneurship, Software Architecture Design  
+2014 
+University of Massachusetts Lowell  
+Massachusetts, 
+US  
+Degree: 
+Master in Business Administration, IT concentration 
+Interested Subjects: Data Mining, Special topic in MIS: Social Media, E-business, 
+Managing Information System, Working in groups, Organizational 
+behavior, Business communication, Managing Organizational 
+Change, Operation Management, Global Enterprise 
+WORKING EXPERIENCES 
+2009, 2011,2012 
+FPT Software 
+Vietnam  
+Position: 
+Software Developer, Team leader 
+Job Description: 
+Java, VB, C#(.Net), C++, Cobol developer and team leader, work 
+with Japanese customer 
+2012 
+Defide Vietnam Company 
+Vietnam  
+Position: 
+Software Developer 
+Job Description 
+Java, ColdFusion developer, work with Japanese 
+customer 
+SKILLS 
+Software Engineering 
+Technical 
+Level 
+Experience 
+(Used Months) 
+Develop 
+Java Core 
+VB.Net 
+C++      
+Good 
+Good 
+Average  
+36 
+8 
+3 
+NGUYEN THANH DAT 
+Phone: +84 906 744 028| Email: thanhdat0888@gmail.com  
+2 
+C#(.NET)  
+Good 
+8 
+SQL server 
+MySQL 
+Oracle 
+MSV SourceSafe 
+CVS 
+SVN 
+Good 
+Good 
+Good 
+Good 
+Good 
+Good 
+5 
+5 
+3 
+12 
+5 
+7 
+Design 
+Smartdraw 2010 
+Good 
+2 
+StarUML 
+Good 
+2 
+Others 
+Technical 
+Level 
+Experience 
+(Used Month) 
+Office Application 
+Microsoft Word 
+Good 
+20 
+Microsoft Excel 
+Good 
+20 
+Project Management 
+Microsoft Project 
+Good 
+8 
+PROJECT DETAILS 
+Feb. 2009 to Aug. 2009 
+Project Name: FSOFT Insight II 
+Customer: 
+FPT 
+Project Goal: 
+Build an Web Application that allows managing a project in 
+FPT Software 
+Position: 
+Developer 
+Responsibility: 
+Develop project site template including custom lists, event 
+handlers, and web parts 
+Number of members: 
+20 members 
+Environments: 
+Window XP, Eclipse Europa 
+Technologies: 
+Java, Struts 2 
+DAO, Hibernate 
+Spring security 
+Sep. 2009 to Oct. 2009 
+Project Name: FE-MHS 
+Customer: 
+Nissen  Japan 
+Project Goal: 
+Build a system for caring patient’s heath 
+Position: 
+Developer 
+Responsibility: 
+Develop and maintain system 
+Number of members: 
+12 members 
+Environments: 
+Window XP, Visual Studio 2005 
+Technologies: 
+Visual Basic, C#(.Net) 
+Oct. 2009 to Dec. 2009 
+Project Name: FI-SaaS 
+Customer: 
+DBI company  Japan 
+Project Goal: 
+Customize and maintain Fsoft Insight web ( Fsoft tool) 
+NGUYEN THANH DAT 
+Phone: +84 906 744 028| Email: thanhdat0888@gmail.com  
+3 
+following customer’s requirement  
+Position: 
+Developer 
+Responsibility: 
+Develop and maintain system 
+Number of members: 
+30 members 
+Environments: 
+Window XP, Eclipse 
+Technologies: 
+Java (Servlet) 
+Jan. 2011 to Mar. 2011 
+Project Name: KSK-Maintain 
+Customer: 
+Hitachi Solutions  Japan 
+Project Goal: 
+Maintain the Koseki system of Japan government 
+Position: 
+Developer 
+Responsibility: 
+Develop and maintain system 
+Number of members: 
+10 members 
+Environments: 
+Window XP, Cobol 2002 
+Technologies: 
+Cobol, C++, VB 
+Mar. 2011 to June. 2011 Project Name: NC-F 
+Customer: 
+NisseiCom  Japan 
+Project Goal: 
+Build a management system in a health company 
+Position: 
+Developer 
+Responsibility: 
+Develop and maintain system 
+Number of members: 
+15 members 
+Environments: 
+Windows 7, Visual studio 2010 
+Technologies: 
+VB.Net 
+June. 2011 to Aug. 2011 Project Name: KSK-IQ2 
+Customer: 
+Hitachi Solutions  Japan 
+Project Goal: 
+Improve quality for the Koseki system of Japan government 
+Position: 
+Developer 
+Responsibility: 
+Develop and maintain system, improve quality for system 
+Number of members: 
+30 members 
+Environments: 
+Window XP, Cobol 2002 
+Technologies: 
+Cobol, C++, VB 
+Aug. 2011 to June. 2012 Project Name: NIIC 
+Customer: 
+Hitachi Limited  Japan 
+Project Goal: 
+Build website for KDDI telecom (Japan) (end-user) 
+Position: 
+Team Lead, Technical supporter 
+Responsibility: 
+Develop website follow design 
+Number of members: 
+100 members 
+Environments: 
+Windows 7, uCominexus system 
+Technologies: 
+Java, Strut, Cominexus (Hitachi) 
+Jul. 2012 to Oct. 2012 
+Project Name: LLS 
+Customer: 
+Windsor Hotel  Japan 
+NGUYEN THANH DAT 
+Phone: +84 906 744 028| Email: thanhdat0888@gmail.com  
+4 
+Project Goal: 
+Build website for Windsor Hotel in Japan (end-user) 
+Position: 
+Developer 
+Responsibility: 
+Design, develop website follow customer’s requirements 
+Number of members: 
+15 members 
+Environments: 
+Windows Vista, Eclipse 
+Technologies: 
+Java (Spring, Hibernate, iBatis) 
+Oct. 2012 to Dec. 2012 
+Project Name: IIJHS 
+Customer: 
+Internet Initiative Japan  
+Project Goal: 
+Maintaining company’s website 
+Position: 
+Developer 
+Responsibility: 
+Develop and maintaining website follow customer’s 
+requirements 
+Number of members: 
+5 members 
+Environments: 
+Windows Vista, Eclipse 
+Technologies: 
+Coldfusion 8,9 
+LANGUAGES 
+Speaking/Listening 
+Reading 
+Writing 
+English 
+Fluent 
+Fluent 
+Fluent 
+Japanese 
+Average 
+Average 
+Average 
+EXTRACURRICULAR ACTIVITIES 
+2007 
+FPT University’s first Christmas 
+Vietnam 
+Responsibility/Role: Organizer 
+Brief Introduction: 
+The first Christmas in FPT university, the event setup in 2 days 
+with 10 persons. About 100 students joined the event.   
+2008 
+FPT University’s Halloween 
+Vietnam 
+Responsibility/Role: Organizer 
+Brief Introduction: 
+The Halloween organized for 600 FPT students in CauGiay 
+Theater. 
+2014 
+Vietnamese Student Association’s NewYear 
+USA 
+Responsibility/Role: Organizer, Vice President of VSA 
+Brief Introduction: 
+The New Year Eve event organized for 100 Vietnamese students at 
+University of Massachusetts Lowell. 
+OTHER INTERESTS  
+Various sports: Football, tennis, running and swimming, Chess  
+Reading, travelling, playing video game 
+NGUYEN THANH DAT 
+Phone: +84 906 744 028| Email: thanhdat0888@gmail.com  
+5 
+REFERENCES 
+Mr. Ngo Thanh Loi 
+Position: 
+FSU1  Project Manager 
+Address: 
+FPT Software, Street No.1, Danang Industrial Zone, Danang, 
+Vietnam 
+Email: 
+loint@fsoft.com.vn 
+Telephone: 
++84 985269212 
+Website: 
+fpt-software.com.vn 
+Mr. Tran Hong Nam 
+Position: 
+FSU17-BU8 Leader 
+Address: 
+FPT Software, 15B Pham Hung St, Hanoi, Vietnam 
+Email: 
+namnh@fsoft.com.vn 
+Telephone: 
++84 917898199 
+Website: 
+fpt-software.com.vn 
+Mr. Le Xuan Loc 
+Position: 
+FSU17-BU38 Leader 
+Address: 
+FPT Software, Street No.1, Danang Industrial Zone, Danang, 
+Vietnam 
+Email: 
+loclx@fsoft.com.vn 
+Telephone: 
++84 914159367 
+Website: 
+fpt-software.com.vn 
+Mr. Dang Hong Thanh 
+Position: 
+Former Defide Vietnam’s Project Manager 
+Address: 
+Hochiminh, Vietnam 
+Email: 
+danghongthanh@gmail.com 
+Telephone: 
++84 913497006 
+Website: 
+N/A 
+Prof. Keith Poirier 
+Position: 
+Adjunct Professor at Operations & Information Systems 
+Department 
+Address: 
+UMass Lowell  Robert J. Manning School of Business, One 
+University Avenue, Lowell, MA 01854, USA 
+Email: 
+keith_poirier@uml.edu 
+Telephone: 
++ 1 508 873-7604 
+Website: 
+N/A 

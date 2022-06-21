@@ -1,0 +1,81 @@
+Curriculum Vitae 
+1. General Information 
+Full name 
+Luong Minh Quan 
+Birthday 
+05/08/1984 
+Address 
+154 Nguyen Thai Son Street, Ward 4, Go 
+Vap District 
+Mobile phone 
+0984 762 339 
+Marital Status 
+Married 
+Email 
+minhquan339@gmail.com 
+2. Professional Skills  Programming languages: PHP, SQL, HTML, CSS, Javascript,  jQuery  Design website with CMS Joomla, WordPress 
+3. Experience 
+From Dec 2013 to Aug 2015 
+Company: SutrixMedia company 
+Role: Front-end developer  
+From Dec 2013 to until now 
+Project 
+Many projects 
+Description  Programming many websites, apps on mobiles, on tablets 
+and on desktop  
+Project team size 
+68 members 
+Responsibilities 
+Use Mantis and Jira to manage issues 
+Convert PDS to HTML 
+Use GIT to commit code 
+Support Tester reproduce bugs 
+Support Dev integrated code into HTML 
+Experience in IE8, IE9, IE10, IE11, Firefox and 
+Chrome 
+Experience on Tablet and Mobile (both Android and 
+IOS) 
+Experience in Standard Javascript and Jquery 
+Experience in Software, Web Application (Portal 
+site of the company, the personal website, 
+Ecommerce website, News website) 
+Experience in Database 
+Experience in Adobe CQ5 
+Experience HTML/HTML 5, LESS, CSS/CSS3, 
+Bootstrap 
+Apply Scrum into project 
+Support and discuss with client about issues related 
+to project  
+Technologies 
+Bootstrap, Foundation,  HTML, CSS, LESS, CQ5, 
+Photoshop 
+From Aug 2009 
+Company: Edge-works company 
+Role: Front-end developer 
+From Aug 2009 to Nov 2013 
+Project 
+Relating to responsive projects by Joomla   
+Description 
+Implementing responsive websites 
+Project team size 
+Only one member about front-end 
+Responsibilities 
+Get requirements by comment, prototype, document 
+in English 
+Support tester to solve defects 
+Testing and implementing on IE, Firefox, Chrome 
+on small screen and large screen 
+Convert PSD to HTML 
+Experience with Joomla 
+Technologies 
+PHP, Joomla, HTML, CSS, Gimp 
+4. Education  Completion of the courses at DGM 
+Effective SEO Course. 
+Practical courses Google Adwords. 
+Construction site by WordPress.  Diploma in  Nhat Nghe Computer Network Technology Training Center 
+February 2011 : Website Developer with Adobe Dreamwaver 
+July 2011 : Advanced PHP Programming 
+November 2011 : Graphic for Website Developer  Diploma in Athena Training center Network 
+August 2012 : Online Shop Course 
+5. Skill  Hard working.  Ability to learn and solve problem.  Ability to work under high pressure.  Highly responsible.  Have ability about team working. 
+6. English  Listening English is well  Be able to write reports in English 

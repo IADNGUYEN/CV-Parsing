@@ -1,0 +1,57 @@
+HUYNH THI CAM THU
+1993­03­04
+Female
+thuhuynh4393@gmail.com
+01665 098 223
+378/12 Cach Mang Thang 8 ­ District 3 ­ Ho Chi Minh City
+Education
+2011­2015
+Major Data Communication and Computer Networks.
+Can Tho University
+Work Experience
+2015
+Internship Frontend
+Sutrix Media
+Skills
+HTML5
+Using HTML5 tags
+Convert PSD template to HTML
+CSS3
+Using CSS3 selector
+Convert a website from PSD to HTML5/CSS3
+LESS/CSS
+Having knowledge of LESS (CSS pre­processor)
+Using LESS for writing CSS
+Can write simple mixins, functions...
+JADE Language
+Having knowledge of JADE
+Using Jade for writing HTML
+Can write mixins Jade
+Javascript
+Having basic knowledge of Javascript
+Insert slider by using Slick­slider
+HTML5 Banner Ads
+Create a HTML5 Banner Ads by using GreenSock Animation Platform
+PHP
+Having basic knowledge of PHP
+Connect Mysql server with PHP
+MYSQL
+Having basic knowledge of MYSQL
+Photoshop
+Using photoshop to create website
+Adobe Illustrator
+Can use basic tool
+Aplications
+­ Using Web programming language PHP, HTML, CSS, JavaScript and database management system MySql
+to build Basic Programming Language A Quiz Website 
++ http://quizzc.xyz
+­ Convert PSD template to HTML/CSS
++ http://quizzc.xyz/blackandwhite/index.html
++ http://quizzc.xyz/templatedemo/
+­ HTML5 Banner
++ http://quizzc.xyz/banner/banner1/
+Languages
+English
+Be able to read English documents.
+Can use English in writing.
+Not very good at listening and speaking.

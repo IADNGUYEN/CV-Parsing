@@ -1,0 +1,176 @@
+Page1
+Ho Duong, MSc
+Sr. Software Engineer at Cosatech
+ho_duong2003@yahoo.com
+Summary
+More than 8 years working as senior software engineer. I have chances working on very large projects and
+many OS platform (Windows, Linux, Mac) most of time is Windows, and some open source library as xpdf,
+cximage. Most of my projects requite high performance and low memory and cpu usage so that C/C++
+language is a best choice. Other I have experience about : XML, xPath, XSLT, C#, Delphi, Win32, MFC, STL,
+COM, RMI, Service, Web Service. some DBMS : SQL Lite, My SQL, MS SQL, Firebird.  Specialties: C/C++
+Experience
+Open for new opportunities, especially Sr. C++ engineer! Thanks  at   Cosatech
+May 2013   Present (2 years 2 months)
+Working on Core of CIS system for a TOP 500 fortune Company major in Gas and Oils located in Chicago.
+Handle a team to investigation root cause of Defects and Fix-It.  Using VS C++, .net (VB.net,C#.net),
+vbscript, MS SQL on Windows System.
+Senior Software Engineer  at   OPSWAT
+March 2013   May 2013  (3 months)
+Have a short chance working on fixing Defects and support New Features of a SDK for security softwares. 
+Using C++ on Windows, Mac and Linux.
+Senior Software Engineer  at   Content Interface Corporation
+May 2009   April 2013  (4 years)
+R&D Custom Automation Tools  Language : C/C++, Win32, MFC, XML  OS: Windows
+Software Engineer  at   Content Interface Corporation
+May 2007   May 2009  (2 years 1 month)
+Member of Editor, Core and DSS team  Language : C/C++, Win32, MFC, COM, Carbon, Cocoa  OS:
+Windows, Windows Mobile,  Mac OS, Linux.
+Software Engineer  at   Saigon Software Park
+October 2005   April 2007  (1 year 7 months)  Languages: Delphi, Firebird  OS: Windows
+Projects
+Watermarking System
+Page2
+January 2004 to January 2005
+Members:Ho Duong, MSc
+This is my graduate thesis. In this project I'm using a digital watermarking algorithms to embed text signal
+into a image, sound or video file.
+Human Resource Management
+November 2005 to April 2007
+Members:Ho Duong, MSc
++Language : Delphi +BDMS : FireBird +Roles : Feature implementation (2 big features : social insurance,
+payroll), customization software(depending on customer request), supporter, fixing bugs.
+Porting Codec Library for Image Processing Base on Windows to Mac OS
+August 2007 to February 2008
+Members:Ho Duong, MSc Overview : CIC have a Image Codec (base on opensource lib CxImage) already build on Windows using
+VC7, my task is porting this codec to cocoa, xcode. Language: porting from VC7 to cocoa, xcode Roles :
+main developer 
+Customize software
+February 2008 to March 2008
+Members:Ho Duong, MSc
++about project : this is cross platform tools, can build on both Windows and Linux. This tool add limited
+features for CIC app. +Languages : C++ console (VC7), C++ console(KDE) +Roles: main developer for this
+project.
+Research on PDF rendering engine
+March 2008 to February 2009
+Members:Ho Duong, MSc About Project : current CIC using Adobe Acrobat SDK as PDF rendering engine. but this SDK requite end
+user must install Adobe Acrobat Professional and just working on windows OS. My task is investigate new
+engine can working on both windows and linux. My result is a open source lib xpdf, it working very well for
+our product. Language : C/C++, VC7. Roles : Researcher and write Demo app.
+DSS (Digital Signature System) software
+January 2009 to April 2009
+Members:Ho Duong, MSc About Product : Management Resources and Scheduling what resource will display on monitor of kiosk. 
+Languages : VC7 console, XML. Main Developer, Fixing Bugs.
+Watchdog software
+April 2009 to April 2009
+Members:Ho Duong, MSc About Product : Watching a App is Hung or Crash and then restart them-self. Language : VC7 Roles :
+Main developer
+Search and detect location of String on PDF Page(s)
+Page3
+April 2009 to June 2009
+Members:Ho Duong, MSc About Project : a Request for a searching text on a ePaper website publishing from a soft copy as PDF
+format of a paper, they request a software can extract all text on PDF page included location of this text. 
+Languages : VC7 Roles : Main researcher and developer.
+FTPUploader software
+April 2009 to June 2009
+Members:Ho Duong, MSc About : a software starting on daily timer to processing and then publishing to a FTP server. Language :
+VC7 Roles : main developer.
+SceneCreator
+July 2009 to March 2012
+Members:Ho Duong, MSc
++ Language : MFC,VC7, Windows Form, xslt, XML Dom, xpath + Database : XML + Roles : Analysis,
+template design, main researcher and developer, Fixing Bugs.
+Cywee Project
+October 2009 to October 2010
+Members:Ho Duong, MSc
++About Project : Outsourcing for Cywee Company. +Language : VC7, VC10. +DBMS : SQL Lite, XML.
++Roles : Build automation tools to management media resources.
+Nintendo Project
+June 2010 to February 2011
+Members:Ho Duong, MSc
++ Language : VC7, console, xslt, XML Dom, xpath + Database : XML + Roles : Research&Develop, Fixing
+Bugs
+eDir
+February 2011 to November 2011
+Members:Ho Duong, MSc
++Brief Overview : eDir is a complete solution to replace the traditional directories in office building with an
+electronic one. It employs enVision as the display engine on top of a touch screen.  A building directory is a
+collection of name plates of tenants in the building. It tells a visitor the room number and floor of a company.
+eDir aims to improve the visitor experience (compared to the traditional directory) and to provide more
+information than just names, rooms and floors. +Language : MFC, VC7, Windows Form +Database : xls
++Roles : Research & Develop, Fixing Bugs
+ABC
+June 2011 to June 2012
+Members:Ho Duong, MSc
++ Language : MFC, VC10, Windows Form + Database : XML + Roles : Analysis, main developer, Fixing
+Bugs.
+Page4
+EDF
+April 2011 to November 2011
+Members:Ho Duong, MSc
++ brief overview : a system to convert PDF, jpg, bmp documents for interactive viewing on a touch screen. +
+Language : C++/VC7, console + Roles : RnD, Fixing Bugs.
+iZoomCreator
+April 2012 to September 2012
+Members:Ho Duong, MSc
++ brief overview : a system convert image, video to mosaic format. + Language : MFC, VC10, Windows
+Form + Roles : RnD, Fixing Bugs.
+SkyWall
+June 2012 to June 2012
+Members:Ho Duong, MSc
+InterlliWall
+August 2012 to Present
+Members:Ho Duong, MSc
++ Brief overview : Sharp has asked CIC to develop a software system for its IntelliWall display.  IntelliWall
+is a 9x3 array of screens.  + Language : VC7, Windows Form + Roles : automate the conversion from raw
+content (videos, images, PPT, PDF and Exl..etc).  Depending on the input content, the system will auto
+convert them to enVision applications, with as little user input as possible.
+1Second Capture
+January 2015 to Present
+Members:Ho Duong, MSc
+I wrote this app with intent to keep 1Second movie everyday of my first daughter! And sharing for everyone
+have the same purpose!   https://plus.google.com/116538760669391366640/videos
+Skills & Expertise
+Visual C++
+(Advanced, 6 years experience)
+MFC
+(Advanced, 4 years experience)
+Win32
+(Advanced, 4 years experience)
+C++
+Microsoft SQL Server
+Windows
+Win32 API
+.NET
+Software Development
+OOP
+MySQL
+XML
+ASP.NET
+Web Services
+Page5
+VB.NET
+SQL
+C#
+Education
+University of Science HCMC
+Master, Computer Science, 2010  2012
+Activities and Societies:  when learning MSc I have a change to research about Principle of Programming
+Language, Advanced DBMS, Data Mining, Machine Learning, Natural Language Processing, Voice
+Recognition, Image Processing. I am not expert about this fields but I know "how it working" and help I have
+more knowledge about big world of Computer Science.
+FPT Aptech
+Diploma, ACCP 2005, 2006  2008
+Activities and Societies:  Receive a Scholarship for excellent students
+Hung Vuong University
+BS, Information System, 2001  2005
+Activities and Societies:  Receive a Scholarship of Tri Tue Viet Nam 2005 Exam (Full Scholarship at Aptech
+for a course 2 year).
+Honors and Awards
+Join a TV Game Show (February 2007) Happy Birthday
+Interests
+swimming, table tennis....
+Page6
+Ho Duong, MSc
+Sr. Software Engineer at Cosatech
+ho_duong2003@yahoo.com
+Contact Ho on LinkedIn

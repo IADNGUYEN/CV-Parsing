@@ -1,0 +1,60 @@
+July 2015  March 2018
+Programming training center CNC-Aptech
+Major: Aptech Certified Computer Professional (ACCP)
+Java, .NET
+Dec 2017  Jan 2018
+Project Final Semester 4
+My Position : Project Team Member
+Main responsibilities:
+Create website base on Java EE using MVC Framework and
+Hibernate.
+Customer can view, choose and buy product with Paypal online
+payment. Administrator can manage product,customer and employee
+online in everywhere.
+Skill : Acquainted with the Back-End part of the website and have a
+little knowleadge about Front-End part.
+Apr 2017  May 2017
+Project Final Semester 3
+My Position : Project Team Member
+Create website base on .NET framework and MS SQLServer using the
+MVC model with C# language.- Customer can view, choose and buy
+product. Manager can manage product and employee online in
+everywhere.
+Oct 2016   Nov 2016
+Project Final Semester 2
+My Position : Project Team Member
+Create simple application base on Java Swing and MSSQL Server to
+manage product, employee faster and more exactly.
+Skill : Work with IDE NetBean to write,read and edit code.
+Feb 2016   Mar 2016
+Project Final Semester 1
+My Position : Project Team Member
+Create simple website base on HTML5 and MS SQLServer where
+Tran Tan Sang
+Java EE Web  Developer
+Date of birth:
+August 20, 1997
+Gender:
+Male
+Phone:
+0902 958 775
+Email:
+tansangtran208@gmail.com
+Address:
+Ho Chi Minh City, VietNam.
+Website:
+https://www.facebook.com/sang.tran.581525
+OBJECTIVE
+With knowledge and absorb quickly, I am confident that i will integrate well with the company's working
+environment. High pressure in the course of work. Complete all the assigned work pushing a way as quickly as
+possible.
+EDUCATION
+WORK EXPERIENCE
+customer can view product and managerof store can manage product.
+Skill : Read and edit code HTML5, Css.
+Programming Language
+SpringMVC, .NET, HTML5, SQL, Hibernate, English.
+Computer
+Word, Excel, Powerpoint
+SKILLS
+© topcv.vn

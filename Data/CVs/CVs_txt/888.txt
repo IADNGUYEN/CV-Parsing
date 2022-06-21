@@ -1,0 +1,61 @@
+TRẦN THẾ ANH
+F R E S H E R J A V A
+ 10/06/1995
+ Male
+ 0973202940
+ tratheanh459@gmail.com
+ 159 Trần Văn Đang quận 3 hồ chí
+minh
+ https://github.com/theanhhp
+OBJECTIVE
+Take advantages of sales skills &
+experience and understanding of
+market to become a professional
+Sales Staff and bring a lot value to
+Customers. From that, I will contribute
+to development of TOPCV Company.
+SKILLS
+Java
+Javascript
+Hibernate Frameworks
+mysql ,sql server
+English
+JSP, Servlet
+Bootstrap
+mysql
+INTERESTS
+Soccer
+FPT POLYTECHNIC HCM
+SEPT 2017  2020
+FPT POLYTECHNIC
+FPT POLYTECHNIC
+NOV 2013  JUN 2014
+FPT POLYTECHNIC
+NOV 2013  JUN 2014
+ EXPERIENCE EXCHANGE 78
+JAN 2018  PRESENT
+
+EDUCATION
+Major: Software Application Technology learned: Java(Spring MVC framework),HTML/CSS, JavaScript.-Database: SQL
+Server, MySQL Server
+GPA: 7,35
+
+WORK EXPERIENCE
+Student  Website Sport (02/2019> 5/2019) Description:
++ Provide a sports website for everyone, see sports news
++ Built based on Java Web (Spring MVC ,hibernate). 
++ Technology: Netbean IDE, Bootstrap, SQL Server, Spring MVC ,hibernate
+Student  Student management software Includes a version  Group members: 5
++ Use the model MVC
++ Users can manage cafes when customers place and manage warehousing, staff
+management, statistics
++ Main responsibilities: Statistics of total invoices sold, proceeds, total number of sold
+goods, total number of table, statistics of the day.
+Student  Student management software Includes a version The user can manage the student and
+sum the grading score according to the student's learning capacity
+
+ACTIVITIES
+I am a member of EXPERIENCEEXCHANGE 78 groupBringing together high school students
+living in HoChi Minh City to exchange experiences aboutprogramming on free days
+Music
+© topcv.vn

@@ -1,0 +1,58 @@
+TRAN VU 
+THANH GIANG
+1014 CMT8, Ward 4, Tan Binh District, HCMC  |  (84) 965­684­762  |
+giangtran240896@gmail.com
+C A R E E R   O B J E C T I V E
+Python developer who is inspired by Machine Learning and Artificial Intelligence. I consider Data 
+Scientist and ML Engineer as my career path in the future. I want to learn new things through 
+huge amount of data that is available out there as well as use my algorithm’s knowledge to solve 
+the real­world problems in the company. It would be nice for me as an intern. 
+E D U C A T I O N
+INDUSTRIAL UNIVERSITY OF HCMC 
+BACHELOR OF E­COMMERCE, EXPECTED GRADUATION DEC 2018
+S O F T ­ S K I L L S
+
+Open­minded.
+
+Strong self­study.
+
+Analytical.
+
+Grokking.
+
+Logical thinking.
+
+Programmer thinking.
+S K I L L S
+
+OOP programming.
+
+Solid understanding basic ML concepts: Linear Regression, Logistic Regresssion, Softmax 
+Regression, K­means Clustering, K­nearest Neighbor, DNN, CNN, RNN. 
+
+ML and DS toolboxes: numpy, scipy, pandas,  tensorflow, matplotlib.
+
+Fundamental SQL Query (CRUD, Join, Function, Procedure, Trigger,...)
+
+Front­end: HTML5, CSS, Bootstrap, Javascript, Jquery.
+
+Back­end: Java Spring, Flask Framework.
+C E R T I F I C A T E S
+
+Big­O Blue: Introduction to Algorithms.
+
+VietAI: Machine Learning basic course with Distinction.
+R E F E R E N C E S
+
+Personal website: giangtran.herokuapp.com
+
+Github: github.com/giangtran24
+
+Linkedin: linkedin.com/in/giang­tran­b4303ab5
+
+Facebook: facebook.com/ling.boo.5
+I N T E R E S T S
+
+Solving math problems.
+
+Swimming, playing dota2.

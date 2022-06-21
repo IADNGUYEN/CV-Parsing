@@ -1,0 +1,40 @@
+Vuong Duc Dai
+07/06/1996
+daivuong7696@
+gmail.com
+(+84) 908062511
+Vuong Duc Dai
+About me I am a tech student from Bach Khoa Univeristy. I am always
+curious about every ﬁeld in my major, especially artiﬁcial intelligent and
+software development. I also love math, reading books, meditating, and
+doing volunteer.
+Experience
+June 2017  Aug 2017, Internship
+C++ developer internship at FPT software.
+Education
+2014  present
+Final year student, Bach Khoa University, Faculty of Computer Science
+and Engineering. GPA: 7.97/10.
+Skills
+Programming language
+◦ Python
+◦ C++
+◦ Scala
+Other skills
+◦ Machine learning
+◦ Deep learning
+◦ Pytorch framework
+◦ Numpy
+◦ Scikit-learn
+Projects
+School projects
+◦ Playing chess using AI: checker
+◦ Street view house number recognition
+Thesis
+◦ Scene recognition using self-modiﬁed CNN
+Languages
+Vietnamese
+◦ Mother tongue
+English
+◦ Able to listen, read, write and hold basic conversations
+◦ Certiﬁcate: TOEIC 815 (valid until 26/11/2019)

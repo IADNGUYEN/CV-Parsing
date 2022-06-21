@@ -1,0 +1,79 @@
+COULIBALY
+ADAMA
+Curriculum Vitae
+(+84) 983521482
+coulibalysadama@gmail.com, coulibaly@iﬁ.edu.vn
+Academic Qualiﬁcations
+2017  2019
+MSc, Intelligent and Multimedia Systems, Vietnam National University (VNU), Hanoi-
+Vietnam, .
+2017  2019
+MSc, Enterprise Digital Content Engineering, Rochelle University, Rochelle-France, .
+2010  2013
+BSc, Computer Science, University Institute of Management (IUG), Bamako-Mali, .
+Skills
+Technical : Python, Java, C++, C# , Javascript, PHP, Prolog..., Data Mining techniques, Github,
+Docker, Kubernet, Matlab, LaTeX, Photoshop, Gimp.
+IDE: (Eclipse, NetBean, Visual Studio, CodeBlock IDE, JetBrains...)
+Machine Learning : ( Tensorﬂow(currently learning), Keras, KNN, K-MEANS, OpenCV, Matplotlib,
+Numpy...)
+GAMA Platform : (Modeling and Simulation Complex Systems)
+Computer Vision: (OpenCV, STIF...)
+Pattern recognition : (Bayesian classiﬁcation, SVM-based classiﬁcation, classiﬁcation using neural
+networks)
+Virtual and Augmented Reality : (Unity, Blender, Vuforia.)
+Reasoning and Uncertainty : (Propositional logic, modal logic, fuzzy logic, Bayesian networks)
+Multi-Agent System and Artiﬁcial Intelligence : (GAMA and JADE)
+Interactive systems engineering: (Simulation of a development using the Scrum method, Framework
+XNA/monogame, Métrique).
+Indexing multimedia content : (Clustering and Indexation, Multiscale and multi-orientation invariant
+signatures for pattern recognition and multimedia indexing)
+Web design and development: Java EE, Spring, Hibernate, Wordpress.
+Systems :Windows, Linux.
+Languages: English, French, Vietnamese.
+Projects
+Software engineering : Software Assurance and Quality, The criteria of a quality software that meets
+the requirements; Housing Management, Application design of a housing or building management
+tool.
+Project management:Tracking the progress of a development project, with the agile method
+(scrum); Internship Management, Design of an internship management tool, facilitating the search
+for end-of-cycle internships.
+Personal work Supervised : Package and redeploy the IFI Online Schedule with Docker and GitHub.
+Data- mining : Prediction of type 2 diabetes in a group of pima indian women living in Arizona, United
+States with Tanagra.
+Image processing and Computer Vision: Image enhancement, contrast, segmentation, contour
+detection, face recognition with Convolutional Neural Network (CNN), skin detection, motion detection
+in a video stream... in C++ & Python.
+Pattern recognition: Object recognition, objects and people detection in an image or video in Python.
+Man Machine Interaction: Prototype of a tool that improves the user’s sleep with multi-tasking.
+Indexing multimedia content : Indexing of images by content using Hu Moments, color histograms,
+KNN..., in python.
+Virtual Reality and Augmented: HumanoidProject, creating a humanoid avatars with animations,
+modeling objects in a real environment with tools like Blender, Unity, Vuforia, C#.
+Multi-Agent System Modeling and simulation of air traﬃc, evacuation of a ﬂood case, traﬃc (car-
+refour), ants, K-mean, Predator and prey, Traﬃc in a crossroads, Evacuation in a ﬁre, with Gama
+platform and JADE (Java).
+Constraint programming : Realization with the Java OpenCBLS (local searches) and CHOCO (pro-
+gramming by constraints exhaustive and optimal search) libraries of course scheduling and optimization
+programs (Course scheduling and Bin Packing).
+Network Design and Architecture: The project "Linux in network"
+Ontology & Semantic Web : Social network simulation with python library Rdﬂib for the construction
+of the RDF and Jenna Serveur for deployment of RDF ﬁle.
+Employment Work Experience
+March  July
+2014
+ORANGE-Mali, Internship, Bamako, Mali.  Computer networks troubleshooting assistance.
+March 2015 
+April 2016
+ORANGE-MALI, computer network technician, Bamako, Mali.  Installation equipment and troubleshooting computer networks.
+March 2017 
+Nov 2017
+STOP-SAHEL , Community Development Oﬃcer, Kita, Mali.  Sensitization, education and formalization of women’s and youth groups.
+References
+Mr.
+Ho Tuong Vinh, Phd, Head of Training & Vice Director at the IFI (Institut Francophone
+International), Vietnam National University; Email: ho.tuong.vinh@gmail.com
+Mrs. Nguyen Hong Quang, PhD, Professor (Network design and architecture, GNU-LINUX) at the
+IFI (Institut Francophone International), Vietnam National University;
+Phone: +84 912 751 749
+Email: nguyen.hong.quang@iﬁ.edu.vn

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="16" family="ArialMT" color="#000000"/>
+	<fontspec id="1" size="20" family="TimesNewRomanPS" color="#f65c5c"/>
+	<fontspec id="2" size="20" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="3" size="13" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="4" size="13" family="Gautami" color="#000000"/>
+	<fontspec id="5" size="13" family="TimesNewRomanPSMT" color="#1154cc"/>
+	<fontspec id="6" size="18" family="TimesNewRomanPS" color="#f65c5c"/>
+	<fontspec id="7" size="14" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="8" size="14" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="9" size="14" family="ArialMT" color="#000000"/>
+	<fontspec id="10" size="14" family="Gautami" color="#000000"/>
+	<fontspec id="11" size="16" family="Arial" color="#424242"/>
+	<fontspec id="12" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="13" size="16" family="Gautami" color="#000000"/>
+	<fontspec id="14" size="16" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="15" size="16" family="TimesNewRomanPSMT" color="#1154cc"/>
+<text top="1" left="74" width="5" height="18" font="0"> </text>
+<text top="24" left="757" width="121" height="23" font="1"><b>Vo Duy Tung</b></text>
+<text top="24" left="878" width="5" height="23" font="2"><b> </b></text>
+<text top="64" left="780" width="98" height="15" font="3">(+84) 33 9868148</text>
+<text top="64" left="877" width="0" height="18" font="4">​</text>
+<text top="64" left="877" width="3" height="15" font="3"> </text>
+<text top="84" left="755" width="122" height="15" font="5"><a href="mailto:tung007@e.ntu.edu.sg">tung007@e.ntu.edu.sg</a></text>
+<text top="84" left="876" width="7" height="15" font="3">  </text>
+<text top="103" left="614" width="3" height="15" font="3"> </text>
+<text top="102" left="618" width="0" height="18" font="4">​</text>
+<text top="103" left="618" width="259" height="15" font="5"><a href="https://www.linkedin.com/in/tony-v-1b5301120">https://www.linkedin.com/in/tony-v-1b5301120</a></text>
+<text top="103" left="877" width="7" height="15" font="3"><a href="https://www.linkedin.com/in/tony-v-1b5301120"> </a> </text>
+<text top="121" left="74" width="140" height="20" font="6"><b>Work Experience </b></text>
+<text top="152" left="81" width="409" height="17" font="7"><b>Technology Consultant, Aodigy Asia Pacific Pte Ltd, Singapore </b></text>
+<text top="152" left="720" width="129" height="17" font="7"><b>Jan 2018 - Nov 2018</b></text>
+<text top="152" left="849" width="4" height="17" font="8"> </text>
+<text top="179" left="101" width="9" height="17" font="9">●</text>
+<text top="179" left="128" width="717" height="17" font="8">Developed CRM Applications for a financial institution, a government technology agency, a travel agency, a hardware </text>
+<text top="197" left="128" width="367" height="17" font="8">retailer and an insurance company using Salesforce platform </text>
+<text top="215" left="101" width="9" height="17" font="9">●</text>
+<text top="215" left="128" width="715" height="17" font="8">Managed and liaison with customers, gathered requirements, analyze business processes, wrote design documentation, </text>
+<text top="233" left="128" width="229" height="17" font="8">manage project timeline and progress </text>
+<text top="251" left="101" width="9" height="17" font="9">●</text>
+<text top="251" left="128" width="157" height="17" font="8">Retrieved data by writing </text>
+<text top="251" left="285" width="0" height="20" font="10">​</text>
+<text top="251" left="285" width="42" height="17" font="7"><b>SOQL</b></text>
+<text top="251" left="326" width="0" height="20" font="10">​</text>
+<text top="251" left="326" width="327" height="17" font="8"> queries, transform data from SAP to Salesforce using </text>
+<text top="251" left="654" width="0" height="20" font="10">​</text>
+<text top="251" left="654" width="74" height="17" font="7"><b>Excel VBA </b></text>
+<text top="269" left="101" width="9" height="17" font="9">●</text>
+<text top="269" left="128" width="643" height="17" font="8">Did integration between Salesforce and SAP, Azure, Outlook, Zoom, Slack, a travel booking system using </text>
+<text top="269" left="771" width="0" height="20" font="10">​</text>
+<text top="269" left="771" width="90" height="17" font="7"><b>RESTful API </b></text>
+<text top="287" left="101" width="9" height="17" font="9">●</text>
+<text top="287" left="128" width="294" height="17" font="8">Write unit tests, change sets and did deployment </text>
+<text top="332" left="81" width="585" height="17" font="7"><b>Web Developer Intern, A*STAR Singapore Agency for Research &amp; Technology, Singapore </b></text>
+<text top="332" left="718" width="131" height="17" font="7"><b>Jan 2016 - July 2016</b></text>
+<text top="332" left="849" width="4" height="17" font="8"> </text>
+<text top="359" left="101" width="9" height="17" font="9">●</text>
+<text top="359" left="128" width="698" height="17" font="8">Developed Enterprise Web Application using C#, ASP.NET, HTML5, CSS3, Javascript (jQuery &amp; Ajax) &amp; Python </text>
+<text top="386" left="81" width="469" height="17" font="7"><b>Web Developer Assistant, Nanyang Technological University, Singapore  </b></text>
+<text top="386" left="713" width="136" height="17" font="7"><b>May 2015 - Aug 2016</b></text>
+<text top="386" left="849" width="4" height="17" font="8"> </text>
+<text top="413" left="128" width="653" height="17" font="8">Developed Education web application for children using Python Django and developed mathematical model </text>
+<text top="431" left="74" width="5" height="23" font="1"><b> </b></text>
+<text top="455" left="74" width="178" height="20" font="6"><b>Education &amp; Research </b></text>
+<text top="486" left="102" width="10" height="18" font="11"><b>●</b></text>
+<text top="486" left="129" width="322" height="18" font="12"><b>Nanyang Technological University, Singapore</b></text>
+<text top="485" left="452" width="0" height="22" font="13">​</text>
+<text top="486" left="452" width="14" height="18" font="14"> - </text>
+<text top="485" left="466" width="0" height="22" font="13">​</text>
+<text top="487" left="466" width="254" height="17" font="8">Bachelor of Computer Science (Honours) </text>
+<text top="506" left="102" width="10" height="18" font="0">●</text>
+<text top="506" left="129" width="81" height="18" font="12"><b>Publication</b></text>
+<text top="506" left="210" width="0" height="22" font="13">​</text>
+<text top="506" left="210" width="9" height="18" font="14">:<a href="http://eds.b.ebscohost.com/eds/detail/detail?vid=1&amp;sid=9cb183da-0d8b-489c-96e4-cfaf9ebf17a7%40pdc-v-sessmgr02&amp;bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=ntu.10356.72908&amp;db=ir00024a"> </a></text>
+<text top="506" left="219" width="0" height="22" font="13"><a href="http://eds.b.ebscohost.com/eds/detail/detail?vid=1&amp;sid=9cb183da-0d8b-489c-96e4-cfaf9ebf17a7%40pdc-v-sessmgr02&amp;bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=ntu.10356.72908&amp;db=ir00024a">​</a></text>
+<text top="506" left="219" width="464" height="18" font="15"><a href="http://eds.b.ebscohost.com/eds/detail/detail?vid=1&amp;sid=9cb183da-0d8b-489c-96e4-cfaf9ebf17a7%40pdc-v-sessmgr02&amp;bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=ntu.10356.72908&amp;db=ir00024a">SAFIN(FRIE)++ deep-learning system with application in option and </a></text>
+<text top="526" left="129" width="90" height="18" font="15"><a href="http://eds.b.ebscohost.com/eds/detail/detail?vid=1&amp;sid=9cb183da-0d8b-489c-96e4-cfaf9ebf17a7%40pdc-v-sessmgr02&amp;bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=ntu.10356.72908&amp;db=ir00024a">stock trading </a></text>
+<text top="526" left="219" width="4" height="18" font="14"> </text>
+<text top="486" left="730" width="138" height="17" font="7"><b>Aug 2013 -  Dec 2017 </b></text>
+<text top="504" left="867" width="4" height="18" font="12"><b> </b></text>
+<text top="564" left="74" width="193" height="20" font="6"><b>Courseworks &amp; Projects </b></text>
+<text top="586" left="101" width="9" height="17" font="9">●</text>
+<text top="586" left="128" width="219" height="17" font="7"><b>Advanced Computer Architecture</b></text>
+<text top="586" left="347" width="0" height="20" font="10">​</text>
+<text top="586" left="347" width="391" height="17" font="8">: implemented pipelining in computer processor using Assembly </text>
+<text top="604" left="101" width="9" height="17" font="9">●</text>
+<text top="604" left="128" width="138" height="17" font="7"><b>Compiler Techniques</b></text>
+<text top="604" left="266" width="0" height="20" font="10">​​​</text>
+<text top="604" left="266" width="451" height="17" font="8">: implemented a lexical analyzer, a parser, a semantic analyzer using JFlex </text>
+<text top="622" left="101" width="9" height="17" font="9">●</text>
+<text top="622" left="128" width="197" height="17" font="7"><b>Algorithm &amp; Data Structures: </b></text>
+<text top="622" left="326" width="0" height="20" font="10">​​​</text>
+<text top="622" left="326" width="438" height="17" font="8">implemented different data structures using C and algorithms using Java </text>
+<text top="640" left="101" width="9" height="17" font="9">●</text>
+<text top="640" left="128" width="279" height="17" font="7"><b>Object-oriented Design and Programming: </b></text>
+<text top="640" left="407" width="0" height="20" font="10">​​​</text>
+<text top="640" left="407" width="321" height="17" font="8">developed food order application using UML &amp; Java </text>
+<text top="658" left="101" width="9" height="17" font="9">●</text>
+<text top="658" left="128" width="124" height="17" font="7"><b>Operating System: </b></text>
+<text top="658" left="252" width="0" height="20" font="10">​​​</text>
+<text top="658" left="252" width="239" height="17" font="8">implemented Unix-style OS using C++ </text>
+<text top="676" left="101" width="9" height="17" font="9">●</text>
+<text top="676" left="128" width="136" height="17" font="7"><b>Database Principles: </b></text>
+<text top="676" left="264" width="0" height="20" font="10">​​​</text>
+<text top="676" left="264" width="376" height="17" font="8">designed and developed database application using Postgresql </text>
+<text top="694" left="101" width="9" height="17" font="9">●</text>
+<text top="694" left="128" width="141" height="17" font="7"><b>Artificial Intelligence:</b></text>
+<text top="694" left="269" width="0" height="20" font="10">​</text>
+<text top="694" left="269" width="284" height="17" font="8"> developed intelligent application using Prolog </text>
+<text top="712" left="101" width="9" height="17" font="9">●</text>
+<text top="712" left="128" width="140" height="17" font="7"><b>Computer Networks: </b></text>
+<text top="712" left="268" width="0" height="20" font="10">​​​</text>
+<text top="712" left="268" width="376" height="17" font="8">developed client and server application using Java Websocket </text>
+<text top="730" left="101" width="9" height="17" font="9">●</text>
+<text top="730" left="128" width="152" height="17" font="7"><b>Net-Centric Computing</b></text>
+<text top="730" left="280" width="0" height="20" font="10">​​​</text>
+<text top="730" left="280" width="403" height="17" font="8">: developed web application using HTML, CSS, Javascript &amp; PHP </text>
+<text top="748" left="101" width="9" height="17" font="9">●</text>
+<text top="748" left="128" width="148" height="17" font="7"><b>Software Engineering: </b></text>
+<text top="748" left="277" width="0" height="20" font="10">​​​</text>
+<text top="748" left="277" width="427" height="17" font="8">developed an web application for travellers in Singapore using Django </text>
+<text top="766" left="101" width="9" height="17" font="9">●</text>
+<text top="766" left="128" width="128" height="17" font="7"><b>Final Year Project: </b></text>
+<text top="766" left="256" width="0" height="20" font="10">​​​</text>
+<text top="766" left="256" width="190" height="17" font="8">analysed stock price data using </text>
+<text top="766" left="446" width="0" height="20" font="10">​</text>
+<text top="766" left="446" width="95" height="17" font="7"><b>deep learning, </b></text>
+<text top="766" left="541" width="0" height="20" font="10">​</text>
+<text top="766" left="541" width="326" height="17" font="8">technical analysis and developed smart option trading </text>
+<text top="784" left="128" width="332" height="17" font="8">system on Hong Kong stock market using Matlab with </text>
+<text top="784" left="460" width="0" height="20" font="10">​</text>
+<text top="784" left="460" width="68" height="17" font="7"><b>5% return</b></text>
+<text top="784" left="528" width="0" height="20" font="10">​</text>
+<text top="784" left="528" width="181" height="17" font="8"> on Hong Kong stock market. </text>
+<text top="827" left="74" width="288" height="20" font="6"><b>Awards &amp; Extracurricular Activities </b></text>
+<text top="858" left="82" width="508" height="18" font="14">NTU Undergraduate Research Experience on campus for first-class students </text>
+<text top="880" left="82" width="535" height="18" font="14">Publication &amp; Publicity Director, NTU Institution of Engineering &amp; Technology </text>
+<text top="901" left="82" width="366" height="18" font="14">Runner-up in Vietnam’s National Physics Competition </text>
+<text top="857" left="794" width="76" height="17" font="7"><b>2014 - 2015 </b></text>
+<text top="875" left="794" width="76" height="17" font="7"><b>2015 - 2016 </b></text>
+<text top="893" left="794" width="76" height="17" font="7"><b>2008 - 2009 </b></text>
+<text top="955" left="74" width="268" height="20" font="6"><b>Skills, Certifications &amp; Languages </b></text>
+<text top="989" left="101" width="9" height="17" font="9">●</text>
+<text top="989" left="128" width="35" height="17" font="7"><b>Skills</b></text>
+<text top="989" left="163" width="0" height="20" font="10">​</text>
+<text top="989" left="163" width="4" height="17" font="8">:</text>
+<text top="989" left="167" width="0" height="20" font="10">​</text>
+<text top="989" left="167" width="175" height="17" font="7"><b> HTML5/ CSS3/ Javascript</b></text>
+<text top="989" left="342" width="0" height="20" font="10">​</text>
+<text top="989" left="342" width="100" height="17" font="8"> (Ajax/ jQuery)/ </text>
+<text top="989" left="442" width="0" height="20" font="10">​</text>
+<text top="989" left="442" width="30" height="17" font="7"><b>PHP</b></text>
+<text top="989" left="472" width="0" height="20" font="10">​</text>
+<text top="989" left="472" width="11" height="17" font="8">,  </text>
+<text top="989" left="484" width="0" height="20" font="10">​</text>
+<text top="989" left="484" width="39" height="17" font="7"><b>SQL (</b></text>
+<text top="989" left="522" width="0" height="20" font="10">​</text>
+<text top="989" left="522" width="188" height="17" font="8">MySQL/ Oracle/ PostgresQL), </text>
+<text top="989" left="711" width="0" height="20" font="10">​</text>
+<text top="989" left="711" width="47" height="17" font="7"><b>C/ C++</b></text>
+<text top="989" left="757" width="0" height="20" font="10">​</text>
+<text top="989" left="757" width="7" height="17" font="8">, </text>
+<text top="989" left="765" width="0" height="20" font="10">​</text>
+<text top="989" left="765" width="34" height="17" font="7"><b>Java,</b></text>
+<text top="989" left="798" width="0" height="20" font="10">​</text>
+<text top="989" left="798" width="4" height="17" font="8"> </text>
+<text top="989" left="802" width="0" height="20" font="10">​</text>
+<text top="989" left="802" width="46" height="17" font="7"><b>Python</b></text>
+<text top="989" left="848" width="4" height="17" font="8"> </text>
+<text top="1008" left="128" width="62" height="17" font="8">(Django), </text>
+<text top="1008" left="190" width="0" height="20" font="10">​</text>
+<text top="1008" left="190" width="34" height="17" font="7"><b>AWS</b></text>
+<text top="1008" left="224" width="0" height="20" font="10">​</text>
+<text top="1008" left="224" width="7" height="17" font="8">, </text>
+<text top="1008" left="232" width="0" height="20" font="10">​</text>
+<text top="1008" left="232" width="160" height="17" font="7"><b>Unix/ Linux/ Git/ Github</b></text>
+<text top="1008" left="391" width="0" height="20" font="10">​</text>
+<text top="1008" left="391" width="8" height="17" font="8">/ </text>
+<text top="1008" left="399" width="0" height="20" font="10">​</text>
+<text top="1008" left="399" width="70" height="17" font="7"><b>Excel VBA</b></text>
+<text top="1008" left="469" width="4" height="17" font="8"> </text>
+<text top="1026" left="101" width="9" height="17" font="9">●</text>
+<text top="1026" left="128" width="87" height="17" font="7"><b>Certifications</b></text>
+<text top="1026" left="216" width="0" height="20" font="10">​</text>
+<text top="1026" left="216" width="607" height="17" font="8">: Salesforce Admin Certification, Salesforce Advanced Admin Certification, Salesforce App Builder </text>
+<text top="1044" left="128" width="80" height="17" font="8">Certification </text>
+<text top="1062" left="101" width="9" height="17" font="9">●</text>
+<text top="1062" left="128" width="69" height="17" font="7"><b>Languages</b></text>
+<text top="1062" left="197" width="0" height="20" font="10">​</text>
+<text top="1062" left="197" width="136" height="17" font="8">: English, Vietnamese </text>
+</page>
+</pdf2xml>

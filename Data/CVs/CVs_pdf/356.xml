@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="46" family="Roboto" color="#ffffff"/>
+	<fontspec id="1" size="16" family="Roboto" color="#494949"/>
+	<fontspec id="2" size="27" family="Roboto" color="#479b9d"/>
+	<fontspec id="3" size="16" family="Roboto" color="#333333"/>
+	<fontspec id="4" size="16" family="Roboto" color="#333333"/>
+	<fontspec id="5" size="16" family="Roboto" color="#479b9d"/>
+	<fontspec id="6" size="12" family="Roboto" color="#999999"/>
+<text top="100" left="35" width="368" height="54" font="0">Nguyen Ngoc Anh</text>
+<text top="589" left="35" width="324" height="19" font="1">More than 5 years experiences specializing in</text>
+<text top="611" left="35" width="311" height="19" font="1">web application. Independent, high demand</text>
+<text top="633" left="35" width="288" height="19" font="1">on the perfectness. Love challenges and</text>
+<text top="655" left="35" width="200" height="19" font="1">exploring new technologies.</text>
+<text top="761" left="35" width="50" height="19" font="1">Python</text>
+<text top="806" left="35" width="46" height="19" font="1">C/C++</text>
+<text top="851" left="35" width="76" height="19" font="1">JavaScript</text>
+<text top="896" left="35" width="34" height="19" font="1">Java</text>
+<text top="301" left="35" width="246" height="32" font="2">Contact information</text>
+<text top="345" left="35" width="88" height="19" font="3">Date of birth</text>
+<text top="345" left="151" width="36" height="19" font="1">1990</text>
+<text top="372" left="35" width="51" height="19" font="3">Gender</text>
+<text top="372" left="151" width="53" height="19" font="1">Female</text>
+<text top="400" left="35" width="46" height="19" font="3">Phone</text>
+<text top="400" left="151" width="91" height="19" font="1">0909125265</text>
+<text top="428" left="35" width="40" height="19" font="3">Email</text>
+<text top="428" left="151" width="135" height="19" font="1">nnanh@gmail.com</text>
+<text top="455" left="35" width="59" height="19" font="3">Address</text>
+<text top="455" left="151" width="174" height="19" font="1">Le Thi Bach Cat, District </text>
+<text top="477" left="151" width="144" height="19" font="1">11, Ho Chi Minh City</text>
+<text top="545" left="35" width="114" height="32" font="2">Objective</text>
+<text top="717" left="35" width="65" height="32" font="2">Skills</text>
+<text top="301" left="386" width="123" height="32" font="2">Education</text>
+<text top="369" left="386" width="344" height="19" font="4"><b>University of Technology of Compiegne, France</b></text>
+<text top="391" left="386" width="131" height="19" font="5">Computer Science</text>
+<text top="413" left="386" width="62" height="19" font="1">GPA: 3.2</text>
+<text top="337" left="720" width="147" height="19" font="5">Oct 2014 - May 2016</text>
+<text top="476" left="386" width="116" height="19" font="4"><b>RMIT University</b></text>
+<text top="498" left="386" width="131" height="19" font="5">Computer Science</text>
+<text top="444" left="720" width="147" height="19" font="5">Oct 2016 - May 2018</text>
+<text top="560" left="386" width="244" height="32" font="2">WORKING HISTORY</text>
+<text top="628" left="386" width="53" height="19" font="4"><b>BOSCH</b></text>
+<text top="650" left="386" width="152" height="19" font="5">Embedded Developer</text>
+<text top="596" left="710" width="156" height="19" font="5">June 2016 - Jan, 2017</text>
+<text top="714" left="386" width="163" height="19" font="4"><b>VNResource Company</b></text>
+<text top="735" left="386" width="124" height="19" font="5">Product Manager</text>
+<text top="681" left="710" width="156" height="19" font="5">June 2017 - Jan, 2018</text>
+<text top="799" left="386" width="164" height="19" font="4"><b>TPS Software Solution</b></text>
+<text top="821" left="386" width="140" height="19" font="5">Software Developer</text>
+<text top="767" left="730" width="136" height="19" font="5">Jan, 2018 - Present</text>
+<text top="1239" left="806" width="61" height="15" font="6">© topcv.vn</text>
+</page>
+</pdf2xml>

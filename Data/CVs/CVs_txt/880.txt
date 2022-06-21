@@ -1,0 +1,38 @@
+Nguyễn Xuân Huy
+Personal Information
+Skills
+School Projects
+Education
+Date of birth: 04/07/1996
+Emai: huylop99@gmail.com
+Address: 7 Street 6, Phuoc Binh Ward,
+District 9, HCMC
+Mobile: 0932 455 646
+Facebook: www.facebook.com/xuanhuy.nguyen.397
+Favorite: Learn new things, study new
+technology, learn new programming languages,
+listen music, make friends with many people.
+2014 – present: University of Information
+Technology  Bachelor of Computer Science,
+Graduating September 2018.
+C/C++, Python, Matlab, Maple.
+Basic knowledge about Web (HTML, CSS),
+C#, SQL.
+Experience about Django framework,
+Tensorflow framework.
+Knowledge about Data structure,
+Object oriented programming,
+Artificial intelligence algorithms,
+Machine learning, Deep learning,
+Computer vision.
+Experience about Photoshop,
+Adobe Illustrator, Corel.
+Handwriting recognition application
+Document classifiation application
+Text & image compressing application
+Document retrieval system
+Pedestrian attribute recognition
+Image Stitching and Image
+Segmentation
+Document classification system
+Smart Home

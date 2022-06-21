@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="14" family="ArialMT" color="#000000"/>
+	<fontspec id="1" size="14" family="Arial" color="#000000"/>
+	<fontspec id="2" size="36" family="Arial" color="#0e2452"/>
+	<fontspec id="3" size="18" family="Arial" color="#000000"/>
+	<fontspec id="4" size="12" family="ArialMT" color="#999999"/>
+<text top="427" left="81" width="141" height="17" font="0">Oct 2014 - May 2016</text>
+<text top="424" left="298" width="273" height="17" font="1"><b>Ho Chi Minh University Of Technology</b></text>
+<text top="447" left="298" width="202" height="17" font="0">Major: Information Technology</text>
+<text top="470" left="298" width="61" height="17" font="0">GPA: 3.2</text>
+<text top="576" left="81" width="136" height="17" font="0">June 2014 - Present</text>
+<text top="573" left="299" width="182" height="17" font="1"><b>Company: TMA Solutions</b></text>
+<text top="596" left="299" width="172" height="17" font="0">Position: Web Developers</text>
+<text top="620" left="299" width="139" height="17" font="0">Main responsibilities:</text>
+<text top="643" left="299" width="391" height="17" font="0">- Programed apps backend using only ASP.NET MVC 4, 5.</text>
+<text top="666" left="299" width="373" height="17" font="0">- Designed database/tables using Microsoft SQL Server.</text>
+<text top="689" left="299" width="373" height="17" font="0">- Designed responsive UI using Bootstrap, HTML5/CSS,</text>
+<text top="712" left="299" width="160" height="17" font="0">JavaScript/Jquery/AJAX</text>
+<text top="735" left="299" width="285" height="17" font="0">- Worked with JSON, XML and XSD format</text>
+<text top="839" left="81" width="71" height="17" font="1"><b>Language</b></text>
+<text top="839" left="298" width="185" height="17" font="0">English, Japanese, Chinese</text>
+<text top="874" left="81" width="71" height="17" font="1"><b>Computer</b></text>
+<text top="874" left="298" width="234" height="17" font="0">ASP.NET, HTML5/CSS, JavaScript</text>
+<text top="78" left="85" width="319" height="41" font="2"><b>Nguyen Ngoc Anh</b></text>
+<text top="125" left="85" width="93" height="17" font="1"><b>Date of birth:</b></text>
+<text top="125" left="206" width="95" height="17" font="0"> May 19, 1992</text>
+<text top="153" left="85" width="57" height="17" font="1"><b>Gender:</b></text>
+<text top="153" left="206" width="54" height="17" font="0"> Female</text>
+<text top="180" left="85" width="51" height="17" font="1"><b>Phone:</b></text>
+<text top="180" left="206" width="96" height="17" font="0"> 0909 125 265</text>
+<text top="208" left="85" width="45" height="17" font="1"><b>Email:</b></text>
+<text top="208" left="206" width="129" height="17" font="0"> nnanh@gmail.com</text>
+<text top="236" left="85" width="65" height="17" font="1"><b>Address:</b></text>
+<text top="236" left="206" width="107" height="17" font="0"> Hanoi, Vietnam</text>
+<text top="261" left="81" width="104" height="21" font="3"><b>OBJECTIVE</b></text>
+<text top="305" left="81" width="737" height="17" font="0">Take  advantages  of  sales  skills  &amp;  experience  and  understanding  of  market  to  become  a  professional  Sales</text>
+<text top="328" left="81" width="694" height="17" font="0">Staff and bring a lot value to Customers. From that, I will contribute to development of TOPCV Company.</text>
+<text top="381" left="81" width="109" height="21" font="3"><b>EDUCATION</b></text>
+<text top="530" left="81" width="178" height="21" font="3"><b>WORKING HISTORY</b></text>
+<text top="796" left="81" width="65" height="21" font="3"><b>SKILLS</b></text>
+<text top="1227" left="777" width="60" height="14" font="4">© topcv.vn</text>
+</page>
+<outline>
+<item page="1">OBJECTIVE</item>
+<item page="1">EDUCATION</item>
+<item page="1">WORKING HISTORY</item>
+<item page="1">SKILLS</item>
+</outline>
+</pdf2xml>

@@ -1,0 +1,165 @@
+Name: VU XUAN TUYEN 
+Address: 133b, Le Loi Street, Ward 3, Go Vap District, Ho Chi Minh City, Vietnam  
+Mobile: +84 989 161019  
+Email: tuyenvx2212@gmail.com  
+Birthday: December 22, 1991 
+Mariel Status: Single 
+POSITION APPLY: Software Developer  
+CAREER OBJECTIVE 
+Becoming a good staff – spend less time, more effective. Always have a desire in learning and 
+improving knowledge and working productivity to bring benefits to the company. 
+EDUCATION BACKGROUND 
+From 2009 – 2013: FPT UNIVERSITY, VIETNAM 
+Get the FPT Software Certificate: On-job training program (Dec 2012) 
+Well-educated knowledge of software development process. 
+Excellent oral/written communication, interpersonal, and analysis skills. Thrive in both 
+independent and collaborative work environments. 
+Being good at interpersonal and communication skills and having high team spirit. 
+Have basic knowledge of Japanese.  
+Highly self-motivated, dedicated, able to work under pressure to deliver project goals. 
+TECHNICAL SKILLS  
+Operating systems: Windows.  
+Database: MySQL, MS SQL Server.  
+Programming languages: Javascript, C# .Net, Java, Php. 
+Framework: .Net (C#), Struts (java), Spring (java), laravel (php).  
+WORK EXPERIENCES  
+April 2012 – December 2012:  Developer 
+FPT Software HCM  
+Responsibilities  
+My role involves following key activities:  
+Debug and code with c# language 
+Work with Silverlight and SQL database 
+Project DMS-Core 
+Description  Debug and develops a web with silverlight.  Debug and fix database. 
+Responsibilities Coding/Unit test 
+Technologies C#/silverlight/SQL 
+Team size 5 
+Role Team Member/Developer 
+Aug 2013 – December 2013: Capstone Project of FPT University 
+Our project is “Build a driver to control an arm robotics in WinCE”. This is a application 
+prove with embedded kit and a operation (for example: linux, wince),  it can replace 
+industry PC in factory. 
+Project Build a driver to control an arm robotics in WinCE 
+Description Develop application provide three main parts: 
+Control arm robotics with embedded kit. 
+Use camera to automatic control arm robotics with embedded kit. 
+Control arm robotics with PC connect to embedded kit by tcp/ip 
+Responsibilities Requirement Analysis/Design/Coding Implementation/Tesing/Write user 
+guide 
+Technologies C#/ASP.NET MVC4/Entity Framework 
+Team size 3 
+Role Team leader, Developer, Tester 
+May 2014 – Aug 2014: IVS  NDBS 
+Our project is make a web application that user can use to search information, predict who 
+will be the winner in Boat Race System. It also works in mobile device. 
+Project NDBS 
+Description Develop application provide three main parts: 
+Develop server and database. 
+Develop client. 
+Test product in PC and mobile device 
+Responsibilities Coding, Testing 
+Technologies Struts2 (Java), Jquery Mobile, Oracle, Junit, DJUnit. 
+Team size 30 
+Role Developer, Tester 
+Aug 2014 – Oct 2014: IVS  Kanden 
+Our project is maintains Kanden’s software. Fix and create new function, user can search 
+information about electric’s problem, set calendar, find someone to fix it. 
+Project Kanden 
+Description Develop application provide three main parts: 
+Fix old function. 
+Create new funtion. 
+Test all function’s fix or create new by this project. 
+Responsibilities Coding, Testing 
+Technologies Nexa (Java), Oracle, Junit, DJUnit. 
+Team size 20 
+Role Developer, Tester 
+Oct 2014 – Dec 2014: IVS  MSR 
+Our project is makes web application that manager people in company. User can create new 
+room, add member, share file, search file, discuss in that room. 
+Project MSR 
+Description Develop application provide three main parts: 
+Develop server and database. 
+Develop client. 
+Test product in PC 
+Responsibilities Coding, Testing 
+Technologies Spring (java), Oracle, Bootstrap (jquery), Ajax, Javascript, Apache soj 
+Team size 12 
+Role Developer, Tester 
+Dec 2014 – Feb 2015: IVS  MSS 
+Our project is maintains web and application for a flower sales system. User can search 
+information and manage flower’s product in application, chose and buy flower online in 
+web. 
+Project MSS 
+Description Develop application provide four main parts: 
+Maintain old function in web. 
+Maintain old function in application. 
+Create new function on this system. 
+Test product.  
+Responsibilities Coding 
+Technologies C#/ASP.NET MVC4/Entity Framework, oracle 
+Team size 15 
+Role Developer 
+Feb 2015 – May 2015: IVS  Kahatsu 
+Our project is maintains for AEON system. 
+Project Kahatsu 
+Description Develop application provide three main parts: 
+Fix old function on the system. 
+Add new function on the system. 
+Test product.  
+Responsibilities Coding, Testing 
+Technologies ProC, VBA, Oracle, Struts (Java) 
+Team size 3 
+Role Developer, Tester 
+May 2015 – Jun 2015: Capstone Project of FPT University 
+Our project is create an internal web application for manage human resource. User can find 
+who’s free and then assign task for them. 
+Project Internal project 
+Description Develop application provide three main parts: 
+Develop server based on open sources. 
+Add new function. 
+Test project. 
+Responsibilities Coding, Testing 
+Technologies Laravel (php), my sql 
+Team size 3 
+Role Developer 
+Jun 2015 – Aug 2015: IVS  CNG 
+Our project’s create a php web. User can search, download and rate a software. 
+Project Kahatsu 
+Description Develop application provide three main parts: 
+Develop server based on open source. 
+Develop client. 
+Test product.  
+Responsibilities Coding, Testing 
+Technologies Dural (PHP), MySql 
+Team size 8 
+Role Developer, Tester 
+Aug 2015 – Oct 2015: IVS  ARIS 
+Our project is create BD, DD, Develop and test an application. User can create exam, 
+document for teach, … It support short keys for slides show in mobile or PC 
+Project Kahatsu 
+Description Develop application provide four main parts: 
+Create basic design. 
+Create detail design. 
+Develop app editor document in PC and app slide show in mobile 
+device 
+Test product.  
+Responsibilities Design, Coding, Testing 
+Technologies .Net (C#), IOS, Android 
+Team size 15 
+Role Developer, Tester 
+KEY SKILLS 
+Communication skills: Have experience in working in group as well as participating 
+outside activities has improved my ability to communicate effectively with everybody.   
+Computer skills:  
+o MS Excel: Intermediate 
+o MS Word: Advanced 
+o Power Point: Advanced 
+o Windows: Advanced 
+o Internet, Email: Very efficient use of Internet for searching and generating 
+information 
+Language skills: Both fluency in writing and speaking in Vietnamese and English, have a 
+basic knowledge in using Japanese. 
+Activities: Listening to music, watching movies, play video game.  
+Personal qualities: Sense of responsibility and carefulness in all the works done is my 
+greatest strength.  
+. 

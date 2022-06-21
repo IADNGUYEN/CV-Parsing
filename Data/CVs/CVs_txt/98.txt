@@ -1,0 +1,77 @@
+  
+Bui Van Tri 
+Date of Birth: 11h November, 1991 
+Address: District 5, HCMC 
+Mobile: 035 897 4632 
+Email: tribv789@gmail.com 
+I’m good-oriented, passionate and 
+self-motivational individual.         
+I’ve always been fascinated by 
+programming languages. 
+Programming helps me think up of 
+solutions that solve some really 
+complex problems. And I also like 
+to build things people use. I have 
+high responsibility for every 
+assigned task. I always ensure to 
+bring highest quality in the least 
+amount of time for my company. 
+I’m currently looking for 
+opportunities to extend my 
+expertise as a data analyst. 
+Fluent in English 
+Strong SQL Language 
+Good at excel VBA 
+Strong Analytical Skill 
+Proficiency with Office 
+Suite (Excel, Word, etc.) 
+Flexibles and adaptable 
+for the changes 
+Creative to solve 
+problems, Pro-active 
+approach 
+Analytical, structured and 
+logical thinking 
+Reliable and diligent with 
+attention to detail 
+BUI VAN TRI 
+DATA ANALYST 
+(If you only do what you can do, you will never be more than you are now) 
+DESIGNER ENGINEERING 
+(2016 – Present) 
+JESCO ASIA 
+Electrical design for building such as Schools, Hospitals, Factories, Apartments, 
+Proficient in using AutoCAD software. 
+Make Drawing for Electrical System:  Main Power Supply, Backup 
+Calculation of Electrical cable’s length, size, transformer capacity, etc. 
+Create tools for refresh data and save files into specified path automatically in  
+the time zone that I set up the schedule by using language VBA. This help my 
+manager save a bunch of time for preparing the report. 
+My manager required team member entry their overtime hours daily into excel 
+table. He used to make this report by manually and he spent a lot of time on 
+doing this. That’s why I help him for creating a UserForm to aid data entry such 
+as project name, add/ delete member in specific project, overtime hours and 
+then I cleaning the data, summary the member OT hours for weekly and 
+monthly report by using language VBA. 
+(2010  2014) 
+ELECTRICAL AND ELECTRONIC ENGINEERING – GOOD 
+TAY DO UNIVERSITY 
+Learning knowledge about electronic. My thesis is remote monitoring and control 
+system by using C++ language. 
+CERTIFICATES IN USING MS OFFICE SOFTWARE  GOOD 
+VIETNAM NATIONAL UNIVERSITY IN HO CHI MINH CITY 
+NATIONAL CERTIFICATE OF ENGLISH  
+A friend of mine is working as Data Analyst who shared with me a ton of general 
+knowledge about Consumer Finance such as loan approval process, how to 
+calculate TAT in each step, due date, days past due, first past due, etc. 
+I have learned a lot of SQL skills from my friend who challenge me a lot of complex 
+queries and ask me how to solve it accurately. This complex queries challenge 
+makes me understand deeply on how to manage the data via SQL efficiently. 
+After all, I love to work as data analyst. I want to utilize my knowledge about this 
+field, my technical skill for my new job.  
+ABOUT ME 
+TECHNICAL SKILLS 
+EXPERIENCE 
+SOFT SKILLS 
+EDUCATION 
+ADDITIONAL INFORMATION 

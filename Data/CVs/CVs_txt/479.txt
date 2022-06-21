@@ -1,0 +1,33 @@
+Curriculum Vitae 
+Personal Information  
+Full name: Tran Thanh Khai 
+Date of birth: 09/03/1993 
+Phone number: 01697840085. 
+Place of birth: Ninh Thuan / Viet Nam 
+Email: alwayswannasmile0903@gmail.com 
+Address: District 7, Ho Chi Minh City 
+Gender: Male 
+Language: Vietnamese(Native), English(Normal) 
+Objectives 
+Studying and working in a professional environment. 
+Learning about programming experience. 
+Improving my knowledge and skills. 
+Skill sets 
+Soft Skills 
+Teamwork 
+Able to read documents and communicate in English 
+Programming Skills 
+Language: Java, C++, PHP, Android. 
+Web Technologies: HTML, CSS, JSP, Javascript 
+Framework: Hibernate 
+Database: MS SQL, MySQL 
+Education 
+School: Ton Duc Thang University                                                                               
+District 7, HCMC 
+Role: Student 
+2011  Now 
+Major: Computer Science 
+Hobbies & Interests 
+Reading books 
+Music 
+Travelling 

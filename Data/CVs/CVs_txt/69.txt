@@ -1,0 +1,50 @@
+INFOMATION
+EDUCATION
+ACTIVITY
+SKILLS
+Name: Nong Van Hieu
+Birthday: 05/12/1991
+Gender: Male
+Major: Electronics – Telecommunication.
+Quang Trung gifted high school  Binh Phuoc province. Specialized Physics class
+Third prize in Physics Contest nationwide (3/2009)
+Participating in Green Summer Volunteer Campaign in Dong Thap province (6/2011)
+Microsoft Office Word, Excel, Powerpoint, visio
+English certificate: TOEIC 530
+Corel Draw, Proshow Producer
+Address: 11/11/3 Tran Van Dang street, 
+9 ward, HCM city
+Phone: 01652 768 283
+Email: nongvanhieu.bk@gmail.com
+Talent Engineer Education program in HCM university of technology 
+Graduated Excellence Bachelor Degree (4/2014). Overall GPA: 8.00 points
+Second Prize in Physics Olympic Contest  for Students nationwide (4/2010).
+Member of Care Serve Reach and Tutor club in Robert Bosch Engineer company (2014)
+Completed a soft skill course The AWAKE YOUR POWER program (7/2014)
+Communication, Persuasion, Presentation
+EXPERIENCE
+REFERENCE
+Obtaining an internship Programming Android in Kien Viet company (6/2013-9/2013)
+Working in Robert Bosch Engineering and Business Solutions Viet Nam (Jul-2014). 
+Position: Embedded Software Tester
+WORK SUMMARY
+Msc Bui Quoc Bao, Head of IC design Lab, Ho Chi Minh University Of  Technology
+Email: 
+.                            Phone: 0908570512
+buiquocbao@hcmut.edu.vn
+Mr. Bui Quoc Viet, team leader in Bosch company      
+Email: 
+.                          Phone: +84(90)6968582
+Viet.BuiQuoc@vn.bosch.com
+Working in Techpal company (Sep-2015). Position: Sale engineer
+Research topic:
+Robot navigation using optical sensors (9/2012-1/2013).
+Led fan using PIC microcontroller (1/2013-5/2013).
+Build a Android App for Home Control via Wi-Fi (6/2013-1/2014).
+Programming Microcontroller (8051, PIC, arduino, MSP430, ARM contex M3, M4) and 
+development tools (Mplab, Energia, CCS, eclipse)
+Coding language: C/C++
+Mr. Nguyen Van Tuyen, sale manager in Techpal company      
+Email: 
+.                                      Phone: +84(96)6626487
+tuyennv@techpal.vn

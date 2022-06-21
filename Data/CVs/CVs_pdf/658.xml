@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="13" family="XNOEYC+HelveticaNeue" color="#000000"/>
+	<fontspec id="1" size="13" family="TMDZNK+HelveticaNeue" color="#000000"/>
+	<fontspec id="2" size="18" family="IKLNNQ+TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="3" size="27" family="JPQYKV+Helvetica" color="#000000"/>
+	<fontspec id="4" size="16" family="HUOXSX+HelveticaNeue" color="#000000"/>
+	<fontspec id="5" size="16" family="GNKQKR+HelveticaNeue-Medium" color="#000000"/>
+	<fontspec id="6" size="16" family="QNTQNO+Symbol" color="#000000"/>
+	<fontspec id="7" size="16" family="KRCAUJ+ArialMT" color="#000000"/>
+	<fontspec id="8" size="16" family="XNOEYC+HelveticaNeue" color="#000000"/>
+<text top="1108" left="342" width="162" height="16" font="0">Luong Quoc Phong’s CV - </text>
+<text top="1108" left="504" width="76" height="16" font="1"><i>Confidential </i></text>
+<text top="1125" left="99" width="5" height="20" font="2"> </text>
+<text top="1106" left="814" width="11" height="16" font="0">1 </text>
+<text top="131" left="313" width="300" height="27" font="3"><b>LUONG QUOC PHONG </b></text>
+<text top="163" left="99" width="5" height="19" font="4"><b> </b></text>
+<text top="202" left="99" width="156" height="19" font="5">CONTACT DETAILS </text>
+<text top="231" left="126" width="7" height="16" font="6">•</text>
+<text top="227" left="134" width="5" height="18" font="7"> </text>
+<text top="226" left="153" width="571" height="19" font="8">Address: 4/3 Ta Quang Buu St, Ward 1, District 8, Ho Chi Minh City, Vietnam </text>
+<text top="251" left="126" width="7" height="16" font="6">•</text>
+<text top="247" left="134" width="5" height="18" font="7"> </text>
+<text top="247" left="153" width="197" height="19" font="8">Mobile: (+84) 93 797 8133 </text>
+<text top="271" left="126" width="7" height="16" font="6">•</text>
+<text top="268" left="134" width="5" height="18" font="7"> </text>
+<text top="267" left="153" width="261" height="19" font="8">E-mail: phongluong.sg@gmail.com </text>
+<text top="287" left="99" width="5" height="19" font="4"><b> </b></text>
+<text top="324" left="99" width="244" height="19" font="5">EDUCATIONAL BACKGROUND </text>
+<text top="354" left="126" width="7" height="16" font="6">•</text>
+<text top="350" left="134" width="5" height="18" font="7"> </text>
+<text top="350" left="153" width="588" height="19" font="8">Bachelor of Engineering Degree in Information System, Saigon University, 2014 </text>
+<text top="369" left="153" width="199" height="19" font="8">Ho Chi Minh City, Vietnam </text>
+<text top="389" left="99" width="5" height="19" font="8"> </text>
+<text top="427" left="99" width="221" height="19" font="5">PROFESSIONAL SUMMARY </text>
+<text top="456" left="126" width="7" height="16" font="6">•</text>
+<text top="453" left="134" width="5" height="18" font="7"> </text>
+<text top="452" left="153" width="329" height="19" font="8">2 years experience in Android development. </text>
+<text top="476" left="126" width="7" height="16" font="6">•</text>
+<text top="472" left="134" width="5" height="18" font="7"> </text>
+<text top="472" left="153" width="671" height="19" font="8">Good  knowledge  and  skills  in  web  development:  Spring,  Struts,  REST,  EJB,  Hibernate, </text>
+<text top="491" left="153" width="378" height="19" font="8">HTML/CSS, JavaScript, Google Cloud Computing. </text>
+<text top="516" left="126" width="7" height="16" font="6">•</text>
+<text top="512" left="134" width="5" height="18" font="7"> </text>
+<text top="512" left="153" width="657" height="19" font="8">Have knowledge using database such as: SQLSever, MySQL, Oracle, SQLite, Datastore. </text>
+<text top="531" left="99" width="5" height="19" font="4"><b> </b></text>
+<text top="570" left="99" width="61" height="19" font="5">SKILLS </text>
+<text top="599" left="126" width="7" height="16" font="6">•</text>
+<text top="596" left="134" width="5" height="18" font="7"> </text>
+<text top="594" left="153" width="98" height="19" font="5">Languages:  </text>
+<text top="619" left="157" width="7" height="16" font="6">•</text>
+<text top="615" left="165" width="5" height="18" font="7"> </text>
+<text top="615" left="184" width="63" height="19" font="8">Android </text>
+<text top="639" left="157" width="7" height="16" font="6">•</text>
+<text top="635" left="165" width="5" height="18" font="7"> </text>
+<text top="635" left="184" width="42" height="19" font="8">J2EE </text>
+<text top="659" left="157" width="7" height="16" font="6">•</text>
+<text top="656" left="165" width="5" height="18" font="7"> </text>
+<text top="655" left="184" width="231" height="19" font="8">HTM/CSS, JavaScript, MySQL </text>
+<text top="679" left="126" width="7" height="16" font="6">•</text>
+<text top="676" left="134" width="5" height="18" font="7"> </text>
+<text top="675" left="153" width="173" height="19" font="5">Frameworks and Libs: </text>
+<text top="699" left="157" width="7" height="16" font="6">•</text>
+<text top="696" left="165" width="5" height="18" font="7"> </text>
+<text top="695" left="184" width="616" height="19" font="8">Smack API, ButterKnife, Volley, Dagger, Retrofit, Picasso, Gson, EventBus, RxJava </text>
+<text top="719" left="157" width="7" height="16" font="6">•</text>
+<text top="716" left="165" width="5" height="18" font="7"> </text>
+<text top="715" left="184" width="244" height="19" font="8">Omniture, Heartbeat, comScore. </text>
+<text top="739" left="157" width="7" height="16" font="6">•</text>
+<text top="736" left="165" width="5" height="18" font="7"> </text>
+<text top="735" left="184" width="361" height="19" font="8">EJB, Spring, Struts, RESTful Web Service, AJAX </text>
+<text top="760" left="126" width="7" height="16" font="6">•</text>
+<text top="756" left="134" width="5" height="18" font="7"> </text>
+<text top="755" left="153" width="159" height="19" font="5">Operating Systems:  </text>
+<text top="780" left="157" width="7" height="16" font="6">•</text>
+<text top="776" left="165" width="5" height="18" font="7"> </text>
+<text top="775" left="184" width="79" height="19" font="8">Mac OS X </text>
+<text top="800" left="157" width="7" height="16" font="6">•</text>
+<text top="796" left="165" width="5" height="18" font="7"> </text>
+<text top="796" left="184" width="156" height="19" font="8">Windows XP/7/8/8.1 </text>
+<text top="820" left="157" width="7" height="16" font="6">•</text>
+<text top="817" left="165" width="5" height="18" font="7"> </text>
+<text top="816" left="184" width="59" height="19" font="8">Ubuntu </text>
+<text top="840" left="126" width="7" height="16" font="6">•</text>
+<text top="837" left="134" width="5" height="18" font="7"> </text>
+<text top="836" left="153" width="219" height="19" font="5">Development, Design Tools: </text>
+<text top="860" left="157" width="7" height="16" font="6">•</text>
+<text top="857" left="165" width="5" height="18" font="7"> </text>
+<text top="856" left="184" width="115" height="19" font="8">Android Studio </text>
+<text top="880" left="157" width="7" height="16" font="6">•</text>
+<text top="877" left="165" width="5" height="18" font="7"> </text>
+<text top="876" left="184" width="58" height="19" font="8">Eclipse </text>
+<text top="901" left="157" width="7" height="16" font="6">•</text>
+<text top="897" left="165" width="5" height="18" font="7"> </text>
+<text top="896" left="184" width="148" height="19" font="8">Google App Engine </text>
+<text top="920" left="157" width="7" height="16" font="6">•</text>
+<text top="917" left="165" width="5" height="18" font="7"> </text>
+<text top="916" left="184" width="68" height="19" font="8">SVN, Git </text>
+<text top="940" left="157" width="7" height="16" font="6">•</text>
+<text top="937" left="165" width="5" height="18" font="7"> </text>
+<text top="936" left="184" width="159" height="19" font="8">Jira, Jenkins, Docker </text>
+<text top="961" left="157" width="7" height="16" font="6">•</text>
+<text top="957" left="165" width="5" height="18" font="7"> </text>
+<text top="957" left="184" width="85" height="19" font="8">Photoshop </text>
+<text top="981" left="126" width="7" height="16" font="6">•</text>
+<text top="978" left="134" width="5" height="18" font="7"> </text>
+<text top="977" left="153" width="95" height="19" font="5">Databases:  </text>
+<text top="998" left="157" width="7" height="16" font="6">•</text>
+<text top="994" left="165" width="5" height="18" font="7"> </text>
+<text top="994" left="184" width="381" height="19" font="8">SQLite, MS SQL Server, MySQL, Oracle, Datastore </text>
+<text top="1018" left="126" width="7" height="16" font="6">•</text>
+<text top="1015" left="134" width="5" height="18" font="7"> </text>
+<text top="1013" left="153" width="56" height="19" font="5">Other:  </text>
+<text top="1034" left="157" width="7" height="16" font="6">•</text>
+<text top="1031" left="165" width="5" height="18" font="7"> </text>
+<text top="1030" left="184" width="210" height="19" font="8">OOP, AOP, Design Patterns </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="9" size="15" family="QNTQNO+Symbol" color="#000000"/>
+	<fontspec id="10" size="16" family="JJFTTX+Arial" color="#000000"/>
+<text top="1108" left="342" width="162" height="16" font="0">Luong Quoc Phong’s CV - </text>
+<text top="1108" left="504" width="76" height="16" font="1"><i>Confidential </i></text>
+<text top="1125" left="99" width="5" height="20" font="2"> </text>
+<text top="1106" left="814" width="11" height="16" font="0">2 </text>
+<text top="126" left="99" width="192" height="19" font="5">WORKING EXPERIENCE </text>
+<text top="156" left="126" width="7" height="16" font="6">•</text>
+<text top="152" left="134" width="5" height="18" font="7"> </text>
+<text top="151" left="153" width="307" height="19" font="5">2014/07 – Current: FPT Software HCMC </text>
+<text top="176" left="126" width="7" height="16" font="6">•</text>
+<text top="173" left="134" width="5" height="18" font="7"> </text>
+<text top="171" left="153" width="222" height="19" font="5">2013/09 – 2014/07: Gameloft </text>
+<text top="210" left="99" width="239" height="19" font="5">PROFESSIONAL EXPERIENCE </text>
+<text top="239" left="126" width="7" height="16" font="6">•</text>
+<text top="236" left="134" width="5" height="18" font="7"> </text>
+<text top="234" left="153" width="135" height="19" font="5">2015/8 – Current: </text>
+<text top="235" left="288" width="137" height="19" font="8">Android Developer</text>
+<text top="234" left="426" width="5" height="19" font="5"> </text>
+<text top="259" left="152" width="217" height="19" font="5">Project: Next Generation TV </text>
+<text top="283" left="152" width="156" height="19" font="5">Project Description: </text>
+<text top="308" left="152" width="671" height="19" font="8">An  Android  application  for  browsing,  purchasing  and  watching  movies  and  TV  show </text>
+<text top="328" left="152" width="53" height="19" font="8">online. </text>
+<text top="352" left="152" width="63" height="19" font="5">Domain:</text>
+<text top="352" left="215" width="112" height="19" font="8"> Entertainment </text>
+<text top="377" left="152" width="84" height="19" font="5">Team Size:</text>
+<text top="377" left="236" width="27" height="19" font="8"> 10 </text>
+<text top="401" left="152" width="151" height="19" font="5">Technologies Used:</text>
+<text top="401" left="303" width="5" height="19" font="4"><b> </b></text>
+<text top="401" left="308" width="512" height="19" font="8">Android SDK, JSON, Retrofit, Omniture, Conviva, Nielson, comScore </text>
+<text top="421" left="152" width="287" height="19" font="8">Analytics, NexPlayer, Docker, Jenkins. </text>
+<text top="445" left="152" width="134" height="19" font="5">Responsibilities:  </text>
+<text top="475" left="157" width="7" height="16" font="9">•</text>
+<text top="471" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="471" left="184" width="386" height="19" font="8">Implement Omniture, Heartbeat SDK functionalities. </text>
+<text top="495" left="99" width="5" height="19" font="8"> </text>
+<text top="524" left="126" width="7" height="16" font="6">•</text>
+<text top="520" left="134" width="5" height="18" font="7"> </text>
+<text top="519" left="153" width="139" height="19" font="5">2015/4 – 2015/07: </text>
+<text top="520" left="292" width="137" height="19" font="8">Android Developer</text>
+<text top="519" left="430" width="5" height="19" font="5"> </text>
+<text top="543" left="152" width="234" height="19" font="5">Project: MDC Messenger SDK </text>
+<text top="568" left="152" width="156" height="19" font="5">Project Description: </text>
+<text top="593" left="152" width="671" height="19" font="8">An XMPP SDK supports to create a messenger application as well as In-App Support for </text>
+<text top="612" left="152" width="671" height="19" font="8">another  project.  It  simplifies  process  of  integrating  XMPP  function  into  application, </text>
+<text top="632" left="152" width="395" height="19" font="8">supports sending text, file, group chat and voice call. </text>
+<text top="656" left="152" width="63" height="19" font="5">Domain:</text>
+<text top="657" left="215" width="126" height="19" font="8"> Communication </text>
+<text top="681" left="152" width="84" height="19" font="5">Team Size:</text>
+<text top="682" left="236" width="18" height="19" font="8"> 3 </text>
+<text top="706" left="152" width="151" height="19" font="5">Technologies Used:</text>
+<text top="706" left="303" width="5" height="19" font="4"><b> </b></text>
+<text top="706" left="308" width="333" height="19" font="8">Android SDK, JSON, XML, Smack, OpenFire.</text>
+<text top="706" left="641" width="5" height="19" font="4"><b> </b></text>
+<text top="730" left="152" width="130" height="19" font="5">Responsibilities: </text>
+<text top="759" left="157" width="7" height="16" font="9">•</text>
+<text top="756" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="755" left="184" width="179" height="19" font="8">Develop core functions. </text>
+<text top="784" left="157" width="7" height="16" font="9">•</text>
+<text top="781" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="780" left="184" width="346" height="19" font="8">Implement interaction features with the server. </text>
+<text top="809" left="157" width="7" height="16" font="9">•</text>
+<text top="805" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="805" left="184" width="136" height="19" font="8">Test and fix bugs. </text>
+<text top="833" left="157" width="7" height="16" font="9">•</text>
+<text top="830" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="829" left="184" width="622" height="19" font="8">Modify build definition for various build definition (development/test build definition). </text>
+<text top="854" left="99" width="5" height="19" font="8"> </text>
+<text top="883" left="126" width="7" height="16" font="6">•</text>
+<text top="879" left="134" width="5" height="18" font="7"> </text>
+<text top="878" left="153" width="139" height="19" font="5">2015/1 – 2015/03: </text>
+<text top="878" left="292" width="137" height="19" font="8">Android Developer</text>
+<text top="878" left="430" width="5" height="19" font="5"> </text>
+<text top="902" left="152" width="262" height="19" font="5">Project: NGTV - Kids Video Player </text>
+<text top="927" left="152" width="156" height="19" font="5">Project Description: </text>
+<text top="952" left="152" width="671" height="19" font="8">A video player application for kids with unique UI and UX, used for integrating into another </text>
+<text top="971" left="152" width="38" height="19" font="8">app. </text>
+<text top="995" left="152" width="63" height="19" font="5">Domain:</text>
+<text top="996" left="215" width="112" height="19" font="8"> Entertainment </text>
+<text top="1020" left="152" width="82" height="19" font="5">Team size:</text>
+<text top="1020" left="234" width="18" height="19" font="8"> 2 </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="1108" left="342" width="162" height="16" font="0">Luong Quoc Phong’s CV - </text>
+<text top="1108" left="504" width="76" height="16" font="1"><i>Confidential </i></text>
+<text top="1125" left="99" width="5" height="20" font="2"> </text>
+<text top="1106" left="814" width="11" height="16" font="0">3 </text>
+<text top="108" left="152" width="162" height="19" font="5">Technologies  Used:</text>
+<text top="108" left="314" width="5" height="19" font="4"><b> </b></text>
+<text top="109" left="330" width="494" height="19" font="8">Android  SDK,  Sprite  Sheet,  XML,  Custom  UI,  Animation, </text>
+<text top="129" left="152" width="218" height="19" font="8">DiskLruCache, BitmapCache.</text>
+<text top="128" left="370" width="5" height="19" font="4"><b> </b></text>
+<text top="153" left="152" width="134" height="19" font="5">Responsibilities:  </text>
+<text top="182" left="157" width="7" height="16" font="9">•</text>
+<text top="179" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="178" left="184" width="185" height="19" font="8">Implement UI functions.  </text>
+<text top="207" left="157" width="7" height="16" font="9">•</text>
+<text top="203" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="202" left="184" width="622" height="19" font="8">Modify build definition for various build definition (development/test build definition). </text>
+<text top="226" left="99" width="5" height="19" font="8"> </text>
+<text top="255" left="126" width="7" height="16" font="6">•</text>
+<text top="252" left="134" width="5" height="18" font="7"> </text>
+<text top="251" left="153" width="139" height="19" font="5">2014/8 – 2014/12: </text>
+<text top="251" left="292" width="137" height="19" font="8">Android Developer</text>
+<text top="251" left="430" width="5" height="19" font="5"> </text>
+<text top="275" left="152" width="365" height="19" font="5">Project: Customer Assets Management System </text>
+<text top="300" left="152" width="156" height="19" font="5">Project Description: </text>
+<text top="325" left="152" width="671" height="19" font="8">Build an assets management system using J2EE and Android. This application is used for </text>
+<text top="345" left="152" width="671" height="19" font="8">managing assets of customer, make it easier for user to manage and track. This system </text>
+<text top="364" left="152" width="537" height="19" font="8">can work as a web-based application as well as an Android application.  </text>
+<text top="388" left="152" width="63" height="19" font="5">Domain:</text>
+<text top="388" left="215" width="106" height="19" font="8"> Management </text>
+<text top="413" left="152" width="84" height="19" font="5">Team Size:</text>
+<text top="413" left="236" width="18" height="19" font="8"> 3 </text>
+<text top="437" left="152" width="151" height="19" font="5">Technologies Used:</text>
+<text top="437" left="303" width="5" height="19" font="4"><b> </b></text>
+<text top="438" left="308" width="484" height="19" font="8">Android SDK, JSON, Volley Library, Pull to refresh Library, REST, </text>
+<text top="458" left="152" width="47" height="19" font="8">LDAP.</text>
+<text top="457" left="199" width="5" height="19" font="4"><b> </b></text>
+<text top="482" left="152" width="130" height="19" font="5">Responsibilities: </text>
+<text top="482" left="282" width="5" height="19" font="8"> </text>
+<text top="482" left="286" width="5" height="19" font="5"> </text>
+<text top="511" left="157" width="7" height="16" font="9">•</text>
+<text top="508" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="507" left="184" width="163" height="19" font="8">Develop UI functions. </text>
+<text top="536" left="157" width="7" height="16" font="9">•</text>
+<text top="532" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="531" left="184" width="491" height="19" font="8">Implement integration features with Exchange ActiveSync Server.  </text>
+<text top="560" left="157" width="7" height="16" font="9">•</text>
+<text top="557" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="556" left="184" width="274" height="19" font="8">Participate in testing and bug fixing.  </text>
+<text top="585" left="157" width="7" height="16" font="9">•</text>
+<text top="581" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="581" left="184" width="622" height="19" font="8">Modify build definition for various build definition (development/test build definition). </text>
+<text top="605" left="99" width="5" height="19" font="8"> </text>
+<text top="647" left="126" width="7" height="16" font="6">•</text>
+<text top="644" left="134" width="5" height="18" font="7"> </text>
+<text top="643" left="153" width="144" height="19" font="5">2014/07 – 2014/07:</text>
+<text top="643" left="297" width="147" height="19" font="8"> Android Developer </text>
+<text top="667" left="152" width="193" height="19" font="5">Project: Karaoke Lookup </text>
+<text top="692" left="152" width="156" height="19" font="5">Project Description: </text>
+<text top="716" left="152" width="672" height="19" font="8">Build an application to lookup song’s karaoke code by enter song’s name, author, singer </text>
+<text top="736" left="152" width="671" height="19" font="8">or lyrics. The application can work with Arirang, California or MusicCore karaoke system. </text>
+<text top="756" left="152" width="414" height="19" font="8">Application supports voice searching for English songs. </text>
+<text top="780" left="152" width="174" height="19" font="8">Domain: Entertainment </text>
+<text top="804" left="152" width="151" height="19" font="5">Technologies Used:</text>
+<text top="805" left="303" width="507" height="19" font="8"> Android SDK, SQLite, Pull to refresh Library, Volley Library, Android </text>
+<text top="824" left="152" width="52" height="19" font="8">Studio.</text>
+<text top="824" left="205" width="5" height="19" font="4"><b> </b></text>
+<text top="849" left="152" width="134" height="19" font="5">Responsibilities:  </text>
+<text top="878" left="157" width="7" height="16" font="9">•</text>
+<text top="875" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="874" left="184" width="163" height="19" font="8">Develop UI functions. </text>
+<text top="902" left="157" width="7" height="16" font="9">•</text>
+<text top="899" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="898" left="184" width="257" height="19" font="8">Implement voice search functions. </text>
+<text top="927" left="157" width="7" height="16" font="9">•</text>
+<text top="923" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="923" left="184" width="269" height="19" font="8">Participate in testing and bug fixing. </text>
+<text top="947" left="99" width="5" height="19" font="8"> </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="1108" left="342" width="162" height="16" font="0">Luong Quoc Phong’s CV - </text>
+<text top="1108" left="504" width="76" height="16" font="1"><i>Confidential </i></text>
+<text top="1125" left="99" width="5" height="20" font="2"> </text>
+<text top="1106" left="814" width="11" height="16" font="0">4 </text>
+<text top="113" left="126" width="7" height="16" font="6">•</text>
+<text top="110" left="134" width="5" height="18" font="7"> </text>
+<text top="109" left="153" width="148" height="19" font="5">2013/01 – 2013/08: </text>
+<text top="109" left="301" width="137" height="19" font="8">Android Developer</text>
+<text top="109" left="439" width="5" height="19" font="5"> </text>
+<text top="133" left="152" width="270" height="19" font="5">Project: Advanced Hotspot Project </text>
+<text top="158" left="152" width="156" height="19" font="5">Project Description: </text>
+<text top="182" left="152" width="671" height="19" font="8">Build a hotspot application with advanced functions to improve Android hotspot’s security </text>
+<text top="202" left="152" width="671" height="19" font="8">and functionalities. It allows user to control client’s access, configure DHCP Server, URL </text>
+<text top="222" left="152" width="585" height="19" font="8">filter and data plan. This app also protects hotspot’s network from DoS Attack. </text>
+<text top="246" left="152" width="68" height="19" font="5">Domain: </text>
+<text top="246" left="220" width="121" height="19" font="8">Communication </text>
+<text top="270" left="152" width="84" height="19" font="5">Team Size:</text>
+<text top="271" left="236" width="18" height="19" font="8"> 2 </text>
+<text top="295" left="152" width="151" height="19" font="5">Technologies Used:</text>
+<text top="295" left="303" width="5" height="19" font="4"><b> </b></text>
+<text top="296" left="308" width="271" height="19" font="8">Android SDK, Linux, SQLite, Eclipse.</text>
+<text top="295" left="579" width="5" height="19" font="4"><b> </b></text>
+<text top="320" left="152" width="134" height="19" font="5">Responsibilities:  </text>
+<text top="349" left="157" width="7" height="16" font="9">•</text>
+<text top="346" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="345" left="184" width="179" height="19" font="8">Develop core functions. </text>
+<text top="374" left="157" width="7" height="16" font="9">•</text>
+<text top="370" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="369" left="184" width="294" height="19" font="8">Implement Linux’s applets on Android.  </text>
+<text top="398" left="157" width="7" height="16" font="9">•</text>
+<text top="395" left="165" width="5" height="18" font="10"><b> </b></text>
+<text top="394" left="184" width="141" height="19" font="8">Test and fix bugs.  </text>
+</page>
+</pdf2xml>

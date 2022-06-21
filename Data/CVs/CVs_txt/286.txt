@@ -1,0 +1,17 @@
+CV for Data Scientist                                                                                                       
+NGUYEN TAT THANG 
+Address: 16 Tran Van Xa street, Trang Dai sub-district, Bien Hoa city,  
+Dong Nai province. 
+Tel : 01234452811 or 0834452811 
+Email: ntthang.0403@gmail.com 
+KEY COMPETENCIES AND STRENGTHS  Good data analytical with Python.  Use Python usefully library in Python to analytic data such as scrapy to 
+crawl data and scikit, nltk, numpy, pandas to process and analytic data  Good at reading and understand English document 
+WORKING & RESEARCH EXPERIENCE  Research in finding protein motif by using feature selection to 
+dimensionality reduction  to find usefully motif for classify patient who 
+resistant with HBV ‘s drug.  Crawling and analytic on rent’s room to predict price of the new room 
+with its address  Analyzing the electric data of a rent room that use my company IoT 
+device, to identify when of the day the renter uses electricity most, and 
+which device uses electricity most.  Teacher Assistant in Database Class of ITEC program in HCMUS in 
+2017 
+EDUCATION  Bachelor of Information system in HCMUS  Post-graduated student in Computer Science in HCMUS 
+LANGUAGE & IT SKILLS  IELTS 5.5  Programming Language: R, Python  Database: SQL, MongoDB. 

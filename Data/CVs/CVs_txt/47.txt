@@ -1,0 +1,77 @@
+TẠ MINH GIANG
+Embedded Software Engineer
+Offce
+C/C++
+English
+Team
+work
+Time
+management
+Problem
+solving
+Matlab
+9/ 2014  PRESENT
+o Internship at CADIVI DONG NAI company.  Measurement of product parameters and comparison with standards to evaluate 
+product quality. 
+o Worked for Teampro Event (Parttime)  Organization of events: Prepare audio, lighting, decor and activities teambuilding…
+o Two years practice in the laboratory.
+3/2018-4/2018
+o Project 1: Device control via Bluetooth.
+o Project 2: Design Led Matrix Clock.
+o Graduation thesis: Nonlinear system control using intelligent algorithms.  Inside, Intelligent algorithms are Fuzzy logic and neural network. Nonlinear systems are TRMS
+and AC motor speed control model. The TRMS is a laboratory platform designed for control
+experiments by Feedback Instruments. In certain aspects, its behavior resembles that of a
+helicopter. My programming software is Matlab Simulink and microcontroller use is STM32F4.
+Beside Matlab Simulink also have the task is to monitor the operation of the system. The main
+purpose of the topic is to build algorithms and controllers in actual testing and showed to verify the
+effectiveness and applicability of intelligent algorithms.
+o “Deal with uncertainty systems using intelligent control methods”, Journal of Technical 
+Education Science, Ho Chi Minh City University of Technology and Education.
+o Award Autonomous Vehicle Contest 2017 THIRD PLACE
+o University scholarships for the semester: 5,6,7.
+8/ 2018
+o Short-term: Getting an appropriate job in Electronics; having the opportunities to develop
+my expertise and improve my English level.
+o Long-term: Getting career advancement; conducting research projects on Electronics.
+o HCM CITY UNIVERSITY OF TECHNOLOGY AND
+EDUCATION
+o Major: Electronics and Communication Engineering.
+o GPA: 7.23/10
+o A basic understanding of microprocessor programming (PIC, ARM, 
+Arduino, language C and VHDL) and PLC.
+o PCB Design & Layout.
+WORK EXPERIENCE
+ PROJECT
+
+CERTIFICATIONS
+HONORS & AWARDS 
+ADITIONAL INFORMATION
+o TOEIC Certificate with score 540 issued by IEG 
+HOBBIES
+o Add: 18 St, Hiep Binh Chanh ward, Thu Duc Dis, Ho Chi Minh City
+7/ 2017
+OBJECTIVE
+6/2016-7/2017
+2016-2018
+SKILLS
+Office
+C/C++
+English
+Team
+work
+Time
+management
+Problem
+solving
+Matlab
+HOBBIES
+o Technology passion, exploring.
+o Foodball, volleyball.
+Apr, 10, 1996
+Male
+0902.53.1907
+taminhgiang1996@gmail.com
+Ho Chi Minh, Viet Nam
+https://www.facebook.com/gi
+angta
+EDUCATION

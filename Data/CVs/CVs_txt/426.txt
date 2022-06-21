@@ -1,0 +1,52 @@
+NIHAL TAHARIYA 
+Banglore,Karnataka 
+nihaltahariya95@gmail.com 8463-044-644 Gtihub 
+CAREER OBJECTIVE 
+To work in the field of Data Science, apply my acquired knowledge to contribute to achieving strategic 
+organizational goals and getting regular carrer advancement opportunities. 
+ACCOMPLISHMENTS 
+Completed the following Massively Online Open Courses (MOOCs): 
+o Machine Learning: Regression by University of Washington, Coursera, 2017. 
+o Neural Networks and Deep Learning by deeplearning.ai, Coursera, 2017. 
+o Improving Deep Neural Networks, Hyper Parameter Tuning, Regularization and 
+Optimization by deeplearning.ai , Coursera, 2017. 
+o Structured Machine Learning Project by deeplearning.ai, Coursera 2018. 
+o Applied Text Mining by University of Michigan, Coursera, 2018. 
+o Convolutional Neural Network by deeplearning.ai, Coursera 2018. 
+o Mentor Training Program by Coursera, 2017. 
+TECHNICAL SKILLS 
+Data Science: Python, Numpy, Pandas,  Seaborn, Matplotlib, Scikit Learn  
+Exploratory Data Analysis, Data Visualization, Text mining 
+Scrapy, NLTK, OpenCV, Deep Learning, Tensorflow, Keras. 
+Optical Character Recognition, Web scraping, Image Processing 
+Machine learning models used in the regression and classification task 
+DATA SCIENCE – INTERN 
+Handwriting Recognition Project: Build the next generation handwriting recognition system by using 
+Computer vision and Deep learning. Applied various image processing techniques to improve the 
+performance of existing models. Trained YOLO model from the scratch for the character recognition task. 
+Optical Character Recognition Project: Build the image classifier by using the transfer learning. The 
+tesseract library is used for the name_tagging purpse. To further classify the images into two different 
+categories, wrote an algorithm which takes the inputs from the above modules and fulfilled the task 
+requirements.   
+PROJECT WORK 
+Data Identity: (Analytics Vidhya) 
+72 rank on the private leaderbord.  
+Mcikinsky Analytics Competiton: (Analytics Vidhya) 
+AUC score of 0.79 
+Whats Your House Worth: (College Project) 
+It was a regression task, where I had applied various machine learning algorithms to find the price of 
+an house. I collected the data from the UCI machine learning repository. 
+BLOG WORK  
+A project on Image Processing called ‘Simple Image Processing using OpenCv’. This blog teaches 
+the basics of Image Processing. Our task is to extract the white stripe having blood sample of the 
+patient from the given images. I have published a detailed tutorial/blog about this project and its link 
+is: 
+https://medium.com/@nihaltahariya/simple- image-processsing-c8deb432e0a2 
+EDUCATION 
+Higher Secondary: Secured 81 % in M.P. Board of Secondary Education, 2012 
+Senior Secondary: Secured  76 % under  M.P. Board of Secondary Education, 2010 
+Bachelor of Engineering(Computer Engineering): Secured 64.2 %  in IET  DAVV  University 
+2017 
+INTERESTS AND HOBBIES 
+Practicing Yoga , Fitness , Calisthenics 
+Reading books 

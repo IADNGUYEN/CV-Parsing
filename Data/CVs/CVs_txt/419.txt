@@ -1,0 +1,68 @@
+ 
+LE TRUNG HIEU 
+DATA SCIENTIST 
+Date of birth: November 20th , 1987 
+Sex: Male 
+Address: Ho Chi Minh 
+Mobile: +84 982 051 922 
+Email: hieuletrung102@gmail.com 
+LinkedIn: https://www.linkedin.com/in/hieutle2011 
+GitHub: https://github.com/hieutle2011/ 
+TECHNICAL SKILLS 
+Language: Python, HTML, R 
+SCM: Git, GitLab, GitHub  
+OS: Ubuntu  
+Team communication: Slack 
+Editor: VSCode, Atom 
+Python tools: virtualenv, pip, pep8, flake8, IPython, jupyter notebook 
+R tools: dplyr, ggplot2 
+Library: requests, BeautifulSoup, argparse, logging, JSON, XML, numpy, 
+pandas, matplotlib, SciPy… 
+Database: SQLite, MySQL 
+EDUCATION 
+Pymi.vn | https://pymi.vn 
+Python programing, Aug 2017 
+PY4E  Python for Everybody | https://py4e.com/ 
+Python programing, Oct 2017 
+Coursera | http://www.coursera.org/ 
+Python, Data analysis, Data visualization 
+Datacamp | http://www.datacamp.com/ 
+Python, Data science, Data visualization, R 
+PROJECTS 
+10 days stats (hackerrank) 
+A walk through basic statistics in 10 days with Python. 
+https://github.com/hieutle2011/hackerrank 
+Lottery checker 
+Vietnamese lottery result checker. 
+https://github.com/hieutle2011/ketqua_soxo 
+Basic plots  
+A collection of simple plots by using matplotlib. 
+https://github.com/hieutle2011/Plot 
+Pandas basic 
+My practical usage of Pandas library. 
+https://github.com/hieutle2011/Pandas-basics 
+Numpy basic 
+My practical usage of Numpy library learned from hackerrank 
+https://github.com/hieutle2011/Numpy-basics 
+CERTIFICATES 
+Using Databases with Python 
+Using Python to Access Web Data 
+University of Michigan 
+Data Analysis Tools 
+Regression Modeling in Practice 
+Data Management and Visualization 
+Wesleyan University 
+Managing Big Data with MySQL 
+Data Visualization and Communication with Tableau 
+Business Metrics for Data-Driven Companies 
+Duke University 
+SKILLS 
+Reading English documentations 
+Google 
+Working alone or teamwork 
+Having a great desire to learn and to continuously improve. 
+REFERENCE  
+Nguyen Viet Hung  
+DevOps senior, Python mentor pymi.vn  
+Mobile: +84 982090290  
+Email: hvn@familug.org 

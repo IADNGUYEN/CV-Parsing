@@ -1,0 +1,54 @@
+2004  2008
+Phan Boi Chau Junior High School
+Student
+2009  2011
+Nguyen Cong Tru High School
+Student
+Sep 2011  Aug 2015
+FPT University
+Software Engineer
+Languages
+English (Toeft 500+), Japanese
+Programming
+Java, C, C++, C# .NET, HTML5, JS, MS SQL, My SQL, AJAX,
+JS, AngularJS, Google Map API V3, Bootstrap
+Operating System
+Window
+Jan 2014  Apr 2014
+FPT Software  FSU11  Bu6
+Software Engineer  Develop the website of OSAME project.  Create design and technical solutions.  Communicate directly to client for requirements.  Unit testing, system testing.  Technology: VB, HTML.
+May 2015  Aug 2015
+FPT Software  FSU11  Bu6
+Nguyen Quoc Dat
+Phone
+01226951274
+Email
+dat20002000@gmail.com
+Address
+112/2b High street 1A, Ward Tân Thới Hiệp, District 12, Hồ Chí Minh
+City
+EDUCATION
+PROFESSIONAL SUMMARY
+Fluency of office computerization program (Winword, Excel, Power point) and web design.
+The ability to adapt quickly to new situations.
+Enthusiastic, responsible for assigned work and have the ability to work under pressure and intense.
+SKILLS
+EXPERIENCE
+Software Engineer  Develop the website of Zyxel project.  Create design and technical solutions.  Communicate directly to client for requirements.  Work in font-end position.  Technology: HTML5, Angular JS, Google map API V3,
+Bootstrap
+PROJECTS
+Next Bus Station
+(Jan 2015  May, 2015)
+Customer
+Capton Project
+Description
+Project support user use bus easily.
+Team size
+2
+My position
+Member
+My responsibility
+Do everything
+Technologies used
+HTML 5, AJAX, JS, MS SQL, SQL Lite, WP 8.1 developer, Google Map API V3, Ping
+Map.

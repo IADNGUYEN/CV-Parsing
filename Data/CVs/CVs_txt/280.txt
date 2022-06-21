@@ -1,0 +1,182 @@
+Page 1 of 5 
+CURRICULUM VITAE 
+PERSONAL INFORMATION 
+Full name: LE HONG CHAU 
+Date of Birth: 25 Dec 1988 
+Nationality: Vietnamese 
+Sex: Male 
+Current Position: Developer 
+Years of Experience in IT field: 4 
+Mobile: 0938 019 443 
+Email:   lehongchau12_05@yahoo.com 
+ACEDAMIC EDUCATION 
+Engineering degree in Information Technology  
+Graduated from Ho Chi Minh University of Technology  
+Year: 2011  
+WORK EXPERIENCES 
+Company/Position/Job Description                                                                                     Year 
+Company:                                  FPT Software HCM Co., Ltd                                               2011  2013 
+Position and Job Description: Developer 
+Maintain the Back-End project of Magnetic Resonance Imaging (MRI). 
+Receive bugs list from customer, then reproduce and fix them. Make weekly report for customer. 
+Always receive over 90/100 point of Customer Satisfying Service (CSS). 
+Company:                                  Individual System Co., Ltd                                                 2013  10/2014 
+Position and Job Description: Developer 
+Develop & Maintenance Human Resource Management application, Inventory Management 
+System, Work-flow project. 
+Delivered bug-free, error-free checkout process for end-user using .Net framework. 
+Company:                                  FPT Information System                                                    12/2014  Now 
+Position and Job Description: Developer (Development and Deployment) 
+Develop & Deploy Inventory Management System. 
+Delivered bug-free, error-free checkout process for end-user using .Net framework. 
+Page 2 of 5 
+PROJECTS  INVOLVED 
+No 
+Project 
+Description 
+2 
+Project Name 
+MRI-Maintain 
+Project Position 
+Developer 
+Tasks 
+Development, review bugs and fixing. 
+Project description 
+Project target  Maintain the Back-End project of Magnetic Resonance 
+Imaging (MRI)   Receive bugs list from customer, then reproduce and fix 
+them. Make weekly report for customer. 
+Duration 
+Dec 2011   Feb 2013 
+Project size and technical 
+No. engineers involved 
+~10 
+Technical 
+Window form application with 3 layers architecture 
+PROJECTS  INVOLVED 
+No 
+Project 
+Description 
+2 
+Project Name 
+HRM (Human Resource Management System) 
+Project Position 
+Developer 
+Tasks 
+Coded 3 major product features about calculate salary, leave 
+off management, and create reports. 
+Project description 
+Project target 
+Provide Human Resource management system, time sheet 
+and calculate salary... 
+Duration 
+Jun 2013   Dec 2013 
+Project size and technical 
+No. engineers involved 
+~8 
+Technical 
+NHibernate, C#, DevExpress controls for winforms 
+Page 3 of 5 
+PROJECTS  INVOLVED 
+No 
+Project 
+Description 
+3 
+Project Name 
+WorkFlow 
+Project Position 
+Developer 
+Tasks 
+Develop and Maintenance 
+Project description 
+Project target  Develop Work-Flow project for company management. 
+Create 
+task 
+management 
+strategy 
+with 
+roadmaps, 
+milestones, 
+time 
+tracking, 
+roles 
+and 
+workflows.   Reducing of over 30% of time estimated for daily manual 
+processes. 
+Duration 
+Jan 2014   Apr 2014 
+Project size and technical 
+No. engineers involved 
+~7 
+Technical 
+MVC4 with Entity framework, C#. 
+PROJECTS  INVOLVED 
+No 
+Project 
+Description 
+3 
+Project Name 
+Inventory Management System 
+Project Position 
+Developer 
+Tasks 
+Coded 4 major product features about, create Plan, Purchase 
+Order, Sales Order and Calculate inventory on-hand. 
+Project description 
+Project target 
+Inventory management system, helps business improve 
+profitability by eliminating manual data entry, paper files 
+and by automating records and other important documents. 
+Duration 
+May 2014   Oct 2014 
+Project size and technical 
+No. engineers involved 
+~12 
+Technical 
+MVC4 with Entity framework, C# 
+Page 4 of 5 
+PROJECTS  INVOLVED 
+No 
+Project 
+Description 
+3 
+Project Name 
+Inventory Management System (FPT IS) 
+Project Position 
+Developer (Development and Deployment) 
+Tasks 
+Coding, deployment and consulting business process for 
+end-user. 
+Project description 
+Project target 
+Inventory management system, helps business improve 
+profitability reducing time estimated for daily manual 
+processes. 
+Duration 
+Jan 2015   Now 
+Project size and technical 
+No. engineers involved 
+~10 
+Technical 
+Customized framework using customized control base on 
+DevExpress 
+LANGUAGE SKILLS 
+Fluent                                     Good                                   Fair 
+Vietnamese                              
+English                                                                                    
+TECHNICAL  
+MySQL and Microsoft SQL Server 
+4 years  
+ASP.Net (C#) 
+4 years  
+Technologies (MVC4, Entity Framework, NHibernate, DevExpress) 
+2 year  
+Familiar with: VB.Net, Html, CSS, Jquery, Linq 
+Page 5 of 5 
+SOFT SKILLS  
+Team works  
+Communication  
+Team building 
+OTHER SKILLS  
+Football  
+Singing  
+Chess 

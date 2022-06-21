@@ -1,0 +1,113 @@
+ 
+Student Development Center (SDC) 
+Address: TMA Tower, Street#2, Quang Trung Software City, Tan Chanh Hiep Ward, Dist. 12, HCMC 
+Telephone: 08-83997 8000, Ext: 5615  Email: intern@tma 
+INTERNSHIP APPLICATION FORM 
+(For registration, please e-mail us at intern@tma.com.vn or register with your university) 
+APPLIED DOMAIN 
+Please check one 
+Business Applications (Java, ASP. Net, PHP, C/C++, etc.) 
+Mobile Application 
+Big Data 
+Telecommunication & Networking 
+Automation Testing 
+PERSONAL INFORMATION 
+Name 
+Nguyen Tran Quoc Thai 
+Male 
+Date of Birth 
+09/02/1996 
+Female 
+Home 
+Address 
+40/45 Nguyen Gian Thanh, District 10, Ho Chi Minh City 
+Phone 
+0976358669 
+Email 
+qthainguyentran@gmail.com 
+Student ID 1413528 
+EDUCATION 
+University / College 
+Department 
+Major 
+Year 
+(4th, 5th) 
+GPA 
+Graduated (Y/N)  
+please specify the 
+date 
+Bach Khoa University 
+Electrical & Electronics Electronics and 
+Telecommunication 
+4th 
+7.6 
+20/06/2018 
+SKILLS SUMMARY 
+Rank Legends:  
+1 = Beginner (start to learn); 2 = Novice (theory only, no experience); 3=Competent (be able to do well); 4=Proficient (skilled and 
+experienced); 5=Expert (high level of knowledge and experience) 
+Programming Languages
+C/C++ 
+Skills 
+Months of experience 
+Rank (1-5) 
+Put specific skills like C++/ STL/Socket programming, 
+etc. 
+6 
+2 
+Socket programming, embedded ARM STM32F4, Arduino, 
+8051 
+Java 
+Skills 
+Months of experience 
+Rank (1-5) 
+Put specific skills like J2EE, J2SE, Bean, EJB, etc. 
+10 
+3 
+J2EE, SpringMVC, Hibernate, Struts, Swing, NexaWeb 
+.NET 
+Skills 
+Months of experience 
+Rank (1-5) 
+Put specific skills 
+Matlab: Recognize plate vehicle number 
+4 
+3 
+Other Languages 
+Skills 
+Months of experience 
+Rank (1-5) 
+Put specific skills 
+Database 
+Skills 
+Months of experience 
+Rank (1-5) 
+Put specific skills 
+MySQL, SQL server, SI 
+5 
+3 
+Networking/Telecom 
+Skills 
+Months of experience 
+Rank (1-5) 
+Put specific skills 
+Software Testing/Automation Testing 
+Skills 
+Months of experience 
+Rank (1-5) 
+Put specific skills 
+Automation Testing by Java 
+1 
+1 
+Other Skills (Please specify) 
+Skills 
+Months of experience 
+Rank (1-5) 
+Put specific skills 
+Have you ever joined in any internship program/ training courses (at SDC, TTC or other Companies) before? 
+Yes 
+No 
+Is the internship a compulsory requirement at your university? 
+Yes 
+No 
+APPLICANT’S SIGNATURE                         Thai Nguyen                                                                              DATE     04/05/2018 

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="16" family="ABCDEE+Gadugi" color="#000000"/>
+	<fontspec id="1" size="18" family="ABCDEE+Gadugi" color="#000000"/>
+	<fontspec id="2" size="23" family="ABCDEE+Gadugi" color="#000000"/>
+	<fontspec id="3" size="49" family="ABCDEE+Gadugi" color="#000000"/>
+	<fontspec id="4" size="18" family="ABCDEE+Gadugi" color="#ffffff"/>
+	<fontspec id="5" size="18" family="ABCDEE+Gadugi" color="#ffffff"/>
+	<fontspec id="6" size="18" family="ABCDEE+Gadugi" color="#000000"/>
+	<fontspec id="7" size="18" family="ABCDEE+Gadugi" color="#3d3d3d"/>
+	<fontspec id="8" size="18" family="ABCDEE+Gadugi" color="#3d3d3d"/>
+	<fontspec id="9" size="14" family="ABCDEE+Gadugi" color="#000000"/>
+<text top="54" left="54" width="5" height="21" font="0"> </text>
+<text top="515" left="354" width="87" height="23" font="1"><b>COURSES </b></text>
+<text top="56" left="314" width="228" height="30" font="2">P R O G R A M M E R  </text>
+<text top="92" left="313" width="434" height="62" font="3">Nguyen Vu Hoang </text>
+<text top="170" left="549" width="281" height="21" font="0">Email: nguyenvuhoangbt@gmail.com </text>
+<text top="342" left="58" width="166" height="23" font="4">Willing to learn new </text>
+<text top="366" left="85" width="112" height="23" font="4">technologies. </text>
+<text top="399" left="52" width="178" height="23" font="4">Work under pressure. </text>
+<text top="432" left="64" width="154" height="23" font="4">On time with work </text>
+<text top="456" left="101" width="80" height="23" font="4">schedule. </text>
+<text top="483" left="139" width="5" height="23" font="4"> </text>
+<text top="630" left="39" width="204" height="23" font="4">To challenge myself with </text>
+<text top="654" left="30" width="223" height="23" font="4">new knowledge to develop </text>
+<text top="678" left="48" width="187" height="23" font="4">personal potential and </text>
+<text top="699" left="39" width="205" height="23" font="4">achieve desired position. </text>
+<text top="305" left="94" width="101" height="23" font="5"><b>ABOUT ME </b></text>
+<text top="829" left="110" width="63" height="23" font="5"><b>SKILLS </b></text>
+<text top="322" left="364" width="65" height="23" font="6">Present </text>
+<text top="349" left="350" width="79" height="23" font="6">Feb 2019 </text>
+<text top="414" left="347" width="82" height="23" font="6">Aug 2015 </text>
+<text top="434" left="425" width="5" height="23" font="6"> </text>
+<text top="332" left="474" width="222" height="23" font="7"><b>Ton Duc Thang University</b></text>
+<text top="331" left="696" width="5" height="24" font="8"> </text>
+<text top="362" left="482" width="277" height="23" font="6">- Faculty: Information Technology </text>
+<text top="398" left="482" width="232" height="23" font="6">- Major: Information System </text>
+<text top="720" left="273" width="44" height="23" font="6">2017 </text>
+<text top="171" left="316" width="160" height="21" font="0">Phone: 0942 289 288 </text>
+<text top="1143" left="86" width="87" height="23" font="4">Teamwork </text>
+<text top="589" left="91" width="99" height="23" font="5"><b>OBJECTIVE </b></text>
+<text top="299" left="492" width="112" height="23" font="1"><b>EDUCATION </b></text>
+<text top="887" left="271" width="44" height="23" font="6">2016 </text>
+<text top="1042" left="274" width="44" height="23" font="6">2015 </text>
+<text top="852" left="61" width="155" height="23" font="4">C++ Programming </text>
+<text top="955" left="111" width="42" height="23" font="4">UML </text>
+<text top="1005" left="93" width="79" height="23" font="4">Database </text>
+<text top="1045" left="61" width="152" height="23" font="4">Java Programming </text>
+<text top="1093" left="68" width="131" height="23" font="4">Communication </text>
+<text top="1191" left="104" width="61" height="23" font="4">English </text>
+<text top="595" left="271" width="44" height="23" font="6">2018 </text>
+<text top="903" left="49" width="175" height="23" font="4">Python Programming </text>
+<text top="543" left="271" width="44" height="23" font="6">2019 </text>
+<text top="516" left="601" width="227" height="23" font="1"><b>PROJECTS &amp; EXPERIENCE </b></text>
+<text top="591" left="577" width="93" height="23" font="7"><b>Experience</b></text>
+<text top="590" left="670" width="5" height="24" font="8"> </text>
+<text top="618" left="577" width="208" height="23" font="6">  -  Programmer Intern at  </text>
+<text top="645" left="577" width="162" height="23" font="6">     Gameloft Co.,Ltd </text>
+<text top="669" left="577" width="25" height="23" font="6">     </text>
+<text top="672" left="601" width="148" height="19" font="9">(May 2018 – Jul 2018) </text>
+<text top="698" left="577" width="73" height="23" font="1"><b>Projects </b></text>
+<text top="728" left="577" width="197" height="23" font="6">  - Finding collocation in </text>
+<text top="758" left="577" width="263" height="23" font="6">    Vietnamese document system </text>
+<text top="787" left="577" width="265" height="23" font="6">  - Logistic regression prediction  </text>
+<text top="818" left="577" width="80" height="23" font="6">    system </text>
+<text top="847" left="577" width="260" height="23" font="6">  - Movies recommender system </text>
+<text top="877" left="577" width="245" height="23" font="6">  - Online beauty salon system </text>
+<text top="907" left="577" width="246" height="23" font="6">  - Score management system  </text>
+<text top="937" left="577" width="96" height="23" font="6">    in school </text>
+<text top="967" left="577" width="219" height="23" font="6">  - Management system of  </text>
+<text top="997" left="577" width="128" height="23" font="6">    library books </text>
+<text top="1025" left="577" width="5" height="23" font="6"> </text>
+<text top="1179" left="510" width="65" height="23" font="6">- Music </text>
+<text top="1212" left="510" width="122" height="23" font="6">- Video games </text>
+<text top="1146" left="526" width="83" height="23" font="1"><b>HOBBIES </b></text>
+<text top="748" left="340" width="173" height="23" font="6">- Enterprise resource </text>
+<text top="775" left="340" width="86" height="23" font="6">  planning </text>
+<text top="802" left="340" width="92" height="23" font="6">- Database </text>
+<text top="829" left="340" width="129" height="23" font="6">- Requirements </text>
+<text top="854" left="340" width="172" height="23" font="6">  analysis and design </text>
+<text top="913" left="336" width="167" height="23" font="6">- Discrete structures </text>
+<text top="939" left="336" width="180" height="23" font="6">- Data structures and  </text>
+<text top="966" left="336" width="101" height="23" font="6">  algorithms </text>
+<text top="993" left="336" width="128" height="23" font="6">- Programming </text>
+<text top="1018" left="336" width="124" height="23" font="6">  methodology </text>
+<text top="565" left="334" width="117" height="23" font="6">- Data Mining </text>
+<text top="613" left="334" width="153" height="23" font="6">- Service oriented  </text>
+<text top="640" left="334" width="111" height="23" font="6">  architecture </text>
+<text top="667" left="334" width="192" height="23" font="6">- Bussiness intelligence </text>
+<text top="692" left="334" width="79" height="23" font="6">  systems </text>
+</page>
+</pdf2xml>

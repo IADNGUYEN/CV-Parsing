@@ -1,0 +1,101 @@
+ 
+CURRICULUM VITAE 
+PERSONAL DETAIL 
+Name 
+: 
+PHAM TRAN THANH VAN 
+Nationality 
+: 
+Vietnamese 
+Date of birth 
+: 
+Feb 16th, 1993  
+Gender 
+: 
+Female 
+Marital Status : 
+Single 
+Address 
+: 
+K8/19 Ngo Xuan Thu Street, 
+Hoa Hiep Bac Ward,  
+Lien Chieu Dist, Da Nang City 
+Email 
+: 
+thanhvan.vh3t@gmail.com 
+Mobile Phone : 
+090 515 1602 
+JOB TARGET 
+Becoming a good programmer 
+Contributing the development of the company 
+Working in professional environment 
+Improving Technical Skills in career 
+EDUCATION 
+2010 – 2013 : 
+Student at Vietnam – Korea Friendship Information 
+Technology College, major in Computer Science, 
+in Da Nang city, VietNam. 
+Ranking: Credit 
+02/2014 – 05/2014: Learning PHP programming languages at INET center 
+in Da Nang City. 
+SUMMARY AND HOBBIES 
+Hard working , punctual, reliable 
+Ability to individual work or teamwork, depending on the requirements. 
+Inclusive life and work environment pretty fast. 
+Ability to work under high pressure, with progressive spirit, inquisitive and 
+enthusiastic. 
+TECHNICAL SKILLS 
+Programming Languages: 
+Using HTML/HTML5, CSS/CSS3, Javascript 
+Using CSS Pre-processor( SASS, LESS) 
+Understanding of the responsive front-end framework (Bootstrap) 
+Understanding of  MVC model and OPP 
+Knowledge about some programming language and database: PHP, 
+C/C++, C#,  Java, SQL/MySQL, Access, XML 
+Using tool for work: Netbean, Sublime Text, Photoshop, Illustrator, 
+Filezilla, GIT, SVN 
+About Frontend Developer 
+Understanding of layout aesthetics and a rigor for programming 
+Expertise combines user interface (UI) know-how with CSS, JavaScript, 
+HTML 
+Understanding of the entire web development process, including design, 
+development and deployment, with some back-end knowledge 
+Good proficiency with converting from PSD file to HTML/CSS file. 
+WORK EXPERIENCE 
+10/2014 – current: Front End Developer  at TTV Online – Somo Game  
+Use a combination of markup languages to write web pages 
+Assist back-end developers in coding and troubleshooting 
+Create cascading style sheets (CSS) that are consistent across all browsers 
+and platforms 
+Maintain graphic standards and branding throughout the product's 
+interface 
+Report to my leader about work progress 
+Promote usability best practices 
+Be actively involved in and contribute regularly to the development 
+community of the CMS of your choice. 
+Develop innovative, reusable Web-based tools for activism and 
+community building. 
+06/2014 – 10/2014:   QA internship at QGS Vietnam (now Qup World) 
+Testing and giving solution for product (QGS Touch F&B App, QGS 
+Touch Taxi App) 
+Designing test plan, test case of Apps 
+Reporting to Leader 
+02/2013 – 04/2013:  Internship student at FPT Software Da Nang 
+Take  part  in  course  about  workflow  of  FPT  Software  Da  Nang,  
+product development   process   from   survey,   analysis,   design,   
+coding,   testing   and deployment. 
+Practice with module "Trainee"  Description: Register a new trainee on the web.  Programming Language: ASP.Net  Database: SQL Sever. 
+REFERENCE PERSONS  
+Mr Le Hoang Vu  
+Position :    Manager of Creative Department at TTV Online 
+Mobile 
+:    0985 280033 
+Mrs Pham Thi Khanh Trang 
+Position :     HR & Admin Officer 
+Mobile 
+:     0982 154 153 
+Mr Nguyen Tan Huy 
+Position :     Management Internship, 
+Human Capital Development Center FPT Software Da Nang 
+Mobile 
+:     0919 515 090 

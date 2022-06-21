@@ -1,0 +1,50 @@
+CURRICULUM VITAE 
+PERSONAL DETAILS  
+Name :  Nguyen Minh Hai  
+Date of bith : 01/09/1988  
+Material status : Single  
+Gender : Male  
+Contact Address :  104/29 Nhat Chi Mai St , Ward 13, Dist Tan Binh, HCM City.  
+Phone : 0933.826.753      Email : minhhaistu@gmail.com or minhhaivl@yahoo.com  
+Skype: minhhaivl  
+Yahoo: minhhaivl  
+Expected salary : 
+Negotiable  
+Desired location :  Web Development  
+EDUCATION 
+Sai Gon Technology University  
+2006-2011 
+Studies focused Software Programming OOP:  C++, Java, C#. 
+Web programming: HTML, CSS, JS, PHP, …. 
+I have learned basic Photoshop… 
+Data base: MySQL, SQL Server. 
+Thesis project: Website using: HTML, PHP. 
+Application using Java: shop pharmacy. 
+EXPERIENCES  
+Through more projects , I can work well with HTML,CSS, JS ...  
+I can convert from design to HTML  
+I can work with CMS: Wordpress, Magento.  
+I can work with: PHP, Java, C++, C# 
+SKILL:  
+Photoshop Basic  
+HTML  CSS  JS  
+PHP  
+Java Core, JPA, Swing, JSP/Servlet, Struts Basic  
+C++, C# (basic)  
+CMS : Wordpress- Joomla  Magento  
+Experience working with Tortoise SVN  
+Tomcat 
+WORK EXPERIENCES : 
++ Company : PMSV, Ltd.  Website company : http://www.pmsv.net  Working Priod : 10/2010 to 6/2013.  Position : Coder using PHP  Job Style : Full time  Project using Joomla CMS:  
+http://www.pmsv.com 
+http://www.thietbitudongvietnam.com 
+….  
+Projects using PHP:  
+http://kieubaoviet.vn  
+http://vikids-studio.com  
+http://tuvientuongvan.org  
+http://ngoisaobe.com  
+http://asim.vn  
+………. 
++ Company : Bluecomgroup, Ltd.  Website company : http://bluecomgroup.com/  Working Priod : 12/2013 to 03/2014.  Position : Coder using Magento CMS.  
+Job Style : Full time 

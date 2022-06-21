@@ -1,0 +1,132 @@
+Tran Vu Duc Hung
+Backend Developer
+ITD Group
+August 2015  October 2015
+Backend Developer (Intern)
+Responsibilities: Code and design Background.
+Achievements: Knowledge in Ajax , Telerik, MVC5, C#
+FPT Telecom
+November 2015  November 2016
+Backend Developer
+Responsibilities: Code, develop & maintain functions for
+Company's internal websites. 
+Achievements: Knowledge in PHP, Laravel , MySQL, Redis
+Cache ,Jquery , Javascript, Kendo
+PhuGia Securities
+Corporation
+December 2016  Now
+Backend Developer
+Responsibilities: Code, develop functions for Company's
+internal websites. 
+Achievements: MVC5,Entity framework,Boostrap ,Jquery ,
+Javascript, Kendo,Oracle,AutoMapper,Mediator,Web API
+To obtain a full time position at a professional working environment and help me increase
+knowledge and experience in IT industry while meeting the corporation’s goals.
+Application: Transport (August 2015  October 2015)
+Customer
+Vietnam Goverment  Ministry of Transport
+Description
+The main function of the application is taking pictures of
+vehicles which ran through the stop sign and sent to
+processing centers.
+Team size
+20 members
+My position
+Backend Developer
+My responsibilities
+Code and design Background
+Technologies used
+C# win forms application
+Website: SCM (November 2015  Now)
+Customer
+FPT
+Description
+Internal Website to manage company's product
+Team size
+10 members
+My position
+Backend Developer
+My responsibilities
+Code 'Manage export  import of goods' function, 'Manage
+investment categories' function & maintainan Company's
+internal websites
+December 16th, 1993
+Male
+0907341693
+tranvuduchung@gmail.com
+Ho Chi Minh City, Vietnam
+Facebook: Đức Hưng
+// OBJECTIVE
+// WORK EXPERIENCE
+// PROJECTS
+Proficient in JavaScript
+Programming skill by different Languages
+Communication
+Teamwork
+Logical thinking and creative
+Time Management
+C#, ASP.NET, MVC.NET,OOP ,LINQ, ENTITY
+FRAMEWORK , PHP ,LARAVEL FRAMEWORK,MSSQL, SQL
+SERVER, MYSQL, REDIS CACHE, JAVASCRIT,
+JQUERY, HTML, CSS, BOOSTRAP, KENDO,
+SOCKET.IO,REPOSITORY AND UNIT OF
+WORK,AUTOMAPPER
+March 2011  July 2015
+University Of Science
+Information technology
+Nguyen Ngoc Phu
+o Company: ITD Group
+o Job Title: Software Manager
+o Email : Phu.nguyen@itd.com.vn
+o Phone : 0983344117 
+Phan Minh Tai 
+o Company: FPT Telecom
+o Job Title : Team Leader 
+o Email : TaiPM@fpt.com.vn 
+o Phone number: 0968206120
+Nguyễn Thanh Tịnh 
+o Company: Phu Gia Securities Corporation
+o Job Title : ManagerICT Department
+o Email : tinhnt@phugiasc.vn 
+o Phone number: 0938808119
+Technologies used
+.NET MVC 5 (Database SQL SERVER)
+FPT Play (March 2016  November 2016)
+Customer
+FPT
+Description
+Internal Website to manage company's sale (staff,
+customer, agency)
+Team size
+10 members
+My position
+Backend Developer
+My responsibilities
+Code 'Manage export  import of goods' function, 'Manage
+investment categories' function & maintainan Company's
+internal websites
+Technologies used
+php, laravel framework, javascript , jquery , kendo ,
+boostrap (Database: mysql)
+Price Board (December 2016  Now)
+Customer
+PhuGia Securities Corporation
+Description
+Phu Gia stocklist with real time on website
+Team size
+2
+My position
+Backend Developer
+My responsibilities
+Coding and programing API to get data                   
+Coding and programing Hub to change price of Stock on
+Stocklist table with realtime                           
+Design and implement User Interface
+Technologies used
+MVC Framework, javascript , jquery , boostrap ,autofac ,
+signalR ,repository and unit of work(Database: SQL,Oracle)
+// SKILLS
+// KNOWLEDGE
+// EDUCATION
+// REFERENCES
+© topcv.vn

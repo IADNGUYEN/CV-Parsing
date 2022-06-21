@@ -1,0 +1,57 @@
+ 
+PERSONAL INFORMATION 
+Full name       : Tạ Bá Trung  
+Gender           :  Male 
+D.O.B            : 15-3-1993 
+Birth place     : Thái Thụy- Thái Bình-Việt Nam 
+Phone             : 098-595-9011 
+Email             : trungtaba@gmail.com 
+EDUCATION 
+Hanoi University of Science and Technology (HUST) 
+Major: Software Technology 
+GPA: 3.29 
+Grade: Very good 
+CERTIFICATION 
+System security expert CEHv7Plus 
+EXPERIENCE 
+FPT SORTWARE | https://www.fpt-software.com 
+From: July to now 2018 
+Job title: senior blockchain developer 
+Main duties: 
+Developing blockchain platform 
+Developing Dapp in Ethereum and Hyperledger 
+VALYOU X MUSIC | http://www.valyouxchange.com 
+From: March to April 2018  
+Job title: blockchain developer internship 
+Main duties:  
+Writing ERC721 and ERC165 token 
+Working with front-end and mobile team to develop API 
+Writing Ethereum client by using web3js and nodejs 
+OPENWAY GROUP | http://openwaygroup.com/ 
+From: March 2016 to June 2018 
+Job title: consultant  
+Main duties:  
+Responsible for preparing and customizing Way4 Application 
+following project specific requirement 
+Developing and maintain knowledge of product, integration, 
+applications and services 
+Perform installation and configuration of OpenWay software, 
+provide onsite training, perform trouble shooting and bug fixing 
+TINH VAN INCUBATOR | http://tinhvan.vn 
+From: 29-12-2015       to: 30-8-2016 
+Job title: java intern 
+Main duties: decentralization management system, seminar index in 
+MySQL 
+KEY SKILLS 
+Knowledge about blockchain, Ethereum, Hyperledger and EOS platform 
+Program languages: java, C, C++, python, Nodejs, Golang 
+Operating system: Windows, Linux, Mac Os 
+Database: MySQL, Oracle, MongoDB 
+Framework: struts2, spring boot, hibernate 
+Strong knowledge about algorithm 
+Knowledge about object-oriented programming, distributed application 
+development 
+Parallel programming: OpenMP, MPI, CUDA 
+Knowledge about design pattern 
+Knowledge about IPS, card payment system and card business. 
+Knowledge about machine learning 

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="BAAAAA+Calibri" color="#000009"/>
+	<fontspec id="1" size="21" family="BAAAAA+Calibri" color="#ff0000"/>
+	<fontspec id="2" size="21" family="CAAAAA+Calibri" color="#c00000"/>
+	<fontspec id="3" size="16" family="DAAAAA+SymbolMT" color="#000009"/>
+	<fontspec id="4" size="16" family="EAAAAA+TimesNewRomanPS" color="#000009"/>
+	<fontspec id="5" size="9" family="EAAAAA+TimesNewRomanPS" color="#000009"/>
+	<fontspec id="6" size="16" family="EAAAAA+TimesNewRomanPS" color="#0000ff"/>
+	<fontspec id="7" size="15" family="EAAAAA+TimesNewRomanPS" color="#5a5a5a"/>
+	<fontspec id="8" size="15" family="FAAAAA+TimesNewRomanPSMT" color="#5a5a5a"/>
+	<fontspec id="9" size="16" family="DAAAAA+SymbolMT" color="#5a5a5a"/>
+	<fontspec id="10" size="16" family="CAAAAA+Calibri" color="#000000"/>
+	<fontspec id="11" size="16" family="GAAAAA+Calibri" color="#000000"/>
+	<fontspec id="12" size="16" family="BAAAAA+Calibri" color="#5a5a5a"/>
+	<fontspec id="13" size="15" family="BAAAAA+Calibri" color="#5a5a5a"/>
+<text top="117" left="394" width="185" height="26" font="0"><b>CURRICULUM VITAE</b></text>
+<text top="143" left="357" width="252" height="26" font="1"><b>VO HOANG XUAN PHUONG</b></text>
+<text top="229" left="126" width="185" height="26" font="2">PERSONAL DETAILS</text>
+<text top="271" left="127" width="8" height="20" font="3"></text>
+<text top="273" left="154" width="74" height="18" font="4"><b>Full Name</b></text>
+<text top="273" left="262" width="170" height="18" font="4"><b>Vo Hoang Xuan Phuong</b></text>
+<text top="291" left="127" width="8" height="20" font="3"></text>
+<text top="293" left="154" width="202" height="18" font="4"><b>Date of Birth  November 19</b></text>
+<text top="293" left="356" width="8" height="11" font="5"><b>th</b></text>
+<text top="293" left="364" width="41" height="18" font="4"><b>, 1980</b></text>
+<text top="311" left="127" width="8" height="20" font="3"></text>
+<text top="313" left="154" width="25" height="18" font="4"><b>Sex</b></text>
+<text top="313" left="262" width="51" height="18" font="4"><b>Female</b></text>
+<text top="332" left="127" width="8" height="20" font="3"></text>
+<text top="333" left="154" width="167" height="18" font="4"><b>Marital status Married</b></text>
+<text top="352" left="127" width="8" height="20" font="3"></text>
+<text top="354" left="154" width="72" height="18" font="4"><b>Phone No.</b></text>
+<text top="354" left="262" width="114" height="18" font="4"><b>(84) 91 880 1245</b></text>
+<text top="372" left="127" width="8" height="20" font="3"></text>
+<text top="374" left="154" width="42" height="18" font="4"><b>Email</b></text>
+<text top="393" left="208" width="193" height="18" font="6"><a href="mailto:xuanphuongxx@gmail.com"><b>xuanphuongxx@gmail.com</b></a></text>
+<text top="430" left="126" width="294" height="26" font="2">EDUCATION &amp; QUALIFICATION</text>
+<text top="492" left="283" width="68" height="17" font="7"><b>Certificate</b></text>
+<text top="492" left="498" width="79" height="17" font="7"><b>Issued Place</b></text>
+<text top="492" left="693" width="77" height="17" font="7"><b>Issued Time</b></text>
+<text top="532" left="108" width="297" height="17" font="8">Agile Testing (Lisa Crispin and Janet Gregory) – </text>
+<text top="552" left="108" width="74" height="17" font="8">self learning</text>
+<text top="532" left="490" width="26" height="17" font="8">N/A</text>
+<text top="532" left="689" width="26" height="17" font="8">N/A</text>
+<text top="588" left="108" width="262" height="17" font="8">Project Management Fundamental Program</text>
+<text top="588" left="493" width="32" height="17" font="8">HCA</text>
+<text top="588" left="689" width="30" height="17" font="8">2016</text>
+<text top="624" left="108" width="76" height="17" font="8">Agile Scrum</text>
+<text top="624" left="493" width="32" height="17" font="8">Apex</text>
+<text top="624" left="689" width="30" height="17" font="8">2012</text>
+<text top="661" left="108" width="251" height="17" font="8">Goal Setting - Key Performance Indicator</text>
+<text top="661" left="493" width="30" height="17" font="8">ACE</text>
+<text top="661" left="689" width="30" height="17" font="8">2012</text>
+<text top="697" left="108" width="114" height="17" font="8">Interviewing Skills</text>
+<text top="697" left="490" width="37" height="17" font="8">PACE</text>
+<text top="697" left="689" width="30" height="17" font="8">2012</text>
+<text top="733" left="108" width="42" height="17" font="8">CCNA</text>
+<text top="733" left="493" width="106" height="17" font="8">Nhat Nghe center</text>
+<text top="733" left="689" width="30" height="17" font="8">2005</text>
+<text top="769" left="108" width="260" height="17" font="8">Bachelor degree of Electronic and Telecom</text>
+<text top="769" left="493" width="32" height="17" font="8">PTIT</text>
+<text top="769" left="689" width="30" height="17" font="8">2003</text>
+<text top="852" left="127" width="210" height="26" font="2">PERSONAL SUMMARY</text>
+<text top="889" left="107" width="8" height="20" font="9"></text>
+<text top="890" left="134" width="401" height="20" font="10">14 years’ experience in Testing and managing Testing teams.</text>
+<text top="932" left="108" width="96" height="20" font="11"><i><b>Strong points:</b></i></text>
+<text top="968" left="135" width="5" height="20" font="12"><b>-</b></text>
+<text top="968" left="162" width="100" height="20" font="10">Being integrity.</text>
+<text top="1006" left="135" width="5" height="20" font="12"><b>-</b></text>
+<text top="1006" left="162" width="153" height="20" font="10">Being straight-forward.</text>
+<text top="1044" left="135" width="5" height="20" font="12"><b>-</b></text>
+<text top="1044" left="162" width="97" height="20" font="10">Build up team.</text>
+<text top="1126" left="834" width="8" height="18" font="13"><b>1</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="14" size="16" family="BAAAAA+Calibri" color="#000009"/>
+	<fontspec id="15" size="13" family="BAAAAA+Calibri" color="#000009"/>
+	<fontspec id="16" size="15" family="DAAAAA+SymbolMT" color="#5a5a5a"/>
+	<fontspec id="17" size="16" family="BAAAAA+Calibri" color="#000000"/>
+	<fontspec id="18" size="16" family="CAAAAA+Calibri" color="#0000ff"/>
+	<fontspec id="19" size="16" family="HAAAAA+Wingdings" color="#5a5a5a"/>
+<text top="107" left="112" width="5" height="20" font="12"><b>-</b></text>
+<text top="107" left="139" width="179" height="20" font="10">Good people management</text>
+<text top="154" left="112" width="176" height="26" font="2">TECHNICAL SKILLS</text>
+<text top="190" left="84" width="8" height="20" font="9"></text>
+<text top="191" left="111" width="139" height="20" font="10">Mobile: iOS, Android</text>
+<text top="233" left="84" width="8" height="20" font="9"></text>
+<text top="234" left="111" width="169" height="20" font="10">Database: MySQL, Oracle</text>
+<text top="277" left="84" width="8" height="20" font="9"></text>
+<text top="277" left="111" width="258" height="20" font="10">Automation tool: QTP, SilkTest, Katalon</text>
+<text top="320" left="84" width="8" height="20" font="9"></text>
+<text top="320" left="111" width="374" height="20" font="10">OS Platform: Microsoft Window, MAC, Sun Solaris, Linux</text>
+<text top="363" left="84" width="8" height="20" font="9"></text>
+<text top="363" left="111" width="74" height="20" font="10">CI - Jenkins</text>
+<text top="406" left="84" width="8" height="20" font="9"></text>
+<text top="407" left="111" width="504" height="20" font="10">Networking &amp; Telecom: LAN, WAN, Routing (RIP, OSPF, BGP), SIP, SIPp, H323</text>
+<text top="449" left="84" width="8" height="20" font="9"></text>
+<text top="450" left="111" width="716" height="20" font="10">Tools &amp; Utilities: SilkTest, QTP, HP Quality Center, qTest, Jira (Requirements, Bugs, Agile board, charts), SVN, </text>
+<text top="480" left="111" width="177" height="20" font="10">Trello, Gitlab, Slack, Skype.</text>
+<text top="522" left="84" width="8" height="20" font="9"></text>
+<text top="522" left="111" width="689" height="20" font="10">Methodologies &amp; Process: testing terms in ISTQB, Agile mindset, Agility testing, Agile 4-Quadrant, Agile </text>
+<text top="553" left="111" width="179" height="20" font="10">Scrum, Kanban, Scrumban.</text>
+<text top="604" left="112" width="270" height="26" font="2">PROFESSIONAL EXPERIENCE</text>
+<text top="652" left="85" width="10" height="20" font="14"><b>A</b></text>
+<text top="655" left="98" width="33" height="16" font="15"><b>P R I L</b></text>
+<text top="652" left="134" width="82" height="20" font="14"><b>  2 0 1 7   –   J</b></text>
+<text top="655" left="219" width="26" height="16" font="15"><b>U LY</b></text>
+<text top="652" left="248" width="49" height="20" font="14"><b>  2 0 1 8</b></text>
+<text top="652" left="552" width="8" height="20" font="14"><b>S</b></text>
+<text top="655" left="563" width="47" height="16" font="15"><b>E N I O R</b></text>
+<text top="652" left="613" width="16" height="20" font="14"><b>  P</b></text>
+<text top="655" left="632" width="55" height="16" font="15"><b>R O J E C T</b></text>
+<text top="652" left="690" width="97" height="20" font="14"><b>  M A N A G E R</b></text>
+<text top="686" left="84" width="7" height="18" font="16"></text>
+<text top="686" left="111" width="64" height="20" font="17"><b>Company</b></text>
+<text top="686" left="175" width="279" height="20" font="10">: Sunrise Software Solutions Corporation<a href="http://www.s3corp.com.vn/"> (</a></text>
+<text top="686" left="454" width="136" height="20" font="18"><a href="http://www.s3corp.com.vn/">www.s3corp.com.vn</a></text>
+<text top="686" left="590" width="9" height="20" font="10"><a href="http://www.s3corp.com.vn/">)</a> </text>
+<text top="725" left="84" width="8" height="20" font="9"></text>
+<text top="725" left="111" width="130" height="20" font="17"><b>Project Description</b></text>
+<text top="725" left="241" width="4" height="20" font="10">:</text>
+<text top="766" left="112" width="13" height="18" font="19"></text>
+<text top="765" left="139" width="678" height="20" font="10">A development project, it is a digital solution for traditional supply chain in ASEAN emerging markets. </text>
+<text top="795" left="112" width="709" height="20" font="10">The solution provides FMCGs a platform running on desktop to link up with more than five million retailer </text>
+<text top="825" left="112" width="553" height="20" font="10">outlets in Southeast Asia, the retailers can use a mobile application to order goods.</text>
+<text top="864" left="84" width="8" height="20" font="9"></text>
+<text top="865" left="111" width="77" height="20" font="17"><b>Team size:  </b></text>
+<text top="906" left="112" width="13" height="18" font="19"></text>
+<text top="905" left="139" width="158" height="20" font="10">3 developers + 2 testers</text>
+<text top="944" left="84" width="8" height="20" font="9"></text>
+<text top="944" left="111" width="93" height="20" font="17"><b>Technologies:</b></text>
+<text top="985" left="112" width="13" height="18" font="19"></text>
+<text top="984" left="139" width="47" height="20" font="10">MySQL</text>
+<text top="1024" left="112" width="13" height="18" font="19"></text>
+<text top="1023" left="139" width="27" height="20" font="10">PHP</text>
+<text top="1057" left="803" width="8" height="18" font="13"><b>2</b></text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="108" left="112" width="13" height="18" font="19"></text>
+<text top="107" left="139" width="32" height="20" font="10">Ionic</text>
+<text top="147" left="112" width="13" height="18" font="19"></text>
+<text top="146" left="139" width="221" height="20" font="10">Tracking tool: SVN, Google sheet.</text>
+<text top="185" left="84" width="8" height="20" font="9"></text>
+<text top="186" left="111" width="112" height="20" font="17"><b>Methodologies: </b></text>
+<text top="226" left="112" width="13" height="18" font="19"></text>
+<text top="225" left="139" width="79" height="20" font="10">Agile Scrum</text>
+<text top="303" left="84" width="8" height="20" font="9"></text>
+<text top="304" left="111" width="107" height="20" font="17"><b>Responsibilities</b></text>
+<text top="304" left="218" width="4" height="20" font="10">:</text>
+<text top="345" left="112" width="13" height="18" font="19"></text>
+<text top="344" left="139" width="262" height="20" font="10">Get, analyze and manage requirements</text>
+<text top="384" left="112" width="13" height="18" font="19"></text>
+<text top="383" left="139" width="93" height="20" font="10">Scrum Master</text>
+<text top="423" left="112" width="13" height="18" font="19"></text>
+<text top="422" left="139" width="83" height="20" font="10">QA manager</text>
+<text top="462" left="112" width="13" height="18" font="19"></text>
+<text top="461" left="139" width="110" height="20" font="10">Project manager</text>
+<text top="500" left="84" width="8" height="20" font="9"></text>
+<text top="501" left="111" width="90" height="20" font="17"><b>Achievement</b></text>
+<text top="501" left="201" width="4" height="20" font="10">:</text>
+<text top="542" left="112" width="13" height="18" font="19"></text>
+<text top="541" left="139" width="593" height="20" font="10">Get project DONE on time with high quality although this is my first Development project</text>
+<text top="591" left="85" width="10" height="20" font="14"><b>A</b></text>
+<text top="594" left="98" width="50" height="16" font="15"><b>U G U S T</b></text>
+<text top="591" left="152" width="82" height="20" font="14"><b>  2 0 1 6   –   J</b></text>
+<text top="594" left="237" width="62" height="16" font="15"><b>A N U A R Y</b></text>
+<text top="591" left="302" width="49" height="20" font="14"><b>  2 0 1 7</b></text>
+<text top="591" left="662" width="125" height="20" font="14"><b>Q A   M A N A G E R</b></text>
+<text top="621" left="84" width="7" height="18" font="16"></text>
+<text top="620" left="111" width="64" height="20" font="17"><b>Company</b></text>
+<text top="620" left="175" width="126" height="20" font="10">: KMS Technology<a href="http://www.kms-technology.com/"> (</a></text>
+<text top="620" left="302" width="177" height="20" font="18"><a href="http://www.kms-technology.com/">www.kms-technology.com</a></text>
+<text top="620" left="479" width="9" height="20" font="10"><a href="http://www.kms-technology.com/">)</a> </text>
+<text top="659" left="84" width="8" height="20" font="9"></text>
+<text top="660" left="111" width="130" height="20" font="17"><b>Project Description</b></text>
+<text top="660" left="241" width="4" height="20" font="10">:</text>
+<text top="700" left="112" width="13" height="18" font="19"></text>
+<text top="699" left="139" width="665" height="20" font="10">An existing Front end of Sale support system running by the Flash on desktop. Now the project is to </text>
+<text top="730" left="139" width="687" height="20" font="10">build it on Ember Js from crash. There is not any requirement document, there is just a running system </text>
+<text top="760" left="139" width="656" height="20" font="10">on Flash, Scrum teams base on JUST that running system to self-investigate then do it on Ember Js.</text>
+<text top="799" left="84" width="8" height="20" font="9"></text>
+<text top="800" left="111" width="77" height="20" font="17"><b>Team size:  </b></text>
+<text top="840" left="112" width="13" height="18" font="19"></text>
+<text top="839" left="139" width="192" height="20" font="10">3 Scrum teams: 24 resources</text>
+<text top="869" left="139" width="364" height="20" font="10">Each Scrum team has about 5 developers and 3 testers</text>
+<text top="908" left="84" width="8" height="20" font="9"></text>
+<text top="909" left="111" width="93" height="20" font="17"><b>Technologies:</b></text>
+<text top="950" left="112" width="13" height="18" font="19"></text>
+<text top="949" left="139" width="47" height="20" font="10">MySQL</text>
+<text top="989" left="112" width="13" height="18" font="19"></text>
+<text top="988" left="139" width="28" height="20" font="10">Java</text>
+<text top="1028" left="112" width="13" height="18" font="19"></text>
+<text top="1027" left="139" width="59" height="20" font="10">Ember Js</text>
+<text top="1057" left="803" width="8" height="18" font="13"><b>3</b></text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="108" left="112" width="13" height="18" font="19"></text>
+<text top="107" left="139" width="159" height="20" font="10">Tracking tool: Jira, qTest</text>
+<text top="146" left="84" width="8" height="20" font="9"></text>
+<text top="146" left="111" width="112" height="20" font="17"><b>Methodologies: </b></text>
+<text top="187" left="112" width="13" height="18" font="19"></text>
+<text top="186" left="139" width="79" height="20" font="10">Agile Scrum</text>
+<text top="225" left="84" width="8" height="20" font="9"></text>
+<text top="226" left="111" width="107" height="20" font="17"><b>Responsibilities</b></text>
+<text top="226" left="218" width="4" height="20" font="10">:</text>
+<text top="266" left="112" width="13" height="18" font="19"></text>
+<text top="265" left="139" width="399" height="20" font="10">QA manager (Test planning, test strategies, test coverage,…)</text>
+<text top="305" left="112" width="13" height="18" font="19"></text>
+<text top="304" left="139" width="40" height="20" font="10">Tester</text>
+<text top="345" left="112" width="13" height="18" font="19"></text>
+<text top="344" left="139" width="90" height="20" font="10">Test coaching</text>
+<text top="383" left="84" width="8" height="20" font="9"></text>
+<text top="383" left="111" width="90" height="20" font="17"><b>Achievement</b></text>
+<text top="383" left="201" width="4" height="20" font="10">:</text>
+<text top="424" left="112" width="13" height="18" font="19"></text>
+<text top="423" left="139" width="398" height="20" font="10">Many risks and difficulties but the outputs is in good quality</text>
+<text top="473" left="85" width="14" height="20" font="14"><b>M</b></text>
+<text top="476" left="103" width="40" height="16" font="15"><b>A R C H</b></text>
+<text top="473" left="145" width="84" height="20" font="14"><b>  2 0 1 5   -   A</b></text>
+<text top="476" left="232" width="32" height="16" font="15"><b>P R I L</b></text>
+<text top="473" left="267" width="49" height="20" font="14"><b>  2 0 1 6</b></text>
+<text top="473" left="595" width="8" height="20" font="14"><b>S</b></text>
+<text top="476" left="606" width="47" height="16" font="15"><b>E N I O R</b></text>
+<text top="473" left="656" width="132" height="20" font="14"><b>  Q A   M A N A G E R</b></text>
+<text top="503" left="84" width="7" height="18" font="16"></text>
+<text top="503" left="111" width="64" height="20" font="17"><b>Company</b></text>
+<text top="503" left="175" width="279" height="20" font="10">: Sunrise Software Solutions Corporation<a href="http://www.s3corp.com.vn/"> (</a></text>
+<text top="503" left="454" width="136" height="20" font="18"><a href="http://www.s3corp.com.vn/">www.s3corp.com.vn</a></text>
+<text top="503" left="590" width="9" height="20" font="10"><a href="http://www.s3corp.com.vn/">)</a> </text>
+<text top="541" left="84" width="8" height="20" font="9"></text>
+<text top="542" left="111" width="130" height="20" font="17"><b>Project Description</b></text>
+<text top="542" left="241" width="4" height="20" font="10">:</text>
+<text top="583" left="112" width="13" height="18" font="19"></text>
+<text top="582" left="139" width="667" height="20" font="10">A Front End Testing project which test a series of relaxable websites running on desktop and mobile </text>
+<text top="612" left="112" width="54" height="20" font="10">devices.</text>
+<text top="651" left="84" width="8" height="20" font="9"></text>
+<text top="652" left="111" width="77" height="20" font="17"><b>Team size:  </b></text>
+<text top="692" left="112" width="13" height="18" font="19"></text>
+<text top="691" left="139" width="66" height="20" font="10">40 testers</text>
+<text top="730" left="84" width="8" height="20" font="9"></text>
+<text top="731" left="111" width="93" height="20" font="17"><b>Technologies:</b></text>
+<text top="771" left="112" width="13" height="18" font="19"></text>
+<text top="771" left="139" width="47" height="20" font="10">MySQL</text>
+<text top="811" left="112" width="13" height="18" font="19"></text>
+<text top="810" left="139" width="106" height="20" font="10">Java, Java Script</text>
+<text top="850" left="112" width="13" height="18" font="19"></text>
+<text top="849" left="139" width="39" height="20" font="10">HTML</text>
+<text top="889" left="112" width="13" height="18" font="19"></text>
+<text top="888" left="139" width="22" height="20" font="10">Jira</text>
+<text top="928" left="112" width="13" height="18" font="19"></text>
+<text top="927" left="139" width="27" height="20" font="10">SVN</text>
+<text top="966" left="84" width="8" height="20" font="9"></text>
+<text top="967" left="111" width="112" height="20" font="17"><b>Methodologies: </b></text>
+<text top="1008" left="112" width="13" height="18" font="19"></text>
+<text top="1007" left="139" width="79" height="20" font="10">Agile Scrum</text>
+<text top="1057" left="803" width="8" height="18" font="13"><b>4</b></text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="106" left="84" width="8" height="20" font="9"></text>
+<text top="107" left="111" width="107" height="20" font="17"><b>Responsibilities</b></text>
+<text top="107" left="218" width="4" height="20" font="10">:</text>
+<text top="148" left="112" width="13" height="18" font="19"></text>
+<text top="147" left="139" width="120" height="20" font="10">Program manager</text>
+<text top="186" left="84" width="8" height="20" font="9"></text>
+<text top="186" left="111" width="90" height="20" font="17"><b>Achievement</b></text>
+<text top="186" left="201" width="4" height="20" font="10">:</text>
+<text top="227" left="112" width="13" height="18" font="19"></text>
+<text top="226" left="139" width="194" height="20" font="10">Build up the team from crash</text>
+<text top="266" left="112" width="13" height="18" font="19"></text>
+<text top="265" left="139" width="209" height="20" font="10">Buid up team leaders, manager</text>
+<text top="305" left="112" width="13" height="18" font="19"></text>
+<text top="304" left="139" width="263" height="20" font="10">Build up long-life customer relationship</text>
+<text top="345" left="112" width="13" height="18" font="19"></text>
+<text top="344" left="139" width="247" height="20" font="10">Build up testing metrics for customer</text>
+<text top="394" left="85" width="5" height="20" font="14"><b>J</b></text>
+<text top="397" left="94" width="26" height="16" font="15"><b>U LY</b></text>
+<text top="394" left="123" width="84" height="20" font="14"><b>  2 0 1 4   –   F</b></text>
+<text top="397" left="210" width="69" height="16" font="15"><b>E B R U A R Y</b></text>
+<text top="394" left="282" width="49" height="20" font="14"><b>  2 0 1 5</b></text>
+<text top="394" left="552" width="8" height="20" font="14"><b>S</b></text>
+<text top="397" left="563" width="47" height="16" font="15"><b>E N I O R</b></text>
+<text top="394" left="613" width="16" height="20" font="14"><b>  P</b></text>
+<text top="397" left="632" width="55" height="16" font="15"><b>R O J E C T</b></text>
+<text top="394" left="690" width="97" height="20" font="14"><b>  M A N A G E R</b></text>
+<text top="424" left="84" width="7" height="18" font="16"></text>
+<text top="423" left="111" width="64" height="20" font="17"><b>Company</b></text>
+<text top="423" left="175" width="279" height="20" font="10">: Sunrise Software Solutions Corporation<a href="http://www.s3corp.com.vn/"> (</a></text>
+<text top="423" left="454" width="136" height="20" font="18"><a href="http://www.s3corp.com.vn/">www.s3corp.com.vn</a></text>
+<text top="423" left="590" width="9" height="20" font="10"><a href="http://www.s3corp.com.vn/">)</a> </text>
+<text top="462" left="84" width="8" height="20" font="9"></text>
+<text top="463" left="111" width="130" height="20" font="17"><b>Project Description</b></text>
+<text top="463" left="241" width="4" height="20" font="10">:</text>
+<text top="503" left="112" width="13" height="18" font="19"></text>
+<text top="503" left="139" width="690" height="20" font="10">A development project, it is to build client sites where the tourists can use desktop or mobile devices to</text>
+<text top="533" left="112" width="616" height="20" font="10">search for restaurants, transportation, or  hotels which having rating from all over the world.</text>
+<text top="572" left="84" width="8" height="20" font="9"></text>
+<text top="572" left="111" width="77" height="20" font="17"><b>Team size:  </b></text>
+<text top="613" left="112" width="13" height="18" font="19"></text>
+<text top="612" left="139" width="167" height="20" font="10">25 developers + 7 testers</text>
+<text top="651" left="84" width="8" height="20" font="9"></text>
+<text top="652" left="111" width="93" height="20" font="17"><b>Technologies:</b></text>
+<text top="692" left="112" width="13" height="18" font="19"></text>
+<text top="691" left="139" width="47" height="20" font="10">MySQL</text>
+<text top="731" left="112" width="13" height="18" font="19"></text>
+<text top="731" left="139" width="102" height="20" font="10">Java, JavaScript</text>
+<text top="771" left="112" width="13" height="18" font="19"></text>
+<text top="770" left="139" width="39" height="20" font="10">HTML</text>
+<text top="810" left="112" width="13" height="18" font="19"></text>
+<text top="809" left="139" width="22" height="20" font="10">Jira</text>
+<text top="849" left="112" width="13" height="18" font="19"></text>
+<text top="848" left="139" width="27" height="20" font="10">SVN</text>
+<text top="887" left="84" width="8" height="20" font="9"></text>
+<text top="888" left="111" width="112" height="20" font="17"><b>Methodologies: </b></text>
+<text top="928" left="112" width="13" height="18" font="19"></text>
+<text top="927" left="139" width="79" height="20" font="10">Agile Scrum</text>
+<text top="966" left="84" width="8" height="20" font="9"></text>
+<text top="967" left="111" width="107" height="20" font="17"><b>Responsibilities</b></text>
+<text top="967" left="218" width="4" height="20" font="10">:</text>
+<text top="1008" left="112" width="13" height="18" font="19"></text>
+<text top="1007" left="139" width="85" height="20" font="10">QA Manager</text>
+<text top="1057" left="803" width="8" height="18" font="13"><b>5</b></text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="108" left="112" width="13" height="18" font="19"></text>
+<text top="107" left="139" width="149" height="20" font="10">Test training, coaching</text>
+<text top="146" left="84" width="8" height="20" font="9"></text>
+<text top="146" left="111" width="90" height="20" font="17"><b>Achievement</b></text>
+<text top="146" left="201" width="4" height="20" font="10">:</text>
+<text top="187" left="112" width="13" height="18" font="19"></text>
+<text top="186" left="139" width="160" height="20" font="10">High quality for delivery</text>
+<text top="226" left="112" width="13" height="18" font="19"></text>
+<text top="225" left="139" width="640" height="20" font="10">Build up a self-running testing with correct testing mindset, correct testing processes from crash</text>
+<text top="265" left="112" width="13" height="18" font="19"></text>
+<text top="264" left="139" width="262" height="20" font="10">Build up Agility mindset in testing team</text>
+<text top="315" left="85" width="10" height="20" font="14"><b>D</b></text>
+<text top="318" left="99" width="70" height="16" font="15"><b>E C E M B E R</b></text>
+<text top="315" left="172" width="74" height="20" font="14"><b>  2 0 1 2 – D</b></text>
+<text top="318" left="249" width="70" height="16" font="15"><b>E C E M B E R</b></text>
+<text top="315" left="322" width="49" height="20" font="14"><b>  2 0 1 3</b></text>
+<text top="315" left="552" width="8" height="20" font="14"><b>S</b></text>
+<text top="318" left="563" width="47" height="16" font="15"><b>E N I O R</b></text>
+<text top="315" left="613" width="16" height="20" font="14"><b>  P</b></text>
+<text top="318" left="632" width="55" height="16" font="15"><b>R O J E C T</b></text>
+<text top="315" left="690" width="97" height="20" font="14"><b>  M A N A G E R</b></text>
+<text top="345" left="84" width="7" height="18" font="16"></text>
+<text top="344" left="111" width="64" height="20" font="17"><b>Company</b></text>
+<text top="344" left="175" width="279" height="20" font="10">: Sunrise Software Solutions Corporation<a href="http://www.s3corp.com.vn/"> (</a></text>
+<text top="344" left="454" width="136" height="20" font="18"><a href="http://www.s3corp.com.vn/">www.s3corp.com.vn</a></text>
+<text top="344" left="590" width="9" height="20" font="10"><a href="http://www.s3corp.com.vn/">)</a> </text>
+<text top="383" left="84" width="8" height="20" font="9"></text>
+<text top="384" left="111" width="130" height="20" font="17"><b>Project Description</b></text>
+<text top="384" left="241" width="4" height="20" font="10">:</text>
+<text top="424" left="112" width="13" height="18" font="19"></text>
+<text top="423" left="139" width="650" height="20" font="10">A Front End Testing project which test a series of relaxable websites running on either desktop or </text>
+<text top="453" left="112" width="104" height="20" font="10">mobile devices.</text>
+<text top="492" left="84" width="8" height="20" font="9"></text>
+<text top="493" left="111" width="77" height="20" font="17"><b>Team size:  </b></text>
+<text top="534" left="112" width="13" height="18" font="19"></text>
+<text top="533" left="139" width="66" height="20" font="10">25 testers</text>
+<text top="572" left="84" width="8" height="20" font="9"></text>
+<text top="572" left="111" width="93" height="20" font="17"><b>Technologies:</b></text>
+<text top="613" left="112" width="13" height="18" font="19"></text>
+<text top="612" left="139" width="47" height="20" font="10">MySQL</text>
+<text top="652" left="112" width="13" height="18" font="19"></text>
+<text top="651" left="139" width="102" height="20" font="10">Java, JavaScript</text>
+<text top="691" left="112" width="13" height="18" font="19"></text>
+<text top="690" left="139" width="39" height="20" font="10">HTML</text>
+<text top="731" left="112" width="13" height="18" font="19"></text>
+<text top="730" left="139" width="34" height="20" font="10">Flash</text>
+<text top="769" left="84" width="8" height="20" font="9"></text>
+<text top="769" left="111" width="112" height="20" font="17"><b>Methodologies: </b></text>
+<text top="810" left="112" width="13" height="18" font="19"></text>
+<text top="809" left="139" width="79" height="20" font="10">Agile Scrum</text>
+<text top="848" left="84" width="8" height="20" font="9"></text>
+<text top="849" left="111" width="107" height="20" font="17"><b>Responsibilities</b></text>
+<text top="849" left="218" width="4" height="20" font="10">:</text>
+<text top="889" left="112" width="13" height="18" font="19"></text>
+<text top="888" left="139" width="262" height="20" font="10">Get, analyze and manage requirements</text>
+<text top="928" left="112" width="13" height="18" font="19"></text>
+<text top="927" left="139" width="93" height="20" font="10">Build up team</text>
+<text top="968" left="112" width="13" height="18" font="19"></text>
+<text top="967" left="139" width="208" height="20" font="10">Training, coaching testing team</text>
+<text top="1007" left="112" width="13" height="18" font="19"></text>
+<text top="1006" left="139" width="207" height="20" font="10">Project manager (QA manager)</text>
+<text top="1057" left="803" width="8" height="18" font="13"><b>6</b></text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="20" size="16" family="CAAAAA+Calibri" color="#5a5a5a"/>
+<text top="106" left="84" width="8" height="20" font="9"></text>
+<text top="107" left="111" width="90" height="20" font="17"><b>Achievement</b></text>
+<text top="107" left="201" width="4" height="20" font="10">:</text>
+<text top="148" left="112" width="13" height="18" font="19"></text>
+<text top="147" left="139" width="186" height="20" font="10">Get trust from client quickly</text>
+<text top="187" left="112" width="13" height="18" font="19"></text>
+<text top="186" left="139" width="566" height="20" font="10">Ramp up project  up to 15 testers in the first year and up to 25 tester in the next year</text>
+<text top="236" left="85" width="14" height="20" font="14"><b>M</b></text>
+<text top="239" left="103" width="40" height="16" font="15"><b>A R C H</b></text>
+<text top="236" left="145" width="87" height="20" font="14"><b>  2 0 1 0   –   D</b></text>
+<text top="239" left="236" width="70" height="16" font="15"><b>E C E M B E R</b></text>
+<text top="236" left="309" width="49" height="20" font="14"><b>  2 0 1 1</b></text>
+<text top="236" left="662" width="125" height="20" font="14"><b>Q A   M A N A G E R</b></text>
+<text top="266" left="84" width="7" height="18" font="16"></text>
+<text top="266" left="111" width="64" height="20" font="17"><b>Company</b></text>
+<text top="266" left="175" width="279" height="20" font="10">: Sunrise Software Solutions Corporation<a href="http://www.s3corp.com.vn/"> (</a></text>
+<text top="266" left="454" width="136" height="20" font="18"><a href="http://www.s3corp.com.vn/">www.s3corp.com.vn</a></text>
+<text top="266" left="590" width="9" height="20" font="10"><a href="http://www.s3corp.com.vn/">)</a> </text>
+<text top="304" left="84" width="8" height="20" font="9"></text>
+<text top="305" left="111" width="130" height="20" font="17"><b>Project Description</b></text>
+<text top="305" left="241" width="4" height="20" font="10">:</text>
+<text top="346" left="112" width="13" height="18" font="19"></text>
+<text top="345" left="139" width="585" height="20" font="10">A Testing project, it is to test an Enterprise Admistrative application running on desktop.</text>
+<text top="384" left="84" width="8" height="20" font="9"></text>
+<text top="384" left="111" width="77" height="20" font="17"><b>Team size:  </b></text>
+<text top="425" left="112" width="13" height="18" font="19"></text>
+<text top="424" left="139" width="66" height="20" font="10">10 testers</text>
+<text top="463" left="84" width="8" height="20" font="9"></text>
+<text top="464" left="111" width="93" height="20" font="17"><b>Technologies:</b></text>
+<text top="504" left="112" width="13" height="18" font="19"></text>
+<text top="503" left="139" width="47" height="20" font="10">MySQL</text>
+<text top="543" left="112" width="13" height="18" font="19"></text>
+<text top="543" left="139" width="27" height="20" font="10">PHP</text>
+<text top="583" left="112" width="13" height="18" font="19"></text>
+<text top="582" left="139" width="39" height="20" font="10">HTML</text>
+<text top="621" left="84" width="8" height="20" font="9"></text>
+<text top="621" left="111" width="112" height="20" font="17"><b>Methodologies: </b></text>
+<text top="662" left="112" width="13" height="18" font="19"></text>
+<text top="661" left="139" width="79" height="20" font="10">Agile Scrum</text>
+<text top="700" left="84" width="8" height="20" font="9"></text>
+<text top="701" left="111" width="107" height="20" font="17"><b>Responsibilities</b></text>
+<text top="701" left="218" width="4" height="20" font="10">:</text>
+<text top="741" left="112" width="13" height="18" font="19"></text>
+<text top="740" left="139" width="266" height="20" font="10">Get, analyze and manage requirements </text>
+<text top="780" left="112" width="13" height="18" font="19"></text>
+<text top="780" left="139" width="83" height="20" font="10">QA manager</text>
+<text top="820" left="112" width="13" height="18" font="19"></text>
+<text top="819" left="139" width="217" height="20" font="10">Build up testing team from crash</text>
+<text top="858" left="84" width="8" height="20" font="9"></text>
+<text top="858" left="111" width="90" height="20" font="17"><b>Achievement</b></text>
+<text top="858" left="201" width="4" height="20" font="10">:</text>
+<text top="899" left="112" width="13" height="18" font="19"></text>
+<text top="898" left="139" width="354" height="20" font="10">Keep project going on while facing difficult customer </text>
+<text top="948" left="85" width="5" height="20" font="14"><b>J</b></text>
+<text top="952" left="94" width="26" height="16" font="15"><b>U LY</b></text>
+<text top="948" left="123" width="88" height="20" font="14"><b>  2 0 0 6   –   N</b></text>
+<text top="952" left="213" width="74" height="16" font="15"><b>O V E M B E R</b></text>
+<text top="948" left="290" width="49" height="20" font="14"><b>  2 0 0 9</b></text>
+<text top="948" left="695" width="41" height="20" font="14"><b>Q A   L</b></text>
+<text top="952" left="739" width="48" height="16" font="15"><b>E A D E R</b></text>
+<text top="978" left="84" width="7" height="18" font="16"></text>
+<text top="978" left="111" width="64" height="20" font="17"><b>Company</b></text>
+<text top="978" left="175" width="114" height="20" font="10">: TMA Solution<a href="http://www.tmasolutions.com/">s (</a></text>
+<text top="978" left="289" width="158" height="20" font="18"><a href="http://www.tmasolutions.com/">www.tmasolutions.com</a></text>
+<text top="978" left="448" width="4" height="20" font="20"><a href="http://www.tmasolutions.com/"> </a></text>
+<text top="978" left="452" width="9" height="20" font="10">) </text>
+<text top="1016" left="84" width="8" height="20" font="9"></text>
+<text top="1017" left="111" width="130" height="20" font="17"><b>Project Description</b></text>
+<text top="1017" left="241" width="4" height="20" font="10">:</text>
+<text top="1057" left="803" width="8" height="18" font="13"><b>7</b></text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="108" left="112" width="13" height="18" font="19"></text>
+<text top="107" left="139" width="442" height="20" font="10">A Testing project, it is to test the VoIP PBX and Call server gateway.</text>
+<text top="146" left="84" width="8" height="20" font="9"></text>
+<text top="146" left="111" width="77" height="20" font="17"><b>Team size:  </b></text>
+<text top="187" left="112" width="13" height="18" font="19"></text>
+<text top="186" left="139" width="66" height="20" font="10">10 testers</text>
+<text top="225" left="84" width="8" height="20" font="9"></text>
+<text top="226" left="111" width="93" height="20" font="17"><b>Technologies:</b></text>
+<text top="266" left="112" width="13" height="18" font="19"></text>
+<text top="265" left="139" width="43" height="20" font="10">Oracle</text>
+<text top="305" left="112" width="13" height="18" font="19"></text>
+<text top="304" left="139" width="80" height="20" font="10">SIP protocol</text>
+<text top="345" left="112" width="13" height="18" font="19"></text>
+<text top="344" left="139" width="85" height="20" font="10">RTP protocol</text>
+<text top="383" left="84" width="8" height="20" font="9"></text>
+<text top="383" left="111" width="112" height="20" font="17"><b>Methodologies: </b></text>
+<text top="424" left="112" width="13" height="18" font="19"></text>
+<text top="423" left="139" width="57" height="20" font="10">Iteration</text>
+<text top="462" left="84" width="8" height="20" font="9"></text>
+<text top="463" left="111" width="107" height="20" font="17"><b>Responsibilities</b></text>
+<text top="463" left="218" width="4" height="20" font="10">:</text>
+<text top="503" left="112" width="13" height="18" font="19"></text>
+<text top="502" left="139" width="262" height="20" font="10">Get, analyze and manage requirements</text>
+<text top="542" left="112" width="13" height="18" font="19"></text>
+<text top="541" left="139" width="137" height="20" font="10">Define Test schedule</text>
+<text top="582" left="112" width="13" height="18" font="19"></text>
+<text top="581" left="139" width="151" height="20" font="10">Review TCs, Test suites</text>
+<text top="621" left="112" width="13" height="18" font="19"></text>
+<text top="620" left="139" width="76" height="20" font="10">Test Report</text>
+<text top="659" left="84" width="8" height="20" font="9"></text>
+<text top="660" left="111" width="90" height="20" font="17"><b>Achievement</b></text>
+<text top="660" left="201" width="4" height="20" font="10">:</text>
+<text top="700" left="112" width="13" height="18" font="19"></text>
+<text top="699" left="139" width="162" height="20" font="10">Get trust from customer</text>
+<text top="739" left="112" width="13" height="18" font="19"></text>
+<text top="738" left="139" width="236" height="20" font="10">Onsite and get project for company</text>
+<text top="789" left="85" width="10" height="20" font="14"><b>A</b></text>
+<text top="792" left="98" width="33" height="16" font="15"><b>P R I L</b></text>
+<text top="789" left="134" width="82" height="20" font="14"><b>  2 0 0 4   –   J</b></text>
+<text top="792" left="219" width="30" height="16" font="15"><b>U N E</b></text>
+<text top="789" left="252" width="49" height="20" font="14"><b>  2 0 0 6</b></text>
+<text top="789" left="675" width="42" height="20" font="14"><b>Q A   E</b></text>
+<text top="792" left="720" width="67" height="16" font="15"><b>N G I N E E R</b></text>
+<text top="819" left="84" width="7" height="18" font="16"></text>
+<text top="818" left="111" width="64" height="20" font="17"><b>Company</b></text>
+<text top="818" left="175" width="114" height="20" font="10">: TMA Solution<a href="http://www.tmasolutions.com/">s (</a></text>
+<text top="818" left="289" width="158" height="20" font="18"><a href="http://www.tmasolutions.com/">www.tmasolutions.com</a></text>
+<text top="818" left="448" width="9" height="20" font="10"><a href="http://www.tmasolutions.com/">)</a> </text>
+<text top="857" left="84" width="8" height="20" font="9"></text>
+<text top="858" left="111" width="130" height="20" font="17"><b>Project Description</b></text>
+<text top="858" left="241" width="4" height="20" font="10">:</text>
+<text top="898" left="112" width="13" height="18" font="19"></text>
+<text top="897" left="139" width="688" height="20" font="10">A Testing project, it is to test a Service Edge router – a backbone router via a provisioning page running </text>
+<text top="927" left="112" width="79" height="20" font="10">on desktop.</text>
+<text top="966" left="84" width="8" height="20" font="9"></text>
+<text top="967" left="111" width="77" height="20" font="17"><b>Team size:  </b></text>
+<text top="1008" left="112" width="13" height="18" font="19"></text>
+<text top="1007" left="139" width="66" height="20" font="10">15 testers</text>
+<text top="1057" left="803" width="8" height="18" font="13"><b>8</b></text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="106" left="84" width="8" height="20" font="9"></text>
+<text top="107" left="111" width="93" height="20" font="17"><b>Technologies:</b></text>
+<text top="148" left="112" width="13" height="18" font="19"></text>
+<text top="147" left="139" width="52" height="20" font="10">Unix OS</text>
+<text top="187" left="112" width="13" height="18" font="19"></text>
+<text top="186" left="139" width="101" height="20" font="10">Telnet protocol</text>
+<text top="225" left="84" width="8" height="20" font="9"></text>
+<text top="226" left="111" width="112" height="20" font="17"><b>Methodologies: </b></text>
+<text top="266" left="112" width="13" height="18" font="19"></text>
+<text top="265" left="139" width="57" height="20" font="10">Iteration</text>
+<text top="304" left="84" width="8" height="20" font="9"></text>
+<text top="305" left="111" width="107" height="20" font="17"><b>Responsibilities</b></text>
+<text top="305" left="218" width="4" height="20" font="10">:</text>
+<text top="345" left="112" width="13" height="18" font="19"></text>
+<text top="344" left="139" width="176" height="20" font="10">Get, analyze requirements</text>
+<text top="385" left="112" width="13" height="18" font="19"></text>
+<text top="384" left="139" width="64" height="20" font="10">Write TCs</text>
+<text top="424" left="112" width="13" height="18" font="19"></text>
+<text top="423" left="139" width="81" height="20" font="10">Execute test</text>
+<text top="463" left="112" width="13" height="18" font="19"></text>
+<text top="462" left="139" width="176" height="20" font="10">Report bugs and follow up</text>
+<text top="501" left="84" width="8" height="20" font="9"></text>
+<text top="502" left="111" width="90" height="20" font="17"><b>Achievement</b></text>
+<text top="502" left="201" width="4" height="20" font="10">:</text>
+<text top="542" left="112" width="13" height="18" font="19"></text>
+<text top="541" left="139" width="269" height="20" font="10">Hard working and get promotion quickly</text>
+<text top="582" left="112" width="13" height="18" font="19"></text>
+<text top="581" left="139" width="295" height="20" font="10">Was considered to be onsite for new project</text>
+<text top="1057" left="803" width="8" height="18" font="13"><b>9</b></text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="21" size="16" family="CAAAAA+Calibri" color="#ff0000"/>
+	<fontspec id="22" size="16" family="CAAAAA+Calibri" color="#c00000"/>
+<text top="157" left="108" width="189" height="20" font="21">ACADEMIC QUALIFICATIONS</text>
+<text top="196" left="108" width="79" height="20" font="10">1999 - 2004</text>
+<text top="196" left="270" width="170" height="20" font="10">Institution: PTIT Vietnam </text>
+<text top="235" left="270" width="126" height="20" font="10">Degree: Bachelor   </text>
+<text top="274" left="108" width="11" height="26" font="2">R</text>
+<text top="278" left="121" width="80" height="20" font="22">EFERENCE</text>
+<text top="274" left="203" width="5" height="26" font="2"> </text>
+<text top="311" left="134" width="270" height="20" font="17"><b>Sunrise Solution Software management</b></text>
+<text top="350" left="135" width="5" height="20" font="12"><b>-</b></text>
+<text top="350" left="162" width="166" height="20" font="17"><b>CEO Linh Lê 0918505453</b></text>
+<text top="386" left="135" width="5" height="20" font="12"><b>-</b></text>
+<text top="386" left="162" width="281" height="20" font="17"><b>Business Director Lễ Nguyễn 0908758947</b></text>
+</page>
+<outline>
+<item page="1">CURRICULUM VITAE</item>
+<item page="1">VO HOANG XUAN PHUONG</item>
+<item page="1">PERSONAL SUMMARY</item>
+<item page="2">TECHNICAL SKILLS</item>
+<item page="2">PROFESSIONAL EXPERIENCE</item>
+<item page="10">Reference</item>
+</outline>
+</pdf2xml>

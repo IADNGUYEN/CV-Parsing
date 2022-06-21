@@ -1,0 +1,85 @@
+ 
+NGUYỄN NGỌC HOÀNG 
+160/27/20 ********* Qùy, 
+Phường *********, Quận 7, TP. HCM 
+E-mail : *********  
+Điện thoại : ********* 
+PERSIONAL DETAILS 
+Date of Birth: Jan 22, 1986 
+Gender: Male 
+Marital Status: Single 
+Permanent Address: 160/27/20 ********* Quy Street, Ward *********, District 7, HCM City, 
+Vietnam 
+Mobile phone: ********* 
+E-mail: *********  
+OBJECTIVE 
+To be a good staff. 
+Try to learning as much as possible and doing my best in order to accomplish my task. 
+To have good opportunities to get promotion in my job. 
+Develop my skills with development of company, I want to prove myself. 
+EDUCATION 
+2005 – 2009 
+The HaiPhong Private University – *********, Vietnam 
+Bachelor of Science in Information Technology(Graduated  2009) 
+Subjects studied : 
+Operating Systems : Windows 2000, XP and Linux  
+Programming languages : C, C++, ASP, ASP.NET, C#, Java, HTML, XML.  
+Databases : MS SQL Server 2000, MySQL, Oracle 9i.  
+And subjects : System Analysis and Design, Software Project Management, Object  Oriented 
+Programming(using C# language ), Database Management System, Design and develop website  
+I have 4 years programming experience  
+After once subjects I must make a project for close.  
+Some projects : 
+English Grammar testing online(ASP)  
+Hotel Management (OOP  using C# language)  
+2009  2011 
+The FPT Aptech Academy  HCM, Vietnam 
+The Higher Diplopma In Software Engineering (Graduated 2011) 
+EXPERIENCE 
+03/2014 – 07/2015: Work at Chudu24, location at 242 ********* Street, District 1, *********Ward 
+TP.HCM . Company specializes about booking domestic and international  hotel online. My main work 
+is programing and develop website using some following technologies:         
+o Language : Asp.net C# 
+o Server : IIS 
+o Database : SQL Server 
+o Using jquery, ajax 
+o Url Rewrite 
+o Varnish Cache, Output Cache, Data Cache 
+o Using Store procedure 
+o Web Service 
+o Varnish Cache, Output Cache, Data Cache 
+o Quick Payment via SMS using OnePay API 
+o Web API using OData 
+Besides I  wrote program python to crawl price from some competitor websites such as: ivivu.com, 
+agoda.com, yesgo.vn, mytour.vn, booking.com, expedia.com. 
+09/2013 – 02/2014: Work at TMA Solutions, location at ********* Park, District 12, T*********h 
+Hiep Ward. This is outsourcing company so implement foreign projects. Implemented Project apply 
+some following technologies: 
+o Language : MVC 4 Code First 
+o Entity Framework 
+o Server : IIS 
+o Database : SQL Server 
+o Using Jquery, Ajax 
+o Url Rewrite 
+o Output Cache, Data Cache 
+08/2011 – 08/2013: Work at SpiralEdge, No 37 ********* Street, Ward *********, District 1, HCM 
+City. Main work programming website follow project of company, implemented project: 
++) Commercial Website, sell sport tools online using technologies following: 
+o Language : Asp.net C# 
+o Server : IIS 
+o Database : SQL Server 
+o Using Jquery, Ajax 
+o Url Rewrite 
+o Output Cache, Data Cache 
+o Using Store procedure 
+o Web Service 
++)  Team Management like society network, allow user register after post article, image, comment...          
+Website using technologies following: 
+o Language MVC3 DataBase First 
+o Entity Framework 
+o Server : IIS 
+o Database : SQL Server 
+o Using Jquery, Ajax 
+o Url Rewrite 
++)  Write tool to crawl data from some websites sell sport tools online as amazon by C# console  
+program using Linq, Regular Expression. -- The end -- 

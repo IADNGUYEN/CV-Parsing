@@ -1,0 +1,118 @@
+TU LANG PHIEU 
+Phone: +84.979.398.849. 
+Email: tulangphieu@gmail.com 
+Personal details 
+Permanent 
+Phuoc Hai commune, Ninh Phuoc District, Ninh Thuan Province. 
+Temporary 
+71/26/38A Nguyen Bac, 3 Ward, Tan Binh District, Ho Chi Minh City. 
+Date of Brith 
+May, 12th, 1979. 
+Gender  
+Male. 
+Nationality 
+VietNam. 
+Career objective 
+To establish a successful career, work with many challenge jobs, friendly people, 
+pressure environment. I want to build expertise, enhances professional skills and find 
+more experiences in hardware and software development process. 
+Improve myself to be the best in specialized IT major Computer Engineering. 
+Gain Success with career path, promote so far from working environment. 
+Education 
+9.2007 – 8.2013 
+Bach Khoa University, Vietnam National University Ho Chi Minh City 
+Bachelor of Engineering in Computer Engineering. 
+5.2017 – present 
+Postgraduate Bach Khoa University, Vietnam National 
+University Ho Chi Minh City. 
+Master in  Computer Science. 
+Work experience 
+9 .2018 – present  
+Work at Legato 
+Position: Software Engineer 
+Work’s achievement:  
+Fontend:  
+Framework:  Bootstrap, JavaScrip, Wordpress, Codeinighter. 
+5 .2016 – 11. 2016  
+Work at OMC – VNPT 
+Position: System Engineer. 
+Work’s achievement:  
+Configure equipment DSL, Switch ZTE , GPON ZTE Mini OLT ZXA10 C320, switch 
+Alcatel Lucent OS6450, ALU OLT 7360 ISAM FX , with NET, TV include multicast 
+and VIOD,  
+Knowledge routing system cisco MAN-E through BRAS prior to that are going to 
+ONT.  
+Proper Configuration and deploying of Cisco Router Video Conferencing and 
+Collaboration Meeting Rooms. 
+5. 2014 – 8. 2014 
+Work at ICDREC Vietnam National University HCMC 
+Project: Developer compiler chip VN8.  
+Position: Software Engineer. 
+Work’s achievement: GNU binutil, building target AVR, vn8, GNU Assembler.  
+Tools: GNU GDB, GNU GCC. OS: Debian. 
+Thesis project at university. 
+Project: Building an Audio Podcast Listening Program on Altera DE2 Kit with LCD 
+touch Module.  
+Subjects: thesis. 
+Work’s achievement: Porting OS uClinux on board FPGA Altera DE2, NIOS II 
+programming using SoPC Builder on DE2 FPGA Kit. Building application mpg123 
+play file mp3 in uClinux on board Altera DE2, building application graphics connect 
+LCD display, Developer application PLAYER play file raw in uClinux on board Altera 
+DE2, play file audio with protocol TCP/IP computer substitution server and board DE2 
+substitutions client  Using socket, thread, pipe. 
+Operating system: Ubuntu, Fedora. 
+Tools: Quartus II, Nios IDE, C/C++. 
+Project 4 
+Design a program by using Verilog HDL to drive LED on Altera DE2.  
+Subjects: IC design  
+Work’s achievement: Led river, seven-segment displays on the DE2 board, 
+implement a calculator display 16x2 LCD on the DE2 board Tools: Quartus II, Verilog 
+Project 3 
+Chat application.  
+Subjects: Computer Network  
+Work’s achievement: Using Java  TCP/IP for chat application with many clients. 
+Tools: Eclipse  Java. 
+Project 2 
+Configure Router Cisco and Routing Routers  
+Subjects: Computer Network. 
+Tools: Packet tracer, Routers and switch of Cisco. 
+Project 1 
+Implement Tetris game on 8051-Based Board  
+Subjects: Microcontroller programming 8051 
+Work’s achievement: display games Tetris with Led dot matrix. 
+Tools: Keil C, Flash Magic. 
+Skill 
+Language 
+C/C++, Java, Verilog HDL or any other language programming 
+Develop tools 
+Visual Studio, Eclipse, Quartus II, VIM, 
+Operating System 
+Windows, Linux, Mac OS. 
+Foreign language  
+English. 
+Training 
+Work with many experience in company and assignments subject university. 
+Soft skills 
+Problem solving skill. 
+Time management skill. 
+Communication skill. 
+Research skill. 
+Other skills 
+Ability work with high pressure, completed task as soon as possible 
+Complete tasks sooner than deadline. 
+Respect superior and always meet superior’s requirements 
+Can work in many different kinds of project. 
+Desire to get more task if free, high studying spirits 
+Team work, Sociable, friendly with colleagues, funny guy, good communication in 
+both English and Vietnamese with other people in team. 
+Interests 
+Programming in C/C++, Java 
+Technology, Science. 
+Research Operation. 
+Travel, Visit many places with friend, family. 
+Football, Music, Game, Badminton. 
+References 
+MSc. Tran Trung Hieu 
+Instructor thesis at Bach Khoa University, Ho Chi Minh City. 
+Tel: 0902.857.555 
+Email: hieutt@hcmut.edu.vn. 

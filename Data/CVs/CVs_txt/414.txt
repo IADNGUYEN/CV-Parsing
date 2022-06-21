@@ -1,0 +1,86 @@
+1 
+Date of birth: 02-02-1992  
+96/10 Banh Van Tran,  
+District Tan Binh, Ho Chi Minh City 
+() 0122 353 0707 
+ phamtuananh.bkit@gmail.com 
+EDUCATIONAL AND TARGET: 
+Student of Computer Science and Engineering, Ho Chi Minh University of Technology. 
+Short-term target: Finish education program in university. 
+Long-term target: 
+Improve skills in develop program, web, mobile, …. 
+Job objectives: To study and get practical experience in a good working environment 
+where I could work securely and maximize my abilities. 
+PROFESSIONAL PROFILE: 
+Self-motivated and persistent in working. 
+Flexibility. 
+Passion for discovery of new things and ability to acquire new knowledge quickly. 
+Ability to work under pressure. 
+Intense concentration ability. 
+TECHNICAL SKILLS: 
+Languages: PHP7, HTML5, CSS3, Js, Jq, … 
+Operation: Window, Linux 
+Database: MySql 
+Framework: NodeJs, Laravel, Bootstrap 4, … 
+CMS: Wordpress 
+Server: AWS 
+SOFT SKILLS: 
+Good communication skills 
+Leadership qualities 
+Teamwork skills 
+Independent logical analysis in problem solving 
+Phạm Tuấn Anh 
+Curriculum Vitae 
+2 
+LANGUAGE SKILLS: 
+Vietnamese: Mother Tongue 
+English: Moderate – TOEIC: 520 
+EXPERIENCE: 
+I don’t have many experiences to work in real project. 
+03-2015 to 09-2015: I worked at Binumi (https://www.binumi.com/), I learned some technologies 
+and build some applications. 
+App Real-time: use NodeJS. 
+Research and install analyze logs: use Kibana – Logstash – Elasticsearch. 
+09-2015 to 6-2017: Mainly study, work in education ’s assignment and I do free-lancer with 
+some wordpress projects: 
+PHP-MySQL-Jq-CSS-HTML Projects: 
+o Build website for study and exam online like: http://www.studyvn.com/ 
+o Website upload and editor image online. 
+Wordpress Projects: 
+o Saint Mary Resort: http://saintmaryresort.com/ 
+o Huong Thinh Coffee: http://huongthinhcoffee.com/ 
+o 
+Opal River Side: http://www.opalriverside.info.vn/ 
+o 
+Sách Photos: http://sachphotos.com/ 
+o 
+Mật Ong Tươi Đăk Lak: http://matongtuoidaklak.com/ 
+o 
+Tự học Tiếng Anh thành công: http://tuhoctienganhthanhcong.com/ 
+….. 
+Laravel Projects: 
+o Participate in building website Kacana: http://kacana.com/ 
+o Build website allow users upload product for buying or selling, like: chotot.vn, 5s,… and 
+support real-time notifications (socket.io) and google maps,..  (Graduation essay at 
+HCMUC) 
+06-2017 to now: 
+Wordpress Projects: 
+o Liên Hiệp Thành: http://lienhiepthanh.com/ 
+o Vòng phong thủy: http://www.vongphongthuy.com/ 
+o Lux đất xanh: http://luxdatxanh.com/ 
+…. 
+Laravel Projects: 
+o Build website:  https://ucendu.com/ allow users study and online testing IELTS with: 
+Admin upload lesson + English story + manager,… 
+Support real-time notification (Redis + Socket) 
+Comment system 
+3 
+Page English story allow user read and listen english online,…. 
+Website build on EC2 + RDS AWS. 
+And some other projects,… 
+ACTIVITIES: 
+Sports: Football, Badmindton,… 
+Esports: MOBA Games (LOL, PUBG,…) 
+Handmade 
+Reading 
+Travel 

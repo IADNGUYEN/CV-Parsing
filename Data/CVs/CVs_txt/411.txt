@@ -1,0 +1,54 @@
+ 
+Duong Minh Thuan 
+Java Web Developer 
+Summary 
+I'm a developer who have just graduated from FPT Aptech. Now I'm 
+looking for a chance to start my career as a developer. I had 2 years 
+training about Java. I was experienced through 3 projects at school. I 
+also developed a small game in my free time for practicing. I hope that I 
+will have a chance to work for your company. 
+Personal Details 
+Full name: Duong Minh Thuan 
+Date of birth: 20/04/1992 
+Place of birth: Ba Ria – Vung Tau 
+Gender: Male 
+Marital status: Single 
+ID number: 273 401 859 
+Resident: 26 Nguyen Van Cu, Ba Ria City, 
+Ba Ria – Vung Tau Province 
+Project 
+Book store 
+My first project at FPT Aptech, in semester 1. It’s a simple web app, 
+using ASP.NET, for selling books. 
+Retail store 
+My project for semester 2. We built an application for a retail store to 
+manage products and customers. It’s developed by Java Swing. 
+English class 
+My final project at FPT Aptech. It’s an advanced web app, developed by 
+JSP. Users can learn and test their English skills. 
+Offline turn-base game 
+A project I developed in my free time. It’s a game that imitated some 
+functions of TS Online (a famous turn-based game in 2006). I make it to 
+practice Java Swing. 
+Skills 
+JAVA 
+MS SQL SERVER 
+HTML + CSS 
+JAVA SCRIPT 
+PHOTOSHOP 
+ILLUSTRATOR 
+01657 232 898 
+duongthuan204@gmail.com 
+duongthuan204 
+633/2A Dien Bien Phu, 
+District 3, Ho Chi Minh City 
+EDUCATION 
+FPT Aptech 
+Higher Diploma in Software 
+Engineering 
+2014 – 2016 
+University of Finance  Marketing 
+Bachelor’s degree in Marketing 
+2010 – 2014 
+Thanks for taking time  
+to read my CV! 

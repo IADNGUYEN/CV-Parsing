@@ -1,0 +1,69 @@
+Tran Phuong Dung 
+136/16 Dang Van Ngu Street, Ward 14, Phu Nhuan District, Ho Chi Minh City 
++84938432828 | tranphuongdung.cse@gmail.com 
+Objective: 
+I am looking for a job to fully utilize my skills and to further my knowledge and experience in 
+the field of Computer Science. 
+Education: 
+BACHELOR OF SCIENCE (HONORS) IN COMPUTER SCIENCE | 2015  2017 | THE 
+UNIVERSITY OF NOTTINGHAM 
+First Class. GPA on a 100.0 scale: 67/100 
+Dean’s Excellence Award of CS department 
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE | 2013  2015 | HO CHI MINH CITY 
+INTERNATIONAL UNIVERSITY 
+GPA on a 100.0 scale (2013-2015): 82.6/100 
+HIGH SCHOOL DIPLOMA | 2013 | LE HONG PHONG HIGH SCHOOL FOR THE GIFTED 
+Specialized in French, Mathematics, Physics and Chemistry 
+Skills: 
+COMPUTER 
+Windows XP, 8.1, 10 
+Ubuntu 16.04 
+Microsoft Office 
+WEB DEVELOPMENT 
+HTML5 and XHTML 
+JavaScript and jQuery 
+MySQL database design, connection 
+API design with XML compatibility 
+MACHINE LEARNING 
+Data Mining with WEKA, R 
+Classification & Regression 
+Forecasting 
+PROGRAMMING LANGUAGE 
+Proficient: C/C++, Java, Python 
+Familiar: Matlab, JavaScript, Assembly, Pascal, 
+Haskell, Prolog 
+Experience: 
+MACHINE LEARNING INTERN | TENTACLE TECHNOLOGIES MSC SDN BHD | 17 JULY 2016 – 
+15 SEPTEMBER 2016 
+Working full-time, this position involved developing a Pre-emptive Incident Management in 
+Oil & Gas using Predictive Analytics (PIPE). PIPE collaborates Oil and Gas data from several 
+sources to train a predictive model which predicts the failure of the system. PIPE generates 
+system alerts, highlights the risks and provides early warning signals to prevent incidents. 
+Languages: 
+Vietnamese: Native proficiency. 
+English: Fluent. IELTS – 6.5. 
+French: Fluent. Achieved Baccalauréat, an academic qualification for French high school 
+students in DELF B1 (Diploma in French Language Studies). 
+Projects 
+OIL SPILL DETECTION AND FORECASTING USING SUPPORT VECTOR MACHINES – THESIS | 
+2016-2017 
+A data-driven failure analysis employing machine learning technique to forecast partial or 
+complete failures of the oil system. Oil and gas data are collected from several sources to train 
+a predictive model using Sequential minimal optimizer (SMO) algorithm which classifies 
+failure and normal events. The SMO model is optimized and enhanced to minimize the 
+uncertainty of the predictions. 
+IBEAM PROJECT FOR BLUE SNOW ENERGY CO-OPERATION | 2015-2016 
+Use Machine Learning algorithm to design the application for cooling air-cond system of the 
+building. The system uses MVC architecture design with the implementation of server and 
+client (Android app) side using Jetty and Jersey API for RESTful communication. 
+WEB APPLICATION DEVELOPMENT | 2015 
+Project Management System: an online project management tool (create project, generate 
+milestones and tasks, etc.) 
+PRINCIPLES OF DATABASE MANAGEMENT | 2015 
+House Rental Website: a website that improves the house rental service (helping students to 
+find a suitable house to rent, allowing the landlords to register the houses they want to rent). 
+ARTIFICIAL INTERLLIGENCE | 2015 
+Minesweeper: a computer program that automatically solve Minesweeper. 
+SOFTWARE ENGINEERING | 2015 
+Bookstore Website: provide people opportunities to look for and purchase their yearning 
+books, upload/download E-Books. 

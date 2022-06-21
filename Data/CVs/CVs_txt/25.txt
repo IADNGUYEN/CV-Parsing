@@ -1,0 +1,56 @@
+TRAN TRONG TAN
+ June 26, 1997
+ Male
+ 0969214523
+ kn15trongtan@gmail.com
+ Ho Chi Minh , Vietnam
+ fb.com/trongtan.tran.3
+OBJECTIVE
+I hope that when working at the
+company, I can learn many of your
+knowledge and experience as well
+as contribute my part to the
+development of the company.
+SKILLS
+English skill
+C And Python
+Communication
+Team Bulding Manager
+INTERESTS
+football
+copy writer
+HCMC-UNIVERSITY OF TECHNOLOGY AND EDUCATION
+OCT 2015  OCT 2019
+GREEN SUMMER VOLUNTEERS CAMPAIGN 2017/2018
+JULY 2017/18  AUG
+2017/18
+SPRING VOLUNTEER CAMPAIGN 2016/2017
+JAN 2016/17  FEB
+2016/17
+
+EDUCATION
+Eletronics And Telecomunication
+GPA: 6.9
+
+SCIENTIFIC RESEARCH
+PROJECT 1:  AUTOMATIC WATERING SYSTEM  2017.
+Read the soil moisture value to control the water pump motor with PIC-C compiler  Use sensors to measure soil moisture.  Use PIC microcontroller for data analysis and device control.
+Target: automatically control device.
+Instructor: Mr. Pham Ngoc Son.
+PROJECT 2: SMART FARM WITH ARDUINO MEGA 2018
+Build applications to manage and control devices in smart gardens.  Use sensors to collect temperature and humidity values.  Use Blynk to build management application on smartphone.  Set up a connection between Arduino Mega and Esp8266 to process and
+transfer data.
+Target: Application IoTs  to monitor and control equipment
+Instructor: Mr. Phan Van Ca.
+FINAL PROJECT: HUMAN FALL DETECT WTH 3D-CNN OR ALGORITHMS ON VIDEO
+Analyze human actions to make predictions about falling behavior.  Use 3D-CNN network to train human behavioral identification data.  Analyze the properties of the object in the video to predict human behavior.  compare and evaluate the performance of methods of determining human
+behavior.
+Use library Keras and Tensorflow backend  of python3 to analyze data. Use Opencv
+analyze human body model to pridict fall detection.
+Target: Application Machine Learning for analyze behaviours of human.
+Instructor: Mrs. Huynh Thi Thu Hien
+
+ACTIVITIES
+Soldiers campaign Help chirldren in Phu Yen province to  hold folk game.  fixxing electric,making lighting the countryside,Children's play area.
+Soldiers campaign   Help chirldren in Long An hold event.
+© topcv.vn

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1170" width="810">
+	<fontspec id="0" size="18" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="1" size="30" family="Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="16" family="Arial" color="#000000"/>
+	<fontspec id="3" size="18" family="Arial" color="#000000"/>
+	<fontspec id="4" size="16" family="Arial" color="#094f80"/>
+	<fontspec id="5" size="16" family="Arial" color="#0462c1"/>
+	<fontspec id="6" size="21" family="Arial,Bold" color="#000000"/>
+	<fontspec id="7" size="18" family="ABCDEE+Calibri,Bold" color="#000000"/>
+	<fontspec id="8" size="16" family="ABCDEE+Calibri,Bold" color="#000000"/>
+	<fontspec id="9" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="10" size="15" family="Arial,Bold" color="#000000"/>
+	<fontspec id="11" size="14" family="Arial,Bold" color="#000000"/>
+	<fontspec id="12" size="14" family="Arial" color="#000000"/>
+<text top="951" left="836" width="0" height="18" font="0">D</text>
+<text top="962" left="836" width="0" height="18" font="0">esign</text>
+<text top="1000" left="836" width="0" height="18" font="0">ed</text>
+<text top="1019" left="836" width="0" height="22" font="0"> b</text>
+<text top="1032" left="836" width="0" height="18" font="0">y </text>
+<text top="1044" left="836" width="0" height="18" font="0">Sh</text>
+<text top="1062" left="836" width="0" height="18" font="0">o</text>
+<text top="1071" left="836" width="0" height="18" font="0">w</text>
+<text top="1084" left="836" width="0" height="18" font="0">ee</text>
+<text top="1102" left="836" width="0" height="24" font="0">t.c</text>
+<text top="1120" left="836" width="0" height="18" font="0">o</text>
+<text top="1129" left="836" width="0" height="18" font="0">m</text>
+<text top="1144" left="836" width="0" height="18" font="0"> </text>
+<text top="276" left="101" width="155" height="28" font="1"><b>TRAN KIM </b></text>
+<text top="314" left="101" width="141" height="28" font="1"><b>PHUONG </b></text>
+<text top="375" left="101" width="114" height="15" font="2">SENIOR JAVA </text>
+<text top="397" left="101" width="105" height="15" font="2">DEVELOPER </text>
+<text top="429" left="101" width="10" height="17" font="3">  </text>
+<text top="458" left="101" width="194" height="15" font="4">66 Nguyen Thoi Trung St. </text>
+<text top="479" left="101" width="105" height="15" font="4">Dist 5, HCMC </text>
+<text top="500" left="101" width="5" height="15" font="4"> </text>
+<text top="521" left="101" width="110" height="15" font="4">March 8, 1989 </text>
+<text top="564" left="101" width="195" height="15" font="5"><a href="mailto:kimphuong1989@live.com">kimphuong1989@live.com</a></text>
+<text top="564" left="296" width="5" height="15" font="4"><a href="mailto:kimphuong1989@live.com"> </a></text>
+<text top="586" left="101" width="137" height="15" font="4">Tel: 0909 909 893 </text>
+<text top="667" left="101" width="137" height="15" font="2">More than 5 years </text>
+<text top="688" left="101" width="201" height="15" font="2">experiences specializing in </text>
+<text top="709" left="101" width="123" height="15" font="2">web application. </text>
+<text top="730" left="101" width="201" height="15" font="2">Independent, high demand </text>
+<text top="752" left="101" width="185" height="15" font="2">on the perfectness. Love </text>
+<text top="773" left="101" width="192" height="15" font="2">challenges and exploring  </text>
+<text top="794" left="101" width="141" height="15" font="2">new technologies.  </text>
+<text top="33" left="367" width="202" height="28" font="1"><b>EXPERIENCE </b></text>
+<text top="97" left="364" width="280" height="19" font="6"><b>SENIOR JAVA DEVELOPER </b></text>
+<text top="93" left="644" width="83" height="23" font="6"><b>– TEAM </b></text>
+<text top="124" left="364" width="265" height="19" font="6"><b>LEADER, Formos Co., Ltd </b></text>
+<text top="147" left="364" width="121" height="15" font="2">May 2014 - now </text>
+<text top="195" left="364" width="432" height="19" font="6"><b>JAVA DEVELOPER, Cosatech Vietnam Co., </b></text>
+<text top="222" left="364" width="38" height="19" font="6"><b>Ltd </b></text>
+<text top="246" left="364" width="171" height="15" font="2">June 2013 - April 2014 </text>
+<text top="397" left="365" width="185" height="28" font="1"><b>EDUCATION </b></text>
+<text top="453" left="364" width="76" height="18" font="7"><b>DIPLOMA </b></text>
+<text top="476" left="364" width="134" height="17" font="8"><b>Hoa Sen University </b></text>
+<text top="476" left="497" width="95" height="17" font="9">— 2007-2011 </text>
+<text top="515" left="365" width="77" height="15" font="10"><b>DIPLOMA </b></text>
+<text top="538" left="365" width="288" height="14" font="11"><b>NIIT Institute of Information Technology </b></text>
+<text top="535" left="653" width="95" height="17" font="12">— 2007-2010 </text>
+<text top="292" left="364" width="430" height="19" font="6"><b>JAVA DEVELOPER, NTT Data Vietnam Co., </b></text>
+<text top="319" left="364" width="38" height="19" font="6"><b>Ltd </b></text>
+<text top="344" left="364" width="122" height="15" font="2">November 2011 </text>
+<text top="341" left="486" width="91" height="18" font="2">– May 2013 </text>
+<text top="588" left="365" width="115" height="28" font="1"><b>SKILLS </b></text>
+<text top="642" left="364" width="288" height="19" font="6"><b>LANGUAGES AND SCRIPTS </b></text>
+<text top="672" left="364" width="401" height="15" font="2">Java, HTML, Javascript, JQuery, Angular JS, Node JS </text>
+<text top="712" left="364" width="161" height="19" font="6"><b>FRAMEWORKS </b></text>
+<text top="741" left="364" width="432" height="15" font="2">Spring, Hibernate, Tapestry, Struts, iBatis, myBatis, Spring </text>
+<text top="763" left="364" width="85" height="15" font="2">HATEOUS </text>
+<text top="801" left="364" width="161" height="19" font="6"><b>WEB SERVERS </b></text>
+<text top="831" left="364" width="186" height="15" font="2">Tomcat, Jetty, GlassFish </text>
+<text top="872" left="364" width="226" height="20" font="6"><b>DATABASE SERVERS </b></text>
+<text top="902" left="364" width="263" height="15" font="2">MS SQL, MySQL, Postgres, Oracle </text>
+<text top="946" left="364" width="418" height="20" font="6"><b>CONFIGURATION MANAGEMENT TOOLS </b></text>
+<text top="975" left="364" width="182" height="15" font="2">Gradle, Maven, JHispter </text>
+<text top="1018" left="364" width="93" height="19" font="6"><b>OTHERS </b></text>
+<text top="1047" left="364" width="399" height="15" font="2">JSP, EJB, Servlet, Web Service, Elastic Search, CSS, </text>
+<text top="1069" left="364" width="49" height="15" font="2">SCSS </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1170" width="810">
+	<fontspec id="13" size="14" family="Arial,BoldItalic" color="#000000"/>
+	<fontspec id="14" size="14" family="Arial" color="#0462c1"/>
+	<fontspec id="15" size="14" family="Symbol" color="#000000"/>
+<text top="951" left="836" width="0" height="18" font="0">D</text>
+<text top="962" left="836" width="0" height="18" font="0">esign</text>
+<text top="1000" left="836" width="0" height="18" font="0">ed</text>
+<text top="1019" left="836" width="0" height="22" font="0"> b</text>
+<text top="1032" left="836" width="0" height="18" font="0">y </text>
+<text top="1044" left="836" width="0" height="18" font="0">Sh</text>
+<text top="1062" left="836" width="0" height="18" font="0">o</text>
+<text top="1071" left="836" width="0" height="18" font="0">w</text>
+<text top="1084" left="836" width="0" height="18" font="0">ee</text>
+<text top="1102" left="836" width="0" height="24" font="0">t.c</text>
+<text top="1120" left="836" width="0" height="18" font="0">o</text>
+<text top="1129" left="836" width="0" height="18" font="0">m</text>
+<text top="1144" left="836" width="0" height="18" font="0"> </text>
+<text top="21" left="73" width="327" height="28" font="1"><b>WORKING PROJECTS </b></text>
+<text top="83" left="74" width="319" height="14" font="11"><b>POWER2PRACTICE HEALTHCARE SYSTEM </b></text>
+<text top="117" left="74" width="114" height="14" font="12">September 2016 </text>
+<text top="114" left="188" width="66" height="17" font="12">– present </text>
+<text top="136" left="115" width="4" height="14" font="13"><i><b> </b></i></text>
+<text top="155" left="74" width="57" height="14" font="11"><b>Website</b></text>
+<text top="155" left="132" width="9" height="14" font="13"><i><b>: </b></i></text>
+<text top="155" left="141" width="207" height="14" font="14"><a href="http://www.power2practice.com/">http://www.power2practice.com</a></text>
+<text top="155" left="348" width="4" height="14" font="12"><a href="http://www.power2practice.com/"> </a></text>
+<text top="174" left="74" width="132" height="14" font="11"><b>Project Overview: </b></text>
+<text top="174" left="207" width="599" height="14" font="12">Power2Practice is an essential software solution designed for Integrative and Functional </text>
+<text top="194" left="74" width="732" height="14" font="12">Medicine. The platform includes a robust EMR and intuitive patient portal along with practice management and </text>
+<text top="213" left="74" width="450" height="14" font="12">clinical support tools that were designed to support Integrative care. </text>
+<text top="232" left="74" width="133" height="14" font="11"><b>Project Team Size:</b></text>
+<text top="232" left="207" width="25" height="14" font="12"> 10 </text>
+<text top="252" left="74" width="46" height="14" font="11"><b>Roles:</b></text>
+<text top="252" left="120" width="97" height="14" font="12"> Team Leader </text>
+<text top="271" left="74" width="4" height="14" font="12"> </text>
+<text top="290" left="74" width="124" height="14" font="11"><b>Responsibilities: </b></text>
+<text top="305" left="74" width="7" height="18" font="15"></text>
+<text top="309" left="115" width="481" height="14" font="12">Manage and assign tickets on JIRA to another team members everyday. </text>
+<text top="324" left="74" width="7" height="18" font="15"></text>
+<text top="329" left="115" width="552" height="14" font="12">Join in the technical and business discussion with onshore team in the daily scrum. </text>
+<text top="344" left="74" width="7" height="18" font="15"></text>
+<text top="348" left="115" width="692" height="14" font="12">Participate in the SDLC  of software application; contribute to the design, development and maintenance </text>
+<text top="367" left="115" width="143" height="14" font="12">of software products. </text>
+<text top="382" left="74" width="7" height="18" font="15"></text>
+<text top="386" left="115" width="644" height="14" font="12">Support team members about the business flow of system as well as the difficult technical points. </text>
+<text top="406" left="115" width="4" height="14" font="12"> </text>
+<text top="425" left="74" width="106" height="14" font="11"><b>Technologies: </b></text>
+<text top="440" left="74" width="7" height="18" font="15"></text>
+<text top="444" left="115" width="331" height="14" font="12">Front End: HTML, Javascript, JQuery, CSS, Ajax. </text>
+<text top="459" left="74" width="7" height="18" font="15"></text>
+<text top="463" left="115" width="72" height="14" font="12">Back End: </text>
+<text top="483" left="115" width="5" height="14" font="12">-</text>
+<text top="483" left="135" width="223" height="14" font="12">Framework: Hibernate, Tapestry. </text>
+<text top="502" left="115" width="5" height="14" font="12">-</text>
+<text top="502" left="135" width="195" height="14" font="12">Web server: Tomcat 8, Jetty. </text>
+<text top="521" left="115" width="5" height="14" font="12">-</text>
+<text top="521" left="135" width="304" height="14" font="12">Report: Jasper Report, Docmosis, wkhtmltox. </text>
+<text top="540" left="115" width="5" height="14" font="12">-</text>
+<text top="540" left="135" width="274" height="14" font="12">Configuration Management Tool: Maven. </text>
+<text top="555" left="74" width="7" height="18" font="15"></text>
+<text top="560" left="115" width="139" height="14" font="12">Database: Postgres. </text>
+<text top="579" left="135" width="4" height="14" font="12"> </text>
+<text top="617" left="73" width="86" height="14" font="11"><b>NOAPPFEE </b></text>
+<text top="637" left="73" width="83" height="14" font="12">March 2016 </text>
+<text top="634" left="155" width="127" height="17" font="12">– September 2016 </text>
+<text top="656" left="73" width="8" height="14" font="12">  </text>
+<text top="675" left="73" width="57" height="14" font="11"><b>Website</b></text>
+<text top="675" left="130" width="9" height="14" font="13"><i><b>:<a href="https://noappfee.com/"> </a></b></i></text>
+<text top="675" left="139" width="139" height="14" font="14"><a href="https://noappfee.com/">https://noappfee.com</a></text>
+<text top="675" left="279" width="4" height="14" font="12"><a href="https://noappfee.com/"> </a></text>
+<text top="695" left="73" width="132" height="14" font="11"><b>Project  Overview: </b></text>
+<text top="695" left="206" width="599" height="14" font="12">This  website  helps  renter finding  their  dream  house. This  website  also  provides  service </text>
+<text top="714" left="73" width="733" height="14" font="12">pulling background check, screening you against every  vacancy in pour database, and shows  you all of the </text>
+<text top="733" left="73" width="220" height="14" font="12">rental units for which you qualify. </text>
+<text top="752" left="73" width="133" height="14" font="11"><b>Project Team Size:</b></text>
+<text top="752" left="205" width="16" height="14" font="12"> 7 </text>
+<text top="772" left="73" width="46" height="14" font="11"><b>Roles:</b></text>
+<text top="772" left="118" width="123" height="14" font="12"> Technical Leader </text>
+<text top="791" left="73" width="4" height="14" font="12"> </text>
+<text top="810" left="73" width="124" height="14" font="11"><b>Responsibilities: </b></text>
+<text top="827" left="73" width="733" height="17" font="12">• Work in the tight deadline meet many difficulty at the first time since all team have no knowledge about </text>
+<text top="849" left="93" width="169" height="14" font="12">JHipster and Angular JS. </text>
+<text top="865" left="73" width="728" height="17" font="12">• Build the basement of the application and then support other team members continue development on this. </text>
+<text top="884" left="73" width="301" height="17" font="12">• Propose best practices to team members. </text>
+<text top="904" left="73" width="465" height="17" font="12">• Doing code review and code optimization for other team members. </text>
+<text top="923" left="73" width="557" height="17" font="12">• Support PM on the technical issue and analyze business workflow of the system. </text>
+<text top="945" left="93" width="4" height="14" font="12"> </text>
+<text top="964" left="73" width="106" height="14" font="11"><b>Technologies: </b></text>
+<text top="979" left="73" width="7" height="18" font="15"></text>
+<text top="984" left="113" width="599" height="14" font="12">Front End: HTML, Bootstrap , Javascript, JQuery, CSS, SCSS, Ajax, Angular JS, NodeJS. </text>
+<text top="999" left="73" width="7" height="18" font="15"></text>
+<text top="1003" left="113" width="72" height="14" font="12">Back End: </text>
+<text top="1022" left="113" width="5" height="14" font="12">-</text>
+<text top="1022" left="133" width="247" height="14" font="12">Framework: Spring HATEOUS, JPA. </text>
+<text top="1041" left="113" width="5" height="14" font="12">-</text>
+<text top="1041" left="133" width="195" height="14" font="12">Web server: Tomcat 8, Jetty. </text>
+<text top="1061" left="113" width="5" height="14" font="12">-</text>
+<text top="1061" left="133" width="196" height="14" font="12">Report: Jasper Report, iText. </text>
+<text top="1080" left="113" width="5" height="14" font="12">-</text>
+<text top="1080" left="133" width="375" height="14" font="12">Configuration Management Tool: JHipster, Gulp, Bower. </text>
+<text top="1099" left="113" width="5" height="14" font="12">-</text>
+<text top="1099" left="133" width="159" height="14" font="12">Other: Google Map API </text>
+<text top="1114" left="73" width="7" height="18" font="15"></text>
+<text top="1118" left="113" width="126" height="14" font="12">Database: MySQL </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1170" width="810">
+<text top="951" left="836" width="0" height="18" font="0">D</text>
+<text top="962" left="836" width="0" height="18" font="0">esign</text>
+<text top="1000" left="836" width="0" height="18" font="0">ed</text>
+<text top="1019" left="836" width="0" height="22" font="0"> b</text>
+<text top="1032" left="836" width="0" height="18" font="0">y </text>
+<text top="1044" left="836" width="0" height="18" font="0">Sh</text>
+<text top="1062" left="836" width="0" height="18" font="0">o</text>
+<text top="1071" left="836" width="0" height="18" font="0">w</text>
+<text top="1084" left="836" width="0" height="18" font="0">ee</text>
+<text top="1102" left="836" width="0" height="24" font="0">t.c</text>
+<text top="1120" left="836" width="0" height="18" font="0">o</text>
+<text top="1129" left="836" width="0" height="18" font="0">m</text>
+<text top="1144" left="836" width="0" height="18" font="0"> </text>
+<text top="21" left="73" width="327" height="28" font="1"><b>WORKING PROJECTS </b></text>
+<text top="88" left="74" width="116" height="14" font="11"><b>DISCOVERORG </b></text>
+<text top="109" left="74" width="83" height="14" font="12">March 2015 </text>
+<text top="106" left="157" width="114" height="17" font="12">– February 2016 </text>
+<text top="128" left="115" width="4" height="14" font="13"><i><b> </b></i></text>
+<text top="147" left="74" width="57" height="14" font="11"><b>Website</b></text>
+<text top="147" left="132" width="9" height="14" font="13"><i><b>: </b></i></text>
+<text top="147" left="141" width="159" height="14" font="14"><a href="https://discoverorg.com/">https://discoverorg.com/</a></text>
+<text top="147" left="300" width="4" height="14" font="12"><a href="https://discoverorg.com/"> </a></text>
+<text top="167" left="74" width="138" height="14" font="11"><b>Project  Overview: </b></text>
+<text top="167" left="220" width="586" height="14" font="12">Best-in-class  sales  intelligence  platform  that  helps  sales,  marketing  andstaffing </text>
+<text top="185" left="74" width="732" height="14" font="12">professionals sell smarter and more effectively. Its datasets contain accurate and comprehensive intel on the </text>
+<text top="203" left="74" width="433" height="14" font="12">IT,  Finance  and  Marketing  decision  makers  at  some  of  the </text>
+<text top="200" left="512" width="294" height="17" font="12">world’s  leading  companies.  Besides  that, </text>
+<text top="221" left="74" width="732" height="14" font="12">seamlessly  integrates  with  Salesforce,  Marketo  and  other  leading  sales  and  marketing  platforms  for  added </text>
+<text top="239" left="74" width="161" height="14" font="12">value and convenience. </text>
+<text top="257" left="74" width="133" height="14" font="11"><b>Project Team Size:</b></text>
+<text top="257" left="207" width="16" height="14" font="12"> 5 </text>
+<text top="275" left="74" width="46" height="14" font="11"><b>Roles:</b></text>
+<text top="275" left="120" width="165" height="14" font="12"> Senior JAVA Developer </text>
+<text top="294" left="74" width="4" height="14" font="12"> </text>
+<text top="313" left="74" width="124" height="14" font="11"><b>Responsibilities: </b></text>
+<text top="313" left="200" width="606" height="14" font="12">Working  on  JIRA  tickets,  every  ticket  will  have  detailed  description  as  requirement  from </text>
+<text top="332" left="74" width="217" height="14" font="12">customer. For every ticket, I will: </text>
+<text top="347" left="74" width="7" height="18" font="15"></text>
+<text top="352" left="115" width="692" height="14" font="12">Coding  function  for  backend  processes  and  calling  as  web  service;  write  data  mappers  for  querying, </text>
+<text top="371" left="115" width="654" height="14" font="12">updating, inserting or deleting data; create service, controller for passing &amp; receiving AJAX request </text>
+<text top="386" left="74" width="7" height="18" font="15"></text>
+<text top="390" left="115" width="692" height="14" font="12">Creating  directives  for  common  component,  which  helps  easily  maintenance,  optimization  and  high </text>
+<text top="410" left="115" width="159" height="14" font="12">reusability in the future. </text>
+<text top="425" left="74" width="7" height="18" font="15"></text>
+<text top="429" left="115" width="454" height="14" font="12">Update UI Layout, Bootstrap for faster and easier web development. </text>
+<text top="444" left="74" width="7" height="18" font="15"></text>
+<text top="448" left="115" width="185" height="14" font="12">Supported junior members. </text>
+<text top="463" left="74" width="7" height="18" font="15"></text>
+<text top="467" left="115" width="400" height="14" font="12">Contribute in the design and maintenance of the application. </text>
+<text top="487" left="74" width="4" height="14" font="12"> </text>
+<text top="506" left="74" width="106" height="14" font="11"><b>Technologies: </b></text>
+<text top="521" left="74" width="7" height="18" font="15"></text>
+<text top="525" left="115" width="595" height="14" font="12">Front End: HTML, Bootstrap, Javascript, JQuery, CSS, SCSS, Ajax, Angular JS, NodeJS. </text>
+<text top="540" left="74" width="7" height="18" font="15"></text>
+<text top="544" left="115" width="72" height="14" font="12">Back End: </text>
+<text top="564" left="115" width="5" height="14" font="12">-</text>
+<text top="564" left="135" width="272" height="14" font="12">Framework: Spring HATEOUS, myBatis. </text>
+<text top="583" left="115" width="5" height="14" font="12">-</text>
+<text top="583" left="135" width="195" height="14" font="12">Web server: Tomcat 8, Jetty. </text>
+<text top="602" left="115" width="5" height="14" font="12">-</text>
+<text top="602" left="135" width="375" height="14" font="12">Configuration Management Tool: JHipster, Gulp, Bower. </text>
+<text top="621" left="115" width="5" height="14" font="12">-</text>
+<text top="621" left="135" width="149" height="14" font="12">Other: Elastic Search. </text>
+<text top="636" left="74" width="7" height="18" font="15"></text>
+<text top="641" left="115" width="130" height="14" font="12">Database: MySQL. </text>
+<text top="689" left="73" width="72" height="14" font="11"><b>JHKELLY </b></text>
+<text top="710" left="73" width="70" height="14" font="12">May 2014 </text>
+<text top="707" left="143" width="107" height="17" font="12">– October 2015 </text>
+<text top="729" left="114" width="4" height="14" font="13"><i><b> </b></i></text>
+<text top="748" left="73" width="57" height="14" font="11"><b>Website</b></text>
+<text top="748" left="131" width="9" height="14" font="13"><i><b>: </b></i></text>
+<text top="748" left="140" width="159" height="14" font="14"><a href="https://www.jhkelly.com/">https://www.jhkelly.com/</a></text>
+<text top="748" left="299" width="4" height="14" font="12"><a href="https://www.jhkelly.com/"> </a></text>
+<text top="768" left="73" width="131" height="14" font="11"><b>Project Overview: </b></text>
+<text top="768" left="204" width="593" height="14" font="12">One of the largest industrial mechanical contractors in the nation. It is a fourth generation, </text>
+<text top="787" left="73" width="699" height="14" font="12">family-owned construction firm that provides mechanical services to commercial facility owners while also </text>
+<text top="806" left="73" width="684" height="14" font="12">acting as a self-performing industrial general contractor at process plants throughout the greater Pacific </text>
+<text top="825" left="73" width="75" height="14" font="12">Northwest. </text>
+<text top="845" left="73" width="133" height="14" font="11"><b>Project Team Size:</b></text>
+<text top="845" left="206" width="16" height="14" font="12"> 4 </text>
+<text top="863" left="73" width="46" height="14" font="11"><b>Roles:</b></text>
+<text top="863" left="119" width="165" height="14" font="12"> Senior JAVA Developer </text>
+<text top="882" left="73" width="4" height="14" font="12"> </text>
+<text top="901" left="73" width="120" height="14" font="11"><b>Responsibilities:</b></text>
+<text top="901" left="193" width="4" height="14" font="12"> </text>
+<text top="916" left="73" width="7" height="18" font="15"></text>
+<text top="920" left="114" width="254" height="14" font="12">Fixing bugs as customer requirement. </text>
+<text top="935" left="73" width="7" height="18" font="15"></text>
+<text top="940" left="114" width="379" height="14" font="12">Optimize codes as well as update some related features. </text>
+<text top="959" left="73" width="4" height="14" font="12"> </text>
+<text top="978" left="73" width="106" height="14" font="11"><b>Technologies: </b></text>
+<text top="993" left="73" width="7" height="18" font="15"></text>
+<text top="997" left="114" width="331" height="14" font="12">Front End: HTML, Javascript, JQuery, CSS, Ajax. </text>
+<text top="1012" left="73" width="7" height="18" font="15"></text>
+<text top="1017" left="114" width="72" height="14" font="12">Back End: </text>
+<text top="1036" left="114" width="5" height="14" font="12">-</text>
+<text top="1036" left="134" width="223" height="14" font="12">Framework: Tapestry, Hibernate. </text>
+<text top="1055" left="114" width="5" height="14" font="12">-</text>
+<text top="1055" left="134" width="195" height="14" font="12">Web server: Tomcat 6, Jetty. </text>
+<text top="1074" left="114" width="5" height="14" font="12">-</text>
+<text top="1074" left="134" width="274" height="14" font="12">Configuration Management Tool: Maven. </text>
+<text top="1089" left="73" width="7" height="18" font="15"></text>
+<text top="1094" left="114" width="137" height="14" font="12">Database: MS SQL. </text>
+<text top="1109" left="73" width="7" height="18" font="15"></text>
+<text top="1113" left="114" width="246" height="14" font="12">Other: C#, ASP .NET, Telerik, LINQ. </text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1170" width="810">
+<text top="951" left="836" width="0" height="18" font="0">D</text>
+<text top="962" left="836" width="0" height="18" font="0">esign</text>
+<text top="1000" left="836" width="0" height="18" font="0">ed</text>
+<text top="1019" left="836" width="0" height="22" font="0"> b</text>
+<text top="1032" left="836" width="0" height="18" font="0">y </text>
+<text top="1044" left="836" width="0" height="18" font="0">Sh</text>
+<text top="1062" left="836" width="0" height="18" font="0">o</text>
+<text top="1071" left="836" width="0" height="18" font="0">w</text>
+<text top="1084" left="836" width="0" height="18" font="0">ee</text>
+<text top="1102" left="836" width="0" height="24" font="0">t.c</text>
+<text top="1120" left="836" width="0" height="18" font="0">o</text>
+<text top="1129" left="836" width="0" height="18" font="0">m</text>
+<text top="1144" left="836" width="0" height="18" font="0"> </text>
+<text top="21" left="73" width="327" height="28" font="1"><b>WORKING PROJECTS </b></text>
+<text top="88" left="74" width="49" height="14" font="11"><b>MONE </b></text>
+<text top="109" left="74" width="68" height="14" font="12">July 2013 </text>
+<text top="106" left="142" width="82" height="17" font="12">– May 2014 </text>
+<text top="128" left="115" width="4" height="14" font="13"><i><b> </b></i></text>
+<text top="148" left="74" width="133" height="14" font="11"><b>Project  Overview: </b></text>
+<text top="148" left="209" width="597" height="14" font="12">CBOE  (Chicago  Board  Option  Exchange)  -  the  world's  largest  options  exchange  &amp;  the </text>
+<text top="166" left="74" width="732" height="14" font="12">leader  in  product  innovation,  options  education  and  trading  volume. The main  target  of  this  project  is  catch </text>
+<text top="184" left="74" width="479" height="14" font="12">exceptions and violations for CBOE (Chicago Board Option Exchange).. </text>
+<text top="202" left="74" width="133" height="14" font="11"><b>Project Team Size:</b></text>
+<text top="202" left="207" width="25" height="14" font="12"> 10 </text>
+<text top="219" left="74" width="46" height="14" font="11"><b>Roles:</b></text>
+<text top="219" left="120" width="165" height="14" font="12"> Senior JAVA Developer </text>
+<text top="239" left="74" width="4" height="14" font="12"> </text>
+<text top="258" left="74" width="120" height="14" font="11"><b>Responsibilities:</b></text>
+<text top="258" left="194" width="4" height="14" font="12"> </text>
+<text top="273" left="74" width="7" height="18" font="15"></text>
+<text top="277" left="115" width="692" height="14" font="12">Create  SQL  batch  using  Oracle  Database  for  checking  exception  in  stock  and  option  exchange </text>
+<text top="296" left="115" width="89" height="14" font="12">transactions. </text>
+<text top="311" left="74" width="7" height="18" font="15"></text>
+<text top="316" left="115" width="425" height="14" font="12">Develop code to display exceptions for the customers to review. </text>
+<text top="331" left="74" width="7" height="18" font="15"></text>
+<text top="335" left="115" width="692" height="14" font="12">Create  all  of  software  design  documents  from  Functional  Specification  Document,  Technical  Design </text>
+<text top="354" left="115" width="85" height="14" font="12">Document... </text>
+<text top="369" left="74" width="7" height="18" font="15"></text>
+<text top="374" left="115" width="378" height="14" font="12">Create test plans and test cases for both Batch and GUI. </text>
+<text top="389" left="74" width="7" height="18" font="15"></text>
+<text top="393" left="115" width="692" height="14" font="12">Join  code  review  meeting  frequently  and  discuss  with  team  members  to  optimize  coding  in  order  to </text>
+<text top="412" left="115" width="46" height="14" font="12">satisfy </text>
+<text top="409" left="161" width="172" height="17" font="12">customer’s requirements. </text>
+<text top="431" left="74" width="4" height="14" font="12"> </text>
+<text top="451" left="74" width="106" height="14" font="11"><b>Technologies: </b></text>
+<text top="466" left="74" width="7" height="18" font="15"></text>
+<text top="470" left="115" width="123" height="14" font="12">Front End: HTML. </text>
+<text top="485" left="74" width="7" height="18" font="15"></text>
+<text top="489" left="115" width="72" height="14" font="12">Back End: </text>
+<text top="508" left="115" width="5" height="14" font="12">-</text>
+<text top="508" left="135" width="424" height="14" font="12">Framework: Struts, Spring, CORBA (IDL Language), Hibernate. </text>
+<text top="528" left="115" width="5" height="14" font="12">-</text>
+<text top="528" left="135" width="155" height="14" font="12">Web server: Tomcat 6. </text>
+<text top="547" left="115" width="5" height="14" font="12">-</text>
+<text top="547" left="135" width="274" height="14" font="12">Configuration Management Tool: Maven. </text>
+<text top="562" left="74" width="7" height="18" font="15"></text>
+<text top="566" left="115" width="124" height="14" font="12">Database: Oracle. </text>
+<text top="618" left="74" width="237" height="14" font="11"><b>HOUSE MANAGEMENT SYSTEM </b></text>
+<text top="639" left="74" width="83" height="14" font="12">March 2012 </text>
+<text top="636" left="157" width="95" height="17" font="12">– March 2013 </text>
+<text top="658" left="74" width="4" height="14" font="13"><i><b> </b></i></text>
+<text top="677" left="74" width="131" height="14" font="11"><b>Project Overview: </b></text>
+<text top="677" left="204" width="272" height="14" font="12">Manage projects and construction plans. </text>
+<text top="697" left="74" width="133" height="14" font="11"><b>Project Team Size:</b></text>
+<text top="697" left="207" width="16" height="14" font="12"> 7 </text>
+<text top="715" left="74" width="46" height="14" font="11"><b>Roles:</b></text>
+<text top="715" left="120" width="118" height="14" font="12"> JAVA Developer </text>
+<text top="734" left="74" width="4" height="14" font="12"> </text>
+<text top="753" left="74" width="120" height="14" font="11"><b>Responsibilities:</b></text>
+<text top="753" left="194" width="4" height="14" font="12"> </text>
+<text top="768" left="74" width="7" height="18" font="15"></text>
+<text top="772" left="115" width="254" height="14" font="12">Fixing bugs as customer requirement. </text>
+<text top="787" left="74" width="7" height="18" font="15"></text>
+<text top="792" left="115" width="379" height="14" font="12">Optimize codes as well as update some related features. </text>
+<text top="811" left="74" width="4" height="14" font="12"> </text>
+<text top="830" left="74" width="106" height="14" font="11"><b>Technologies: </b></text>
+<text top="845" left="74" width="7" height="18" font="15"></text>
+<text top="849" left="115" width="403" height="14" font="12">Front End: HTML, Bootstrap, Javascript, JQuery, CSS, Ajax. </text>
+<text top="864" left="74" width="7" height="18" font="15"></text>
+<text top="869" left="115" width="72" height="14" font="12">Back End: </text>
+<text top="888" left="115" width="5" height="14" font="12">-</text>
+<text top="888" left="135" width="336" height="14" font="12">Framework: Terasoluna (Spring, Struts and iBatis) </text>
+<text top="907" left="115" width="5" height="14" font="12">-</text>
+<text top="907" left="135" width="155" height="14" font="12">Report: Jasper Report. </text>
+<text top="927" left="115" width="5" height="14" font="12">-</text>
+<text top="927" left="135" width="155" height="14" font="12">Web server: Tomcat 6. </text>
+<text top="942" left="74" width="7" height="18" font="15"></text>
+<text top="946" left="115" width="137" height="14" font="12">Database: MS SQL. </text>
+</page>
+</pdf2xml>

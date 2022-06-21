@@ -1,0 +1,42 @@
+CV 
+Personal information 
+o Name: NGUYỄN CHẤN HƯNG 
+o Email: hungnc93@gmail.com 
+o Phone: 01668.789.781 
+o Address: 497 Hòa Hảo Street, Ward 7, District 10, Hồ Chí Minh City 
+Education 
+2011 – at present: 
+o Study at : Ho Chi Minh University of Technology 
+o Major: Computer Science & Engineering. 
+o Subjects I learned: 
+Discrete Mathematics 1 & 2 
+Programming Fundamentals 
+Data Structures and Algorithms 
+Web Programming 
+Computer Architecture 
+Operating Systems 
+Image processing and computer vision 
+o Some assignments were completed by me : 
+Design website for real property 
+Design network for company 
+Create an Android application for image processing on OpenCV 
+Create an Java application for transfer file by Peer – to – Peer Mode 
+o Now I’m doing Graduation Exercise for graduate about Network: Research about SDN 
+System and implement Flow Balancing Application on OpenDayLight Controller. And 
+my assignment is coded by Java 
+Skill 
+Programming Language: 
+o Best language: Java, C/C++, Android. 
+o Other languages I aslo work with: HTML,CSS,JavaScript,PHP,SQL,.... 
+English Skill 
+o TOEIC 670 
+o Can read and understand English documents 
+Others 
+o Basic Japanese 
+Achievement 
+o GPA: 8.20 
+o I am awarded scholorship every semester by my university 
+o I was awarded a certificate for outstanding students in 2013 – 2014 school year 
+Social Activities 
+o Summer Volunteer 2013 
+o Join some program to help the community 

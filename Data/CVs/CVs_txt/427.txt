@@ -1,0 +1,89 @@
+ 
+www.linkedin.com/in/trannammai 
+Page 1 | 2 
+Tran Nam-Mai (Mr.) 
+Vietnamese, 24 years old 
+Mobile: (+33) 6 16 44 25 51 | Email: tnmai0709@gmail.com 
+Address: Toulouse, France 
+Objective: 
+Applying for Data Sciences Internship (Machine Learning) 
+Availability:  05 months, starting from April 2018 
+< Internship agreement (Convention de stage) is available upon request > 
+WORK EXPERIENCE 
+Full Time, Business Analyst 
+07.2016 – 08.2017 
+Structured Business Group 
+Structured Business Group is a consulting firm in Vietnam which helps clients develop operational 
+structures to fix issues, improve efficiency, grow operations and tackle new challenges. 
+* Main responsibilities  Coordinate with clients to get requirements, design flow charts and Gantt charts  Collect, validate, sanitize and structure data in preparation for research and data analysis  Design database and use SQL in MS Access to query data upon instruction of project manager  Package the findings in communicable and easily understandable units via graphs, charts, papers  Communicate the deliverables to clients and report to senior business analysts and project manager 
+* Major clients & projects:  
+Maison Jsc (A re-owned fashion retail management company in Vietnam) 
+(1) Analyze salary gap and design policy for promotion and salary raised for excellent employee 
+(2) Re-structure KPI & year-end bonus scheme for store staff and back office staff 
+(3) Optimize working hours for store staff and part-time salesmen 
+(4) Design database of role & responsibility to improve recruitment process using SQL 
+Trainee, Claims & Risk Consulting 
+05.2015 – 07.2016 
+Jardine Lloyd Thompson Ltd. 
+Jardine Lloyd Thompson is one of the world's leading providers of insurance, reinsurance and employee 
+benefits related advice, brokerage and associated services.  
+* Main responsibilities  Understand insurance policy and advise clients on claim procedures, negotiating with insurance 
+companies and loss adjusters then follow up projects using MS Project Gantt Chart & Trello  Extract information from SFDC and compile weekly, monthly reports using MS Excel, MS Power Point  Assist the Claims & Risk Consulting Director in drafting risk management service proposals  Some type of insurance contracts that I handled: construction all risks, employee fidelity, marine 
+cargo, casualty, healthcare, property all risks. 
+Part-time Intern, Project Management 
+05.2014 – 08.2014 
+FNBC 
+FBNC is a Vietnamese television channel specializing in economics, finance and business news. 
+* Main responsibilities  
+Assist in collect data for multiple projects and draft research report  
+Assist in analyzing, forecasting and research to deliver input, management summary 
+www.linkedin.com/in/trannammai 
+Page 2 | 2 
+EDUCATION 
+Toulouse School of Economics 
+09.2017 – present 
+Master in Statistics & Applied Econometrics 
+Expected graduation: 12.2019 
+* Projects during the courses: 
+(1) Decomposition analysis with quantile regression 
+(2) Evaluation of the usability of dplyr, tidyr and lubridate in R 
+(3) The possible impact of Airbnb on Ellis Act Eviction rates in California by spatial panel regression 
+(4) Machine learning challenge: Prediction of transaction claims status by PriceMinister Rakuten 
+(5) Apply PCA, k-means clustering and discriminant analysis in sectioning customers for banks 
+French University Pole of Vietnam – Toulouse 1 Capitole University  
+09.2012 – 05.2015 
+Bachelor in Economics & Management, with Distinction (on average: 15.7 /20) 
+ACHIEVEMENTS 
+(1) Two scholarship of merits (top 3) by the French University Pole 
+(2) Odon Vallet Scholarship 2017 – 2019 by The Vallet Foundation 
+COMPUTER SKILLS 
+R (Proficient) 
+SQL (Proficient)  
+SAS (Proficient)  
+MS Excel (Proficient) 
+Gantt Chart (Proficient)  
+Python (Basic) 
+LANGUAGE 
+English:  
+Fluently spoken, read, written (IELTS 7.0) 
+French:  
+Limited working proficiency (DELF B1) 
+Vietnamese:  
+Native 
+SELF-STUDY (MOOC COURSES) 
+Data Camp: 
+(1) Introduction to SQL for Data Scientist 
+Completed 
+(2) Introduction to R Programming for Data Scientist 
+Completed 
+(3) Data Sciences with Python (career track) 
+On-going 
+REFERENCES 
+Mr. Kynam Doan – Consulting Principal at Structured Business Group, Vietnam 
+Email:   
+kynam@structuredbusinessgroup.com 
+Linkedin:  
+linkedin.com/in/kynamdoan 
+Mr. Jean Louis Guy – Associate Professor at Toulouse School of Economics, France 
+Email:   
+jean-louis.guy@tse-fr.eu 

@@ -1,0 +1,171 @@
+ 
+OBJECTIVE 
+Become a specialist in AI field within 5 years after graduation 
+EDUCATION 
+Industrial University Of Hochiminh City 
+Major: Software Engineering 
+Aug 2014  Aug 2018 
+GPA: 2.89/4 
+CERTIFICATIONS 
+Intership certificate 
+Certificate on the job training at the FPT software 
+English 
+Toeic 635 
+WORK EXPERIENCE 
+Facebook Fanpage Management 
+Part-time editor 
+Sep 2016  Feb 2017 
+− Edit videos, pictures, articles 
+− Using Facebook Analytics, Google Analytics to 
+analyzes user interaction 
+SKILLS 
+Hard skills: 
+− 
+C#, ASP.NET MVC 
+− 
+HTML5, CSS3, Javascript, Responsive Web Design, AJAX 
+− 
+SQL Server, NoSQL, OOP 
+− 
+Java 
+− 
+Android 
+− 
+Firebase 
+Phan Phuc Tho 
+Junior Developer 
+LongAn, VietNam 
+phanphuctho7760@gmail.com 
+01243052080 
+− 
+Python, Django 
+− 
+3D: ZBrush, Maya 
+Soft skills: 
+− 
+Self-Motivation 
+− 
+Responsibility 
+− 
+Teamwork 
+− 
+Problem Solving 
+INTERESTS 
+− 
+Read newspapers  See daily tech news 
+− 
+Graphic Design – Make animated movies, photos 
+− 
+Sport 
+PROJECTS 
+Management software for feed supply (Aug 2016  Nov 2016) 
+Description: Management software for supplying resources 
+Team size: 2 
+My position: Team leader, Developer 
+My responsibilities: 
+− 
+Planning 
+− 
+Analyze and design 
+− 
+Design the theme 
+− 
+Write code 
+− 
+Testing 
+Technologies used: 
+− 
+Java 
+− 
+N-Tier architecture 
+− 
+Eclipse software 
+− 
+JavaFX framework  
+Website bug tracker (Dec 2016  May 2017) 
+Description: Manage bugs by project, manage bugs according to company, testers 
+Team size: 1 
+My position: Team leader, Developer 
+My responsibilities: 
+− 
+Planning 
+− 
+Analyze and design 
+− 
+Design the theme 
+− 
+Write code 
+− 
+Testing 
+Technologies used: 
+− 
+C# 
+− 
+N-Tier architecture 
+− 
+Visual Studio 2015 
+− 
+Entity framework 
+Video Rental Store System (Aug 2017  Nov 2017) 
+Description: This app helps clerk of video rental store managevideo disk, customer as well as 
+renting, reserving, returning disks of customers 
+Team size: 4 
+My position: Developer 
+My responsibilities: 
+− 
+Planning 
+− 
+Analyze and design 
+− 
+Design the theme 
+− 
+Write code 
+− 
+Testing 
+Technologies used: 
+− 
+C# 
+− 
+Visual Studio 2017 
+Book management (Dec 2017  Mar 2018) 
+Description: The basic function for data management: book management, book order, 
+reminding email,... Easy maintenance, bug fixes. (Mock Project instructed by trainer Dinh Vu 
+Quoc Trung  Trainer of FPT Software Ho Chi Minh) 
+Team size: 4 
+My position: Developer 
+My responsibilities: 
+− 
+Planning 
+− 
+Analyze and design 
+− 
+Write code 
+− 
+Testing 
+Technologies used: 
+− 
+C# 
+− 
+Visual Studio 2015 
+Food order management software on mobile device (Dec 2017  May 2018) 
+Description: The basic function for data management: staff management, order food, 
+booktable,... Sync between devices and a server quick way. Easy maintenance, bugfixes. 
+Friendly interface, easy to manipulate 
+Team size: 2 
+My position: Developer 
+My responsibilities: 
+− 
+Planning 
+− 
+Analyze and design 
+− 
+Write code 
+− 
+Testing 
+Technologies used: 
+− 
+Java 
+− 
+Firebase 
+− 
+Android Studio 

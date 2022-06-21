@@ -1,0 +1,50 @@
+NGUYEN XUAN TUNG 
+Dong Lan, Ba Diem, Hoc Mon, Ho Chi Minh City 
+Mobile: 0978 099672 
+Email: xuantung2126@gmail.com 
+PROFILE 
+I am a last year Electronics Engineering student at the Ho Chi Minh City 
+University of  Technology. I had completed all subject and ready for a 
+full time job. 
+Strong organizational skills in a variety of situations to achieve deadlines. 
+Have initiative and can work independently or as part of a team. 
+Get on well with people at all levels, easily making good working 
+relationships. 
+Adaptable and quick to learn new skills. 
+EDUCATION 
+Ho Chi Minh City University of  Technology Faculty of  Electrical and 
+Electronics Engineering 
+Major in Electronics – Telecommunication 
+Selected Course: 
+Embeded Systerm Design (7/10) 
+Embeded Systerm Programming (8/10) 
+Applied electronic (7/10) 
+Digital signal processing on FPGA (7/10) 
+Image and speech processing (9.5/10) 
+SCADA (8.5/10) 
+PROJECT 
+Musical keyboard with PIC18F4550 (use MPLAB IDE and PICC 
+Compiler for programming) 
+Temperature Recoder with ARM Cortex M4 TM4C123,  LM35, SD Card 
+and USB. Include firmware (with FreeRTOS for control thread) and 
+Window application (code in C#) 
+Denoise  “salt and pepper”  for image on Android device (use Eclipse 
+IDE) write by Java 
+Tele-control throung Internet: client can control home devices through 
+system include: kit EK-TM4C1294XL of Texas Instruments (that connect 
+to  a PHP server), module PT2262 and PT2272 (RF Transmitter and 
+Receiver), system Relay 220VAC 
+Flappy Bird clone programming in Python 
+Optical alignment system in pick-and-place machines that measure 
+location of  surface-mount devices using image processing by FPGA with 
+peripheral: module camera OV7670, SDRAM, VGA (for LCD screen), 
+RS232 (for communication with computer) 
+COMPUTING AND ENGLISH  SKILLS 
+Applications: MATLAB, OrCAD Capture and Layout, Proteus, 
+Microchip MPLAB, KeilC for ARM, Visual Studio (for C#), Eclipse (for 
+Android application), Quantus II (for FPGA Altera), XAMPP, 
+phpMyadmin. 
+Programming Languages: C/C++, C#, Java, Python, PHP, HTML, 
+JavaScript, MySQL, Verilog. 
+OS: Window, Linux, FreeRTOS 
+TOEIC 565 

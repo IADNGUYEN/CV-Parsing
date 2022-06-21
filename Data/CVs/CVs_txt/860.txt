@@ -1,0 +1,85 @@
+WORK EXPERIENCES 
+Quantitative data analyst at Kantar Millward Brown (3/2017 to 5/2018): 
+Work with a number of multi-national FMCG clients such as FCV, Carlsberg,..in Usage & 
+Attitude, Brand Health Measurement, Advertising Evaluation project and set up project. 
+Conducting deep dive analysis of  dataset to explore the insight of data and making the report.  
+Connecting the information of data to visualize the insight and building the story report of data to 
+present and support client in giving marketing strategy. 
+Developing statistical models such as regression, correspondence, principal component analysis 
+and as well as consult the result and ability to apply it in the reality  
+Quantitative data analyst at VINAMR (11/2015 to 3/2017): 
+Established dashboard by macro excel to reduce 90% in mistakes and save 80% time to input data 
+for each survey project. 
+Cleaned data by using VBA  for each survey to ensure the quality of data  and conducted data 
+processing, regression via SPSS by using syntax mostly  
+Explored the information behind data and convert it into knowledge and wisdom in order to consult 
+client the reality market and what they should do. 
+Coordinated with Project Managers in making and presenting more than three reports whose value 
+were more than one billion for big client. 
+Lead international content and relationship of Extradecoin Project from Token Start (12/2017 to 
+now) 
+Responsibility for each article, email to introduce the project to international. 
+Communicate about the information of the project such as: the features, ICO, …via international 
+forum 
+Building international relationship to finding investment and advisor for Blockchain project. 
+EDUCATION 
+TRẦN THỊ GIÀU 
+Email:giautran124@gmail.com 
+Phone: 0903506617.  Date of birth: 12/4/1993 
+Add: 165/1 Tran Van Dang street , District 3, HCMC 
+Finance at University of Economics Ho Chi Minh city (2011 – 2015). 
+Gain 9/10 score in Autoregressive Conditional Heterokadasticity model project for graduation 
+in the topic of the  impact of the oil fluctuations in the word to stock exchange market in Vietnam  
+GPA 7.67. Top 20% of the best student. 
+Award excellent research paper topic of UEH 
+Exploring statistics by myself to apply for project in working ( 2015 to now ) 
+Project: “ The brand health of Toyota” (2016), The Segmentation of Honda” (2016)  : used 
+assumptions of standard distribution, Histogram plot, Cronbach 'Alpha, PCA, correlation, 
+regression, test hypothesis with SPSS software. 
+Project :” Brand health tracking of FCV” (2017) used assumptions of standard distribution, 
+Histogram plot, Logistic regression  with SPSS 
+ACTIVITIES 
+Main tour guide of Tiger tour  (2015 – 2016) 
+Member of TUE TAM VH CHARITY to (2016 –now) 
+Took part in presentation skill class and gained certificate from Kantar Group (10/2017) 
+Seek funding to for poor children in Mekong delta 
+Build five bridges for poor areas in Vietnam (2016 to current) 
+SKILLS 
+7 IELTS, excellent speaking and writing 
+English 
+Basice speaking Japanese. 
+Superb 
+using 
+function 
+and 
+VBA 
+Microsoft Excel, Word, PowerPoint. 
+Use SPSS proficiently. 
+Ability to use SQL, R,Python in the 
+effective way 
+Good logical thinking and creative thinking 
+Math and business thinking  
+High Teamwork and communication skills 
+Excellent analytical skills, presentation skill 
+Ability to do multiple task and work under high 
+pressure 
+Absolutely having self-learning 
+Investigate the market, competitors and research 
+the status of market to advise business strategies, 
+oriented to develop sustainable markets 
+SOFT SKILLS 
+Studying SQL, Python, R and machine learning by myself and on Data Camp  and Explore via 
+Websites (11/2017 to now ) 
+Applying basic code in Python, R in inputting function from Excel file, editing data function, 
+graph function, Regression analysis, PCA, Correlation coefficients, Statistical description 
+analysis.. 
+Familiar with basic package in python : Numpy, Pandas, Sklearn, matplotlib.pyplot.show 
+Deeply understanding and practicing the method in cleaning data and mining data 
+Ability to think about the Math and conduct Decision tree , KNN, Naïve Bayer, Logistic 
+Regression algorithms in Machine Learning and apply by Python, R.   
+Understanding the pattern of Math in each algorithm 
+Project completed:  
+Applying KNN and Logistic Regression to explore Iris dataset. 
+Applying Decision Tree to explore Zoo dataset from UCI. 
+Applying Naive Bayes to explore Personal, Iris dataset 
+Applying Logistic Regression to explore Bike sharing dataset 

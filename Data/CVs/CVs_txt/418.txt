@@ -1,0 +1,99 @@
+C
+URRICULUM
+V
+ITAE
+PERSONAL DETAILS
+Name
+PHAN DINH VAN
+Nationality 
+Vietnamese
+Date of Birth 
+03/01/1993
+Sex
+Male
+Phone No.
+(84)906 55 0603
+Email
+phandinhvan93@gmail.com
+EDUCATIONAL BACKGROUND
+Bachelor  of  Electrical  and  Electronics  Engineering  from  Da  Nang  University  of  Technology  –
+Vietnam, 2011  2016 ( GPA 7.74/10 )
+Fields of Study: Automation, Embedded Software, Electrical and Electronics Engineering.
+Computer technician’s Degree
+CERTIFICATE AND AWARD
+Studying Scholarship of  Da Nang university of Technology in semester VII, VIII, IX.
+Certificate of Good in Studying at University.
+CAREER OBJECTIVE 
+Manipulate knowledge which I have got from university and my own skills to become a good 
+engineer.
+Seeking a challenging position in a growing organization where I would be able to utilize my
+knowledge, skills as well as have ample opportunity to explore and excel in the field of Automation/
+Embedded Software/ Electronics Engineering.
+PROFILE SUMMARY
+Technical Skills:
+Comprehensive knowledge and skill on fields as automation in factory, embedded system, electrical
+and electronics engineering.
+SOFTWARE
+Programming Languages: Embedded C, C/ C++, Visual Basic, java, Autocad.
+Programming Tools: Visual Studio 2008 2010, Eclipse
+HARDWARE
+PIC Microchip, Arduino, MCU
+Protocols: CAN, I2C, UART
+Designing Tools: OrCAD for Circuit Layout, Proteus for Simulation 
+OPERATING SYSTEMS
+Windows-7, 8, Linux.
+CURRICULUM VITAE – PHAN DINH VAN
+1
+Communication Skill:
+Reading, Writing English well and English Speaking at Basic Level
+Excellent communication and interpersonal skill with abilities in resolving complex software issues.
+Office Skill:
+Using Windows, Microsoft Office, Internet well
+Typing keyboard with high speed
+Personal Skill:
+Effective team-working and positive attitude
+Flexibility and Adaptability to work in any environment
+Willingness to accept any challenge irrespective of its complexity
+WORKING EXPERIENCE
+8/2015  – 01/2016
+Senior Student 
+Da Nang University of technology– Graduation Project
+Project:  Navigation robot and transfer data by wireless. 
+Project Description: 
+Robot includes 4 separate modules: There is one module master which is used to control module slaves and
+send data to computer through wireless. There are three module slaves to get data about direct angle,
+speed of the robot's wheels, the distance from robot to the impediment … With their data , module master
+calculated and made robot  run the right way then send the data of robot to computer through wireless.
+Domain: Hardware and Software Design
+Team size: 3 people
+Responsibilities:
+Analyze the requirement of project and design methods
+Circuit design and simulation
+Coding and debugging
+Support to make model for performance
+Technologies Used:
+Hardware environment
+Arduino, module wireless
+Programming Language:
+Embedded C
+Development tools 
+OrCAD for layout of circuit
+Proteus for Circuit Simulation
+Arduino software(IDE) for coding and debugging
+05/2016 – 12/2017        
+After University – Project sale engineer
+Company:  Vietstar industry-corporation.
+Job Description:  Refer to the specification  for detail of low voltage switchboard, and make
+breakdown quotation. Prepare and deliver technical presentations that explain products or services
+to customers and prospective customers.
+CURRICULUM VITAE – PHAN DINH VAN
+2
+HOBBIES AND INTERESTS
+Football, basketball, table tennis, swimming...
+Music, singing.
+Reading, travelling.
+Discovering new technologies
+CURRICULUM VITAE – PHAN DINH VAN
+3
+CURRICULUM VITAE – PHAN DINH VAN
+4

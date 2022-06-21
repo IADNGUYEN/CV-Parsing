@@ -1,0 +1,57 @@
+ 
+HUY NGUYEN 
+Tan Phu District, Ho Chi Minh  0985180822 
+huynguyen0419@gmail.com  https://www.linkedin.com/in/huy-nguyen-423452136/  
+Dear Mr. Hiring Manager, 
+I’m applying for the position of  Data Scientists. My resume with detailed work experience is enclosed. Based on 
+the job description, I think this position looks both fun and challenging — and a great place for me to further my career! 
+If you have a moment, I’d love to ask you more questions around the tools you’re using and the types of projects I 
+might be running if hired. 
+And, if you have any questions about my resume, feel free to reach out over email or call me directly 
+at my phone number at the header. 
+Hope to hear from you soon, 
+Huy Nguyen 
+EXPERIENCE 
+JUNE 2018 – CURENT 
+QC AUTOMATION ENGINEER, TERRALOGIC – SOFTWARE OUTSOURCING 
+RESPONSIBLE: 
+Develop and configure test automation networks and execute stability and performance tests. 
+Coordinate with product management and software and support engineers to deliver stable release software 
+products. 
+Develop and execute test automation through Appium, Python and hardware and software test tools. 
+Estimate test accurately and coordinate with team members for work activities. 
+Apply, design and develop automated testing strategies and build automated testing frameworks. 
+Analyze and verify best automated and manual test approaches and execute acceptance, integration, installation 
+and system testing. 
+Establish test strategy and manual and automated test suites. 
+Technology: Appium, Robot, Jira, Testrail, Python 
+DEC 2017 – JUN 2018 
+EMBEDDED ENGINEER, GREYSTONE DATA SYSTEM – HDD OEM 
+REPONSIBLE: 
+Design and implement software of embedded devices and systems from requirements to production and 
+deployment 
+Design, develop, code, test and debug system software 
+Review code and design 
+Analyze and enhance efficiency, stability and scalability of system resources 
+Integrate and validate new product designs 
+Provide post production support 
+Interface with hardware design and development 
+Technology: C/C++, Embedded Linux 
+2 
+APR 2017 – DEC 2017 
+PYTHON DEVELOPER, KAGGLE CANDIDATE 
+Worklist: 
+Running machine learning experiments using a programming language with machine learning libraries. 
+Optimizing solutions for performance 
+Implementing custom machine learning code 
+Preprocessing data 
+Technology: Python, Keras, Scikit-learn 
+https://github.com/dehuy69/Machine_Learning 
+SKILLS 
+Python, C/C++ 
+Keras, Scikit-learn 
+Mathematics: linear algebra, probability 
+statistics, matrix 
+Feature extraction and analysis 
+Optimizing Model 
+Linux driver, firmware 

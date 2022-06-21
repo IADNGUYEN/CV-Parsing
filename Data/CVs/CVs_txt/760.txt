@@ -1,0 +1,276 @@
+ 
+CURRICULUM VIATE 
+PERSONAL INFORMAtTION 
+Full name  
+: Trần Thanh Huỳnh 
+Day of Birth   
+: 17/10/1995 
+Gender 
+: Male 
+Marital Status 
+: Single 
+Address  
+: 758/50 , Ung Văn Khiêm , P26 , Q.Bình Thạnh , TP.Hồ Chí Minh 
+E-mail  
+: huynhdth03@gmail.com 
+Phone number  
+: 01688590610 
+POSITION 
+Position applied  
+: Developer 
+Applied technology  
+:  Php  
+How did you find out this vacancy ? 
+ www.career.fpt-software.com 
+ University’s forum 
+ Facebook/ Yahoo 
+Vietnamworks 
+ Other forum 
+Fsofter: 
+ Job Fair 
+ Friends  
+ Others:  University 
+Strong skills  
+Programming languages/Roles 
+Rank (1:beginning  5: expert) 
+Months/ Years of experience 
+ Java 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+1 Year (s) 
+.NET 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+1 Year (s) 
+C/C++ 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+2 
+Year (s) 
+ PHP 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+1 Year (s) 
+Android 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+Year (s) 
+Embeded 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+Year (s) 
+Mobile 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+Year (s) 
+ Tester 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+Year (s) 
+ Quality Assurance 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+Year (s) 
+ Comtor 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+Year (s) 
+ BA 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+Year (s) 
+ PM 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+Year (s) 
+Others: 
+1 
+2 
+3 
+4 
+5 
+Month (s) 
+Year (s) 
+Foreign languages 
+Rank (1:beginning  5: expert) 
+Notes 
+Last Used 
+ English 
+1 
+2 
+3 
+4 
+5 
+2018 
+ Japanese 
+N5 
+N4 
+N3 
+N2 
+N1 
+Others: 
+PERSONAL SUMMARY  
+Favorite : swimming , read books , programming , learning english 
+Cooperative and able to perform within a team-oriented atmosphere 
+Skills : teamwork , self-learning 
+TECHNOLOGIES (OPTIONAL) 
+Databases etc: MySQL, SQL Server 2008 
+Programming Languages: PHP, JavaScript , C , C++,  
+Programming Tools: Eclipse, visual Studio 2005-2008-2010, notepad ++, sublime Text 3 
+App server / Middleware: Apache  
+Framework: CodeIgniter 3.x 
+Operating Systems: Windows 10 
+EDUCATION 
+University  
+: 
+Ho Chi Minh City University of Transport 
+Major  
+: 
+Information Technology 
+Graduation month & year  
+: 
+Marks/ GPA  
+: 
+7.04 
+Thesis topic  
+: 
+Thesis grade  
+: 
+Scholarships  
+: 
+1 
+Certificates  
+: 
+Other training courses 
+: 
+EXPERIENCE 
+1. TAKEN PROJECTS 
+ At university  
+ At company 
+Project’s name  
+Manage book store 
+Starting date  
+March 2017 
+Finishing date: June 2017 
+Team size 
+3 
+My role : Developer 
+Project descriptions  
+Develop a winform application to manage books in bookstores. It includes : Insert, 
+delete, update data , export bill. 
+Your responsibility & 
+achievements  
+Idea , coding for module. 
+Technologies Used 
+C#, SQL Server 2008, VS 2015 
+ At university  
+At company 
+Project’s name  
+Website sport news 
+Starting date  
+September 2016 
+Finishing date: December  2016 
+Team size 
+3 
+My role : Developer 
+Project descriptions  
+Develop a web application about sports news . It includes following main modules: 
+Post news 
+Manage news 
+Manager users and Content  
+Content relate 
+Workflow content 
+Your responsibility & 
+achievements  
+Idea, design, coding for module.  
+Technologies Used 
+Php, My sql 
+ At university  
+ At company 
+Project’s name  
+Website selling agricultural products 
+Starting date  
+September  2017 
+Finishing date: December  2017 
+Team size 
+2 
+My role : Developer 
+Project descriptions  
+Develop a web application about selling . It includes following main modules: 
+Post products 
+Manage products 
+Manage news 
+Manage slides 
+Manage contacts 
+Manager users and Content  
+Content relate 
+Search products 
+Workflow content 
+Your responsibility & 
+achievements  
+Idea, design, coding for module.  
+Technologies Used 
+Php, My sql, CodeIgniter framework 
+2. WORKING  
+ Full-time  
+ Part-time 
+Starting date 
+March 2018 
+Finishing date 
+: continues 
+Company/ Department 
+For me 
+Position 
+Develop web with PHP 
+Responsibilities 
+Use php to build 
+Your achievements 
+not yet! 

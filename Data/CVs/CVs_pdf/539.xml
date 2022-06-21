@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="Times New Roman,Bold" color="#c00000"/>
+	<fontspec id="1" size="18" family="Times New Roman,Bold" color="#c00000"/>
+	<fontspec id="2" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="3" size="18" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="4" size="18" family="Times New Roman,Italic" color="#000000"/>
+	<fontspec id="5" size="17" family="Times New Roman" color="#000000"/>
+	<fontspec id="6" size="17" family="Times New Roman" color="#333333"/>
+<text top="96" left="85" width="167" height="19" font="0"><b>LAM TAN PHAT </b></text>
+<text top="96" left="695" width="142" height="16" font="1"><b>Curriculum Vitae </b></text>
+<text top="234" left="207" width="5" height="16" font="2"> </text>
+<text top="130" left="223" width="5" height="16" font="2"> </text>
+<text top="130" left="269" width="264" height="16" font="2">59/13/24 Street 8, Thu Duc district,  </text>
+<text top="155" left="269" width="203" height="16" font="2">Ho Chi Minh city, Vietnam </text>
+<text top="181" left="269" width="104" height="16" font="2">00084 / 70000</text>
+<text top="181" left="373" width="5" height="16" font="3"><b> </b></text>
+<text top="206" left="269" width="54" height="16" font="3"><b>Mobile</b></text>
+<text top="206" left="323" width="179" height="16" font="2">: (+84) (0) 988.04.14.19 </text>
+<text top="232" left="269" width="52" height="16" font="3"><b>E-mail</b></text>
+<text top="232" left="320" width="157" height="16" font="2">: vltphat@gmail.com </text>
+<text top="262" left="328" width="267" height="16" font="1"><b>PROFESSIONAL EXPERIENCE </b></text>
+<text top="298" left="85" width="149" height="16" font="3"><b>July 2016 – present</b></text>
+<text top="298" left="234" width="5" height="16" font="2">:</text>
+<text top="298" left="239" width="5" height="16" font="3"><b> </b></text>
+<text top="298" left="243" width="414" height="16" font="2">AgriConnect Digital AgriCulture JSC, HCMC, Vietnam, </text>
+<text top="298" left="658" width="151" height="16" font="4"><i>http://agriconnect.vn</i></text>
+<text top="298" left="809" width="9" height="16" font="2">. </text>
+<text top="325" left="85" width="36" height="16" font="3"><b>        </b></text>
+<text top="325" left="121" width="440" height="16" font="2">E.E– hardware design and embedded systems programming. </text>
+<text top="357" left="85" width="211" height="16" font="3"><b>January  2011  –  June  2016</b></text>
+<text top="357" left="297" width="5" height="16" font="2">:</text>
+<text top="357" left="302" width="5" height="16" font="3"><b> </b></text>
+<text top="357" left="309" width="522" height="16" font="2">Institute  for  Nanotechnology,  Vietnam  National  University  –  HCMC, </text>
+<text top="378" left="85" width="71" height="16" font="2">Vietnam, </text>
+<text top="378" left="156" width="145" height="16" font="4"><i>http://hcmint.edu.vn</i></text>
+<text top="378" left="301" width="9" height="16" font="2">. </text>
+<text top="405" left="85" width="36" height="16" font="3"><b>        </b></text>
+<text top="405" left="121" width="612" height="16" font="2">Researcher, worked as E.E – hardware design and embedded systems programming. </text>
+<text top="437" left="85" width="137" height="16" font="3"><b>Job responsibility</b></text>
+<text top="437" left="222" width="14" height="16" font="2">:  </text>
+<text top="464" left="85" width="6" height="16" font="5">-</text>
+<text top="464" left="91" width="740" height="16" font="2">  Background  in  analog-digital  electronics,  power  electronics,  embedded  systems,  wireless  sensor </text>
+<text top="485" left="85" width="75" height="16" font="2">networks. </text>
+<text top="512" left="85" width="10" height="16" font="5">- </text>
+<text top="511" left="97" width="734" height="16" font="2">Strong working knowledge in creating schematic capture and designing printed circuit board using </text>
+<text top="532" left="85" width="133" height="16" font="2">trace layout tools. </text>
+<text top="559" left="85" width="6" height="16" font="5">-</text>
+<text top="559" left="91" width="740" height="16" font="2">  Experience  on  embedded  programming  for  different  micro-controllers  of  STMicroelectronics, </text>
+<text top="580" left="85" width="155" height="16" font="2">Atmel, TI, Espressif. </text>
+<text top="607" left="85" width="10" height="16" font="5">- </text>
+<text top="606" left="95" width="577" height="16" font="2">Experience of RFID, MQTT and embedded protocols like SPI, I2C, UART etc. </text>
+<text top="633" left="85" width="10" height="16" font="5">- </text>
+<text top="633" left="95" width="578" height="16" font="2">Experience on designing WiFi, Zigbee, Lora, GSM/GPRS, GPS based systems. </text>
+<text top="660" left="85" width="116" height="16" font="5">- Understanding </text>
+<text top="660" left="201" width="411" height="16" font="2">of high-speed board design, EMC, memory architecture. </text>
+<text top="687" left="85" width="6" height="16" font="5">-</text>
+<text top="686" left="91" width="483" height="16" font="2"> Designing the user interface and database of application software. </text>
+<text top="713" left="85" width="469" height="16" font="5">- Providing technical supports for software developer and customer.</text>
+<text top="712" left="554" width="5" height="16" font="2"> </text>
+<text top="745" left="352" width="219" height="16" font="1"><b>SKILLS AND INTERESTS </b></text>
+<text top="777" left="85" width="119" height="16" font="3"><b>Technical skills</b></text>
+<text top="777" left="204" width="9" height="16" font="2">: </text>
+<text top="805" left="85" width="10" height="16" font="5">- </text>
+<text top="804" left="95" width="386" height="16" font="2">PCB design tools: KiCAD, OrCAD/Allegro, Altium. </text>
+<text top="831" left="85" width="10" height="16" font="5">- </text>
+<text top="831" left="95" width="140" height="16" font="2">Embedded C/C++. </text>
+<text top="858" left="85" width="6" height="16" font="5">-</text>
+<text top="858" left="91" width="15" height="16" font="2"> E</text>
+<text top="858" left="107" width="67" height="16" font="5">xperience</text>
+<text top="858" left="174" width="167" height="16" font="2"> with C#, SQL server,  </text>
+<text top="884" left="85" width="198" height="16" font="5">- Familiarity with Linux OS.</text>
+<text top="884" left="283" width="5" height="16" font="2"> </text>
+<text top="911" left="85" width="10" height="16" font="5">- </text>
+<text top="910" left="95" width="395" height="16" font="2">Working knowledge of Microsoft Office, Edraw Max. </text>
+<text top="943" left="85" width="53" height="16" font="3"><b>Others</b></text>
+<text top="943" left="138" width="14" height="16" font="2">:  </text>
+<text top="969" left="85" width="197" height="16" font="5">- Extremely well organized. </text>
+<text top="995" left="85" width="302" height="16" font="5">- Strong interpersonal and teamwork skills. </text>
+<text top="1021" left="85" width="520" height="16" font="5">- Willingness to work hard, learn new technologies and management skills.</text>
+<text top="1021" left="605" width="4" height="16" font="6"> </text>
+<text top="1053" left="85" width="83" height="16" font="3"><b>Languages</b></text>
+<text top="1053" left="169" width="300" height="16" font="2">: English - TOEIC score: 515, CEFR: B1.</text>
+<text top="1053" left="469" width="5" height="16" font="3"><b> </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="18" family="Times New Roman,BoldItalic" color="#000000"/>
+<text top="90" left="404" width="115" height="16" font="1"><b>EDUCATION </b></text>
+<text top="122" left="85" width="345" height="16" font="3"><b>University  of  Engineering  and  Technology</b></text>
+<text top="122" left="430" width="151" height="16" font="2">,  Vietnam  National </text>
+<text top="143" left="85" width="230" height="16" font="2">University – Hanoi (VNU-HN) </text>
+<text top="169" left="85" width="316" height="16" font="4"><i>M.Sc in Nano-Materials and Nano-Devices</i></text>
+<text top="169" left="401" width="180" height="16" font="2">, Faculty of Physics and </text>
+<text top="190" left="85" width="202" height="16" font="2">Nanotechnology. Thesis: A </text>
+<text top="122" left="712" width="120" height="16" font="2">Hanoi, Vietnam </text>
+<text top="149" left="712" width="119" height="16" font="2">December 2014 </text>
+<text top="175" left="724" width="38" height="16" font="3"><b>GPA</b></text>
+<text top="175" left="762" width="69" height="16" font="2">: 3.07 / 4 </text>
+<text top="226" left="85" width="165" height="16" font="3"><b>University of Science</b></text>
+<text top="226" left="250" width="331" height="16" font="2">, Vietnam National University - HoChiMinh </text>
+<text top="247" left="85" width="134" height="16" font="2">city (VNU-HCM) </text>
+<text top="273" left="85" width="105" height="16" font="4"><i>B.Sc in Physic</i></text>
+<text top="273" left="190" width="391" height="16" font="2">, Faculty of Physics and Engineering Physics. Major: </text>
+<text top="294" left="85" width="296" height="16" font="2">Physics and Electronics. Thesis: 8.5 / 10 </text>
+<text top="223" left="637" width="194" height="16" font="2">HoChiMinh city, Vietnam </text>
+<text top="250" left="728" width="103" height="16" font="2">October 2010 </text>
+<text top="276" left="715" width="38" height="16" font="3"><b>GPA</b></text>
+<text top="276" left="753" width="78" height="16" font="2">: 7.42 / 10 </text>
+<text top="327" left="85" width="193" height="16" font="3"><b>Honors and Scholarships</b></text>
+<text top="327" left="278" width="9" height="16" font="2">: </text>
+<text top="360" left="85" width="10" height="16" font="5">- </text>
+<text top="359" left="95" width="53" height="16" font="2">Honors</text>
+<text top="359" left="148" width="5" height="16" font="3"><b> </b></text>
+<text top="359" left="153" width="552" height="16" font="2">for outstanding achievements of volunteered activities, VNU-HCMC, 2010. </text>
+<text top="387" left="85" width="10" height="16" font="5">- </text>
+<text top="386" left="95" width="146" height="16" font="4"><i>Tiếp sức đến trường</i></text>
+<text top="386" left="241" width="447" height="16" font="2"> scholarship of Tuoi Tre Newspaper, HCMC, Vietnam, 2009. </text>
+<text top="426" left="85" width="129" height="16" font="3"><b>Relevant courses</b></text>
+<text top="426" left="215" width="10" height="16" font="2">: </text>
+<text top="459" left="85" width="10" height="16" font="5">- </text>
+<text top="458" left="95" width="610" height="16" font="2">Computer Network Administration, University of Science, VNU- HCMC, Vietnam. </text>
+<text top="486" left="85" width="10" height="16" font="5">- </text>
+<text top="485" left="95" width="728" height="16" font="2">Certificate of University Teaching Under Credit System, CEE, University of Science, VNU-HCMC. </text>
+<text top="512" left="85" width="10" height="16" font="5">- </text>
+<text top="512" left="95" width="658" height="16" font="2"> Certificate of High School Teaching Methods, University of Education, HCMC, Vietnam. </text>
+<text top="539" left="85" width="10" height="16" font="5">- </text>
+<text top="538" left="96" width="734" height="16" font="2"> Certificate of participation to School of MINATEC 2010 to 2015, Laboratory for Nanotechnology, </text>
+<text top="559" left="85" width="579" height="16" font="2">VNU-HCM (Vietnam) and CEA - LETI - MINATEC – Grenoble INP (France). </text>
+<text top="601" left="348" width="227" height="16" font="1"><b>RESEARCH EXPERIENCE </b></text>
+<text top="633" left="85" width="137" height="16" font="3"><b>Research projects</b></text>
+<text top="633" left="223" width="5" height="16" font="2">:</text>
+<text top="633" left="228" width="5" height="16" font="3"><b> </b></text>
+<text top="666" left="85" width="590" height="16" font="2">1. Study on fabrication of indentify tags using radio antenna by RFID technology </text>
+<text top="666" left="737" width="95" height="16" font="2">2010 – 2012 </text>
+<text top="698" left="85" width="129" height="16" font="4"><i>Managing agency</i></text>
+<text top="698" left="215" width="348" height="16" font="2">: Vietnam Ministry of Science and Technology. </text>
+<text top="731" left="85" width="584" height="16" font="2">2. Study on fabrication of UHF tags using inkjet printing for sensing applications</text>
+<text top="731" left="670" width="5" height="16" font="7"><i><b> </b></i></text>
+<text top="731" left="675" width="5" height="16" font="2"> </text>
+<text top="731" left="737" width="95" height="16" font="2">2012 – 2014 </text>
+<text top="764" left="85" width="129" height="16" font="4"><i>Managing agency</i></text>
+<text top="764" left="215" width="10" height="16" font="3"><b>: </b></text>
+<text top="764" left="225" width="339" height="16" font="2">Vietnam Ministry of Science and Technology. </text>
+<text top="797" left="85" width="434" height="16" font="2">3. Development of wireless sensing platform for fruit farms </text>
+<text top="797" left="737" width="95" height="16" font="2">2015 – 2016 </text>
+<text top="829" left="85" width="129" height="16" font="4"><i>Managing agency</i></text>
+<text top="829" left="215" width="299" height="16" font="2">: Vietnam National University – HCMC. </text>
+<text top="862" left="85" width="450" height="16" font="2">4. Development of IoT platform for mushroom growing room </text>
+<text top="862" left="715" width="111" height="16" font="2">2016 – present </text>
+<text top="895" left="85" width="95" height="16" font="3"><b>Publications</b></text>
+<text top="895" left="180" width="14" height="16" font="2">:  </text>
+<text top="895" left="194" width="74" height="16" font="3"><b>Authored</b></text>
+<text top="895" left="268" width="23" height="16" font="2"> &amp; </text>
+<text top="895" left="291" width="98" height="16" font="3"><b>Co-authored</b></text>
+<text top="895" left="389" width="5" height="16" font="2"> </text>
+<text top="927" left="85" width="18" height="16" font="2">1. </text>
+<text top="927" left="104" width="639" height="16" font="4"><i>Wireless Sensing Modules for Rural Monitoring and Precision Agriculture applications</i></text>
+<text top="927" left="744" width="87" height="16" font="2">, Journal of </text>
+<text top="948" left="85" width="569" height="16" font="2">Information and Telecommunication (TJIT), Taylor &amp; Francis, UK, Oct 2017. </text>
+<text top="981" left="85" width="18" height="16" font="2">2. </text>
+<text top="981" left="109" width="713" height="16" font="4"><i>Modeling  of  Antenna  geometry  and  Thickness  Optimization  for  Wideband  UHF  RFID  tag</i></text>
+<text top="981" left="822" width="9" height="16" font="2">, </text>
+<text top="1001" left="85" width="746" height="16" font="2">International Conference on Advanced Technology for Communications (IEEE-ATC), Vietnam, July </text>
+<text top="1022" left="85" width="45" height="16" font="2">2015. </text>
+<text top="1055" left="85" width="18" height="16" font="2">3. </text>
+<text top="1055" left="105" width="530" height="16" font="4"><i>A wireless sensor for food quality detection by UHF RFID passive tags</i></text>
+<text top="1055" left="635" width="196" height="16" font="2">, International Conference </text>
+<text top="1076" left="85" width="596" height="16" font="2">on Advanced Technology for Communications (IEEE-ATC), Vietnam, July 2015. </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="95" left="85" width="18" height="16" font="2">4. </text>
+<text top="95" left="104" width="629" height="16" font="4"><i>Một phương pháp đo đạc tính chất điện môi cho chất lỏng tổn hao cao ở tần số vi ba</i></text>
+<text top="95" left="733" width="98" height="16" font="2">, Conference </text>
+<text top="116" left="85" width="670" height="16" font="2">on Electronics, Communications and Information Technology (REV-ECIT), Vietnam, 2015. </text>
+<text top="149" left="339" width="244" height="16" font="1"><b>LEADERSHIP EXPERIENCE </b></text>
+<text top="185" left="85" width="397" height="16" font="2">Mentor, working with students during their internship: </text>
+<text top="224" left="85" width="14" height="16" font="2">1.</text>
+<text top="224" left="99" width="123" height="16" font="3"><b>Maxime REMY</b></text>
+<text top="224" left="222" width="5" height="16" font="4"><i>,</i></text>
+<text top="224" left="227" width="239" height="16" font="2"> ISEN école d'ingénieur (France)</text>
+<text top="224" left="466" width="9" height="16" font="4"><i>, </i></text>
+<text top="224" left="475" width="94" height="16" font="2">Project title: </text>
+<text top="224" left="570" width="198" height="16" font="4"><i>Security of communication </i></text>
+<text top="245" left="85" width="156" height="16" font="4"><i>using RSA encryption</i></text>
+<text top="245" left="241" width="207" height="16" font="2">. Training period: 6 months. </text>
+<text top="272" left="85" width="14" height="16" font="2">2.</text>
+<text top="272" left="99" width="154" height="16" font="3"><b>Florent  SEGOUIN</b></text>
+<text top="272" left="253" width="515" height="16" font="2">,  IUT  Cachan  of  Paris-Sud  University  (France),  Project  title: </text>
+<text top="292" left="85" width="679" height="16" font="4"><i>Programming  the  middleware  to  communicate  between  RFID  Volaré  reader  and  host-</i></text>
+<text top="313" left="85" width="68" height="16" font="4"><i>computer</i></text>
+<text top="313" left="153" width="202" height="16" font="2">. Training period: 3 months.</text>
+<text top="313" left="355" width="5" height="16" font="4"><i> </i></text>
+<text top="340" left="85" width="14" height="16" font="2">3.</text>
+<text top="340" left="99" width="131" height="16" font="3"><b>Thierry ZHANG</b></text>
+<text top="340" left="230" width="440" height="16" font="2">, IUT Cachan of Paris-Sud University (France), Project title: </text>
+<text top="340" left="669" width="99" height="16" font="4"><i>Development </i></text>
+<text top="361" left="85" width="354" height="16" font="4"><i>of GSM / GPRS functions for barrier gate system</i></text>
+<text top="361" left="439" width="202" height="16" font="2">. Training period: 3 months.</text>
+<text top="361" left="641" width="5" height="16" font="4"><i> </i></text>
+<text top="224" left="796" width="41" height="16" font="2">2012 </text>
+<text top="400" left="85" width="14" height="16" font="2">4.</text>
+<text top="400" left="99" width="164" height="16" font="3"><b>Raphael  BRAHAMI</b></text>
+<text top="400" left="263" width="41" height="16" font="2">  and </text>
+<text top="400" left="311" width="150" height="16" font="3"><b>Louis  PECHINOT</b></text>
+<text top="400" left="461" width="307" height="16" font="2">,  IUT  Cachan  of  Paris-Sud  University </text>
+<text top="421" left="85" width="178" height="16" font="2">(France),  Project  title: </text>
+<text top="421" left="272" width="496" height="16" font="4"><i>Programming  the  middleware  to  communicate  between  RFID </i></text>
+<text top="441" left="85" width="281" height="16" font="4"><i>professional reader and host-computer</i></text>
+<text top="441" left="367" width="207" height="16" font="2">. Training period: 3 months. </text>
+<text top="400" left="796" width="36" height="16" font="2">2013</text>
+<text top="400" left="832" width="5" height="16" font="3"><b> </b></text>
+<text top="481" left="85" width="14" height="16" font="2">5.</text>
+<text top="477" left="99" width="114" height="20" font="3"><b>Lê Quang Tấn</b></text>
+<text top="481" left="213" width="509" height="16" font="2">, Master student at University of Technology, VNU-HCM (Vietnam). </text>
+<text top="502" left="85" width="90" height="16" font="2">Thesis title: </text>
+<text top="502" left="176" width="413" height="16" font="4"><i>Development of wireless sensing platform for fruit farms</i></text>
+<text top="502" left="590" width="132" height="16" font="2">. Training period: </text>
+<text top="522" left="85" width="76" height="16" font="2">7 months. </text>
+<text top="481" left="754" width="82" height="16" font="2">2015-2016 </text>
+<text top="559" left="412" width="100" height="16" font="1"><b>REFEREES </b></text>
+<text top="591" left="86" width="179" height="16" font="3"><b>Dr. NGUYEN Dat Son </b></text>
+<text top="618" left="86" width="62" height="16" font="4"><i>Director</i></text>
+<text top="618" left="148" width="252" height="16" font="2">, AgriConnect Digital AgriCulture </text>
+<text top="639" left="86" width="47" height="16" font="2">J.S.C. </text>
+<text top="665" left="86" width="137" height="16" font="4"><i>RFID Team-leader</i></text>
+<text top="665" left="224" width="98" height="16" font="2">, Institute for </text>
+<text top="686" left="86" width="223" height="16" font="2">Nanotechnology, VNU-HCM. </text>
+<text top="713" left="86" width="244" height="16" font="2">Mobile: (+84) (0) 12.28.75.67.07 </text>
+<text top="739" left="86" width="228" height="16" font="2">Email: ndson@vnuhcm.edu.vn </text>
+<text top="766" left="86" width="252" height="16" font="2">            nguyendatson@gmail.com </text>
+<text top="591" left="427" width="239" height="16" font="3"><b>  Prof. Dr. DANG Mau Chien </b></text>
+<text top="618" left="445" width="62" height="16" font="4"><i>Director</i></text>
+<text top="618" left="507" width="321" height="16" font="2">, Institute for Nanotechnology, VNU-HCM. </text>
+<text top="644" left="445" width="371" height="16" font="2">Telephone: (+84) (08) 37.24.68.23, Ext 101 or 102 </text>
+<text top="671" left="445" width="246" height="16" font="2">Email: dmchien@vnuhcm.edu.vn </text>
+<text top="698" left="445" width="212" height="16" font="2">           dmchien@yahoo.com </text>
+<text top="799" left="85" width="5" height="16" font="2"> </text>
+</page>
+</pdf2xml>

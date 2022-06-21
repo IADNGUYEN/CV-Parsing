@@ -1,0 +1,101 @@
+Page 1 of 4 
+NGUYEN THANH ANH TUYEN 
+Email: tuyense07@gmail.com 
+Tel: 01657990105 
+Personal Information 
+Full name: Nguyen Thanh Anh Tuyen 
+Nationality: Vietnamese  
+Place of birth: Quang Ngai / Viet Nam  
+Date of Birth: 02/12/1994 
+Gender:   Male   
+Marital status: Single 
+Phone:  
+01657990105  
+Email: tuyense07@gmail.com  
+Languages: Vietnamese (Native), English (Normal) 
+Experience Summary 
+Strong experiences in Java, JSP-Servlet, MySQL 
+Experience in Recommender System 
+2 years of software experience  
+Experience in MVC and Three Layer programming models 
+Good at MSSQL, C#. 
+Research interests 
+Recommender system 
+Big data 
+Page 2 of 4 
+Skills 
+Programming Skills 
+Programming languages: Java, C#, C++, Gosu, HTML, Java Script, 
+CSS, JSP 
+Frameworks: Apache Mahout, Spring MVC, Entity framework, 
+ASP.NET core, Terasoluna framework, Selenium, Sikuli 
+Databases: MySQL, MSSQL 
+IDEs: Eclipse, IntelliJ, Visual studio 
+Configuration management tools: SVN, Git 
+Software development process: water fall, agile development method. 
+Soft Skills 
+Team-work 
+High responsible attitude when working 
+Read document and research in English efficiently 
+Solving problem independently 
+Education 
+2012 – 2017: Viet Nam National University HCMC  University of 
+Information Technology 
+6/2015: get the TOEIC certificate with 735 scores. 
+3 times get the encouraging academic scholarship at school. 
+Hobbies & Interests 
+Touring & playing guitar 
+Playing sports like: football, swimming, martial arts 
+Page 3 of 4 
+Company Projects 
+Project title Testing tool for Policy Center Application 
+Company Capgemini Viet Nam 
+Duration 6/2016 – 12/2016 
+Description A testing tool for Policy Center application in insurance 
+Team size 3 
+Role Developer 
+Technologies Gosu, Java 
+Project title Junit auto generation tool 
+Company NTT Data Viet Nam 
+Duration 3/2017 – 4/2017 
+Description A tool support for generating Junit template testcase and test 
+code. 
+Team size 1 
+Role Developer 
+Technologies Java 
+Project title Open2Test tool base on selenium 
+Company NTT Data Viet Nam 
+Duration 4/2017 – 7/2017 
+Description A tool support for automation test based on selenium web 
+driver. 
+Team size 1 
+Role Developer 
+Technologies Java 
+Project title Sikuli testing tool 
+Company NTT Data Viet Nam 
+Duration 7/2017 – 3/2018 
+Description A tool support for automation test based on Sikuli framework. 
+Page 4 of 4 
+Team size 3 
+Role Developer 
+Technologies Java 
+Side Projects 
+Project title Job Recommender System 
+Duration 6/2015 – 2/2017 
+Description This is a research project about recommender system with 
+purpose support for job seeker easy to find the suitable jobs. 
+Team size 2 
+Role Developer 
+Technologies Java, Apache Mahout, Apache Lucene. 
+Project title Voice controlling music player 
+Duration 10/2016 – 11/2016 
+Description Android music application with command by voice 
+Team size 1 
+Role Developer 
+Technologies Java, SphinX framework 
+Project title Handwriting recognition 
+Duration 11/2016 – 12/2016 
+Description Android application for handwriting recognition 
+Team size 1 
+Role Developer 
+Technologies Java, Accord.net 

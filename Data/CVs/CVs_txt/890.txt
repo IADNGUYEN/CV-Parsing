@@ -1,0 +1,127 @@
+Mai Quoc Van
+Mai Quoc Van
+BI Consultant | Male | Single | 18 December
+1986
+Experience
+5 years
+5 years
+Latest company
+Global Cyebersof t
+Global Cyebersof t  as BI Consultant
+Highest education
+Bachelors
+Bachelors
+Languages
+English
+English  Intermediate
+Email
+maiquocvan@gmail.com
+maiquocvan@gmail.com
+Phone
+01656144413
+01656144413
+Address
+Go Vap Dist rict  H CMC,Go Vap,H o
+Go Vap Dist rict  H CMC,Go Vap,H o
+Chi Minh Cit y
+Chi Minh Cit y
+Preferred working
+location
+Ho Chi Minh
+Job
+industries/functions
+IT  Software
+Expected job level
+Experienced (non-manager)
+Expected salary
+(USD)
+1,300
+Preferred benefit
+Bonus | Training | Laptop | Team Activities
+SUMMARY
+Career Object ive
+Career Object ive :
+I want to become a Dat a Scient ist /Machine Learning
+Dat a Scient ist /Machine Learning . I got
+the Dat a Science Specializ at ion
+Dat a Science Specializ at ion certificate (use R language)
+of JHU in Coursera
+Coursera . I am also researching about machine learning
+with Python language (ipython notebook), scikit-learn library.
+Career Summary
+Career Summary :
+I am motivated by the belief that data can be used to make better
+decisions. I wants to be able to make it easier for people to
+understand code and use data efficiently.
+Currently a 2-year BI Consultant at Global Cybersoft (Vietnam) JSC,
+I am exploring various facets of data science. I am focusing on
+machine learning, ETL tools (Pentaho, Informatica), information
+visualization, and Big Data Infrastructure to augment my working
+experience.
+A 3-year Embedded Engineer at GCS, I had maintained the
+embedded system, Linux.
+A 2-year Mobile Developer at Gameloft, I had ported 3-D games
+into Android phones.
+I primarily uses R, Python, C/C++, Java.
+SKILL
+Python
+MS SQL
+R Language
+Data Mining
+Data Analysis
+Machine Learning
+Javascript  Jquery
+Data Scientist
+Ipython, Scikit-learn
+C/++, Java
+WORK EXPERIENCE
+Apr 2016  Now
+BI Consult ant
+BI Consult ant
+Global Cyebersoft
+I am experienced in:  ETL (Extract  Transform  Load) tools, such as: Pentaho,
+Informatica.  Big Data: Hadoop, MapReduce, Hive, HBase, Sqoop, Spark.  Data visualization tools: SAP Design Studio, Tableau, D3js,
+ggplot2 (R package), Seaborn (Python)  Machine Learning library: Scikit-learn
+Projects:  July 2017  Dec 2017: Pentaho Project, onsite in Tokyo, Japan
++ Using Pentaho to process (ETL  Extract Transform Load) data
++ Using CTools, Excel Macro to develop dashboards/reports.
++ Transferring Pentaho knowledge to customer.  April 2017  June 2017: SAP Project, onsite in NVL office, Ho Chi
+Minh, Viet Nam
++ Using SAP ABAP to develop reports  March 2016  March 2017: Internal Projects in GCS office, Ho Chi
+Minh, Viet Nam
++ Using SAP Design Studio SDK to develop visualizing charts.
++ Internal project about Pentaho tool: PDI, PSW, PME, CTools
++ Internal project about Big Data ecosystem
+Oct 2012  Apr 2016
+Embeded Engineer
+Embeded Engineer
+Global Cybersoft
+Responsibilities:  Inspect and fix the reported bugs (deadlock, crash, memory leak).  Review the source code (C/C++, Java).
+Achievements:  Familiar with C/C++, Java programming on Linux.  Good knowledge in concurrency, network-programming using
+POSIX (Thread/Process, IPC).  Using GDB under Linux environment.  Experiment about deadlock, memory leak, crash in system.  Good in analyzing and understanding the source code.
+Mobile Game Developer
+Mobile Game Developer
+Gameloft
+Responsibilities:  Porting 3D games (Asphalt 5, 6; Hero of Sparta; …) for other
+Android phones  Investigate the issues and fix bugs
+Achievements:  Familiar with C/C++, Java programming for Android  3D games technologies.
+EDUCATION
+Dec 2014  Oct 2015
+Dat a Sc ienc e Spec ializat ion
+Dat a Sc ienc e Spec ializat ion
+Others  Johns Hopkins University
+Data Science Specialization
+Inf ormat ion T ec hnology
+Inf ormat ion T ec hnology
+Bachelors  University of Science, HCMC 
+Graduat ed Universit y of  Science, H CM cit y, Viet nam.
+Graduat ed Universit y of  Science, H CM cit y, Viet nam.
+Knowledge of many recent popular programming languages.
+Experience in game and game mobile programming.
+Proven ability to work under pressure as a member of team,
+good personal skill.
+Dat a Science Specializ at ion, 
+Dat a Science Specializ at ion, Johns Hopkins University on
+Coursera
+Coursera
+Knowledge about Data Science.

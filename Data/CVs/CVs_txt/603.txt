@@ -1,0 +1,42 @@
+PHẠM NGUYỄN NGỌC SƠN 
+pson2900@gmail.com  (+84)1699805901  91/40 Quarter 3, Tan Phong Ward, Bien Hoa 
+BRIEF INFORMATION 
+I’m still a student,learning at the faculty of Electrical and Electronics Engineering. 
+EXPERIENCE 
+I known programming in C and Python. 
+Learn and use raspberry pi but I’m still a newbie in this area, and use linux to do some 
+simple tasks. 
+I have code Data structure and Algorithms  
+I have use git command (git clone, git add, git push), use git for read and reasearch 
+Know use Linux for program and use Python in linux 
+Know a little bit about  Linear regression, Logictis regresion ,Neural Network, Deep 
+Learning, Gradient Descent 
+Know how to use basic Pandas to analyse datasets 
+I use scikit learn to do some simple examples and now I’m learning simple 
+Tensorflow, Keras with Python, Build Machine learning algorthrim linear 
+regression, Logictic Regresion, Gradient Descent and know a little bit about CNN 
+PROJECTS 
+Facial Keypoints Detection  This is actually a simple competition on Kaggle.com which aims to automatically detect 
+where is the keypoints of face images. This can be used as a building block in several 
+application like: 
++ Tracking faces in images and video 
++ Analyse face expression 
++ Biometrics/ face recognition  I have learn how to use pandas to load and transform dataset from Kaggle to memory 
+since everything is provided by files csv   
+Build a simple neural networks with 3 Dense layers and use some techniques to 
+improve result quality and improve training performance like applying Dropout layers, 
+using ELU activation instead of Relu to prevent overfiting  Know how to load and save automatically a model after finishing training  Apply some simple method to save features after finishing step ‘feature extraction’ 
+since it takes a lot of time to do, one of my favorite solution I have used in this project is 
+using python’s pickle  Using matplotlib to render the result of my neural network after training since I would 
+like to verify with the real picture from myself 
+KEY SKILLS 
+LANGUAGES 
+English: good enough for communicating  
+COMPUTER 
+Have a good skill in using shell on linux and window, build tools 
+Manage code effectively by using git 
+WORKING SKILLS 
+Working under pressure, Time Management: 8/10 
+Communicative & Interpersonal: 9/10 
+Logical and Problem solving: 7/10 
+Planning,: 8/10 

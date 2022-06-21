@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="50" family="BCSUUX+LMSans17" color="#000000"/>
+	<fontspec id="1" size="25" family="RVYJPJ+LMSans17" color="#727272"/>
+	<fontspec id="2" size="14" family="IAVDHH+LMSans10" color="#727272"/>
+	<fontspec id="3" size="14" family="YAMZJY+MarVoSym" color="#727272"/>
+	<fontspec id="4" size="21" family="YAMZJY+MarVoSym" color="#727272"/>
+	<fontspec id="5" size="17" family="SPYRAO+LMSans12" color="#3872b2"/>
+	<fontspec id="6" size="21" family="TJILTY+LMSans12" color="#3872b2"/>
+	<fontspec id="7" size="16" family="GSZPKI+LMSans10" color="#000000"/>
+	<fontspec id="8" size="16" family="XSEVTU+LMSans10" color="#000000"/>
+	<fontspec id="9" size="16" family="IAVDHH+LMSans10" color="#000000"/>
+	<fontspec id="10" size="14" family="GSZPKI+LMSans10" color="#000000"/>
+	<fontspec id="11" size="14" family="YAMZJY+MarVoSym" color="#3872b2"/>
+	<fontspec id="12" size="16" family="YAMZJY+MarVoSym" color="#3872b2"/>
+<text top="143" left="112" width="305" height="46" font="0">Duong Lu Dien</text>
+<text top="210" left="112" width="275" height="23" font="1"><i>Machine Learning Engineer</i></text>
+<text top="128" left="541" width="116" height="13" font="2"><i>Can Tho, Vietnam</i></text>
+<text top="146" left="511" width="13" height="16" font="3">H</text>
+<text top="146" left="529" width="128" height="13" font="2"><i>+84 (0)964 027 522</i></text>
+<text top="164" left="490" width="13" height="16" font="3">B</text>
+<text top="164" left="508" width="149" height="13" font="2"><a href="mailto:duongludien@gmail.com"><i>duongludien@gmail.com</i></a></text>
+<text top="177" left="497" width="15" height="23" font="4">Í</text>
+<text top="182" left="517" width="140" height="13" font="2"><a href="http://www.duongludien.com"><i>www.duongludien.com</i></a></text>
+<text top="200" left="582" width="75" height="13" font="2"><a href="http://www.linkedin.com/in/duongludien"><i>duongludien</i></a></text>
+<text top="218" left="582" width="75" height="13" font="2"><a href="http://www.github.com/duongludien"><i>duongludien</i></a></text>
+<text top="278" left="285" width="322" height="16" font="5"><i>&#34;Pursue excellence, and success will follow.&#34;</i></text>
+<text top="336" left="231" width="88" height="19" font="6">Education</text>
+<text top="369" left="133" width="85" height="15" font="7">2014 – 2018</text>
+<text top="369" left="231" width="230" height="15" font="8"><b>BE. in Information Technology</b></text>
+<text top="369" left="461" width="5" height="15" font="7">,</text>
+<text top="369" left="471" width="133" height="15" font="9"><i>Can Tho University</i></text>
+<text top="369" left="604" width="140" height="15" font="7">, Vietnam, 3.32/4.0.</text>
+<text top="390" left="231" width="553" height="13" font="10">Activities and societies: IT Club, Korean Students Exchange, Thais Students Exchange,</text>
+<text top="408" left="231" width="117" height="13" font="10">AUN-QA interview</text>
+<text top="440" left="231" width="94" height="19" font="6">Experience</text>
+<text top="473" left="137" width="83" height="15" font="7">July, 2018 –</text>
+<text top="493" left="167" width="51" height="15" font="7">Present</text>
+<text top="473" left="231" width="175" height="15" font="8"><b>Software Engineer OJT</b></text>
+<text top="473" left="407" width="5" height="15" font="7">,</text>
+<text top="473" left="417" width="267" height="15" font="9"><i>FPT Software HCM - Can Tho Branch</i></text>
+<text top="473" left="684" width="72" height="15" font="7">, Vietnam.</text>
+<text top="494" left="231" width="523" height="13" font="10">I am participating an on-job-training program for 6 months. My responsibilities are:</text>
+<text top="512" left="231" width="8" height="16" font="11">{</text>
+<text top="512" left="248" width="340" height="13" font="10">Finding solutions for many Computer Vision problems.</text>
+<text top="529" left="231" width="8" height="16" font="11">{</text>
+<text top="530" left="248" width="366" height="13" font="10">Implementing Deep Learning algorithms using TensorFlow.</text>
+<text top="547" left="231" width="8" height="16" font="11">{</text>
+<text top="548" left="248" width="420" height="13" font="10">Deploying Machine Learning algorithms in production environment.</text>
+<text top="572" left="135" width="84" height="15" font="7">May, 2018 –</text>
+<text top="593" left="149" width="69" height="15" font="7">July, 2018</text>
+<text top="572" left="231" width="187" height="15" font="8"><b>Software Engineer Intern</b></text>
+<text top="572" left="418" width="5" height="15" font="7">,</text>
+<text top="572" left="428" width="267" height="15" font="9"><i>FPT Software HCM - Can Tho Branch</i></text>
+<text top="572" left="695" width="72" height="15" font="7">, Vietnam.</text>
+<text top="593" left="231" width="550" height="13" font="10">I have implemented some deep learning algorithms that are related to Natural Language</text>
+<text top="611" left="231" width="207" height="13" font="10">Processing and Computer Vision.</text>
+<text top="633" left="115" width="104" height="15" font="7">August, 2015 –</text>
+<text top="653" left="167" width="51" height="15" font="7">Present</text>
+<text top="633" left="231" width="100" height="15" font="8"><b>Private Tutor</b></text>
+<text top="633" left="332" width="5" height="15" font="7">,</text>
+<text top="633" left="342" width="166" height="15" font="9"><i>Duong Lu Dien Training</i></text>
+<text top="633" left="508" width="72" height="15" font="7">, Vietnam.</text>
+<text top="654" left="231" width="553" height="13" font="10">I have worked as a private tutor at a unofficial organization called Duong Lu Dien Training.</text>
+<text top="672" left="231" width="550" height="13" font="10">I made some offline courses to help my friends in CTU learn programming. I also wrote</text>
+<text top="690" left="231" width="550" height="13" font="10">tutorials and made videos about C programming language, object-oriented programming</text>
+<text top="708" left="231" width="550" height="13" font="10">and algorithms. Some courses which were taught by me are Fundamentals of Computer</text>
+<text top="726" left="231" width="392" height="13" font="10">Programming, Data Structures, Object-oriented Programming.</text>
+<text top="759" left="231" width="92" height="19" font="6">Languages</text>
+<text top="792" left="140" width="136" height="15" font="7">Vietnamese Native</text>
+<text top="816" left="169" width="280" height="15" font="7">English Professional working proficiency</text>
+<text top="853" left="231" width="153" height="19" font="6">Professional skills</text>
+<text top="886" left="130" width="331" height="15" font="7">Career Fields Machine Learning, Deep Learning</text>
+<text top="910" left="126" width="216" height="15" font="7">Programming Python, Java, C</text>
+<text top="935" left="137" width="306" height="15" font="7">Frameworks TensorFlow, PyTorch, OpenCV</text>
+<text top="959" left="172" width="504" height="15" font="7">Others Data Structures and Algorithms, Linux, Computer Network, SQL</text>
+<text top="996" left="231" width="162" height="19" font="6">Grants and awards</text>
+<text top="1028" left="231" width="9" height="18" font="12">{</text>
+<text top="1029" left="246" width="348" height="15" font="7">Outstanding Undergraduate Student Award (2016)</text>
+<text top="1053" left="231" width="9" height="18" font="12">{</text>
+<text top="1054" left="246" width="412" height="15" font="7">Student Exchange: CTU - PSU in Hat Yai, Thailand (2016)</text>
+</page>
+<outline>
+<item page="1">Education</item>
+<item page="1">Experience</item>
+<item page="1">Languages</item>
+<item page="1">Professional skills</item>
+<item page="1">Interests</item>
+<item page="1">Grants and awards</item>
+</outline>
+</pdf2xml>

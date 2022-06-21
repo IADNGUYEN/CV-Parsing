@@ -1,0 +1,35 @@
+01 January 1993 
+Minh-Tan Dao
+(+84) 1684 393 131
+tanb1204069@student.ctu.edu.vn
+daominh.tan93@gmail.com
+Vietnameses (Morther Tongue)
+English (Intermidiate)
+EXTRACURRICULAR 
+EXPERIENCES
+INFORMATION
+PROFESSIONAL EXPERIENCES
+COMPETENCES  Now: Software engineering 
+>  CanTho University  ctu.edu.vn  July 2015: Certificate of Global Software Talent
+> Global Java Developer training course by Fpt Software  www.fpt-software.com  October 2014: Participate ACM/ICPC 
+> Scorer Team  Nong Lam University  www.hcmuaf.edu.vn  Project GST from Fpt Software
+>  Graduation project, Supervisor: Pham The Phi {ptp@cit.ctu.edu.vn}
+> Technical Keywords: Spring, Hibernate, Java (EE), MVC  Project building website: mtpc.edu.vn
+> Scholar project, Supervisor: Huynh Xuan Hiep {hxhiep@cit.ctu.edu.vn }
+> Technical Keywords: joomla framework, css, responsive  Project  Arduino Robot  
+> Scholar project,  Supervisor: Huynh Xuan Hiep {hxhiep@cit.ctu.edu.vn }
+> Techical Keywords: embedded, arduino, motor shietld
+Project  Game X-hunter 
+> Scholar project,  Supervisor: Ho Quang Thai {hqthai@cit.ctu.edu.vn}
+> Techical Keywords: Java, socket, canvas  Youth Union Executive Committee 
+(College of Information & Communication 
+Technology, 2012-2015)  Participating in Volunteer on 
+Exam season supporting 
+in Can Tho (2014)  Software development: 
+Java, C/C++ (Netbean, Eclipse, DevC)  Mobile development: 
+Android (Android Studio, Eclipse + ADT)  Web development: 
+HTML, CSS, JavaScript ,PHP, spring, hibernate, joomla  Multimedia development: 
+Photoshop, ProShow  DB Management: 
+SQL , MySQL, Microsoft SQL Server , Microsoft Access   Architectural Design: 
+UML(StarUML, Powerdesigner)   Embedded Development: 
+MSP430 (Code Composer Studio), Arduino (Arduino IDE) 

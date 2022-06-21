@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1047" width="748">
+	<fontspec id="0" size="16" family="ABCDEE+Calibri" color="#000000"/>
+<text top="3" left="14" width="4" height="17" font="0"> </text>
+<text top="37" left="14" width="4" height="17" font="0"> </text>
+<text top="71" left="14" width="4" height="17" font="0"> </text>
+<text top="104" left="14" width="4" height="17" font="0"> </text>
+<text top="138" left="14" width="4" height="17" font="0"> </text>
+<text top="172" left="14" width="4" height="17" font="0"> </text>
+<text top="206" left="14" width="4" height="17" font="0"> </text>
+<text top="239" left="14" width="4" height="17" font="0"> </text>
+<text top="273" left="14" width="4" height="17" font="0"> </text>
+<text top="307" left="14" width="4" height="17" font="0"> </text>
+<text top="340" left="14" width="4" height="17" font="0"> </text>
+<text top="374" left="14" width="4" height="17" font="0"> </text>
+<text top="408" left="14" width="4" height="17" font="0"> </text>
+<text top="442" left="14" width="4" height="17" font="0"> </text>
+</page>
+</pdf2xml>

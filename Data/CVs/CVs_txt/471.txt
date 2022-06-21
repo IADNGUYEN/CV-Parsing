@@ -1,0 +1,119 @@
+ 
+MINH THAO NGUYEN
+Technical Project Manager
+Local Vietnamese
+20-04-1988, Male, Married
+Số 56, đường 25, phường 11, quận 6, district 6, Ho Chi Minh
+0974 811 177
+ngmthao200488@yahoo.com
+Candidate's Expectation
+Position:
+Technical Project Manager
+Job Level:
+Team Leader/Supervisor
+Work Place:
+Ho Chi Minh
+Job Category: IT  Software
+Salary :
+Negotiate
+Total years of
+experience:
+7 year(s).
+Highest Degree:
+Bachelors
+Language Proficiency:
+English(Intermediate)
+Most Recent Job:
+Technical Project
+Manager
+Most Recent Company: Snapbuck Company
+Current Job Level:
+Team Leader/Supervisor
+Career Objective
+i'm 28 years old. I've worked for 7 years in software developing on mulitple platforms as Windows
+Application, Web Application (desktop & mobile), Web API, Web Server, Database Server, Mobile
+Application (Android & iOS) and have joined many diffirent projects. I worked also on the diffirent roles from
+team member, team leader, technical team leader and now is technical project manager. I love to research
+the new technogies. Especially, it's from Microsft. With passionate, creative, enthusiastic and alway try
+learn. I like produce the best quality software for everyone
+Career Highlights
+N/A
+Education & Qualifications
+Bachelors  University of Greenwich
+Science Computing  Sep 2012  Dec 2013
+Bachelor of science computing at the University of Greenwich
+Bachelor of Engineering  Aptech
+Software Programming  Dec 2007  Jul 2009
+HDSE (Higher Diploma in System Engineering)
+Others  Aptech
+Software Programming  Jan 2007  Dec 2007
+DISM (Diploma in Information System Management)
+Others  Aptech
+Software Programming  Jun 2006  Jan 2007
+CPISM (Certificate of Proficiency in System Management)
+Work Experience
+Technical Project Manager  
+Snapbuck Company  Oct 2014  Present  Tool: Visual Studio 2013, Azure Explorer  Web: ASP.NET MVC 4, .Net Framework 4.5, Entity Framework, jQuery, AJAX, JSON, HTML 5, CSS 3,
+Bootstrap css framework  Agile methodologies: Scrum   Cloud:
+Windows Azure
+Microsoft Cloud Service
+Microsoft Azure Storage File   Database: SQL Server 2014, SQL Azure   Server side: ASP.NET WebAPI, Azure Cache   Hosting: IIS, Azure Cloud Service   Manage Source Code: TFS 2013   Responsibilities:
+Manage all teams in company. it includes server side, android, iOS, QC and design team
+Interview new member
+Assign task to all members
+Analytics the requirement of each project for each team.
+Research and decide all technologies are used in whole company.
+Build a responsive website using ASP.NET MVC 4 support on both desktop and mobile device
+Design and implement Database
+Writes store procedure, trigger, rebuild index and optimize query performance
+Build a service using ASP.NET WebApi technology that support for all clients as Android, iOS and
+Windows Phone
+Build mechanism to secure in network environment
+Report progress to CEO   Achieved Products:
+Snapbuck Mobile App (Android, iOS, Windows Phone).
+Reference:  https://play.google.com/store/apps/details?id=vn.snapbuck.SnapbuckMobile&hl=en
+Voice Mobile App (Android, iOS).
+Reference: https://play.google.com/store/apps/details?id=vn.snapbuck.voice&hl=en 
+Senior .NET, Technical Team Leader  
+FileString Company  Jul 2010  Sep 2014   Tool: Visual Studio 2012(C#), Microsoft Project 2013, Microsoft Visio 2013, UML, Jira(Manage Tasks).   Web: ASP.net MVC 3 and MVC 4, .Net Framework 4.5, Entity Framework, jQuery, AJAX, LinQ, JSON,
+HTML 5, CSS 3, Less CSS.   Agile methodologies: Scrum   Cloud:
+Windows Azure
+Microsoft Cloud Service
+Microsoft Azure Storage File   Database: SQL Server 2012, SQL Azure   Middleware: WebAPI, WCF Service, Cloud Services   Manage Source Code: TFS 2012   Responsibilities:
+Build Web Application by Architecture 3-Tier and Model MVC 4
+Design and administrative Database.
+Design and Administrative Data Service (WebAPI and WCF Service).
+Writes store procedure, trigger and provides Data Service to communicate between application
+clients( Windows(WPF), Mac, iOS, Web)
+Analytics and implement Web Application and WebAPI
+To assign tasks to each of team members.
+Supports technical(SQL Server, Cloud Computing, WebAPI, WCF Service, MVC 4, HTML 5 and
+CSS) to team members
+Build mechanism to secure in network environment 
+Secure data service(WebAPI, WCF Service, Cloud Service)
+Secure data in SQL Server
+Secure data of customer
+Encrypt and Decrypt data when transferring over internet
+Especially, Security in web application(Authorize, XSS, XSRF, JSON hijacking)
+Writes unit tests
+Training new member.
+Report progress to project manager   Achievement:
+Web: StoryCloud Website, FileString Website
+Database: Manage database center to storage all data in system(Win, Mac, iOS, Web)
+Services: Manage data service(WebAPI and WCF service) to communicate between all clients and
+database server
+Storage File: Storage and security file on azure storage
+Team member  
+Falcon Software  Aug 2009  Jun 2010  Software Environment: Visual Studio 2008(C#), Windows Forms, WPF, Asp.Net (2008, 2010), CSS, XML,
+HTML, JavaScript.  Database: SQL Server 2008.  Achievement:  
++ Software: Module Accounting Management, Hospital System Management for (Dai Hoc Y Duoc Co So
+4)  
++ Web: Module Show Products, Module Web Master…
+Team Member  
+Kim Thanh Consulting and Software Services Company  Aug 2008  Aug 2009  Software Environment: Visual Studio .Net C# (2005, 2008), Windows Forms  Achievement: Module Accounting Management software, Store Management, School Management,
+Hospital System Management…
+Skills
+N/A
+References
+N/A
+Powered by TCPDF (www.tcpdf.org)

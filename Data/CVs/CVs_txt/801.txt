@@ -1,0 +1,78 @@
+Curriculum Vitae                                                                                            NGUYEN DANG HUYNH – Data Specialist
+Skype:ndhuynh
+Mail:  huynhnd2.bda@gmail.com
+Phone/Whatsapp/: +84 988 961 573
+Add: District 7,HCMC, VN
+CAREER OBJECTIVES:
+Contribute   to   the   applying   of   Big   Data   and   Deep   Learning   techniques   into   daily   life   through
+enthusiasm works
+TRACK RECORDS:
+Worked as Big Data Analyst at FPT Telecom from 4/2017 to 5/2018, and as Business Analyst at Raffles
+Vietnam Company in 2015­2016
+Bachelor of Engineering at Ho Chi Minh City University of Technology (HCMUT­Vietnam) in Fair
+degree
+Post Graduate Certificate Program in Big Data Analytics and Optimization (CPEE) at International
+School of Engineering (INSOFE­Bangalore­INDIA), a fully curriculum from Language Technologies
+Institute (LTI) in the School of Computer Science at Carnegie Mellon Univerity (CMU)
+ACHIEVEMENT AND SKILLSET:
+Big Data Analyst at FPT Telecom Joint Stock Company (FTEL)
+04/2017­05/2018
+An  Engineer   of  Big   Data   team   with   3   members   serving   for  FPT   Play  project,   an   OTT
+Entertainment   Movies   and   Television   cover   on   multiple   platforms   such   as   iOS,   Android,
+SmartTV, Web and TV Box.
+Taking care the log system and infrastructure on Linux / CentOS servers such as configurate the
+computation cluster, optimize and fix bugs of log receiving services, from Kafka to Logstash
+Extraction and deliver the data insight of Google Analytics, Data Studio together with PowerBI to
+fulfil the business and marketing purpose
+Using Apache Spark framework on streaming, analyzing and  write out to PostgreSQL  and
+manage this database thereafter
+Big Data Analytics and Optimization program at  International School of Engineering (INSOFE ­
+India)
+09/2016­03/2017
+Programing language on R, Python, Spark (Scala) of machine learning MLlib, and streaming on
+near­real­time data with Spark Streaming and Kafka. Understanding and familiar with a variety
+of structured, unstructured data, and their relevant tools to ingest such as Sqoop, Kafka, Flume;
+being a good user of automate workflows on Oozie.
+Capstone Project on processing target marketing and cross selling on large dataset of an e­
+commerce enterprise in US, using multi­classification approach on churn prediction and optimize
+product recommendation. Applying various tools and library on transforming, featuring and
+Curriculum Vitae                                                                                            NGUYEN DANG HUYNH – Data Specialist
+Skype:ndhuynh
+Mail:  huynhnd2.bda@gmail.com
+Phone/Whatsapp/: +84 988 961 573
+Add: District 7,HCMC, VN
+creating key vital attribute to fix with business domain, and apply ensemble learning to build
+stacking models on its.
+Enthusiasm  and frequently applying of corpus, graph and NLP on text mining and sentiment
+analysis, together with classification and regression algorithm in machine learning and deep
+learning such as KNN, tree based model, SVM, H2O,RNN and CNN (using Keras). Understanding
+deeply the pipe line to build a model and turn its hyper­parameter to come out with reasonable
+accuracy
+Business Analyst at Raffles Vietnam Company Limited  
+06/2015­05/2016
+Work   and   interact   with   Client   focusing   on   Vietnam   country   and   frequently   on   Myanmar,
+Cambodia   market,   to   offer   business   solution   follow   with   quoting,   technical   servicing   and
+consulting on Building market
+Having 6 months on­shore duration in Singapore market, and partitipatin in 3 projects with multi
+national  partners     and   gain  a  strong   understanding   of   working  behaviors  and  cultures   of
+Singaporeans and Japanese stakeholders
+Personal lifelong learning and certificate skillset
+2016 ­ present
+FPT Corporate University 2­month program on Internet of Things : a course conduct by senior
+engineers / leaders from FPT corporation (FTEL, FTI, FIS, FSOFT) to cover a wide range domain
+in IoT and ARM Embebed such as ESP, STM, Node­RED, Alexa and Lamda Serverless computing
+AWS   Solution   Architect   @   Associate   Level   to   get   intouch   and   practicing   many   times   of
+component from VPC, high availibity, bastion host, NAT gateway to EC2 instance management
+together with backup and security solution
+Linux System Admin Level on Centos and Redhat servers majoring to shell sripting (using python
+2 and 3), storage, utilities and command line,..
+Cognitive Class with IBM recognition Badge from Big Data and Hadoop ecosystem, Scala, Spark
+and basic Crypto currency knowledge
+RELEVANT ATTITUDES:
+Applying statistic and probability on daily life and enable to view facts under a logical and  
+numerical lens
+Honestly, truthfully and working toward the art­of­completion of any task given with high
+ambition and diligence; respecting the differences, and fast adaption to the updated tools on big
+data trending.
+Strong leadership and interaction skills on handling with group of people and colleagues, such as
+A Head of Class in University and captain in football team.

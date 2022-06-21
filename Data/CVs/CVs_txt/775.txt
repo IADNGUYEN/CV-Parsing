@@ -1,0 +1,222 @@
+ 
+CURRICULUM VITAE 
+I. PERSONAL DETAILS 
+Full Name:
+Huỳnh Thái Kinh 
+Gender:
+Male 
+Year of birth:
+1989 
+E­mail:
+huynhkinh@gmail.com 
+Phone number:
+0169 8 666 784
+DESIRED POSITION: 
+Senior Engineer 
+CAREER OBJECTIVE 
+Working and researching in professional environment. 
+Each product is made, the company's pride. 
+II. QUALIFICATION 
+Year 
+College/University Name 
+Degree 
+Major 
+2008 ­ 2012 
+Ton Duc Thang University 
+BA in Computer 
+Science 
+Computer Science 
+2010 ­ 2011 
+NIIT Hoa Sen 
+DNIIT 
+Network 
+Engineering 
+III. EXPERIENCE 
+Year 
+Company/Organizations 
+Roles 
+12/2012 ­ Now 
+VJSOFT CO.,LTD, ISB VietNam 
+Developer, Customer's Partner 
+03/2012 – 01/2013 
+MultiCOLOR Corp 
+Video Manager 
+04/2011 – 04/2012 
+RealCom CO.,LTD 
+Software developer, Implementer 
+1. Knowledge in 
+­
+Web and Application 
+­
+ERP, CMS systems 
+­
+Design 
+­
+Video Conference 
+2. Experienced in 
+­
+Technical support 
+­
+Create and maintain structure of project 
+­
+Suggest solution for customer 
+1 | Page 
+­
+Working in Japan environment 
+3. Other Skills 
+­
+Create/Estimate Plan for task 
+­
+Report task/research 
+­
+Get major factor quickly when access issue 
+­
+Get request/analysis the functions and requirements of customers. 
+­
+Deploying and installing applications on the infrastructure of the customer.  
+­
+Analysis  Deployment  system maintenance on demand enterprise network. 
+IV. THE INVOLVED PROJECT 
+1. KDS 
+­
+The ERP system for goods management, It manages goods in store, analysis goods an 
+display report for production plan and report figures and notify for admin. It support 
+assign role for each user. 
+­
+Implemented base on client server architecture, web socket. 
+­
+Client using MVVM  structure and WPF for UI in .NET, Server communicate by Play 
+Framework and Ebean in Java, database is PostgreSQL. 
+2. HotelGroup 
+­
+The web application, used for booking and management room in hotels, make manage 
+throughout from PC to web and experience across many platforms. 
+­
+Using MVVM in .NET and Javascript, database is SQL server. 
+3. Bogaca 
+­
+The system manage farm product for Dak-Lak province by barcode. System process 
+asynchronous data to improve experience user. 
+­
+Using .NET for core processing in client beside PHP play a role API server for processing 
+Data. 
+4. PKG 
+­
+The Driver management, Report module is a part of system make reports information 
+about working status and schedule in month for per employee or vehicle. 
+­
+Using .NET technology and VB-report library. 
+5. LionFx 
+2 | Page 
+­
+The stock exchange helper application, automatic make buying or selling belong 
+conditions given by user before, it create graph sell and buy of per stock index, filter and 
+raise real-time information. 
+­
+Using window form in .NET and customize controls to requirement. 
+6. SARES 
+­
+Management and import/export backup data for warehouse. 
+­
+Using Struts and jsp in java for implement system. 
+7. NSP-J, NSP-K 
+­
+Maintain and add functions for the ERP system. 
+­
+Using Aspose library to process complex excel report. 
+8. Phoenix of BTMU system 
+­
+Maintain and add functions for the financial system. 
+9. MobiMeeting, online video conference system. 
+Communication between many areas in video and sound by real-time, support many 
+other-purposes: 
+­
+Teaching with white board, share slide, document.. 
+­
+Remote meeting with roles chairman or attendees..  
+10. Some other projects 
+­
+The CRM for student management in CSCOM company. 
+­
+The CMS for Kien Giang Department of Education and Training. 
+­
+The LMS for Vinh Long University  Vinh Long provident. 
+­
+iMath, software support for teaching mathematics in high-school for Long An 
+Department of Education and Training. 
+3 | Page 
+V. SKILLS 
+1. Language/Technology: 
+­
+.NET: WPF, WCF, COM+, MVVM,.. 
+­
+Web: Web API, CSS bootstrap, Jquery: Kendo, easyUI,.. 
+­
+XML: XSLT, WSO2, SOAP, XSD, XPath. 
+­
+Report: VB-Report, Aspose. 
+­
+Java: Struts 2, Play Framework. 
+­
+Flex, actionscript in Flash Media Server. 
+­
+PHP: Joomla, EC-CUBE, CodeIgniter. 
+­
+Database: MS SQL server, MySQL, Oracle, PostgreSQL. 
+2. Soft skill: 
+­
+Sort of customer requirements to ensure deadline. 
+­
+Have ability to present and write reports well. 
+­
+The discussion skills, group management. 
+­
+Support other members. 
+3. Technical: 
+­
+Analyzing-Planning system. 
+­
+Support team member with troubleshooting. 
+­
+Good knowledge of Computer Hardware, Window Systems. 
+­
+Experience with Database systems, and Internet connection technologies. 
+4. Others: 
+­
+Good communication. 
+­
+Good customer service skills. 
+­
+Experience about working alone or teamwork. 
+­
+Good ability to acquire knowledge and to use it in concrete situations 
+­
+Language known: English (reading and communication). 
+­
+Experience with Camera, photograph, video. 
+­
+Experience about Adobe Photoshop, Adobe Premiere, Adobe After Effect. 
+5. Roles Taken: 
+­
+Team Leader. 
+­
+Technical supporter. 
+­
+Key Developer. 
+­
+Tester. 
+6. Interest: 
+­
+Code pet project in free time. 
+Open source technology. 
+­
+Read technology news. 
+­
+Play capsule game. 
+­
+Listen and play music instrument. 
+­
+Film. 
+­
+Make friend. 
+4 | Page 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="21" family="ABCDEE+VNI-Avo" color="#000000"/>
+	<fontspec id="1" size="23" family="Arial,Bold" color="#ec7c30"/>
+	<fontspec id="2" size="22" family="Arial" color="#001f5f"/>
+	<fontspec id="3" size="14" family="Arial" color="#001f5f"/>
+	<fontspec id="4" size="21" family="Arial" color="#000000"/>
+	<fontspec id="5" size="37" family="Arial,Bold" color="#ffffff"/>
+	<fontspec id="6" size="30" family="ABCDEE+VNI-Avo,Bold" color="#ffffff"/>
+<text top="116" left="108" width="6" height="21" font="0"> </text>
+<text top="297" left="108" width="6" height="21" font="0"> </text>
+<text top="342" left="108" width="337" height="22" font="1"><b>P E R S O N A L D E T A I L S </b></text>
+<text top="384" left="108" width="300" height="21" font="2">Full  Name: Nguyen  Tan Xuan </text>
+<text top="424" left="108" width="149" height="21" font="2">Gender: Male  </text>
+<text top="464" left="108" width="263" height="21" font="2">Date of Birth: 07/03/1993  </text>
+<text top="504" left="108" width="195" height="21" font="2">Address: 43/22/4, 8</text>
+<text top="502" left="303" width="13" height="14" font="3">th</text>
+<text top="504" left="315" width="324" height="21" font="2"> Street, Thu  Duc District, HCMC </text>
+<text top="543" left="108" width="279" height="21" font="2">Cell Phone:  0165 708 5538 </text>
+<text top="584" left="108" width="337" height="21" font="2">Email:<a href="mailto:tanxuan1817@gmail.com"> tanxuan1817@gmail.com  </a> </text>
+<text top="622" left="108" width="6" height="20" font="4"> </text>
+<text top="667" left="108" width="218" height="22" font="1"><b>O B J E C T I V E S </b></text>
+<text top="709" left="108" width="649" height="21" font="2">Desire to become a Technical  Engineer  and work at professional </text>
+<text top="736" left="108" width="648" height="21" font="2">environment,  can connect  with my colleagues  to develop myself. </text>
+<text top="764" left="108" width="702" height="21" font="2">Willing  overtime  work. Believe  in when  I try to do anything,  if I fail I will </text>
+<text top="792" left="108" width="531" height="21" font="2">have  experience.  If I success, I will have  opportunity. </text>
+<text top="833" left="108" width="658" height="21" font="2">I believe  that I have  programing  skill, i think  I could  success in the </text>
+<text top="860" left="108" width="182" height="21" font="2">sorfware industry. </text>
+<text top="899" left="108" width="6" height="20" font="4"> </text>
+<text top="944" left="108" width="201" height="22" font="1"><b>E D U C A T I O N </b></text>
+<text top="985" left="108" width="671" height="21" font="2">Electronics and Communication  Engineering  Technology  at Ho Chi </text>
+<text top="1013" left="108" width="511" height="21" font="2">Minh  city University  of Technology  and Education.   </text>
+<text top="1052" left="108" width="305" height="21" font="2">From 2011 to now. GPA: 7.87 </text>
+<text top="185" left="278" width="106" height="34" font="5"><b>NGUY</b></text>
+<text top="178" left="385" width="265" height="41" font="5"><b>ỄN TẤN XUÂN </b></text>
+<text top="250" left="396" width="133" height="39" font="6"><b>RESUME </b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="7" size="22" family="Arial,Bold" color="#ec7c30"/>
+	<fontspec id="8" size="22" family="Arial,Bold" color="#001f5f"/>
+	<fontspec id="9" size="21" family="Arial" color="#333333"/>
+	<fontspec id="10" size="22" family="Symbol" color="#001f5f"/>
+	<fontspec id="11" size="16" family="Arial" color="#000000"/>
+<text top="116" left="108" width="208" height="21" font="7"><b>E X P E R I E N C E </b></text>
+<text top="156" left="108" width="102" height="21" font="8"><b>3-6/2015  </b></text>
+<text top="197" left="108" width="496" height="21" font="2">Trainee for New Product and Technology  Center. </text>
+<text top="237" left="108" width="701" height="21" font="2">My Project: Control the temperater in  turtle incubation  room by Zigbee </text>
+<text top="265" left="108" width="92" height="21" font="2">network. </text>
+<text top="305" left="108" width="663" height="21" font="2">Design  a system to control the temperater. Optimize and integrate </text>
+<text top="333" left="108" width="259" height="21" font="2">modules  based on Project</text>
+<text top="329" left="368" width="153" height="25" font="2">’s requirement. </text>
+<text top="371" left="108" width="108" height="21" font="8"><b>8-12/2015 </b></text>
+<text top="413" left="108" width="605" height="21" font="2">PB (Promotion  Boy) for some product advertising  Programs. </text>
+<text top="451" left="108" width="6" height="20" font="9"> </text>
+<text top="495" left="108" width="132" height="22" font="1"><b>S K I L L S  </b></text>
+<text top="534" left="135" width="10" height="28" font="10"></text>
+<text top="540" left="145" width="250" height="21" font="2">  English  communication </text>
+<text top="564" left="135" width="10" height="28" font="10"></text>
+<text top="570" left="145" width="437" height="21" font="2">  Good expression  and presentation ability. </text>
+<text top="596" left="135" width="10" height="28" font="10"></text>
+<text top="602" left="145" width="246" height="21" font="2">  Good at programming. </text>
+<text top="628" left="135" width="10" height="28" font="10"></text>
+<text top="635" left="145" width="128" height="21" font="2">  Teamwork </text>
+<text top="679" left="108" width="6" height="21" font="2"> </text>
+<text top="733" left="108" width="250" height="21" font="7"><b>C O N F I R M A T I O N </b></text>
+<text top="786" left="108" width="708" height="21" font="2">I hereby certify that all the above statements are absolutely correct and </text>
+<text top="815" left="108" width="345" height="21" font="2">true to the best of my knowledge.  </text>
+<text top="843" left="108" width="9" height="16" font="11">  </text>
+<text top="880" left="487" width="284" height="21" font="2">  Date 1 Month 1 Year 2016 </text>
+<text top="922" left="595" width="100" height="21" font="2">Signature </text>
+<text top="964" left="541" width="5" height="16" font="11"> </text>
+<text top="997" left="541" width="209" height="21" font="8"><b>  Nguyen Tan Xuan </b></text>
+<text top="1001" left="750" width="5" height="16" font="11"> </text>
+<text top="1036" left="108" width="5" height="16" font="11"> </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,43 @@
+ 
+NGO VAN KIM NGAN 
+Phone: 0909.121.550 
+Email: nganngo7454@gmail.com 
+DOB: 07-04-1995 
+Address: 258/54B Ho Hoc Lam, Binh Tan Dist. 
+OBJECTIVE 
+I like studying how things work. Especially with machine, smart phone, 
+devices… Technology in general. Observing the inner-working of things 
+excites me. Every parts have their job, unify together to form a single working 
+unit. 
+I am an honest person. I am willing to learn new knowledge to adapt to the 
+demand of the company with good attitude.  
+EXPERIENCE 
+5-2017 Implement a project named “Fashion Store”, an E-
+commerce site developed on Java with Spring MVC 
+Framework.  
+Using HTML, CSS, JS, SQL, Java 
+Late 2016 Research Unity and develop a 2D game named “Knights 
+Battle” using UNITY Framework and C# coding 
+language. 
+Knights Battle is a board game that player will play 
+against the computer (AI – will apply rules and make 
+decision based on player’s moves) to reach to the goal 
+faster. Game have 3 level easy, medium and hard. 
+6-2016 Develop “PATRACO”, a Java app built for manager in a 
+small transportation company to manage Contracts, 
+Customers, Drivers, and Vehicles.  
+Using Java, SQL 
+HOBBY 
+Read novel, Autobiography, Psychology book, Philosophy. 
+Watch movies, especially sci-fi, action, cartoon. 
+Do housework 
+EDUCATION 
+2015-2017 Studying programming at FPT- Aptech. 
+PERSONAL SKILLS 
+Mother tongue Vietnamese 
+Other language English 
+Coding language Java, C#, HTML, Javascript, CSS. 
+Other skills Make video clip, Photograph, Unity, Team player 
+Other Have interest in data mining and other new 
+technologies.  
+Ready to learn new coding language 

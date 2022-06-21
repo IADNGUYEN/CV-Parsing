@@ -1,0 +1,216 @@
+Benjamin Tan Wee Bin 
+C/C Chung Cu Le Thanh B1-10-05 
+113/89 An Duong Vuong, Kp. 3 P  
+An Lac, Q. Binh Tan Tp. Hcm,  
+Viet Nam 
++84 934162305  
+Email: tben1981@gmail.com  
+EXECUTIVE SUMMARY 
+An Scrum Certified IT System Engineer with 13 years’ experience, experienced in industries such as manufacturing, 
+life sciences, media production, education, IT hardware and software development. 
+Having work experience as an IT specialist, IT support engineer, implementation project manager, and software 
+project manager, comfortable interfacing with all levels of management, with ability to understand various business 
+processes and company operations, with a passion to find IT solutions that allow end users to perform work 
+effectively.  
+Possess other non IT related skills such as understanding of the Singapore Quality Class framework, Peoples 
+Developer Standard, trained in project management methodology from PMI   
+During the course of career, he had led a software development and server implementation projects with the Royal 
+Brunei Police Force, Survey Department and the Public Works department of the Government of Brunei 
+Darussalam. 
+He took part in implementation projects with Ikea Singapore, Siemens and GE money, as well as initiated many 
+office automation processes such as a resource booking system, enforcing company IT policies and organizing 
+training seminars for users.  
+AREAS OF EXPERTISE 
+SCRUM Methodology  
+ERP/CRM/Share point Integration 
+Digital Audio and Video editing 
+Document Management & Imaging 
+Peoples Developer Standard 
+Project Management 
+Industrial Scanners 
+Cisco Enterprise Network Design 
+Singapore Quality Class 
+Cisco Routers, Hubs and Switches 
+Windows OS 
+Active Directory Administration 
+EDUCATION 
+Oct 2003  Apr 2006: Bachelor In Computer Science, University Of Adelaide, Australia  
+Jul 1998  Jun 2001: Diploma in Multimedia Computing, Ngee Ann Polytechnic, Singapore 
+Jan 1993  Dec 1997:  GCE O Levels, Tanglin Secondary School, Singapore 
+Jan 1988   Dec 1992: PSLE, Clementi Town Primary School, Singapore 
+PROFESSIONAL CERTIFICATION  
+Jun 2006  Cisco Certified Network Associate 
+Jul 2006  Certified Associate in Project Management (By Project Management Institute)  
+Feb 2008  Microsoft Certified Technology Specialist: Microsoft Office Share Point Server 2007 – Configuration 
+May 2009- Cisco Certified Design Associate  
+Apr 2010  Microsoft Certified Technology Specialist: Microsoft SQL Server 2008, Installation and Maintenance 
+Apr 2010  Microsoft Certified IT Professional: Database Administrator 2008 
+Jan 2018 – Professional Scrum Master 1  
+NATIONAL SERVICE STATUS 
+Refer to Job Experience (Course Admin Supervisor (Assistant Chief Clerk)) 
+EXPECTED SALARY 
+Negotiable 
+Professional Experience 
+IT Project Manager   
+July 2016-Jan 2018 
+NIFTIT LLC  
+NIFTIT is a development and design agency in New York, Vietnam & Hong Kong, dedicated to empowering users 
+through nifty solutions. NIFTIT specializes in custom developed solutions for SharePoint as well as the design and 
+implementation of their developed SharePoint Jumpstart Package which provides a simple, easy to use interface on 
+top of traditional SharePoint implementation.  
+Industry Served: Government, Non Profit Organizations, Healthcare, Information Technology and Services   
+Achievements 
+Designed and implemented a custom SharePoint report, drawing data from 4 different data sources 
+Designed product features road maps for SharePoint Jumpstart Package product 
+Led the Team to design and implement a Metro-Style custom branding Portal for SharePoint  
+Integrated Microsoft CRM online with SharePoint using Application hosted on Microsoft Azure 
+Job scope 
+Requirement gathering and Project Management  
+First level support for clients  
+Project Management and Implementation  
+Creating of user guides and documentation  
+IT System Engineer  
+July 2010-July 2016 
+ITIS Wescot Technology Sdn Bhd 
+ITIS Wescot Technology Sdn. Bhd was incorporated in the year 1998, with a mission to become a leading IT service 
+provider in Brunei Darussalam. Today the company has grown and is one of the leading companies of integrated 
+technology and business solutions serving customers in Brunei. ITIS Wescot work with implementation partners 
+from around the globe, including suppliers and software professionals from the USA, UK and South East Asia.  
+Industry Served: Government  
+Achievements 
+Learnt to Operate a legacy HP 3000 database system in 1 month, 
+Design data extraction methods to HP 3000 with free system tools in 2 weeks, eliminating the use 
+of expensive 3rd party tools  
+Implemented a Geospatial Information System for the Survey Department using ERDAS Apollo  
+Designed Software extensions for additional functionality to a Police Records Management System.  
+Deployed 2 Stratus Servers running on Windows 2008 and Red Hat Linux for the Brunei Government 
+Job scope 
+Pre-Sales activity such as tender Response, Proposal Preparation and Presentation 
+Installation of commercial off the shelf products as well open sourced solution 
+Project Management and Implementation  
+Hardware Infrastructure Documentation 
+Design of hardware infrastructure for projects and solutions. 
+Server Hardware Support  
+Project Manager 
+Aug 2009 – Feb 2010 
+DGComm Solutions Sdn Bhd (Brunei Darussalam) 
+DGComm Solutions Sdn Bhd is a company under the ISAT Group, a multi-industry conglomerate strategically-
+focused and committed to excellence. Established in 2000, the group has achieved significant growth in its various 
+operations, particularly in the Information, Communication and Technology industries. It has played important roles 
+in various government projects and continuously expands in the medical and education sectors.  
+Achievements  
+Prepared 17 Tender Responses for various Brunei Government Projects in 6 Months Period 
+Represented Brunei Darussalam in the 6th China-ASEAN Expo in Nanning China 
+Secured Authorized Dealer Rights of 4 overseas computer companies  in 1 Month 
+Job scope 
+Project Management 
+Office Administration 
+Company Pre sales activity 
+Tender Response Preparation 
+Procurement and Deployment of CCTV, Network cabling projects 
+Project Manager 
+Nov 2008-April 2009 
+Kodak (Singapore) Pte Ltd 
+The history of Kodak can be traced all the way back to 1878 to her founder, Mr George Eastman. Kodak is a global 
+company with a rich photographic history and an exciting digital future.   
+Kodak’s Graphic Communications Group is a unit of Eastman Kodak Company, the world’s foremost imaging 
+innovator. The Graphic Communications Group provides commercial printers, packaging printers, publishers, data 
+printers, and enterprises with one of the broadest portfolios of technologies, products, and services in the graphic 
+communications and document capture industries.   
+Industry Served: Banking and Finance, Insurance, Logistics, Trade Unions, Service Bureau  
+Achievements 
+Designed a Document Management workflow for an Insurance Industry Client to speed up their claims 
+processing and storage of hard evidence.  
+Gather information of on-going project, recreated missing project documentation in 1 month 
+Coordinated a work site shifting project in less than 2 hours’ notice of the customer 
+Recommended cost saving measure reducing operation cost by 40%, by reducing on paper usage and 
+printing costs.  
+Identified an operational risk and prevented a change request that could potentially cause service delays 
+and operational problems by suggesting a new workaround for the customer. 
+Job scope 
+Project Management 
+Project Profit and Lost tabulation for management review 
+Billing and Invoicing to customers for the various projects managed.  
+Free Lance Project Manager 
+Aug  2006-Nov 2008 
+Industry Served:  F&B, Manufacturing, Education, Healthcare, Non Profit Organizations, Construction, Non Profit 
+Organization, Manufacturing, Banking and Finance 
+Achievements 
+Led a Project Document Management System project, with the Public Works department of the 
+Government of Brunei Darussalam  
+Led a web development project called “Tender Collection and Submission System”  for the Government 
+of Brunei Darussalam  
+Closing two over scoped projects left behind by previous project managers 
+Designed Document Management and Capture Solutions for Patient Medical Record  
+Leading a team to take over, resolve issues of an  ERP project with no documentations in 2 weeks 
+Successfully Integrated a POS System with MS Dynamics GP 
+Deployed a Turn Key ERP/CRM Solution for a F&B Client 
+Managed an E-Referral Project for a local Healthcare Organization 
+Job scope 
+Project Management 
+Leading the Consultants, Developer Team lead to deploy ERP/CRM Systems 
+Solution design with the Software Solution Architect.  
+Provide information and specification to developers for software development 
+Engage in presales activities such as proof of concept 
+Overseeing deployment of Information Management Solutions  
+2nd Level support for the partners and client  
+IT Consultant Experience 
+July 2005 – Aug 2006 
+Industry Served:  Manufacturing, Bio-Science, Education, Financial Services, Building and Construction, Shipping 
+Achievements 
+Led a Software deployment project to upgrade Symantec Antivirus Server from Version 9 to 10 for 400 
+clients in 2 hours 
+Designed and Implemented backup and recovery solution using Veritas Backup Exec 10 and a Network 
+Attached Storage.  Decreasing disaster recovery time by 40%.  
+Provided consultancy to customers regarding the network implementation of their mega retail store in 
+Tampines 
+Recommended a desktop security solution for a Bio-Science manufacturer cutting decreasing desktop 
+down time by 30% 
+Wrote an antivirus fix tool to fix a new variant of W32 Spybot virus that attacked a client’s computer 
+network 
+Planned an Active Directory Migration Project 
+Job scope 
+Active Directory and Lotus Notes Administration 
+Desktop Support for end users, PC inventory management  
+Pre Sales activity for customers 
+Deployment and Implementation of  hardware and software solutions 
+IT Engineer Experience  
+Feb 2004 – Jun 2005 
+Industry Served:  Manufacturing 
+Achievements 
+Design and Implemented a resource booking system on the Exchange 2003 Server, reducing office 
+administration task by 20% 
+Took part in Disaster Recovery when the Headquarter office caught fire (Testimonial awarded) 
+Initiated a project to set up a staging environment  to assist testing of patches and new software 
+Reducing PC downtime by 15% 
+Implemented an Airway Bill printing solution with DHL vendors to allow various shipping departments 
+Speeding up their customer shipping processes by 30% 
+Job scope 
+Desktop Support 
+Administration of Active Directory Administration, AS400 and Movex system 
+Vendor Management 
+Provide Hardware support for SAP ERP implementation team 
+Troubleshooting of manufacturing plant critical system such as Wetblue system, Piravano Color Mixer and 
+Cad Cam.  
+Course Admin Supervisor (Assistant Chief Clerk) 
+Jun 2001 – Dec 2003 
+Mindef  SAF Warrant Officer School  
+The SAF warrant officer school provides Tri service training for senior sergeants of the Singapore Arm forces. It 
+conducts courses for Master Sergeants to Warrant Officers for specialist from the various services.  
+It was awarded the Singapore Quality Class award from Spring Singapore for the quality of work perform by the 
+school.  
+Achievements 
+Course Leader for the 145th Basic Administrative Supervisor Course. 
+Promoted to a specialist rank for contribution to the unit 
+Leading the sub-project with permanent staffs of the school in the people’s category of the Singapore 
+Quality Class. (Testimonial awarded) 
+Taught Microsoft office skills to the unit clerks to increase productivity.  
+Providing Business process reengineering to simplify course administration.  
+Promoted FISH philosophy to the unit clerks to boost the morale of the unit. 
+Job scope 
+Coordination of invitation of military guests for all ceremonies and event held by the school 
+In charge of personnel administration of 6 different types of Warrant Officer courses held by the school 
+In charge of allocation of training resources and the grouping of students. 
+In charge of daily administrative needs to the courses. 
+Standing in as Chief Clerk when she is away on a course. 
+Managing of the Schools Orderly room.  

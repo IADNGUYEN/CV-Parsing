@@ -1,0 +1,58 @@
+          NGUYỄN HẢI ĐĂNG       
+PRESENT ADDRESS :  
+Address  
+:229/8 Phan Van Tri Street, 11 Ward, Binh Thanh District, Ho Chi Minh 
+City, Viet Nam.  
+Email Address  
+: haidang5101994@gmail.com  
+Tel  
+: 01648415196.  
+EDUCATION :  
+2016:             Graduate at University of Technology and Education 
+HCM city.  
+Computer engineering (Good bachelor). 
+2012  2016  
+University of Technology and Education HCM city.  
+Computer engineering. 
+2009  2012  
+Gia Định senior high school, Ho Chi Minh city.  
+EXPERIENCE :  
+6/2017  12/2017: R&D in Artificial Intelligence at IoT Investment and 
+Development Co,ltd.  
+3/2017-5/2017: Leave Renesas and not to be full time because of going to 
+hospital for surgery. Study deep learning at MOOC fast.ai.  
+9/2016  2/2017: Part time software engineer at Renesas Design Vietnam Co,.ltd 
+2015: Internship in Vskyline Ltd . 
+Position: R&D.   
+2014: Study Machine Learning by Stanford University on Coursera.org  
+ACHIEVEMENT:  
+FPT Autonomous Car Contest:  
+2016 
+Artificial Intelligent, Deep Learning, Reinforcement learning: 
+The car Using Kinect to detect obstacle, white line on the street, traffic sign and traffic ligtht. 
+Training data for detect object using convolutional neural networks (CNNs)  by Tensorflow and python. 
+Texas Instrument MCU design contess :  
+2015  
+Computer vision, voice recognition, Gyroscope and accelormeter :  
+Friendly Balancing robot. This robot can recognize the specific person, 
+some object inour home, using voice to command the robot to find and bring the object we 
+want.This robot auto balancing on two wheel. 
+University :  
+2014 
+Maze Running robot: Using JetsonTK1 Nvidia Kit for highly image 
+processing performance to recognize the maze by a camera that attached high on the robot 
+and running in this. 
+SKILLS :  
+Electronics :  
+Fluency all electronics basic principle and device in industry.  
+Experience work with Modules GSM, Driver Stepper Motor.  
+Experience using Eagle and Proteus. 
+Experince in ATMEGA, PIC, MSP430 MICRO CONTROLLER 
+Computer :  
+Experience in Linux OS.  
+Fluency in programming C/C++, python language.  
+Fluency in Opencv, Keras library and other machine learning 
+technique.  
+Language :  
+Able to read technical documents in English. Good English 
+communication skills.  

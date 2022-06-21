@@ -1,0 +1,84 @@
+CURRICULUM VITATE OF 
+TRAN TAN PHAT 
+PERSONAL DETAIL 
+Full Name 
+TRAN TAN PHAT 
+Gender 
+Male 
+Date of Birth 
+February 8th 1993 
+Address 
+311 E Nguyen Thien Thuat Building, District 3, Ho Chi Minh 
+City 
+Tel 
+0128 442 7247 
+Email 
+zec82993@gmail.com 
+OBJECTIVES  I want to become a good java programmer.  Work in a professional environment.  Develop my skills with development of company and improve myself. 
+EDUCATION  2011 – 2014: Student of Ton DucThang University.  2009 – 2011: Student of Hoang Hoa Tham high School. 
+QUALIFICATION  Have knowledge of Core java, jsp/servlet, Hibernate and Spring MVC, OOP 
+programming, Object oriented analysis and design …  Have knowledge of C#, ASP.NET, HTML, CSS, Javascript.  Have knowledge of design pattern (in JAVA).  GPA:6.61 
+LANGUAGE SKILL  English:  Toeic score 535 
+SKILLS  C++ programming  JAVA programming  System Analysis and Design  
+Objected – Oriented Programming 
+PROJECT THAT HAVE BUILT AT SCHOOL 
+Project Name 
+Block Call Application On Android 
+Time 
+Fall 2014 
+Programming 
+language 
+JAVA, Eclipse ADT Bundle, SQLite 
+Team member 
+2 
+Position 
+Member 
+Work description  Using Broadcast Receiver to block incoming call  Design simple interface for application 
+Result 
+Mark: 7.2 
+Project Name 
+Medical Store Billing using Spring MVC 
+Time 
+Fall 2014 
+Programming 
+language 
+Spring Tool Suite, MySQL 
+Team member 
+3 
+Position 
+Member 
+Work description  Coding on the function (Manage Order, Manage Payed-Report),interface,create 
+Sequence Diagram,Class Diagram,Use case diagram (Table Order, PayedReport) 
+Result 
+Mark: 9 
+Project Name 
+Note On Android 
+Time 
+Fall 2014 
+Programming 
+language 
+JAVA, Eclipse ADT Bundle, SQLite 
+Team member 
+2 
+Position 
+Member 
+Work description  Coding function (Add, Delete, Edit notes)  
+Result 
+Mark: 7 
+This is all about my CV. With my passion, experiences and knowledge, I believe that i can satify the 
+company requirement. I look forward to working at your company. 
+Thank and Sincerely! 
+Project Name 
+Mail Checker Application 
+Time 
+Summer 2014 
+Programming 
+language 
+C#, Visual Studio 2012 
+Team member 
+2 
+Position 
+Member 
+Work description  Using Imap, Pop3 dll to check google mail  Design interface 
+Result 
+Mark: 8.5 

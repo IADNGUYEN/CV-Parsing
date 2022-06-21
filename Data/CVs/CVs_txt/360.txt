@@ -1,0 +1,49 @@
+ 
+Work Experience 
+.NET Software Engineer 
+Nov 2015 – Now (1 year 4 months) 
+✓ Develop eDocs Application that receives 1k+ documents a 
+day from several sources (emails, scanners, third-parties) and turn the company offices 
+into paperless environment. The application provides interfaces to browse, search, read, 
+classify and share documents in a fastest and most convenient way. 
+✓ Techs: ASP.NET MVC/Web API, Entity Framework, SQL Server, WCF, Windows Service, 
+SignalR, MSMQ, Bootstrap, jQuery, Selenium, GIT, SVN and more… 
+✓ Full English working and Scrum methodology. 
+✓ Certificated best Toastmasters speaker. 
+Junior SharePoint Developer 
+Aug 2014 – Oct 2015 (1 year 2 months) 
+✓ Developed Task and Project Management application for 
+banking offices whose branches are located throughout 
+the country. 
+✓ Techs: Microsoft SharePoint 2013, ASP.NET Webforms, Console apps, SQL Server, 
+Telerik, jQuery, TFS. 
+✓ Interpreted in demo meetings and documentation. 
+Other Experience 
+Side project 
+Mar 2017 – Now 
+✓ Develop a .NET Core application that support musicians and song leaders to organize and 
+set up their rehearsal. 
+✓ Techs: ASP.NET Core, Entity Framework Core, Bootstrap, Angular, GitHub, TFS and CI. 
+Volunteer Interpreter 
+✓ Support foreign doctors, medical teams and preachers for charity and community works. 
+Education  
+Industrial University of Ho Chi Minh City 
+2011 – 2014 
+✓ College Degree major in Software Engineering. 
+✓ GPA 7.3.  
+Languages 
+English: professional working proficiency 
+Vietnamese: native 
+(French: if able to make it to Canada) 
+Objectives 
+✓ Efficiency in software architect, providing solutions and product management. 
+✓ Long-term working abroad, or international environment. 
+Khiem Nguyen 
+.NET Software Engineer 
+About me 
+✓ Get it done excellently 
+✓ Teamwork & Independently 
+✓ Eager to learn & improve 
++84 (0) 932 054 558 
+khiemcaleb@outlook.com 
+Ho Chi Minh, Vietnam 

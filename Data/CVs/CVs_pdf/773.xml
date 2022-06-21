@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="16" family="RobotoCondensed" color="#414142"/>
+	<fontspec id="1" size="14" family="RobotoCondensed" color="#444444"/>
+	<fontspec id="2" size="16" family="RobotoCondensed-Light" color="#444444"/>
+	<fontspec id="3" size="23" family="RobotoCondensed" color="#7c7a79"/>
+	<fontspec id="4" size="23" family="FontAwesome" color="#fcf8e0"/>
+	<fontspec id="5" size="16" family="RobotoCondensed-Light" color="#414142"/>
+	<fontspec id="6" size="13" family="FontAwesome" color="#fcf8e0"/>
+	<fontspec id="7" size="16" family="RobotoCondensed-Light" color="#fcf8e0"/>
+	<fontspec id="8" size="23" family="RobotoCondensed" color="#fcf8e0"/>
+	<fontspec id="9" size="48" family="RobotoCondensed" color="#a6a7a8"/>
+	<fontspec id="10" size="48" family="RobotoCondensed" color="#fcf8e0"/>
+	<fontspec id="11" size="16" family="RobotoCondensed" color="#fcf8e0"/>
+<text top="309" left="23" width="109" height="19" font="0"><b>FPT UNIVERSITY</b></text>
+<text top="309" left="476" width="131" height="18" font="1"><b>OCT 2014 - AUG 2018</b></text>
+<text top="461" left="23" width="136" height="19" font="0"><b>GLOBAL CYBERSOFT</b></text>
+<text top="461" left="477" width="131" height="18" font="1"><b>JAN 2017 - APR 2017</b></text>
+<text top="737" left="23" width="261" height="19" font="0"><b>FPT UNIVERSITY - CAPSTONE PROJECT</b></text>
+<text top="737" left="477" width="131" height="18" font="1"><b>JAN 2018 - APR 2018</b></text>
+<text top="1076" left="23" width="167" height="19" font="0"><b>FCODE (FPT UNIVERSITY)</b></text>
+<text top="1075" left="478" width="129" height="18" font="1"><b>OCT 2014 - DEC 2014</b></text>
+<text top="1228" left="23" width="266" height="19" font="2">Excellent Student of Spring Semester 2016</text>
+<text top="1228" left="578" width="30" height="18" font="1"><b>2016</b></text>
+<text top="139" left="23" width="87" height="27" font="3"><b>Objective</b></text>
+<text top="183" left="23" width="577" height="19" font="2">On the way to becoming a Professional Software Engineer. With my knowledge and technical</text>
+<text top="204" left="23" width="566" height="19" font="2">skills, I will contribute to the development of the company. And through the work, I can also</text>
+<text top="225" left="23" width="100" height="19" font="2">improve myself.</text>
+<text top="262" left="34" width="13" height="24" font="4"></text>
+<text top="258" left="63" width="91" height="27" font="3"><b>Education</b></text>
+<text top="330" left="23" width="176" height="19" font="5">Major: Software Engineering</text>
+<text top="360" left="23" width="75" height="19" font="2">GPA: 8.1/10</text>
+<text top="414" left="28" width="25" height="24" font="4"></text>
+<text top="410" left="63" width="154" height="27" font="3"><b>Work Experience</b></text>
+<text top="482" left="23" width="62" height="19" font="5">Internship</text>
+<text top="512" left="23" width="135" height="19" font="2">Main responsibilities: </text>
+<text top="533" left="23" width="166" height="19" font="2">- Study on an IoT platform.</text>
+<text top="553" left="23" width="185" height="19" font="2">- Learn Spring MVC, Python 3.</text>
+<text top="574" left="23" width="203" height="19" font="2">- Use Ubuntu OS as the main OS.</text>
+<text top="595" left="23" width="229" height="19" font="2">- Develop an Admin Web Application.</text>
+<text top="636" left="23" width="39" height="19" font="2">Gains:</text>
+<text top="657" left="23" width="287" height="19" font="2">- Understand Spring Framework and Python 3.</text>
+<text top="678" left="23" width="322" height="19" font="2">- Basic knowledge about IoT, MySQL and MongoDB.</text>
+<text top="699" left="23" width="189" height="19" font="2">- Ability to work on Ubuntu OS.</text>
+<text top="757" left="23" width="82" height="19" font="5">Team Leader</text>
+<text top="787" left="23" width="132" height="19" font="2">Main responsibilities:</text>
+<text top="808" left="23" width="526" height="19" font="2">- Research: Reinforcement Learning, Markov Decision Process, Q-Learning and Ant-Q</text>
+<text top="829" left="23" width="63" height="19" font="2">algorithm.</text>
+<text top="850" left="23" width="433" height="19" font="2">- Implement Ant-Q algorithm to solve the traveling salesman problem.</text>
+<text top="870" left="23" width="555" height="19" font="2">- Develop a demo application to visualize the Ant-Q algorithm running process and collect</text>
+<text top="891" left="23" width="339" height="19" font="2">data to compare Ant-Q with other heuristic algorithms.</text>
+<text top="933" left="23" width="39" height="19" font="2">Gains:</text>
+<text top="953" left="23" width="520" height="19" font="2">- Basic knowledge of Reinforcement Learning, Markov Decision Process, Q-Learning</text>
+<text top="974" left="23" width="315" height="19" font="2">- Understand PyQT, Matplotlib and Ant-Q algorithm</text>
+<text top="1028" left="29" width="21" height="24" font="4"></text>
+<text top="1024" left="63" width="88" height="27" font="3"><b>Activities</b></text>
+<text top="1096" left="23" width="176" height="19" font="5">Member of FPT Coding Club</text>
+<text top="1126" left="23" width="102" height="19" font="2">-Volunteer work.</text>
+<text top="1180" left="29" width="21" height="24" font="4"></text>
+<text top="1176" left="63" width="159" height="27" font="3"><b>Honors &amp; Awards</b></text>
+<text top="366" left="662" width="13" height="14" font="6"></text>
+<text top="363" left="686" width="107" height="19" font="7">October 12, 1996</text>
+<text top="401" left="663" width="11" height="14" font="6"></text>
+<text top="398" left="686" width="30" height="19" font="7">Male</text>
+<text top="435" left="663" width="11" height="14" font="6"></text>
+<text top="432" left="686" width="86" height="19" font="7">01203135665</text>
+<text top="470" left="663" width="12" height="14" font="6"></text>
+<text top="467" left="686" width="156" height="19" font="7">ducnha1210@gmail.com</text>
+<text top="505" left="665" width="8" height="14" font="6"></text>
+<text top="501" left="686" width="163" height="19" font="7">166/2A, Hiep Thanh Ward,</text>
+<text top="522" left="686" width="174" height="19" font="7">District 12, Ho Chi Minh City</text>
+<text top="558" left="666" width="5" height="14" font="6"></text>
+<text top="554" left="686" width="185" height="19" font="7">https://www.facebook.com/d</text>
+<text top="575" left="686" width="54" height="19" font="7">ucnha12</text>
+<text top="643" left="646" width="66" height="27" font="8"><b>SKILLS</b></text>
+<text top="687" left="646" width="66" height="19" font="7">Teamwork</text>
+<text top="732" left="646" width="178" height="19" font="7">Logical thinking and creative</text>
+<text top="777" left="646" width="45" height="19" font="7">English</text>
+<text top="822" left="646" width="30" height="19" font="7">Java</text>
+<text top="867" left="646" width="43" height="19" font="7">Python</text>
+<text top="912" left="646" width="111" height="19" font="7">Machine Learning</text>
+<text top="975" left="646" width="106" height="27" font="8"><b>INTERESTS</b></text>
+<text top="1019" left="669" width="38" height="19" font="7">Movie</text>
+<text top="1057" left="669" width="38" height="19" font="7">Music</text>
+<text top="1095" left="669" width="57" height="19" font="7">Traveling</text>
+<text top="28" left="458" width="418" height="57" font="9"><b>Pham Hoang Duc Nha</b></text>
+<text top="25" left="460" width="418" height="57" font="10"><b>Pham Hoang Duc Nha</b></text>
+<text top="80" left="681" width="199" height="20" font="11"><b>AI &amp; DATA SCIENCE ENGINEER</b></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+<text top="76" left="23" width="99" height="19" font="2">Pham Son Tung</text>
+<text top="97" left="23" width="343" height="19" font="2">Global Cybersoft - Senior Embedded Software Engineer</text>
+<text top="118" left="23" width="165" height="19" font="2">Email: tungps@gcsvn.com</text>
+<text top="138" left="23" width="133" height="19" font="2">Phone: 097-720-5453</text>
+<text top="17" left="32" width="16" height="24" font="4"></text>
+<text top="13" left="63" width="104" height="27" font="3"><b>References</b></text>
+</page>
+</pdf2xml>

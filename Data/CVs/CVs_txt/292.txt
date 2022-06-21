@@ -1,0 +1,57 @@
+ 
+Contact information 
+Date of birth 
+April 12, 1996 
+Gender 
+Male 
+Phone 
+01663793512 
+Email 
+trankhanh10ch@gmail.com 
+Address 
+70, street 11, Tay hamlet, 
+Tan An Hoi village, Cu 
+Chi district, Ho Chi Minh 
+City 
+Objective 
+► Program and optimize the code for the 
+company. 
+► Improve own skill and develop better 
+software. 
+Skills 
+Teamwork 
+Java  
+Android 
+Logical thinking and creating  
+Reading and researching documents 
+Interests 
+Football  
+Travel  
+Music 
+Work experience 
+FPT Software  
+Jan 2017  May 2017 
+Internship 
+Main responsibilities:  Study about Java Web-based Application, Spring MVC, Android.  Work with Ubuntu, Jira server and MongoDB.  Design and build "GPS Tracking System" using Android, Spring 
+Boot. 
+Recognition and Gains:  Improve logical thinking and teamwork skill.  Understand about Spring framework and MVC model.  Basic knowledge about Android language, IoT, MongoDB, Ubuntu 
+OS. 
+FPT University  
+Jan 2018  May 2018 
+Team Leader 
+Main responsibilities:  Research about ROS OS, MQTT Broker, Python 3, RpLidar.  Implement an auto cleaning robot with ROS OS, C++ language, 
+Ubuntu OS.  Make reports of project every two weeks. 
+Achievements and skills gained:  Basic knowledge about ROS OS, C++ language,  Improve English Reading and Researching skills. 
+Education 
+FPT University  
+Oct 2014  Aug 2018 
+Major: Software Engineering 
+GPA: 7.1/10 
+References 
+NGUYỄN ĐỖ CƯƠNG (MR.) 
+FGA.R&DFPT Software 
+FPT Building, Duy Tan Street, Cau Giay District, Hanoi, Vietnam. 
+E-mail: cuongnd2@fsoft.com.vn 
+http://fpt-software.com 
+Le Tran Khanh 
+AI & DATA SCIENCE ENGINEER 

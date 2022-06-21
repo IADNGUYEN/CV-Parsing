@@ -1,0 +1,68 @@
+Nguyen Van Quang
+PERSONAL DETAILS
+Birth
+March 19, 1997
+Address
+497 Hoa Hao, Ward 7, District 10, Ho Chi Minh City
+HomeTown
+Phu Yen Province
+Phone
+0973 816 840
+Mail
+nguyen.vankwang193@gmail.com
+University
+Ho Chi Minh Univerity of Technology (HCMUT)
+EDUCATION
+Senior of Electrical and Electronics Engineering Falcuty
+2015  now
+Major in Communication Engineering
+Stay in Honors program.
+GPA
+7.40/10.00
+RECENT PROJECTS
+Signal Enhancement
+4/2017 
+5/2017
+Using C5515 Kit to process signal as well as CCS and Matlab Support
+It was a project in Signal Processing Subject.
+Firstly, establish signal and noise from Matlab,
+then program in CCS to reduce noise.
+Digital Clock
+09/2017 
+11/2017
+Using MSP430G2553, DS1307 and 6 8x8 Led Matrix
+It is a project in Thuc Tap Dien Tu 2 Subject.
+Msp430 interfacing with DS1307,
+to show Date time in 6 Led Matrix, use shift register 74HC595.
+TCP/IP Client  Server Model
+10/2017 
+11/2017
+Using ESP8266 as a client, Raspberry as a server, C Socket programming
+It was a project in Data Communications and Networking Subject.
+ESP8266 Interfacing with Raspberry Pi 3 through Socket
+Using Semaphore to synchronize thread in Server.
+Lora Application System
+1/2018  now
+Building IoT System  Smart lighting system using Lora
+Lora can transceive up to 3000m and low-power, suitable for IoT Projects.
+SKILLS
+Languages
+English, TOEIC 865/990 (Test at School)
+Japanese primary level
+Programming
+Languages
+basic HTML, CSS, Javascript ,C Programming
+Skill
+Matlab, LATEX, proteus,MySQL workbench,CCS, Linux
+HOBBIES
+Programming,
+Swimming
+Drawbacks: Cannot design PCB board.
+OBJECTIVES
+Position
+Apply to IoT or Web Developer positions.
+Profession
+Enhance IoT Techniques, design protocol. Apply Blockchain in IoT,
+Master ContikiOS for WSN.
+Languages
+N3 Japanese certiﬁcate

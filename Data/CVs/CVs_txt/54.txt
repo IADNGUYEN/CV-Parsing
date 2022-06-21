@@ -1,0 +1,84 @@
+ 
+Long Tran 
+Senior Test Engineer 
+SUMMARY 
+Senior software QA tester with full system development lifecycle 
+experience, including designing, developing and implementing test plans, 
+test cases and test processes. Familiar with testing web-based, Android, 
+iOS, MAC OS, Linux applications. 
+Developed, implemented, and maintained the user acceptance and full 
+regression test cases/scripts/scenarios to ensure user-level and back-end 
+qualities for Windows applications. Develop Continuous Integration 
+system, apply DevOps process for rapidly delivering products with reliable 
+and high quality. 
+SKILLS 
+Hard skills 
+Testing Methodologies 
+Test Plans, Cases & Processes 
+Functional Requirements 
+Scripting & Documentation 
+Regression & Negative Testing 
+Performance/Load/Stress Testing 
+Testing Automation (UI Automation) 
+Defect/Bug Tracking 
+Continuous Integration (Jenkins) 
+Python, HTML, VBScript, Groovy, Shell, Cmd 
+AWS service (EC2, CloudFront) 
+Soft skills 
+Problem solving 
+Collaboration 
+Interpersonal skills 
+WORK EXPERIENCES 
+Personify Inc.​ Senior Test Engineer (2016-04 to 2018-04) 
+Automation testing for Windows applications (Presenter, 
+ChromaCam) by UI Automation in Python. 
+Develops, integrates Jenkins with SCM, make every pull 
+request/release/tag get verified/tested by unit testing, regression 
+testing to detect errors at early phases. 
+Setups 4 machines (3 Windows, 1 Linux) to work as slave nodes of 
+CONTACT 
+Phone 
+0916.356.243 
+Email 
+longk15t@gmail.com 
+Website 
+www.linkedin.com/in/longk15t/ 
+Jenkins, speed up verification/testing process. 
+Creates Test plan, test process, conduct testing for Teleporter 
+application 
+Windows version using HTC Vive and Teleporter Android version. 
+Saves about 400$ monthly billing for company after downgrade 
+instance type of AWS EC2 which was used as Wowza server (for 
+media streaming). 
+Personify Inc.​ Test Engineer (2013-02 to 2016-04): 
+Performs basic testing duties with Windows/MAC OS 
+X/Android/iOS/Web applications, create bug reports on Trello/JIRA 
+for programmers investigate and repair. 
+Collaborates with other QA technicians to ensure major/critical 
+bugs were not presented before publish release. 
+Test Plan, Test Cases, Test Reports documentation. 
+Finalizes report template to devs, product owner. 
+Handles customer requests/issues/requirements from Desk.com, 
+remoting to customer’s machine to debug issue/bugs. 
+Performs load testing Wowza server on AWS EC2 by Python 
+(Ubuntu) to identify threshold of concurrent connections server can 
+handle. 
+Self improve, research and learn useful information/tools to 
+improve working quality. 
+Support team member, other teams to solve problems. 
+EDUCATION 
+B.Sc., Information Technology, Van Lang University (2009-2013) 
+Team leader of graduation project (MHS – speed up register process of 
+patient in hospital, written in C#) 
+CERTIFICATIONS AND AWARDS 
+Subject certificates in CMU (Student ID: T093686) 
+http://strategic.isri.cmu.edu/elearning/val/home/index.jsp  
+Nominated for Test Team Star 2015-2016 Award 
+Certificate of Excellent 2016-2017 
+ADDITIONAL ACTIVITIES 
+Joined Python Vietnam Skype group 
+Member of Quora in Testing, Networking, Command Prompt 
+subject 
+Joined Jenkins Users Google Group 
+Joining an English class to get IELTS certification 
+Planning to get ISTQB certification 

@@ -1,0 +1,45 @@
+CURRICULUM VITAE 
+PERSONAL INFORMATION 
+Full name: VI QUOC PHONG 
+Day of birth: January 12th, 1993 
+Address: 497- Hoa Hao Street –Ward 7 – District 10 – Ho Chi Minh City  
+Phone number: +84976093127 
+Email: vquocphong1993@gmai.com 
+EDUCATION 
+Student at Ho Chi Minh University of Technology 
+Major: Electronic and Telecommunication 
+Cumulavtive GPA: 7.17 
+CAREER OBJECTIVES 
+Applying the practical knowledge to work. Especially embedded programming. 
+Became a manager in the future in embedded  programming field. 
+PROFILE 
+Charateristics: Friendly, Hard work, Honest 
+Hobbies: Reading book, Playing football, Traveling 
+SKILLS 
+Hard skills: C/C++ Programming, Embedded programing, Altium softwave, Proteus, Matlab, 
+Keil C… 
+MS Office: Proficiency in Word, Excel, PowerPoint  
+English:  TOEIC 500, English communication skill 
+Soft skills: Teamwork skills ; Time management skills; High responsibility; Ability to work 
+under high pressure. 
+PROJECT IMPLEMENTED 
+Control devices via Bluetooth Low Energy by smartphone  
+Read ambient temperature, humidity then sent to smartphone via Bluetooth Low Energy 
+Programming on KIT STM32F103 with touching LCD to control LED color 
+Positioning of vehicles on digital maps (Ongoing) 
+VOLUNTEER and SOCIAL ACTIVITIES 
+Join Program Advisory and Relay enrollment season for high school students in 
+grades 12 Phan Boi Chau  Dak Nong in 2013 
+Position: Organizing consultant and program enrollment season Relay 
+Contents: Contact former students and teachers. Planning and organization running the program. 
+Learning: Communication skills, teamwork, ethical behavior and resolving conflicts. 
+Join the Campaign volunteer summer 2012 green city 
+Contents: Repair and installation of electricity for households in difficulty; Teaching children; 
+dissemination of knowledge to the people; roads, housing, cleanup garbage collection on canals. 
+Learning: Wonderful Period of student life, it helps to recognize the value of life, how to share 
+and receive. 
+WORK EXPERIENCE 
+Internship: At company TMtech from 06/2015 to 08/2015 
+Tutoring: Mathematics, Physics, Chemistry of grade12th  from 2013 to now. 
+Delivery: Flowers, gifts for flower shop 
+Drawing, solder circuit: Drawing circuit layout and welding for advertising LED shop 

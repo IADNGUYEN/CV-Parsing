@@ -1,0 +1,58 @@
+ 
+TRUONG, VINH PHUC 
+Binh Hung Hoa, Binh Tan, HCMC   +84 122 6703343    tpvinhcse@gmail.com 
+linkedin.com/in/vinh-truong-6a677070/ 
+Java Software Engineer 
+Summary 
+As a Java Developer and a Product Analyst, I work with multiple clients from different companies and 
+countries. My troubleshooting and self-research skills provided helpful guidance for team, as well as 
+high quality deliveries to customers. Now it's time to take on greater challenges which will utilize my 
+meticulous attention to details and professional manner. 
+Work Experience 
+2015  Present 
+Java Software Engineer 
+DXC Technology (formerly CSC Vietnam) 
+Assisted customers with product issues on their development / production environments. 
+Implemented custom solutions to match clients' business requirements. 
+Product: FirstDoc 
+Clients: Roche, Takeda, Eisai Pharmaceuticals, Daiichi Sankyo, ... 
+Technology stack: Java Core, Spring, SOAP/REST, JavaScript, Bindows, ... 
+Identified and resolved L3 client issues of FirstDoc, applying well-trained domain 
+knowledge to point out the workarounds/ root causes.  
+Provided general guidelines on current product functions and configurations on client's 
+demand. 
+Conducted web-ex meetings with clients to resolve issues with high urgency. 
+Implemented L4 custom solutions from clients, from requirements gathering, efforts 
+estimation, documentation, development and testing. 
+Setup replicated environments on client requests to better handle tough issues, and for 
+customizations development. 
+Performed research on product's new integrations. 
+Directed and supported other agents as mentor and subject matter expert in managing 
+escalated issues. 
+Education 
+2010 – 2015 
+Computer Science 
+@Ho Chi Minh City University of Technology 
+Core Competencies 
+Coding Quality 
+Team Collaboration 
+System Management 
+Development Process 
+English Communication 
+Technical Support 
+Full-stack Development 
+Customer Communication 
+Troubleshooting 
+Skills 
+Hardware/Systems 
+Windows Server 2008/2012, Linux RedHat 6.3, Networking, … 
+Databases 
+Oracle, MySQL, MongoDB 
+Backend Technologies 
+Java Core, Spring Framework, Hibernate, … 
+Frontend Technologies 
+HTML, CSS, AngularJS 2(4), JavaScript/ jQuery 
+Supplementation Skills 
+Git/SVN, Docker, Elasticsearch, Tomcat/Weblogic, Gradle/ Maven 
+Languages 
+English Proficiency | BULATS 92 

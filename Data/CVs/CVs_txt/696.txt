@@ -1,0 +1,103 @@
+CURRICULUM VITAE  
+PERSONAL INFORMATION 
+Full Name: Le Dinh Dam 
+Date of Birth: February, 27th, 1993 
+Gender: Male 
+Address: Ngu Thon, Thang Long Commune, Nong Cong District, 
+Thanh Hoa Province, Viet Nam 
+Phone number: 0976924264 or 0961171946 
+Email: damledinh93.cs@gmail.com 
+CAREER OBJECTIVE 
+Looking for an opportunity to learn and work in an active environment to develop personal 
+skills and gain experience for future promotion. 
+To secure a position where I can efficiently contribute my skills and abilities for the growth 
+of the organization and build my professional career 
+EDUCATION 
+Tan Tao University 
+o Bachelor’s degree in Computer Science (Advanced English program) 
+o Concentration: Graphics and Visualization. 
+o GPA: 3.7/4 
+PROJECT 
+My Apps In Google App Store 
+o Bói Tình Yêu Và Cuộc Sống 
+https://play.google.com/store/apps/details?id=com.trannghiemty.tony.free 
+o Học Tiếng Anh Mỗi Ngày Pro 
+https://play.google.com/store/apps/details?id=com.learnenglisheverydays.tonyadam
+.free  
+o Lịch vạn sự  Tử vi 2015 
+https://play.google.com/store/apps/details?id=com.lichvansunhuy.tony.free 
+o Master Vocabulary 
+https://play.google.com/store/apps/details?id=com.practicevocabulary.tony.free  
+Internship Project 
+Title: Recipe hub (android, web client, web admin using Polymner) 
+Duration: 90 days 
+Position: Group Leader 
+Language: JavaScript, PHP 
+Web client: http://recipesid.appspot.com    
+Project in Anttek Company 
+Title: Snapbrite 
+Duration: 90 days 
+Position: Group member 
+Language: JavaScript, PHP 
+Commercial web: https://www.snapbrite.com/ 
+Commercial web: https://www.snapbrite.com/app 
+Independent Research 
+Title: Hyper Word Clouds 
+Duration: 90 days 
+Position: Group member 
+Language: JQuery, D3js 
+Web: http://vislastfm.appspot.com  
+Paper: https://dl.dropboxusercontent.com/u/94847872/IMCOM16_HyperWordClouds.pdf  
+Other Project  BB-8 
+Title: BB-8 
+Class: CS450 – Computer Graphics 
+Duration: 90 days 
+Position: Group Leader 
+Language: JavaScript, Threejs 
+Web: http://cs450-bb-8.appspot.com  Leave Management System 
+Title: Leave Management System 
+Class: CS391 – Web Programming 
+Duration: 90 days 
+Position: Group Leader 
+Language: JavaScript, PHP, Java, Tomcat. 
+TECHNICAL EXPERTISE 
+Programming: C, Java, JavaScript, PHP, Polymer 
+Server: Google App Engine, Tomcat 
+Database: SQL, SQLITE, Datastore (google). 
+EXTRACURRICULAR ACTIVITIES 
+2013 – 2014: worked as one of the leaders of Sport Club at Tan Tao University 
+Captain of Football Team at Tan Tao University. 
+WORK EXPERIENCE 
+Working as Web Developer in Anttek company from 2015 
+Working as Student Research Assistant of USAID  PEER Science Grant on Wave Energy    
+Conversion Technology (SEAWEED Project)  
+Host Institution: Tan Tao University, Duc Hoa, Long An  
+Our website: http://globalcitizenscientists.org/our-team  
+PERSONAL TRAITS 
+Job-related skills  
+Excellent logical, analytical and computational skills.  
+Strong motivational and leadership skills.  
+Ability to work under pressure.  
+Ability to work individual as well as in team 
+Computer skills: Java, Javascript, Php, Google App Engine,  
+Language skills  
+Proficient in speaking, listening, reading and writing English 
+Soft skills:  
+Problem solving skill  
+Teamwork skill  
+Communication skill  
+Time management skill  
+Presentation skill  
+Interpersonal skill 
+ACHIEVEMENT 
+Received full scholarship of ITA Group in 4 years (2011-2015) study at Tan Tao University 
+for academic excellent students including school fee and daily life 
+My paper: Hyper Word Clouds: A Visualization Technique for Last.fm Data and 
+Relationships Examination 
+https://dl.dropboxusercontent.com/u/94847872/IMCOM16_HyperWordClouds.pdf  
+HOBBIES & INTERESTS 
+Reading books, listening to music and watching TV. 
+Participating social and volunteer activities in rural areas of Vietnam to help disadvantaged 
+people and experience life 
+Travelling to new places in North area and outside of Vietnam to discover the beauty of 
+nature and learn about new culture. 

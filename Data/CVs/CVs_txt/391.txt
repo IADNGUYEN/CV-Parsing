@@ -1,0 +1,47 @@
+Minh N. Pham  
+Email: mnphamx1@gmail.com 
+Github: github.com/mnpham0417 
+EDUCATION 
+Worcester Polytechnic Institute  
+Worcester, MA 
+Currently pursuing BS in Computer Science and Mathematical Sciences 
+Undergraduate courses: Accelerated to Program Design, Object-Oriented Design Concepts, System 
+Programming Concepts, Algorithms, Database Systems I, Applied Statistics I 
+SKILLS 
+Languages: Python; Java; SQL; C++; C 
+Technologies: Git; Numpy; Pandas; Scikit-learn; BeautifulSoup; Jupyter Lab; Regex; SQL Developer 
+WORK EXPERIENCE   
+Data Science Intern, Viettel Cyberspace Center 
+Summer 2018  
+Built a machine learning model to predict the income of customers using telecommunication data. 
+(Used Python) 
+Implemented Regex to create a parser to extract the price of electricity from phone messages sent 
+from banks and electric companies. (Used Java) 
+Java Tutor, Bedrock Educational Consultants 
+Summer 2018 
+Taught high school students basic to intermediate programming concepts, data structures and 
+algorithms. 
+Salesman, Bedrock Educational Consultants  
+Feb 2017 – Aug 2017 
+Collected and analyzed student’s profile to target customers that could maximize the revenue for the 
+company.  
+Brought in $54,000 in revenue.  
+PROJECTS 
+Stocks Movement Predictor, Project (Developed in Python) 
+https://github.com/mnpham0417/Sentiment-Stocks 
+Performed normal/financial sentiment analysis on news articles and tweets. 
+Built a machine learning model to predict the price movement of stocks. 
+Fitbit Classification, Project (Developed in Python)  
+https://github.com/mnpham0417/Fitbit-Classification 
+Collected, manipulated and analyzed heart rate and activity data. 
+Built a machine learning model to identify days with abnormal activity. 
+Wines Database Application, Project (Developed in Java and Oracle SQL) 
+https://github.com/mnpham0417/CS3431-Database-Systems-I 
+Designed ERD and created database. 
+Write a Java application to retrieve and update data from database. 
+Home Credit Default Risk, Kaggle Competition (Used Python) 
+Developed data manipulation and models tuning skills. 
+CERTIFICATES 
+DataCamp (https://www.datacamp.com/) 
+Machine Learning with Python Track , Importing and Cleaning Data with Python Track, Python 
+Programming Track 

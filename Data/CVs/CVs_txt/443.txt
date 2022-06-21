@@ -1,0 +1,34 @@
+Huỳnh Ngọc Thi 
+Bien Hoa city, Dong Nai province, Viet Nam 
+Phone: 01635570191 
+Email: so61pi.re@gmail.com 
+Date of birth: 08-07-1992 
+SUMMARY 
+Good understanding of OOP. Use C++ intensively in my projects, and really care about code correctness 
+and performance. Eager to learn new things. 
+SKILLS 
+Languages:  
+C++ 
+o Good understanding of C++ (including STL, C++11 and C++14) 
+o Have experience with C++ template 
+o Have experience with Boost 
+Platforms:  
+Cross platform  
+Windows 
+Tools:  
+Visual Studio  
+MinGW  
+Clang 
+EDUCATION 
+Ho Chi Minh city University of Technology and Education – Software Engineer 
+ENGLISH 
+TOEIC 820 
+Listening: 420 
+Reading: 400 
+TOY PROJECTS 
+Some of my old & current toy projects:  
+C grammar checker: Checks grammar of a C source file.  
+Mini memory scanner: Small program that can scan memory of another process.  
+Examples: Contains several pieces of code to demonstrate some techniques in C++ and 
+Windows. 
+All projects can be found at: https://bitbucket.org/so61pi 

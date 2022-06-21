@@ -1,0 +1,136 @@
+PHU QUI CHAU
+HCMC, Viet Nam  090.3322.044  0906.301087  rooneychow1987@gmail.com
+Senior .NET Developer
+JOB OBJECTIVE
+Looking for a position as a software engineer and work in a professional environment.
+Summary
+Highly skilled IT professional with more 3 years experiences including application development, implementation, deployment,
+internal and customer support
+Cooperative and able to perform within a team-oriented atmosphere
+Teamwork: Learn to organize work and collaborative work with many people
+Advanced English communication
+Good presentation skills
+Be able to solve problem quickly, high self-conscious
+Ability to high pressure
+Diligent and eager to learn, easy to adapt to new environments
+Good logical thinking
+Good communication: Appearance-looking, seriously, listen and speak at the right time
+Ability to search for information on the Internet possible
+TOEIC 700
+Technical Skills
+Databases: Oracle, MS SQL Server, My SQL
+Programming Languages: C#, Xaml, Linq, XML, HTML, CSS, JavaScript, Jquery, PL/SQL
+Programming Tools: Visual Studio, SQL Server Management Studio, NetBeans, Dreamweaver
+App server / Middleware: Microsoft IIS, Apache
+Configuration Management tools: VSS, SVN, JIRA, TFS, GIT
+Browsers: IE, Firefox, Chrome
+OOAD/OOP: Object Oriented Analysis (OOA), Object Oriented Design (OOD), Object Oriented Programming (OOP)
+Work History
+Nov 2015  Present
+Senior Software Developer
+Harvey Nash Vietnam
+Attend Bootcamp Program for Senior Developer and join a training project "HVN Training Online"
+Jun 2014  Oct 2015
+Senior .NET Web Developer
+PlayStudio
+Control and develope WEB function, enhancing performance, support
+technical
+May 2011  Jun 2014
+.NET Developer
+https://www.visualcv.com/quicp_cv
+Technologies Using
+.Net 4.0
+C#
+Jquery
+Javascript
+CSS
+Ajax
+LinQ to SQL
+WCF
+SQL Server 2008
+Telerik
+Bootstrap
+Projects
+HVN Training Online: 
+Description:
+.This is an internal project of Bootcamp Training Program of Harvey Nash for new SSE. We will use Harvey Nash common library and
+new technologies we know to apply to the project. Our mentor will review our code to consider if we applied SOLID, DRY OR KISS to
+achieve the project.
+. Team Size: 6 (including a SCRUM MASTER)
+. Technologies Used: C#, MVC 5, Entity Framework Code First, SignalR, BootStraps, Jquery, SVN, HVN common library
+Equipment Portal:
+Description:
+. Project’s product is a Website for Customers of Company manage, buy/sale, 
+rent Equipment, … . Support multi languages, connect to external device. 
+. Team Size: 6
+. Technologies Used: C#, MVC5, SignalR, AngularJS, API, PostgreSQL, Ajax, bootstraps, Jquery, GIT
+FrtInside :
+Customer: FPTRetail
+Description:
+. Websites internal management of FPT Retail, including features such as
+Managing employees
+Check employees in/out
+Arrange shift for employee sale
+Calculate incentive for sales, salary for employees
+Managing organizational hierarchy
+Internal requirements
+Link: inside.fptshop.com.vn
+FPT Telecom
+Communicate with partners/customers for getting requirements.
+Organize and assign the tasks to workgroup.
+Analyze requirements/issues.
+Design database, making Prototype and writing technical documentation for database systems.
+Coding with languages C#, HTML, CSS, Javascript, JQuery, Linq, PL/SQL... and Unit test.
+Writing Store Procedures, …
+Writing Service provide information for other websites in FPT’s system via WCF.
+Check the consistency and accuracy of data.
+Backup/restore Database.
+Check, review the assigned work of the members, synthesis and reporting.
+Support activities, monitoring database system and troubleshoot the database problem.
+Research new technology.
+https://www.visualcv.com/quicp_cv
+ACC :
+Customer: Internal
+Description:
+Websites internal management about studying and examinations for the employees of FPT Corp, including features such as :
+Managing Lecturers, Subjects, Documents, Exams, …
+Import/Export Exams, Documents …
+Calculate the scores and show the results.
+Globalization (adding English language to the Project).
+Internal requirements
+Link: acc.fpt.com.vn
+FTEL SCM – Supply Chain Management (Version 1) :
+Customer: Internal
+Description:
+Managing Items (produced/supplied by FPT) to provide for Departments in FPT Telecom Company
+Managing Items, Vendors, Branches, Stores, Inventories …
+Users of system are gotten from another database of FPT through a service.
+Approval Order Requests and Stock out Requests including many steps before provide items for departments or personal.
+Approval Delivery Plans and Allocations after an Order Request or Stock out Request  was approved
+. Internal requirements
+Link: scm.fpt.net
+FTEL SCM – Supply Chain Management (Version 2) :
+Customer: Internal
+Description:
+. Like version 1 but using MVC5 for improvement and the interfaces are more beautiful
+. More Internal requirements
+Link: v02.fpt.scm.net
+Some small researching projects in Android and iOS, calling an MVC API from the Clouds
+Education
+2005  2007
+TOEIC 700
+VATC (VietNam  American Training College)
+I was studying here to improve my English Skills although I had been very good at English before. At here, I
+got a TOEIC Degree with a very high score (700). The degree is out of date now but my English knowledge
+seems to be unlimited
+2005  2010
+Software Engineer
+Faculty of Information Technology  University of Natural Sciences
+A very good and famous University about Information Technology in Ho Chi Minh City
+2007  2010
+HDSE (High Diploma of Software Engineer)
+FPT Aptech Academy
+I was studying this school while studying the third year at University of Natural Sciences. I want to improve
+my practical programming skills in real world. It is also the reason why I have been working at FPT
+Telecom up to now, a very good working environment to me.
+https://www.visualcv.com/quicp_cv

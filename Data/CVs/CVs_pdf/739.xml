@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="36" family="Arial" color="#000000"/>
+	<fontspec id="1" size="18" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="2" size="18" family="Gautami" color="#000000"/>
+	<fontspec id="3" size="18" family="TimesNewRomanPSMT" color="#0000ff"/>
+	<fontspec id="4" size="18" family="Gautami" color="#0000ff"/>
+	<fontspec id="5" size="27" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="6" size="20" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="7" size="20" family="Gautami" color="#000000"/>
+	<fontspec id="8" size="20" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="9" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="10" size="18" family="ArialMT" color="#000000"/>
+	<fontspec id="11" size="18" family="TimesNewRomanPS" color="#000000"/>
+<text top="110" left="108" width="304" height="40" font="0"><b>Nguyễn Hữu Kim </b></text>
+<text top="158" left="108" width="351" height="20" font="1">137/9 Thong Nhat, Go Vap, Ho Chi Minh City | </text>
+<text top="158" left="459" width="0" height="24" font="2">​</text>
+<text top="158" left="459" width="95" height="20" font="3">0931806924 </text>
+<text top="158" left="553" width="0" height="24" font="4">​</text>
+<text top="158" left="553" width="8" height="20" font="1">| </text>
+<text top="158" left="561" width="0" height="24" font="2">​</text>
+<text top="158" left="561" width="199" height="20" font="3">zzhuukimzz@outlook.com </text>
+<text top="183" left="108" width="5" height="20" font="1"> </text>
+<text top="209" left="108" width="136" height="30" font="5"><b>Experience </b></text>
+<text top="246" left="108" width="94" height="23" font="6"><b>Internship</b></text>
+<text top="245" left="202" width="0" height="28" font="7">​</text>
+<text top="246" left="202" width="26" height="23" font="8"> at </text>
+<text top="245" left="228" width="0" height="28" font="7">​</text>
+<text top="246" left="228" width="125" height="23" font="6"><b>FPT Software</b></text>
+<text top="248" left="353" width="5" height="20" font="1"> </text>
+<text top="248" left="378" width="5" height="20" font="1"> </text>
+<text top="274" left="108" width="169" height="18" font="9"><i>June 2017 - August 2017 </i></text>
+<text top="296" left="135" width="11" height="20" font="10">●</text>
+<text top="297" left="162" width="119" height="20" font="1">Work with C++ </text>
+<text top="321" left="135" width="11" height="20" font="10">●</text>
+<text top="321" left="162" width="230" height="20" font="1">Use SQL database to store data </text>
+<text top="346" left="135" width="11" height="20" font="10">●</text>
+<text top="346" left="162" width="493" height="20" font="1">Develop an application that manages CODE of devices in the office </text>
+<text top="372" left="108" width="167" height="23" font="6"><b>Software Engineer</b></text>
+<text top="371" left="275" width="0" height="28" font="7">​</text>
+<text top="372" left="275" width="26" height="23" font="8"> at </text>
+<text top="371" left="301" width="0" height="28" font="7">​</text>
+<text top="372" left="301" width="192" height="23" font="6"><b>Axon Active Vietnam</b></text>
+<text top="374" left="493" width="9" height="20" font="1">  </text>
+<text top="400" left="108" width="158" height="18" font="9"><i>January 2018 - present </i></text>
+<text top="422" left="135" width="11" height="20" font="10">●</text>
+<text top="423" left="162" width="390" height="20" font="1">Research and develop a facial recognition application </text>
+<text top="447" left="135" width="11" height="20" font="10">●</text>
+<text top="447" left="162" width="416" height="20" font="1">Extract features from faces by using deep learning model </text>
+<text top="472" left="135" width="11" height="20" font="10">●</text>
+<text top="472" left="162" width="457" height="20" font="1">Classify and cluster data by using machine learning algorithms </text>
+<text top="497" left="135" width="11" height="20" font="10">●</text>
+<text top="497" left="162" width="339" height="20" font="1">Use Tensorflow framework to build the model </text>
+<text top="521" left="135" width="11" height="20" font="10">●</text>
+<text top="522" left="162" width="126" height="20" font="1">Agile and Scrum </text>
+<text top="546" left="108" width="5" height="20" font="1"> </text>
+<text top="572" left="108" width="125" height="30" font="5"><b>Education </b></text>
+<text top="608" left="108" width="269" height="20" font="11"><b>Bach Khoa University (2014-2018) </b></text>
+<text top="633" left="108" width="178" height="20" font="1">B.E., Computer Science </text>
+<text top="658" left="108" width="423" height="20" font="1">Thesis: Image Captioning with Recurrent Neural Network </text>
+<text top="682" left="135" width="11" height="20" font="10">●</text>
+<text top="683" left="162" width="602" height="20" font="1">Researched and developed an encoder-decoder model to create captions describing </text>
+<text top="707" left="162" width="482" height="20" font="1">images using deep learning architectures and attention mechanism </text>
+<text top="732" left="135" width="11" height="20" font="10">●</text>
+<text top="732" left="162" width="446" height="20" font="1">Combine Computer Vision and Natural Language Processing </text>
+<text top="757" left="108" width="5" height="20" font="1"> </text>
+<text top="783" left="108" width="180" height="30" font="5"><b>Skill Summary </b></text>
+<text top="819" left="108" width="171" height="20" font="1">Programing languages: </text>
+<text top="843" left="135" width="11" height="20" font="10">●</text>
+<text top="843" left="162" width="136" height="20" font="1">Proficient: Python </text>
+<text top="868" left="135" width="11" height="20" font="10">●</text>
+<text top="868" left="162" width="214" height="20" font="1">Competent: Java, C++, Scala </text>
+<text top="893" left="108" width="207" height="20" font="1">Foreign Languages: English </text>
+<text top="918" left="108" width="649" height="20" font="1">Understand, develop and apply machine learning algorithms to solve predictive modeling </text>
+<text top="942" left="108" width="71" height="20" font="1">problems </text>
+<text top="967" left="108" width="560" height="20" font="1">Design and implement Convolutional Neural Networks, Classification model </text>
+<text top="992" left="108" width="675" height="20" font="1">Extract features from images in order to do tasks in computer vision such as object detection, </text>
+<text top="1017" left="108" width="129" height="20" font="1">image captioning </text>
+<text top="1041" left="108" width="381" height="20" font="1">Knowledge about word embedding, language model </text>
+</page>
+</pdf2xml>

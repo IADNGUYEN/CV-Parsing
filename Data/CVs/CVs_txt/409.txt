@@ -1,0 +1,74 @@
+CURRICULUM VITAE 
+PERSIONAL DETAIL 
+Name: Tran Quang Vien 
+Sex: Male 
+Marital status: Married 
+Nationality: Viet Nam 
+Date of birth: August 5th, 1990 
+Email: quangvienspkt@gmail.com 
+Mobile: +84 989992527 
+Address: 4S Linh Dong Apartment, street 30, Linh Dong Ward, Thu Duc District, Ho Chi Minh City 
+CAREER OBJECTIVE 
+Enhance knowledge to become a master at 
+Network and System field. 
+Be willing to learn and share in the technology 
+community based my knowledge and 
+experience. 
+Be willing to listen all 
+ideas/comments/contributions from teammates 
+to improve myself and co-operate well to make 
+company grow up. 
+SKILL 
+English:  Ability to communicate with 
+foreigner and read English document. 
+Advanced skill 
+Knowledge at Web server ( Apache, IIS, 
+Nginx…), Database server (mysql, 
+MariaDB…), Mail server ( exchange, 
+postfix…), DNS server (powerDNS),  
+Haproxy, Control Panels, etc… 
+Soft skills 
+✓ Time management and assign the jobs to 
+appropriate teammates 
+✓ Good at presentation, training, communication 
+skill 
+✓ Good at initiatives   
+INTEREST 
+Playing sports such as football, badminton. 
+Reading books. 
+Blogging  (https://topcloud.vn/ ) 
+WORK EXPERIENCE 
+Dec-2014 to Jun-2018: Worked at DTS 
+Communication Technologies Corporation 
+Task: Operating and administering the 
+Virtualize System base Hyper-V and Esxi. 
+Also providing Failover and Load balancing 
+solution for customers. 
+Position : System Leader 
+Researching CEH v9 at Saigon Institute of 
+Technology /// from August to September 
+2017. 
+Mar to May- 2012. 
+Internship at Company of Mobile Information 
+Area 2,Telecommunications Stations East Ho 
+Chi Minh, Telecommunication team 2. 
+Task: Learning about devices which used in 
+2G, 3G network such as: RBS ERICSSION 
+2216-2116, RBS ERICSSION 2206, RBS 
+ERICSSION 3418. In addition, I also 
+researching MPLS, GSM, UMTS, LTE. 
+Oct-2012 to Jan- 2013 
+Researching Cisco CCNA 
+Learning LAN, WAN technology, Routing, 
+Switching, Network Management at Viet 
+Professional Co.Ltd 
+Oct-2014 
+Graduated at University of Technical 
+Education Ho Chi Minh City 
+Majors: Electronics and telecommunications 
+technology. 
+Thesis: The Solution of Handover in LTE. 
+Certifications 
+CCNA-Cisco Certified Network Associate” 
+Ethical Hacking and Countermeasures version 9.0 
+Information Technology Infrastructure Library Foundation V3 

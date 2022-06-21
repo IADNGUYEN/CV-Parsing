@@ -1,0 +1,85 @@
+Pham Anh Nguyen Hong
+Ho Chi Minh City University of Technology
+Aug 2012  Jun 2017
+TOEIC Certificate with score 700 issued by IIG Vietnam
+Dec 2016
+Global Cybersoft
+Jan 2017  May 2017
+OBJECTIVE
+Looking for a professional and friendly environment where I can maximize my abilities and utilize my
+knowledge I have learned in the past five years at university. I would like the opportunity to gain a deep
+understanding of product operation and current technologies.
+EDUCATION
+Major: Computer Engineering
+Current GPA: 7.05/10
+CERTIFICATIONS
+SKILLS  Quick learning and self-study  Good reading documentation  Teamwork abilities  Knowledge of HTML, CSS, Javascript, PHP, C++, Python, Java, OPP, Bootstrap, jQuery, ...  Experiences with Git, SVN, JIRA
+WORK EXPERIENCE
+Trainee  Write screen specs  Development (code some screens)  Write test cases  Do intergration tests  Technologies used: HTML, CSS, Javascript, PHP, CakePHP (PHP Framework), Bootstrap, jQuery.
+PROJECTS
+Android App (project at school)
+(Mar 2016  May 2016)
+Description  This app helps people view information about movies (overview, details, trailers,
+reviews).
+Team size
+3
+My position
+Developer
+Date of birth: Dec 17, 1994
+Phone: 0932158249
+Email: 51201293@hcmut.edu.vn
+Product Name
+Film Info
+Skype: 51201293@stu.hcmut.edu.vn
+Address: 497, Hoa Hao, Ward 7, District 10, HCMC, Vietnam
+My responsibilities  Analysis and design  Development  Review code  Optimize code  Bug Fixing
+Technologies used  Android Studio 1.x, Java, Android OS  The Movie DB API  SQLite
+E  Commerce Website (project at school)
+(Sep 2016  Nov 2016)
+Description  This is the website where you can buy laptops, desktops online. This website
+shows particular information about laptops, desktops in detail.
+Team size
+4
+My position
+Developer
+My responsibilities  Analysis and design  Development (Implementing functions: search, pagination)  Review code  Optimize code  Bug Fixing
+Technologies used  Programming language: HTML, CSS, Javascript, PHP  Framework: Bootstrap, jQuery  Database: MySQL
+Location-based Service System (project at school, stage 1)
+(Oct 2016  Dec 2016)
+Description  This is the system that helps manager and their company manage route, report and
+safety of their staff.
+Team size
+5
+My position
+Leader
+My responsibilities  Analysis  Assign team members some different tasks.  Review particular reports.  Summarize the results.
+Technologies used  Google Location Services on Android  Nightingale API  RSOE EDIS API
+Location-based Service System (project at school, stage 2)
+(Mar 2017  Jun 2017)
+Description  This is the system that helps manager and their company manage the travel
+expenses of the salesman in the company.
+Team size
+3
+My position
+Supporter  Analysis and design (teamwork).  Documentation.
+Product Name
+Corner Store
+Product Name
+Location-based Service System for Personnel Management
+Product Name
+Location-based Service System for Personnel Management
+National University Entrance Exam Support Campaign
+Jun 2014  Jul 2014
+National University Entrance Exam Support Campaign
+Jun 2015  Jul 2015
+National University Entrance Exam Support Campaign
+Jun 2016  Jul 2016
+My responsibilities  Do intergration tests.  Summarize the results and report.  Bug fixing.
+Technologies used  Programming language: HTML, CSS, Javascript (Website) and Java (Android)  Framework: Bootstrap, jQuery  Database: Firebase Realtime Database
+ACTIVITIES
+Team member
+Team member
+Team member
+INTERESTS
+I like soccer, music and communication.
+© topcv.vn

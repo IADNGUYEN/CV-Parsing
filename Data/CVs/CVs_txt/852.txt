@@ -1,0 +1,42 @@
+Curriculum Vitae 
+Personal Information 
+Full name: Phạm Út Dễ 
+Nationality: Vietnamese 
+Place of birth: Kien Giang / Viet Nam 
+Date of Birth: 28/01/1995 
+Gender: Male 
+Marital status: Single 
+Address: 176 To Ngoc Van Street, Thanh Xuan Ward, District 12, Ho Chi Minh City 
+Phone: 01627675135 
+Email: utde9x@gmail.com 
+Languages: Vietnamese (Native), English (Normal) 
+Objective 
+Take advantages of skills, experiences and knowledge related to embedded 
+programming as well as digital logical designing and MCU designing. I believe it will 
+make positive contributions for the company's development.  
+Skills 
+Soft Skills 
+Team work. 
+Presentation. 
+English: able to communicate with co-worker. 
+Programming Skill 
+Embedded C. 
+C/C++. 
+Java Programming. 
+Software 
+KeilC. 
+Eclipse. 
+Visual Studio. 
+CodeAVR. 
+STMCube/CubeSuite Plus 
+Altium/OrCad/Proteus Design. 
+Education 
+2013 – 2018: Posts and Telecommunications Institute of Technology, Ho Chi 
+Minh City, Viet Nam. 
+Major: Embedded Programming. 
+Activities 
+Sep  2013- July 2017: projects assigned by instructors in University   SMART HOME.   Led Matrix.   Burglar Alarm Circuit.   Simple Calculator. 
+Work Experience 
+July 2017- Present: Interns at Gia Khang Co., Ltd about:   Programmable Logic Controller  Embedded Programming. 
+Certifications 
+2007:  Computer Certificate: A.  Certificate of English Level A. 

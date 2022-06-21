@@ -1,0 +1,48 @@
+ 
+NGUYỄN NGỌC ĐĂNG QUANG 
+0985325084 
+EDUCATION 
+Long Khánh High school 
+NOTABLE PROJECTS 
+Phone: 
+Vietnam National University HCM, 
+University of Information and Technology 
+Majoring in Computer Science 
+GAP: 7.07 
+2012  2015 
+2015  present 
+Sudoku solver: 
+An application of Computer Vision and Machine Learning. 
+This is used to solve sudoku on image and written in Python. 
+Battle Tank: 
+A similar game to Battle City. This is written to simulate some 
+algorithm like Dijkstra, A*,... Battle Tank is written in C#. 
+Dog detection: 
+A  Python program which is used to detect dogs in image. This 
+is also an application of Computer Vision and Machine 
+Learning. MobileNet and Faster R-CNN are two neural 
+network used in this program. 
+Volunteering at Nhật Hồng Orphange 
+October 2015 
+Green Summer Volunteer Campaign 
+August 2016 
+E-mail: 
+Adress: 
+15520691@gm.uit.edu.vn 
+Ho Chi Minh City 
+CAREER GOALS 
+Work in the field of Computer Science, 
+especially Computer Vision. 
+PROGRAMMING SKILLS 
+C++  
+C# 
+Python 
+OOP  
+LANGUAGUE SKILLS 
+English 
+WORKING SKILLS 
+Team-working 
+Working idependently 
+Logical and critical thinking 
+APPLY FOR: Computer Vision, AI intern 
+VOLUNTEER ACTIVITIES 

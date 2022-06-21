@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="23" family="TWTSRL+CenturyGothic" color="#000000"/>
+	<fontspec id="1" size="21" family="YXTSRL+CenturyGothic" color="#000000"/>
+	<fontspec id="2" size="23" family="WWTSRL+Inconsolata" color="#000000"/>
+	<fontspec id="3" size="23" family="UWTSRL+Inconsolata" color="#000000"/>
+	<fontspec id="4" size="30" family="UWTSRL+Inconsolata" color="#000000"/>
+	<fontspec id="5" size="21" family="XWTSRL+CutiveMono" color="#000000"/>
+	<fontspec id="6" size="38" family="YXTSRL+CenturyGothic" color="#000000"/>
+	<fontspec id="7" size="30" family="YXTSRL+CenturyGothic" color="#000000"/>
+</page>
+</pdf2xml>

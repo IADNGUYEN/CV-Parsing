@@ -1,0 +1,59 @@
+Tuan 
+Pham Le 
+Email:  
+Tel: 
+Address: 
+phamletuan@msn.com  
+0988 123 122 
+District 12, Ho Chi Minh City 
+Male – DOB: September 1991 
+To obtain Tester position 
+Career objectives 
+Work in an international company. 
+Become a senior quality control engineer in next 2 years.  
+Education and courses 
+Bachelor of Information Technology 
+Sep 2009 – Aug 2013 
+Computer science 
+Ho Chi Minh City of Pedagogy 
+Tester training course  
+Sep 2015 – Jan 2016 
+Manual tester  
+TESTINGVN Co,. Ltd 
+ISTQB Foundation Certificate in Software Testing  
+Sep 2016 
+(Expected) 
+TESTINGVN Co,. Ltd 
+Skill profile 
+Testing and software developing skills:  Have knowledge in: manual testing (learning automated testing), test methodologies 
+(black box, white box, gray box, experience  based techniques), testing theories.  Good knowledge in system developing life cycle models: V – model, Waterfall, Agile.  Have knowledge in Test Plan and Control, Test Analysis and Design, Test 
+Implementation and Execution, Test Evaluation and Reporting. 
+Working and communication skills  Strong multitasking and organizational skills.  Able to work under high pressure. Willing to work oversea.  Vietnamese: native, English: intermediate level.  Experience of communicate with foreign customer (English speaking), customer care 
+operations.  Good communication skills at working, team work skill.  Self-study and quick learning. 
+Software and technology  Have strong IT background.  Database: MySQL.  Operating systems: Linux (CentOS), Windows, Windows Server 2008, iOS, Android.  Programing languages & Website development: HTML/HTML5, CSS/CSS3, PHP, 
+Wordpress, Opencart, Magento.  Network: Have knowledge about LAN network, layer2-layer3 network, basic TCP/IP. 
+Employment history 
+VinaHost Co,. Ltd  Technical department 
+Jan 2014 – Now 
+Technician  
+Position description:  
+Provide, configure webhosting, webserver service.  
+Support customer when service has problems.  
+Testing project: 
+Test Customer & Service center (8 
+months) 
+Project description: 
+This is a web application base on several service tools combining  
+(customer access, SSH console, server/service monitoring, WHMCS, 
+cPanel) to support customers. 
+Industry: 
+Web application  
+Test Environment: 
+LAMP webserver (Linux, Apache, MySQL, PHP), 
+Web Browser (Firefox, IE, Chrome, Safari). 
+Responsibilities: 
+Create test plan, create test case, writing Q&A 
+(communicate with enterprise customer), make suggestions, 
+execute test, post bug to developer and write bug report. 
+Interests & other activities  Football, badminton, pro evolution soccer (PES), travelling, charity activities.  Green summer volunteer campaigns: 2010, 2011, 2012, 2013.  Weekly porridge for the poor at hospitals. 
+THANKS AND BEST REGARDS 

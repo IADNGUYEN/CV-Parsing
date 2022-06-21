@@ -1,0 +1,63 @@
+IT- Software
+  Profile
+  Male
+  24/09/1995
+  Ben Tre Province
+  
+
+NGUYEN THANH TAM
+NGUYEN THANH TAM
+0969 728 677
+nguyenthanhtam2627@gmail.
+com
+  Skills
+Being able to work under high
+working pressure.
+Independent working or team work.
+Getting and transferring information
+quickly, accurately.
+Good communication skill.
+Git/SVN
+PHP
+MySQL/SQL
+I look forward to working in a sociable and professional
+environment where I can learn and accumulate more in my
+professional knowledge as well as soft skills. Besides, I want to
+affirm my value, contributing to the company's development.
+08/2005 
+08/2009
+Can Tho University
+Can Tho University  Major: Computer Science.  Bachelor.  GPA: 2.56/4
+08/2017 
+11/2017
+Virtual chatbot assistant provides information
+about travel
+Thesis  Building virtual chatbot assistant on the integrated
+platform Facebook messenger, have the ability to answer
+and bow provide information on travel issues for users.  Using NodeJS language, MySQL database and AIML
+(Artigcial Intelligence Markup Language).  Using git và IDE cloud9 to manage source code.
+10/2017 
+11/2017
+The application extracts information from the
+image
+Project  The application has the function of extracting information
+from the business card, then save the extracted data into
+word or excel corresponding to each full name, phone
+number, email address, work address and website.  Using python language and OCR library to recognize
+character.
+07/2017 
+08/2017
+Cinema booking system
+Project  Building a website with the function of booking movie
+tickets and responsive interface.  Using PHP language and MySQL database.
+05/2017 
+08/2017
+Internship
+Thu An Company  Building a travel website which is integrated recommend
+system and chatbot.  Working with team.  Practicing technical skills.
+  Job target
+ Education and certificate
+  Work experience
+Toeic 485
+Html, css, javascript, c/c++, python  The second prize of Science and Technology Forum 6th.  Encouraging Scholarship in 1st semester 2017-2018
+Honors & awards

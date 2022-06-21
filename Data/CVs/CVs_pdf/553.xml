@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="16" family="Roboto" color="#494949"/>
+	<fontspec id="1" size="27" family="Roboto" color="#479b9d"/>
+	<fontspec id="2" size="16" family="Roboto" color="#333333"/>
+	<fontspec id="3" size="16" family="Roboto" color="#333333"/>
+	<fontspec id="4" size="16" family="Roboto" color="#479b9d"/>
+	<fontspec id="5" size="12" family="Roboto" color="#999999"/>
+	<fontspec id="6" size="16" family="Roboto" color="#484848"/>
+	<fontspec id="7" size="16" family="AAAAJD+NotoSans" color="#484848"/>
+	<fontspec id="8" size="46" family="Roboto" color="#ffffff"/>
+<text top="589" left="35" width="324" height="19" font="0">More than 5 years experiences specializing in</text>
+<text top="611" left="35" width="311" height="19" font="0">web application. Independent, high demand</text>
+<text top="633" left="35" width="288" height="19" font="0">on the perfectness. Love challenges and</text>
+<text top="655" left="35" width="200" height="19" font="0">exploring new technologies.</text>
+<text top="761" left="35" width="50" height="19" font="0">Python</text>
+<text top="806" left="35" width="46" height="19" font="0">C/C++</text>
+<text top="851" left="35" width="76" height="19" font="0">JavaScript</text>
+<text top="896" left="35" width="34" height="19" font="0">Java</text>
+<text top="301" left="35" width="246" height="32" font="1">Contact information</text>
+<text top="345" left="35" width="88" height="19" font="2">Date of birth</text>
+<text top="372" left="35" width="51" height="19" font="2">Gender</text>
+<text top="372" left="151" width="53" height="19" font="0">Female</text>
+<text top="400" left="35" width="46" height="19" font="2">Phone</text>
+<text top="428" left="35" width="40" height="19" font="2">Email</text>
+<text top="455" left="35" width="59" height="19" font="2">Address</text>
+<text top="545" left="35" width="114" height="32" font="1">Objective</text>
+<text top="717" left="35" width="65" height="32" font="1">Skills</text>
+<text top="301" left="386" width="123" height="32" font="1">Education</text>
+<text top="369" left="386" width="344" height="19" font="3"><b>University of Technology of Compiegne, France</b></text>
+<text top="391" left="386" width="131" height="19" font="4">Computer Science</text>
+<text top="413" left="386" width="62" height="19" font="0">GPA: 3.2</text>
+<text top="337" left="720" width="147" height="19" font="4">Oct 2014 - May 2016</text>
+<text top="476" left="386" width="116" height="19" font="3"><b>RMIT University</b></text>
+<text top="498" left="386" width="131" height="19" font="4">Computer Science</text>
+<text top="444" left="720" width="147" height="19" font="4">Oct 2016 - May 2018</text>
+<text top="560" left="386" width="244" height="32" font="1">WORKING HISTORY</text>
+<text top="628" left="386" width="53" height="19" font="3"><b>BOSCH</b></text>
+<text top="650" left="386" width="152" height="19" font="4">Embedded Developer</text>
+<text top="596" left="710" width="156" height="19" font="4">June 2016 - Jan, 2017</text>
+<text top="714" left="386" width="163" height="19" font="3"><b>VNResource Company</b></text>
+<text top="735" left="386" width="124" height="19" font="4">Product Manager</text>
+<text top="681" left="710" width="156" height="19" font="4">June 2017 - Jan, 2018</text>
+<text top="799" left="386" width="164" height="19" font="3"><b>TPS Software Solution</b></text>
+<text top="821" left="386" width="140" height="19" font="4">Software Developer</text>
+<text top="767" left="730" width="136" height="19" font="4">Jan, 2018 - Present</text>
+<text top="1239" left="806" width="61" height="15" font="5">© topcv.vn</text>
+<text top="345" left="152" width="36" height="19" font="6">1995</text>
+<text top="399" left="152" width="90" height="19" font="6">0914560235</text>
+<text top="428" left="152" width="184" height="19" font="6">lhmphuong@outlook.com</text>
+<text top="455" left="152" width="40" height="19" font="6">Long </text>
+<text top="453" left="191" width="9" height="22" font="7">X</text>
+<text top="455" left="200" width="105" height="19" font="6">uyen, An Giang</text>
+<text top="95" left="35" width="475" height="54" font="8">Le Hoang Minh Phuong</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,218 @@
+RESUME 
+401A Vuon Lai St, Phu Tho 
+Hoa Ward, Tan Phu Dist, 
+HCMC 
+0908909276 
+quandt2206@gmail.com 
+DOAN TRUNG QUAN 
+EXPERIENCE SUMMARY 
+2 years of experience working at Thanh A Dong Trading – Service Company Limited as a 
+translator 
+1 year of experience working at Star Fitness Center as a manager 
+1 year of experience working at VNG Corporation as a Software Engineer 
+FOREIGN LANGUAGES 
+Good English skills in Reading, Writing, Speaking, Listening. 
+SKILLS 
+Soft Skills 
+Flexible and able to work independently as well as a part of team 
+Speaking and writing English well 
+Good at teamwork 
+Responsibility, friendly, ambitious 
+Programming Skills 
+Programming Languages:  C/C++, Visual C++, C#, Python, PHP 
+Database 
+Databases: MS SQL Server 2008/2012 
+Web Servers:  
+Apache 
+Network: 
+Design and debug network 
+Diagnose and Repair network 
+Network Administration 
+Virtualization 
+Software 
+Platforms: Windows XP/7/8, Linux (Fedora and Ubuntu), Windows Server 2008/2012 
+Others: Microsoft Office, Open Office, Libra Office, Openstack 
+Design network: Cisco Packet Tracer, VNWare 
+EDUCATION 
+Bachelor of Information Technology, HCM University of Pedagogy, Vietnam, 2015 
+Certificate of Linux Professional Institude, LPI. 
+Certificate of TOEFL iBT (70) 
+EXPERIENCE BY PROJECTS 
+From October 2015 –  now 
+VNG Corporation 
+Project 
+: Test Swift 
+Position(s) 
+: Tester 
+Project description : Test the swift (Object Storage for CDN) to deploy to the real CDN 
+system 
+Responsibilities 
+:  
+Test and report bugs of the Object Storage System for CDN 
+Technologies 
+: CentOS, CosBench 
+Work Location  
+: VNG Corporation 
+From Mar 2015 –  now 
+VNG Corporation 
+Project 
+: OPS_Management 
+Position(s) 
+: Developer 
+Project description : The operator of OpenStack_VNG need tool to manage OpenStack, 
+reduce load of work for Administrator such as terminating error 
+instances, create backup schedule 
+Responsibilities 
+:  
+Write new functions to manage users, groups of OPS_Management 
+for authorization, authority 
+Write new functions to manage backup, volumes, alarm  
+Fix bugs of other functions 
+Technologies 
+: PHP, CakePHP, PHPMyAdmin 
+Work Location  
+: VNG Corporation 
+From Jan 2015 –  Mar 2015 
+VNG Corporation 
+Project 
+: VNG_STATIC_IP 
+Position(s) 
+: Coder 
+Project description : The operator of Openstack_VNG need script to set static IP for 
+instances when it is lauched 
+Responsibilities 
+:  
+Write new script to install new parts of OpenStack such as 
+VNG_OPS_API, Chronos 
+Fix bugs 
+Technologies 
+: Python, Ubuntu, Window Server, CentOS 
+Work Location        : VNG Corporation 
+From Jan 2015 –  Mar 2015 
+VNG Corporation 
+Project 
+: OPS_Installer 
+Position(s) 
+: Developer 
+Project description : The operator of Openstack_VNG need script to install Openstack, some 
+new module need be updated such as VNG_OPS_API, Chronos and fix 
+bugs of other parts of OPS_Installer 
+Responsibilities 
+:  
+Write new script to install new parts of OpenStack such as 
+VNG_OPS_API, Chronos 
+Fix bugs 
+Technologies 
+: Python, Ubuntu 
+Work Location  
+: VNG Corporation 
+From Sep 2014 –  Dec 2014 
+VNG Corporation 
+Project 
+: OpenStack  Juno 
+Position(s) 
+: Researcher 
+Project description : VNG Corporation is implementing OpenStack – Havana, a release in 
+2013 and the new release, Juno has many new features, upgrade 
+Responsibilities 
+:  
+Install and try new features of OpenStack  Juno 
+Compare 2 release, suggest new features to implement to Havana 
+Technologies 
+: Ubuntu, OpenStack: Juno and Havana 
+Work Location  
+: VNG Corporation 
+From Feb 2012 –  Now 
+Ho Chi Minh City University of Pedagogy 
+Project 
+: develop network for software UPSLab 
+Position(s) 
+: Network designer 
+Project description : The center has three project groups to develop team win (40 pc), the 
+opensource (30 machines), mobile groups (25 pc). The data center can 
+be access from LAN. User want to work from home (work at home) can 
+use VPN accounts. Mail and Web Server can be accessed from 
+anywhere 
+Responsibilities 
+:  
+Design the network 
+Build server 
+Technologies 
+: VMWare, Packet Tracer 
+Work Location  
+: at HCM University of Pedagogy 
+From Feb 2014– Now 
+Ho Chi Minh City University of Pedagogy 
+Project 
+: Build a LAN Network for small and medium Enterprises 
+Position(s) 
+: Network Designer  
+Project description : Design a LAN Network for small and medium Enterprises 
+Responsibilities 
+:  
+Coder  
+Technologies 
+: GNS, Linux Ubuntu, Window Server 2012 
+Work Location  
+: HCM University of Pedagogy 
+From Jun 2013 – Au 2013 
+Ho Chi Minh City University of Pedagogy 
+Project 
+: Library Software 
+Position(s) 
+: Coder, Designer 
+Project description : build a sofware using in small and average libraries  
+Responsibilities 
+:  
+Design the viewer, database, code 
+Debug  
+Technologies 
+: SQL Server 2012, C# 
+Work Location  
+: HCM University of Pedagogy 
+From Jun 2013 – Au 2013 
+Ho Chi Minh City University of Pedagogy 
+Project 
+: PC Trading Web 
+Position(s) 
+: Web, database designer 
+Project description : build a web that sell parts of PC  
+Responsibilities 
+:  
+Design the interface, database, code 
+Debug  
+Technologies 
+: Javascript, php,html, phpmyAdmin 
+Work Location  
+: HCM University of Pedagogy 
+From Jun 2010 – To Dec 2012 
+Ho Chi Minh City University of Pedagogy 
+Project 
+: Family Tree  
+Position(s) 
+: Database admin 
+Project description : Development of family tree. 
+Responsibilities 
+:  
+Design the database 
+Design some viewer of the software 
+Technologies 
+: C#, SQL Server 2008 
+Work Location  
+: HCM University of Pedagogy 
+Personal Data 
+Gender 
+:  Male 
+Birthday 
+:  06-22-1988 
+Birthplace         
+:  Hue City, Thua Thien Hue Province 
+Marital status    
+:  Single 
+Health             
+:  Good 
+Hobby            
+:  Sport (football, badminton), Playing game 
+and reading book 
+Motto               
+:  Impossible is nothing 

@@ -1,0 +1,106 @@
+ 
+NGUYEN HUYNH THAO NHI 
+PERSONAL 
+DETAILS 
+DATE OF BIRTH: March 19th, 1994 
+PLACE OF BIRTH: Tien Giang province 
+GENDER: Female 
+ADDRESS: Ho Chi Minh City,  District 3, Ward 4, 338/19 Nguyen Dinh Chieu street . 
+PHONE NUMBER: 01627628105 
+EMAIL: thaonhi9194@gmail.com 
+OBJECTIVE 
+I ‘m looking for job as Android Developer , because I love to work in Software Development, especially in 
+Android Development. I want to create product and feel very exciting when people use my product.  
+SKILLS & 
+ABILITIES 
+PROGRAMMING LANGUAGES: Java, C#, Ionic Angular JS 
+DATABASES: SQL Server, MySQL 
+ANDROID SKILLS: 
+App Components: Intents, Activities, Fragments, Services 
+User Interface: 
+o 
+Layouts: Linear Layout, Relative Layout, Recycler View, List 
+View 
+o 
+Input Controls: Buttons, Checkboxes, Radio Buttons, Toggle 
+Buttons, Spinners, Pickers 
+o 
+Menus 
+o 
+Toasts 
+Animation and Graphics: draw with Canvas 
+Data Storage: SQLite Databases, Network Connection 
+Third party library: Gson, Glide, MPAndroidChart 
+Cloud Services: Firebase, Azure 
+ENGLISH: TOEIC 680 
+OTHER SKILLS: Git Hub, Teamwork, Presentation. 
+WORKING 
+EXPERIENCE 
+12/2016 – present: Associate Software Engineer at DXC Technology Vietnam (known as: CSC Vietnam) 
+7/2016 – 12/2016: Internship at Posts and Telecommunications Institute of Technology, working with 
+thesis. 
+PROJECTS 
+WORKING PROJECTS:  
+Manulife MOVE Hong Kong (Android native) :  
+Description: an application promotes a healthy lifestyle by enabling members to track 
+their progress against set fitness goals and earn premium discounts. Members can also 
+monitor a range of health indicators. 
+ACADEMIC PROJECTS:  
+Event Reminder (Programming Mobile Applications for Android Device subject midterm 
+project  using Java/Android) 
+Description: My first Android project. I completed when studied a subject at school.  I 
+create a small tool to remind the event. User add new event with time, content and 
+some other information. Tool will notify user at that time. It just a small tool but it is 
+good chance for me to learn Android Programming.  
+Snake Game (Programming Mobile Applications for Android Device subject final project  using 
+Page 2 
+Java/Android) 
+Description: At the end time of  subject with Event Reminder. I create a small game, 
+because of requirement of teacher. The game doesn’t used any technology or library, 
+just Android native codes.  
+Task Management System (Thesis  The project consisted of Android app, RESTful Web API, 
+Structured Database, using Java, C# programming language, SQL Server. RESTful Web API and 
+Structured Database components were deployed on Microsoft Azure) 
+Description: Project is my thesis and the largest Android program I have ever done. It 
+is a system with several component. Android application as a user interface, web 
+service as the back-end for processing user’s request and the structure database for 
+storing data. Users are classified as Director, Project Leader and Employee. Director 
+can creates new project or new task. Project Leader can create new task and assign for 
+employee, who join project. Employee can update status of task. Tasks are done by 
+Employee, will wait for approval of Project Leader to finished. Every task has a priority 
+in “Low”, “High” and “Critical”. Web service and database components are deployed on 
+Microsoft Azure.  
+Student 's Score Management Program ( Using C++ ) 
+Description: It is my first programming project. In this project, I use C++ 
+programming language to implement a tool for managing score of students. It allows 
+user add name of student, name of subjects, score of students, user also update, 
+delete, insert above information in existed data. I use C++ to implement some data 
+structure like: linked list, array, method along with these data structure and graphic 
+user interface.  
+Bookstore Website (using Java, HTML, CSS, MySQL database ) 
+Description: It is the project of Web Development subject. In this project I use Java 
+language with JSP/Servlet technology to create an online bookstore. Website shows 
+books, price of books, detail information of a book when user click on it, it allows user 
+add book to cart and carry out the payment process. All interactions of user is stored 
+in MySQL database. In front end, I use HTML/CSS to create interface of website.  
+Research Framework Struts 2 and Develop a Bookstore Website. (Science Research project for 
+students. Using Java, MySQL ) 
+Description: This project was developed from Bookstore Website. My task is  research 
+Struts 2 web- framework and use it to develop my Bookstore Website. This project is 
+the product of the  Science Research Project (SRP) . I separate the SRP into two parts. 
+The product of the first part is Bookstore Website. The second part ‘s product is 
+Bookstore website using Struts 2.  
+Library Management Software (Database Management System subject final project  using 
+C#/Windows Form, SQL Server) 
+Description: This project is also a subject project. I use C# programming language 
+with windows form. The program allows user add, insert, update and delete 
+information of books, categories, borrowers, borrow tickets, lenders…. At the 
+database section, I use SQL Server because of requirement of teacher and create Store 
+Procedure, Trigger, Transaction  for processing data. 
+EDUCATION 
+2009 – 2012 : Nguyen Thi Minh Khai Highshool, District 3, Ho Chi Minh city 
+2012 – now:  Senior student of Posts and Telecommunications Institute of Technology, Ho Chi Minh city   
+Specialization: Software Engineering  GPA: 7.92/10 
+Page 3 
+HOBBIE 
+Reading book, playing game, going out with my friends. 

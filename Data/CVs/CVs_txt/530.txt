@@ -1,0 +1,53 @@
+ 
+HA NGUYEN DIEP 
+01/01/1995  Male 
+An My – Hoai An – Binh Dinh 
+(+84) 988905304  hanguyendiep@gmail.com 
+Education      Da Nang University of Science and Technology 
+Faculty of Center of Excellence 
+Major in: Embedded System 
+GPA: 3.28 
+Date of Graduation: August 2018 
+Skills           Ability to use different programming languages: C/C++, Python, C# (Window application form)   
+and Verilog. 
+Ability to use some softwares: 
+Simulating/Designing electric circuit: Altium Designer, Protues 
+Hardware discription of digital circuits and simulation: ModelSim, Quatus 
+Others: Matlab, Solidwork, Microsoft Visual Studio 
+Basic knowledge on: Electric circuits, Electronics, Microcontroller (AVR, MSP430, ARM), 
+Microprocessors, Linux Driver, Digital Circuits and Digital Systems, Microprocessor System 
+Design, Computer Architecture, Feedback and Control Theory, Digital Signal Processing, 
+Machine Learning. 
+Having accomplished courses: Leadership, Project Management, Technical Writing and 
+Communication Skills. 
+Ability to use English in both work and communication. Certificate of IELTs band 6.0. 
+Work            Intership at eSilicon Company in Da Nang City, Vietnam      
+January 2018 – May 2018 
+Experience    Design a high speed Delay looked loop (DLL) in TSMC 28nm: an electronic circuit is used to  
+synchronize an output signal by generating necessary delay for clock signal. 
+Work in a team of 2 members 
+Study and improve the previous DLL version in both circuit and layout. 
+Research      Smart Lighting System:  
+December 2014 – April 2015 
+Experience   Using microcontroller MSP430G2553 with some sensors to control automatically the  
+lighting system. 
+Work in a team of 3 members. 
+The device can turn on/off the lights as detecting movements in a certain area. 
+Air Pollution Monitoring System: 
+November 2015 – May 2016 
+Collecting information of surroundings including temperature, dust, SOx, COx, calculate AQI  
+(an air quality index) to show how polluted the air currently is. 
+Work in a team of 5 members. 
+The device can connect to other devices at different places to draw spectrum map on web 
+which displays the AQI index. 
+Give warning about levels of pollution on both web and applications on smartphone. 
+Predicted water quality through fish’s response using machine    
+learning:   
+January 2017 – May 2017 
+Analyzing, identifying, recognizing fish’s habit in water environment to predict the  
+quality of water (normal or abnormal). 
+Work in team of 4 members. 
+Work primarily on Matlab with given data about movements of fish in both normal and 
+abnomal water enviroment. 
+Extracting attributions, training and comparing the obtained results at both methods: 
+Artificial Neural Network and Support Vector Machine. 

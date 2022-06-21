@@ -1,0 +1,53 @@
+TRAN THI THU HUONG 
+T E S T E R  
+ABOUT ME 
+Date of birth: 05/07/1997 
+Gender:  Female 
+Place of birth :  Tay Ninh  
+Phone number: 01678997194 
+Email: huongxd97@gmail.com 
+Address:  Thu Duc 
+SKILLS 
+PROGRAMING LANGUAGES 
+JAVA 
+HTML 
+CSS 
+BOOTSTRAP 
+JAVASCRIPTS 
+DATABASES 
+SQL SEVER 
+SOFT SKILLS 
+Communicate  
+Team work 
+Presentation 
+English 
+OBJECTIVE 
+– 
+Become a  good tester. 
+– 
+Gain real experience from projects. 
+– 
+Study and work in a professional environment. 
+– 
+Develop a long-term career path with 
+company. 
+EDUCATION 
+September 2015-Now: Learn major in Information of   
+Technology at  Nong Lam  University. 
+GPA:  5.7 
+EXPERIENCE 
+– 
+At 3 years of experience in programming with 
+Java 
+– 
+Participate project web 
+– 
+Good IT background knowledge :OOP, SQL 
+Server, Java web, Software Engineering. 
+– 
+Have knowledge about Sofware Testing such 
+as: test unit, test case , test plan,.. 
+OTHER ACTIVITIES 
+– 
+Join the club to connect successfully at school 
+in 2015 

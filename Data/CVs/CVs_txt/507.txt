@@ -1,0 +1,86 @@
+ 
+PERSIONAL DETAILS 
+Name: HA DUONG KHANG 
+Date of  birth: 29/03/1989 
+Address: 65, Yen Do street, Tan Thanh ward, Tan Phu 
+district, Ho Chi Minh city 
+Phone: 0912467817 
+Email: ginryods@gmail.com 
+Sender: male 
+Material status: no 
+Health: Good – Height: 1,80 m, Weight: 85 kg. 
+TECHNICAL SKILL 
+Can read and write english 
+Experience SQL Server 
+Experience HTML5, CSS3,  BOOTSTRAP 
+Experience WCF. 
+Good at Javascript, Jquery, KnockoutJS 
+Use IDE Visual studio 2012 
+Experience SingleTons Pattern and Factory Pattern 
+ASP.NET MVC4, OOP, 3-Tier 
+Good to use Git hub, SVN 
+Good at RestAPI, JSON 
+Experience authenticate system 
+EDUCATION 
+Bac Lieu university 
+PROJECT 
+AT SCHOOL:  Project inventory management 
+IDE 
+Visual Studio 2010 
+System 
+Windows 7 
+Programing language 
+C# 
+Options  Search and advance search  Insert, update, delete product  Insert, update, delete user  Manage order  Manage product  Login and register 
+Database 
+Microsoft Access 
+Time 
+2-3 week 
+AT JOB:  Project eTicket: 
+IDE 
+Visual Studio 2012 
+Support 
+Chrome, Mozilla … 
+Programing language 
+C# 
+Options  Advance search  Insert, update, delete  Manage teacher, class, classcorse, pupil, 
+parent, subject, ticket, level  Insert, update, delete more pupil into 
+classcorse  Insert, update, delete more subject into 
+class  Show teacher’s comment for parent  
+Database 
+SQL Server 
+Time 
+1 month  External API 
+IDE 
+Visual Studio 2012 
+System 
+Windows 
+Programing language 
+C# 
+Options  Signin : Signin function for GHN’s client 
+to create session to use other APIs  AutoSignin: Auto signin when session 
+token expired  GetPickHubs: Get current hubs of  logged 
+in client. A client may have many pick 
+address. Each address is a hub. GHN 
+provide this function for the logged client 
+to get its hubs information  CalculateServiceFee: Get the service fee 
+by given input such as Weight, From, To, 
+Service ID.  GetServiceList: List of available services 
+support from district and to district.  CreateShippingOrder: Create new 
+shipping order.  GetDistrictProvinceData: Get GHN 
+district/province data. This data is used to 
+reference the district ID to create shipping 
+order  CancelOrder: Cancel a shipping order 
+from GHN.  GetOrderInfo: Tracking a shipping order 
+from GHN. 
+Database 
+SQL Server 
+Time 
+3 month 
+DESIRE IN JOB 
+After 2-3 years, I am a senior developer and future is IT Leader or Project Manager 
+SỞ THÍCH 
+Read manga 
+Play video game 
+Cafe with my friend 
+Chat with my friend 

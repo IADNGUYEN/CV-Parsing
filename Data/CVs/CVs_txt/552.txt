@@ -1,0 +1,181 @@
+Pham Duc Huy
+Pham Duc Huy
+Embedded Software Developer | Nam | Độc
+thân | 28/09/1980
+Năm kinh ngiệm
+7 năm
+7 năm
+Công ty gần đây nhất
+SH C
+SH C với vị trí Embedded Software
+Developer
+Bằng cấp cao nhất
+T hạc Sĩ
+T hạc Sĩ
+Ngoại ngữ
+English
+English  Trung cấp
+Địa chỉ email
+phamduchuy@hot mail.com
+phamduchuy@hot mail.com
+Điện thoại
+0976471702
+0976471702
+Địa chỉ
+T an T hanh Dong,H uyện Củ
+T an T hanh Dong,H uyện Củ
+Chi,T hành phố H ồ Chí Minh
+Chi,T hành phố H ồ Chí Minh
+Nơi làm việc mong
+muốn
+Bình Dương | Hồ Chí Minh
+Ngành nghề
+IT  Phần mềm
+Cấp bậc mong muốn
+Nhân viên
+Mức lương mong
+muốn (USD)
+1,000
+Phúc lợi mong muốn
+Đào tạo
+THÔNG TIN CHUNG
+I am seeking for a C/Java/C++ developer position that work place is
+at Dist. 12, Dist. Tan Binh or Dist. Binh Thanh so that I could travel
+from Binh Duong to company office daily.
+I have 7.5 years experience as Software Developer. I have
+42 months experiences programming in C which includes 23 months
+MCU development dedicated experiences. The project that I joined
+requires C programming language skills includes:
+. Implement a multithread daemon linux application processing high
+load data from network.
+. Implement an application layer software component in telnet and
+snmp protocol.
+. Port to implement a CMSIS DAP debugger device (USB, GPIO,
+UART peripherals knowledge)
+. Investigate and implement a demo program about IoT (MQTT
+technology)
+. Investigate and implement a device USB to CAN dongle (CAN
+peripheral knowledge)
+. Port BSP QNX drivers for Renesas RZ/A1 ARM SoC and Raspberry
+Pi 2
+. Port Linux BSP (uboot) for Renesas RZ/A1 ARM SoC
+. Implement embedded library access ESP8266, PN5325 module
+. Implement SHA256 algorithm for SH2A
+I could consult MCU datasheet, user manual, programming manual
+to look for register usage, MCU architecture, clock block diagram,
+input/output signal characteristics... for implementation solution.
+I has background knowledge of electronics engineering. I could read
+electronics circuit, design simple electronics circuits for example I
+could create a prototype board from IC (integrated circuit):
+. A load/eject CD board which build from NAND gates (no MCU
+include)
+. A board to drive Microchip SPI CAN controller
+. H-Tag, a device to create a clean signal from MCU source to
+communicate with PC parallels port as a J-Tag like device
+. Simple circuit (include regulator) for MCU LPC2103, STM32F103
+KỸ NĂNG
+C/C++
+Tdd
+Embedded  C
+Linux / Ubuntu
+Java & J2EE
+KINH NGHIỆM LÀM VIỆC
+Tháng 10/2016  Tháng 10/2017
+Embedded Sof t ware Developer
+Embedded Sof t ware Developer
+SHC
+Work as Embedded Software Developer for below tasks:
+. QNX BSP driver programming
+. Linux BSP port
+. Embedded Firmware
+. Embedded Library (ESP8266, PN5325 RF card reader, SHA256...)
+Tháng 12/2014  Tháng 10/2016
+Embedded Sof t ware Developer
+Embedded Sof t ware Developer
+Global Cybersoft
+Embedded Software Developer that develop Embedded Application
+and Embedded Firmware. The job requires work with new
+technology in a limited of time. I learned research skill. For the
+embedded development, consulting datasheet and other related
+document (NXP user manual, ST programming manual, reference
+manual) is a challenge. I defined a simple process for basic
+investigate these documents to get the related information at
+development phase. I also could build hardware from chips
+(MCP2515, MCP2551)
+Achievement:
+. Knowledge about ARM-Cortex MCUs (architecture, peripheral: SPI,
+UART, GPIO, CAN)
+. Basic knowledge about Autosar
+Programing language: Python, C and C++
+Platform: mbed 2.0, mbed 3.0, embedded linux
+MCU: lpc1768, stm32f103, lpc11u35, others arm mcu
+IDE/development tools: Eclipse, Keil C, yotta
+Tháng 12/2013  Tháng 12/2014
+Sof t ware Developer
+Sof t ware Developer
+Larion
+GNU Linux Software Developer that develop a multithread
+application. The job is developing high performance multithread linux
+application. To archive high performance, I learned to use atomic
+functions and C struct padding for programming.
+Programing language: C and C++
+Platform:  linux
+IDE/development tools: Eclipse, notepad++
+Tháng 12/2011  Tháng 5/2012
+Sof t ware Developer
+Sof t ware Developer
+ActOne
+RIA application developer that develop flash applications
+Programing language: Flex
+Platform: Adobe Flex
+IDE/development tools:Flash builder
+Tháng 3/2008  Tháng 5/2009
+Sof t ware Developer
+Sof t ware Developer
+Formos VN
+Java developer that develop web application
+Programing language: Java
+Platform: Lightweight J2EE
+IDE/development tools:Eclipse
+Frame work: Tapestry 4,  5
+Tháng 3/2007  Tháng 12/2007
+Sof t ware Developer
+Sof t ware Developer
+FCGV
+Java developer that develop web application. The job requires
+understanding the application by consulting the requirements, design
+document. Research for new technologies and conduct reports. I
+contributed in team to fix a critical bug and some other bugs. I
+independently work to create a simple product web application.
+Programing language: Java
+Platform: Lightweight J2EE
+IDE/development tools:Eclipse
+Frame work: Strut, Hibernate
+Tháng 3/2005  Tháng 12/2006
+Sof t ware Developer
+Sof t ware Developer
+Gameloft
+Java developer that port J2ME game. This job require ability to deal
+with whole source code with a limited of time to port it to a new
+platform and I could browse to find the related source code to fix
+bug in the time constraints.
+Programing language: Java
+Platform:J2ME
+IDE/development tools:Eclipse, notepad++
+TRÌNH ĐỘ HỌC VẤN
+Tháng 10/2009  Tháng 8/2013
+Comput er Sc ienc e mast er program
+Comput er Sc ienc e mast er program
+Thạc Sĩ  University of Information Technology
+Master of Computer Science (Natural language processing)
+Tháng 1/2002  Tháng 1/2006
+Inf ormat ion T ec hnology
+Inf ormat ion T ec hnology
+Cử nhân  HCMC University of natural science
+Bachelors of Information Technology
+Tháng 1/1999  Tháng 12/2001
+Inf ormat ion T ec hnology
+Inf ormat ion T ec hnology
+Cao đẳng  HCMC University of natural science
+Diploma of Information Technology
+THÔNG TIN THAM KHẢO

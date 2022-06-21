@@ -1,0 +1,72 @@
+Department :
+Major:
+GPA: 7.9/10
+HCMC University of 
+Technology
+(2011-2016)
+Build and boot Linux core, 
+developing program display 
+info of peripheral on SoC 
+ARMv8 
+May 2011
+Dec 2014
+Mar 2015
+Apr 2016 : Graduation 
+Aug  2015
+Internships:
+C
+Python
+C++  
+bash shell
+Raspberry Pi
+ASM
+Protocol : I2C, SPI, ...
+Great
+MCU TI (MSP430 , TIVA,..)
+Decent
+Education
+BUI NGUYEN NHAT QUANG
+bnnquang@gmail.com                                     
+Projects:
+Volunteer:
+Project 2 : Design Mobile 
+Robot tracking object 
+using embedded board 
+Raspberry Pi  + MSP430 ( 
+Python, C, I2C, OpenCV )
+Graduated High School
+Second Prize of Do It 
+Different Contest 
+(hold by PIF)
+June 2015
+Become PIF's 
+member
+Windows
+Linux
+Skills
+ROS ( Robot 
+Operating System)
+Travel
+Soccer
+Entrepreneurship
+Travel
+Interests
+Study at HCMC 
+University of 
+Technology
+Number of Scholarship
+0165 729 6950
+Mapping and Automatic 
+Navigation Robot using Kinect 
+(C++, ROS, Microprocessor)
+C 
+TOEIC 655
+Design Mobile  Robot avoid 
+obstacles  use sonar sensor ( C, 
+Microprocessor )
+PLC ( Siemens, OMRON,..)
+19 social work 
+days
+I'll  try my best to become a good 
+embedded software engineer
+Admire career

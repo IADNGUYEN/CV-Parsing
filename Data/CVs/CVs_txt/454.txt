@@ -1,0 +1,218 @@
+ 
+Page 1 
+CURRICULUM VITAE 
+PERSONAL INFORMATION 
+Full name  
+: Khai Phan Van 
+Date of birth 
+: 03/10/1988 
+Religion 
+: None 
+Nationality 
+: Vietnam 
+Languages  
+: Vietnamese (native), English (ok) 
+Address 
+: 179 Tan Son street, 15 Ward, Tan Binh District, HCM City, Viet Nam 
+Marriage Status 
+: Single 
+Sex 
+: Male 
+Phone number 
+: 0932 73 30 31 
+Email 
+: phanvankhaiexp@gmail.com 
+EDUCATION 
+2008–2012 
+: Bachelor of information technology, Lac Hong University 
+Mode of study: Full-time 
+GPA: 8.49 
+Grade: excellent 
+Ability: .Net (VB.NET, C#), SQL Server,  ASP.Net 
+January, 2010– January, 2012: Cisco Networking Academy. 
+Configure and verify basic WAN serial connections including serial, Point-to-Point and  
+Frame Relay. 
+Describe the functions of common security appliances and applications and the practices to 
+secure network devices. 
+Describe, configure, apply, monitor, and troubleshoot Access Control Lists (ACL) based on 
+network requirements. 
+Describe the importance, benefits, role, impact, and components of  VPN technology . 
+Explain, configure, verify, and troubleshoot IP addressing services including Network Address 
+Translation (NAT), DHCP 
+2016–now: Viet Nam National University HCMC – University of Information Technology  
+Master of Science Computer 
+SKILLS 
+Good at Python, C/Side, AL, .NET (VB.NET, C#), Java 
+Knowledge: Computer Vision, Machine Learning. 
+Knowledge: OpenCV, numpy, panda, Matlab 
+Knowledge: Django, Angular 1, Jquery, JavaScript 
+Knowledge: CNNA Cisco Network 
+BackEnd: Restful Service (Django, WebApi C#) 
+FrontEnd: Django, Web ASP.NET, MVC. 
+Server: Windows Server 2008 R2,2012,2016(IIS, Domain...) 
+Source Control: Git, SVN, TFS. 
+Database: MsSQL, DB2, PostgreSQL, SQLite ,MongoDb. 
+Concept: OOP, MVC. 
+Experience in web and windows application 
+Experience in linux and windows command, vba 
+Page 2 
+Experience report in Crytal Report, Print Pro 
+Highly skillful in using development tools: 
+Pycharm 
+Microsoft Dynamic Navision Editor 
+Visual Studio 2012 ,Visual Code 
+Eclipse 
+SUMMARY EXPERIENCES: 
+06+ year experience at Developer position 
+02+ year experience at sub team leader position. 
+03+ year experience at ERP solution Microsoft Dynamics NAV. 
+01+ year experience at Image Processing, Computer Vision, Machine Learning 
+EXPERIENCES IN WORK 
+Lac Hong University  
+❖ Project:  Human resource management. 
++ Language: C#. 
++ Database: SQL Server. 
++ Position: Coder, database designer. 
+❖ Project:  Game Sodoku. 
++ Language: VB.NET. 
++ Position: Coder. 
+❖ Project:  Shop Online. 
++ Language: ASP.NET. 
++ Database: SQL Server. 
++ Position: Coder and Tester. 
+❖ Project:  Online Testing. 
++ Language: ASP.NET. 
++ Database: MySQL Server. 
++ Position: Coder. 
+❖ Final Project: Detect number of finger and application. 
++ Language: C++, OpenCV. 
++ Camera: Microsoft Kinect. 
++ Position: Research, Coder 
++ Description: Using image input from Microsoft Kinect camera, detect where hand. 
+Then, detect finger and counting how many finger. 
++ Award: Second of Department, Incentive Award of University  
+The University of Information Technology – VNU HCM  
+❖ Project:  Image Enhanmance. 
++ Language: Matlab. 
++ Position: Coder, database designer. 
++ Description: Input image with noise. Enhanmance image: remove noise, smoothing,... 
+❖ Project:  Image Search. 
+Page 3 
++ Language: Matlab. 
++ Position: Coder, database designer. 
++ Description: Searching image simaly image or region of image input and show result 
+Business Project: 
+From Oct 2015 to Now 
+STC Software Viet Nam | Ho Chi Minh City, Vietnam 
+Project 
+: Microsoft Dynamic Navision 
+Period  
+: Oct 2015  now 
+Position  
+: Sub Leader 
+Description : Microsoft Dynamics NAV is an enterprise resource planning (An ERP) app from 
+Microsoft. The product is part of the Microsoft Dynamics family, and intended to 
+assist with finance, manufacturing, customer relationship management, supply 
+chains, analytics and electronic commerce for small and medium-sized companies 
+and local subsidiaries of large international groups. For modifications of the      
+system, the proprietary programming language C/AL is used. Some feautures: 
+Financial management 
+Supply chain management 
+Manufacturing 
+Distribution 
+Customer relationship management 
+Sales and marketing 
+Service management 
+Human resource management 
+Project & Resource management 
+Warehouse management 
+Responsibilities : Manage deploy servers, implement new features 
+Implement front end, backend, manage and review code 
+Design function document, performance tuning 
+Custom, create module 
+Technology : C/Side, SQL Server, Crytal Report 
+Project 
+: Microsoft Dynamics 365 Business Central 
+Period  
+: Oct 2016  now 
+Position  
+: Sub Leader 
+Description : Microsoft Dynamics 365 Business Central is an enterprise resource planning  
+(ERP) system from Microsoft. The product is part of the Microsoft Dynamics 
+family, and is the successor product to Microsoft Dynamics NAV, Microsoft  
+Dynamics GP, and Microsoft Dynamics SL. It shares the same codebase as     
+NAV and NAV's C/AL language is being phased out in favor of the new AL 
+language. Some feautures: 
+Financial management 
+Supply chain management 
+Customer relationship management 
+Service management 
+Human resource management 
+Project & Resource management 
+Warehouse management 
+Manufacturing 
+Responsibilities : Manage deploy servers, implement new features 
+Page 4 
+Implement front end, backend 
+Custom, create module 
+Technology 
+: AL, SQL Server, Crytal Report 
+From Apr 2015 to Oct 2015 
+Pacific Business Consulting, Inc. | Tokyo, Japan 
+Project 
+: Trainning Microsoft Dynamic Navision 
+Period  
+: Oct 2015  now 
+Position  
+: Sub Leader 
+Description : Pacific Business Consulting has provided ERP implementation and development 
+consulting services with a focus on Microsoft Dynamics NAV since 2001. They 
+have a team of multi-national consultants and Japanese bilinguals with Microsoft 
+certifications, and can support projects not only in Japan but also overseas. 
+Responsibilities : Complete trainning course both bussiness and skill development of Microsoft 
+Dynamic Navision. 
+Technology : C/Side, SQL Server, Crytal Report 
+From Mar 2013 to Apr 2015 
+Uniccs Co.,Ltd. | Ho Chi Minh City, Vietnam 
+Project 
+: WebTaurus 
+Period  
+: Mar 2013 to Apr 2015 
+Position  
+: Coder 
+Description : WebTaurus is web app provide supermarket, drugstore. Some features: 
+Management product 
+Automatic order, PDA 
+Management plan (promotion, safe off) 
+Shops transfer 
+Management inventory with each item 
+Management profit 
+Responsibilities : Implement front end, backend, manage and review code 
+Performance tuning, Investigate potential bug 
+Technical support, training 
+Unit test, integrated test 
+Technology : Java, Servlet, DB2, applet, CSS, HTML, JavaScript, jsp, linux command... 
+From Oct 2012 to Mar 2013 
+Dong Nai Hospital | Dong Nai Province, Vietnam 
+Project 
+: Manager Medicine 
+Period  
+: Oct 2012 to Mar 2013 
+Position  
+: Coder 
+Description :  Contact with user, doctor to get requirement. Design and develop software for          
+manage medicine, price, computer equipment.  
+Responsibilities : Implement front end, backend 
+Technology : Winform, VB.Net, SQL Server 
+Page 5 
+OTHER PERSONAL FEATURES 
+Interesting in activities, sport (volleyball ...). 
+Become a bettter Software Engineer. Always improve professional skills in the Software 
+Development Process and Management Project 
+PERSONAL AMBITIONS 
+Pro-active, careful, analyzable, enthusiastic in work. 
+Willing to learn new technology and taking every chance to improve about every computer science 
+related issues and manage skills. 
+Working in the well-challenged position/workplace to force myself thinking creatively in order to 
+continuously producing better results. 
+Colleagues, relatives and friends recognize being friendly. 

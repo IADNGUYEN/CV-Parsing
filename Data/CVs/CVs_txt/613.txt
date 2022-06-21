@@ -1,0 +1,146 @@
+Key skills 
+AREAS OF EXPERTISE 
+Agile methods 
+Html, css 
+Python 
+jQuery 
+Django 
+ReactJS 
+PHP 
+Twisted 
+PROFESSIONAL ABILITIES 
+Proficient in Python, web design and 
+development frameworks 
+Approach new technique promptly 
+Analyze and solve problem rapidly  
+Working under high pressure  
+Team working as well as independent work 
+TECHNICAL SKILLS 
+OS 
+Ubuntu, Centos, Windows 
+Languages 
+C Sharp, Python, Javascript 
+Databases 
+MySQL, MS SQL, MongoDB 
+Packages 
+PIP, NPM 
+Methodologies 
+& Tools 
+Rational Rose, Git, SVN, GitHub, 
+Bitbucket, JIRA, CircleCI, Trello 
+SON NGUYEN TRUONG 
+WEB DEVELOPER 
+(+84)909691776 | sonnguyentruong87@gmail.com 
+Career summary 
+A forward thinking, dedicated and fullstack web developer 
+specialized in Python with a proven ability to meet agreed deadlines, 
+co-ordinate work and have hands on 5 year experience with many 
+large scale systems.  
+Focused on code quality to deliver best products to customers and 
+be able to utilize existing knowledge and experiences to foresee 
+potential issues as well as come up with practical solutions. 
+Currently, I am looking for the professional working environment to 
+contribute and gain more experience. 
+Academic qualifications 
+Information Technology College HCM City  
+Associate Degree in Software Technology  
+Foreign language: English (TOEIC 680) 
+Work experience 
+Harvey Nash Vietnam – IT outsourcing 
+Web Developer 
+Mar 2015 – Present 
+Responsible for back-end development of projects throughout a 
+projects life cycle.  
+Working in fast pace and Agile environtment with Scrum model. 
+Eyepower Games Ple 
+Web Developer 
+2011 – 2015 
+Full-stack development for various games. 
+Gold Star Soft Ltd. 
+Web Developer 
+2009 – 2011 
+ASSIGNMENT HISTORY 
+Project 
+US Jordan Media  ODC 
+Duration  
+1 Year 
+Position 
+Developer 
+Project Description 
+Gift Card Management System allows customers to manage the loading of their gift cards, 
+without the retailer losing financial control. 
+My Responsibility 
+Make the detailed designs for assigned tasks. 
+Write code based on detailed designs and Functional/Requirement Specifications 
+Perform full unit test on the assigned tasks 
+Implement unit test 
+Incident and bug fixing 
+Technology 
+Python, Django 
+Project 
+Penguin Adventures 
+Duration 
+1 Year 
+Position 
+Developer 
+Project Description 
+This game teaches phonics  and  phonemic  awareness  and  there  are  lessons  as  well  as  
+mini casual games that learners can play. 
+My Responsibility 
+Develop Web interface. 
+Technology 
+ASP.NET MVC, Silverlight, WCF 
+Project 
+Moo-O 
+Duration 
+3 Years 
+Position 
+Developer 
+Project Description 
+Portal website for Moo-O  a flagship product of EyePower Games designed to motivate 
+children to learn through play and to read through the power of immersive technology. 
+With the help of a webcam, a microphone  and  the  Moo-O  software, children (the story 
+readers) are instantly transformed into the characters of the story that they are reading. 
+My Responsibility 
+develop Web interface 
+Technology 
+Python, Django 
+Project 
+Ink2Go 
+Duration 
+1 Year 
+Position 
+Develop 
+Project Description 
+E-Commerce Site for Ink2Go  software for screen annotation and recording. 
+My Responsibility 
+Develop web interface 
+Technology 
+Django, Python 
+Project 
+NewsMaker 
+Duration 
+2 Years 
+Position 
+Developer 
+Project Description 
+Portal web for NewsMaker  Software that provides students an easy, affordable and fun 
+platform to practise their language skills: Reading and Viewing, Writing, Listening and 
+Speaking. 
+My Responsibility 
+Develop web interface 
+Technology 
+Django, Python, jQuery Mobile, ReactJS, SASS,…. 
+Project 
+Tandem 
+Duration 
+9 Months 
+Position 
+Developer 
+Project Description 
+The game where players role-play as agents in a special task force and have to relay 
+information via handsets with built-in microphones. 
+My Responsibility 
+Develop web interface 
+Technology 
+ASP.NET MVC, Silverlight, WCF 

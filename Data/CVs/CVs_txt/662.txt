@@ -1,0 +1,33 @@
+TRAN THANH HAI 
+J A V A  D E V E L O P E R 
+Quarter 6  Linh Trung Ward  Thu Duc District-Ho Chi Minh city  
+Phone: 0963  378831   Email: jeremiebelpois97@gmail.com 
+TECHNICAL SKILLS 
+⚫ Programming Language 
+Java 
+⚫ Database Management System 
+MongoDB 
+⚫ Frameworks 
+React Native 
+⚫ Version Control 
+Git 
+⚫ Soft Skills 
+Teamwork 
+Time Management 
+EXPERIENCE 
+Semeter 1, senior 
+My team made a mobile app called NLPige Tourist, in this application I  
+mainly focused on doing restfull api using Spring Boot Framework. 
+Semeter 2, senior 
+My team is creating web application called Trello, in this application I  
+mainly focused on doing restfull api using Spring Boot Framework and  
+Reactjs. 
+EDUCATION 
+From 2015 to Now     Nong Lam University 
+PASTIMES AND ACTIVITIES  
+I am keen on reading IT blogs, Medium, and Quora in my free time. 
+I also participated in academic clubs at the school and participated in hackathon 
+competitions organized by KMS Technology and participated in google organized events 
+like google firebase and android. 
+I learn some new technologies such as: microservices, react native, nodejs and graphql, 
+docker, etc. They can be found at my GitHub profile https://github.com/JeremieBelpois. 

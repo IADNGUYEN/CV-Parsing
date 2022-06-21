@@ -1,0 +1,41 @@
+Hoàng Mạnh Cường 
+Email: cuong4cv@gmail.com 
+Mobile:  (+84) 907184626 
+Address: 1019 Quoc lo 1a, Quan Binh Tan, Tp Ho Chi Minh, Vietnam 
+CAREER OBJECTIVES  
+Short-term: Within 1-2 years, junior developer. 
+Long-term: Within  3-5 years, senior developer. 
+EDUCATION                                                                                                                        Aug 2014 –  NOW  
+FPT University 
+Innovation building, Dist 12, Ho Chi Minh City 
+Major: Software Engineering 
+GPA:7.8 
+Module included: Java OOP, C, Human Computer Interaction, Lab 
+OOP (RED LEVEL), Working in groups, Android 
+SKILLS 
+Java OOP: Advanced 
+Android: Advanced  
+WORK EXPERIENCES  
+HisoftJSC – intern 4 months 
+Position: 
+Backend Web 
+Android Dev                     
+EXTRACURRICULAR ACTIVITIES 
+FCODE  a club for those who have a passion for coding.                                                     Aug 2015  
+September 2016 
+My position & description 
+Chairman  Manage club’s events, organize some training classes 
+Achievements 
+Events: ACM challenge, Maze challenge  AI programming,… Classes: C 
+(2 times) 
+PERSONAL PROJECTS  
+Busmap with voice: Find bus, road map by voice. Android app 
+Reference: https://github.com/cuongtora1996/BusStation 
+DetectFace: Detect image in folder with Face API and write report. Android background app 
+Reference: https://github.com/cuongtora1996/DetectApplication  
+AnchorViewPagerBottomSheet: Library for bottomsheetbehaviour in android. 
+Reference: https://github.com/cuongtora1996/AnchorViewPagerBottomSheet 
+OTHERS  
+Language: English (6.0), Japanese. 
+Computer: Proficient in using Microsoft Office. 
+Mobile Hackathon 2016 in HCM City: Best product for Social Good 

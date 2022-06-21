@@ -1,0 +1,75 @@
+  
+Curriculum Vitae
+Personal Information
+Full name:
+NGUYEN LE PHUOC THIEN
+Nationality: Vietnamese 
+Place of birth:  Binh Thuan / Viet Nam Date of Birth:  20/04/1993
+Gender: 
+Male 
+Marital status:  Single
+Phone: 
+0973.697.917
+Email:  Nlpthien93@gmail.com
+Languages:  Vietnamese (Native), English (Normal)
+Experience Summary
+I have 4 years programming experience
+After once subjects I must make a project for close
+Strong experiences in C, C#, ASP.NET, Linux
+Skills
+Soft Skills
+Team work
+English: Can communicate to the customer in project context effectively
+Programming Skills
+C/C++, C#
+ASP.NET MVC 5.0
+ASP.NET Web Form
+Window Form Application
+Linux
+CentOS 6, 6.5
+Ubuntu 14.04
+Software
+Platforms: Windows XP, 7, 8, 8.1
+Linux: Vmware Workstation 10.0
+Cisco: Packet Tracert 6.2
+Others: Eclipse, Visual Studio 2012, Visual Studio 2008, MS SQL Server 2008
+Education
+2011 – 2015 Technical and Education of University – HCM, Viet Nam
+Information Technology (Graduated 08/2015) 
+Hobbies & Interests
+Reading books.
+Playing football
+Project References
+No
+.
+Project Name
+Technical
+Description
+1
+Manager 
+Service on 
+Linux
+Position: 
+Developer.
+Team size: 2.
+CentOS 6.5
+An  application  support  user  to
+manage service (DNS, DHCP, NFS,
+FTP, Sampa…) in network system.
+2
+Protecting 
+Network 
+System for 
+small and 
+medium 
+Enterprises by 
+using open-
+source
+Position: 
+Developer.
+Team size: 2.
+CentOS 6.5
+An application support user to 
+manage service (VPN, DNS, DHCP,
+NFS, FTP, Sampa…) and Firewall 
+allow/deny user in network system.

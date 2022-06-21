@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="32" family="Arial,Bold" color="#1caf8f"/>
+	<fontspec id="1" size="32" family="Arial,Bold" color="#000000"/>
+	<fontspec id="2" size="32" family="Arial,Bold" color="#ffffff"/>
+	<fontspec id="3" size="21" family="Arial" color="#ffffff"/>
+	<fontspec id="4" size="18" family="Arial" color="#ffffff"/>
+	<fontspec id="5" size="18" family="Arial,Italic" color="#ffffff"/>
+	<fontspec id="6" size="21" family="Arial" color="#1caf8f"/>
+	<fontspec id="7" size="19" family="Arial,Bold" color="#ffffff"/>
+	<fontspec id="8" size="19" family="Arial" color="#000000"/>
+	<fontspec id="9" size="19" family="ABCDEE+Wingdings" color="#0daa85"/>
+	<fontspec id="10" size="19" family="Arial" color="#0daa85"/>
+	<fontspec id="11" size="19" family="Arial,Italic" color="#0daa85"/>
+	<fontspec id="12" size="19" family="Arial" color="#202020"/>
+	<fontspec id="13" size="19" family="Arial,Bold" color="#000000"/>
+<text top="115" left="108" width="223" height="30" font="0"><b>CURRICULUM</b></text>
+<text top="115" left="331" width="9" height="30" font="1"><b> </b></text>
+<text top="115" left="341" width="97" height="30" font="0"><b>VITAE</b></text>
+<text top="115" left="438" width="9" height="30" font="1"><b> </b></text>
+<text top="153" left="108" width="268" height="30" font="2"><b>Nguyen Minh Tri </b></text>
+<text top="188" left="108" width="179" height="19" font="3">Software Engineer </text>
+<text top="212" left="654" width="136" height="17" font="4">+841265361454 </text>
+<text top="232" left="620" width="170" height="17" font="5"><i>ngmtri@outlook.com </i></text>
+<text top="254" left="108" width="6" height="19" font="6"> </text>
+<text top="278" left="108" width="6" height="19" font="6"> </text>
+<text top="302" left="108" width="146" height="18" font="7"><b>Personal Detail </b></text>
+<text top="328" left="162" width="5" height="18" font="8"> </text>
+<text top="350" left="135" width="17" height="21" font="9"></text>
+<text top="354" left="152" width="5" height="18" font="10"> </text>
+<text top="354" left="162" width="141" height="18" font="8">Gender:             </text>
+<text top="354" left="324" width="48" height="18" font="8">Male </text>
+<text top="376" left="135" width="17" height="21" font="9"></text>
+<text top="379" left="152" width="5" height="18" font="10"> </text>
+<text top="379" left="162" width="117" height="18" font="8">Date of birth: </text>
+<text top="379" left="324" width="117" height="18" font="8">Oct 21, 1993 </text>
+<text top="402" left="135" width="17" height="21" font="9"></text>
+<text top="405" left="152" width="5" height="18" font="10"> </text>
+<text top="405" left="162" width="127" height="18" font="8">Marital status: </text>
+<text top="405" left="324" width="60" height="18" font="8">Single </text>
+<text top="427" left="135" width="17" height="21" font="9"></text>
+<text top="431" left="152" width="5" height="18" font="10"> </text>
+<text top="431" left="162" width="82" height="18" font="8">Address: </text>
+<text top="431" left="270" width="5" height="18" font="8"> </text>
+<text top="431" left="324" width="413" height="18" font="8">117/80/2A Nguyen Huu Canh Street, Ward 22,  </text>
+<text top="457" left="324" width="327" height="18" font="8">Binh Thanh District, HCMC, Vietnam. </text>
+<text top="479" left="135" width="17" height="21" font="9"></text>
+<text top="483" left="152" width="5" height="18" font="10"> </text>
+<text top="483" left="162" width="59" height="18" font="8">Tel:    </text>
+<text top="483" left="270" width="5" height="18" font="8"> </text>
+<text top="483" left="324" width="147" height="18" font="8">+841265361454 </text>
+<text top="505" left="135" width="17" height="21" font="9"></text>
+<text top="508" left="152" width="5" height="18" font="10"> </text>
+<text top="508" left="162" width="60" height="18" font="8">Email: </text>
+<text top="508" left="270" width="5" height="18" font="8"> </text>
+<text top="508" left="324" width="179" height="18" font="11"><i>ngmtri@outlook.com</i></text>
+<text top="508" left="503" width="5" height="18" font="8"> </text>
+<text top="531" left="135" width="17" height="21" font="9"></text>
+<text top="534" left="152" width="5" height="18" font="10"> </text>
+<text top="534" left="162" width="162" height="18" font="8">Position Applied :  </text>
+<text top="534" left="324" width="166" height="18" font="12">Software Engineer </text>
+<text top="560" left="162" width="5" height="18" font="12"> </text>
+<text top="586" left="108" width="87" height="18" font="7"><b>Objective</b></text>
+<text top="586" left="196" width="5" height="18" font="13"><b> </b></text>
+<text top="611" left="162" width="5" height="18" font="8"> </text>
+<text top="634" left="135" width="17" height="21" font="9"></text>
+<text top="637" left="152" width="5" height="18" font="10"> </text>
+<text top="637" left="162" width="628" height="18" font="8">Seeking position of a Software Engineer, where I can try to learning as </text>
+<text top="663" left="162" width="628" height="18" font="8">much  as  possible  and  applying  the  knowledge  and  skills  I  acquired  in </text>
+<text top="689" left="162" width="253" height="18" font="8">order to accomplish my task. </text>
+<text top="711" left="135" width="17" height="21" font="9"></text>
+<text top="715" left="152" width="5" height="18" font="10"> </text>
+<text top="715" left="162" width="374" height="18" font="8">Become an Expert Developer in the future. </text>
+<text top="740" left="162" width="5" height="18" font="8"> </text>
+<text top="766" left="108" width="94" height="18" font="7"><b>Education</b></text>
+<text top="766" left="202" width="5" height="18" font="13"><b> </b></text>
+<text top="792" left="108" width="5" height="18" font="8"> </text>
+<text top="814" left="135" width="17" height="21" font="9"></text>
+<text top="818" left="152" width="5" height="18" font="10"> </text>
+<text top="818" left="162" width="89" height="18" font="8">Sep 2011 </text>
+<text top="814" left="251" width="425" height="22" font="8">– 2015 : University of Sciences, HCMC, Vietnam </text>
+<text top="844" left="162" width="549" height="18" font="8">Bachelor of Sciences in Information Technology with a major in </text>
+<text top="869" left="162" width="197" height="18" font="8">Software Engineering. </text>
+<text top="895" left="162" width="5" height="18" font="8"> </text>
+<text top="921" left="108" width="104" height="18" font="7"><b>Experience</b></text>
+<text top="921" left="212" width="5" height="18" font="13"><b> </b></text>
+<text top="947" left="162" width="5" height="18" font="8"> </text>
+<text top="969" left="135" width="17" height="21" font="9"></text>
+<text top="973" left="152" width="5" height="18" font="10"> </text>
+<text top="973" left="162" width="273" height="18" font="8">Oct 2014 - Jan 2015: At school </text>
+<text top="998" left="162" width="628" height="18" font="8">Pass the final exam  for the Software Project Management subject with </text>
+<text top="1024" left="162" width="628" height="18" font="8">the  GPA of 8.0 (The Project is an android game, clone version of the </text>
+<text top="1050" left="162" width="544" height="18" font="8">Battle  city  1985  game,  developing  with  AndEngine  lib. </text>
+<text top="1046" left="717" width="74" height="22" font="8">–  Java </text>
+<text top="1076" left="162" width="98" height="18" font="8">language). </text>
+<text top="1102" left="162" width="5" height="18" font="8"> </text>
+<text top="1127" left="162" width="5" height="18" font="8"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="14" size="19" family="Arial,Bold" color="#333333"/>
+	<fontspec id="15" size="19" family="Arial" color="#333333"/>
+	<fontspec id="16" size="18" family="Arial" color="#000000"/>
+<text top="112" left="108" width="161" height="18" font="7"><b>Skills and Ability </b></text>
+<text top="138" left="162" width="5" height="18" font="8"> </text>
+<text top="160" left="135" width="17" height="21" font="9"></text>
+<text top="164" left="152" width="5" height="18" font="10"> </text>
+<text top="164" left="162" width="339" height="18" font="8">Java programing:                   6 months </text>
+<text top="186" left="135" width="17" height="21" font="9"></text>
+<text top="190" left="152" width="5" height="18" font="10"> </text>
+<text top="190" left="162" width="340" height="18" font="8">Android development:          12 months </text>
+<text top="212" left="135" width="17" height="21" font="9"></text>
+<text top="215" left="152" width="5" height="18" font="10"> </text>
+<text top="215" left="162" width="342" height="18" font="8">.NET programming:              24 months </text>
+<text top="238" left="135" width="17" height="21" font="9"></text>
+<text top="241" left="152" width="5" height="18" font="10"> </text>
+<text top="241" left="162" width="340" height="18" font="8">C++ programing:                  12 months </text>
+<text top="264" left="135" width="17" height="21" font="9"></text>
+<text top="267" left="152" width="5" height="18" font="10"> </text>
+<text top="267" left="162" width="342" height="18" font="8">SQL Server Database:         24 months </text>
+<text top="289" left="135" width="17" height="21" font="9"></text>
+<text top="293" left="152" width="5" height="18" font="10"> </text>
+<text top="293" left="162" width="337" height="18" font="8">Have good understanding about OOP. </text>
+<text top="315" left="135" width="17" height="21" font="9"></text>
+<text top="319" left="152" width="5" height="18" font="10"> </text>
+<text top="319" left="162" width="369" height="18" font="8">Can work in teams or work independently. </text>
+<text top="341" left="135" width="17" height="21" font="9"></text>
+<text top="344" left="152" width="5" height="18" font="10"> </text>
+<text top="344" left="162" width="602" height="18" font="8">Work with responsible, careful, thoughtful, always try to finish the job. </text>
+<text top="367" left="135" width="17" height="21" font="9"></text>
+<text top="370" left="152" width="5" height="18" font="10"> </text>
+<text top="370" left="162" width="480" height="18" font="8">Communication skills, creative thinking, willing to learn. </text>
+<text top="392" left="135" width="17" height="21" font="9"></text>
+<text top="396" left="152" width="5" height="18" font="10"> </text>
+<text top="396" left="162" width="596" height="18" font="8">Active, knows how to arrange the work, management and save time. </text>
+<text top="422" left="162" width="5" height="18" font="8"> </text>
+<text top="447" left="108" width="209" height="18" font="7"><b>Hobbies and  Interests</b></text>
+<text top="447" left="317" width="5" height="18" font="14"><b> </b></text>
+<text top="473" left="162" width="5" height="18" font="15"> </text>
+<text top="496" left="135" width="17" height="21" font="9"></text>
+<text top="499" left="152" width="5" height="18" font="10"> </text>
+<text top="499" left="162" width="126" height="18" font="8">Reading book.</text>
+<text top="499" left="288" width="5" height="18" font="15"> </text>
+<text top="521" left="135" width="17" height="21" font="9"></text>
+<text top="525" left="152" width="5" height="18" font="10"> </text>
+<text top="525" left="162" width="161" height="18" font="8">Listening to music.</text>
+<text top="525" left="324" width="5" height="18" font="15"> </text>
+<text top="547" left="135" width="17" height="21" font="9"></text>
+<text top="551" left="152" width="5" height="18" font="10"> </text>
+<text top="551" left="162" width="86" height="18" font="8">Traveling.</text>
+<text top="551" left="248" width="5" height="18" font="15"> </text>
+<text top="577" left="108" width="5" height="18" font="8"> </text>
+<text top="602" left="108" width="5" height="18" font="8"> </text>
+<text top="628" left="108" width="682" height="18" font="8">I hereby declare that the  information given by me in this form is correct and </text>
+<text top="654" left="108" width="682" height="18" font="8">true  to  the  best  of  my  knowledge.  I  truly  understand  and  accept  any </text>
+<text top="680" left="108" width="378" height="18" font="8">disciplinary measure if the false declaration.</text>
+<text top="680" left="486" width="5" height="18" font="15"> </text>
+<text top="705" left="108" width="5" height="17" font="16"> </text>
+<text top="744" left="108" width="5" height="17" font="16"> </text>
+<text top="783" left="108" width="5" height="17" font="16"> </text>
+<text top="822" left="108" width="5" height="17" font="16"> </text>
+<text top="860" left="108" width="5" height="17" font="16"> </text>
+<text top="899" left="108" width="5" height="17" font="16"> </text>
+<text top="938" left="108" width="5" height="17" font="16"> </text>
+<text top="977" left="108" width="5" height="17" font="16"> </text>
+</page>
+</pdf2xml>

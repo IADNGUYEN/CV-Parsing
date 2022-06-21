@@ -1,0 +1,154 @@
+CURRICULUM VITAE 
+PERSONAL DETAILS: 
+Full name:   
+TRAN VAN KHOI 
+Gender:   
+ Male      Female 
+Identity card: 
+221 337 444 
+Marital Status: 
+Single 
+Birthday:       
+May 22nd, 1992 
+Birthplace:   
+Hoa Hiep Trung Town, Dong Hoa 
+District, Phu Yen Province 
+Tel: 
+0129 236 6564 
+Email: 
+khoitran.tv@gmail.com    
+Permanent 
+Address: 
+2163B Hong Lac, 10 Ward, Tan Binh District, Ho Chi Minh City. 
+OBJECTIVE:  
+To be a good employee.  
+To have good opportunities to get promotion in my job.  
+To work in a professional environment.  
+Develop my skills with development of corporation, I want to prove myself. 
+EDUCATION 
+Start Year 
+2010 
+End Year 
+2013 
+School 
+The University of science Ho Chi Minh 
+City 
+Majors 
+Software 
+Subjects studied 
+Operating 
+Systems 
+Windows 2000, Windows XP, Windows 7, 8 and Linux 
+Programming 
+languages 
+C, C++, VB.NET, ASP, ASP.NET, C#, PHP, HTML, XML, Linq 
+Databases 
+MS SQL Server 2008, MySQL, Oracle 11g 
+And subjects 
+System Analysis and Design, Software Project Management, Object  
+Oriented Programming, Database Management System, Design and develop 
+website. 
+English 
+Spoken, read and written intermediate. 
+Some projects  
+Game( Socket Programming with C).  
+Website Shopping Online( ASP.Net, PHP, Ruby on Rails , etc.).  
+Estate Management( C#.Net, VB.Net). 
+EXPERIENCE 
+Start Date 
+06/2013 
+End Date 
+10/2014 
+Workplace 
+Innovative consulting ( ICC  VN) 
+Position 
+Developer 
+Projects 
+Website smart 
+Time 
+08/2013   10/2013 
+Description  Create purchase order website for smart mobile – 
+Cambodia.  Synchronization data from website to SAP business 
+one. 
+Languages using 
+ASP.NET, C#, Linq 
+Databases using 
+MS SQL Server 2008 
+Responsibility 
+Modules handled: user interface on website. 
+Result  User can create purchase order on website and Send 
+email to supplier.  Have experience about ASP.Net and configuration send 
+mail exchange server in ASP.Net, etc.  Knowledge about module purchase order. 
+NKID 
+Time 
+10/2013 – 10/2014 
+Description  Point of sales.  Synchronization data from store to server and from 
+server to SAP business one.  Store Management.  System Management. 
+Languages using 
+C#, Linq, Json in .Net 
+Databases using 
+MS SQL Server 2008 
+Responsibility  Modules handled: Sales, Top-up, Center Management  Support modules: System Management and. 
+Synchronization data, etc. 
+Result  Have experience about C#.Net and SAP B1 SDK.  Knowledge about module Sales and Inventory.  Working with specific plans and process.  Are committed to deadlines. 
+QSR 
+Time 
+09/2014  10/2014 
+Description  Create Multiple BOM and Stock Management.  Synchronization data from store to SAP business one. 
+Languages using 
+WPF, C#, Linq, SAP B1 SDK 
+Databases using 
+MS SQL Server 2008 
+Responsibility  Modules handled: Stock Request Management, Stock 
+Count Management and Insert data from store to SAP 
+B1. 
+Result  Have experience about WPF, C#.Net, SAP B1 SDK.  Working with specific plans and process.  Are committed to deadlines. 
+Abbott 
+Time 
+01/2014 – 03/2014 
+Description  Deployment ERP – Acumatica for Abbott system. 
+Languages using 
+C#, Acumatica 
+Databases using 
+MS SQL Server 2008 
+Responsibility  Modules handled: Customize System Interface and 
+Create Add-On for system by C# and Create Reports by 
+Report Designer of Acumatica 
+Result  Have experience about C#.Net, Acumatica SDK  Working with specific plans and process.  Are committed to deadlines. 
+Start Date 
+10/2014 
+End Date 
+Now 
+Workplace 
+NKID Group 
+Position 
+.Net Team Leader 
+Projects 
+NKID POS 
+Time 
+10/2014 
+Description  Maintenance and develop POS System  Work direct with end-users  Go on business and training and support POS for end-
+users 
+Languages using 
+C#, Dev Express 
+Databases using 
+MS SQL Server 2008 
+Responsibility  Manage Team with 3 members  Training, building strong team to work as well.  Receive requests from users or PM or Director, analyze 
+and divide to member  Manage daily task with Confluence. Receive Report 
+from team member each day and report to PM each 
+week  Build WCF API for third system  Build Master Data Management System 
+Result  Advanced management capabilities, improve teamwork 
+spirit  Having teamwork skill and support staff to deal with 
+issues  Knowledge about WCF. 
+SKILLS  
+.NET programming  expert  3 years. 
+o My best skills is C#. I have a lot working experience with Crystal and MS SQL 2008.  
+System Analysis and Design.  
+Knowledge C, C++, ASP.Net, PHP, WCF, etc. And Object  Oriented Programming.  
+Knowledge about Oracle 11g.  
+Having the ability to manage and query the MS SQL database.  
+Good problem solving, collaboration, and communication skills  
+Having teamwork skill and support staff to deal with issues  
+Controlling project's deadline. 
+INTERESTS 
+Play Volleyball, Football, Listen Music And Travel, ...etc. 

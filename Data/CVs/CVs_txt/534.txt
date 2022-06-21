@@ -1,0 +1,65 @@
+CURRICULUM VITAE 
+PERSONAL INFORMATION  Full Name                : CAO KY HAN Date of birth   : December  22nd ,1989 Place of birth : Quang Ngai city. Marital status : Single Health condition        : Very good for working and study. Contact Address         : Ho Chi Minh City Gender                  : Male Hobbies                  : researching new technology, reading books. Mail Address    : caokyhan@gmail.com Mobile         : 0932-587-238 
+SUMMARY 
+I have a strong background in math, algorithms, machine learning and computer vision. 
+Furthermore, my research interests include developing ios app, mobile game, machine 
+learning ,computer vision and processing image. I have much experience in 
+Software/Firmware development. It will be great for me to join in your company. I will 
+try my best to work and contribute as much value as I can. 
+EDUCATION  From  2007 to 2012  
+:  Electronic and Telecommunication Student of  Da Nang 
+University of Technology From 2013-2015  : Master ‘s Degree  Control & Automation  Ho Chi Minh University 
+of Technology 
+ACHIEVEMENT Got  first prize in Mathematics of Quang Ngai Province.  Got  encourage prize in Mathematics of Viet Nam National.  Got a Coursera	Identity	Verification	about	Machine	Learning:  
+https://www.coursera.org/account/accomplishments/records/UXHKB58QYC6E  Got a Coursera Identity Verification about Neural Networks and Deep Learning 
+https://www.coursera.org/account/accomplishments/verify/CUSW7JNKSV6E  Got a Grooking Certificate about Big data Enginner. 
+KEY SKILLS 
+Soft skill:  Effect communication and presentation skill Able to work my own initiative as well as team-work. Ability to work hard and attentively. Experienced problem solving skill 
+Technical skill   Have experienced in working with Hadoop, Spark, pandas.   Have experienced in OpenCV, tensorflow, gensims, scikit-learn   Have experienced use PCA to reduce features of data.   Have experienced use Hadoop and Kafka to build a log collector system.   Know deeply about backpropagation and Gradient Desent   Know deeply about trade off between variance and bias.   Strong experienced with Linear regresstion, Logitics regression , Neural Network.  Know deeply about machine learning such as SVM, K-mean, K nearest neighbor , Bayes, 
+Anomaly Detection, Random Forest.  Understand about deep learning such as CNN, RNN.  Strong experienced with optimazation params and design a machine learning system  Strong experienced with design patterns such as Singleton, MVC, Delegate, Observer, 
+Prototype and etc.  Programming language: C/C++, Python, matlab, Objective C..  Programming softwave :Xcode, InteliJ IDEA ,Visual Studio, Eclipse, Matlab .  Source Control : SVN, Git. 
+Foreign Language skill Intermediate English listening,reading , speaking & writing skills 
+Personalities Intelligent,creatives and sensitive Sense of responsibility Self-motivation Carefullness 
+WORK EXPERIENCE  Experience from some projects such as: 
+Ø  Okiela Recommendation: ( Okiela Company) 
+Project Description:  Build a recommendation system for a e-
+commerce system.  
+Link IOS app: itms-apps://itunes.apple.com/app/id1025624677 
+Technology was used: Python, PySpark, Hadoop, gensim. 
+Agorithim :  Latent Factor Model + Content base. 
+Using Software: PyCharm 
+Ø  Tracking face project: 
+Project Description: This is a project that involes computer vision, 
+recognize pattern and machine learning. It was written on Mac and  Ios 
+platforms. 
+Technology was used: C++ , Matlab code, Objective C, opencv 3.0 
+Using Software: Xcode, Matlab 
+Ø  Identification digits:  
+Project Description:   
+Research about methods improve argothims such as: adaboost , neural 
+network , haar-like feature ,…to indentification digits on clepsydra.  
+Working as a researcher at IES company. 
+Technology was used: Matlab, openCv, C++ 
+Using Software: Visual Studio, Matlab. 
+Ø  Some mobile games : (Boredninjas) 
+Project Description:   There are many mini games for mobile such as 
+Snakes and ladders,Triangle, Fire Fly, Lil Wolf and etc. Besides, I develop 
+some libs for my team use to develop easily such as Leaderboard for ios 
+and android , lib support for online games and etc. 
+Technology was used: C++ , cocos2dx,Netpeer, AppWarp,Parse 
+framework,Easy NDK, objective C and android 
+Using Software: Xcode, Android studio. 
+Ø Driver Project :  
+Project DescriptionWrite drivers for smart projector (running android) and 
+modify android kernel.  
+This is project of Philip. 
+Technology was used: C language 
+Using Software :Eclipse in Linux. 
+Ø VIC0009 Project :  
+Project Description 
+Write an application for SL6087 and ADXL 345  accelerometer to read the 
+NMEA message which used for indicating location  
+This is project of Sierra Wireless 
+Technology was used: C language 
+Using Software :Developer Studio 2.3.0 1 year and 3 months: C/C++ developer  of Saviwave (from 6/2012->9/2013).  1years : computer vision researcher at IES (from 10/2013->10/2014)  2 years and 5 months : IOS developer as a freelancer (from 10/2013-> Present)  1 year : IOS developer , game developer and reseacher of Boredninjas ( from 1/2015 
+>12/2015)  17 months : Machine learning at Okiela (from 3/2016 >8/2017) 

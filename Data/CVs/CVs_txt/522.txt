@@ -1,0 +1,273 @@
+ 
+RÉSUMÉ 
+Name:   
+Huy Le (Mr.) 
+EXPERIENCE & SKILL SUMMARY 
+7+ years of experience in Software Development Industry.  
+1+ years of experience in Agile Project Management. 
+4 years of experience in Android/Java and iOS/Objective-C 
+2 years of experience in C#.NET. 
+Resource planning 
+Requirement gathering 
+Scheduling 
+Confident decision marker 
+Proficient communicator 
+Knowledge of design and development 
+Solid understanding object-oriented Analysis & Design. 
+Good at analytical, problem solving. 
+PROJECT MANAGEMENT SKILLS 
+Oversee multiple projects across all phases of development. 
+Coordinated with customer to gather requirements and manage expectation. 
+Customer question and escalated appropriately 
+Managed resource and capacity planning for projects 
+Collaborate with development to plan project sprints 
+Develop status report, cost estimates, and resource plan 
+Implement and maintain development best practices 
+Trained team member on development process. 
+Set and adjusted project milestones 
+RELEVANT PROJECTS 
+PROJECTS 
+TECHNOLOGIES 
+SNAC 
+SNAC™ utilises 3G, 4G or WIFI network from the 
+recipients' smartphone to receive Push Notification sent 
+from our secured web-based admin console. 
+Agile 
+project 
+management 
+methodologies 
+OpenProject Tool 
+Android/Java. 
+iOS/Objective-C 
+PHP. 
+SNAC™ supports complex multi-roles and access. As 
+such, parents/staff can access and read notification sent 
+to their child/children from different schools on both 
+parents' accounts through our SNAC™ smartphone 
+application. 
+Position: Project Manager 
+Duties: 
+Discuss 
+with 
+Customer 
+about 
+project 
+requirement, solution; 
+Monitor workflow and make timeline adjustments 
+as needed 
+Managed 
+resource 
+and 
+capacity 
+planning 
+project;  
+Make vital decisions and drive decision-making 
+across project 
+Answered client calls regarding usability issues 
+and software errors 
+MySQL 5.6.1. 
+Amazon Web Services. 
+SNAC Scanner  
+Supporting institutions on their daily attendance taking 
+and ability to handle high volume scanning and SYNC 
+attendance data to MOE SC. This application supports 
+attendance-taking using Students’ EZlink/NRIC card 
+(barcode) as well a manual entry field. 
+Position: Project Manager 
+Duties: 
+Discuss 
+with 
+Customer 
+about 
+project 
+requirement, solution; 
+Monitor workflow and make timeline adjustments 
+as needed 
+Managed 
+resource 
+and 
+capacity 
+planning 
+project;  
+Make vital decisions and drive decision-making 
+across project 
+Answered client calls regarding usability issues 
+and software errors 
+Agile 
+project 
+management 
+methodologies 
+OpenProject Tool 
+Andoid/Java. 
+iOS/Objective-C 
+Android Survey App 
+MOE (W2) Centre of Excellence in ICT; Fuhua Primary 
+School effectively uses ICT to ensure their customers' 
+feedback are heard through the use of smartphone 
+application. 
+Position: Team Leader 
+Duties: 
+Discuss 
+with 
+customer 
+about 
+project 
+requirement, solution 
+Implement functionality  
+Android/Java. 
+DeeOhhGee 
+DeeOhhGee is a new concept of Pet Shop run in a Bistro 
+Style for both pets and pets owner. 
+DeeOhhGee CMS eCommerce driven website provides 
+it's administrator the flexiblity to edit and post latest 
+products offering anytime anywhere; on both website and 
+smartphone application. 
+Position: Team Leader. 
+Duties: 
+Discuss 
+with 
+Customer 
+about 
+project 
+requirement, solution; 
+Deliver tasks to developer; 
+Review code;  
+Implement functionality; 
+Android/Java. 
+iOS/Objective-C 
+PHP. 
+MySql 
+Paypal API. 
+GroundTruth 
+Ground Truth is a field force management tool for 
+defining and monitoring call cycle activity  targets for 
+sales teams, submission of activity sheets via mobile 
+devices, store visit  scheduling, store activity history and 
+reporting. Ground Truth version 2 is intended to extend 
+substantially in functionality and to flexibly cater  for a 
+broad spectrum of sales teams. 
+Position: Team Leader. 
+Duties: 
+Discuss 
+with 
+Customer 
+about 
+project 
+requirement, solution; 
+Deliver tasks to developer; 
+Review code;  
+Implement functionality; 
+Android/Java. 
+ASP.NET/C#. 
+Sql Server 2008. 
+FCS m-HouseKeeping 
+The application is used by housekeepers (a.k.a. room 
+attendants) in hotels to clean rooms. 
+Business Logic  Room is assigned daily by a backend system at 6:30 
+am, the backend system has been configured to utilize 
+Pacific Standard Time. Please ensure that the device is 
+also on Pacific Time, otherwise after the assignment is 
+done at 6:30 am, there will be no rooms seen.  Room Attendants login, see the assigned rooms and 
+select a room for cleaning.  Once the room is selected, the Room Attendant can 
+start the cleaning by tapping on the start cleaning button 
+(denoted by the Play symbol). 
+Android/Java. 
+ASP.NET/C#.  The room statuses are refreshed periodically, and the 
+Sync button from the right slide out menu is to update the 
+rooms on demand.  They also have the ability to send messages to their 
+supervisors should the need arise.  There is a panic button functionality, which integrates 
+with the backend to send notifications to users of the 
+system to indicate an emergency, this is done via web 
+service calls, and by sending SMS's or triggering calls 
+from the phone depending on the configuration. 
+Position: Developer. 
+Duties:  
+Implement functionality; 
+FlapTo 
+Exchange profiles information between near people 
+through GPS to determine our location and send profile 
+to server. Server will distribute profile to receiver. 
+Position: Team Leader. 
+Duties: 
+Deliver tasks to developer; 
+Review code;  
+Implement functionality; 
+Android/Java. 
+HiglightRecorder 
+Highlight Recorder (free version)’ is an app that records 
+the loudest fragments of your conversations and makes 
+rankings out of them. Highlight Recordings made in 
+accordance to voice loudness let you discover things and 
+situational jokes that you haven’t been aware of before! 
+You can save up to three rankings. 
+Position: Developer 
+Duties: 
+maintenance, fix bug and add admob 
+Android/Java 
+Sickfeign 
+Sickfeign is an app which lets you easily feign a fake cold 
+and help you justify yourself by producing a coughing 
+sound with just one button. 
+It provides you the appropriate support to fake your 
+illness when calling in sick. 
+Position: Developer 
+Duties: 
+maintenance, fix bug and add admob 
+Android/Java 
+KLib.Net 
+Convert from application which had been written by 
+database access to .NET (using language C#) and using 
+database access and SQL Server 2008.Management 
+citizen of government of Switzerland… 
+Position: Developer. 
+Duties:  
+Implement functionality. 
+C#.NET. 
+Microsoft Access. 
+MS SQL Server 2008 
+eWalletUtils 
+Vivotech is producing payment terminal that needs to 
+support the Google eWallet. To support this wallet 
+Vivotech needs two utilities:  
+The first one is to enter in a database 
+information coming from Google,  
+The second one is to insert these information 
+inside the payment terminal at customization 
+stage of production before it is released to the 
+field. 
+Position: Developer. 
+Duties: 
+Implement functionality. 
+C#.NET. 
+MySQL. 
+Diamond Twister,Asphalt 4,Platinum Sudoku 
+2,Roland Garros 2009,..... 
+Porting game from master phone to target phone. That 
+mean we have a game to run on master phone. To 
+porting to target phone , I have to install that game on 
+target phone to test game if occurring bug, I have to fix 
+them (bug on phone, bug rule of gameloft,...).Some 
+project, I have to create some feature to match client' s 
+requirements. 
+I'va used J2ME to porting game over a year. And porting 
+Android/Java. 
+C/C++. 
+game on OS Android about five months .Using jni that 
+written on C++ platform. And using Visual Studio to 
+debug. 
+Position: Developer. 
+Duties: 
+Implement functionality. 
+EDUCATION & AWARD 
+2004 – 2008  
+Bachelor Degree in Software Technology 
+University of Technical Education Ho Chi Minh city 
+2005  2008 
+Bachelor Degree in Software Technology 
+NIIT College 
+OTHER CONCERNS 
+Hobbies and interest 
+Football 
+Film 
+Book 
+Travel 

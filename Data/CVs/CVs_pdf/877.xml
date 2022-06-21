@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="18" family="HelveticaNeue" color="#747474"/>
+	<fontspec id="1" size="20" family="FontAwesome" color="#979c9c"/>
+	<fontspec id="2" size="20" family="FontAwesome" color="#747474"/>
+	<fontspec id="3" size="42" family="HelveticaNeue" color="#ffffff"/>
+	<fontspec id="4" size="18" family="HelveticaNeue" color="#ffffff"/>
+	<fontspec id="5" size="27" family="HelveticaNeue" color="#000000"/>
+	<fontspec id="6" size="27" family="HelveticaNeue" color="#ffffff"/>
+<text top="400" left="214" width="5" height="21" font="0">:</text>
+<text top="401" left="124" width="89" height="21" font="0">Ngày sinh</text>
+<text top="401" left="123" width="89" height="21" font="0">Ngày sinh</text>
+<text top="400" left="339" width="92" height="21" font="0">26/10/1997</text>
+<text top="426" left="214" width="5" height="21" font="0">:</text>
+<text top="427" left="125" width="88" height="21" font="0">Quốc tịch</text>
+<text top="427" left="124" width="88" height="21" font="0">Quốc tịch</text>
+<text top="426" left="358" width="74" height="21" font="0">Việt Nam</text>
+<text top="452" left="214" width="5" height="21" font="0">:</text>
+<text top="453" left="114" width="99" height="21" font="0">Chức danh</text>
+<text top="453" left="113" width="99" height="21" font="0">Chức danh</text>
+<text top="452" left="353" width="77" height="21" font="0">Sinh Viên</text>
+<text top="478" left="214" width="5" height="21" font="0">:</text>
+<text top="479" left="140" width="73" height="21" font="0">Cấp bậc</text>
+<text top="479" left="139" width="73" height="21" font="0">Cấp bậc</text>
+<text top="478" left="305" width="126" height="21" font="0">Mới Tốt Nghiệp</text>
+<text top="504" left="214" width="5" height="21" font="0">:</text>
+<text top="505" left="100" width="113" height="21" font="0">Kinh nghiệm</text>
+<text top="505" left="100" width="113" height="21" font="0">Kinh nghiệm</text>
+<text top="504" left="313" width="119" height="21" font="0">Mới tốt nghiệp</text>
+<text top="530" left="214" width="5" height="21" font="0">:</text>
+<text top="531" left="134" width="79" height="21" font="0">Giới tính</text>
+<text top="531" left="133" width="79" height="21" font="0">Giới tính</text>
+<text top="530" left="394" width="38" height="21" font="0">Nam</text>
+<text top="555" left="214" width="5" height="21" font="0">:</text>
+<text top="557" left="127" width="85" height="21" font="0">Hôn nhân</text>
+<text top="557" left="127" width="85" height="21" font="0">Hôn nhân</text>
+<text top="555" left="359" width="72" height="21" font="0">Độc thân</text>
+<text top="654" left="16" width="348" height="21" font="0">Học tập để trở thành Blockchain Developer</text>
+<text top="752" left="226" width="66" height="21" font="0">English</text>
+<text top="752" left="226" width="66" height="21" font="0">English</text>
+<text top="752" left="348" width="80" height="22" font="0">Trung cấp</text>
+<text top="839" left="117" width="312" height="21" font="0">Phát triển Smart Contract bằng Solidity</text>
+<text top="875" left="315" width="19" height="20" font="1"></text>
+<text top="875" left="334" width="5" height="21" font="0"> </text>
+<text top="875" left="339" width="19" height="20" font="1"></text>
+<text top="875" left="358" width="5" height="21" font="0"> </text>
+<text top="875" left="362" width="19" height="20" font="2"></text>
+<text top="875" left="381" width="5" height="21" font="0"> </text>
+<text top="875" left="386" width="19" height="20" font="2"></text>
+<text top="875" left="405" width="5" height="21" font="0"> </text>
+<text top="875" left="410" width="19" height="20" font="2"></text>
+<text top="900" left="165" width="263" height="21" font="0">Kiến thức nền tảng về Javascript</text>
+<text top="936" left="315" width="19" height="20" font="1"></text>
+<text top="936" left="334" width="5" height="21" font="0"> </text>
+<text top="936" left="339" width="19" height="20" font="1"></text>
+<text top="936" left="358" width="5" height="21" font="0"> </text>
+<text top="936" left="362" width="19" height="20" font="1"></text>
+<text top="936" left="381" width="5" height="21" font="0"> </text>
+<text top="936" left="386" width="19" height="20" font="2"></text>
+<text top="936" left="405" width="5" height="21" font="0"> </text>
+<text top="936" left="410" width="19" height="20" font="2"></text>
+<text top="960" left="87" width="342" height="21" font="0">Kiến thức nền tảng về Java và Spring Boot</text>
+<text top="985" left="341" width="88" height="21" font="0">Framework</text>
+<text top="1021" left="315" width="19" height="20" font="1"></text>
+<text top="1021" left="334" width="5" height="21" font="0"> </text>
+<text top="1021" left="339" width="19" height="20" font="1"></text>
+<text top="1021" left="358" width="5" height="21" font="0"> </text>
+<text top="1021" left="362" width="19" height="20" font="2"></text>
+<text top="1021" left="381" width="5" height="21" font="0"> </text>
+<text top="1021" left="386" width="19" height="20" font="2"></text>
+<text top="1021" left="405" width="5" height="21" font="0"> </text>
+<text top="1021" left="410" width="19" height="20" font="2"></text>
+<text top="79" left="484" width="344" height="50" font="3">Đắc Sang Nguyễn</text>
+<text top="125" left="484" width="101" height="50" font="3">Danh</text>
+<text top="209" left="462" width="75" height="21" font="4">Địa chỉ: </text>
+<text top="209" left="462" width="210" height="21" font="4">Địa chỉ: 35/75/41 Cao Lỗ</text>
+<text top="245" left="462" width="35" height="21" font="4">ĐT: </text>
+<text top="245" left="462" width="148" height="21" font="4">ĐT: 01293248526</text>
+<text top="281" left="462" width="60" height="21" font="4">Email: </text>
+<text top="281" left="462" width="236" height="21" font="4">Email: ndacsang@gmail.com</text>
+<text top="411" left="462" width="93" height="21" font="4">CÔNG TY </text>
+<text top="411" left="462" width="99" height="21" font="4">CÔNG TY ::</text>
+<text top="436" left="485" width="390" height="21" font="4">Robert  Bosch  Engineering  and  Business</text>
+<text top="461" left="485" width="138" height="21" font="4">Solution Vietnam</text>
+<text top="497" left="462" width="105" height="21" font="4">THỜI GIAN </text>
+<text top="497" left="462" width="111" height="21" font="4">THỜI GIAN ::</text>
+<text top="522" left="485" width="148" height="21" font="4">01/2018 - 07/2018</text>
+<text top="558" left="462" width="96" height="21" font="4">CHỨC VỤ </text>
+<text top="558" left="462" width="102" height="21" font="4">CHỨC VỤ ::</text>
+<text top="582" left="485" width="72" height="21" font="4">Thực tập</text>
+<text top="618" left="462" width="67" height="21" font="4">MÔ TẢ </text>
+<text top="618" left="462" width="73" height="21" font="4">MÔ TẢ ::</text>
+<text top="643" left="485" width="388" height="21" font="4">Dự  án:  Management  Tools,  xây  dựng  theo  mô</text>
+<text top="668" left="485" width="390" height="21" font="4">hình  microservices,  sử  dụng  Spring  Boot</text>
+<text top="693" left="485" width="391" height="21" font="4">Framework làm server và Angular Framework làm</text>
+<text top="717" left="485" width="48" height="21" font="4">Client</text>
+<text top="793" left="462" width="96" height="21" font="4">TRƯỜNG :</text>
+<text top="793" left="462" width="96" height="21" font="4">TRƯỜNG :</text>
+<text top="818" left="485" width="62" height="21" font="4">ĐH FPT</text>
+<text top="854" left="462" width="111" height="21" font="4">THỜI GIAN :</text>
+<text top="854" left="462" width="111" height="21" font="4">THỜI GIAN :</text>
+<text top="878" left="485" width="140" height="21" font="4">10/2015 - hiện tại</text>
+<text top="914" left="462" width="114" height="21" font="4">BẰNG CẤP :</text>
+<text top="914" left="462" width="114" height="21" font="4">BẰNG CẤP :</text>
+<text top="939" left="485" width="41" height="21" font="4">Khác</text>
+<text top="975" left="462" width="81" height="21" font="4">NGÀNH :</text>
+<text top="975" left="462" width="81" height="21" font="4">NGÀNH :</text>
+<text top="1000" left="485" width="173" height="21" font="4">Software Engineering</text>
+<text top="362" left="156" width="272" height="31" font="5">THÔNG TIN CÁ NHÂN</text>
+<text top="605" left="107" width="321" height="31" font="5">MỤC TIÊU NGHỀ NGHIỆP</text>
+<text top="715" left="280" width="149" height="31" font="5">NGÔN NGỮ</text>
+<text top="801" left="308" width="120" height="31" font="5">KỸ NĂNG</text>
+<text top="362" left="468" width="311" height="31" font="6">KINH NGHIỆM LÀM VIỆC</text>
+<text top="755" left="468" width="122" height="31" font="6">HỌC VẤN</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+</page>
+<outline>
+<item page="1">Đắc Sang Nguyễn Danh</item>
+<item page="1">THÔNG TIN CÁ NHÂN</item>
+<item page="1">KINH NGHIỆM LÀM VIỆC</item>
+<outline>
+<item page="1">Ngày sinh</item>
+<item page="1">Quốc tịch</item>
+<item page="1">Chức danh</item>
+<item page="1">Cấp bậc</item>
+<item page="1">Kinh nghiệm</item>
+<item page="1">Giới tính</item>
+<item page="1">Hôn nhân</item>
+</outline>
+<item page="1">MỤC TIÊU NGHỀ NGHIỆP</item>
+<item page="1">NGÔN NGỮ</item>
+<item page="1">HỌC VẤN</item>
+<item page="1">KỸ NĂNG</item>
+</outline>
+</pdf2xml>

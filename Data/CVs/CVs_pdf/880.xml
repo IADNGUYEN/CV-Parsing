@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="30" family="MPCZQF+TimesNewRomanPS" color="#2a388f"/>
+	<fontspec id="1" size="30" family="MPCZQF+TimesNewRomanPS" color="#ffffff"/>
+	<fontspec id="2" size="19" family="FCQJWT+Arial" color="#221f20"/>
+	<fontspec id="3" size="19" family="UJBVYP+ArialMT" color="#221f20"/>
+	<fontspec id="4" size="19" family="UJBVYP+ArialMT" color="#2e3d97"/>
+	<fontspec id="5" size="19" family="UJBVYP+ArialMT" color="#2d3f95"/>
+	<fontspec id="6" size="19" family="ASDFED+ArialMT" color="#221f20"/>
+	<fontspec id="7" size="25" family="ASDFED+ArialMT" color="#221f20"/>
+	<fontspec id="8" size="25" family="UJBVYP+ArialMT" color="#221f20"/>
+<text top="413" left="115" width="238" height="41" font="0"><b>Nguyễn Xuân Huy</b></text>
+<text top="505" left="87" width="276" height="41" font="1"><b>Personal Information</b></text>
+<text top="134" left="624" width="70" height="41" font="1"><b>Skills</b></text>
+<text top="571" left="572" width="197" height="41" font="1"><b>School Projects</b></text>
+<text top="894" left="156" width="132" height="41" font="1"><b>Education</b></text>
+<text top="569" left="35" width="121" height="28" font="2"><b>Date of birth:</b></text>
+<text top="569" left="156" width="103" height="27" font="3"> 04/07/1996</text>
+<text top="608" left="35" width="53" height="28" font="2"><b>Emai:</b></text>
+<text top="608" left="88" width="5" height="27" font="3"> </text>
+<text top="608" left="94" width="188" height="27" font="4">huylop99@gmail.com</text>
+<text top="647" left="35" width="85" height="28" font="2"><b>Address:</b></text>
+<text top="647" left="120" width="257" height="27" font="3"> 7 Street 6, Phuoc Binh Ward,</text>
+<text top="677" left="35" width="145" height="27" font="3">District 9, HCMC</text>
+<text top="716" left="35" width="68" height="28" font="2"><b>Mobile:</b></text>
+<text top="716" left="103" width="125" height="27" font="3"> 0932 455 646</text>
+<text top="755" left="35" width="83" height="28" font="2"><b>Facebook:</b></text>
+<text top="755" left="118" width="5" height="27" font="3"> </text>
+<text top="755" left="122" width="300" height="27" font="5">www.facebook.com/xuanhuy.nguyen.397</text>
+<text top="794" left="35" width="88" height="28" font="2"><b>Favorite: </b></text>
+<text top="794" left="123" width="247" height="27" font="3">Learn new things, study new</text>
+<text top="824" left="35" width="389" height="27" font="3">technology, learn new programming languages,</text>
+<text top="854" left="35" width="387" height="27" font="3">listen music, make friends with many people.</text>
+<text top="959" left="36" width="141" height="27" font="3">2014 – present: </text>
+<text top="959" left="177" width="231" height="28" font="2"><b>University of Information</b></text>
+<text top="989" left="36" width="113" height="28" font="2"><b>Technology </b></text>
+<text top="989" left="149" width="282" height="27" font="3">- Bachelor of Computer Science,</text>
+<text top="1019" left="36" width="251" height="27" font="3">Graduating September 2018.</text>
+<text top="197" left="489" width="295" height="27" font="6">•    C/C++, Python, Matlab, Maple.</text>
+<text top="227" left="489" width="382" height="27" font="6">•    Basic knowledge about Web (HTML, CSS),</text>
+<text top="257" left="489" width="113" height="27" font="3">      C#, SQL.</text>
+<text top="287" left="489" width="349" height="27" font="6">•    Experience about Django framework,</text>
+<text top="317" left="489" width="227" height="27" font="6">      Tensorflow framework.</text>
+<text top="347" left="489" width="312" height="27" font="6">•    Knowledge about Data structure,</text>
+<text top="377" left="489" width="290" height="27" font="6">      Object oriented programming,</text>
+<text top="407" left="489" width="303" height="27" font="3">      Artificial intelligence algorithms,</text>
+<text top="437" left="489" width="319" height="27" font="3">      Machine learning, Deep learning,</text>
+<text top="467" left="489" width="179" height="27" font="3">      Computer vision.</text>
+<text top="497" left="489" width="284" height="27" font="6">•    Experience about Photoshop,</text>
+<text top="527" left="489" width="235" height="27" font="3">      Adobe Illustrator, Corel.</text>
+<text top="639" left="471" width="398" height="35" font="7">•    Handwriting recognition application</text>
+<text top="692" left="471" width="400" height="35" font="7">•    Document classifiation application</text>
+<text top="744" left="471" width="400" height="35" font="7">•    Text &amp; image compressing application</text>
+<text top="797" left="471" width="339" height="35" font="7">•    Document retrieval system</text>
+<text top="849" left="471" width="390" height="35" font="7">•    Pedestrian attribute recognition</text>
+<text top="902" left="471" width="341" height="35" font="7">•    Image Stitching and Image</text>
+<text top="942" left="471" width="193" height="35" font="8">     Segmentation</text>
+<text top="995" left="471" width="393" height="35" font="7">•    Document classification system</text>
+<text top="1047" left="471" width="180" height="35" font="7">•    Smart Home</text>
+</page>
+</pdf2xml>

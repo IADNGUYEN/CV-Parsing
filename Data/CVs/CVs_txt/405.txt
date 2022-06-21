@@ -1,0 +1,130 @@
+CURRICULUM VITAE 
+PERSONAL INFORMATION   
+Full name 
+: VO THI HUYNH VAN 
+Gender 
+: Female 
+Date of Birth 
+: 26 April 1991 
+Place of Birth 
+: TX Go Cong, Go Cong Dong, Tien Giang 
+Native Province :  Vietnam 
+Marital Status 
+:  Single 
+Health 
+:  Good 
+Interests 
+:  Music, movie, animals, yoga 
+Phone 
+:  0989364062 
+Character 
+:  Friendly, careful, diligent, responsible  
+Current Address    :  222/10/21 Bui Dinh Tuy, Binh Thanh, HCM 
+Email  
+:  huynhvanvo91@gmail.com 
+OBJECTIVE: 
+Developing my skills in a professional, active working environment and having 
+opportunities to challenge myself. 
+Working effectively to achieve practical benefits for company. 
+Deriving a fair income for future plans. 
+Becoming a QC Leader in coming 3 years. 
+EDUCATION AND TRAINING 
+Year 
+Degree 
+Rank 
+University 
+09/2014 
+Bachelor of Computer Science 
+Average 
+good 
+Ho Chi Minh City Open 
+University 
+WORKING EXPERIENCES 
+Month 
+Company 
+Position 
+10/2014 – 02/216 
+DigiLever Co.,Ltd 
+Tester 
+FOREIGN LANGUAGES (ENGLISH) 
+Skills 
+Level 
+Reading 
+Good 
+Writing 
+Moderate 
+Speaking 
+Moderate 
+Listening 
+Moderate 
+SKILLS 
+Technical skills: 
+o Basic knowledge 
+Software development process 
+Software testing process 
+Software testing’s knowledge 
+Test case design knowledge 
+Website testing skill 
+Mobile app testing skill 
+Object Oriented Programming 
+Web/win form application developing 
+Database analyzing and designing. 
+o Programming languages: 
+C, C++, C#. 
+PHP 
+ASP.NET. 
+JAVA 
+o Database: 
+MS Access 
+MS SQL Server 
+MySQL 
+Soft skills: 
+Team working ability 
+Working under pressure ability and accomplish assigned task 
+Capable of working and functioning independently 
+Listener, fast learner, hardworking and committed to do a job well 
+Flexible, energetic, patient and able to work within a multi-cultural 
+environment 
+Excellent communication, especially in human relations 
+IMPLEMNTED PROJECTS 
+Website Testing: 
+1. EASEC 
+Position in this project: Tester 
+Task: write test case, write bug report. 
+2. SalonPal 
+Position in this project: Tester 
+Task: understanding customer’s requires and support design, write test 
+case,  write bug report 
+3. PurioTask Webadmin 
+Position in this project: Tester 
+Task: understanding customer’s requires and support design, test & write 
+bug report 
+4. CEI Webadmin 
+Position in this project: Tester 
+Task: understanding customer’s requires and support design, test & write 
+bug report 
+5. MekongKawa 
+Position in this project: Tester 
+Task: test & write bug report 
+6. MiaFruit 
+Position in this project: Tester 
+Task: test & write bug report 
+7. HangFashion 
+Position in this project: Tester 
+Task: test & write bug report 
+Application: 
+1. Sacombank 4U 
+Position in this project: Tester 
+Task: test and write bug report. 
+2. SalonPal 
+Position in this project: Tester 
+Task: test and write bug report. 
+3. PurioTask 
+Position in this project: Tester 
+Task: test and write bug report. 
+4. Massan 
+Position in this project: Tester 
+Task: test and write bug report. 
+5. ReadPal 
+Position in this project: Tester 
+Task: test and write bug report. 

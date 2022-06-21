@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="30" family="BCDEEE+Calibri" color="#2e5395"/>
+	<fontspec id="1" size="21" family="BCDFEE+Calibri" color="#2e5395"/>
+	<fontspec id="2" size="16" family="BCDFEE+Calibri" color="#2e5395"/>
+	<fontspec id="3" size="16" family="BCDEEE+Calibri" color="#2e5395"/>
+	<fontspec id="4" size="16" family="BCDFEE+Calibri" color="#0462c1"/>
+	<fontspec id="5" size="16" family="BCDGEE+Calibri" color="#2e5395"/>
+	<fontspec id="6" size="23" family="BCDEEE+Calibri" color="#2e5395"/>
+	<fontspec id="7" size="23" family="BCDHEE+Calibri" color="#2e5395"/>
+	<fontspec id="8" size="16" family="BCDIEE+Calibri" color="#2e5395"/>
+<text top="60" left="320" width="285" height="30" font="0"><b>Nguyen Viet Cong Hau </b></text>
+<text top="98" left="394" width="134" height="21" font="1">Java Developer </text>
+<text top="137" left="268" width="4" height="17" font="2"> </text>
+<text top="157" left="268" width="55" height="17" font="3"><b>Address</b></text>
+<text top="157" left="323" width="121" height="17" font="2">: Saigon, Vietnam </text>
+<text top="177" left="268" width="53" height="17" font="3"><b>Contact</b></text>
+<text top="177" left="321" width="8" height="17" font="2">: </text>
+<text top="197" left="268" width="58" height="17" font="2">-  Email:<a href="mailto:nvconghau1995@gmail.com"> </a></text>
+<text top="197" left="326" width="191" height="17" font="4"><a href="mailto:nvconghau1995@gmail.com">nvconghau1995@gmail.com</a></text>
+<text top="197" left="517" width="4" height="17" font="2"><a href="mailto:nvconghau1995@gmail.com"> </a></text>
+<text top="217" left="268" width="198" height="17" font="2">- Mobile: (+84) 164 207 0837 </text>
+<text top="237" left="268" width="250" height="17" font="2">- Github: github.com/jasonnguyenvn </text>
+<text top="258" left="268" width="74" height="17" font="2">- LinkedIn: </text>
+<text top="278" left="268" width="215" height="17" font="2">linkedin.com/in/haunguyenviet </text>
+<text top="298" left="268" width="64" height="17" font="3"><b>Teterests</b></text>
+<text top="298" left="332" width="157" height="17" font="2">: football, music, travel </text>
+<text top="318" left="268" width="4" height="17" font="2"> </text>
+<text top="137" left="541" width="4" height="17" font="2"> </text>
+<text top="157" left="541" width="118" height="17" font="3"><b>Career Summary </b></text>
+<text top="177" left="541" width="338" height="17" font="2">I am a Java Developer with 2 years of experience.  </text>
+<text top="197" left="541" width="311" height="17" font="2">Fall in love with programming, coding and the </text>
+<text top="217" left="541" width="317" height="17" font="2">software engineering. My main skill is backend </text>
+<text top="237" left="541" width="97" height="17" font="2">development. </text>
+<text top="258" left="541" width="102" height="17" font="3"><b>Career History </b></text>
+<text top="278" left="541" width="65" height="17" font="2">Feb 2017 </text>
+<text top="278" left="606" width="8" height="17" font="5">–</text>
+<text top="278" left="614" width="189" height="17" font="2"> now, Query, Ltd. (Vietnam) </text>
+<text top="298" left="541" width="63" height="17" font="2">Jan 2016 </text>
+<text top="298" left="603" width="8" height="17" font="5">–</text>
+<text top="298" left="612" width="237" height="17" font="2"> Jan 2017, FPT Software (Vietnam)  </text>
+<text top="318" left="541" width="64" height="17" font="2">Jun 2015 </text>
+<text top="318" left="604" width="8" height="17" font="5">–</text>
+<text top="318" left="612" width="223" height="17" font="2"> Dec 2015, Query, Ltd. (Vietnam) </text>
+<text top="338" left="541" width="4" height="17" font="2"> </text>
+<text top="362" left="62" width="4" height="17" font="2"> </text>
+<text top="362" left="349" width="4" height="17" font="2"> </text>
+<text top="362" left="541" width="4" height="17" font="2"> </text>
+<text top="384" left="62" width="55" height="24" font="6"><b>Skills </b></text>
+<text top="384" left="349" width="5" height="24" font="7"><i><b> </b></i></text>
+<text top="384" left="541" width="115" height="24" font="6"><b>Experience </b></text>
+<text top="411" left="62" width="33" height="17" font="3"><b>Java </b></text>
+<text top="411" left="349" width="155" height="17" font="8"><i>(2 years of experience) </i></text>
+<text top="411" left="541" width="4" height="17" font="2"> </text>
+<text top="444" left="62" width="4" height="17" font="3"><b> </b></text>
+<text top="464" left="62" width="132" height="17" font="3"><b>Web Development </b></text>
+<text top="485" left="62" width="147" height="17" font="2">+ Play Framework 2.x </text>
+<text top="505" left="62" width="92" height="17" font="2">+ RESTful API </text>
+<text top="525" left="62" width="169" height="17" font="2">+ Swagger 2.0 / OAPI 3.0 </text>
+<text top="545" left="62" width="46" height="17" font="2">+ J2EE </text>
+<text top="565" left="62" width="104" height="17" font="2">+ JPA/Hiberate </text>
+<text top="585" left="62" width="224" height="17" font="2">+ SQL Database (MSSQL, MySQL) </text>
+<text top="606" left="62" width="213" height="17" font="2">+ No-SQL Database (MongoDB) </text>
+<text top="626" left="62" width="43" height="17" font="2">+ PHP </text>
+<text top="646" left="62" width="104" height="17" font="2">+ HTML5, CSS3 </text>
+<text top="666" left="62" width="4" height="17" font="2"> </text>
+<text top="444" left="349" width="4" height="17" font="8"><i> </i></text>
+<text top="464" left="349" width="155" height="17" font="8"><i>(2 years of experience) </i></text>
+<text top="444" left="541" width="4" height="17" font="2"> </text>
+<text top="464" left="541" width="283" height="17" font="3"><b>Project: Block Online Education Platform </b></text>
+<text top="485" left="541" width="82" height="17" font="2">Query, Ltd.  </text>
+<text top="505" left="541" width="306" height="17" font="2">Roles: Software Developer, Product Manager </text>
+<text top="525" left="541" width="219" height="17" font="2">Website:<a href="https://www.block.vn/"> https://www.block.vn </a> </text>
+<text top="545" left="541" width="4" height="17" font="2"> </text>
+<text top="565" left="541" width="333" height="17" font="3"><b>Helpy: Realtime Help Desk System Via Video Call</b></text>
+<text top="565" left="873" width="4" height="17" font="2"> </text>
+<text top="585" left="541" width="251" height="17" font="2">FPT University - My Capstone Project </text>
+<text top="606" left="541" width="276" height="17" font="2">Roles: Team Leader, Software Developer </text>
+<text top="686" left="62" width="4" height="17" font="3"><b> </b></text>
+<text top="706" left="62" width="68" height="17" font="3"><b>Javascript</b></text>
+<text top="706" left="130" width="4" height="17" font="2"> </text>
+<text top="726" left="62" width="235" height="17" font="2">+ Also has experience with jQuery. </text>
+<text top="686" left="349" width="4" height="17" font="8"><i> </i></text>
+<text top="706" left="349" width="155" height="17" font="8"><i>(2 years of experience) </i></text>
+<text top="686" left="541" width="4" height="17" font="2"> </text>
+<text top="706" left="541" width="154" height="17" font="3"><b>DASH Player Webapp  </b></text>
+<text top="726" left="541" width="92" height="17" font="2">FPT Software </text>
+<text top="747" left="541" width="181" height="17" font="2">Roles: Software Developer </text>
+<text top="767" left="541" width="4" height="17" font="2"> </text>
+<text top="787" left="62" width="4" height="17" font="3"><b> </b></text>
+<text top="807" left="62" width="57" height="17" font="3"><b>React.js </b></text>
+<text top="787" left="349" width="4" height="17" font="8"><i> </i></text>
+<text top="807" left="349" width="167" height="17" font="8"><i>(0.5 years of experience) </i></text>
+<text top="787" left="541" width="4" height="17" font="2"> </text>
+<text top="807" left="541" width="333" height="17" font="3"><b>Helpy: Realtime Help Desk System Via Video Call</b></text>
+<text top="807" left="873" width="4" height="17" font="2"> </text>
+<text top="827" left="541" width="251" height="17" font="2">FPT University - My Capstone Project </text>
+<text top="847" left="541" width="276" height="17" font="2">Roles: Team Leader, Software Developer </text>
+<text top="867" left="541" width="4" height="17" font="2"> </text>
+<text top="888" left="62" width="4" height="17" font="3"><b> </b></text>
+<text top="908" left="62" width="24" height="17" font="3"><b>Git </b></text>
+<text top="908" left="86" width="4" height="17" font="2"> </text>
+<text top="928" left="62" width="232" height="17" font="2">+ Also has experience with Github </text>
+<text top="888" left="349" width="4" height="17" font="8"><i> </i></text>
+<text top="908" left="349" width="155" height="17" font="8"><i>(3 years of experience) </i></text>
+<text top="888" left="541" width="4" height="17" font="2"> </text>
+<text top="948" left="62" width="4" height="17" font="2"> </text>
+<text top="948" left="349" width="4" height="17" font="2"> </text>
+<text top="948" left="541" width="4" height="17" font="2"> </text>
+<text top="971" left="62" width="4" height="17" font="3"><b> </b></text>
+<text top="971" left="349" width="4" height="17" font="2"> </text>
+<text top="971" left="541" width="4" height="17" font="3"><b> </b></text>
+<text top="993" left="62" width="105" height="24" font="6"><b>Education </b></text>
+<text top="992" left="349" width="4" height="17" font="2"> </text>
+<text top="993" left="541" width="99" height="24" font="6"><b>Soft skills </b></text>
+<text top="1021" left="62" width="99" height="17" font="2">FPT University </text>
+<text top="1041" left="62" width="148" height="17" font="2">Software engineering </text>
+<text top="1061" left="62" width="37" height="17" font="2">2013 </text>
+<text top="1061" left="99" width="8" height="17" font="5">–</text>
+<text top="1061" left="108" width="41" height="17" font="2"> 2017 </text>
+<text top="1021" left="349" width="4" height="17" font="2"> </text>
+<text top="1021" left="541" width="87" height="17" font="2">+ Teamwork </text>
+<text top="1041" left="541" width="131" height="17" font="2">+ Commnunication </text>
+<text top="1061" left="541" width="63" height="17" font="2">+ English </text>
+<text top="1102" left="54" width="4" height="17" font="2"> </text>
+</page>
+</pdf2xml>

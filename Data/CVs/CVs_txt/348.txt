@@ -1,0 +1,61 @@
+ 
+HIEU  TRONG  NGUYEN 
+Email: htnguyen.satz@gmail.com  
+Mobile: +84 (168) 879 5239 
+Birthday: 3rd April 1990 
+I am a meticulous and quick-learning researcher 
+with training in mathematics and experience in 
+machine learning. I am eager for a challenging 
+role in which I can grow and improve my data 
+science and computational modelling skills.  
+EDUCATION 
+Master Degree in Quantitative & Computational Finance, John von Neumann Institute, 
+Vietnam (2015-expected 2018) 
+o Thesis: application of Random Matrix Theory in analyzing structure of a stock market and 
+in cleaning a correlation matrix for optimization purposes. 
+Master & Bachelor (combined) Degree in Mathematics, University of Bath, United 
+Kingdom (2012  2015) 
+o Graduated with First Class Honors (GPA = 4.0 rounded to US-equivalent) 
+Undergraduate courses, University of Cambridge, United Kingdom (2010-2012)  
+o Started the undergraduate program in Mathematics (GPA = 3.7 US-equivalent) 
+International Baccalaureate, Rossall School, United Kingdom (2007-2010)  
+o Results: English 7/7, Maths 7/7, including a 4000-word research essay investigating the 
+Fibonacci sequence. 
+High School, Vietnam National University at Hanoi  High School for Gifted Students  
+(2005-2007)  
+o Specialized in Physics 
+AWARDS  
+First Class Honours, University of Bath, United Kingdom (2015)  
+Top 15 of the British Mathematics Olympiad (2009) 
+Second Place in the National “Mathematics and Youth” Magazine Competition (2004) 
+EXPERIENCE 
+Research Team Member, John von Neumann Institute, Vietnam (2016, 2017) 
+o Logistic Optimization (for VinGroup) Sep 2016 – Dec 2016 
+o Fraud Detection in Vietnamese Stock Market (for Hanoi Stock Exchange) Oct 2017  
+present: develop machine learning-based models to detect anomalies and/or collusive 
+activities. 
+Teaching Assistant to graduate courses, John von Neumann Institute, Vietnam (2016, 2017) 
+o Stochastic Calculus  
+o Derivatives Pricing in Finance (with Python)  
+Intern, Research Assistant, Hanoi Stock Exchange, Vietnam (2013, 2015)  
+o Participated in building Yield Curve for the Government Bond Market  
+PUBLICATIONS         
+Hieu T. Nguyen, Phuong N.U. Tran, Quang Nguyen, “An Analysis Of Eigenvectors Of A Stock 
+Market Cross-Correlation Matrix”, accepted for presentation at the International Econometric 
+Conference of Vietnam ECONVN'2018, Ho Chi Minh City, January 15--16, 2018, and published 
+in its proceeding by Springer. 
+SKILLS 
+Competent in R, Python. Decent in Latex and Excel. Adequate in Matlab. 
+Analytical, observant. 
+Eager to learn and acquire new knowledge and skills.  
+Strong aptitude to adapt to various cultures. 
+Proficient in English (GRE: Verbal 158, Quant 167, Writing 4.0) 
+OTHER ACTIVITIES 
+Played Badminton Team 2 of University of Cambridge and University of Bath, United Kingdom. 
+Participated in the 200-mile charity walk at University of Cambridge, among other charity 
+running events. 
+Casual footballer 
+Avid podcast listener 
+REFFERENCES 
+Dr. Quang Nguyen, Head of Quantitative & Computational Finance Department. 
+Email: quang.nguyen@jvn.edu.vn  

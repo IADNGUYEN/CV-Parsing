@@ -1,0 +1,83 @@
+ 
+YEN TRINH
+Full stack web developer, .NET
+Local Vietnamese
+26-01-1992, Female, Single
+, district 1, Ho Chi Minh
+01235 26 01 21
+trinhthibinhyen@gmail.com
+Candidate's Expectation
+Position:
+Software Engineer
+Job Level:
+Experienced (Non-Manager)
+Work Place:
+Ho Chi Minh, Ha Noi, Can Tho
+Job Category: IT  Software
+Salary :
+Negotiate
+Total years of
+experience:
+1 year(s).
+Highest Degree:
+Bachelors
+Language Proficiency:
+English(Advanced)
+Most Recent Job:
+Full stack web
+developer, .NET
+Most Recent Company: CRITEO
+Current Job Level:
+Experienced
+(Non-Manager)
+Career Objective
+Seeking position to gain experience and to utilize my skills and abilities in the Software Development field,
+especially to work in projects regarding algorithm and computer science.
+Three questions I like to ask myself before writing any code: Do I have to write it? Is there any better solution? How will I debug it?
+Career Highlights
+N/A
+Education & Qualifications
+Bachelors  University of Science, HCM
+Computer Science  Oct 2010  Oct 2014
+Graduate with High Distinction.
+GPA: 9.02
+Work Experience
+Software Engineer  
+CRITEO  Oct 2014  Present
+One year of experience as a full stack developer in an Agile methodology. Implement both sides of
+front-end and back-end for new features as well as refactor and optimize legacy features. Write unit test for
+C#, javascript and e2e test.
+Languages & Scripting: C#, Javascript, CSS/CSS3, HTML5
+Frameworks: ASP.NET/MVC, AngularJs, Protractor, Less
+(Criteo Company, 2014 –2015)
+Student, researcher  
+HCMUS  Jan 2014  Jul 2014
+Efficient Search on Encrypted Data and Applications: I researched about searchable encryption and applied
+those by proposing protocols for some concrete applications. The abstract is below: 
+Nowadays, Cloud Storage has become a revolution in internet technology. With cloud storage, we can
+access and update our data everywhere. This leads users to store their data on the cloud more and more,
+meaning that there exists sensitive information that may be revealed. Therefore, encrypting data before
+storing it is the best way to protect users’ data. However, this would make it difficult to access the data. As a
+result, searching on encrypted data become an important and interesting problem for researchers. In this
+research, we make a survey on solution for this problem which consists of two approaches: symmetric and
+asymmetric searchable encryption . Based on it, we propose two protocols for two applications :(1)
+Privacy-Preserving Protocols for DNA Testing and DNA Profile Storage and (2) Encryption scheme
+supporting counting on encrypted medical data, which have practical meaning.
+(From January to July of 2014).
+Researcher  
+HCMUS  Jan 2013  Dec 2013
+Learn and implement algorithms for classification images of various classes, e.g., scenery, digit and skin.
+(Matlab, C++, OpenCV)
+I worked on these projects:
+1. Scenery Image Classification: The program can automatically recognize and classify images from the
+database set that includes images about: open country, coast, inside city, tall buildings, forest, street,
+highway, mountain.
+2. Digit Classification.
+3. Skin Classification: The program can detect the skin of people in an image.
+Skills
+N/A
+References
+Trịnh Thị Bình Yên
+Software Engineer  CRITEO
+Email: y.trinhthibinh@criteo.com
+Powered by TCPDF (www.tcpdf.org)

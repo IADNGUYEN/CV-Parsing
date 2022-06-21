@@ -1,0 +1,79 @@
+2/5A Quang Trung Street, Quarter 8, Hó
+c Môn District, Hồ Chí Minh City
+0932812354
+MinhLN196@gmail.com
+SKILLS
+Java
+C# .Net
+HTML/CSS/Bootstrap
+Javascript, Jquery
+Database SQL Server
+Education
+2016  Now: FPT University
+2004  2013: ESC English center
+2013  2016: Lý Thường Kệt High School
+2009  2013: Lý Chính Thắng 1 Secondary school
+2004  2009: Thới Tam Elementary school
+LÊ NGÔ MINH
+LÊ NGÔ MINH
+CAREER GOAL
+I am currently a sophomore at FPT University. My short-term goals is to
+participate in university group's projects as much as possible and work hard on
+upcoming internship to accumulate experience. My long-term goals is just
+continue learning and get a job as a developer for a company and work my way
+up.
+Experience
+Fullt ime
+Fullt ime
+FPT  Universit y
+FPT  Universit y
+St udent
+St udent
+Descript ion
+Descript ion : 
+1. A java web project [frontend  backend] (Children's Charity) user can view
+information of charity center submit a support form to the charity center.
+Technology used: Java, HTML, CSS, Struts 2, Bootstrap, Jquery.
+2. A [frontend] web project i wrote 1 month after started learning html/css
+Technology used: HTML, CSS, Bootstrap, Jquery.
+Achievement s:
+Achievement s: 
+1. Source GGdrive: https://goo.gl/qYqD43
+2.Because the project almost 400mb so i capture some of the UI and put it
+in the link below
+UI GGdrive: https://goo.gl/NRM45i
+Source GGdrive: https://goo.gl/TZEYSF
+Event
+Event
+Lý T hường Kệt  High School
+Lý T hường Kệt  High School
+MC
+MC
+Descript ion
+Descript ion : 
+I am very confident with my english skill, work well with group, and very
+sociable so the school choose me and a female friend to be an MC for Lý
+Thường Kệt High School's english club event
+Achievement s:
+Achievement s: 
+Used to be english club event's MC
+Fullt ime
+Fullt ime
+FPT  Universit y
+FPT  Universit y
+St udent
+St udent
+Descript ion
+Descript ion : 
+Participate in Lab C at FPT University
+Participate in Lab Java OOP at FPT University
+Participate in Lab Java Desktop at FPT University
+Participate in Lab Java Web at FPT University
+Achievement s:
+Achievement s: 
+Lab C: Red level developer
+Lab Java OOP: Blue level developer
+Lab Java Desktop: Blue level developer
+Lab Java Web: Blue level developer
+(Red > Yellow > Blue > the rest)
+19/06/1997

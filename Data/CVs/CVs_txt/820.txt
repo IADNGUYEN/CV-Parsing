@@ -1,0 +1,54 @@
+Le Bui Phuong
+Dong
+6V Nguyen Thi Tan
+2 ward, 8 district, HCMC
++84 1629 496 493
+1512114@student.hcmus.edu.vn
+Date of birth: 24 April 1997
+Summary
+Algorithms, Data structures, Machine Learning, Data Mining, Computer Vision.
+Education
+October 2015
+Starting Ho Chi Minh University of Science, Vietnam, .
+to present
+Pursuing bachelor in Computer Science.
+Courses
+Taken
+Linear Algebra, Statistic, Data structures and Algorithms, Database, Computer
+Networking, AI, Machine Learning and Data Mining.
+Experience
+Caro Game
+Making caro game with small AI in C/C++.
+Lego
+Mindstorm
+Research and Install NXT Segway with Rider.
+Analytics
+Analyzing and Forecasting data products using Tableau tool.
+Recognition
+Building a Face aging recognition model with keras framework.
+Building a Recognizing hand-written digits model by SVM.
+Building a Optical Character Recognition model using machine learning.
+Building a Symbols Recognition scripts using feature extraction algorithms.
+Data mining
+and Statistic
+Classiﬁcation and clustering some basic problems on Weka and R.
+Languages
+Vietnamese
+Mothertongue
+English
+Intermediate
+Skills and Expertises
+Programing
+Languages
+C/C++, Python
+Algorithms
+Mathematics, Graph Theories, Searching, Sorting, Compressing.
+Software
+Visual Studio, MS SQL Server, MS Oﬃce, PyCharm, IPythonNoteBook, Weka, R,
+Tabelau, Rapidminer.
+Others
+OpenCV, Keras, Tensorﬂow, Scikit (elementary).
+Interests and Activities
+Technology, Open-Source, Programming
+Learning Model Improving, Behavior Analysis, Mathematics
+Football, Travelling, Photography

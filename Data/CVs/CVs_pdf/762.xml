@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="892">
+	<fontspec id="0" size="56" family="KATPDB+LMSans17" color="#727272"/>
+	<fontspec id="1" size="21" family="KTTSKW+LMSans12" color="#3872b2"/>
+	<fontspec id="2" size="16" family="NFBBHD+LMSans10" color="#000000"/>
+	<fontspec id="3" size="17" family="KTTSKW+LMSans12" color="#3872b2"/>
+	<fontspec id="4" size="16" family="VKYCFN+LMSans10" color="#000000"/>
+	<fontspec id="5" size="16" family="ECYXCC+LMSans10" color="#000000"/>
+	<fontspec id="6" size="14" family="NFBBHD+LMSans10" color="#000000"/>
+	<fontspec id="7" size="16" family="ZCDQWA+MarVoSym" color="#3872b2"/>
+<text top="126" left="436" width="345" height="51" font="0">Vương Đức Đại</text>
+<text top="266" left="219" width="137" height="19" font="1">Personal details</text>
+<text top="299" left="139" width="188" height="14" font="2">Full name Vương Đức Đại</text>
+<text top="323" left="116" width="185" height="14" font="2">Date of birth 07/06/1996</text>
+<text top="347" left="163" width="164" height="14" font="2">Phone +84 908062511</text>
+<text top="372" left="167" width="226" height="14" font="2">Email daivuong7696@gmail.com</text>
+<text top="396" left="165" width="243" height="14" font="2">Skype daivuong7696@outlook.com</text>
+<text top="421" left="141" width="313" height="14" font="2">Facebook www.facebook.com/daivuong7696</text>
+<text top="457" left="219" width="94" height="19" font="1">Experience</text>
+<text top="489" left="219" width="73" height="16" font="3">Education</text>
+<text top="516" left="116" width="89" height="14" font="2">2014–current</text>
+<text top="515" left="219" width="134" height="14" font="4"><b>Final year student</b></text>
+<text top="516" left="354" width="5" height="14" font="2">,</text>
+<text top="516" left="364" width="148" height="14" font="5"><i>Bach Khoa University</i></text>
+<text top="516" left="512" width="133" height="14" font="2">, Hồ Chí Minh city.</text>
+<text top="537" left="219" width="285" height="13" font="6">Faculty of Computer Science and Engineering</text>
+<text top="555" left="219" width="79" height="13" font="6">GPA: 7.8/10</text>
+<text top="579" left="219" width="79" height="16" font="3">Knowledge</text>
+<text top="604" left="113" width="265" height="14" font="2">Programming Python, C/C++, Scala</text>
+<text top="630" left="148" width="58" height="14" font="2">Machine</text>
+<text top="651" left="153" width="53" height="14" font="2">learning</text>
+<text top="630" left="219" width="363" height="14" font="2">Have strong basic knowledge about machine learning</text>
+<text top="677" left="149" width="390" height="14" font="2">Libraries Experience with numpy, tensorflow, scikit-learn</text>
+<text top="703" left="219" width="59" height="16" font="3">Projects</text>
+<text top="730" left="140" width="65" height="14" font="2">Projects I</text>
+<text top="750" left="137" width="69" height="14" font="2">have done</text>
+<text top="770" left="150" width="56" height="14" font="2">using AI</text>
+<text top="730" left="219" width="148" height="14" font="2">School’s assignments:</text>
+<text top="749" left="218" width="9" height="18" font="7">{</text>
+<text top="750" left="235" width="213" height="14" font="2">Playing chess using AI: checker</text>
+<text top="769" left="218" width="9" height="18" font="7">{</text>
+<text top="770" left="235" width="258" height="14" font="2">Street view house number recognition</text>
+<text top="817" left="114" width="92" height="14" font="2">Projects I am</text>
+<text top="837" left="128" width="78" height="14" font="2">doing using</text>
+<text top="857" left="190" width="15" height="14" font="2">AI</text>
+<text top="817" left="219" width="48" height="14" font="2">Thesis:</text>
+<text top="836" left="218" width="9" height="18" font="7">{</text>
+<text top="837" left="235" width="200" height="14" font="2">Scene recognition using CNN</text>
+<text top="894" left="219" width="92" height="19" font="1">Languages</text>
+<text top="927" left="140" width="181" height="14" font="2">Viet Nam Mother tongue</text>
+<text top="952" left="157" width="152" height="14" font="2">English Intermediate:</text>
+<text top="972" left="218" width="9" height="18" font="7">{</text>
+<text top="973" left="235" width="375" height="14" font="2">Able to listen, read, write and hold basic conversations</text>
+<text top="992" left="218" width="9" height="18" font="7">{</text>
+<text top="993" left="235" width="332" height="14" font="2">Certificate: TOEIC 815 (valid until 26/11/2019)</text>
+</page>
+<outline>
+<item page="1">Personal details</item>
+<item page="1">Experience</item>
+<outline>
+<item page="1">Education</item>
+<item page="1">Knowledge</item>
+<item page="1">Projects</item>
+</outline>
+<item page="1">Languages</item>
+</outline>
+</pdf2xml>

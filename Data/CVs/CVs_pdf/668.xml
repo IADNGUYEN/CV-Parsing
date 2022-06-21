@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="0" size="23" family="ABCDEE+Trebuchet MS" color="#000000"/>
+	<fontspec id="1" size="23" family="Arial" color="#000000"/>
+	<fontspec id="2" size="14" family="ABCDEE+Trebuchet MS,Bold" color="#000000"/>
+	<fontspec id="3" size="18" family="Times New Roman" color="#000000"/>
+	<fontspec id="4" size="14" family="ABCDEE+Trebuchet MS" color="#6b9f24"/>
+	<fontspec id="5" size="14" family="ABCDEE+Trebuchet MS" color="#000000"/>
+	<fontspec id="6" size="14" family="ABCDEE+Trebuchet MS,Italic" color="#000000"/>
+	<fontspec id="7" size="14" family="ABCDEE+Trebuchet MS,BoldItalic" color="#000000"/>
+	<fontspec id="8" size="14" family="Symbol" color="#000000"/>
+	<fontspec id="9" size="14" family="Arial" color="#000000"/>
+<text top="235" left="280" width="7" height="27" font="0"> </text>
+<text top="257" left="86" width="7" height="27" font="0"> </text>
+<text top="285" left="86" width="12" height="27" font="0">L</text>
+<text top="285" left="99" width="162" height="27" font="1">ại Trọng Nghĩa</text>
+<text top="285" left="262" width="15" height="27" font="0">  </text>
+<text top="325" left="86" width="44" height="17" font="2"><b>Email:</b></text>
+<text top="327" left="130" width="5" height="16" font="3"><a href="mailto:laitrongnghia@yahoo.com"> </a></text>
+<text top="325" left="135" width="173" height="17" font="4"><a href="mailto:laitrongnghia@yahoo.com">laitrongnghia@yahoo.com</a></text>
+<text top="325" left="308" width="4" height="17" font="2"><a href="mailto:laitrongnghia@yahoo.com"><b> </b></a></text>
+<text top="325" left="670" width="51" height="17" font="2"><b>Mobile:</b></text>
+<text top="325" left="721" width="79" height="17" font="5">0908237565</text>
+<text top="325" left="800" width="4" height="17" font="2"><b> </b></text>
+<text top="345" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="362" left="86" width="124" height="17" font="2"><b>Career Objective </b></text>
+<text top="384" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="401" left="119" width="659" height="17" font="6"><i>        I am seeking a position in Information Technology department. I have more than 9 years of </i></text>
+<text top="419" left="92" width="713" height="17" font="6"><i>experience in Microsoft Technologies like .NET Framework 3.5/4.0/4.5, ASP.NET MVC 3.0/4.0, ASP.NET, </i></text>
+<text top="436" left="92" width="714" height="17" font="6"><i>ADO.NET, SQL Server and associated technologies like JQuery, XML, XSL transformations, JavaScript and </i></text>
+<text top="454" left="219" width="460" height="17" font="6"><i>VB Script etc. I also have experience in analysis with UML language </i></text>
+<text top="471" left="86" width="4" height="17" font="7"><i><b> </b></i></text>
+<text top="489" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="506" left="86" width="156" height="17" font="2"><b>Academic Credentials </b></text>
+<text top="530" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="548" left="86" width="110" height="17" font="2"><b>Bachelor. Tech </b></text>
+<text top="548" left="197" width="4" height="17" font="5"> </text>
+<text top="548" left="324" width="160" height="17" font="5">Hung Vuong University  </text>
+<text top="548" left="684" width="4" height="17" font="5"> </text>
+<text top="548" left="744" width="61" height="17" font="5">Jul-2002 </text>
+<text top="567" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="584" left="86" width="64" height="17" font="2"><b>Key Skill </b></text>
+<text top="608" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="626" left="95" width="4" height="17" font="5"> </text>
+<text top="643" left="95" width="709" height="17" font="5">Proficient and familiar with a vast array of programming languages, concepts and technologies including </text>
+<text top="661" left="95" width="4" height="17" font="5"> </text>
+<text top="679" left="86" width="72" height="17" font="2"><b>Languages</b></text>
+<text top="679" left="159" width="4" height="17" font="5"> </text>
+<text top="679" left="324" width="10" height="17" font="5">: </text>
+<text top="679" left="378" width="373" height="17" font="5">.Net Framework(C#), LINQ, JQuery, Ajax, HTML5/CC3, </text>
+<text top="696" left="378" width="306" height="17" font="5">RESTful web services, Java Script, Java, PHP </text>
+<text top="715" left="86" width="109" height="17" font="2"><b>Technical Tools</b></text>
+<text top="715" left="196" width="4" height="17" font="5"> </text>
+<text top="715" left="324" width="10" height="17" font="5">: </text>
+<text top="715" left="378" width="367" height="17" font="5">.Net Framework 4.0/4.5, Asp.net MVC 3.0/4.0, Entity </text>
+<text top="732" left="378" width="332" height="17" font="5">Framework,  NHibernate, Autofac,  AutoMapper, </text>
+<text top="749" left="378" width="292" height="17" font="5">NopCommerce, Facebook API, Telerik MVC </text>
+<text top="768" left="86" width="68" height="17" font="2"><b>Database </b></text>
+<text top="768" left="154" width="4" height="17" font="5"> </text>
+<text top="768" left="324" width="10" height="17" font="5">: </text>
+<text top="768" left="378" width="174" height="17" font="5">MS SQL Server 2005/2008 </text>
+<text top="786" left="86" width="108" height="17" font="2"><b>Designing Tools</b></text>
+<text top="786" left="194" width="4" height="17" font="5"> </text>
+<text top="786" left="324" width="10" height="17" font="5">: </text>
+<text top="786" left="378" width="421" height="17" font="5">Power Designer, Visual Studio.Net 2010/2013, Dream weaver, </text>
+<text top="803" left="378" width="240" height="17" font="5">MS Project, MS Visio, Mockup GUIs  </text>
+<text top="821" left="86" width="122" height="17" font="2"><b>Operating system</b></text>
+<text top="821" left="208" width="4" height="17" font="5"> </text>
+<text top="821" left="324" width="10" height="17" font="5">: </text>
+<text top="821" left="378" width="173" height="17" font="5">Windows XP / Windows 7 </text>
+<text top="839" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="857" left="86" width="99" height="17" font="2"><b>Certifications </b></text>
+<text top="880" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="899" left="86" width="41" height="17" font="2"><b>HDSE </b></text>
+<text top="899" left="323" width="189" height="17" font="5">Higher Diploma in Software </text>
+<text top="916" left="323" width="140" height="17" font="5">Engineering, Aptech </text>
+<text top="899" left="737" width="65" height="17" font="5">Aug 2003 </text>
+<text top="935" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="952" left="86" width="131" height="17" font="2"><b>Work Experiences </b></text>
+<text top="976" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="994" left="86" width="56" height="17" font="2"><b>EH-Data</b></text>
+<text top="994" left="142" width="4" height="17" font="5"> </text>
+<text top="994" left="798" width="4" height="17" font="6"><i> </i></text>
+<text top="1016" left="86" width="260" height="17" font="6"><i>Software Developer (Java, PHP, .Net) </i></text>
+<text top="1016" left="668" width="130" height="17" font="6"><i>Jul 2003 – Oct 2003</i></text>
+<text top="1016" left="798" width="4" height="17" font="5"> </text>
+<text top="1034" left="113" width="7" height="18" font="8"></text>
+<text top="1039" left="120" width="4" height="14" font="9"> </text>
+<text top="1035" left="140" width="291" height="17" font="5">Maintained the existing software/websites </text>
+<text top="1053" left="113" width="7" height="18" font="8"></text>
+<text top="1057" left="120" width="4" height="14" font="9"> </text>
+<text top="1054" left="140" width="507" height="17" font="5">Joined to team to develop management applications in Java, PHP language</text>
+<text top="1054" left="648" width="4" height="17" font="6"><i> </i></text>
+<text top="1071" left="113" width="7" height="18" font="8"></text>
+<text top="1076" left="120" width="4" height="14" font="9"> </text>
+<text top="1072" left="140" width="307" height="17" font="5">Testing to make sure the quantity of product </text>
+<text top="1072" left="448" width="4" height="17" font="6"><i> </i></text>
+<text top="1090" left="798" width="4" height="17" font="6"><i> </i></text>
+<text top="1108" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="1126" left="86" width="99" height="17" font="2"><b>Goodland Ltd.</b></text>
+<text top="1126" left="185" width="4" height="17" font="5"> </text>
+<text top="1126" left="798" width="4" height="17" font="6"><i> </i></text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="10" size="12" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="11" size="12" family="Arial" color="#000000"/>
+<text top="86" left="86" width="288" height="17" font="6"><i>Senior Software Developer (.Net, MS SQL) </i></text>
+<text top="86" left="659" width="139" height="17" font="6"><i>Nov 2003 – July 2007</i></text>
+<text top="86" left="798" width="4" height="17" font="5"> </text>
+<text top="105" left="113" width="7" height="18" font="8"></text>
+<text top="109" left="120" width="4" height="14" font="9"> </text>
+<text top="105" left="140" width="192" height="17" font="5">Maintained existing website </text>
+<text top="123" left="113" width="7" height="18" font="8"></text>
+<text top="127" left="120" width="4" height="14" font="9"> </text>
+<text top="124" left="140" width="646" height="17" font="5">Developed and implemented software/website outsourcing for many local and foreign customer</text>
+<text top="124" left="788" width="4" height="17" font="6"><i> </i></text>
+<text top="141" left="113" width="7" height="18" font="8"></text>
+<text top="146" left="120" width="4" height="14" font="9"> </text>
+<text top="142" left="140" width="314" height="17" font="5">Joined as a team leader role to some projects </text>
+<text top="142" left="455" width="4" height="17" font="6"><i> </i></text>
+<text top="160" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="179" left="86" width="170" height="17" font="2"><b>Edge Marketing Vietnam</b></text>
+<text top="179" left="256" width="4" height="17" font="5"> </text>
+<text top="179" left="798" width="4" height="17" font="6"><i> </i></text>
+<text top="201" left="86" width="453" height="17" font="6"><i>Senior Software Developer (.Net, MS SQL)/Junior Business Analyst </i></text>
+<text top="201" left="691" width="107" height="17" font="6"><i>July 2007 – Now</i></text>
+<text top="201" left="798" width="4" height="17" font="5"> </text>
+<text top="219" left="113" width="7" height="18" font="8"></text>
+<text top="223" left="120" width="4" height="14" font="9"> </text>
+<text top="220" left="140" width="657" height="17" font="5">Developed CRM or CMS system for well-known clients such as HSBC, ANZ, Mead Johnson, Johnnie </text>
+<text top="237" left="140" width="256" height="17" font="5">Walker, Syngenta, etc or internal use </text>
+<text top="255" left="113" width="7" height="18" font="8"></text>
+<text top="259" left="120" width="4" height="14" font="9"> </text>
+<text top="256" left="140" width="280" height="17" font="5">Wrote technical specification documents </text>
+<text top="273" left="113" width="7" height="18" font="8"></text>
+<text top="278" left="120" width="4" height="14" font="9"> </text>
+<text top="274" left="140" width="306" height="17" font="5">Researched and proposed various techniques </text>
+<text top="292" left="113" width="7" height="18" font="8"></text>
+<text top="296" left="120" width="4" height="14" font="9"> </text>
+<text top="293" left="140" width="310" height="17" font="5">Conduct seminars and trained team members </text>
+<text top="310" left="113" width="7" height="18" font="8"></text>
+<text top="315" left="120" width="4" height="14" font="9"> </text>
+<text top="311" left="140" width="590" height="17" font="5">Participated to make plan, inspect the progress of projects and report to line manager </text>
+<text top="329" left="113" width="7" height="18" font="8"></text>
+<text top="333" left="120" width="4" height="14" font="9"> </text>
+<text top="330" left="140" width="325" height="17" font="5">Joined to analyse requirements from customers </text>
+<text top="348" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="365" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="383" left="86" width="134" height="17" font="2"><b>Main Project Work </b></text>
+<text top="406" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="425" left="86" width="37" height="17" font="2"><b>Title </b></text>
+<text top="425" left="124" width="4" height="17" font="5"> </text>
+<text top="425" left="324" width="10" height="17" font="5">: </text>
+<text top="425" left="378" width="271" height="17" font="5">ANZ Customer Relationship Management</text>
+<text top="425" left="650" width="4" height="17" font="2"><b> </b></text>
+<text top="443" left="86" width="41" height="17" font="2"><b>Client</b></text>
+<text top="443" left="128" width="4" height="17" font="5"> </text>
+<text top="443" left="324" width="10" height="17" font="5">: </text>
+<text top="443" left="378" width="27" height="17" font="5">ANZ</text>
+<text top="443" left="405" width="4" height="17" font="2"><b> </b></text>
+<text top="462" left="86" width="31" height="17" font="2"><b>Role</b></text>
+<text top="462" left="117" width="4" height="17" font="5"> </text>
+<text top="462" left="324" width="10" height="17" font="5">: </text>
+<text top="462" left="378" width="88" height="17" font="5">Team Leader</text>
+<text top="462" left="466" width="4" height="17" font="2"><b> </b></text>
+<text top="480" left="86" width="50" height="17" font="2"><b>Tenure</b></text>
+<text top="480" left="137" width="4" height="17" font="5"> </text>
+<text top="480" left="324" width="10" height="17" font="5">: </text>
+<text top="480" left="378" width="145" height="17" font="5">Nov-2013 to Apr-2014</text>
+<text top="480" left="523" width="4" height="17" font="2"><b> </b></text>
+<text top="499" left="86" width="72" height="17" font="2"><b>Team Size</b></text>
+<text top="499" left="158" width="4" height="17" font="5"> </text>
+<text top="499" left="324" width="10" height="17" font="5">: </text>
+<text top="499" left="378" width="8" height="17" font="5">5</text>
+<text top="499" left="386" width="4" height="17" font="2"><b> </b></text>
+<text top="517" left="86" width="90" height="17" font="2"><b>Environment</b></text>
+<text top="517" left="176" width="4" height="17" font="5"> </text>
+<text top="517" left="324" width="10" height="17" font="5">: </text>
+<text top="517" left="378" width="403" height="17" font="5">ASP.NET MVC 3.0, .Net C# 4.0, JQuery, MS SQL Server 2008 </text>
+<text top="535" left="378" width="362" height="17" font="5">and Windows Server 2003, Telerik Extension, IIS6/IIS7</text>
+<text top="535" left="740" width="4" height="17" font="2"><b> </b></text>
+<text top="553" left="86" width="93" height="17" font="2"><b>Size of users </b></text>
+<text top="553" left="324" width="10" height="17" font="5">: </text>
+<text top="553" left="378" width="103" height="17" font="5">Over 800 users </text>
+<text top="572" left="86" width="84" height="17" font="2"><b>Description </b></text>
+<text top="589" left="86" width="720" height="17" font="5">Build a customer relationship management (CRM) system for managing client’s interactions with current </text>
+<text top="607" left="86" width="720" height="17" font="5">and future their customers, track and measure marketing campaigns over networks. The system includes </text>
+<text top="624" left="86" width="682" height="17" font="5">call center, data storage, and customer data query. The system support more than 800 users system </text>
+<text top="641" left="86" width="4" height="17" font="5"> </text>
+<text top="659" left="86" width="113" height="17" font="2"><b>Responsibilities </b></text>
+<text top="659" left="369" width="4" height="17" font="5"> </text>
+<text top="681" left="86" width="11" height="14" font="10"></text>
+<text top="684" left="98" width="4" height="12" font="11"> </text>
+<text top="679" left="108" width="233" height="17" font="5">Inspecting the progress of project.</text>
+<text top="679" left="341" width="4" height="17" font="2"><b> </b></text>
+<text top="702" left="86" width="11" height="14" font="10"></text>
+<text top="705" left="98" width="4" height="12" font="11"> </text>
+<text top="700" left="108" width="407" height="17" font="5">Design database structure, stored procedures and functions.</text>
+<text top="700" left="515" width="4" height="17" font="2"><b> </b></text>
+<text top="721" left="86" width="11" height="14" font="10"></text>
+<text top="724" left="98" width="4" height="12" font="11"> </text>
+<text top="719" left="108" width="376" height="17" font="5">Involving in analyse requirements, coding, Unit Testing.</text>
+<text top="719" left="484" width="4" height="17" font="2"><b> </b></text>
+<text top="738" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="756" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="774" left="86" width="37" height="17" font="2"><b>Title </b></text>
+<text top="774" left="124" width="4" height="17" font="5"> </text>
+<text top="774" left="324" width="10" height="17" font="5">: </text>
+<text top="774" left="378" width="209" height="17" font="5">CRM &amp; Loyalty Program System</text>
+<text top="774" left="587" width="4" height="17" font="2"><b> </b></text>
+<text top="793" left="86" width="41" height="17" font="2"><b>Client</b></text>
+<text top="793" left="128" width="4" height="17" font="5"> </text>
+<text top="793" left="324" width="10" height="17" font="5">: </text>
+<text top="793" left="378" width="99" height="17" font="5">Mead Johnson.</text>
+<text top="793" left="477" width="4" height="17" font="2"><b> </b></text>
+<text top="811" left="86" width="31" height="17" font="2"><b>Role</b></text>
+<text top="811" left="117" width="4" height="17" font="5"> </text>
+<text top="811" left="324" width="10" height="17" font="5">: </text>
+<text top="811" left="378" width="88" height="17" font="5">Team Leader</text>
+<text top="811" left="466" width="4" height="17" font="2"><b> </b></text>
+<text top="830" left="86" width="50" height="17" font="2"><b>Tenure</b></text>
+<text top="830" left="137" width="4" height="17" font="5"> </text>
+<text top="830" left="324" width="10" height="17" font="5">: </text>
+<text top="830" left="378" width="146" height="17" font="5">Jan-2013 to May-2003</text>
+<text top="830" left="524" width="4" height="17" font="2"><b> </b></text>
+<text top="848" left="86" width="72" height="17" font="2"><b>Team Size</b></text>
+<text top="848" left="158" width="4" height="17" font="5"> </text>
+<text top="848" left="324" width="10" height="17" font="5">: </text>
+<text top="848" left="378" width="12" height="17" font="5">3 </text>
+<text top="848" left="390" width="4" height="17" font="2"><b> </b></text>
+<text top="867" left="86" width="90" height="17" font="2"><b>Environment</b></text>
+<text top="867" left="176" width="4" height="17" font="5"> </text>
+<text top="867" left="324" width="10" height="17" font="5">: </text>
+<text top="867" left="378" width="398" height="17" font="5">ASP.NET MVC 3.0, C# 3.5, JQuery, MS SQL Server 2005 and </text>
+<text top="884" left="378" width="206" height="17" font="5">Windows Server 2003, IIS6/IIS7</text>
+<text top="884" left="585" width="4" height="17" font="2"><b> </b></text>
+<text top="903" left="86" width="93" height="17" font="2"><b>Size of users </b></text>
+<text top="903" left="324" width="10" height="17" font="5">: </text>
+<text top="903" left="378" width="103" height="17" font="5">Over 100 users </text>
+<text top="922" left="86" width="84" height="17" font="2"><b>Description </b></text>
+<text top="939" left="86" width="720" height="17" font="5">System  includes  modules:  customer  information  management,  inbound  and  outbound  call  script, </text>
+<text top="956" left="86" width="720" height="17" font="5">interface gateway between top-up provider, SMS provider and mobile subscribers, promotion campaigns </text>
+<text top="974" left="86" width="701" height="17" font="5">management. In addition, system can also support the managers can export reports data mining easily. </text>
+<text top="991" left="86" width="4" height="17" font="5"> </text>
+<text top="1009" left="86" width="113" height="17" font="2"><b>Responsibilities </b></text>
+<text top="1009" left="369" width="4" height="17" font="5"> </text>
+<text top="1031" left="86" width="11" height="14" font="10"></text>
+<text top="1033" left="98" width="4" height="12" font="11"> </text>
+<text top="1028" left="108" width="233" height="17" font="5">Inspecting the progress of project.</text>
+<text top="1028" left="341" width="4" height="17" font="2"><b> </b></text>
+<text top="1052" left="86" width="11" height="14" font="10"></text>
+<text top="1054" left="98" width="4" height="12" font="11"> </text>
+<text top="1050" left="108" width="407" height="17" font="5">Design database structure, stored procedures and functions.</text>
+<text top="1050" left="515" width="4" height="17" font="2"><b> </b></text>
+<text top="1071" left="86" width="11" height="14" font="10"></text>
+<text top="1073" left="98" width="4" height="12" font="11"> </text>
+<text top="1068" left="108" width="376" height="17" font="5">Involving in analyse requirements, coding, Unit Testing.</text>
+<text top="1068" left="484" width="4" height="17" font="2"><b> </b></text>
+<text top="1088" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="1105" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="1124" left="86" width="37" height="17" font="2"><b>Title </b></text>
+<text top="1124" left="124" width="4" height="17" font="5"> </text>
+<text top="1124" left="324" width="10" height="17" font="5">: </text>
+<text top="1124" left="378" width="290" height="17" font="5">Project Progress and Finance Management </text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1262" width="893">
+<text top="87" left="86" width="41" height="17" font="2"><b>Client</b></text>
+<text top="87" left="128" width="4" height="17" font="5"> </text>
+<text top="87" left="324" width="10" height="17" font="5">: </text>
+<text top="87" left="378" width="79" height="17" font="5">HZS, Japan </text>
+<text top="105" left="86" width="31" height="17" font="2"><b>Role</b></text>
+<text top="105" left="117" width="4" height="17" font="5"> </text>
+<text top="105" left="324" width="10" height="17" font="5">: </text>
+<text top="105" left="378" width="88" height="17" font="5">Team Leader</text>
+<text top="105" left="466" width="4" height="17" font="2"><b> </b></text>
+<text top="124" left="86" width="50" height="17" font="2"><b>Tenure</b></text>
+<text top="124" left="137" width="4" height="17" font="5"> </text>
+<text top="124" left="324" width="10" height="17" font="5">: </text>
+<text top="124" left="378" width="146" height="17" font="5">Jun-2008 to Nov-2008</text>
+<text top="124" left="524" width="4" height="17" font="2"><b> </b></text>
+<text top="142" left="86" width="72" height="17" font="2"><b>Team Size</b></text>
+<text top="142" left="158" width="4" height="17" font="5"> </text>
+<text top="142" left="324" width="10" height="17" font="5">: </text>
+<text top="142" left="378" width="12" height="17" font="5">3 </text>
+<text top="142" left="390" width="4" height="17" font="2"><b> </b></text>
+<text top="161" left="86" width="90" height="17" font="2"><b>Environment</b></text>
+<text top="161" left="176" width="4" height="17" font="5"> </text>
+<text top="161" left="324" width="10" height="17" font="5">: </text>
+<text top="161" left="378" width="408" height="17" font="5">ASP.NET, C# 2.0 , JQuery, MS SQL Server 2000 and Windows </text>
+<text top="178" left="378" width="112" height="17" font="5">Server 2003, IIS6</text>
+<text top="178" left="490" width="4" height="17" font="2"><b> </b></text>
+<text top="197" left="86" width="84" height="17" font="2"><b>Description </b></text>
+<text top="214" left="86" width="712" height="17" font="5">Tracking progress and finance of a project. An efficient supporting tool for tracking progress and finance </text>
+<text top="232" left="86" width="722" height="17" font="5">of a project, especially for the complex finance calculation. It includes three main functional groups: user </text>
+<text top="249" left="86" width="537" height="17" font="5">management, project progress management and project finance management. </text>
+<text top="266" left="86" width="4" height="17" font="5"> </text>
+<text top="284" left="86" width="113" height="17" font="2"><b>Responsibilities </b></text>
+<text top="284" left="369" width="4" height="17" font="5"> </text>
+<text top="306" left="86" width="11" height="14" font="10"></text>
+<text top="309" left="98" width="4" height="12" font="11"> </text>
+<text top="304" left="108" width="233" height="17" font="5">Inspecting the progress of project.</text>
+<text top="304" left="341" width="4" height="17" font="2"><b> </b></text>
+<text top="327" left="86" width="11" height="14" font="10"></text>
+<text top="330" left="98" width="4" height="12" font="11"> </text>
+<text top="325" left="108" width="407" height="17" font="5">Design database structure, stored procedures and functions.</text>
+<text top="325" left="515" width="4" height="17" font="2"><b> </b></text>
+<text top="346" left="86" width="11" height="14" font="10"></text>
+<text top="349" left="98" width="4" height="12" font="11"> </text>
+<text top="344" left="108" width="222" height="17" font="5">Involving in coding, Unit Testing.</text>
+<text top="344" left="330" width="4" height="17" font="2"><b> </b></text>
+<text top="363" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="381" left="86" width="120" height="17" font="2"><b>Personal Dossier </b></text>
+<text top="404" left="86" width="4" height="17" font="2"><b> </b></text>
+<text top="422" left="86" width="90" height="17" font="2"><b>Date of Birth</b></text>
+<text top="422" left="176" width="4" height="17" font="5"> </text>
+<text top="422" left="324" width="10" height="17" font="5">: </text>
+<text top="422" left="378" width="74" height="17" font="5">08-03-1980</text>
+<text top="422" left="452" width="4" height="17" font="2"><b> </b></text>
+<text top="441" left="86" width="123" height="17" font="2"><b>Languages known</b></text>
+<text top="441" left="209" width="4" height="17" font="5"> </text>
+<text top="441" left="324" width="10" height="17" font="5">: </text>
+<text top="441" left="378" width="47" height="17" font="5">English</text>
+<text top="441" left="425" width="4" height="17" font="2"><b> </b></text>
+<text top="459" left="86" width="55" height="17" font="2"><b>Address</b></text>
+<text top="459" left="141" width="4" height="17" font="5"> </text>
+<text top="459" left="324" width="10" height="17" font="5">: </text>
+<text top="459" left="378" width="77" height="17" font="5">308B Hoa H</text>
+<text top="462" left="455" width="276" height="14" font="9">ung street, Ward 13 District 10, HCM city </text>
+<text top="483" left="86" width="5" height="16" font="3"> </text>
+<text top="505" left="86" width="5" height="16" font="3"> </text>
+</page>
+</pdf2xml>

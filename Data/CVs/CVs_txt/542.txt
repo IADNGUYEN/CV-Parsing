@@ -1,0 +1,119 @@
+CURRICULUM VITAE 
+Lê Duy Ngữ 
+Java Developer 
+PERSONAL DETAILS 
+Name:             Mr.      LÊ DUY NGỮ 
+Address:                      120/74/29F. Tan Tien – Bien Hoa – Dong Nai Province. 
+Mobile:                        0948 264 231 
+Email:                         nguleduy@gmail.com 
+Place of birth:              Bien Hoa  Dong Nai 
+Birthday:                     05/12/1989 
+Nationality:                  Viet Nam 
+Identification No:          271960647 
+Issued at:                    Bien Hoa – Dong Nai 
+
+SUMMARY 
+Try to learning as much as possible and doing my best in order to accomplish my task. 
+To have a good opportunities to get promotion in my job. 
+Improve my skills with development of company. 
+Have knowledge and experience in working with Java. 
+Experience as full stack developer. 
+Good English speaking/listening and understand reading English. 
+Core responsibilities: implement coding. 
+EDUCATION 
+2009  0 8 / 2 0 1 3 : Bachelor degree of Industrial University of Ho Chi Minh City. 
+06/2015: Fresher certification of FPT software in HCM City. 
+LANGUAGE SKILLS 
+English
+2/3 
+COMPUTER SKILLS 
+Offices: Word, Excel, Power Point. 
+TECHNICAL SKILLS 
+Programming Languages: Java. 
+Scripting Languages: HTML, JavaScript, JQuery, CSS. 
+Frameworks/ Platforms:Spring. 
+Database Management Systems: SQL Server, MySQL, Oracle. 
+IDEs: Eclipse, Net Beans. 
+Operating Systems: Windows. 
+Foreign Languages: English. 
+Soft Skills: Problem solving, communication, listening-speaking-reading-writing in English. Positive 
+attitude, teamwork & self-learning skills. 
+PROFESSIONAL EXPERIENCE 
+01/2012 – 07/2013: 
+Attend FPT as Java developer (intership). 
+Project Description: Building commercial, management projects, fix bug. 
+Team size: 8 
+Responsibilities: 
+Support the team leader on technical analysis to provide the best technical solution as well as 
+support colleagues for solving technical issues to complete the assigned projects/ tasks on 
+timely manner. 
+Technologies: Java, JSP/Servlet, JavaScript, SQL, Spring MVC, Hibernate, JQuery, HTML/CSS. 
+2/2015 – 3/2015: 
+Attend Java Fresher Program at  FPT (study about Software development process, Spring 
+MVC and have Mock project). 
+Project Description: Web simulates ATM System. 
+Team size: 4 
+Responsibilities: 
+Analyze business. 
+Develop functions: input ATM card, authentication and withdraw money. 
+Technologies: Spring MVC, JDBC, JSP/Servlet, HTML/CSS, JavaScript. 
+3/2015 – 04/2016: 
+Project Name: CORE 
+Project Description: This project is to maintain/develop new features for core system (violation 
+management system, account management system, dashboard system, report system …) used in 
+electronic toll collection system. 
+The solid Toll Collection solution has been being developed and maintained for various toll 
+authorities across the country.
+3/3 
+Firstly, FPT started working on independent module of the CORE solution that was Reporting 
+Solution module. 
+Data Warehouse/Data Mart Testing with a team. The duration was 6 months. 
+Crystal Report Development with a team. The duration was 6 months. 
+In the 2nd phase, the client and FPT established a long term Offshore Development Center 
+(ODC) where FPT has been deeply involving in development and maintenance for the clients’ 
+CORE solution. 
+A team in mid-Sep 2010 attended a training course at the client location, and the ODC started 
+the development from Oct 2010 with onsite/offshore working model to customize the CORE 
+Solution for most of client’s end-users. 
+Currently the ODC has +80 people involving in various sections of the client such as new module 
+development, report development, data warehouse testing, defect resolution, production support. 
+ODC is providing the following services to the client: 
+Maintenance for the existing systems. 
+Provides the development service for new features for current Core system for various. 
+Clients of customer in Washington, Georgia, Miami and currently is North Texas. 
+Performing testing for customer’s data warehouse system. 
+Reporting solution. 
+Responsibilities: Developer (Bug fixing, development crystal and oracle report, development 
+java). 
+Team size: +80 people 
+Technologies: Java 1.5, J2EE, Oracle 10g, 11g; Crystal Report, Oracle Report 10g, Spring, 
+Windows and Linux platforms, HTML/CSS, JavaScript. 
+05/2016 – 12/2016: 
+Project Name: TEVEX 
+Project Description: TEVEX is a web application for trucks management that allows fleet operators 
+to calculate optimized routes as well as distance and cost for TEVEX’s trucks, track positions of the 
+trucks on a map and compare it to planed route for making report if there is any deviation. 
+Responsibilities: Development 
+Team size: +10 person 
+Technologies: Java, HTML/CSS, JavaScript, SVN. 
+01/2017 – now:  
+Attend Evolable Asia as Java developer. 
+Project Name: KIKAN 
+Project Description: KIKAN is a web application for transporting products management that allows 
+drivers operators to calculate, collect products as well as distance and cost for every driver, beside 
+that the collected products will be sale on that web application. 
+Responsibilities: Development 
+Team size: +2 person 
+Technologies: Java, Spring, Hibernate, HTML/CSS, JavaScript, Jquery, Git, MySQL. 
+Project Name: BI 
+Project Description: using Pentaho BI to create products which provide data integration, OLAP 
+services, reporting, information dashboards, data mining and extract, transform, load (ETL) 
+capabilities. 
+Responsibilities: Development 
+Team size: +2 person 
+Technologies: Pentaho, JavaScript, PostgresDB. 
+4/3 
+MILITARY 
+09/2013 – 01/2015: District 9 – Ho Chi Minh City. 
+INTERESTES & HOBBITS 
+Music, Football. 

@@ -1,0 +1,104 @@
+Curriculum Vitae
+Personal detail:
+Full name : Tran Minh Tri
+Date of birth: 21 December 1988
+Address: 32 Thap Muoi street ,Ward 2, District 6 , Ho Chi Minh city
+Mobile :092.538.1893
+Email : timylv@gmail.com
+Skype: timy.love
+Position: QC engineer
+Objectives:
+To be a tester and become expert QC in next 1 year
+Learning more things so that I can accomplish my task better
+To have opportunities to get promotion in my job
+Learning more about tester and business process in practical planning in
+order to develop my skill
+Education:
+Have knowledge about ISTQB certification
+Have knowledge about automation testing with selenium ,POM, TDD
+Have knowledge about manual testing and software development life
+cycle (V model , Agile model)
+I have been studying English at OLS for 6 months
+2006  2009: I spent more than 24 months at NIIT to learn develop
+programming
+Subjects studied :
+Operating Systems : Windows 2000, XP and Linux
+Programming languages : ASP.NET, C#, Java, HTML,XML, PHP.
+Databases : MS SQL Server 2008,
+System analysis and design
+Software project management
+Object oriented programming ( using C# language)
+Database management system
+I have a certificate ," Professional Diploma in Information Technology "by
+NIIT India”
+Experience:
+Have been training as tester at TestingVN company from April to June
+(2017) and getting fresher tester certification
+Have been working as auditor at Vinasun company since 2007,
+1.1.1
+having experience in accountant and developing program
+Collaborating develop FTTH (part-time) from 2006 to 2007,
+Technical Skill:
+Programming languages : HTML , C#.net , Vb.net, C++, Java
+Operating system : windows , dos ,android ,window server 2003
+Setup, maintain system running Microsoft windows
+Managing SQL database system
+Others :office 2007-2010- office 365
+Testing skill:
+Have knowledge in manual testing ( window application, web
+application and mobile application)
+Have knowledge in automation testing with selenium in java (Page
+Object module, Test Data Driven, WebDriver)
+Have good knowledge in test analysis and design, test implementation
+and execution
+Good knowledge in software development life cycle V-model, Agile-
+model
+Good experience in test case design techniques such as Equivalence
+Partitioning, Boundary Value Analysis, Decision Table Testing, State
+Transition Testing and Use Case testing.
+Testing types and methodologies: black box, white box, Grey box
+Testing and functional, non-functional, structural testing and experience
+based testing.
+Experience of developed Test scenarios and Test cases.
+Working as Qc-engineer at Sutrixsolutions company September (2017)  now
+Project description: AEM System  developing a system help author input
+content and image in order to publish to end user
+Test environment : Web browser( Chrome,IE 11, firefox), IOS,Android
+Test tool :Jira, Microsoft excel , line-cap,Pic-pick
+Responsibilities: Using Exploratoy testing to smoke test on new component ,
+create test case , user case or check list , Regression test old component , report
+test result
+Trainee as tester , TESTINGVN company April – June (2017)
+Project description: This is system that manage school (teacher,
+student ,admin, major, learning outcomes ),export report
+Test environment: Window application
+Responsibilities: Research about the project, test preparation, create test case,
+test execute ,present a final report
+Working as tester internship at Devinition company July- September (2017)
+Project description: Developing a system for user who can use it to create a
+store on the internet
+Test environment : Web browser( Chrome,IE 11)
+Test tool :Postman, Microsoft excel ,Visual studio
+Responsibilities: Research about domain ,using black box technique and
+Exploratory testing to create test case,execute test case to find bugs, writing
+report ,verify bug and regression testing
+Working as auditor at Vinasun company August 2007 – May 2017
+Description: Check taxi fare on taxi meter , calculate salary for driver , and
+report (revenue , diver’s salary, … ) by using Microsoft excel
+Environment : window application, android
+Responsibilities : Compare result with cashier, team leader, other teams,
+NIIT software park (2007-2009)
+Project : Chat application with real time (chat room, one and one )
+Project description: This is a system that accept user create username and
+password ,some personal information. User use this to login chat room to talk
+others in chat room or chat with friends
+Environment : window application
+Responsibilities : Create ideas, develop database and Dynamic library link (.dll)
+to connect to database and other user and process component test
+Soft skills :
+Good communication and working team
+Studying new technology by meself
+Be careful about working and assiduous to finish working best way
+Ability to study technology quickly
+Sharing and helping colleague
+Working with high pressure

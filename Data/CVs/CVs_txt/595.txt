@@ -1,0 +1,125 @@
+Nguyen Duy Khanh 
+No. 3, alley 267/29, Hoang Hoa Tham Street, Hanoi, Viet Nam
+(+84) 976 698 089
+khanhthietbi@gmail.com
+Summary: Full-stack software engineer with 4-year experience coding technically sophisticated web
+applications using Microsoft Technologies (ASP.NET MVC5; Episerver CMS, Kentico CMS) as well as
+experience on Azure Cloud Environment and Responsive Design (HTML5, JQuery, CSS3, Bootstrap).
+For reference, please visit the following links: 
+https://world.episerver.com
+https://github.com/khanhthietbi
+http://hdvn.herokuapp.com
+SKILLS & TECHNOLOGIES
+Languages
+Operating Systems
+Networking
+Database
+English  ASP.NET  Linux  IIS  MS SQL  TOEIC 785  Javascript  Ruby  Windows  OSX  NginX  RavenDB  MongoDB  RedisDB  IELTS 5.5
+PROFESSIONAL EXPERIENCE
+Episerver Vietnam
+04/2016 – Current
+Episerver connects digital commerce and digital marketing to help organizations create unique digital
+experiences for their customers, with measurable business results. The Episerver Digital Experience
+Cloud™ combines content, commerce and multi-channel marketing in a single platform to work full-
+circle for businesses online – from intelligent optimization and lead-generation through to conversion
+and repeat business – with unprecedented ease-of-use.
+R&D Department
+Play a role of Full-stack developer for Episerver World Community (https://world.episerver.com). 
+38K+ developers benefit from the community.
+Responsibilities:
+Communicate with documentation team to implement and delivery high quality features for
+the whole sites, widely ranged from area to area: Forum/Article/Blog/Documentation for
+developer community.
+Participate  and  organize  seminars  and  presentations  of  new  technology  on  cloud
+environment (named DXC  Episerver), automated workflow (jira > stash > teamcity).
+Coordinated  with geographically distributed  team in Hanoi, United State (Nashua) and
+Stockholm (Sweden) by video conferencing (Go to Meeting).
+Maintain  and  monitor  system,  user  accounts,  syndication  system  for  Bug  List,  SDK
+Documents.
+Nguyen Duy Khanh
+Page 2
+Project:
+Episerver World Community
+World is the global Episerver developer community site hosting forums, blogs and 
+documentation related to the Episerver platform.
+Technologies: ASP.NET, Episerver products (Episerver CMS, EpiserverFind, Episerver 
+Community, Episerver Add-Ons), Raven DB (No-SQL), JQuery, AJAX, Microsoft SQL, Bootstrap,
+Teamcity, Atlassian products (jira, stash), Git, TFS (legacy).
+ISTECH Vietnam
+05/2015 – 04/2016
+ISTECH Vietnam (old name Cardlab Vietnam) is a company that specializes in providing software
+products, system solutions and IT – related services. Established in 2013, the company is developing
+with a goal to provide high quality and reliable products both in domestic and international market.
+Enterprises Project Department
+Play a role of senior .NET developer, design and program specific features for Card Payment System.
+Responsibilities:
+Carry out specific features from BA; SA documents and give feedback to SA/QA team in case
+of necessity.
+Communicate with partners, other team members to prioritize needs and produce high
+quality e-commercial web applications.
+Participate in seminars and team’s presentations for better understanding of various system
+functions and architecture.
+Coordinated with geographically distributed team in Hanoi, Ho Chi Minh City and US in
+person and by video conferencing through online collaboration tools (Spark and Skype).
+Projects:
+Online Gift card services
+Blackhawk Network offers a free gift card wallet service, GoWallet, that provides a rich 
+experience for consumers to manage all of their gift cards. Plus, consumers can do much 
+more than just store their cards online and easily track balances. They can also scan QR and 
+bar codes for instant card registration, opt-in for merchant-specific offers, and even integrate 
+with social networks for easier gifting.
+Technologies: ASP.NET, Kentico CMS, Telerik, WCF, JQuery, AJAX, Microsoft SQL.
+Vietnam Petroleum Institute
+2012 – 08/2015
+A scientific research corporation in Hanoi, Vietnam. 
+Specialist at Policy Making and Management Regulations Division
+Worked closely with other developers to plan and launch features related to the electronic document
+management system.
+Responsibilities:
+Implement assigned tasks and gave feedback to developer team.
+Collaborate  with  QA,  product  owner,  prioritize  needs  and  produce  high  quality  web
+applications changes.
+Coordinate a geographically distributed team through online collaboration tools (Skype).
+Nguyen Duy Khanh
+Page 3
+Achievements:
+Constructed and developed EDMS of material planning and contracts management.
+Joined various teams, carried out innovative R&D projects. 
+Projects:
+Management system for domestic contracts with foreigner operators & contractors
+The management system has become the first computerization management for oil and gas
+contracts in the country in general and for PetroVietnam in specific. The system supports
+positive, effective for the management work of oil and gas contracts in business activities of
+PetroVietnam. The project was rated 9/10 and included in the list of 2013 Award for the
+Excellent Research.
+Technologies: ASP.NET MVC5, Javascript, Entity Frameworks, Microsoft SQL.
+PVN's R&D project of EDMS for Technical Standard Documents and Material
+An R&D project from design to acceptance phase carried out by EMC-VPI. In a nut shell, we 
+designed  a Content Management System for managing material, technical documents 
+widely ranged within oil & gas industry, in collaboration with TrueTech Co.Ltd  the 
+Representative Office of Intergraph Corporation of America in Vietnam.
+Technologies: ASP.NET MVC5, ASP.NET Web API, Javascript, JQuery, Microsoft SQL.
+FPT Software 
+2011 – 2012
+FPT Software  the leading software outsourcing company in Vietnam with 7000+ engineers. The 
+company is certified with CMMI level 5, ISO 9001:2008 and ISO 27001:2005.
+Front-end Developer
+Completed specific tasks to fulfill customers’ requirements for web applications.
+Responsibilities:
+Program features for news, entertainment web applications.
+Receive Photoshop designs from design team and create templates of HTML and CSS.
+Create Back-End Management system for administration.
+AWARDS
+Conoco Phillips Scholarship (2009 and 2010)
+Society of Petroleum Engineers (SPE) awards and scholarship (2008)
+1st Place in Scientific Researching Competition (2010)
+Excellent Student Award (2011)
+Good Student Awards (2007 and 2009)
+EDUCATION
+Hanoi University of Mining and Geology – The degree of Engineer of  Information Technology in
+Petroleum Engineering and Oil Rig Platforms.
+FPT Software short-term training for Fresher
+iMicrosoft ASP.NET MVC5 training course
+Nguyen Duy Khanh
+Page 4
+Episerver Bootcamp course

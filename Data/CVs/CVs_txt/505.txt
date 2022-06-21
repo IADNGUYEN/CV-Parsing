@@ -1,0 +1,74 @@
+TRẦN XUÂN VINH
+Fresher Deverloper
+ 21/03/1997
+ Male
+ 0352564113
+ vinhit213@gmail.com
+ Hồ Chí Minh ,Việt Nam
+OBJECTIVE
+I have background knowledge of
+object-oriented programming,
+mobile programming, c #
+application programming. I want to
+use my knowledge to work for your
+company. I will improve my level to
+get the job done better.
+I hope to be accepted into your
+company.
+SKILLS
+Self-study
+Team work
+Job management
+Use Linux
+Android with java
+C#
+Php
+Python
+SAI GON TECHNOLOGY UNIVERSITY
+09/2015  09/2019
+WEBSITE SELLING BOOKS WITH ASP.NET MVC
+10/2018  1/2019
+COFFEE SHOP MANAGERMENT (WINFORM C#)
+ANDROID CHAT APP WITH FIREBASE
+3/2019  4/2019
+OTHER
+
+EDUCATION
+Major: Information Technology  Programming Android and Java Applycation  Programming Web Applycation with Php,ASP.NET
+
+WORK EXPERIENCE
+Person: 2
+Main responsibilities:  Survey and analysis of functions for Website  Design Datatabase  Design front-end using html,css  Management page admin for website ( insert,update,delete,search)  Implement functionalitys for website : show products, search, login, register,
+management shopping cart,.... Implement pattern MVC
+link: https://gitlab.com/TranVinh2103/web-book-sales
+Person: 1
+Main responsibilities:  N_layer architecture  Design pattern singleton  Database using Sql Server : storeproceduce, trigger,view,...  Login, booking food, payment, switch table, managerment
+account,food,category,bill,....
+link: https://gitlab.com/TranVinh2103/coffeeshop
+Person: 1
+Main responsibilities:- Design UI  Implement functionalitys : Register, Login with google,..., Chat with other user, Post
+status, Edit profile, Notification, ...  Using Fragment,RecyclerView, FirebaseAuth,FirebaseDatabase, FirebaseStorage,
+Firebase Cloud Message,..... 
+Link :  https://gitlab.com/TranVinh2103/app
+Person: 1 Tool crawl data from website using python selenium
+link: https://gitlab.com/TranVinh2103/crawler-data-from-website-with-selenium-python Have knowledge of ETL using Talend,Report with JasperReport and deployment on
+JasperSever  Research Hadoop FrameWork. Link other project with php, c# winform....
+Git
+INTERESTS
+Soccer
+Music
+Tennis
+Swimming
+STUDENT STU
+FULL-MOON FESTIVAL FOR CHILDREN
+Good students for 3 consecutive years
+2015-2019
+Link transcript : https://photos.google.com/photo/AF1QipPxuO-
+K3YWi0vFJv8CaMmjbq_6wdQBFouOyG5Lw
+link:  https://gitlab.com/TranVinh2103/oop-applycation
+
+ACTIVITIES
+Student STU join hands to build new rural areas  Visit and give gifts to lonely old people  Clean the route  Visit and give gift for children in Long An province
+
+HONORS & AWARDS
+© topcv.vn

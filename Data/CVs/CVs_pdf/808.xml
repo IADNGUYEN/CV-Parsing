@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="41" family="ABCDEE+Century" color="#252525"/>
+	<fontspec id="1" size="16" family="ABCDEE+Calibri" color="#585858"/>
+	<fontspec id="2" size="16" family="ABCDEE+Calibri" color="#036081"/>
+	<fontspec id="3" size="16" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="4" size="27" family="ABCDEE+Century" color="#252525"/>
+	<fontspec id="5" size="18" family="Symbol" color="#007eab"/>
+	<fontspec id="6" size="18" family="Arial" color="#007eab"/>
+	<fontspec id="7" size="16" family="Symbol" color="#585858"/>
+	<fontspec id="8" size="16" family="Arial" color="#585858"/>
+	<fontspec id="9" size="23" family="ABCDEE+Century" color="#007eab"/>
+	<fontspec id="10" size="23" family="ABCDEE+Century" color="#585858"/>
+<text top="64" left="108" width="372" height="49" font="0">Luan Nguyen Anh </text>
+<text top="119" left="108" width="80" height="17" font="1">12/11/1997 </text>
+<text top="138" left="108" width="118" height="17" font="1">Ho Chi Minh City </text>
+<text top="158" left="108" width="98" height="17" font="1">+84996704902 </text>
+<text top="179" left="108" width="160" height="17" font="2"><a href="mailto:t14.luanna@gmail.com">t14.luanna@gmail.com</a></text>
+<text top="179" left="268" width="9" height="17" font="1">   </text>
+<text top="138" left="783" width="4" height="17" font="1"> </text>
+<text top="158" left="783" width="4" height="17" font="1"> </text>
+<text top="179" left="783" width="4" height="17" font="1"> </text>
+<text top="232" left="108" width="675" height="17" font="3">Learning and Applying Data Structures and Algorithms with +6 years oneself. Advance knowledge in </text>
+<text top="253" left="108" width="568" height="17" font="3">Maths.  Easy to learn new things and a strong desire to work with machine learning. </text>
+<text top="253" left="677" width="4" height="17" font="1"> </text>
+<text top="311" left="108" width="348" height="32" font="4">Summary of Qualifications </text>
+<text top="352" left="108" width="8" height="22" font="5"></text>
+<text top="358" left="116" width="5" height="17" font="6"> </text>
+<text top="358" left="135" width="318" height="17" font="1">Knowledge of Data , Spatial Data Structure and </text>
+<text top="377" left="135" width="328" height="17" font="1">Algorithm ( Sort, Shortest Path and Regression ). </text>
+<text top="395" left="108" width="8" height="22" font="5"></text>
+<text top="400" left="116" width="5" height="17" font="6"> </text>
+<text top="401" left="135" width="324" height="17" font="1">Knowledge of Machine Learning Fundamentals  </text>
+<text top="420" left="135" width="124" height="17" font="1">( no experience ). </text>
+<text top="438" left="108" width="8" height="22" font="5"></text>
+<text top="443" left="116" width="5" height="17" font="6"> </text>
+<text top="443" left="135" width="305" height="17" font="1">Knowledge of Database ( using and database </text>
+<text top="463" left="135" width="107" height="17" font="1">architectures ). </text>
+<text top="352" left="487" width="8" height="22" font="5"></text>
+<text top="358" left="494" width="5" height="17" font="6"> </text>
+<text top="358" left="514" width="290" height="17" font="1">Having experience in Video Chat, Message </text>
+<text top="377" left="514" width="100" height="17" font="1">Chat projects. </text>
+<text top="395" left="487" width="8" height="22" font="5"></text>
+<text top="400" left="494" width="5" height="17" font="6"> </text>
+<text top="401" left="514" width="281" height="17" font="1">Having experience in Front-end and Back-</text>
+<text top="420" left="514" width="109" height="17" font="1">end developer. </text>
+<text top="522" left="108" width="82" height="32" font="4">Skills </text>
+<text top="564" left="108" width="8" height="22" font="5"></text>
+<text top="569" left="116" width="5" height="17" font="6"> </text>
+<text top="570" left="135" width="71" height="17" font="1">Out going </text>
+<text top="587" left="108" width="8" height="22" font="5"></text>
+<text top="592" left="116" width="5" height="17" font="6"> </text>
+<text top="592" left="135" width="142" height="17" font="1">Team Communicate </text>
+<text top="609" left="108" width="8" height="22" font="5"></text>
+<text top="614" left="116" width="5" height="17" font="6"> </text>
+<text top="615" left="135" width="98" height="17" font="1">Hard-working </text>
+<text top="564" left="487" width="8" height="22" font="5"></text>
+<text top="569" left="494" width="5" height="17" font="6"> </text>
+<text top="570" left="514" width="106" height="17" font="1">Self-motivated </text>
+<text top="587" left="487" width="8" height="22" font="5"></text>
+<text top="592" left="494" width="5" height="17" font="6"> </text>
+<text top="592" left="514" width="100" height="17" font="1">Self-educated </text>
+<text top="673" left="108" width="298" height="32" font="4">Technical Proficiencies </text>
+<text top="713" left="108" width="8" height="21" font="7"></text>
+<text top="718" left="116" width="5" height="16" font="8"> </text>
+<text top="717" left="135" width="172" height="17" font="1">Programming Languages </text>
+<text top="717" left="324" width="321" height="17" font="1"> Pascal, C, Java, C#, HTML, CSS, Javascript, PHP. </text>
+<text top="734" left="108" width="8" height="21" font="7"></text>
+<text top="739" left="116" width="5" height="16" font="8"> </text>
+<text top="738" left="135" width="89" height="17" font="1">Frameworks </text>
+<text top="738" left="270" width="4" height="17" font="1"> </text>
+<text top="738" left="324" width="401" height="17" font="1"> ReactJs, VueJs, NodeJs, SailsJs, Java Swing, .NET , ASP.NET. </text>
+<text top="756" left="108" width="8" height="21" font="7"></text>
+<text top="760" left="116" width="5" height="16" font="8"> </text>
+<text top="760" left="135" width="85" height="17" font="1">Databases   </text>
+<text top="760" left="270" width="4" height="17" font="1"> </text>
+<text top="760" left="324" width="290" height="17" font="1"> MySQL, MS SQL Server, MongoDB, Neo4j. </text>
+<text top="777" left="108" width="8" height="21" font="7"></text>
+<text top="782" left="116" width="5" height="16" font="8"> </text>
+<text top="781" left="135" width="49" height="17" font="1">Server </text>
+<text top="781" left="216" width="4" height="17" font="1"> </text>
+<text top="781" left="270" width="4" height="17" font="1"> </text>
+<text top="781" left="324" width="118" height="17" font="1"> MS Azure, AWS. </text>
+<text top="839" left="108" width="151" height="32" font="4">Experience </text>
+<text top="883" left="108" width="137" height="17" font="1">08/2017  – PRESENT </text>
+<text top="900" left="108" width="231" height="28" font="9">Student Researcher </text>
+<text top="929" left="108" width="176" height="28" font="10">FPT University</text>
+<text top="929" left="285" width="7" height="28" font="9"> </text>
+<text top="964" left="108" width="692" height="17" font="1">Develop an idea for Toursim Service. I have responsibility in performance data managing and speed up </text>
+<text top="984" left="108" width="692" height="17" font="1">searching location in GIS. ( SQL and 4 types of NoSQL Architecture , Spatial Data Structures  - Tree Data </text>
+<text top="1005" left="108" width="171" height="17" font="1">Structures researching ). </text>
+<text top="1044" left="108" width="507" height="17" font="1">Content ver 1 in FPT UNIVERSITY STUDENT RESEARCH CONFERENCE (3RD) : </text>
+<text top="1065" left="108" width="617" height="17" font="2"><a href="https://drive.google.com/file/d/1zo7kBKLDvOkPOTtKUaLKkzsBMJl6PRE9/view?usp=sharing">https://drive.google.com/file/d/1zo7kBKLDvOkPOTtKUaLKkzsBMJl6PRE9/view?usp=sharing</a></text>
+<text top="1065" left="725" width="61" height="17" font="1"> (Page 4) </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="11" size="16" family="ABCDEE+Calibri,Bold" color="#585858"/>
+<text top="1117" left="108" width="12" height="17" font="1">2 </text>
+<text top="70" left="108" width="130" height="17" font="1">12/2017  – 04/2018 </text>
+<text top="87" left="108" width="525" height="28" font="9">Front-end and Back-end Developer Internship </text>
+<text top="116" left="108" width="172" height="28" font="10">Splus Software</text>
+<text top="116" left="280" width="7" height="28" font="9"> </text>
+<text top="151" left="108" width="679" height="17" font="1">Working with frameworks: ReactJs, VueJs and SailsJs in a Video Chat Project. Having responsibility in </text>
+<text top="172" left="108" width="426" height="17" font="1">Message Chat Project and Screen Record App with team size 1. </text>
+<text top="230" left="108" width="138" height="32" font="4">Education </text>
+<text top="274" left="108" width="129" height="17" font="1">9/2015 – PRESENT </text>
+<text top="292" left="108" width="231" height="28" font="9">Software Engineer / </text>
+<text top="292" left="337" width="176" height="28" font="10">FPT University</text>
+<text top="292" left="513" width="7" height="28" font="9"> </text>
+<text top="327" left="108" width="264" height="17" font="1">Data Structures and Algorithms GPA: 9 </text>
+<text top="366" left="108" width="114" height="17" font="1">9/2012 – 5/2015 </text>
+<text top="383" left="108" width="111" height="28" font="9">Student / </text>
+<text top="383" left="217" width="133" height="28" font="10">High school</text>
+<text top="383" left="350" width="7" height="28" font="9"> </text>
+<text top="419" left="108" width="186" height="17" font="1">Informatics gifted student. </text>
+<text top="459" left="108" width="86" height="17" font="11"><b>Silver Medal</b></text>
+<text top="459" left="195" width="267" height="17" font="1"> Olympic 30/4 Ho Chi Minh City 2014 in </text>
+<text top="459" left="461" width="87" height="17" font="11"><b>Informatics. </b></text>
+<text top="499" left="108" width="96" height="17" font="11"><b>Bronze Medal</b></text>
+<text top="499" left="205" width="267" height="17" font="1"> Olympic 30/4 Ho Chi Minh City 2013  in </text>
+<text top="499" left="471" width="87" height="17" font="11"><b>Informatics. </b></text>
+<text top="537" left="108" width="114" height="17" font="1">9/2012 – 5/2012 </text>
+<text top="554" left="108" width="111" height="28" font="9">Student / </text>
+<text top="554" left="217" width="213" height="28" font="10">Junior High school</text>
+<text top="554" left="430" width="7" height="28" font="9"> </text>
+<text top="590" left="108" width="265" height="17" font="1">Informatics and Maths  gifted student. </text>
+<text top="640" left="108" width="87" height="17" font="11"><b>Second Prize</b></text>
+<text top="640" left="196" width="422" height="17" font="1"> in City Level Contest for Secondary School Students in 2012 in </text>
+<text top="640" left="616" width="79" height="17" font="11"><b>Informatics</b></text>
+<text top="626" left="695" width="8" height="32" font="4">.</text>
+<text top="640" left="704" width="4" height="17" font="1"> </text>
+<text top="682" left="108" width="4" height="17" font="1"> </text>
+</page>
+</pdf2xml>

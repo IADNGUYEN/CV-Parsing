@@ -1,0 +1,117 @@
+Nguyễn Thành An
+Nguyễn Thành An
+Data Scientist | Nam | Độc thân | 28/11/1990
+Năm kinh ngiệm
+4 năm
+4 năm
+Công ty gần đây nhất
+FT EL
+FT EL với vị trí Data Scientist
+Bằng cấp cao nhất
+T iến sĩ
+T iến sĩ
+Trình độ ngoại ngữ
+English
+English  Cao cấp
+Địa chỉ email
+an.t hanh.nguyen.vn@gmail.com
+an.t hanh.nguyen.vn@gmail.com
+Điện thoại
+0123 833 6134
+0123 833 6134
+Nơi làm việc mong
+muốn
+Hồ Chí Minh
+Ngành nghề/Chức
+năng mong muốn
+IT  Phần mềm | Công nghệ cao
+Cấp bậc mong muốn
+Nhân viên
+Mức lương mong
+muốn (USD)
+1
+Phúc lợi mong muốn
+Đào tạo | Thư viện | Hoạt động nhóm
+THÔNG TIN CHUNG
+Had 3+ years work on other various fields: Machine Learning, Big
+Data, Web-app.
+Interested in technology review, science fiction
+KỸ NĂNG
+Big Data
+Machine Learning
+Artificial Intelligence
+Web App
+Data Scientist
+KINH NGHIỆM LÀM VIỆC
+Tháng 5/2016  Tháng 4/2017
+Dat a Sc ient ist
+Dat a Sc ient ist
+FTEL
+(Porject 1) Develop Machine Learning system to predict whether
+Internet users going topay the services next month. Participate the
+project since the beginning,cleaning data, extracting features,
+building datasets, training model, visualizingdata. Data source are
+diverse from numeric, text, phone call collected fromover 2 million
+users. The project is finished.
+Use Python, Anaconda, Keras, Hadoop.
+(Project 2) Continue R&D in second Machine Learning project in
+Cyber-Security sinceDecember 2016. The project aim to predict if
+devices like smartphone, laptopare infected by malwares, viruses,...
+and forecast malicious activities likeDDOS attacks. Data come from
+Internet traffic, website/domain that devicesaccessed. Major role
+focus on researching Machine Learning approaches forCyber-
+Security, first prototype tested on one day data using graph-
+computingpowered by Graphlab to discover malicious domains.
+Investigate graph computation, graph database and distributed
+computationwith Graphlab, Neo4j and Apache Spark GraphX
+correspondingly.
+Tháng 2/2015  Tháng 2/2016
+Dat a Analyst
+Dat a Analyst
+NCTU
+Study graduate program at NCTU as Master student in first
+semester thentransfer to PhD program under Direct Admission
+Program in second semester.Meanwhile, participate Daya Bay  a
+Data Analysis project founded in China. Experiencing distributed
+computation on super-computer NERSC forprocessing big data at
+order of Terabytes collected by underground sensors, detectors.
+Use C++ backed by ROOT framework.
+Made a self-study on Deep Learning (by Coursera co-founder
+Andrew Ng) atthis time. Dropout to pursue work in Machine
+Learning/Artificial Intelligence.
+Tháng 9/2014  Tháng 12/2014
+Sof t ware Engineer
+Sof t ware Engineer
+TMA Solutions
+Develop and maintain a web application for financial management.
+The appmanage information, account and profit for shareholders of
+an investment fund.Outsourcing for GBST.com, participate both on
+Back-end services andFront-end designing with major role involve
+develop new features, fix bugs,maintainance.
+Use Java Spring in Back-end and Goole Web Tookit , JQuery in
+Front-end
+Tháng 4/2013  Tháng 5/2014
+Researc her
+Researc her
+DFM Engineering
+Develop scientific software in Aero-dynamics for simulating and
+predicting thebehaviour of air-flow around objects like car, airplane
+wing, rocket. Majorrole was to read papers, optimize code
+performance, also collaborate withengineers to build in-house tool
+for processing 3D objects.
+Use Fortran as main language, multi-core MPI for speeding up
+andMathematica for mathematical formula analytics.
+TRÌNH ĐỘ HỌC VẤN
+Tháng 2/2015  Tháng 2/2016
+T heoret ic al Physic s
+T heoret ic al Physic s
+Tiến sĩ  National Chiao Tung University
+Drop out of PhD program to pursue work on Artificial
+Intelligence/Data Science/Machine Learning
+Tháng 9/2008  Tháng 9/2012
+T heoret ic al Physic s
+T heoret ic al Physic s
+Cử nhân  Ho Chi Minh City University of Science
+Bachelor of Science.
+Honor program in Theoretical Physics.
+GPA: 7.98/10. GRE Subject: 850/990

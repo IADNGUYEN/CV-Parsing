@@ -1,0 +1,119 @@
+Page 1 
+Jeremiah Fadugba  
+Data Scientist/ AI developer 
+jerryfadugba@gmail.com 
++841634528447 
+Summary 
+A determined and ambitious person with the strength of active learning and the ability to adapt quickly to a new 
+environment who has the strength to achieve a lot when self-motivated and inspired. I speak 2 programming 
+languages and proficiently speak 1 human language. My main interest lies in Artificial Intelligence, Machine 
+Learning, Natural Language Processing, Natural Language Understanding, Fuzzy (Logic, Clustering).
+Top Skills 
+Python, MATLAB, Text Mining, Machine Learning, Research. 
+Soft Skills 
+Teamwork, Communication, Organization, Presentation, Listening, Leadership 
+Research Done. 
+Big data clustering with the use of the random projection features reduction and collaborative Fuzzy C-
+Means 
+Research on big data is receiving the attention of many scientists. There are many solutions to common 
+clustering problems, but big data clustering are beginning interested. In this paper, we proposed solution 
+for big data clustering by reducing the features through a novel method in dimensionality reduction based 
+on Johnson Lindenstrauss lemma and dividing the data into small sets then clustering locally and finally 
+performing collaborative clustering (BDC-RPFR&CFCM). The experiment show that this solution give the 
+better performance. 
+Edit publication Dimensionality Reduction Base d Fuzzy Ense mble Clustering For High-Dimensional Data 
+Dimensionality Reduction Based Fuzzy Ensemble Clustering For High-Dimensional Data 
+The ever increasing amount of data in this digital age, termed big data, calls for novel methods in  
+unsupervised learning so as to combat the high dimensionality of most real world datasets and  
+also provide a way of getting good clustering solution. This work provides a novel approach to  
+dimensionality reduction using a revised approach of random projection and thereafter deviating  
+from the commonly used clustering algorithm, we provide a useful way of ensemble learning on  
+clustering algorithms. 
+Edit publication Application of Game Theory in A dvertisement 
+Application of Game Theory in Advertisement 
+As every company or organization is profit oriented, with similar companies as a competitor. Application 
+of Game theory in Advertisement highlights ways you can use a mathematical concept called Game 
+Theory, to stay ahead of the game in advertisement using Tisos Chemical Industry as a case study. 
+Page 2 
+Experience 
+AI Developer  
+Nal Vietnam Jsc,  Duy Tan, Hanoi, Vietnam 
+August 2017  Present 
+Deep Learning based Object detection. (Product) 
+Facial Recognition using deep learning. (Product) 
+Using Generative Adversarial Networks for generating images with few data. (Research) 
+Horizontal (Industry specific) ChatBot based on deep learning. (Research) 
+IOS application for detecting menu (Product).  
+Optical character Recognition. (Japanese characters). (Research and Product). 
+Graduate Research Intern (Remote) 
+FPT Technology Research Institute, Duy Tan, 
+Hanoi, Vietnam 
+April 2017 – August 2017 
+Research related to Text mining. 
+Working on Text Auto Summarization 
+Building a Chabot. And many more  
+IT Instructor  
+SEAM Center, Keangnam Building, Hanoi, Vietnam 
+August 2016  Present 
+Teaching teenagers and young kids in learning how to: 
+**Code in C language 
+**Making 3D designs 
+**Use Scratch to build apps, games and learning how to code. 
+Data Scientist (Intern)  
+Metrixa  Data Driven Digital Marketing, Hanoi. Vietnam 
+April 2017  June 2017 (3 months)  
+Projects: 
+Cohort Analysis: Understanding users that shares the same peculiar characteristics. 
+Basket Analysis: Knowledge discovery on how the shopping behavior of customers. 
+Data: 
+Dataset relating to online advertisement and digital marketing. 
+Android Developer   
+SEA-Solutions Software Company, Hanoi, Vietnam. 
+December 2015  August 2016 (8 months) 
+Developing Tried, Tested and Trusted Software Applications on Android platform. 
+Technical assistance  
+Adipat Consult, Ibadan, Nigeria 
+June 2013  December 2013 (6 months) 
+Preferring solutions to software issues. 
+Supporting technical and engineering personnel with project support duties. 
+Page 3 
+Compiling technical reports. 
+Ensuring that all technical operations of the company run smoothly. 
+Assistance to the chief consultant engineer. 
+Production Assistant  
+TISOS Chemicals, Ibadan, Nigeria. 
+August 2009  December 2010 (1 year 4 months) 
+Maintaining and servicing all production equipment’s, 
+Aiming at delivering products to customers at the right time and keeping records of daily productions. 
+Education 
+FPT University 
+Hanoi, Vietnam 
+Master’s Degree, Data Science, 2015 – 2017 
+University of Ibadan  
+Ibadan, Nigeria. 
+Bachelor’s Degree, Mathematics, 2011  2015 
+Activities and Societies: Independent Mathematics Student Electoral Committee (IMSEC) 
+Projects Done 
+Determine the theft and burglary crime rate per district in Philadelphia over the past 10 years. 
+Implementing data mart, for the ultimate purpose of visualization using raw data that has undergone rigorous data 
+cleaning to:  
+Determine whether Philadelphia has gotten safer in the last decade 
+Conclude on how secure Philadelphia is for siting a business warehouse. 
+Discern the likelihood of losses incurable as a result of burglary and theft. 
+Estimate likely premium billable for relevant insurance policies. 
+Sequence Tagging With Hidden Markov Model 
+Sequence tagging is a fundamental problem in natural language processing, which 
+is a core component of any text mining system. 
+There are numerous machine learning models for solving sequence tagging 
+problem, including Hidden Markov Models (HMM), Maximum Entropy Markov 
+Models (MEMM), or Conditional Random Fields (CRF). 
+In this project, we implemented a second-order HMM to tag a given English sentence with its parts- of-speech which is 
+trained and tested on the Brown corpus. 
+Biological Sequence Analysis 
+A project to determine if a biological sequence is a gene or not.  
+Given a splice-junction-gene sequence, we implemented the Hidden Markov Model (precisely the Forward Algorithm) 
+to determine whether a 60 character sequence ( A, C, G, T) is a gene or not.  
+Text Summarization 
+This project takes was developed to summarize all news article in a particular news website. It only supports English 
+Language. 
+Page 4 

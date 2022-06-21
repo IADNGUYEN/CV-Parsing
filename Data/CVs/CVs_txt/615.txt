@@ -1,0 +1,100 @@
+Curriculum Vitae 
+HOANG XUAN DAT 
+Citizenship: Vietnamese 
+Date of birth: 21 September 1991 
+Marital status: Single 
+Contact 
+Mobile: +84 984301402 
+Email: xdat.hoang@gmail.com 
+Skype: xdat.hoang 
+Address 
+Duc Thang ward – Phan Thiet city – Binh Thuan province – VIETNAM 
+Profile 
+Summary 
+"Your attitude, not your aptitude, will determine your altitude." 
+To me, the most important thing is the attitude. I always work with the highest attitude. 
+We work hard, smart to overcome any obstacle even if it's a totally different way than 
+usual. Together! 
+Character 
+Enthusiastic, open minded, caring, resourceful and carefully at work 
+Current position 
+Java team leader 
+Education 
+2009  2013 
+Bachelor of Science 
+Ho Chi Minh University of Science, HCMC 
+Major: Software Engineering 
+Graduation year: 2013 
+2006  2009 
+High school diploma 
+Phan Boi Chau High School, Binh Thuan province 
+Experience 
+Jan 2014  present 
+Company: Sutrix Media 
+Position: Java team leader 
+July 2013  Jan 2014 
+Company: Sutrix Media 
+Position: Java developer 
+Nov 2011  July 2013 
+Company: Green Sun JSC 
+Position: Java developer 
+June 2012  present 
+Freelance job 
+Develop Android, iOS, web and java applications with my own team 
+Skills & Expertise 
+Good object oriented programming skill and Design Patterns 
+Good knowledge in Java 
+Knowledge in C/C++, C#, ASP.NET 
+Frameworks: Spring MVC, Adobe CQ6, Apache Camel, Apache CXF, Hibernate 
+Database: MS SQL Server, My SQL, SQL Lite, PostgreSQL, MongoDB, Oracle 
+Unit test: JUnit, Mockito, Power Mockito, Clover 
+Platforms: J2EE, Android, J2ME, Windows Mobile, Windows Phone. 
+Others: HTML, CSS, JS, XML, JSON, APIGEE api, Mule ESB, RAML 
+Development tools: IntelliJ, Eclipse, NetBeans, MS Visual Studio 
+Operating system: MS Windows, Linux 
+Software development methodologies: Agile, Scrum, Waterfall, TDD 
+Reading book and document in English 
+Good team working skill, team management. 
+Ability to respond to pressure and meet tight deadlines 
+Taken project 
+Project: Facebook community 
+Project descriptions: web application uses Facebook data 
+Achievements: got experience in Spring, HTML, CSS and JavaScript 
+Project: The Three Pigs 
+Project description: web game uses Javascript Framework – Enchant.js 
+Achievements: got experience in Javascript, SpringMVC 
+Project: Game gate – My page 
+Project description: My Page is a personal page for user to update information, exchange Game 
+Money to USD and choose the game which they want to play 
+Achievements: got experience in Java, JSP, web services, PostgreSQL database, SpringMVC 
+Project: One War 
+Project description: The first game of Game gate 
+Achievements: got experience in Java, JSP, web services, PostgreSQL database, SpringMVC 
+Project : Tower of Zeus 
+Project description: Second game of Game gate 
+Achievements: got experience in Java, JSP, web services, PostgreSQL database, SpringMVC 
+Project : Nissan New Brand Hub 
+Project description: New Brand Hub phrase 1 for Nissan 
+Live: http://www.nissan.co.uk/GB/en/experience-nissan/nissan-live/nissan-team-gb-and-
+paralympicsgb.html 
+Achievements: got experience in CMS, CQ5, Java 
+Project : Nissan New Leaf KM Experience 
+Project description: Promotion page for Nissan Leaf 
+Live: http://www.nissan.co.uk/GB/en/experience-nissan/future-today/nissan-electric.html 
+Achievements: got experience in CMS, CQ5, Java 
+Project : Helios 
+Project description: A big common web system for Nissan, Renault, Infiniti, Dacia, Datsun 
+Introduction: https://www.youtube.com/watch?v=ewq0yKDvF6k 
+Live: https://www.renault.co.uk/  |   https://www.renault.co.in/ 
+Achievements: got experience in Agile, Java, J2EE, CQ6, Apache Camel, Apache CXF, MongoDB, 
+Mule ESB, APIGEE api, web services … 
+Extra activities 
+Attend QT development workshop by Nokia. 
+Supporting for Job Fair 2012 and 2013 at University of Science and University of Technical 
+Education. 
+Blood donation. 
+Languages 
+Vietnamese(native) 
+English (intermediate) 
+References 
+References available upon request 

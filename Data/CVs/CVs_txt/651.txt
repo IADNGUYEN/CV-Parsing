@@ -1,0 +1,114 @@
+SƠ YẾU LÝ LỊCH 
+THÔNG TIN CÁ NHÂN 
+Họ và tên: PHẠM THỊ THẮM 
+Nữ 
+Ngày sinh: 24/11/1994 
+Địa chỉ: 27/7 Phạm Hùng, Phường 9, Quận 8, Thành Phố HCM 
+Điện thoại: 01653110487 
+Email: phamthitham94@gmail.com 
+Hôn nhân: Độc thân 
+TRÌNH ĐỘ HỌC VẤN 
+Trường 
+Khoa 
+Sinh viên 
+Chuyên ngành 
+Đại Học Khoa Học Tự Nhiên 
+Toán – Tin Học 
+Sắp tốt nghiệp 
+Xác suất thống kê 
+TRÌNH ĐỘ NGOẠI NGỮ 
+1_bắt đầu 
+5_thành thạo 
+Tiếng Anh 
+Nghe 
+Nói 
+Đọc 
+Viết 
+2 
+2 
+3 
+2 
+KINH NGHIỆM 
+Vị Trí 
+Nơi Làm Việc 
+Thời Gian 
+Công Việc 
+Thực tập 
+sinh Phân 
+Tích Dữ 
+Liệu 
+Phòng Chấm Điểm Tín 
+Dụng tại HDBank 
+3 tháng 
+Học mô hình hồi quy 
+logistic, quy trình cấp tín 
+dụng, hệ thống LOAN 
+ORIGINATION 
+Associate 
+Data 
+Engineer 
+Team Platform 
+6 tháng 
+Học Python, xây dựng model cho 
+Optimal Real-Time for Display 
+Advertising 
+KỸ NĂNG 
+Kỹ năng 
+Thành thạo 
+Tìm hiểu 
+Ngôn ngữ lập trình 
+C/C++ , VB, Python 
+VBA, Java, Prolog 
+Phần mềm thống kê 
+R, Eview 
+SPSS 
+Khác 
+Matlab, Office, Visual Basic 
+My SQL, No SQL, 
+MongoDB 
+Phương Pháp lập trình 
+Oop 
+Các kỹ năng khác  
+Tự học và nghiên cứu.  
+Có kỹ năng giao tiếp, trình bàytốt.  
+Tư duy logic giải quyết vấn đề.  
+Dễ dàng thích nghi với môi trường mới  
+Biết tổ chức sắp xếp công việc, có khả năng điều 
+hành và làm việc theo nhóm 
+CÁC ĐỀ TÀI ĐÃ THAM GIA 
+Tên đề tài: Qúa Trình Poisson Liên Tục 
+Môn: Lý Thuyết Xác Suất Cơ Bản 
+Quy mô đề tài (số người tham gia): 2 
+Mô tả đề tài: Tìm hiểu về quá trình poisson liên 
+tục, chứng minh mối liên hệ giữa tính liên tục 
+của phân phối Poisson và phần phối nhị thức, cổ 
+điển Volterra, quá trình Γ. 
+Vai trò trong đề tài: Nhóm trưởng 
+Tên đề tài: Trung Bình Tiền Ở Của Sinh Viên Khoa Toán-Tin Trường Đại Học Khoa 
+Học Tự Nhiên TP.HCM 
+Môn:  Lý Thuyết Và Phương Pháp Chọn Mẫu 
+Quy mô đề tài (số người tham gia): 2 
+Mô tả đề tài: Làm mẫu khảo sát, chọn phương 
+pháp và tiến hành khảo sát. 
+Dùng R để xử lý và phân tích dữ liệu, đưa ra kết 
+quả về trung bình tiền ở của sinh viên khoa Toán-
+Tin trường Đại học Khoa học Tự nhiên Tp.HCM 
+Vai trò trong đề tài: Thành viên 
+Tên đề tài: Xử Lý Một Số Tình Huống Bất Trắc Xảy Ra Trong Cuộc Sống Hàng Ngày 
+Môn: Kỹ Năng Làm Việc Nhóm 
+Quy mô đề tài (số người tham gia): 8 
+Mô tả đề tài: thực hiện phỏng vấn người có kiến 
+thức về tâm lý và xử lý tình huống: thầy Nguyễn 
+Chua và thầy Nguyễn Chí Trung. Đồng thời tham 
+khảo các video xử lý tình huống và các tư thế võ 
+đơn giản để tự vệ. Làm clip, cẩm nang mô tả lại 
+tình huống và cách xử lý 
+Vai trò trong đề tài: Nhóm trưởng 
+HOẠT ĐỘNG NGOẠI KHÓA & XÃ HỘI 
+Từng là Ủy Viên Ban Chấp Hành Liên Chi Hội Khoa Toán-Tinhọc. 
+Tham gia chiến dịch Mùa Hè Xanh năm 2013. 
+Tham gia chiến dịch Tiếp Sức Mùa Thi năm2015. 
+Tham gia chương trình Nhân Rộng Mô Hình Toán Học Cho Người KhiếmThị 
+Trên Toàn Quốc. 
+1 năm làm gia sư và 1 năm làm phục vụ tại nhà hàng. 
+Khi học cấp 3, là thành viên của đội tuyển điền kinh của trường. 

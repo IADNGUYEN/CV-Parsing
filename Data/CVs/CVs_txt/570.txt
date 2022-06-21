@@ -1,0 +1,183 @@
+Lê Đình Tú
+Vietnam-15/05/1996
+ BORN
+Male
+ GENDER
+tuldse62140@fpt.edu.vn
+ MAIL
+dinhtul43@gmail.com
+ MAIL2
+01663989174
+ PHONE
+69 Đường 8, Phường Trường Thọ Quận Thủ Đức
+Thành Phố Hồ Chí Minh
+ Address 
+ LANGUAGES (ILR Scale)
+  EDUCATION
+  CERTIFICATIONS AND AWARDS
+  HOBBIES AND INTERESTS
+Football
+Football ability
+ ABOUT ME
+Japanese
+Level: 1
+English
+Level: 3
+ 09/2002- 05/2007: Trường Tiểu Học Võ Thị Sáu
+37 Hoàng Hoa Thám, Phường Tây Sơn, An Khê,
+Gia Lai, Vietnam
+ 09/2007- 05/2009: Trường Trung Học Cơ Sở
+Đề Thám
+61 Hoàng Văn Thụ, Phường Tây Sơn, An Khê, Gia
+Lai, Vietnam
+ 09/2009- 05/2011: Trường Trung Học Cơ Sở
+Trương Văn Ngư
+Đường 5, Phường Linh Tây, Quận Thủ Đức,
+Thành Phố Hồ Chí Minh
+ 09/2011- 05/2014: Trường Trung Học Phổ
+Thông Nguyễn Hữu Huân
+11 Đoàn Kết, Phường Bình Thọ, Thủ Đức, Hồ Chí
+Minh
+ :
+I am a energetic and enthusiastic who enjoys challenge and achieving personal goals. I want to work within IT
+because I love working with computers. I want to have as many opportunities to work in dynamic environment
+with new technologies, excellent person to learn new skill, achieve a lots of experience. I am a careful, intelligent,
+laborious programmer with good background in programming languages. I have other qualities to bring to the
+work place such as good team work, organisational skills, efficiency and I am very careful in my work. I want to
+enhance all my skills while working as Interns.
+ PERSONAL SUMMARY
+Java/C# .Net Programmer
+ OBJECTIVE
+ MY TIME LINE
+  PROFESSIONAL SKILLS
+PROFESSIONAL SKILLS
+
+Communication
+Enhanced overtime.
+
+SQL Server
+Basic knowledge.
+
+C#
+Work with UI and Web.
+
+Teamwork
+Can work with any person.
+
+Problem solving
+Enhanced overtime.
+
+Java
+Steady knowledge, work with UI and Web.
+  EMPLOYMENT HISTORY
+EMPLOYMENT HISTORY
+
+  PROFESSIONAL EXPERIENCE
+PROFESSIONAL EXPERIENCE
+
+Management Software
+Company
+Ngô Đăng Hà An
+Description
+Create management software with existed database
+Desktop UI and Web UI
+Team size
+6
+My Position
+Leader
+My responsibility
+Design software architecture
+Design Website UI
+Design Website UI
+Design software function
+Achievement/
+Technologies
+used
+C# .Net
+SQL Server
+
+Create Website UI
+Company
+Lâm Hữu Khánh Phương
+Description
+Design Website UI
+Team size
+5
+My Position
+Member
+My responsibility
+Design website UI
+Achievement/
+Technologies
+used
+HTML, Javascript
+
+Create Software Requirement of UNIAP WEBSITE
+Company
+Lại Đức Hùng
+Description
+Create software requirement of uniap website
+Team size
+1
+My Position
+Leader
+My responsibility
+Write software requirement
+Achievement/
+Technologies
+used
+Word, UML
+
+Create Software Requirement of CMS Website
+Company
+Võ Trọng Tài
+Description
+Create Software Requirement Document of CMS Website
+Team size
+2
+My Position
+Vice-Leader
+My responsibility
+Write Software requirement
+Achievement/
+Technologies
+used
+Word, UML
+
+Chat Application Prototype
+Company
+Lâm Hữu Khánh Phương
+Description
+Create chat application mobile UI
+Team size
+5
+My Position
+Leader/Designer
+My Position
+Leader/Designer
+My responsibility
+Design UI
+Achievement/
+Technologies
+used
+Justinmind Prototyper
+
+Creating Website
+Company
+Thân Thị Ngọc Vân
+Description
+Creat website UI using HTML and Javascript.
+Team size
+1
+My Position
+Leader/Designer/Tester
+My responsibility
+Design website UI and create functions
+Achievement/
+Technologies
+used
+HTML and Javascript
+  ACTIVITIES
+ACTIVITIES
+
+

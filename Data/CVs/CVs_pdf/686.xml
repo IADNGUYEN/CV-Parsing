@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="34" family="Roboto" color="#444444"/>
+	<fontspec id="1" size="16" family="Roboto" color="#777777"/>
+	<fontspec id="2" size="16" family="Roboto" color="#666666"/>
+	<fontspec id="3" size="18" family="Roboto" color="#545454"/>
+	<fontspec id="4" size="16" family="Roboto" color="#666666"/>
+	<fontspec id="5" size="16" family="FontAwesome" color="#666666"/>
+	<fontspec id="6" size="20" family="Roboto" color="#545454"/>
+	<fontspec id="7" size="18" family="Arial" color="#000000"/>
+<text top="248" left="34" width="403" height="41" font="0">VO HONG PHUONG TRAM</text>
+<text top="298" left="189" width="93" height="19" font="1">TESTER / QC</text>
+<text top="644" left="33" width="302" height="19" font="2">- Be able to become a Professional Tester.</text>
+<text top="666" left="33" width="383" height="19" font="2">- About half a year or a year, can learn more about API</text>
+<text top="688" left="33" width="362" height="19" font="2">Test, Cucumber Automation Test and Jmeter Tool.</text>
+<text top="710" left="33" width="381" height="19" font="2">- Have good opportunities to get promotion in my job.</text>
+<text top="731" left="33" width="320" height="19" font="2">- Improve English, can communicate fluently.</text>
+<text top="753" left="33" width="403" height="19" font="2">- Develop my skills with development of company, I want</text>
+<text top="775" left="33" width="115" height="19" font="2">to prove myself.</text>
+<text top="873" left="33" width="220" height="19" font="2">- Ability to write good testcase.</text>
+<text top="917" left="33" width="180" height="19" font="2">- Good analytical thinking</text>
+<text top="961" left="33" width="397" height="19" font="2">- Be able to participate in Product Owner's requirements</text>
+<text top="983" left="33" width="63" height="19" font="2">analysis.</text>
+<text top="1026" left="33" width="398" height="19" font="2">- Using Selenium, Appium to performs simple functional</text>
+<text top="1048" left="33" width="40" height="19" font="2">tests.</text>
+<text top="1092" left="33" width="285" height="19" font="2">- Be working in the Scrum / Agile model.</text>
+<text top="1136" left="33" width="246" height="19" font="2">- Understanding Git, Atlassian Jira.</text>
+<text top="1180" left="33" width="382" height="19" font="2">- Have basic knowledge about php to build wordpress</text>
+<text top="1201" left="33" width="68" height="19" font="2">websites.</text>
+<text top="78" left="461" width="316" height="22" font="3">Sep 2009 - Sep/2015: Ho Chi Minh City</text>
+<text top="101" left="461" width="354" height="22" font="3">International University (under The National</text>
+<text top="124" left="461" width="249" height="22" font="3">University of Ho Chi Minh City)</text>
+<text top="225" left="461" width="155" height="19" font="2">Apr 12, 2016 - Present</text>
+<text top="245" left="461" width="301" height="22" font="3">VNNG Information Technologies Ldt.</text>
+<text top="269" left="461" width="112" height="19" font="2">Position: Tester</text>
+<text top="291" left="461" width="224" height="19" font="2">- Learn about Software Testing.</text>
+<text top="313" left="461" width="231" height="19" font="2">- Learn about Selenium, Appium.</text>
+<text top="335" left="461" width="332" height="19" font="2">- Learn about website building with wordpress.</text>
+<text top="357" left="461" width="300" height="19" font="2">- Learn how to protect website wordpress.</text>
+<text top="401" left="461" width="80" height="19" font="4"><b>PROJECTS</b></text>
+<text top="423" left="461" width="292" height="19" font="4"><b>   - Buying, selling, exchanging products </b></text>
+<text top="445" left="461" width="160" height="19" font="2">        + Write testcases.</text>
+<text top="466" left="461" width="344" height="19" font="2">        + Perform manual tests on web and mobile.</text>
+<text top="488" left="461" width="400" height="19" font="2">        + Detect bugs, report bugs, possibly re-execute bug </text>
+<text top="510" left="461" width="100" height="19" font="2">         with dev.</text>
+<text top="532" left="461" width="359" height="19" font="2">        + List all bugs, evaluate bugs, report to leader.</text>
+<text top="554" left="461" width="406" height="19" font="2">        + Use Selenium, Appium to test for simple functions </text>
+<text top="576" left="461" width="281" height="19" font="2">         such as login, register, search, etc.</text>
+<text top="620" left="461" width="347" height="19" font="4"><b>   - Prototype for data import application on ipad</b></text>
+<text top="642" left="461" width="315" height="19" font="2">        + Read the requirement documentation.</text>
+<text top="663" left="461" width="160" height="19" font="2">        + Write testcases.</text>
+<text top="685" left="461" width="314" height="19" font="2">        + Perform a manual test for the project.</text>
+<text top="707" left="461" width="199" height="19" font="2">        + Report bugs with dev.</text>
+<text top="729" left="461" width="403" height="19" font="2">        + Ensure the quality of prototype before handing       </text>
+<text top="751" left="461" width="188" height="19" font="2">         over to the customer.</text>
+<text top="795" left="461" width="331" height="19" font="4"><b>   - Developing data import application on web</b></text>
+<text top="817" left="461" width="260" height="19" font="2">        + Perform manual tests on web.</text>
+<text top="839" left="461" width="160" height="19" font="2">        + Write testcases.</text>
+<text top="860" left="461" width="407" height="19" font="2">        + Check data synchronization between web and app.</text>
+<text top="882" left="461" width="400" height="19" font="2">        + Detect bugs, report bugs, possibly re-execute bug </text>
+<text top="904" left="461" width="104" height="19" font="2">         with dev. </text>
+<text top="948" left="461" width="399" height="19" font="4"><b>   - Building websites about company introduction by     </b></text>
+<text top="970" left="461" width="96" height="19" font="4"><b>     wordpress</b></text>
+<text top="992" left="461" width="349" height="19" font="2">        + Understand the requirements of customer.</text>
+<text top="1014" left="461" width="330" height="19" font="2">        + Find themes, create layout for websites.</text>
+<text top="1036" left="461" width="401" height="19" font="2">        + Customize the interface according to customer     </text>
+<text top="1057" left="461" width="135" height="19" font="2">         requirements.</text>
+<text top="1079" left="461" width="279" height="19" font="2">        + Implement security for websites.</text>
+<text top="1101" left="461" width="400" height="19" font="2">        + Research and apply plugins to help the websites   </text>
+<text top="1123" left="461" width="95" height="19" font="2">         run fast.</text>
+<text top="1145" left="461" width="319" height="19" font="2">        + Implement SEO for website on google.</text>
+<text top="380" left="52" width="183" height="19" font="2">Date of birth: Jul 18, 1991</text>
+<text top="379" left="33" width="15" height="16" font="5"></text>
+<text top="409" left="52" width="112" height="19" font="2">Gender: Female</text>
+<text top="408" left="33" width="13" height="16" font="5"></text>
+<text top="436" left="33" width="13" height="16" font="5"></text>
+<text top="465" left="33" width="14" height="16" font="5"></text>
+<text top="495" left="52" width="352" height="19" font="2">Address: 12/4B, Lam Thi Ho street, quarter 4, Tan</text>
+<text top="517" left="52" width="329" height="19" font="2">Chanh Hiep ward, District 12, Ho Chi Minh City</text>
+<text top="494" left="34" width="9" height="16" font="5"></text>
+<text top="546" left="52" width="113" height="19" font="2">[protected data]</text>
+<text top="545" left="36" width="6" height="16" font="5"></text>
+<text top="347" left="33" width="246" height="24" font="6">PERSONAL INFORMATION</text>
+<text top="612" left="33" width="107" height="24" font="6">OBJECTIVE</text>
+<text top="841" left="33" width="65" height="24" font="6">SKILLS</text>
+<text top="47" left="461" width="113" height="24" font="6">EDUCATION</text>
+<text top="193" left="461" width="183" height="24" font="6">WORK EXPERIENCE</text>
+<text top="462" left="5" width="5" height="24" font="7"> </text>
+<text top="462" left="59" width="257" height="24" font="7">phuongtram18lucky@gmail.com</text>
+<text top="432" left="57" width="100" height="24" font="7">0907337830</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="8" size="17" family="Roboto" color="#666666"/>
+	<fontspec id="9" size="12" family="ArialMT" color="#999999"/>
+	<fontspec id="10" size="20" family="Roboto" color="#555555"/>
+<text top="44" left="33" width="305" height="19" font="2">- Can read/understand English documents.</text>
+<text top="87" left="33" width="337" height="19" font="2">- Under high pressure when running the project.</text>
+<text top="81" left="461" width="227" height="19" font="2">- PHP Application Development </text>
+<text top="102" left="461" width="151" height="19" font="2">- Wordpress and SEO</text>
+<text top="124" left="461" width="57" height="19" font="2">- TOEIC </text>
+<text top="123" left="518" width="29" height="20" font="8">520</text>
+<text top="222" left="461" width="265" height="19" font="2">- Be careful, hardworking and patient.</text>
+<text top="244" left="461" width="277" height="19" font="2">- Be friendly, enthusiastic and sociable.</text>
+<text top="266" left="461" width="132" height="19" font="2">- Good team spirit.</text>
+<text top="288" left="461" width="275" height="19" font="2">- Be willing to work overtime if needed.</text>
+<text top="1226" left="807" width="60" height="14" font="9">© topcv.vn</text>
+<text top="49" left="461" width="147" height="24" font="10">CERTIFICATION</text>
+<text top="190" left="461" width="151" height="24" font="10">PERSONALITIES</text>
+</page>
+</pdf2xml>

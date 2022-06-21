@@ -1,0 +1,86 @@
+Applicant for:
+AI Engineer (Machine Learning, Python)
+TMA Solutions
+9 June 2019
+Hưng Nguyễn Văn
+hungit.khtn06@gmail.com
+Main interests: Python, JavaScript
+What skills, work projects or achievements make you a strong candidate for this
+position?
+8 years working in the it field with over 01 year training and doing projects in python
+language. I strongly believe that i could meet all your requirement
+Top Jobs for IT People
+"Hiring the wrong person is the most costly mistake you can make."  Brian Tracy
+itviec.com
+08 6681 1397
+itviec@itviec.com
+1 
+NGUYEN VAN HUNG 
+16th May 1988 ∣ Ho Chi Minh, Vietnam ∣ Tel: +84 976 147 471 ∣ Email: hungit.khtn06@gmail.com 
+TECHNICAL SKILLS 
+Language: 
+Python, Apex, Java, JavaScript 
+Database: 
+SQL, SOQL, SOSL, SQLite, PostgreSQL 
+Editor: 
+Force.com IDE, SublimeText, Eclipse, Android Studio 
+EDUCATION & TRAINING 
+Bachelor of Information Technology, Ho Chi Minh City University of Science 
+2010 
+Pymi.vn | https://pymi.vn 
+2019 
+Python programing 
+Salesforce Certified Trailblazer, Salesforce.com Inc 
+2018 
+Adventurer with over 55.000 points 
+Profile Link: https://trailhead.salesforce.com/en/me/hnguyen10 
+PROJECTS 
+Job search website | https://demo-itjobs.herokuapp.com/ 
+Job search website with Django, Jinja2, SQLite, Bootstrap. Data from GitHub API. 
+Source code: https://github.com/Runpls/django_ITjobs 
+Discussion board | https://demo-forums.herokuapp.com/ 
+Forum with Django, Jinja2, Bootstrap, PostgreSQL. 
+Source code: https://github.com/Runpls/django-boards 
+Places searcher  
+Find places around given address with keyword and show them on map. Data from 
+Google Map API. 
+Source code: https://github.com/Runpls/place-searcher 
+EXPERIENCES 
+2018 – present 
+Learn Python and develop programming skills 
+Get training and advice on becoming a Python developer. 
+Explore features of Django in real projects 
+2011 – present  
+IT Networking/System Administrator, Audio Visual Global JSC 
+http://mobitv.net.vn/ 
+Network/System Administrator at South branch of the AVG company.  
+LANGUAGE & SKILLS 
+Language 
+Vietnamese  
+Native 
+English 
+Intermediate  
+Python 
+Library: requests,  beautifulsoup, Flask, Django, jinja2, argparse, logging, JSON, XML … 
+Tool: virtualenv, pip, pep8, flake8, Ipython... 
+Java 
+Have knownledge about OOP, basic design patter ... 
+Can work on multi thread system  
+2 
+Salesforce 
+Apex, Visualforce, Integration, User Interface, Lightning, Database, App Logic ... 
+SCM  
+Git, GitLab, GitHub 
+OS 
+Window server, Ubuntu, MacOs 
+Network/Device Network 
+Cisco Expert (Switch , Core Sw , Router , Firewall ) 
+Acatel Expert (Switch , core Switch) 
+Radius , Load Balacing, Cluster, Storage ... 
+Soft skills 
+Interpersonal skills 
+Time keeping & self-discipline 
+Analyzing and logical problem solving 
+Negotiation, project management, leading and teamwork 
+REFERENCE 
+Available upon request 

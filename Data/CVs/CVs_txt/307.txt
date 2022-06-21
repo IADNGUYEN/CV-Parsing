@@ -1,0 +1,73 @@
+ 
+Resume 
+​Van-Duyet LE 
+​Linh Trung, Thu Duc  Ho Chi Minh City  
+Phone: (+84) 166.2626.009 | Birthday: 06-10-1995  
+​https​://duyet.​net​ | ​me@duyet.net 
+Github: ​https://github.com/​duyetdev 
+As a Full-Stack Developer and Data Engineer  I am passion about building awesome products, also 
+rock in Javascript/Node.js and Machine Learning. 
+Interested in: ​Data Engineering​, ​Machine Learning​ and ​Web Application​. 
+Experience 
+JUNE 2017  PRESENT 
+Senior Developer  ​ ​FPT Software 
+Working in Recommendation System 
+Build Data Pipeline to process big data in AWS. Technology: AWS (S3, EMR, CodePipeline), 
+ElasticSearch, Python, Spark. 
+SEPTEMBER  2016  JUNE 2017 
+Data Engineer  ​ ​John von Neumann Institute  Vietnam National University 
+Main contribution: Team member of two projects: 
+Glandore System (Headhunter Company)  
+○
+Cleaning, building model for Candidate matching. 
+○
+Visualization dashboard: hiring competitiveness, ideal candidates, etc. 
+○
+Technology: D3.js, Angular.js, Python. 
+Blueseed 
+○
+Predict Demographics of users from tracking data (Movie ads network). 
+Technology: Apache Spark (PySpark). 
+OCTOBER 2014  SEPTEMBER 2016 
+Full-stack Developer​ ​ Information System Lab, UIT 
+Main contribution: Working on many projects such as: 
+Self-serve ad platform for marketing, Real-time Bidding. 
+Web Spider, Crawler. 
+Research and Develop websites with Node.js/Javascript. Real-time dashboard with D3.js, 
+Angular.js and Socket.io. 
+Project 
+SEPTEMBER  2016  SEPTEMBER 2017 
+Visualization dashboard: hiring competitiveness, ideal candidates ​- ​Glandore System 
+Business of Headhunter Company: Cleaning, building model for Candidate matching. 
+Visualization dashboard: hiring competitiveness, ideal candidates, … 
+Technology: D3.js, Angular.js, Python. 
+JANUARY  2016  APRIL 2016 
+Opinion Mining in product reviews​ ​ ISLab UIT  
+Crawler product reviews in the Internet. Using SVM as classification.  
+Technology: Scrapy, Scikit-Learn. 
+JULY  2015  NOVEMBER 2015 
+Bgate Network  Self-serve ad platform for marketing​  ​ISLab UIT 
+BDA Real-time bidding System for Advertisers and Publishers. 
+Technology: Node.js, C/C++, Zend Framework. 
+Skills 
+Web Development:​ Javascript, Node.js, Angularjs, Python, SQL/NoSQL. 
+Data Engineer:​ C/C++, Python, R, Cloudera, PySpark, Pandas, Scrapy, Scikit-learn, D3js. 
+Education 
+JUNE  2013  2017 
+University of Information Technology  Vietnam National University, HCMC. 
+JUNE  2010  JUNE 2013 
+Cho Gao Senior High School, Tien Giang​. 
+Awards 
+Third Prize “Entropy 2016” ​-​ John von Neumann Institute (VNU). 
+First competition of Data Science in Vietnam 
+Third Prize “FOSS 2015​” ​ Hanoi University of Business and Technology. 
+Free and open-source software (FOSS) competition. 
+Final round “Creative IT Camp 2013”​ ​ University of Information Technology (VNU). 
+Innovation and Programming hackathon competition. 
+References 
+MEng. ​An DANG ​-​ Tech Lead of Glandore System Project 
+John von Neumann Institute (VNU) | email: ​an.dang@jvn.edu.vn 
+MEng.​ Minh BUI ​-​ Tech Lead of Blueseed Digital Project 
+John von Neumann Institute (VNU) | email: ​minh.bui@jvn.edu.vn 
+MSc. ​Thinh PHAM 
+John von Neumann Institute (VNU) | email: ​thinh.pham@jvn.edu.vn 

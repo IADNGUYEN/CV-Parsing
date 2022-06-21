@@ -1,0 +1,45 @@
+Nguyen Ngoc Thien 
+Phone: 0947 180 695 | Email: thien1806@gmail.com | Location: Ho Chi Minh City 
+EDUCATION 
+International University – Vietnam National University  
+2013  2018 
+Bachelor of Information Technology 
+Grade: GPA (70/100) 
+ACADEMIC PROJECTS 
+International University – Vietnam National University  
+Thesis Project, Title: “GBS-based localization using LoRa technology”  
+1/2017 – 6/2017 
+Build the hardware for gateway, nodes. 
+Build the programs for GPS system. 
+My thesis project is the research project of school 2016 and research paper of FAIR’X conference 2017. 
+WORKING EXPERIENCES 
+Vuon Sang Tao Education Center  
+6/2016  now 
+Co-founder  
+Manage the education quality. 
+Participate in teaching some trial classes. 
+Operate the website and fanpage, run ads on Facebook. 
+Organize training courses for new comers. 
+Coach students to win the 2nd prize at “Robotacon Competition 2016”. 
+TTQ Electronics 
+2/2017  now 
+Co-founder 
+Manage the imports and selling activities. 
+Operate the website and fanpage, run ads on Facebook. 
+Manage financial transactions to increase the revenue.  
+Cooperate with Cao Thang College to organize “Robot maze competition”. 
+INTERNSHIP 
+Innovation Lab – Saigon Hi-tech Park 
+5/2017 – 7/2017 
+Created mobile applications for IoT system. 
+Operated 3D printer and mica cutting machine. 
+CERTIFICATES & AWARDS 
+Certificate of accomplishment mobile programming course (KhoaPham Education) 
+Certificate of IoT Engineer Program (Saigon Institute of Technology) 
+1st award SumoBot IU contest (International University) 
+COMPETENCIES 
+Language: English (fluent in both oral & written), Vietnamese (native)  
+Software Application: Proficient in Microsoft Office, Visual Studio Code, Intel XDK, Arduino IDE, 
+VMware. 
+Programming: Experienced in scripting and writing programs using C/C++, Java, Swift 3.0, C#, Python, 
+MySQL. 

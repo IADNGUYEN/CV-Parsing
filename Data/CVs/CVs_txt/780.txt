@@ -1,0 +1,47 @@
+ 
+Vu Duc Lam (Vu Lam) 
+Web development 
+Phone: +84 1203.533.501 (VN) 
+Email: vuduclam2412@gmail.com 
+Facebook: vuduclam2412  
+OBJECTIVES 
+I always hope to find a job matching with my experience and passion. 
+To obtain an internship job with an available full-time position to contribute to a 
+positive work environment while learning and applying work expectations. 
+Learning new languages and technologies is what I am passionate about. Finally, I 
+would like to have a position in your information technology team in near future. 
+TECHNICAL SKILLS 
+Programming Languages: 
+PHP, JavaScript, Ruby. 
+Frameworks / Platforms: 
+jQuery, Twitter Bootstrap, MVC, Laravel, Ruby on Rails. 
+Database: 
+MS SQL Server, MySQL. 
+Version Control:  
+Git. 
+Software: 
+Platforms: Windows, Linux. 
+Editor: Eclipse, Visual Studio 2008, Visual Studio Code, Sublime Text. 
+Soft skills: 
+Team work. 
+Language: English. 
+EDUCATION 
+Sai Gon Technology University (STU) 
+2013-2018 
+Studying Software Engineering. 
+PROFESSIONAL EXPERIENCE 
+Website clothing store 
+Introduce: Website development clothing store, Laravel Framework. 
+http://www.webshopee.tk/ 
+https://github.com/vuduclam241295/webshopee 
+Website Vietnamese movie share 
+Introduce: Website development use Ruby on Rails Framework. 
+https://phimvnshare.herokuapp.com/ 
+https://github.com/vuduclam241295/phimvnshare 
+STRENGTH 
+Good in data screening, opportunity finding and problem-solving. 
+Dynamic, enthusiasm, enterprising and having a sense of responsibility and good at 
+teamwork. Having inquiring, creative. 
+INTERESTS 
+Music, football, join forums for learning and exchange information, make friends, 
+love to join social activities and community. 

@@ -1,0 +1,66 @@
+CURRICULUM VITAE 
+THE BASIC INFORMATION: 
+Name 
+: Nguyen Dai Phong 
+Date of birth  
+: 12-10-1993 
+Address 
+: 322/17/17 My Dinh 2 – Nam Tu Liem- Ha 
+Noi – Viet Nam 
+Phone number 
+: 0973794518 
+Identification  
+: 036093002259 
+Email  
+: nguyen_dai_phong@outlook.com 
+EDUCATION: 
+Graduate at Ha Noi University of Science and Technology in May, 2018 
+Major:  
+Computer Engineering (CPA: 2.4) 
+EMPLOYMENT AND HISTORY: 
+From January 2016 to May 2017: join a small library of Duc Hau Le who is 
+professor of Water Resources University 
+o Work: Research and development some algorithms link to rank, predict 
+genes cause disease in Bioinformatics 
+From May 2017 up to now: follow Quang Nguyen Hong who is a doctor of Ha 
+Noi University of Science and Technology 
+o Work: Research and advance some algorithms to adhere imagine boundary 
+in computer vision 
+EXPERIMENTS AND KNOWLEDGE:  
+I have one year working experience in using supervised and unsupervised models. 
+For examples: Supporting vector machines (SVM), Linear-regression, Naive-
+Bayes, K-means … 
+In addition, I have completed course deep learning in http://cs231n.stanford.edu/ , 
+so I have a little knowledge as follows: 
+o Neural network model 
+o Convolution neural networks 
+Google net 
+Resnet 
+VGG 
+… 
+o Recurrent neural networks (RNN) 
+o Long Short Term Memory (LSTM)… 
+TAKEN PROJECTS UNIVERSITY: 
+Bioinformatics: “A novel candidate disease genes prioritization method based on the total 
+probability links protein interaction network”. This paper is accepted by FAIR conference 
+in 2016 
+Computer vision & machine learning: “Phương pháp cải tiến giải thuật SLIC tạo các siêu 
+điểm ảnh trong bài toán hỗ trợ dò biên đối tượng trong ảnh”. This paper is accepted by 
+national conference in 2017  
+Deep learning: making a simple Convolution neural networks (CNN) model and using 
+some famous model (Eg: Googlenet, Resnet, VGG…) to train and test the MNIST 
+database (character detection) by using pytorch lib in python of linux 
+QUALIFICATION: 
+Fluent basic C, C++, C#, python (pytorch), matlab 
+Knowledgeable JAVA 
+Fluent Microsoft Office, windows, linux (Ubuntu) 
+I can listen, speak, read, write English quite well 
+PERSONAL FROFILE: 
+A little eccentric, independence. 
+Friendly, Humorous, responsible… 
+TARGET: 
+Work in a friendly environment 
+Find passion, love to stick to long term in work 
+OTHER ACHIEVEMENTS & INTERESTS: 
+Play sports, watch movies, listen to music 
+Play video games: AOE, CS… 

@@ -1,0 +1,56 @@
+LUONG HONG 
+THANG
+TELECOMMUNICATIONS 
+ENGINEER
+Address: 57/4C Mieu Go Xoai, 
+Ward Binh Hung Hoa A, Distrist 
+Binh Tan, Ho Chi Minh City.
+Mobile: +84 359 532 535
+Email: lhthang96@gmail.com
+SUMMARY
+My orientation is focusing 
+on decentralized 
+network,especially on 
+Blockchain.
+Looking forward to having a 
+professional environment 
+for acquiring knowledge 
+and developing in 
+Blockchain technology. 
+SKILLS
+Blockchain basic.
+MySQL.
+Dev C/C++.
+CCNA/CCNP knowledge.
+EXPERIENCE
+CÔNG TY TNHH CÔNG NGHỆ & TRUYỀN THÔNG ZLINK
+Internship
+Ho Chi Minh City, 05/2018 – 09/2018.
+Accomplishments:
+Research Computer network, VoIP network.
+Configure LAN, WAN and VoIP devices for business.
+HCM CITY UNIVERSITY OF TECHNOLOGY
+Thesis
+Ho Chi Minh City, 01/2019.
+Identity Verification Apps based on Blockchain technology.
+Accomplishments:
+Research Blockchain technology.
+Build Blockchain database with Ethereum platform.
+Develop apps on Android platform.
+EDUCATION
+HCM CITY UNIVERSITY OF TECHNOLOGY
+PFIEV Programs, Aug 2014 – May 2019.
+Major: Telecommunication.
+GPA: 7.44
+CERFITICATIONS
+English:           TOEIC 675 Certification.
+French:           DELF B1 Tous Publics
+HCM CITY UNIVERSITY OF TECHNOLOGY
+Project
+Ho Chi Minh City, 01/2018 – 05/2018
+Build database for fabric business.
+Accomplishments:
+Research database, SQL.
+Build database with MySQL Community.
+Develop database management apps based on PHP 
+framework.

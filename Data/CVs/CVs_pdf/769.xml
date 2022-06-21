@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1262" width="893">
+	<fontspec id="0" size="18" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="1" size="18" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="2" size="18" family="TimesNewRomanPS" color="#538dd3"/>
+	<fontspec id="3" size="18" family="ArialMT" color="#000000"/>
+	<fontspec id="4" size="18" family="ArialMT" color="#538dd3"/>
+	<fontspec id="5" size="18" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="6" size="12" family="TimesNewRomanPSMT" color="#000000"/>
+<text top="264" left="844" width="5" height="16" font="0"><b> </b></text>
+<text top="281" left="692" width="5" height="16" font="1"> </text>
+<text top="320" left="54" width="115" height="16" font="2"><b>EDUCATION </b></text>
+<text top="340" left="54" width="5" height="16" font="2"><b> </b></text>
+<text top="361" left="54" width="597" height="16" font="1">Bachelor of Electronics and communications engineering technology (2011-2015) </text>
+<text top="400" left="54" width="481" height="16" font="1">Electronics Department – Hanoi University of Industry, Viet Nam </text>
+<text top="439" left="54" width="295" height="16" font="1">Grade: 3.11/4         -   Thesis score: 9/10 </text>
+<text top="477" left="54" width="544" height="16" font="1">Thesis title: Design the Low Noise Amplifier in 130nm CMOS technology </text>
+<text top="516" left="54" width="210" height="16" font="2"><b>RESEARCH INTERESTS </b></text>
+<text top="537" left="54" width="5" height="16" font="2"><b> </b></text>
+<text top="557" left="96" width="5" height="17" font="3"> </text>
+<text top="557" left="108" width="244" height="16" font="1">Analog and Digital circuit design </text>
+<text top="580" left="96" width="5" height="17" font="3"> </text>
+<text top="581" left="108" width="205" height="16" font="1">RF integrated circuit design </text>
+<text top="604" left="96" width="5" height="17" font="3"> </text>
+<text top="605" left="108" width="184" height="16" font="1">Wireless communication </text>
+<text top="628" left="96" width="5" height="17" font="3"> </text>
+<text top="629" left="108" width="317" height="16" font="1">Amplifier Design, Cmos Design, Oscilator. </text>
+<text top="668" left="54" width="133" height="16" font="2"><b>EXPERIENCES </b></text>
+<text top="689" left="54" width="5" height="16" font="2"><b> </b></text>
+<text top="708" left="96" width="5" height="17" font="4"> </text>
+<text top="709" left="108" width="376" height="16" font="1">Design Count circuit from theory to the real product</text>
+<text top="709" left="484" width="5" height="16" font="2"><b> </b></text>
+<text top="729" left="96" width="5" height="17" font="3"> </text>
+<text top="730" left="108" width="456" height="16" font="1">Design audio Amplifier circuit from theory to the real product. </text>
+<text top="750" left="96" width="5" height="17" font="3"> </text>
+<text top="750" left="108" width="736" height="16" font="1">Have ever stimulated Inverter ( not layout), Different pair ( not layout), Oscilator ( not layout), Low </text>
+<text top="771" left="108" width="211" height="16" font="1">noise amplifier ( not layout). </text>
+<text top="791" left="96" width="5" height="17" font="3"> </text>
+<text top="792" left="108" width="140" height="16" font="1">Graduation project </text>
+<text top="809" left="111" width="8" height="20" font="5"></text>
+<text top="812" left="119" width="5" height="17" font="3"> </text>
+<text top="812" left="138" width="599" height="16" font="1">Understanding the structure and working methods of Low Noise Amplifier circuit  </text>
+<text top="829" left="111" width="8" height="20" font="5"></text>
+<text top="832" left="119" width="5" height="17" font="3"> </text>
+<text top="833" left="138" width="327" height="16" font="1">Design and simulation on Cadence Virtuoso. </text>
+<text top="853" left="96" width="5" height="17" font="3"> </text>
+<text top="854" left="108" width="493" height="16" font="1">In 2017: Work at WINSLAB ( KYUNG HEE university ) in Korea  </text>
+<text top="871" left="111" width="8" height="20" font="5"></text>
+<text top="874" left="119" width="5" height="17" font="3"> </text>
+<text top="874" left="138" width="187" height="16" font="1">Research Neural network </text>
+<text top="891" left="111" width="8" height="20" font="5"></text>
+<text top="895" left="119" width="5" height="17" font="3"> </text>
+<text top="895" left="138" width="485" height="16" font="1">Implement Handwritten digit recognition on FPGA (using verilog) </text>
+<text top="915" left="96" width="5" height="17" font="3"> </text>
+<text top="916" left="108" width="257" height="16" font="1">1/2/2018: Work at ZTE in Da nang </text>
+<text top="933" left="111" width="8" height="20" font="5"></text>
+<text top="936" left="119" width="5" height="17" font="3"> </text>
+<text top="937" left="138" width="239" height="16" font="1">GSM RF Optimization Engineer </text>
+<text top="957" left="54" width="5" height="16" font="1"> </text>
+<text top="978" left="51" width="150" height="16" font="2"><b>CAREER SKILLS </b></text>
+<text top="999" left="51" width="5" height="16" font="2"><b> </b></text>
+<text top="1019" left="96" width="5" height="17" font="3"> </text>
+<text top="1019" left="108" width="417" height="16" font="1">Have programming skills in C language (a few), Verilog. </text>
+<text top="1043" left="96" width="5" height="17" font="3"> </text>
+<text top="1043" left="108" width="667" height="16" font="1">Experience in using  Cisco Packet Tracer, Orcad,Verilog  and CadenceVirtuoso, ModelSim. </text>
+<text top="1067" left="96" width="5" height="17" font="3"> </text>
+<text top="1067" left="108" width="345" height="16" font="1">Computer software : Word, Excel, Power Point </text>
+<text top="1091" left="108" width="5" height="16" font="1"> </text>
+<text top="1115" left="51" width="152" height="16" font="2"><b>CERTIFICATION </b></text>
+<text top="1136" left="51" width="5" height="16" font="2"><b> </b></text>
+<text top="1156" left="54" width="86" height="16" font="1">Toeic : 740 </text>
+<text top="69" left="54" width="186" height="16" font="2"><b>PERSONAL DETAILS </b></text>
+<text top="69" left="316" width="5" height="16" font="1"> </text>
+<text top="100" left="54" width="48" height="16" font="1">Name </text>
+<text top="100" left="316" width="102" height="16" font="1">Le Van Dong </text>
+<text top="132" left="54" width="167" height="16" font="1">Place and date of birth </text>
+<text top="132" left="316" width="97" height="16" font="1">Viet Nam, 26</text>
+<text top="129" left="414" width="9" height="11" font="6">th</text>
+<text top="132" left="423" width="130" height="16" font="1"> November  1992 </text>
+<text top="163" left="54" width="32" height="16" font="1">Sex </text>
+<text top="163" left="316" width="41" height="16" font="1">Male </text>
+<text top="194" left="54" width="112" height="16" font="1">Marital status   </text>
+<text top="194" left="316" width="51" height="16" font="1">Single </text>
+<text top="226" left="54" width="140" height="16" font="1">Telephone number </text>
+<text top="226" left="316" width="94" height="16" font="1">0967421223 </text>
+<text top="257" left="54" width="48" height="16" font="1">Email </text>
+<text top="257" left="316" width="269" height="16" font="1">Levandongnd26111992@gmail.com </text>
+</page>
+</pdf2xml>

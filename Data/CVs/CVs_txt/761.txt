@@ -1,0 +1,119 @@
+ 
+Nguyễn Toàn Nguyên 
+Junior Developer 
+Contact 
+Gender 
+Male 
+Birth date 
+03/05/1996 
+Address 
+33, 44 Street, 14 Ward, 
+Go Vap District, 
+Ho Chi Minh City 
+Phone 
+01662105178 
+Email 
+tnguyenly96@gmail.com 
+Social 
+Nguyennt96 
+Skills 
+Languages & Scripting: 
+C#, HTML, Java, C, 
+JavaScript, CSS, android 
+Frameworks: 
+ASP.NET, Entity, JQuery 
+Operating Systems:  
+Windows, Linux, Android 
+Databases:  
+MS SQL 
+Web Servers:  
+Tomcat, JBoss, IIS 
+Analysis & Design Tools:  
+MS. Visual Studio, 
+NetBeans, StarUML, 
+Visual Paradigm, 
+Android Studio 
+Methodology:  
+Agile( Scrum) 
+Languages 
+English: Advance 
+Japanese: Elementary 
+Objective Statement 
+IT professional with +1 years of experience in software development. 
+I am interested in joining TMA Solutions, a leading provider of software 
+development, testing services, and consulting.  This is where I can seek to 
+leverage my technical and professional expertise to grow in the role of a 
+developer.   
+Work Experience 
+WISKY Technology Solutions, HCM City, Vietnam  
+Junior Software Developer 
+12/2016 – 04/2017 
+Project: Wisky – Wi-Fi Marketing Projects 
+Project Description: To support marketers in running marketing 
+campaigns by providing tools to show ads on customers' devices as 
+soon as the customers connect free Wi-Fi, to improve the customers 
+interaction with the service providers. These tools are designed on 
+the professional Wi-Fi, with the easy management, at the right times, 
+and at the lowest cost. This project is a ASP.NET project  
+Industry: Wi-Fi marketing 
+Project Team Size: More than ten peoples 
+Role(s): Developer, Tester 
+Skill Set Utilized:  .Net, HTML, JavaScript, CSS, SQL Server 2014, MVC, Ajax, 
+JQuery, Razor  Visual Paradigm, MS. Visual Studio  Source Tree, Trello(Project Management) 
+Assignment Duration:  4 months 
+04/2017 – 08/2017 
+Project: Teek Projects 
+Project Description: to create a web for event management with 
+optimal features of creating the best interaction with the audience, 
+achieving the best effect for the event with the easy management, 
+and at the lowest cost. This project is a ASP.NET project 
+Industry: Event Management 
+Project Team Size: More than ten peoples 
+Role(s): Developer, Tester 
+Skill Set Utilized:  .Net, HTML, JavaScript, CSS, SQL Server 2014, MVC, Ajax, 
+JQuery, Razor  Visual Paradigm, MS. Visual Studio  Source Tree, Trello(Project Management) 
+Assignment Duration:  4 months 
+Interests 
+Gym 
+Football 
+Hiking 
+Cycling 
+Traveling 
+Learning Project  
+Android Developer 
+09/2017 – 01/2018 
+Project: Share – Bike System  
+Project Description: Created an android application with features of 
+sharing trip management. This project is an Android project 
+Industry: Sharing Trip Management 
+Project Team Size: Three peoples 
+Role(s): Project Management, Developer, Tester 
+Skill Set Utilized:  SQL Server 2014, MVC, Java, Android  Visual Paradigm, Android Studio  Source Tree, Trello(Project Management) 
+Assignment Duration:  4 months 
+Individual project 
+Web Developer 
+01/2018 – 04/2018 
+Project: Book Tours Website 
+Project Description: Created a web with features of booking tours, 
+crawling tours data from another web and managing tours. This 
+project is an Java web project 
+Industry: Tour Management 
+Project Team Size: One people 
+Role(s): Project Management, Developer, Tester 
+Skill Set Utilized:  SQL Server 2014, MVC, Java, HTML, JavaScript, CSS, JPA, JAXB, 
+XML, XML combining JSP, Parser API, XSL, XML PDF  Visual Paradigm, NetBeans  Source Tree, Trello(Project Management) 
+Assignment Duration:  4 months 
+Education 
+FPT University 2014-2018 
+Software Engineering (Information System)  
+Award/ Achievements 
+Honorable student of the semester (Summer 2016) 
+Honorable student of the semester (Spring 2017) 
+C Yellow YDeveloper (Lab Award) 
+Java Blue YDeveloper (Lab Award) 
+Desktop J-Blue YDeveloper (Lab Award)  
+Referees 
+Lâm Hữu Khánh Phương 
+Lecturers of FPT University 
+Manager of WISKY company 
+Contact: phuonglhk@fpt.edu.vn 

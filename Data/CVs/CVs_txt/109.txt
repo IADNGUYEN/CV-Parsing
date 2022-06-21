@@ -1,0 +1,86 @@
+Truong Tan Khoa’s CV  Confidential 
+1 
+PERSONAL DETAILS 
+Name  
+Truong Tan Khoa 
+Nationality  
+Vietnamese 
+Date of Birth  
+January, 1th 1990  
+Sex 
+Male 
+Marital status 
+Single 
+Phone No. 
+(84) 093 273 1190 
+Skype  
+truongtankhoa90 
+Email 
+truongtankhoa1190@gmail.com 
+EDUCATIONAL BACKGROUND 
+2008  2012: B.S of Math and Computer Science at University of Education Ho Chi Minh, Vietnam. 
+09 / 2017: Master in computer science at University of Science Ho Chi Minh, Vietnam National 
+University. 
+GPA AND THESIS 
+GPA: 8.28/10 
+Grade of bachelor thesis: 9/10  
+My bachelor thesis was about spatial-temporal database and building an application to help taxi 
+drivers pick up customers quickly and effectively. I took it under the guidance of doctor Nguyen An 
+Te (University of Science Ho Chi Minh) 
+CERTIFICATE AND AWARD 
+2009: Third prize at Vietnam National Informatics Olympiad for student. (www.olp.vn) 
+2012: Top graduate in University of Education Ho Chi Minh (Top 1). 
+2009  2012: Scholarship of Tokyo-Mitsubishi bank for the highest achieving students. 
+PROFESSIONAL SUMMARY 
+Highly skilled IT professional with two years professional experience including application 
+development and research. 
+Have experience in OpenGL programming.  
+Good at algorithmic thinking and be able to comprehend new technologies quickly. 
+Have consistently contributed to company’s growth and profitability by combining strong technical, 
+management knowledge and with a dedicated proactive approach. 
+Cooperative and able to perform within a team-oriented atmosphere. 
+Good English communication. 
+Interested in researching image retrieval and human face recognition based on 3D morphable. 
+Love jobs relating to deeply and creatively research 
+SOFTWARE 
+Databases: MS SQL Server, My SQL. 
+Programming Languages: C#, Java, C, C++, Pascal. 
+Programming Tools: MS Visual Studio, Eclipse. 
+Truong Tan Khoa 
+Truong Tan Khoa’s CV  Confidential 
+2 
+OOAD/OOP: Object Oriented Programming (OOP), Unified Modeling Language (UML) 
+OPERATING SYSTEMS 
+Windows 
+PROFESSIONAL EXPERIENCE 
+2012/04 – 2012/11 
+Developer at Gameloft company 
+Job Description:  
+In Gameloft company, I had a good time to learn how to develop games based on Android platform. I also 
+supported to port android games to a variety of mobile devices. 
+Programming Language used: 
+C++, OpenGL, Android ES. 
+2012/12 – 2014/12 
+Researcher at Institute for Computational Science and Technology Ho Chi Minh 
+Job Description:  
+Here I did research and developed 3D simulation applications based on pure Java. I controlled and 
+developed a new engine to draw 3D molecules in chemistry. It is a platform-independent engine and it can 
+run on any platform implemented Java environment (JDK). 
+Programming Language used: 
+Java. 
+2015/05 – 2016/04 
+Research and develop (R&D) at FPT IS (FTS) in traffic image processing to build a big system to recognize 
+car plates and solve traffic violations in Hanoi-Laocai highway automatically. 
+Programming Language used: 
+C++, QT, and OpenCV. 
+2017/02 – 2017/11 
+Work as software developer in FPT Software Ho Chi Minh. I have been working on developing software run 
+on medical devices in Japan. 
+Programming Language used: 
+C/C++. 
+2017/12 – Now 
+Work as software developer in blockchain and wallet at Quoine company (https://quoine.com). It is a Japan 
+fintech company that provides trading, cryptocurrencies exchange, and next generation financial services 
+powered by blockchain technology. 
+Programming Language used: 
+NodeJS, Ruby on Rails. 

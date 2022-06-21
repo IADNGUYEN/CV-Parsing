@@ -1,0 +1,173 @@
+Curriculum vitae 
+TAI Le Thanh 
+Automation Tester 
+1 
+CURRICULUM VITAE 
+PERSONAL INFO 
+Name: 
+TAI Le Thanh 
+Mobile: 
+0987.779.337 
+Email:  
+thanh.tai.108@gmail.com 
+Skype: 
+Tai.Le.108 
+Birthday: 
+04-Jan-1987 
+Gender: 
+Male 
+Status: 
+Single 
+Address:  
+20, street 16, quarter 5, Hiep Binh Chanh ward,   
+Thu Duc district, Ho Chi Minh City. 
+CAREER OBJECTIVES 
+Seeking a position in Automation testing where my abilities will contribute to the 
+success of the organization. 
+Seeking new challenges and opportunities to improve my career path. 
+SUMMARY 
+Have 4.5 years’ experience in automation and manual testing. 
+Have experience in various platforms: Application, Web, Web Services, Mobiles 
+and Cloud. 
+Have familiarity with Agile methodology. 
+Have experience in setting up and troubleshooting for testing environment 
+Have experience in Linux. 
+Have experience in training and mentor. 
+Have background in networking and hardware. 
+High responsibility, good team-work and proactive. 
+Curriculum vitae 
+TAI Le Thanh 
+Automation Tester 
+2 
+TECHNICAL SKILLS 
+Programming languages: Java, JavaScript, VBScript, Python and Shell 
+Platforms: Application, Web, Web Services, Mobiles and Cloud 
+Frameworks: Hybrid, Data-Driven, Keyword and Action Based Testing 
+Database Management Systems: MsSQL and MySQL 
+Management tools: Jira, QC, SVN and Visual SourceSafe  
+Automation tools: Appium, Selenium, LISA, QTP, SoapUI, JMeter, 
+TestArchitect(TA) and TestArchitect for Visual Studio(TA4VS),  
+IDEs: Eclipse 
+OSs: Windows, Window Servers and Unix. 
+Networking: CCNA, CCNP and MCSA 
+Virtual machines: Hyper-V, VirtualBox, VMware Player 
+Other tools: UIautomatorviewer, Firebug, Putty, WinSCP, Fiddler, Advanced 
+REST Client, FileZilla, GoToMeeting and TeamViewer. 
+EDUCATION 
+09/2006 – 11/2010 
+Industrial University of Ho Chi Minh City (IUH), HCM city, Viet Nam 
+Bachelor of  Engineering – Information Technology 
+05/2010 – 9/2012 
+Vietnamese Professional (VNPRO), HCM city, Viet Nam 
+CCNA & CCNP 
+05/2007 – 07/2008 
+VSIC Education Corporation, HCM city, Viet Nam –  
+MCSA & Computer Doctor 
+Other Courses: 
+ISTQB Certified. 
+ToastMaster English Club. 
+Curriculum vitae 
+TAI Le Thanh 
+Automation Tester 
+3 
+PROFESSIONAL EXPERIENCE  
+09/2014 – Currently: 
+FPT Software, HCM city 
+Senior QA Engineer 
+Project Description:  DirectTV DVP  
+Digital Video Processing system processes video, store, delivery and provides 
+access to live DIRECTV broadcast programming over OTT and satellite to mobile 
+devices and STB. 
+Responsibilities: 
+Set up and troubleshoot test environment. 
+Perform manual testing, report bugs, update test plan. 
+Perform automation testing.  
+Work with Developvers and Customer as Agile methodology. 
+Train newcomers about UNIX, Web Services. 
+Create materials. 
+Technologies:  
+Testing: black-box, sanity, regression, ad-hoc 
+OSs: Windows 7, Linux 
+Platforms: Web, Web Services, Mobiles  
+Management tools: Jira, Excel 
+Automation tools: Selenium, Appium, SoapUI, LISA, Jmeter  
+Other tools: Putty, WinSCP, UIAutomatorViewer, Fiddler 
+Curriculum vitae 
+TAI Le Thanh 
+Automation Tester 
+4 
+06/2013  08/2014:  
+Logigear Corporation, HCM City  
+Senior QA Engineer 
+Project Description:  TestArchitect (TA) and TestArchitect For Visual Studio 
+(TA4VS)  
+TA is a test automation tool for various systems and platforms. TA4VS is TA 
+added on Microsoft Visual Studio. 
+Responsibilities: 
+Perform manual and automation testing on various systems (Window, Linux) 
+and various platforms (Application, Web, Web Services, Mobiles and Cloud) 
+Use Jira for bug tracking 
+Demo to highlight product capabilities for clients. Help client to use TA and 
+TA4VS 
+Set up and troubleshoot test environment. 
+Design and implement test cases 
+Create materials (Guide and How-to Topic) 
+Compare TA with other automation tools (UFT, Selenium, SoapUI ) 
+Technologies:  
+Testing: regression and integration 
+OSs: Windows, Window Servers and MacOS 
+Platforms: Web, Web Services, Application, Mobiles and Cloud 
+Automation tools: UFT, Selenium, SoapUI , TA and TA4VS 
+Frameworks: Action Based Testing 
+Languages: VBScript, Python, C# and Java 
+Management tools: Jira, Quality Center and TFS. 
+Databases: MySQL and MSSQL 
+Virtual machines: Hyper-V, VirtualBox, VMware Player 
+Other tools: Filezilla, GoToMeeting and TeamViewer 
+Curriculum vitae 
+TAI Le Thanh 
+Automation Tester 
+5 
+09/2011  05/2013:  
+TMA Solution, HCM City 
+Automation Tester 
+Project Description: Avaya Aura Contact Center (AACC)  
+AACC provides a contact center solution for varied and changing business 
+requirements by offering a suite of applications: Voice, Email, Web Chat, IM 
+Responsibilities: 
+Set up testing environment. 
+Perform manual testing: create test data, execute test cases 
+Perform automation testing by QTP 
+Use Quality Center to manage test plan, test cases and bugs 
+Technologies:   
+Testing: smoke, sanity, regression and integration  
+OSs: Windows and Window servers 
+Platforms: Application and Web 
+Automation tools: QTP 
+Frameworks: Hybrid, Data-Driven, Keyword 
+Languages: VBScript 
+Management tools: Quality Center, TortoiseSVN, Visual SourceSafe 
+Connection tools: Putty, SoftPhone 
+05/2011  09/2011:  
+TMA Solution, Ho Chi Minh 
+Automation Tester 
+Project Description:  Multicore Application 
+Multicore Application is an application use to compare Performance between 
+single core and multicore in Linux system. 
+Curriculum vitae 
+TAI Le Thanh 
+Automation Tester 
+6 
+Responsibilities:  
+Set up testing environment (openSUSE, Ubuntu). 
+Perform manual testing: design test cases, create test data and execute test 
+cases.  
+Perform automation testing by using ShellScript. 
+Report bugs. 
+Technologies:  
+Testing: performance and smoke 
+OSs: openSUSE and Ubuntu 
+Virtual machines: VMware Player, VirtualBox 
+Platforms: application 
+Languages: ShellScript  
+Management tools: SVN 

@@ -1,0 +1,83 @@
+CURRICULUM VITAE 
+TRUONG VINH NGHIEP 
+Date of Birth: January 28, 1989 
+Address: 240/37/10A Nguyen Van Luong Street, 
+Ward 11, District 6, HCM City 
+Email: nghieptruong89@gmail.com 
+Tel:  0904.814.486 
+SUMMARY OF SKILLS: 
+Have knowledge of Hadoop, Pig, Hive, Drill.  
+Have good programming skill with Java, Python, Linux bash script, 
+Windows batch script, Macro Excel. 
+Have experience with Linux OS, database system. 
+Have good knowledge of algorithms and data structures 
+Have good knowledge of object oriented design and design patterns 
+Have strong knowledge of software development standards and quality 
+assurance processes. 
+Have experience in working with Onshore/Offshore Outsourcing. 
+EXPERIENCE 
+August 2018 – until now 
+Joining “BIG DATA” (280 hours) at Hoa Sen University with the following 
+modules. 
+Hadoop(MapReduce/HDFS) 
+Zookeeper 
+Pig 
+Hive 
+Drill 
+HBase 
+Storm Distributed Live Computing 
+Sqoop 
+January 2012 – until now 
+Senior Automation Tester (6 years experience) 
+at LOGIGEAR company  Software QA Testing and Test Automation Services 
+1A Phan Xich Long, Ward 2, Phu Nhuan District, Ho Chi Minh city 
+Job Responsibilities: 
+Specialize in application performance testing, functional testing. 
+Research new technical concepts, problem solving 
+Automate daily tasks by automated scripts (Macro Excel for reporting, 
+Linux bash script, Windows batch script, …) 
+Setup system environment for testing (install, maintain, troubleshoot Oracle 
+database, Linux OS, Windows OS, …). 
+Determine test objectives through detailed analysis in order to automate 
+features comprehensively. 
+Develop, plan and implement automated test cases based on software 
+requirements and technical understanding. 
+Create bug reports, submit defects into Bug Tracking system and follow the 
+Bug Tracking process (open, monitor, update, close, reopen). 
+Report testing status and test results (daily or/and weekly) to client. 
+EDUCATION 
+2007 – 2011 
+The Open University – HCM, Vietnam 
+Bachelor of Science in Information Technology (Graduated: October 2011 –
+Average Grade: 7.7) 
+The thesis: “Xây dựng website học tập trực tuyến ngành công nghệ thông tin”  
+(Good Grade: 9.0) 
+INTERNATIONAL CERTIFICATION 
+Microsoft Certified System Administrator (MCSA) on Microsoft 
+Windows Sever 2003 (2010) 
+Refer at: 
+http://www.microsoft.com/learning/mcp/transcripts 
+Transcript ID: 983264 
+Access Code: 01269898565 
+OTHER CERTIFICATIONS 
+Have completed the following course: 
+Oracle Database: SQL Fundamentals at SmartPro Training Center. 
+Oracle Database 11g: Administration Workshop I at SmartPro Training 
+Center. 
+Oracle 11g: PL/SQL at The University of Science Training. 
+Linux Network Administration at VNLAMP Open Source Training Center 
+and Nhat Nghe Network Training center. 
+Windows Sever 2003 System Engineer (MCSE) at Nhat Nghe Network 
+Training Center. 
+Cisco Certified Network Associate (CCNA) at Nhat Nghe Network 
+Training Center. 
+Windows Sever 2003 System Administrator (MCSA) at Nhat Nghe 
+Network Training Center. 
+LANGUAGE 
+English 
+OTHER SKILLS 
+Have strong communication skill, and work well in both team and individual 
+environments. 
+Motivating, responsible, and dedicated towards work. 
+Be able to work under high pressure to meet deadlines. 
+Adapt quickly to changes in requests/assignments/processes. 

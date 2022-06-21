@@ -1,0 +1,99 @@
+ 
+toanquangthieu@gmai.com                                                                                         
+CURRICULUM VITAE 
+THIEU QUANG TOAN 
+49 Street 1, Ward 3, Go Vap District 
+Ho Chi Minh City, Vietnam 
+Email:  toanquangthieu@gmail.com 
+Skype: toanthieu 
+Phone: (+84) 987743455 
+EDUCATIONS: 
+September, 2002 to April, 2007 
+Bachelor of Electrical and Electronics Engineering, majoring in Electronic Engineering, 
+Ho Chi Minh City University of Technology (GPA 7.6/10), http://www.hcmut.edu.vn, 
+Ranking 2nd among 150 students graduated in 2007 in the Dept of Electrical Engineering. 
+Certificate:  “Nonlinear Approximation Techniques in Signal and Image Recovery”, 
+Information Technology Institute Vietnam National University and Universite Pierre et Marie 
+Curie, Paris 6, France. 
+Certificate: “Digital Signal Processing, Summer Seminar 2008”, Ho Chi Minh University 
+of Technology, Vietnam Education Foundation (VEF) and the National Science Foundation 
+(NSF  USA) 
+September, 1998 to April, 2002: 
+Nguyen Binh Khiem High School, Vinh Long Province, Vietnam 
+Award: The third prize in Physics, finalist of National Physics Competition, 2002, Vietnam 
+toanquangthieu@gmai.com                                                                                         
+PROFESSIONAL EXPERIENCES:  
+January 2013 to present: 
+Company: Advance Development Electronics,  (http://adelectronics.vn) 
+Position: Firmware Designer and Development  Hardware Designer. 
+Design (Firmware) the smart home system. 
+Design (Firmware) the medical bed using for obesity patient in hospital for US customer. 
+Design (Firmware) the air mattress of medical bed for US customer. 
+Design (Hardware) I/O extensions relay board to interface with PLC of medical bed for 
+US customer.  
+April, 2009 to January 2013: 
+Company: Research and Development Center of Viettel Group, (http://www.viettel.com.vn) 
+Position: Hardware Designer. 
+Design (Hardware) and develop smart phone 3G-Handset project using MSM7227A 
+1GHz chipset of Qualcomm. Device supports Android 2.3, touch screen interface, 3G, 
+WIFI and Bluetooth. 
+Design (Hardware) and develop in USB – 3G Project using MSM6290 of Qualcomm. 
+Device supports HSDPA 7.2Mbps and HSUPA 5.6Mbps. 
+Design (Hardware) AIO PC for Viettel client. 
+Designe (Hardware) Home Gate Way and Metro Ethernet Switch project to co-operate 
+with Accton. 
+August, 2008 to April 2009 
+Company: Tekbox Digital Solution, Vietnam,( http://www.tekbox.net) and AT&S ECAD 
+Technologies Pvt. Ltd, (www.atsecad.com) 
+Position: Hardware and Software Designer. 
+Design (Firwmare) and prototype GPS tracking and logging device as navigation device. 
+Develop (Firmware) SDI-12 protocol (www.sdi12.org) for sensor device. 
+toanquangthieu@gmai.com                                                                                         
+Design (Firmware) and develop compass sensor device for ADCON customer 
+(www.adcon.com) using in agriculture. 
+Design (Firmware) and prototype soil moisture and salinity sensors to monitor moisture, 
+humidity and salinity in soil for the ADCON. 
+Design (Hardware) and develop GPS module “ATS3625, ATS2825 and eMD3620” for 
+AT&S in Austria (www.ats.net). 
+Design (Hardware) GPS test system to test automatically GPS module in assembly 
+production for AT&S . 
+Design (Hardware) GPS test system to test automatically GPS module in assembly 
+production for the NAVMAN 
+Design (Firmware) and prototyped GPS on Video device for Red Bull as a camera 
+accessory. 
+Design (Firmware) and developed RPM meter to monitor car speed. 
+Design (Firmware) and prototyped touch sensor board to control the light system. 
+February, 2007 to August, 2007 
+Company: Arrive Technologies Inc.  IC design Company, (www.arrivetechnologies.com) 
+Position: Test Designer (ASIC) 
+Program and test ATM Cell and PLCP package that are transported and mapped in 
+SONET/SDH, Ethernet over SONET/SDH transmission. 
+SKILLS: 
+Gain experienced in bringing up product in Thailand (GEI company), China (Fox link 
+company), USA factory. 
+Hardware: 
+Embedded System. 
+Micro-controller 8 /32 bits (AVR, ARM7, ARM cortex-M3) 
+MEM (accelerator) 
+Interfaces (UART/I2C/SPI/USB/SDI-12….) 
+GPS system 
+GSM 
+WAVECOM 
+toanquangthieu@gmai.com                                                                                         
+FREERTOS and OS-II 
+Software / Language: 
+VERILOG HDL 
+VHDL 
+C/C++ 
+ORCAD 
+CADENCE 
+Tool: 
+AVR Studio 4 
+IAR for ARM/AVR 
+Image Craft  
+KEIL 
+Linux 
+LANGUAGES: 
+English: speaking, reading and writing (TOEIC 735) 
+Vietnamese: native language. 
+REFERENCE:  Available upon request. 

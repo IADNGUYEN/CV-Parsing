@@ -1,0 +1,93 @@
+Pham Van Dung
+Curriculum vitae
+ABOUT ME
+DATE OF BIRTH, MARCH 1992
+Buon Ho, Dac Lac
+I would like to work in a quiet place in order to stay
+focus and achieve consistent high performance work.
+My ﬁeld of interest is data science,computer vi-
+sion and a little natural language processing.My
+life was boring before I knew deep learning. In fu-
+ture, I want to create more applications using AI in
+real life. I like blogging and sharing what i learned
+on my blog.
+WORK EXPERIENCE
+NOVEMBER 2015 – OCTOBER 2016
+VN Direct stock company
+Broker stock
+Consultant account opening, answering customer
+questions about ﬁelds of ﬁnance.
+Stock analy-
+sis and ﬁnancial markets,investment advisor, ex-
+ecutes buy and sell orders for stocks and other
+securities through a stock market
+SEPTEMBER 2016 – JUNE 2017
+CMD technical company
+Analysis Marketing
+I am responsible for analyzing, building marketing
+models online.
+PROFESSIONAL SKILLS
+PYTHON
+Numpy,pandas,scipy,matplotlib
+MACHINE LEARNING
+Almost algorithm
+supervised and
+unsupervised
+DEEP LEARNING
+Neural
+Network,CNN,RNN,GANs
+COMPUTER VISION
+Image process-
+ing,OpenCV,skimage
+FRAME WORK
+sklearn,keras,tensorﬂow
+Nguyen Kiem
+go vap – Tp.hcm
+0974 561 693
+Dungphamvan0803@gmail.com
+thorpham.github.io
+EDUCATION
+2010 – 2015
+Banking University
+MAJOR FINANCE AND BANKING.
+This is one of the top universities
+for Finance and Banking in Viet-
+nam
+2007 – 2010
+Buon Ho
+Buon Ho high school
+PUBLIC PROJECTS
+2018
+Face veriﬁcation (link)
+Face veriﬁcation 12 singer Viet Nam us-
+ing facenet
+2018
+Facial expression realtime (link)
+Facial expression realtime using CNN
+with Keras and OpenCV
+2018
+Multi digit recognition (link)
+Multi digits recognition using CNN with
+Keras and OpenCV
+2018
+Shape recognition (link)
+Shape recognition with 10 class
+2018
+Drowsiness detection (link)
+Drowsiness
+detection
+vi
+Dlib
+and
+OpenCV
+PERSONAL SKILLS
+COMMUNICATION
+Good
+TEAM PLAYER
+Good
+RESEARCH SKILLS
+Good
+LOGICAL THINKING
+Good
+ENGLISH
+Intermediate

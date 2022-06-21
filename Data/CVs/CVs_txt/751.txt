@@ -1,0 +1,481 @@
+CURRICULUM	VIATE	
+PERSONAL	INFORMATION	
+Full	name:		 THÁI	CHÍ	CƯỜNG	
+Position	applying: IT Application Manager		
+Contact:	
+Mobile:	0938128792	
+Skype:	thaicuongvn	
+E‐mail:	
+thaicuong2803@gmail.com	
+Date	of	birth:	28	Mar	1981	
+Gender:	Male	
+Nationality:	Vietnam	
+Current	Address:	
+Hometown:	293/41/4A	Bach	
+Dang	street,	 Ward	15,	Binh	
+Thanh	district,	HCMC	
+Marriage	status:	married	
+EDUCATION	
+Start	
+Finish	
+Major
+University/College
+Degree
+1999	
+2004	
+Information
+Technology	
+Ho Chi Minh University	of	
+Technology	‐	HUTECH	
+Software
+Engineer	
+LANGUAGES	
+Ranking		(1:	beginning ‐> 5: expert)
+Certificate
+English	
+1	
+2	
+3
+4
+x
+5
+OTHERS	CERTIFICATE	
+Start	
+Finish	
+Name of certificate
+Organization	
+Note
+24‐08‐2015	
+28‐08‐2015	
+Software 
+Architecture and 
+Design 
+Ministry of  Information 
+and Communications 
+Information Technology 
+Industry projects 
+management unit 
+16‐03‐2007	
+16‐03‐2007	
+Overview of 
+Capability Maturity 
+Model Integrate 
+(CMMI) 
+TUV Rheinland Group 
+08‐05‐2008	
+14‐05‐2008	
+SEI's Standard 
+CMMI Appraisal 
+Method For Process 
+Improvement 
+Knowledge Partner QR 
+Private Limited 
+17‐06‐2014	
+21‐06‐2014	
+Agile and Scrum 
+Ministry of  Information 
+and Communications 
+Information Technology 
+Industry projects 
+management unit 
+13‐08‐2008	
+12‐09‐2008	
+Management for 
+Middle Managers 
+PACE Institute of 
+Directors 
+20‐07‐2010	
+24‐07‐2010	
+Leadership 
+breakthrough 
+DALE CARNEGIE 
+18‐05‐2013	
+23‐05‐2013	
+ISO 27001:2005 
+Ministry of  Information 
+and Communications 
+Information Technology 
+Industry projects 
+management unit 
+08‐09‐2007	
+15‐09‐2007	
+Effective 
+Communication 
+HTP Training 
+29‐09‐2007	
+06‐10‐2007	
+Problem Solving 
+HTP Training 
+SUMMARIZE EXPERIENCE 
+02/2004 –  06/2013 (9 years): Worked for GHP Far East (Swiss Post Solution) company in 
+Quang Trung Software city, played a role as Software Development Manager from July 2010 
+to July 2013. 
+http://spsvietnam.vn/ 
+07/2013 –  07/2016  (3 years): Worked for DIGI-TEXX company in Quang Trung 
+Software city, played a role as Software Development Manager. 
+http://digi-texx.vn/en/ 
+08/2016 –  07/2017  (1 year): Worked for LAZADA Vietnam, played a role as 
+Technical Program Manager. 
+http://lazada.vn/ 
+07/2017 until now: Working for Smartnet, finance company, 3P of FECredit, pay a 
+role as Software development manager, manage all projects which developed to support 
+for Sale, all departments. 
+Experience in Software Outsourcing Management: over 3 years. 
+Experience in Software Development Management: over 10 years. 
+Experience in management all phases of IT application development projects, 
+including initiation, planning, execution, implementation, testing, deployment, 
+closure, monitoring, controlling, risk management…. 
+Experience in analyzing and developing Digitization (Data Entry) Solution, Data 
+Processing, and Data Conversion. 
+Experience in developing automation solutions in Software projects and 
+automation processes in organization. 
+Experience in organizing, arranging and controlling works in software teams, and 
+software development department. 
+Experience in applying full CMMI processes and Scrum-Agile, Advanced 
+Waterfall Model in Software development process. 
+Experience in Risks management and BCP (Business Continuity Planning), ISO-
+ISMS (Leader of ISO-ISMS internal audit, and Leader of Security-Policies audit) 
+Programming languages & DataBase: JAVA, .NET, PHP, MS SQL 
+Server, PostgreSQL, MySQL,etc. 
+Development and Management tools : Eclipse, Netbeans, JIRA, SVN, Bug 
+Tracker( BugZilla), Mantis, MS Project, OpenProj, Kanboard, etc. 
+Web servers: Apache Tomcat, Jboss. 
+Developed software projects: CRM for Banking, E-Wallet, Logistic API 
+Integration System, E-Commerce system, Banking Systems, 
+Transportation Management System, Storage Solution for Insurance 
+company, Digitization (Data Entry) Platform, Mobile Application, ERP, 
+HR system, Data Processing, Production Management System, etc. 
+ SOME HIGHTLIGHT PROJECTS (in many): 
+PROJECT	(in	order)	
+05‐2010	to		
+06‐2013	
+IDEAS (Integration 
+Data Entry Application 
+System)	
+Position	
+Project	Manager	
+Company	
+SwissPost	Solution	
+Description	
+IDEAS	is	an	intelligent	platform	which	used	for	
+transforming	paper‐based	documents	to	
+digital	data:	
+Integrate	all	stages	of	data	
+entry	process:	download,	
+recognize,	capture	and	more.	
+Flexible	capture	solutions	and	
+advance	technologies	with	
+manual	data	entry.	
+Integrate	many	automatically	
+intelligent	techniques.	
+Size	
+7	Software	developers,	in	3	years		
+Programing	
+Language	
+Java	
+Technology	
+Java	(Swing,	RMI,	Web	service,	XML),	OCR,	
+OMR,	PostgreSQL	Database,	MS	SQL	Server,	
+SFTP	server,	JBoss	web	server,	Automation	
+services,etc…	
+01‐2011	
+Human Resource 
+Position	
+Project	Manager	and	Developer	
+to	
+01‐2013	
+Management System 
+(HRM)	
+Company	
+SwissPost	Solution	
+Description	
+‐	HRM	is	a	module‐based,	full‐service	HR	
+solution	for	small‐	to	medium‐	sized	
+businesses	operating.	
+‐	HRM	offers	superior	management	and	cost	
+efficiencies	across	the	board.	
+‐	The	modules	provided	with	HRM	include:	
+1.	System	Administration	&	User	Roles	
+2.	Personnel	Information	Management	(PIM)	
+3.	Leave	/Time	off	Management	
+4.	Time	&	Attendance	Management	
+(Integrated	with	Access	Control)	
+5.	Payroll	
+6.	Bonus	
+7.	Recruitment	
+8.	Performance	
+Size	
+3	Software	developers,	in	2	years		
+Programing	
+Language	
+PHP,	JAVA	
+Technology	
+‐	Core	Java	(Swing,	Window	Application),	Web	
+service	
+‐	PHP,	Symfony	Framework	
+02‐2014	
+to	
+05‐2015	
+Business	
+Development	
+Management	System	
+(small	Enterprise	
+Resource	Planning,	
+ERP)		
+Position	
+Project	Manager	
+Company	
+DIGI‐TEXX		Vietnam	
+Description	
+Business	Development	Management	System	is	
+an	integrated	system	which	includes	project	
+order	management,	production	data	
+management,	accounting	(bill)	management,	
+customer	relationship	management	(CRM).			
+Developed	modules:	
+1. Project	order	management:	manage	all	
+orders	of	Customer,	it	support	for	
+Business	Development	Department	
+(BDD)	
+2. Project	quotation	management:	
+manage	internal	project	quotation	
+process;	collect	all	information	from	
+departments	to	make	project	
+quotation	for	Customer.	Monitor	and	
+control	all	project	status	in	BDD.	
+3. Production	data	management:	Collect	
+and	analyze	all	data	in	multi	systems	
+includes	Production	system,	Human	
+resource	system,	and	Production	
+Quality	Control	system.			
+4. Bill	management:	Auto	calculates	all	
+data	in	Production	system	and	makes	
+bills	(invoices)	for	all	Customers.	
+5. CRM:	manage	and	analyze	Customers	
+interactions	and	data.	
+Size	
+3	Software	developers,	in	1	year	3	months	
+Programing	
+Language	
+Python,	Java	
+Technology	
+OpenERP,	Java	(Swing,	Web	service),	
+PostgreSQL	Database,	File	server,	JBoss	web	
+server	
+01‐2015	
+to	
+02‐2016	
+Banking	System	
+(Personal	Loan	PL	
+and	Credit	Card	CC)	
+Position	
+Project	Manager	
+Company	
+DIGI‐TEXX		Vietnam	
+Description	
+Banking	System	is	integrated	software	
+solution	for	Personal	Loan	and	Credit	Card	
+strategy.	The	system	includes	applications:	
+1. Mobile	Application:	Sale	persons	use	
+this	application	(installed	on	
+smartphone	of	sales)	to	take	photo	of	
+Application	Form	(PL	form)	and	
+related	documents,	the	application	will	
+transfer	all	documents	to	DIGI‐TEXX	
+system	immediately	via	Web	services	
+and	stored	on	SFTP	server.	
+2. Data	Entry	Application	(Desktop	
+application):	Include	functions	for	
+Downloading	documents	from	SFTP	
+server,	Classifying	documents,	
+PROJECT	(in	order)	
+08‐
+2016	
+3PLs – API 
+integration	
+Position	
+Technical	Program	Manager	
+Company	
+LAZADA	VIETNAM	
+Capturing	data,	Exporting	data	and	
+uploading	data.		
+3. Monitoring	and	Control	(Web	
+Application):	Manage	all	status	of	each	
+PL,	CC.	Sale	persons	can	access	this	
+application	to	monitor	and	control	all	
+their	customers	to	know	which	
+customers	accepted	to	get	money,	
+which	customers	declined.		
+Size	
+3	Software	developers,	in	1	years	
+Programing	
+Language	
+Java,	PHP	
+Technology	
+Java	(Swing,	Web	service,	JSon),	PostgreSQL	
+Database,	SFTP	server,	JBoss	web	server	
+PHP	(Web	service),	Reporting	services,	
+Apache	Tomcat.	
+06‐2013	
+to	
+06‐2016	
+DIGI-SOFT (DIGI-
+TEXX SOFTWARE)	
+Position	
+Project	Manager	
+Company	
+DIGI‐TEXX		Vietnam	
+Description	
+DIGI‐SOFT	is	a	platform	for	many	Data	Entry	
+projects.	
+Integrated	processes	include:	Download	Data,	
+Classify	Form,	Recognize	Data	(OMR,	OCR,	
+Barcode,	and	Data	matrix),	Input	Data,	Verify	
+Data,	QC	Data,	Export	Data,	Upload	Data,	and	
+Monitoring	and	Controlling.	
+Size	
+5	Software	developers,	in	3	years	
+Programing	
+Language	
+Java	
+Technology	
+Java	(Swing,	RMI,	Web	service,	XML,	SQLite),	
+OCR,	OMR,	PostgreSQL	Database,	SFTP	server,	
+JBoss	web	server	
+to		
+06‐
+2017	
+Description	
+3PLs	–	API	integration	is	a	solution	which	integrate	between	
+Lazada	system	and	3PLs	(VNPost,	DHL,	Viettel,	VinaCapital,…)	
+system	via	API	to	exchange	package	information	for	delivering:	
+Send	packages	pickup	request	to	3PLs	
+Receive	package	update	status	from	3PLs		via	
+API	webhook.	
+Monitor	package	delivery	lifecycle,	package	
+journey	
+Report	dashboard	management		
+Size	
+2	Software	developers,	2	PMs	from	Regional,	2	QA	from	
+Regional		
+Programing	
+Language	
+PHP	
+Technology	
+PHP,	Webhook,	PostgreSQL	Database,	MySQL,..	
+03‐
+2017	
+to	
+06‐
+2017	
+TMS 
+(Transportation 
+Management 
+System)	
+Position	
+Project	Manager	of	local	side	
+Company	
+LAZADA	VIETNAM	
+Description	
+TMS	is	logistic	system	to	manage	all	packages	delivery.	This	
+system	integrate	with	Alibaba	system	based	on	API	solution.	
+Size	
+2	developer		
+Programing	
+Language	
+PHP	
+Technology	
+PHP,	API	integration	
+07‐
+2017	
+to	
+now	
+CRM,	ERP	
+Position	
+IT	Project	Manager	
+Company	
+Smartnet	
+Description	
+The	goal	of	this	project	is	to	provide	robust	IT	solutions	with	
+multichannel	distribution	for	financial	products	to	existing	
+customers,	as	follow:	
+Integration	with	various	technology	solutions	for	
+effective	communication	with	customers	via	various	
+digital	platforms	
+Strong	Lead	Management	system	
+Support	to	reduce	daily	operations	in	the	market	field	
+Strong	real‐time	insight	and	analysis	using	best‐in‐
+place	reporting	module	and	interactive	dashboard	
+Size	
+Outsource	project,	around	15	members.	
+Programing	
+Language	
+Python	
+Technology	
+Odoo,	API,	PostgreSQL	Database,	File	server,	SFTP	server,	
+Apache‐nginx	server,…	
+11‐
+2017	
+to	
+now	
+Smart	Pay,	E‐
+Wallet	
+Position	
+Multi	roles,	positions	such	as	IT,	R&D,	…	
+Company	
+Smartnet	
+Description	
+E‐Wallet	is	payment	gateway	service	includes	but	is	not	limited	
+to	all	individuals	of	sufficient	age	to	open	accounts	use	cards	
+and	merchants	who	agree	and	sign	agreements	to	use	and	
+participate	in	the	payment	gateway	service	with	Smartnet.	
+Customers	must	have	bank	accounts,	own	domestic	
+cards/accounts	issued	by	domestic	banks	and	the	account	must	
+have	sufficient	balance/limit	when	using	the	service.	
+Some	defined	functions:	
+Size	
+Planning	
+Programing	
+Language	
+Planning	
+Technology	
+ESB,	API,…	technical	researching	phase	
+BUSINESS TRIPS 
+Setup Data Entry platform in Slovakia. 
+Stay in exhibition about Information technology in Korea 
+Stay in exhibition about electricity in HongKong 
+Joined Workshops in ThaiLan (visited Warehouse in ThaiLan), Singapore. 
+PROGRAMMING	LANGUAGES	
+Rank	
+Experiences
+Low
+Average	
+High
+Java	
+5	years	
+x
+.NET	
+3	years	
+X
+C/C++	
+x
+PHP	
+2	years	
+X
+Android	
+x
+iOS	
+x 
+TECHNOLOGIES	
+Databases	
+PostgreSQL, MySQL, Microsoft SQL Server, MongoDB	
+Programing	tools	
+Eclipse,	Netbeans, JIRA, GIT, SVN, Mantis, BugTracker,	Maven,
+etc…	
+App	
+server/Middleware
+JBoss,	Apache Tomcat, Web Service , SFTP server,	LDAP	
+Framework	
+MVC,	Symfony, Wordpress, Spring, Struts
+Operating	System	
+Windows, Linux

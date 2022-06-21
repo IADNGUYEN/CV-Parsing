@@ -1,0 +1,105 @@
+RESUME 
+Lê Chí Tâm 
+Full stack web developer | Male | 10/03/1983 
+Experience: 1 year (Full stack web developer – asp.net MVC) 
+6 year (IT – Hardware/Networking) 
+Latest company: Yan Media Group (Công ty cổ phần Công nghệ và Tầm nhìn Yêu âm nhạc) 
+Highest education: Bachelors 
+Languages: English – Intermediate, Vietnamese: native language 
+Email: lechitam.web@gmail.com 
+Phone: 0989 002 078 
+Address: 265/2 Binh Quoi Street, Ward 28, Binh Thanh District, Ho Chi Minh City 
+TECHNICAL SKILLS 
+Software, website application:  
+Good knowledge and experience in web  ASP.NET MVC 5.0 (Dependency Injection 
+pattern)  
+Knowledge in Web API, Angular JS, Memcached  
+Knowledge in SQL Server  2012,  2014, 2016  
+Good knowledge and experience in HTML5, CSS3, Bootstrap frame work  
+Good knowledge in JavaScript (JQuery, AJax, Json), LinQ  
+Visual Studio 2013, Visual Studio 2015 ,  GIT and Source Tree, Photoshop CS6, a little of 
+Illustrator, Dreamweaver CS6… 
+Hardware/Networking:  
+Install, manage, maintenance local network system with MS Windows server 2008, 
+2012 (DHCP, DNS and Active directory, backup data and system state…) 
+Good knowledge and experience in installing, configuring, managing, maintaining 
+windows operating: XP, window 7, window 8, window 10, windows server 2003, 2008, 
+2012, Microsoft office 2003, 2007, 2010, 2013, 2016…  
+Manage mail server, web server, file server, print server, ftp server…  
+Manage network printer, local printer, scanner, fax, photocopy, support staff 
+CAREER SUMMARY 
+05/2016 – Present: 
+Position: Full stack web developer (asp.net MVC) 
+Company: Yan Media Group (Công ty cổ phần Công Nghệ và Tầm Nhìn Yêu Âm Nhạc) 
+Add: 12 Ton Dan Street, Ward 13, District 4, HCM City 
+Main duties 
+Convert  psd file to responsive layout (using HTML, SCSS (SASS), CSS, Boostrap, 
+Jquery,…) 
+Writing code behind for website using C#, ADO.Net, Linq, Entity framwork,… 
+Maintenance, upgrade function, write more function, fix error,.. 
+Projects:  
+http://dienanh.net: full stack (backend, frontend and maintenance) 
+http://yan.vn: layout (mobile, desktop and responsive) 
+http://bestie.vn: maintenance (add, update some function, update layout, …) 
+Some other microsite: http://yan.vn/rio2016, http://yan.vn/bungnhipvibe,… (full 
+stack) 
+2013 – 04/2016: 
+I work as a freelancer about web projects by ASP.NET MVC 5. 
+Some of websites (full stack): 
+http://sagotravel.com – MVC5 –responsive website 
+http://pidtours.com – MVC5 – responsive website 
+http://fuvn.org  MVC5 –responsive website – two languages 
+http://daongoccorp.com (MVC4– responsive website – two languages) 
+http://vithinh.com (MVC5 – responsive website) 
+… 
+Sep 2014 – 04/2016:  
+Position: IT Engineering 
+Name: KEI-NE-OCG-TEDI Joint Venture  North-South Expressway Construction Project  Ben 
+Luc Long Thanh Section 
+Add: No 3 My Phu 1C Street, Tan Phu Ward, District 7, Ho Chi Minh City. 
+Main duties 
+Build server, manage local network system, manage all of software and hardware in systems 
+Server maintenance (AD, DNS, DHCP...) 
+Set up and manage file server, ftp server 
+Backup and storages 
+Setup and manage network printer 
+Setup and manage network camera in system 
+Staff support and pc troubleshooting 
+Sep 2010 – 09/2014: 
+Position: IT Engineering 
+Company: Total Building Systems (TBS) 
+Add: 199 Dien Bien Phu Street, Ward 15, Binh Thanh District, Ho Chi Minh City. 
+Main duties 
+Manage network system, assist staff about computer technology and internet. 
+Manage company website and email, local domain: AD, DHCP, and DNS… 
+Manage all of hardware devices: all of PCs, laptop, network printer, scan machines, 
+fax machines, and photocopy machines… 
+Manage license software’s, set up PC, laptop, install software... 
+Manage file server, ftp server, backup  restore data… 
+2009 – Sep 2010:  
+Position: Technician Support 
+Company: FPT Telecom 
+Add: Tan Thuan Industrial Parks, District 7, HCM City 
+Main duties 
+Receive and assist customer solve internet troubleshooting 
+Assist customer about technology and computer: office, email, modern, wifi… 
+Support voice IP and internet TV.  
+Manage the bandwidth and ADSL, FTTH profile in the system… 
+EDUCATION  
+Graduated: University – Bachelor of engineering – HCMC University of Technology – 
+2013.  
+Certificate: ASP.Net MVC 4.0 and Visual Studio 2012 – Nhat Nghe School (Microsoft 
+partner) – 2013  
+Certificate: Website Developer – Nhat Nghe School (Microsoft partner) – 2009  
+Certificate: Microsoft Certified Systems Administrator (MCSA) – Nhat Nghe 
+School(Microsoft partner) – 2009  
+Graduated: College – Major: Information Technology – 2005. 
+OTHER SKILLS AND CHARACTER  
+Having ability communication & team working  
+Hard, to know arrange work and have responsibility  
+Loving to study new technology  
+Self-starter and active learner  
+Honestly, friendly  
+Very good at MS Office, keyboard, email and Google search… 
+SALARY 
+Expected: 750USD/month 

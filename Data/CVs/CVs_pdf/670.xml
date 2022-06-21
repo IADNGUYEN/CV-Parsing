@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1187" width="918">
+	<fontspec id="0" size="43" family="Times" color="#666666"/>
+	<fontspec id="1" size="20" family="OpenSans" color="#ffffff"/>
+	<fontspec id="2" size="17" family="OpenSans" color="#ffffff"/>
+	<fontspec id="3" size="17" family="OpenSans" color="#666666"/>
+	<fontspec id="4" size="15" family="OpenSans" color="#000000"/>
+	<fontspec id="5" size="17" family="OpenSans-Light" color="#ffffff"/>
+	<fontspec id="6" size="31" family="Times" color="#ffffff"/>
+	<fontspec id="7" size="31" family="Times" color="#169397"/>
+	<fontspec id="8" size="17" family="OpenSans" color="#000000"/>
+	<fontspec id="9" size="15" family="OpenSans" color="#000000"/>
+<text top="58" left="35" width="553" height="57" font="0">LE NGUYEN HOANG NAM</text>
+<text top="215" left="38" width="130" height="27" font="1"><b>Date of Birth</b></text>
+<text top="243" left="37" width="103" height="23" font="2">Nov 06, 1995</text>
+<text top="191" left="331" width="369" height="23" font="3"><b>Sept 2013 - Jan 2018 Bach Khoa University</b></text>
+<text top="223" left="390" width="278" height="21" font="4">Study Electrical Engineering Advanced </text>
+<text top="245" left="390" width="270" height="21" font="4">Program - Major Automation Control </text>
+<text top="283" left="37" width="81" height="27" font="1"><b>Address</b></text>
+<text top="315" left="37" width="225" height="23" font="2">56/11 To Hien Thanh street, </text>
+<text top="339" left="37" width="214" height="23" font="2">Ward 15, District 10, HCMC</text>
+<text top="436" left="37" width="56" height="27" font="1"><b>Email</b></text>
+<text top="466" left="36" width="213" height="23" font="2">hoangnam611@gmail.com</text>
+<text top="504" left="37" width="81" height="27" font="1"><b>Website</b></text>
+<text top="538" left="38" width="221" height="23" font="2">www.fb.com/hoangnam611</text>
+<text top="668" left="50" width="197" height="23" font="2">My career objective is to </text>
+<text top="692" left="50" width="242" height="23" font="2">improve my knowledge about </text>
+<text top="716" left="50" width="248" height="23" font="2">technology and get some skills </text>
+<text top="739" left="50" width="187" height="23" font="2">through working in the </text>
+<text top="763" left="50" width="215" height="23" font="2">professional environment. </text>
+<text top="786" left="50" width="191" height="23" font="2">Fast adaptable to work. </text>
+<text top="810" left="50" width="216" height="23" font="2">Self-confident, responsible </text>
+<text top="834" left="50" width="159" height="23" font="2">Patient, careful and </text>
+<text top="857" left="50" width="168" height="23" font="2">enthusiastic in work. </text>
+<text top="881" left="50" width="214" height="23" font="2">Good teamwork and time- </text>
+<text top="905" left="50" width="154" height="23" font="2">management skills </text>
+<text top="928" left="50" width="239" height="23" font="2">Passionate in communication </text>
+<text top="952" left="50" width="211" height="23" font="2">A fast learner and good at </text>
+<text top="975" left="50" width="158" height="23" font="2">stress management</text>
+<text top="371" left="37" width="64" height="27" font="1"><b>Phone</b></text>
+<text top="405" left="36" width="106" height="23" font="5">0938 197 390</text>
+<text top="158" left="38" width="133" height="40" font="6">PROFILE</text>
+<text top="122" left="329" width="190" height="40" font="7">EDUCATION</text>
+<text top="627" left="330" width="458" height="40" font="7">SKILLS AND QUALIFICATIONS</text>
+<text top="678" left="331" width="212" height="23" font="3"><b>Programming Languages</b></text>
+<text top="702" left="370" width="47" height="23" font="8">C/C++</text>
+<text top="729" left="370" width="55" height="23" font="8">Matlab</text>
+<text top="756" left="370" width="56" height="23" font="8">Python</text>
+<text top="783" left="327" width="82" height="23" font="3"><b>Language</b></text>
+<text top="807" left="370" width="153" height="23" font="8">English - 755 TOEIC</text>
+<text top="594" left="33" width="169" height="40" font="6">ABOUT ME</text>
+<text top="267" left="391" width="438" height="21" font="4">Achieves 6 encourage scholarships for top score of semester</text>
+<text top="294" left="393" width="428" height="21" font="4">Tutor for Introduction to Electrical &amp; Computer Engineering</text>
+<text top="316" left="393" width="291" height="21" font="4">Monitor of class CT13TIE03 &amp; CT13COA2</text>
+<text top="341" left="393" width="214" height="21" font="4">Graduated with GPA   7.76/10</text>
+<text top="374" left="357" width="151" height="21" font="9"><b>Project capstone 1  </b></text>
+<text top="395" left="371" width="431" height="21" font="4">Study about kit STM32F4 Discovery and apply to program a </text>
+<text top="417" left="371" width="168" height="21" font="4">basis pocket calculator </text>
+<text top="461" left="370" width="416" height="21" font="4">Closed loop PID control speed and position of DC motors </text>
+<text top="482" left="370" width="209" height="21" font="4">using kit STM32F4 Discovery </text>
+<text top="439" left="356" width="147" height="21" font="9"><b>Project capstone 2 </b></text>
+<text top="505" left="357" width="141" height="21" font="9"><b>Graduation Thesis</b></text>
+<text top="529" left="370" width="449" height="21" font="4">Object Tracking Robot controlled via voice command using kit </text>
+<text top="551" left="370" width="284" height="21" font="4">STM32F4 Discovery and Raspberry Pi 3 </text>
+<text top="576" left="330" width="560" height="23" font="3"><b>Oct 2010 - May 2013 Tran Dai Nghia high school for gifted, TPHCM</b></text>
+<text top="601" left="369" width="157" height="21" font="4">Studied Mathematics </text>
+<text top="678" left="612" width="137" height="23" font="3"><b>Microsoft Office</b></text>
+<text top="702" left="640" width="44" height="23" font="8">Word</text>
+<text top="729" left="640" width="41" height="23" font="8">Excel</text>
+<text top="756" left="640" width="96" height="23" font="8">Power Point</text>
+<text top="783" left="613" width="137" height="23" font="3"><b>MCU knowledge</b></text>
+<text top="807" left="640" width="154" height="23" font="8">STM32F4 Discovery</text>
+<text top="834" left="640" width="115" height="23" font="8">Raspberry Pi 3</text>
+<text top="865" left="329" width="170" height="40" font="7">ACTIVITIES</text>
+<text top="986" left="322" width="73" height="23" font="3"><b>Oct 2016</b></text>
+<text top="986" left="443" width="167" height="23" font="3"><b>AMA English Center</b></text>
+<text top="1010" left="473" width="193" height="21" font="4">English teaching assistants</text>
+<text top="1134" left="321" width="73" height="23" font="3"><b>Oct 2013</b></text>
+<text top="1036" left="443" width="251" height="23" font="3"><b>OISP Softskill Training Course</b></text>
+<text top="1060" left="473" width="195" height="21" font="4">Member of Class Softskill 6</text>
+<text top="1083" left="511" width="310" height="23" font="8">2nd prize for Group Dance Competiton</text>
+<text top="1110" left="511" width="216" height="23" font="8">1st prize for Camp Building</text>
+<text top="1133" left="444" width="441" height="23" font="3"><b>Community Project - &#34;2000 vnd meals for homeless&#34;</b></text>
+<text top="1157" left="473" width="308" height="21" font="4">Consolation prize for Presentation Contest</text>
+<text top="1037" left="322" width="75" height="23" font="3"><b>Dec 2013</b></text>
+<text top="919" left="321" width="76" height="23" font="3"><b>Aug 2017</b></text>
+<text top="919" left="443" width="304" height="23" font="3"><b>Heineken Brewery Vietnam Limited</b></text>
+<text top="943" left="471" width="232" height="21" font="4">Intern as Operation Engineer of </text>
+<text top="965" left="471" width="233" height="21" font="4">Empty Bottle Inspection System </text>
+</page>
+</pdf2xml>

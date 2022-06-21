@@ -1,0 +1,165 @@
+Huynh Anh Tuan                               
+Aug 03, 1982 
+0909-144-520
+hatuan_0308@hotmail.com 
+www.linkedin.com/in/tuanhuynh-hcm
+Professional Summary 
+I enjoy and have experience leading teams in delivering successful large projects in software development. I 
+am a highly-focused software engineer with over 12 years’ experience in software development. 
+Skill Highlights 
+Agile/Scrum methodology 
+Fluent on C#, .NET Framework, ASP.NET MVC / Core, JavaScript, SQL, Web API/Services, EF6. 
+Experience in leading an 8 person team to deliver large projects at my previous position that was managed 
+remotely in another country and time zone. 
+Experience and ability to work immediately with HTML5, CSS3, Jira / Rally, TFS / SVN / Git, OIDC / 
+OAuth 2.0 / IdentityServer3, OWIN Middleware, jQuery, PHP & MySQL. 
+Experience in Continuous Integration delivery, TDD, Software Development Life Cycle (SDLC), SaaS, 
+Amazon SES and Salesforce integration. 
+Communicate (verbal and writing) well in English. 
+Very flexible with changes and willing to learn new technologies. 
+EDUCATION 
+BACHELOR OF SCIENCE IN 
+INFORMATION TECHNOLOGY 
+Sep 2000  June 2004 
+HO CHI MINH CITY UNIVERSITY OF FOREIGN LANGUAGE 
+AND INFORMATION TECHNOLOGY  VIET NAM
+ORACLE DEVELOPER/ADMINISTRATOR 
+CERTIFIED ASSOCIATE 
+Mar 2006 
+PEARSON VUE
+MAJOR: COURSES OF MANAGEMENT 
+SOFT SKILLS 
+Courses in 2014  2016 
+PACE INSTITUTE OF MANAGEMENT
+WORK EXPERIENCE
+FREELANCE DEVELOPER 
+Feb 2017  Present 
+DEVELOPMENT MANAGER 
+Nov 2013 – Jan 2017 
+Identifix Inc. (a Solera company)  Maintenance Direct-Hit products for Identifix Inc. 
+(end of May 2017). 
+Freelance developer on Upwork.com  IdentityServer3 Solution and Asap Portal project 
+(Apr 2017 – Aug 2017) 
+Make Asap (Application Security Administration Portal) 
+portal allow SSO (Single Sign On) and implement access 
+control use IdentityServer3.to manage users, claims, client 
+apps etc. 
+Programming languages and technologies use: C#, ASP.NET 
+MVC 4 / .NET Core 1.0 & 1.1 (on client apps), MS Entity 
+Framework 6, MSSQL, Windows Authentication. 
+Identifix Inc. (a Solera company) – previously SRS.  Direct-Hit 4.x 
+Developed new version for Direct-Hit use ASP.Net MVC 4. 
+Work close to Product Owner with Development team in US 
+for migration. 
+Migrating corporate pages to WordPress. 
+Manage progress of the VN (Scrum) teams in Agile method. 
+Host sprint planning and other scrum meetings. Help the 
+Vietnam team estimate and increase velocity. 
+Control product delivery to Production. 
+Developed functions and review code.  Content Web Services (many projects) 
+Manage VN team to maintain and improve web API services 
+that was transferred from UY team.  Direct-Estimate (new version) 
+Integrate with Turboparts e-Commerce (DST) to provide 
+function for users order parts online. 
+Responsibility for developing code and leading team. 
+SENIOR SOFTWARE ENGINEER 
+& DEVELOPMENT MANAGER 
+Apr 2010 – Nov 2013 
+SRS (Service Repair Solutions)  SRS Insight 
+Manage Vietnam team to continue develop this web app and 
+released successfully. 
+A lightweight version of Direct-Hit that serves for specific 
+users who wants very limited OEM documents. 
+This application was developed use ASP.Net MVC 4.  SRSWP (SRS Web Platform) 
+Responsibility for maintenance and enhancement of the 
+existing product. Review code, participate Production release 
+and monitoring. 
+This is a web based portal that is used for hosting web 
+services in SRS, do authentication and authorization for web 
+apps which will consume the web services.  Direct-Estimate (previously Direct-Quote) 
+Managed this product from a different team. 
+My main responsibility is making performance improvement 
+for this product and integrate this product into Direct-Hit. 
+Work closely to Product Owner to develop new functions. 
+This product was implemented using ASP.Net MVC 3.  Direct-Hit 3.x 
+A new version of the existing web application that is used for 
+automotive engineers find related OEM documents of 
+vehicle. 
+I started in position of Sr. Dev at begin time of this project. 
+My main responsibility for migrating the existing functions 
+in the current app (ASP pages) to new version use ASP.Net 
+and develop web services to look up documents (big data). 
+After this product was released, I was promoted to Scrum 
+Master and work closely to Product Owner in US to 
+maintain, design new functions and enhance this product. 
+SENIOR SOFTWARE ENGINEER 
+Jul 2006 – Mar 2010 
+Quantic Co., Ltd (Vietnam)  
+FXCM 
+A web application for currency trading on mobile. 
+Position: Team Leader. Responsibility for implementing new 
+functions, mentor new members and review code. 
+Programming language: PHP 
+Database: PostgreSQL 
+Tools: Eclipse, Subversion.  
+SJP – Sompo Japan Insurance 
+This is a web application that help user creates registration 
+form (Adobe Flash) then export to PDF in insurance types. 
+Position: Sr. Dev responsibility for writing script use 
+Flash/ActionScript 2.0 and design PDF template for 
+exporting. 
+Programming language: ActionScript 2.0 
+Tools: Adobe Flash CS3, Adobe LiveCycle Designer ES, 
+Subversion.  
+VS_Dashboard 
+A web application for statistical reports by charts. 
+Position: team leader. My responsibility for mentor new 
+member, review code and monitor tasks of team members. 
+Programming language: PHP with open source framework 
+CodeIgniter. 
+Tools: Eclipse, Subversion.  HRMS 
+A web application for human resource management system. 
+Responsibility for bug fixes, analyze and improve 
+performance. 
+Programming languages: PHP, Flex/ActionScript 3.0 
+Database: MySQL. 
+PHP framework: CodeIgniter. 
+Tools: Eclipse, Subversion.  MKS (MenKyoSystem) 
+A PC application for driver license management system of 
+Japanese government. 
+Main responsibility for writing stored procedures to 
+manipulate data in Oracle database. 
+Database: Oracle 10g, PL/SQL.  e-Learning portal 
+An eLearning application follows SCORM 2004 standards 
+that is used for PC or PSP (PlayStation Portable) devices. 
+Position: Sr.SE (Jul 2006 – Aug 2007), Team Leader (Aug 
+2007 – Jan 2008). 
+Responsibility: Design and implement functions, review code 
+of team members and report progress of team to manager. 
+Programming languages: JSP/Servlet/Portlet, VB.Net. 
+Database: PostgreSQL. 
+Tools: Eclipse, VS2005, Subversion.
+SOFTWARE ENGINEER 
+Oct 2004 – Jul 2006 
+BB Co., Ltd (a Japanese company in Vietnam)  BML (Biology Medical Laboratories) 
+A web application for biology experimental result 
+management. 
+Responsibility for modifying the existing system to correct 
+errors, upgrade interface and improve performance. 
+Programming languages: Curl, Java, DB2 SQL PL. 
+Database: IBM DB2. 
+Tools: Websphere, Curl IDE, Subversion.  BBRMS (BB Resource Management System) 
+Main responsibility for developing new features of a web 
+application and work closely to HR department to design 
+functions by using HTML. 
+Programming languages: Java (JSP/Servlet), PL/SQL. 
+Database: Oracle. 
+Tools: Eclipse, Subversion.  Gold Partner System 
+Responsibility: Developed code fixes, maintenance and 
+enhancements for the existing web application. 
+Programming languages: Java, PL/SQL. 
+Database: Oracle. 
+Tools: Eclipse, Subversion.
+CERTIFICATIONS  
+BSIT  
+OCA 8i from Oracle. 

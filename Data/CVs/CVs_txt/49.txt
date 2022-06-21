@@ -1,0 +1,73 @@
+OBJECTIVE 
+To work in a position where my programming skills are utilized to fullest extent. 
+EDUCATION 
+Senior student at Faculty of Information System, University of Information 
+Technology. 
+SKILLS 
+Technical Skills: Python, Apache Spark, Apache Solr, PHP, Javascript. 
+Databases: MongoDB, MySQL, Microsoft SQL Server. 
+Operating Systems: Microsoft Windows, Ubuntu. 
+EXPERIENCE 
+Intern (TMA Solutions, 3/2015 – 6/2015) 
+Create Wordpress Payment Gateway plugin which is based on Authorize.net API to 
+integrate into WP-eCommerce and WooCommerce plugin. 
+Freelancer (1/2016  present) 
+Work as a web developer. 
+PROJECTS 
+THESIS: Build the distributed system that store and search big data of 
+documents. 
+o 
+9/2015 – 1/2016 
+o 
+Languages: Python, Javascript. 
+o 
+Technologies: Apache Solr, Apache Spark. 
+o 
+Database: MongoDB.  
+Developed website to compare product price 
+o 
+Description: Created crawler to retrieve price information on websites, 
+such as, thegioididong, cellphones… and compare the price of products on 
+these sites. 
+PHAM ANH TUAN 
+661 Xo Viet Nghe Tinh 
+Binh Thanh District 
+Ho Chi Minh City 
+(+84) 1645 – 655 – 606  
+tuan.phamanh@outlook.com 
+Github: /atuanpham 
+o 
+3/2015 – 5/2015 
+o 
+Languages: Javascript. 
+o 
+Frameworks/Technologies: Node.JS, jQuery, Bootstrap. 
+o 
+Database: MongoDB. 
+Online Survey Website 
+o 
+10/2014 – 1/2015 
+o 
+Languages: PHP, Javascript. 
+o 
+Frameworks: Laravel, jQuery, Bootstrap. 
+o 
+Database: MySQL. 
+Social Network Website 
+o 
+3/2014 – 5/2014 
+o 
+Languages: Java EE, Javascript. 
+o 
+Frameworks: jQuery, Bootstrap. 
+o 
+Database: MySQL. 
+Hotel Management System 
+o 
+10/2013 – 1/2014 
+o 
+Languages: C#, SQL. 
+o 
+Technology: WPF. 
+o 
+Database: Microsoft SQL Server. 

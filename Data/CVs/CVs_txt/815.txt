@@ -1,0 +1,120 @@
+ 
+Sang 
+Tran Anh 
+Master of Science in  
+Computer Science-oriented data (ICT) 
+(Expected 2019) 
+093 313 0004 
+sang.tran2017@ict.jvn.edu.vn 
+K4/48 Nguyen Tri Phuong, 
+quarter 3, Buu Hoa ward, 
+Bien Hoa city 
+SKILLS SET 
+❖ 
+EXPERIENCE: 
+Nearly 6-year experience in software testing 
+Experienced in both of manual & automation testing 
+Nearly 1-year in Data Science 
+❖ 
+GOOD POINTS: 
+Good general background in multiple IT skills: programming, networking, security, testing 
+Self-learning & analytical skills 
+Good teamwork in communication & working 
+English skill: TOEIC 890/990 
+❖ 
+WEAK POINTS: 
+Lack of practical experience in management/leadership 
+Lack of interest in documentary tasks 
+Intermediate level in training & planning skills 
+❖ 
+INTERESTED IN: 
+Opportunities to learn & practice in fields related to Data Scientist/ML/AI  
+Working with talent & friendly colleagues 
+Summary 
+TESTING 
+Experienced in multiple testing 
+types: functional, non-functional, 
+security testing. 
+Experienced in testing levels: 
+Unit test & System test 
+Development/maintenance test 
+automation framework, 
+automation testing scripts. 
+PROGRAMMING 
+General knowledge on OOP 
+Experienced in multiple 
+languages: Java, VBS, Python, 
+Windows Batch Script 
+Codility test (internal test): 75% 
+COMPUTER SCIENCE 
+General knowledge on Statistics 
+& Linear Algebra 
+General knowledge on Machine 
+Learning algorithms: Decision 
+Tree, Bayesian classification, 
+Linear/Logistics regressions, … 
+TOOLS 
+General knowledge on DB 
+systems: MS SQL, MySQL, 
+MongoDB 
+Experienced with IDE: Eclipse, 
+Jupyter Notebook 
+Experienced with version control: 
+SVN, Git 
+Test Automation Engineer 
+Feb 2011– July 2013 
+TMA SOLUTIONS 
+Responsibilities: 
+Develop additional functions for the internal proprietary automation framework 
+Develop automation test scripts to cover testing efforts of manual test engineers. 
+Mentor new test engineers. 
+Achievements: 
+Test Automation 
+Engineer 
+Feb 2014 – Apr 2015 
+ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIETNAM 
+Responsibilities: 
+Take care of both of manual & automation testing for the project 
+Maintenance the automation test framework 
+Assist Product Owner in developing stories of new features 
+Assist test engineers in related projects 
+Achievements: 
+Spot Awards from leader & project manager 
+Senior Test  
+Automation Engineer 
+Apr 2015 – Feb 2018 
+ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIETNAM 
+Responsibilities: 
+Local Product Owner: work as a local Product Owner for a sub-project. The main responsibility 
+is to write new stories on behalf of Product Owner 
+Take care of manual testing 
+Develop/maintenance test automation framework 
+Mentor new test engineers 
+Achievements: 
+Best Performance Certificate in Q3 + Q4, 2015 
+WORKING EXPERIENCES 
+Bachelor Degree 
+Oct 2006 – Oct 2010 
+HO CHI MINH CITY UNIVERSITY OF SCIENCE (HCMUS) 
+Graduated from Information Technology faculty 
+GPA: 7.32 
+EDUCATION 
+REFERENCES 
+Duong Thi Ngoc 
+PROJECT MANAGER 
+ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIETNAM 
+Mobile:   091 928 4283 
+Software Developer 
+Engineer 
+July 2013– Feb 2014 
+TMA SOLUTIONS 
+Responsibilities: 
+Work as a software developer: implement features, develop unit test cases in Java language. 
+Achievements: 
+Master Degree 
+Oct 2017 –  Present 
+JOHN VON NEUMANN INSTITUTE  VIETNAM NATIONAL UNIVERSITY HCMC 
+Master of Science in Computer Science-oriented data (ICT) 
+JOHN VON NEUMANN INSTITUTE  VIETNAM NATIONAL UNIVERSITY HCMC 
+Phone: 
+08 3724 6560 

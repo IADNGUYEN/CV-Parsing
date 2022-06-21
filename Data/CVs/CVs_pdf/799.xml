@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1170" width="810">
+	<fontspec id="0" size="27" family="BCDEEE+Cambria" color="#000000"/>
+	<fontspec id="1" size="18" family="BCDEEE+Cambria" color="#434343"/>
+	<fontspec id="2" size="18" family="BCDEEE+Cambria" color="#000000"/>
+	<fontspec id="3" size="18" family="BCDFEE+Cambria" color="#000000"/>
+	<fontspec id="4" size="18" family="BCDGEE+Cambria" color="#000000"/>
+	<fontspec id="5" size="18" family="BCDHEE+Cambria" color="#000000"/>
+	<fontspec id="6" size="14" family="BCDFEE+Cambria" color="#000000"/>
+	<fontspec id="7" size="16" family="BCDFEE+Cambria" color="#000000"/>
+<text top="228" left="281" width="136" height="32" font="0"><b>OBJECTIVE</b></text>
+<text top="177" left="254" width="40" height="21" font="1"><b>Male</b></text>
+<text top="177" left="470" width="43" height="21" font="2"><b>1996</b></text>
+<text top="177" left="686" width="50" height="21" font="2"><b>Single</b></text>
+<text top="270" left="281" width="507" height="21" font="3"><i>With passion about the technology and engineering, desire to</i></text>
+<text top="292" left="281" width="508" height="21" font="3"><i>become an expert in embedded and automation system. I am</i></text>
+<text top="314" left="281" width="508" height="21" font="3"><i>seeking a role which allows me to continue learning and perfecting</i></text>
+<text top="335" left="281" width="479" height="21" font="3"><i>my skills as well as can contribute, create value for the company.</i></text>
+<text top="228" left="109" width="117" height="32" font="0"><b>ADDRESS</b></text>
+<text top="270" left="26" width="201" height="21" font="4">914 B5, Linh Trung Ward, </text>
+<text top="292" left="93" width="133" height="21" font="4">Thu Duc District, </text>
+<text top="314" left="92" width="135" height="21" font="4">Ho Chi Minh City, </text>
+<text top="335" left="152" width="74" height="21" font="4">Viet Nam.</text>
+<text top="373" left="110" width="116" height="32" font="0"><b>CONTACT</b></text>
+<text top="373" left="281" width="148" height="32" font="0"><b>EDUCATION</b></text>
+<text top="411" left="169" width="57" height="21" font="2"><b>Phone:</b></text>
+<text top="432" left="98" width="129" height="21" font="4">+841682248410</text>
+<text top="461" left="174" width="52" height="21" font="2"><b>Email:</b></text>
+<text top="486" left="56" width="170" height="21" font="4">nhtp2402@gmail.com</text>
+<text top="515" left="143" width="84" height="21" font="2"><b>Facebook:</b></text>
+<text top="540" left="69" width="157" height="21" font="4">/NhathaoTNLG2410</text>
+<text top="411" left="345" width="285" height="21" font="2"><b>Engineer of Computer Engineering</b></text>
+<text top="432" left="345" width="282" height="21" font="3"><i>University of Information Technology </i></text>
+<text top="432" left="627" width="9" height="21" font="5"><i>–</i></text>
+<text top="432" left="640" width="76" height="21" font="3"><i>VNU-HCM</i></text>
+<text top="454" left="345" width="61" height="21" font="3"><i>GPA: 6.3</i></text>
+<text top="422" left="262" width="75" height="18" font="6"><i>2014 - 2018</i></text>
+<text top="568" left="142" width="85" height="32" font="0"><b>SKILLS</b></text>
+<text top="627" left="68" width="51" height="21" font="2"><b>C/C++</b></text>
+<text top="659" left="40" width="79" height="21" font="2"><b>Assembly</b></text>
+<text top="692" left="85" width="34" height="21" font="2"><b>Java</b></text>
+<text top="497" left="270" width="59" height="18" font="6"><i>06 - 2017</i></text>
+<text top="599" left="71" width="156" height="21" font="2"><b>TECHNICAL SKILLS</b></text>
+<text top="568" left="281" width="271" height="32" font="0"><b>COMPLETED PROJECT</b></text>
+<text top="486" left="345" width="207" height="21" font="2"><b>GST FPT Embedded 2017</b></text>
+<text top="508" left="345" width="379" height="21" font="3"><i>The Global Software Tester is an industry-oriented </i></text>
+<text top="530" left="345" width="229" height="21" font="5"><i>training program for the “Year</i></text>
+<text top="530" left="574" width="6" height="21" font="3"><i>-</i></text>
+<text top="530" left="580" width="92" height="21" font="5"><i>3” and “Year</i></text>
+<text top="530" left="672" width="6" height="21" font="3"><i>-</i></text>
+<text top="530" left="678" width="87" height="21" font="5"><i>4” students.</i></text>
+<text top="605" left="281" width="184" height="21" font="2"><b>Teacher Support Tools</b></text>
+<text top="627" left="281" width="510" height="19" font="7"><i>Detail: Make a tool help easy to create, edit, manage questions in the exam </i></text>
+<text top="647" left="281" width="472" height="19" font="7"><i>for teachers. Language: C#. Toolkits: Visual Studio 2010. Members: 4.</i></text>
+<text top="666" left="281" width="507" height="19" font="7"><i>Result: A complete application has the ability to create questions, edit and </i></text>
+<text top="686" left="281" width="472" height="19" font="7"><i>manage them, can be classified by subject, difficulty etc. Score 7.5/10.</i></text>
+<text top="821" left="281" width="163" height="21" font="2"><b>MSP430 LaunchPad</b></text>
+<text top="843" left="281" width="464" height="19" font="7"><i>Detail: Use the MSP430 microcontroller to control temperature and </i></text>
+<text top="863" left="281" width="408" height="19" font="7"><i>humidity device, sent to the server via bluetooth connection.</i></text>
+<text top="882" left="281" width="303" height="19" font="7"><i>Language: C. Toolkits: Keil C v5. Members: 2.</i></text>
+<text top="902" left="281" width="485" height="19" font="7"><i>Result: Device is stable operation in outdoor conditions, with error less </i></text>
+<text top="922" left="281" width="144" height="19" font="7"><i>than 5%. Score 9/10.</i></text>
+<text top="713" left="281" width="126" height="21" font="2"><b>Project Cyclops</b></text>
+<text top="735" left="281" width="457" height="19" font="7"><i>Detail: Combining electronic components to form a remote control </i></text>
+<text top="755" left="281" width="332" height="19" font="7"><i>circuit which turn on or turn off device by sound.</i></text>
+<text top="774" left="281" width="300" height="19" font="7"><i>Language: C. Toolkits: ProgISP. Members: 4.</i></text>
+<text top="794" left="281" width="440" height="19" font="7"><i>Result: Equipment is stable operation at close range. Score 7/10.</i></text>
+<text top="951" left="281" width="154" height="21" font="2"><b>Modern Music App</b></text>
+<text top="972" left="281" width="318" height="19" font="7"><i>Detail: A simple music application on Android. </i></text>
+<text top="992" left="281" width="393" height="19" font="7"><i>Language: Java. Toolkits: Android Studio 2.3. Members: 4.</i></text>
+<text top="1012" left="281" width="489" height="19" font="7"><i>Result: A complete music player with online and offline music playback, </i></text>
+<text top="1032" left="281" width="425" height="19" font="7"><i>charts, playlists and a nice and friendly interface. Score 9.5/10</i></text>
+<text top="724" left="32" width="87" height="21" font="2"><b>HTML/CSS</b></text>
+<text top="789" left="62" width="57" height="21" font="2"><b>MySQL</b></text>
+<text top="821" left="10" width="108" height="21" font="2"><b>Visual Studio</b></text>
+<text top="757" left="36" width="82" height="21" font="2"><b>Javascript</b></text>
+<text top="859" left="32" width="149" height="21" font="2"><b>PERSONAL SKILLS</b></text>
+<text top="921" left="146" width="88" height="21" font="2"><b>Teamwork</b></text>
+<text top="1015" left="32" width="137" height="21" font="2"><b>Positive Attitude</b></text>
+<text top="1040" left="32" width="154" height="21" font="2"><b>Time Management</b></text>
+<text top="953" left="146" width="107" height="21" font="2"><b>Presentation</b></text>
+<text top="985" left="146" width="81" height="21" font="2"><b>Creativity</b></text>
+<text top="888" left="146" width="61" height="21" font="2"><b>English</b></text>
+<text top="1067" left="88" width="138" height="32" font="0"><b>INTERESTS</b></text>
+<text top="1067" left="281" width="142" height="32" font="0"><b>ACTIVITIES</b></text>
+<text top="1097" left="346" width="319" height="21" font="2"><b>Computer Engineering Embedded Club</b></text>
+<text top="1118" left="346" width="369" height="19" font="7"><i>Learn about how to make embedded devices, training </i></text>
+<text top="1138" left="346" width="345" height="19" font="7"><i>microprocessor programming. Held IT Car Racing.</i></text>
+<text top="1102" left="173" width="66" height="21" font="2"><b>Foolball</b></text>
+<text top="1135" left="43" width="92" height="21" font="2"><b>Badminton</b></text>
+<text top="1102" left="46" width="83" height="21" font="2"><b>RTS Game</b></text>
+<text top="1135" left="173" width="48" height="21" font="2"><b>Music</b></text>
+<text top="1108" left="270" width="59" height="18" font="6"><i>03 - 2016</i></text>
+</page>
+</pdf2xml>

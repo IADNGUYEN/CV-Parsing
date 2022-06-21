@@ -1,0 +1,119 @@
+Phan Thi Mong Hoang’s CV  Confidential
+Objective
+I. PERSONAL INFORMATION
+Full Name:  
+PHAN THỊ
+Date of Birth:  July 15th, 1992
+Gender:  
+Female 
+Address:  
+15/18/39 Ngu
+Ward 14, District
+Mobile:  
+01676 147 579
+Email:   
+monghoangphan@gmail.com
+Marital Status: Single 
+II. EDUCATION 
+Period:  
+September 
+University:  
+Saigon University 
+Degree:  
+Bachelor of Engineering in Information Technology.
+GPA: 8.13 
+Degree classification: Very 
+III. SUMMARY 
+More than a year experience in software testing.
+Good at requirement analysis, well
+Good at reading and analyzing requirement, create test plan, test design, test case, executing 
+test case, managing bugs and reporting test result.
+Have knowledge about database.
+Experience on relational database concepts and SQL queries.
+Cooperative and able to perform within a team
+working, careful, meticulous.
+Good communicator, teamwork or independence.
+IV. TECHNICAL SKILLS 
+Testing Technique: Black-
+Performance Testing; 
+Issue tracking system: Redmine
+Confidential 
+CURRICULUM VITAE 
+Objective: To obtain a QC Engineer position. 
+INFORMATION 
+Ị MỘNG HOÀNG 
+July 15th, 1992 
+15/18/39 Nguyen Ngoc Loc Street, 
+District 10, Ho Chi Minh City. 
+01676 147 579 
+monghoangphan@gmail.com 
+September 2010  December 2014 
+Saigon University  Ho Chi Minh City, Vietnam 
+Bachelor of Engineering in Information Technology. 
+: Very – good 
+More than a year experience in software testing. 
+requirement analysis, well-organized, studying new issues. 
+Good at reading and analyzing requirement, create test plan, test design, test case, executing 
+test case, managing bugs and reporting test result. 
+Have knowledge about database. 
+ional database concepts and SQL queries. 
+Cooperative and able to perform within a team-oriented atmosphere, enthusiastic, hard
+working, careful, meticulous. 
+Good communicator, teamwork or independence. box Testing, GUI Testing, Regression Testing, Functional Testing, 
+edmine; 
+1/2 
+Good at reading and analyzing requirement, create test plan, test design, test case, executing 
+oriented atmosphere, enthusiastic, hard-
+Testing, GUI Testing, Regression Testing, Functional Testing, 
+2/2 
+Phan Thi Mong Hoang’s CV  Confidential 
+Database Management System: Access, LinQ, MS SQL Server, NoSQL; 
+Programming Language: Assembly, C++, Java, C#, .NET; 
+Software Analysis and System Architecture: Visio, UML; 
+Software Development Environment: TortoiseSVN, Visual Studio, Eclipse, NetBeans; 
+Web Platform Development: CSS, JavaScript, HTML, PHP; 
+V. LANGUAGE SKILL 
+English:  Reading and Writing skills are better than Listening and Speaking skill.  
+VI. PROFESSIONAL EXPERIENCE 
+Employer:  
+Unit Corp Company. 
+Period:  
+November 2014 – Present. 
+Position:  
+Tester 
+Responsibilities:  
+Create test plan, read document, analyze and create test case, 
+executing tests; support BA, DEV; report for PM, Test Team Leader; writing user guide; 
+training for customer. 
+Projects Participated: 
+# 
+Project 
+Duration 
+1 
+Software for Non-life insurance (.NET) 
+from Nov-2014 to Oct-2015 
+2 
+Software to manage beer machines (SharePoint) 
+from Apr-2015 to Jun-2015 
+3 
+Software to manage suppliers in construction field (Java) 
+from Jul-2015 to Oct-2015 
+4 
+Loan Management Software in financial field (Java) 
+from Oct-2015 to Dec-2015 
+5 
+Bill Management Software in construction field (Java) 
+from Dec-2015 to Feb-2016 
+VII. REFERENCES 
+Mr. NGUYEN QUOC HUY 
+Project Manager 
+Doctor of Science in Information Science  JAIST, 
+Japan. 
+Tel: 0903 714 586 
+Mrs. NGUYEN THI NGOC THANH 
+Test Team Leader 
+Master of Science in Information System  Ho Chi 
+Minh City University of Natural Sciences. 
+Tel: 0907 817 769 
+Form Filler 
+Phan Thi Mong Hoang 

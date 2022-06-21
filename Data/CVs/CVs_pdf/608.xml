@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="13" family="Arial,Bold" color="#000000"/>
+	<fontspec id="1" size="30" family="ABCDEE+Arial Black" color="#1f487c"/>
+	<fontspec id="2" size="30" family="Arial,Bold" color="#1f487c"/>
+	<fontspec id="3" size="30" family="ABCDEE+Calibri,Bold" color="#403052"/>
+	<fontspec id="4" size="16" family="Times New Roman,Bold" color="#000000"/>
+	<fontspec id="5" size="16" family="Times New Roman" color="#000000"/>
+	<fontspec id="6" size="16" family="ABCDEE+Wingdings" color="#000000"/>
+	<fontspec id="7" size="16" family="Arial" color="#000000"/>
+	<fontspec id="8" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="9" size="14" family="Times New Roman" color="#000000"/>
+	<fontspec id="10" size="16" family="Arial" color="#535353"/>
+	<fontspec id="11" size="14" family="Arial" color="#535353"/>
+	<fontspec id="12" size="16" family="Times New Roman,Italic" color="#000000"/>
+<text top="1196" left="660" width="75" height="12" font="0"><b>Page 1 of 2 </b></text>
+<text top="76" left="135" width="263" height="38" font="1"><b>Curriculum Vitae </b></text>
+<text top="86" left="509" width="253" height="28" font="2"><b>NGUYEN VAN HUY</b></text>
+<text top="76" left="760" width="10" height="38" font="1"><b> </b></text>
+<text top="163" left="135" width="256" height="30" font="3"><b>Personal Information </b></text>
+<text top="210" left="168" width="99" height="15" font="4"><b>Full name:     </b></text>
+<text top="210" left="324" width="117" height="15" font="5">Nguyen Van Huy</text>
+<text top="210" left="440" width="4" height="15" font="4"><b> </b></text>
+<text top="238" left="168" width="79" height="15" font="4"><b>Nationality</b></text>
+<text top="238" left="247" width="20" height="15" font="5">:    </text>
+<text top="238" left="324" width="90" height="15" font="5">Vietnamese   </text>
+<text top="266" left="168" width="101" height="15" font="4"><b>Place of birth:</b></text>
+<text top="266" left="269" width="12" height="15" font="5">   </text>
+<text top="266" left="324" width="138" height="15" font="5">Ha Noi / Viet Nam   </text>
+<text top="294" left="168" width="111" height="15" font="4"><b>Date of Birth:   </b></text>
+<text top="294" left="324" width="79" height="15" font="5">28/09/1993 </text>
+<text top="294" left="450" width="4" height="15" font="5"> </text>
+<text top="322" left="168" width="59" height="15" font="4"><b>Gender:</b></text>
+<text top="322" left="227" width="21" height="15" font="5">     </text>
+<text top="322" left="263" width="4" height="15" font="5"> </text>
+<text top="322" left="324" width="46" height="15" font="5">Male   </text>
+<text top="322" left="387" width="4" height="15" font="5"> </text>
+<text top="322" left="450" width="12" height="15" font="5">   </text>
+<text top="322" left="513" width="4" height="15" font="5"> </text>
+<text top="350" left="168" width="50" height="15" font="4"><b>Phone:</b></text>
+<text top="350" left="218" width="12" height="15" font="5">   </text>
+<text top="350" left="263" width="4" height="15" font="5"> </text>
+<text top="350" left="324" width="95" height="15" font="5">0978.928.781 </text>
+<text top="350" left="450" width="4" height="15" font="5"> </text>
+<text top="350" left="513" width="4" height="15" font="5"> </text>
+<text top="378" left="168" width="42" height="15" font="4"><b>Email</b></text>
+<text top="378" left="211" width="17" height="15" font="5">:   </text>
+<text top="378" left="263" width="4" height="15" font="5"> </text>
+<text top="378" left="324" width="164" height="15" font="5">nvhuy1993@gmail.com </text>
+<text top="406" left="168" width="82" height="15" font="4"><b>Languages:</b></text>
+<text top="406" left="250" width="340" height="15" font="5">                  Vietnamese (Native), English (Normal) </text>
+<text top="467" left="135" width="65" height="30" font="3"><b>Skills </b></text>
+<text top="506" left="162" width="4" height="15" font="5"> </text>
+<text top="521" left="135" width="15" height="18" font="6"></text>
+<text top="524" left="150" width="5" height="15" font="7"> </text>
+<text top="525" left="162" width="73" height="15" font="5">Soft Skills </text>
+<text top="544" left="162" width="8" height="20" font="8"></text>
+<text top="549" left="169" width="5" height="15" font="7"> </text>
+<text top="549" left="189" width="84" height="15" font="5">Team work. </text>
+<text top="569" left="162" width="8" height="20" font="8"></text>
+<text top="573" left="169" width="5" height="15" font="7"> </text>
+<text top="574" left="189" width="122" height="15" font="5">Presentation skill. </text>
+<text top="598" left="162" width="4" height="15" font="5"> </text>
+<text top="613" left="135" width="15" height="18" font="6"></text>
+<text top="616" left="150" width="5" height="15" font="7"> </text>
+<text top="617" left="162" width="137" height="15" font="5">Programming Skills </text>
+<text top="636" left="162" width="8" height="20" font="8"></text>
+<text top="641" left="169" width="5" height="15" font="7"> </text>
+<text top="641" left="189" width="49" height="15" font="5">C/C++ </text>
+<text top="660" left="162" width="8" height="20" font="8"></text>
+<text top="665" left="169" width="5" height="15" font="7"> </text>
+<text top="666" left="189" width="23" height="15" font="5">C# </text>
+<text top="685" left="162" width="8" height="20" font="8"></text>
+<text top="690" left="169" width="5" height="15" font="7"> </text>
+<text top="690" left="189" width="51" height="15" font="5">Python </text>
+<text top="752" left="135" width="124" height="30" font="3"><b>Education </b></text>
+<text top="795" left="189" width="4" height="15" font="5"> </text>
+<text top="814" left="162" width="8" height="20" font="8"></text>
+<text top="819" left="169" width="5" height="15" font="7"> </text>
+<text top="819" left="189" width="417" height="15" font="5">2011 – 2016:    - Ho Chi Minh City University of Technology. </text>
+<text top="843" left="189" width="13" height="15" font="5">    </text>
+<text top="843" left="261" width="366" height="15" font="5">        - Faculty of Electrical &amp; Electronics Engineering. </text>
+<text top="866" left="189" width="13" height="15" font="5">   </text>
+<text top="866" left="261" width="192" height="15" font="5">        - Major: Department of </text>
+<text top="868" left="452" width="126" height="13" font="9">Telecommunications</text>
+<text top="866" left="578" width="8" height="15" font="5">. </text>
+<text top="928" left="135" width="99" height="30" font="3"><b>Courses </b></text>
+<text top="966" left="189" width="4" height="15" font="5"> </text>
+<text top="981" left="162" width="8" height="20" font="8"></text>
+<text top="986" left="169" width="5" height="15" font="7"> </text>
+<text top="986" left="189" width="479" height="15" font="5">06/2015 – 10/2015: Joined in CCNA(Cisco Certified Network Associate</text>
+<text top="986" left="668" width="5" height="15" font="10"> </text>
+<text top="987" left="673" width="5" height="14" font="11">)</text>
+<text top="986" left="678" width="65" height="15" font="5"> Training </text>
+<text top="1005" left="189" width="196" height="15" font="5">Course at VNPRO Center.     </text>
+<text top="1067" left="135" width="227" height="30" font="3"><b>Project References </b></text>
+<text top="1106" left="162" width="8" height="20" font="8"></text>
+<text top="1110" left="169" width="5" height="15" font="7"> </text>
+<text top="1111" left="189" width="62" height="15" font="5">Design a </text>
+<text top="1111" left="251" width="66" height="15" font="12"><i>GamePad</i></text>
+<text top="1111" left="317" width="263" height="15" font="5"> by using capacitive sensor technology. </text>
+<text top="1130" left="162" width="8" height="20" font="8"></text>
+<text top="1135" left="169" width="5" height="15" font="7"> </text>
+<text top="1136" left="189" width="347" height="15" font="5">Design a Digital Clock by using Nokia n5110 LCD. </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="1196" left="660" width="75" height="12" font="0"><b>Page 2 of 2 </b></text>
+<text top="47" left="162" width="8" height="20" font="8"></text>
+<text top="51" left="169" width="5" height="15" font="7"> </text>
+<text top="52" left="189" width="571" height="15" font="5">Design  and  construct  a  Smart  Home  System  by  using  Zigbee  technology  and  PLC </text>
+<text top="71" left="189" width="280" height="15" font="5">(Power Line communication) technology. </text>
+<text top="133" left="135" width="114" height="30" font="3"><b>Activities </b></text>
+<text top="176" left="162" width="8" height="20" font="8"></text>
+<text top="180" left="169" width="5" height="15" font="7"> </text>
+<text top="181" left="189" width="574" height="15" font="5">2014:  Participated  Payitforward  (PIF)  Club  in  Faculty  of  Electrical  &amp;  Electronics </text>
+<text top="200" left="162" width="405" height="15" font="5">Engineering in Ho Chi Minh City University of Technology. </text>
+<text top="224" left="162" width="8" height="20" font="8"></text>
+<text top="229" left="169" width="5" height="15" font="7"> </text>
+<text top="229" left="189" width="455" height="15" font="5">2014: Participated a PIF GameAthon Contest was held by PIF Club. </text>
+<text top="253" left="162" width="8" height="20" font="8"></text>
+<text top="258" left="169" width="5" height="15" font="7"> </text>
+<text top="258" left="189" width="494" height="15" font="5">2015: Participated a DID (Do It Different ) Contest was held by PIF Club. </text>
+<text top="282" left="162" width="8" height="20" font="8"></text>
+<text top="287" left="169" width="5" height="15" font="7"> </text>
+<text top="288" left="189" width="574" height="15" font="5">2015:  Teaching  support  for  freshman  in  Faculty  of  Electrical  &amp;  Electronics </text>
+<text top="307" left="162" width="89" height="15" font="5">Engineering. </text>
+<text top="368" left="135" width="239" height="30" font="3"><b>Hobbies &amp; Interests </b></text>
+<text top="411" left="162" width="8" height="20" font="8"></text>
+<text top="416" left="169" width="5" height="15" font="7"> </text>
+<text top="416" left="189" width="154" height="15" font="5">Sports: football, game. </text>
+<text top="440" left="162" width="8" height="20" font="8"></text>
+<text top="445" left="169" width="5" height="15" font="7"> </text>
+<text top="446" left="189" width="95" height="15" font="5">Volunteering. </text>
+<text top="464" left="135" width="4" height="13" font="9"> </text>
+</page>
+</pdf2xml>

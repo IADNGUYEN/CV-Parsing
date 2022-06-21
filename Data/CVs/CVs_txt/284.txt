@@ -1,0 +1,249 @@
+  
+Curriculum Vitae 
+Han Le Hoang  
+Page 1 / 5  
+PERSONAL DETAILS 
+Han Le Hoang 
+No. 60/17/75, Lo O street, Binh An ward, Di An district, Binh Duong province  
+0984.161.405      
+lehoanghan.dap@gmail.com  
+https://www.facebook.com/gipnum   
+Viber or Wechat (0984161405)   
+Sex male | Date of birth 05/11/1984 | Nationality Vietnamese  
+WORK EXPERIENCE 
+PERSONAL PROFILE 
+Although I am working as embedded engineer at Huu Hong company 
+without using Artificial Intelligence (AI). However, when I worked as a teacher 
+at Dongan Polytechnic, I have researched AI and applied it to recognize the 
+sleeping status of the car driver. This was a topic which I got consolation 
+prize from Binh Duong Union of Science and Technology Associations. 
+Especially, I also got the third prize from them for Vietnamese recognition 
+machine based on AMR Cortex-M4 MCU. The AI really attracted me when I 
+graduated from HCM City University of Technology and Education, so doing 
+Master’s degree is my clever decision to help me improve the knowledge 
+about AI. I read some books during the learning process and did some small 
+project by using AI, such as: handwriting recognition, face recognition. Of 
+course, to do these tasks, I have must studied a lot of algorithms about digital 
+signal processing, image processing. When I was a student, I was an 
+excellent member in the robot team. I was charge of programming for 
+automatic robot and planning fighting for my team. Besides, I can use quite 
+well some programming languages, such as: C/C++, C#, MATLAB. 
+JOB APPLIED FOR 
+POSITION 
+PERSONAL STATEMENT 
+Artificial Intelligence (AI) Developer 
+Engineering  
+A highly motivated and hardworking individual, who has recently completed 
+master degree, achieving excellent researching in embedded system. 
+Seeking an apprenticeship in the engineering industry to build upon a keen 
+scientific interest. Eventual career goal is to become a fully-qualified and 
+experienced engineer, with the longer-term aspiration of moving into project 
+management. 
+2017 – present  Embedded system engineer 
+Huu Hong Machinery Joint Stock Company (http://www.huuhong.com.vn/) 
+Editing specification of project; 
+Building flowchart and schedule; 
+Programming and testing project: using Keil C for ARM with C language, 
+building tool for testing by using C# combine with available system; 
+Sending to customers and getting reply; 
+Completing project; 
+Curriculum Vitae 
+Han Le Hoang  
+Page 2 / 5  
+EDUCATION AND TRAINING 
+PERSONAL SKILLS 
+Discuss with foreigner partners to require them who design and make 
+hardware; 
+Customer service: support to set system, collect data, export data to billing. 
+2008 – 2017 
+2007 – 2008    
+Industrial Electronics Teacher 
+Dongan Polytechnic (http://dongan.edu.vn/) 
+Compiling books: embedded system using PIC microcontroller and C 
+language, power electronics, sensors, … 
+Teaching students who work at industrial parks; 
+Researching science every year; 
+Managing teachers in the team; 
+Organizing active for students; 
+Embedded system engineer based on FPGA 
+Microdesign 
+Building flowchart and schedule; 
+Programing and testing project; 
+2003 – 2008  
+Student in electronics at HCMC University of Technology and 
+Education 
+Excellent grades in programmed subjects and math; 
+Main member of robocon team in two years; 
+Like to play football; 
+2010 – 2012  
+Post-graduate student in electronics at HCMC University of 
+Technology and Education 
+Researching speech recognition system in Vietnamese using embedded 
+system with ARM-Cortex M3; 
+Mother tongue(s) 
+Vietnamese 
+Other language(s) 
+UNDERSTANDING  
+SPEAKING  
+WRITING  
+Listening  
+Reading  
+Spoken interaction  Spoken production   
+English  
+B1 
+B1 
+B1 
+B1 
+B1 
+Communication skills 
+good communication skills gained through my experience as an engineer 
+of R&D room who discuss with foreigner partners 
+Organisational / managerial 
+skills 
+leadership (formerly responsible for a team of 7 people at Dongan polytechnic) 
+Curriculum Vitae 
+Han Le Hoang  
+Page 3 / 5  
+ADDITIONAL INFORMATION 
+From June 2016 to June 2017 
+Dongan Polytechnic          
+Project 
+: Sleeping detection for driver 
+Position  
+: Team Leader 
+Description 
+: Soon alarm for the driver when he starts sleeping via a camera 
+Responsibilities:  
+Using the main hardware is Intel Edison KIT which operates on Yocto Linux. This KIT can 
+connect to the internet via wireless module, so it is very useful and easy to program or 
+debug. It also has available some drivers, such as: camera driver, …, we just plug and 
+play; 
+Building algorithm and testing hardware; 
+Analysing data from many images of people; 
+Implement the recognition model using OpenCV on Eclipse tool; 
+Test the results and improve algorithm; 
+Job-related skills 
+good at designing firmware (currently responsible for project of data 
+collector that reads out data from electronic meter via GPRS/3G network) 
+good at programming application by using C# to be use to test other 
+projects 
+good at using tools to simulate, for instance, Matlab, Labview, … 
+good at using tools to design hardware, for example, OrCAD, Altium 
+Disgner 
+have a quite good knowledge about neural network and digital signal 
+processing 
+Digital skills 
+SELF-ASSESSMENT 
+Information 
+processing 
+Communica
+tion 
+Content 
+creation 
+Safety 
+Problem 
+solving 
+Proficient user Independent user Independent user Independent user Independent user 
+good command of office suite (word processor, spread sheet, 
+presentation software) 
+good command of photo editing software gained as an amateur 
+photographer 
+Other skills 
+training 
+research 
+Curriculum Vitae 
+Han Le Hoang  
+Page 4 / 5  
+Hardware  
+: Intel Edison compute module 
+O/S 
+: Yocto Linux, Windows 
+Special software : Intel System Studio IoT Editor, Eclipse 
+Languages   
+: C 
+Work Location  : Binh Duong Province, Vietnam 
+From June 2015 to June 2016 
+Dongan Polytechnic          
+Project 
+: Power Electronics System Training 
+Position  
+: Team Leader 
+Description : Training students about Power Electronics  
+Responsibilities:  
+Designing voltmeter, ammeter with wide range using PIC microcontroller; 
+Designing one phase and three phases pure sine wave inverter using dsPIC 
+microcontroller; 
+Designing Solar system with MPPT algorithm; 
+Editing document with many lessons; 
+Hardware  
+: PIC 8 bit and dsPIC 16 bit microcontroller 
+O/S 
+:  
+Special software : MPLAB XC8, XC16 
+Languages   
+: C 
+Work Location  : Binh Duong Province, Vietnam 
+From June 2014 to June 2015 
+Dongan Polytechnic          
+Project 
+: Controlling devices using speech with ARM STM32F4xxx 
+Position  
+: Team Leader 
+Description : Controlling lamps, fans, TV, … by speech  
+Responsibilities:  
+Hardware design to deploy the project 
+Building algorithm and testing hardware 
+Analysing data from recording speech of people 
+Training system using Matlab to create database 
+Implementing the recognition model using Hidden Markov Model in C/C++ 
+Hardware  
+: ARM 32 bit STM32F4xxx 
+O/S 
+: FreeRTOS 
+Special software : KeilC for ARM, Matlab 
+Languages   
+: C/C++, Matlab 
+Work Location  : Binh Duong Province, Vietnam 
+Curriculum Vitae 
+Han Le Hoang  
+Page 5 / 5  
+From June 2013 to June 2014 
+Dongan Polytechnic          
+Project 
+: Receiving data of Water meter using wireless method 
+Position  
+: Team Leader 
+Description : Reading water meter via handheld with ultra power saving hardware 
+Responsibilities:  
+Hardware design to deploy the project 
+Building algorithm and testing hardware 
+Analysing data to optimize energy 
+Designing interface on handheld (PC) using Labview 
+Receiving data from water meter every month using RF to reliable test 
+Hardware  
+: MSP430FLxxx 
+O/S 
+:  
+Special software : IAR Embedded Workbench for MSP430 
+Languages   
+: C/C++ 
+Work Location  : Binh Duong Province, Vietnam 
+From 2008 to 2009 
+Dongan Polytechnic          
+Project 
+: Microcontroller and FPGA KIT for training at Dongan Polytechnic 
+Position  
+: Member 
+Description : KIT for training using PIC, 8051 families and FPGA platform 
+Responsibilities:  
+Hardware design to deploy the project 
+Building algorithm and testing hardware 
+Editing documents 
+Hardware  
+: PIC, dsPIC, 8051, FPGA Xilinx 
+O/S 
+: Windows 
+Special software : ISE, ModelSim, MPLAB C18, MikroC Pro 
+Languages   
+: C/C++, Verilog 
+Work Location  : Binh Duong Province, Vietnam 

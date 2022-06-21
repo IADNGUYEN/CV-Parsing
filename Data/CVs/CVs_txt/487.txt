@@ -1,0 +1,101 @@
+Ho Quang Tri 
+3 Phung Van Cung Street, 2 Ward, Phu Nhuan District, HCMC. 
+Personal Information: 
+Career Objective:  
+The desired location: Become a good manager in the field of Web Programming.  
+Job status: Full time.  
+Type of employment: Team Leader, Senior, T/A. 
+Education:  
+2000-2006: University of Science Ho Chi Minh City (Faculty of Mathematics and 
+Computer Science).  
+2005-2006: School of Foreign Language  Computer New Age – IDC (Website 
+Programming and Design).  
+2009: Training Center Network Technology CISNET (ActionScript 
+Programming). 
+Skills:  
+Solid background knowledge of PHP_MYSQL.  
+Solid background knowledge of OOP, MVC in PHP.  
+Solid background knowledge of Javascript, Jquery, Ajax.  
+Solid background knowledge of HTML, HTML5, CSS3, XML.  
+Solid background knowledge of Flash – ActionScript.  
+Excellent understanding of OOD, OOP and Design Patterns.  
+Experience in using GIT, SVN, Redmine, Gila.  
+More than 8 years in the position: Developer, Team Lead, Technical Lead and 
+Technical support.  
+Expert experience in Apache, HHVM, Load balancer or web server installing and 
+configuration in Linux, Ubutu, CentOS.  
+Expert experience in configuration chef-solo, knife-solo cookbooks, capistrano.  
+Knowledge and practice of object-oriented Javascript programming.  
+Full name: Ho Quang Tri.  
+DOB: 21/03/1982.  
+POB: Khanh Hoa.  
+Marital status: Single.  
+Mobile: (+84) 1698 33 21 91.  
+Email: trihq.gentleman@gmail.com.  
+Extensive experience as a professional engineer, building and maintaining web 
+applications from concept to production.  
+Experience working in an Agile environment.  
+Experience designing relational databases and queries.  
+Have experience with task planning and estimating effort.  
+Good at team working, supporting and sharing knowledge in team.  
+Good at problem solving.  
+Quick and willing to study for a new technology.  
+Experience working with open source frameworks like Zend, CakePHP, 
+Codelgniter, FuelPHP, Phalcon... Especially with the Zend Framework, has five 
+years of service.  
+Experience working with social network. 
+Desired Salary: 1500$  2000$. 
+Experience record:  
+06/2006 – 06/2007: Thuan Phat Company (PHP programming).  
+07/2007 – 09/2008: 4PSOFT Company (PHP programming).  
+o At Thuan Phat & 4PSOFT: Build web administrator system, implement 
+the projects (customize back-end and implement front-end) for customer 
+(code PHP-MySQL, JS, HTML & CSS), research and build the modules 
+for website.  
+10/2008 – 04/2010: Truong Tho Company (Technical Lead – PHP & 
+ActionScript programming).  
+05/2010 – 10/2011: Tinh Te Company (Technical Lead – PHP & ActionScript 
+programming). 
+o At Truong Tho & Tinh Te: Research Zend Framework and build the web 
+system with Zend Framework.  
+o Research and build the component as libraries extension in ZF. 
+o  Analysis and design database for the projects. 
+o  Research and find the best solutions to solve critical problems – ex: when 
+building a social network, there will arise the problems and how to solved 
+it.  
+o Support team to solve problems (PHP, HTML/CSS, JS, ActionScript). 
+o Code ActionScript (audio player, video player…).  
+10/2011 – 12/2012: IOMeida (Teachnical Lead & Product Manager). IO is the 
+company working about Media and Digital Marketing. 
+o Manage product: working with customer and account team to get idea and 
+then write the requirements and design the mockup.  
+o Working with design team to design layout. 
+o Working with supplier to implement the product. 
+o Working with technical team and account team to test product from 
+supplier. 
+o Working with customer to test product. 
+o Support team and customer to get a good idea or solve the problems.  
+01/2013 – 03/2014: USS Corporation (Leader). 
+o Manage team (dev + design + QA). 
+o General document for project. 
+o Research and support team to working on project (dev & QA). 
+o Research new technical and support team to implement new technical. 
+o Research and find the best solutions to solve critical problems. 
+o Analysis and design database for the projects (work with dev).  
+03/2014 – present: Evolable Asia company (senior developer and support 
+technical) 
+o Building website system allows to create and manage events for more than 
+12 major customers in Japan include: creation of games such as lotteries, 
+scratch cards ... and manage users as well as necessary information 
+required by customer require. 
+o Management, maintenance and repair 2 website of online sales. 
+o Development of the system API web services. 
+o Developing additional features for clients. 
+o Installing and configuration web server include: Apache, HHVM, PHP, 
+MySQL, Postgresql, Mail server, Memcache, Load Balancer… 
+o Support technical for team members. 
+o Support for customer services department. 
+Recent projects which I have been involved:  
+http://aucfan.com/  
+http://www.wholesale-cart.com/  
+http://www.btob-market.com/ 

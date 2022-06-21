@@ -1,0 +1,51 @@
+HDIMS FROM FPT JETKING
+AUG 2015  AUG 2017
+Dear Sir
+Apply: Network Engineer
+ Education
+Major: Infrastructure Management Services
+ Technical Skills
+
+ May 15, 1993
+ Male
+ 01224777111
+ haidangtroller@gmail.com
+
+75/1A, Lam Van Ben, districts
+7,HCMC
+SKILLS
+Office
+Logical thinking and creative
+Public Speaking
+INTERESTS
+Soccer
+Music
+Dinh Duyen Hai Dang
+Dinh Duyen Hai Dang  PC Hardware Support Skills (primary):
++ BIOS/CMOS, Printer, Scanners, etc  Operating System Support Skills (intermediate):
++ Microsoft Windows 7,8,10  Networking Essentials (intermediate):
++ OSI Model, TCP/IP, Installing the Network  Implementing Cisco Networks (intermediate):
++ Routing, switching (CCNA)  Windows Server 2008/2012 Adminstration (primary):
++ Web Server, Mail Server, DNS, Domain Controller, etc  Linux Adminstration: Configuration and installing RedHat, Centos (primary):       
++ Configure local Server, Apache web Server
+ Project
+ Certificate
+Career Objective
+  Thank You
+Seeking to apply my abilities to fill the Network Engineer role in your company. I am a
+dedicated team player who can be relied upon to help your company achieve its goals.
+Routing and Switching(CCNA) granted by Vnpro                                         APR 2017  AUG 2017  Build a Lan Network for small business: The project designed for a small business, staff can
+access internet. Configure Vlan, Routing, DHCP, Spanning tree, HSRP, Port Security, NAT.
+(2 months with 2 people)
+Used:
++Packet Tracer  Cisco Networking Academy  Build Servers for the enterprise: The project designed for a business system that company
+can manage employess. The adminstrator can system management most stable. 
+(2,5months with 2 people)
+Used:
++Windows Server
++VMware workstation
+I believe that I can response your requirement with my experience, background and skills.
+I look fordward to hearing from you earlytime.
+Thank so much for your time and consideration.
+Yours faithfully  Sincerely
+Dinh Duyen Hai Dang

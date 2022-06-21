@@ -1,0 +1,39 @@
+CURRICULUM VITAE
+1. PERSONAL DATA
+Full Name  
+: NGUYỄN QUỐC ANH MINH
+Nationality     
+: Vietnamese
+Sex
+: Male
+Date of birth  
+: 12/09/1987
+Contact address 
+: 62C Lạc Long Quân,Ward 5, District 11, HCMC 
+Cell phone number: 0906306137
+Email                   : dientuysinh@gmail.com
+2. EDUCATION HISTORY
+2015 : Working at TNHH Kim Hưng
+2014 :  Worked at TM-DV Tri Long Ztech.
+2005 to 04/2012 :
+Ho Chi Minh University of Technology (HCMUT) 
+(Bách Khoa University) 
+Bachelor of Electronic-telecom Engineering.
+GPA:6,59
+Final Thesis: ”Application made cane for blindness on Kit ARM 
+OPENCMX-STM3210D”.(8,2 point)
+Programming Language: Verilog, C.
+Equipment: kit ARM OPENCMX-STM3210D, infrared sensor,
+SD memory card, speakers.
+How it works: When an object approached cane, it will sound 
+alerting the blind distance of objects.
+3. SKILLS:
+Professional skills:    Design Interrupt Controller IP in real MCU.
+Coding RTL and Build Verification for INTC.
+Do testplan,complete testcases and evaluate Code Coverage.
+Proficiency in Linux.
+Proficiency in Verilog, C language.
+Proficiency in Workbench, Proteus, Questasim programs.
+Computer skills:         MS Word 
+Powerpoint
+English skills:             Certificate  B

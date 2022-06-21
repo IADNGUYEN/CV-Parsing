@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="901">
+	<fontspec id="0" size="25" family="RobotoCondensed" color="#ffffff"/>
+	<fontspec id="1" size="16" family="RobotoCondensed-Light" color="#ffffff"/>
+	<fontspec id="2" size="14" family="FontAwesome" color="#ffffff"/>
+	<fontspec id="3" size="17" family="RobotoCondensed-Light" color="#ffffff"/>
+	<fontspec id="4" size="23" family="RobotoCondensed" color="#ffffff"/>
+	<fontspec id="5" size="17" family="RobotoCondensed" color="#414142"/>
+	<fontspec id="6" size="16" family="RobotoCondensed" color="#444444"/>
+	<fontspec id="7" size="23" family="FontAwesome" color="#ffffff"/>
+	<fontspec id="8" size="23" family="RobotoCondensed" color="#444444"/>
+	<fontspec id="9" size="23" family="RobotoCondensed" color="#263238"/>
+	<fontspec id="10" size="17" family="RobotoCondensed-Light" color="#414142"/>
+	<fontspec id="11" size="17" family="RobotoCondensed-Light" color="#444444"/>
+<text top="240" left="32" width="206" height="30" font="0"><b>NGUYỄN VIỆT HÙNG</b></text>
+<text top="277" left="29" width="212" height="20" font="1">Software Development (part-time)</text>
+<text top="345" left="18" width="14" height="15" font="2"></text>
+<text top="341" left="39" width="79" height="20" font="3">05/12/1997</text>
+<text top="380" left="19" width="12" height="15" font="2"></text>
+<text top="377" left="39" width="33" height="20" font="3">Male</text>
+<text top="416" left="19" width="12" height="15" font="2"></text>
+<text top="413" left="39" width="101" height="20" font="3">0169.360.7379</text>
+<text top="452" left="18" width="13" height="15" font="2"></text>
+<text top="449" left="39" width="179" height="20" font="3">nvhungkt1997@gmail.com</text>
+<text top="487" left="21" width="8" height="15" font="2"></text>
+<text top="484" left="39" width="212" height="20" font="3">203/1B Huynh Van Nghe st.       </text>
+<text top="508" left="39" width="196" height="20" font="3">Go Vap dist. Ho Chi Minh City</text>
+<text top="547" left="22" width="5" height="15" font="2"></text>
+<text top="544" left="39" width="184" height="20" font="3">fb.com/nguyen.viet.hung.kt</text>
+<text top="598" left="14" width="74" height="27" font="4"><b>EXPECT</b></text>
+<text top="642" left="14" width="168" height="20" font="3">Improving teamwork skill</text>
+<text top="666" left="14" width="143" height="20" font="3">Working Environment</text>
+<text top="691" left="14" width="83" height="20" font="3">Relationship</text>
+<text top="715" left="14" width="74" height="20" font="3">Knowledge</text>
+<text top="757" left="14" width="53" height="27" font="4"><b>SKILL</b></text>
+<text top="801" left="14" width="71" height="20" font="3">Teamwork</text>
+<text top="850" left="14" width="84" height="20" font="3">Self-learning</text>
+<text top="916" left="14" width="84" height="27" font="4"><b>HOBBIES</b></text>
+<text top="960" left="37" width="81" height="20" font="3">Hanging out</text>
+<text top="1002" left="37" width="155" height="20" font="3">Working with computer</text>
+<text top="1043" left="37" width="54" height="20" font="3">Football</text>
+<text top="91" left="294" width="117" height="20" font="5"><b>FPT UNIVERSITY</b></text>
+<text top="92" left="780" width="98" height="19" font="6"><b>09/2015 - NOW</b></text>
+<text top="263" left="294" width="78" height="20" font="5"><b>LANGUAGE</b></text>
+<text top="399" left="294" width="170" height="20" font="5"><b>MASTERCOOK PROJECT</b></text>
+<text top="400" left="765" width="113" height="19" font="6"><b>9/2017 - 10/2017</b></text>
+<text top="668" left="294" width="225" height="20" font="5"><b>KMS TECHNOLOGY INTERNSHIP</b></text>
+<text top="669" left="773" width="105" height="19" font="6"><b>1/2018 - 4/2018</b></text>
+<text top="982" left="294" width="99" height="20" font="5"><b>REACKATHON</b></text>
+<text top="983" left="757" width="121" height="19" font="6"><b>12/2016 - 12/2016</b></text>
+<text top="38" left="302" width="29" height="24" font="7"></text>
+<text top="34" left="352" width="5" height="27" font="8"><b> </b></text>
+<text top="36" left="357" width="64" height="27" font="9"><b>STUDY</b></text>
+<text top="115" left="294" width="147" height="20" font="10">Software Engineering.</text>
+<text top="149" left="294" width="323" height="20" font="11">Studying and using: Java, C# &amp; .NET, Javascript.</text>
+<text top="173" left="294" width="57" height="20" font="11">GPA: 8.6</text>
+<text top="197" left="294" width="581" height="20" font="11">Having experiences in javascript (internship) and CRUD application (projects in school).</text>
+<text top="221" left="294" width="278" height="20" font="11">Always be ready to study new knowledge.</text>
+<text top="287" left="294" width="139" height="20" font="10">Vietnamese, English.</text>
+<text top="346" left="305" width="23" height="24" font="7"></text>
+<text top="344" left="352" width="117" height="27" font="9"><b>EXPERIENCE</b></text>
+<text top="423" left="294" width="278" height="20" font="10">Website for news and recipes about food.</text>
+<text top="457" left="294" width="485" height="20" font="11">- Preparing documents: SRS, Arichitecture Design, GUI Desgin, Unit tests.</text>
+<text top="481" left="294" width="215" height="20" font="11">- Developing system using Java.</text>
+<text top="529" left="294" width="91" height="20" font="11">Personal role:</text>
+<text top="553" left="294" width="382" height="20" font="11">- Leader: following group to keep the project on schedule.</text>
+<text top="578" left="294" width="499" height="20" font="11">- Developer: taking part in developing system, both back-end and front-end.</text>
+<text top="602" left="294" width="77" height="20" font="11">- Presenter.</text>
+<text top="626" left="294" width="332" height="20" font="11">Github: https://github.com/nvhungkt/MasterCook</text>
+<text top="692" left="294" width="240" height="20" font="10">Front-end web developer internship.</text>
+<text top="725" left="294" width="170" height="20" font="11">Working with React Stack</text>
+<text top="749" left="294" width="309" height="20" font="11">- Developing with ReactJs, Redux, Webpack, ...</text>
+<text top="774" left="294" width="418" height="20" font="11">- Writing Unit tests with Karma, Mocha, Chai, Sinon, Enzyme, ...</text>
+<text top="822" left="294" width="175" height="20" font="11">Learning working process:</text>
+<text top="846" left="294" width="296" height="20" font="11">- Agile Programming and Scrum Framework.</text>
+<text top="870" left="294" width="238" height="20" font="11">- Developing in high quality product.</text>
+<text top="929" left="305" width="25" height="24" font="7"></text>
+<text top="927" left="352" width="108" height="27" font="9"><b>ACTIVITIES</b></text>
+<text top="1006" left="294" width="111" height="20" font="10">Audience award.</text>
+<text top="1040" left="294" width="256" height="20" font="11">- Hackathon: Developing with ReactJs.</text>
+<text top="1064" left="294" width="244" height="20" font="11">- Using: ReactJs, NodeJs, MongoDB.</text>
+<text top="1088" left="294" width="343" height="20" font="11">- Presenting the product to get the Audience award.</text>
+<text top="1137" left="294" width="91" height="20" font="11">Personal role:</text>
+<text top="1161" left="294" width="508" height="20" font="11">- Designer: Designing image for the project, designing UX, UI for the website.</text>
+<text top="1185" left="294" width="366" height="20" font="11">- Developer: Developing the website (mostly front-end).</text>
+<text top="1209" left="294" width="368" height="20" font="11">Github: https://github.com/ThuanLCSE/CoffeByourway</text>
+</page>
+</pdf2xml>

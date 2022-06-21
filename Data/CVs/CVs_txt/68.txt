@@ -1,0 +1,78 @@
+ 
+Lê Thanh Phương 
+Lê Thanh Phương 
+47/10 Bis, Kp2, Trung My Tay, District 12, HCM City 
+Email: jackey.phuong@gmail.com 
+Tel: 0984 146 313 
+PERSONAL DETAIL 
+Date of Birth: January 1, 1988. 
+Gender: Male. 
+Marital Status: Single. 
+Nationality: Viet Nam. 
+Permanent Address: 47/10 Bis, Kp2, Trung My Tay, District 12, HCM City. 
+Email: : jackey.phuong@gmail.com 
+Mobile Phone: 0984 146 313 
+Apply for position: Tester. 
+OBJECTIVE 
+To be a good staff. 
+To learn experiences and accomplish my task. 
+To have good opportunities to get promotion in my job. 
+Obtain a challenging position of a software developer to make use of my creative abilities. 
+SUMMARY 
+4 years’ experience in FPT’s Software. 
+TECHNICAL SKILLS 
+Programming languages: C, C++, C#, OOP (UML), Delphi, SQL… 
+Database Management System: SQL Server. 
+Frameworks/ Platforms: DevExpress. 
+Operation system: Windows. 
+Testing: Automation testing (Test Complete) 
+Management skill: team management from 3 to 5 persons. 
+Soft skill: Team building activities… 
+Lê Thanh Phương 
+EDUCATION 
+Hoa Sen University- Information Technology  Bachelor of Computer Science. 
+PROFESSIONAL EXPERIENCE  
+Project name: Localization (from July-2013 until now) 
+Project description:  
+Develop and localize CT machine from Japanese, English to Russian, Chinese Simplified, France, 
+Portugal, and Spain. 
+Responsibilities:  
+First join the team as a programmer to analyze, develop (coding and writing automation test), create 
+and perform unit test case, integration test case and system test case.  
+Then became project team leader, main duty of customer, localization management, billing to 
+customer, business and technical specification, production deployment and support user acceptant test. 
+Technologies:  
+Programming language: Delphi, C++, C#.  
+Project name: DICOM Send (from April-2013 until June-2013) 
+Project description:  
+Develop software application for Japan customer, a module of CT machine. 
+Responsibilities:  
+Study DICOM standard.  
+Create and perform unit test case, integration test case. 
+Technologies:  
+Programming language: Delphi, C++.   
+Lê Thanh Phương 
+Project name: DXR-Migration (from July-2012 until March-2013) 
+Project description:  
+Develop software application for Japan customer, a X-Ray machine. 
+Responsibilities:  
+Migrate system from Win XP 32 bit to Win 7 64 bit.  
+Create and perform unit test case, integration test case. 
+Technologies:  
+Programming language: Delphi, C.  
+Database: SQL Server.   
+Project name: DXR (from December-2011 until June-2012) 
+Project description:  
+Develop software application for Japan customer, a X-Ray machine. 
+Responsibilities:  
+Study DICOM standard.  
+Create and perform unit test case, integration test case. 
+Technology:  
+Programming language: Delphi, C.  
+Database: SQL Server.    
+OTHER SKILLS 
+Independent or team work skill. 
+Communication and interpersonal skills. 
+Be able to quickly learn new technologies. 
+Good at analyzing client requirements and translating them into system requirements. 
+Good ability to self-train on new technologies. 

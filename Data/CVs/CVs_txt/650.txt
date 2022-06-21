@@ -1,0 +1,121 @@
+2014  2019
+University of Information technology
+Major: Information system
+GPA: 6.5/10
+Jan 2014  NOW
+Member of a catholicism organization:  Charity trip to mental hospital ( 1 time per year )  Help a family that they are quiet poor (fixing house, repairing electrical
+equipments or another appliances... 1 time per year)  Share food for homless on streets at night ( 2 times per year)
+Language
+Vietnamese, English
+OOP
+got quite good knowledge in characteristics and experiences.
+Design pattern
+got knowledge and can apply for actual projects
+Database Access
+ADO.NET, LinQ, Entity framework Core
+Database
+SQL Server, Oracle
+Database
+skills to analyse database and distributed it
+C#
+have a lot of experiences, there are many projects written by C#
+(winform, wpf, asp.net core 2.0).
+Vũ Nguyễn Hải Đăng
+Big Data
+Date of birth:
+Sep 15, 1995
+Gender:
+Male
+Phone:
+01664292129
+Email:
+vnhd1995@gmail.com
+Address:
+470/4 Điện Biên Phủ, Phường 17, Quận Bình Thạnh, TP.
+HCM, Vietnam
+Website:
+https://www.facebook.com/vnhd1995
+PERSONAL STATEMENT
+A highly motivated and hardworking in the IT industry to build upon a keen scientific interest. With the
+acquisition ability and high spirit of responsibility, I am always eager to learn new things, enhance knowledge as
+well as vision of the scientific world.
+Hightly adapt to new environment, always want to be better.
+OBJECTIVE
+Take skills and get experience in Big Data field from TMA. After that, try to be fullstack web development.
+EDUCATION
+ACTIVITIES
+SKILLS  platform: desktop, web  ide: visual studio
+Java
+have basic knowledge in java swing and mobile application  platform: desktop, mobile  ide: eclipse, android studio
+C++
+using frequently for implementation algorithms like sorting, searching
+and a basic project.  encourage teamates  good comunication  teamwork  organization
+SOFT SKILLS
+INTERESTS
+music and sport, really like a combination of soccer and gym to get a proportionate body and good health to
+avoid diseases that can get from IT job soon.
+PROJECTS IN UNIVERSITY
+Football Tournament Management
+(2016  2017)
+Customer
+No one
+Description  This is the app that helps employees manage football tournaments such as add,
+update, delete teams, players, coach, records of goals...
+https://github.com/BlueSpiritTeam/FootballTournamentManagement
+Team size
+2
+My position
+Developer
+My responsibilities  Analysis and design  Development  Review code  Optimize code  Bug Fixing
+Technologies used  Win form C#, pattern singleton  ADO.NET  SQL Server and Azure
+Football Management
+(2017  2018)
+Customer
+No one
+Description  This is the app that helps employees manage football tournaments such as add,
+update, delete teams, players
+https://github.com/SeniorSemester1/UITPremierLeague
+Team size
+3
+My position
+Developer
+My responsibilities  Analysis and design  Development  Review code  Optimize code  Bug Fixing
+Technologies used  C++
+Vertical Fragmentation
+(2017  2018)
+Customer
+No one
+Description  This is the app that get the result of the work process in development of “Vertical
+Fragmentation Program”.
+https://github.com/haidang029kg/VerticalFragmentation
+Team size
+1
+My position
+Developer
+My responsibilities  Analysis and design  Development  Review code  Optimize code  Bug Fixing
+Technologies used  WPF C#
+Library Management
+(2016  2017)
+Customer
+No one
+Description  Basic management in library
+https://github.com/BlueSpiritTeam/FootballTournamentManagement
+Team size
+2
+My position
+Developer
+My responsibilities  Analysis and design  Development  Review code  Optimize code  Bug Fixing
+Technologies used  ASP.NET core 2.0  Entity Framework core  Identity framework core
+Blood Bank
+(2017  2018)
+Customer
+No one
+Description  Distributed database of a Blood Bank into 3 sites seperately.
+https://1drv.ms/w/s!Ag-md8AOHxAunTma9csKU0sGPCgG
+Team size
+3
+My position
+Developer
+My responsibilities  Analysis and design  Development  Review code  Optimize code  Bug Fixing
+Technologies used  Oracle
+© topcv.vn

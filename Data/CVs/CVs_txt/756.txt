@@ -1,0 +1,85 @@
+Thanh Tinh Tran
+DEVELOPER
+C++
+C#(Winform, WPF, ASP.net/MVC)
+OOP
+VB
+PHP
+Ajax
+AngularJs
+SQL Server/MySQL
+Cordova Onsen UI
+JavaScript
+HTML/CSS/Bootstrap
+SVN / Git
+Objective C
+Contact information
+Date of birth
+July 16, 1995
+Gender
+Male
+Phone
+[protected data]
+Email
+protected@topcv.vn
+Address
+Ho Chi Minh, Vietnam
+Website
+[protected data]
+Skills
+Education
+Cao Thang Technical College
+Major: Information Technology
+GPA: 8.07/10
+Sep 2013  Sep 2016
+Work experience
+HPB JSC
+Developer
+►Main responsibilities:  Analysis and design solutions from requirements.  Implement designed solutions.  Maintain old source.
+►Skills gained:  Development environment: Windows, Mac OS.  Working independent and team work as well.  Language and techs:
+C#: Winform, Aspx, Asp.net MVC 5 Entity Framework, Asp.net Core
+VB
+PHP: Cake PHP.
+SQL Server, MySQL, Linq.
+Cordova Onsen UI, Html 5, AngularJs
+JavaScript, Ajax
+Html, Css, Bootstrap.
+Objective C.
+Open Layer: Leaflet Js
+►Attending projects:  SmartHome: Iremocon, Leo Remocon  GTA: Bridge and Pave Management System.  NetsuGazouView: Solar Energy Management System.  Lights Management App.  Funeral's Calendar Management System(Cerex):
+Nov 2016  Present
+Soccer
+Music
+Travel
+Book
+Game
+Follow excellence...Success will chase you.
+PERSPECTIVE
+Honors & Awards
+Got scholarship every semester
+2013-2016
+Interests  Ishigakuen: create Template Csv, export Csv in module School
+Management.
+Freelancer
+Developer  Development environment: Windows, POS.  Analysis and design solutions from requirements  Implement designed solutions  Maintain old source  Language and techs:
+C# WPF .
+SQL Server: Store Procedure, Function.
+Web API.
+►Attending projects:  Pos Nail: Nail Store Management System. 
+Nov 2017  Present
+Maple JSC
+Developer  Analysis and design solutions from requirements.  Implement designed solutions.  Maintain old source.
+►Skills gained:  Software development process.  Using Svn.  Language and techs:
+C# WPF.
+JavaScript, Ajax.
+SQL Server,  Linq.
+Aug 2016  Nov 2016
+Cao Thang Technical College
+Internship
+►Skills gained:  Web development process.  Language and techs:
+Asp.net MVC 5
+JavaScript, Ajax.
+SQL Server.
+►Attending projects:   Store Management System. 
+Nov 2015  Feb 2016
+© topcv.vn

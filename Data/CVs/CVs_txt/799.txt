@@ -1,0 +1,77 @@
+OBJECTIVE
+Male
+1996
+Single
+With passion about the technology and engineering, desire to
+become an expert in embedded and automation system. I am
+seeking a role which allows me to continue learning and perfecting
+my skills as well as can contribute, create value for the company.
+ADDRESS
+914 B5, Linh Trung Ward, 
+Thu Duc District, 
+Ho Chi Minh City, 
+Viet Nam.
+CONTACT
+EDUCATION
+Phone:
++841682248410
+Email:
+nhtp2402@gmail.com
+Facebook:
+/NhathaoTNLG2410
+Engineer of Computer Engineering
+University of Information Technology – VNU-HCM
+GPA: 6.3
+2014  2018
+SKILLS
+C/C++
+Assembly
+Java
+06  2017
+TECHNICAL SKILLS
+COMPLETED PROJECT
+GST FPT Embedded 2017
+The Global Software Tester is an industry-oriented 
+training program for the “Year-3” and “Year-4” students.
+Teacher Support Tools
+Detail: Make a tool help easy to create, edit, manage questions in the exam 
+for teachers. Language: C#. Toolkits: Visual Studio 2010. Members: 4.
+Result: A complete application has the ability to create questions, edit and 
+manage them, can be classified by subject, difficulty etc. Score 7.5/10.
+MSP430 LaunchPad
+Detail: Use the MSP430 microcontroller to control temperature and 
+humidity device, sent to the server via bluetooth connection.
+Language: C. Toolkits: Keil C v5. Members: 2.
+Result: Device is stable operation in outdoor conditions, with error less 
+than 5%. Score 9/10.
+Project Cyclops
+Detail: Combining electronic components to form a remote control 
+circuit which turn on or turn off device by sound.
+Language: C. Toolkits: ProgISP. Members: 4.
+Result: Equipment is stable operation at close range. Score 7/10.
+Modern Music App
+Detail: A simple music application on Android. 
+Language: Java. Toolkits: Android Studio 2.3. Members: 4.
+Result: A complete music player with online and offline music playback, 
+charts, playlists and a nice and friendly interface. Score 9.5/10
+HTML/CSS
+MySQL
+Visual Studio
+Javascript
+PERSONAL SKILLS
+Teamwork
+Positive Attitude
+Time Management
+Presentation
+Creativity
+English
+INTERESTS
+ACTIVITIES
+Computer Engineering Embedded Club
+Learn about how to make embedded devices, training 
+microprocessor programming. Held IT Car Racing.
+Foolball
+Badminton
+RTS Game
+Music
+03  2016

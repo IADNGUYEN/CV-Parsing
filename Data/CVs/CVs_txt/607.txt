@@ -1,0 +1,159 @@
+CURRICULUM VITAE 
+PERSONAL INFORMATION 
+Full name :  
+VŨ ĐẠI DƯƠNG 
+Date Of Birth:  05 – 02 – 1989  
+Place Of Birth: Hung Yen Province 
+Address: 
+2, Song Thuong  street, Tan Binh District, Ho Chi Minh City 
+Phone: 
+01687.665.204 
+Gende: 
+Male 
+Email: 
+daiduongptit090@gmail.com 
+Application position: 
+Android  Developer. 
+Career Objectives: 
+Working Experience :   
+Work in dynamic and professional environment.  
+Have opportunities to apply my knowledge and gain experience. 
+Able  to assume multiple tasks in pressured environment . 
+Have sense of responsibility, eagerness to learn and work 
+Experience one years of network management windows server and PHP Codeigniter in 
+Genergame Co.Ltd .  
+Experience one years of Android Development in Genergame Co.Ltd 
+Education : 
+Professional Skills 
+Graduate Engineer of Information Technology  Posts and Telecommunications Institute 
+of Technology . 
+MCSA Certificate –Nhất Nghệ Center. 
+CCNA Certificate –  Posts & Telecoms Institute of Technology. 
+Website Development with PHP Certificate 
+Good in reading English skill 
+Average English communication. 
+Knowledge of Web language : Html,Css,Jquery,Bootrap 
+Knowledge of SQL language : MySQL, SQLite 
+Program language: Java , MySQL, PHP, Java Script. 
+Tools : Eclipse, MySQL, Dreamweaver, IIS, PHP Storm, Android Studio 
+Revision control : SVN. 
+Website : Wordpress 
+Working Experience 
+Taken Project  
+Project Name 
+PHP API  
+StratingDate_Finished Date 
+9/2013 
+present 
+Team Size 
+1 person 
+My Role : Design 
+database 
+using 
+MySQL and PHP MyAdmin Manage Product : Insert, 
+update , delete, edit. Manage data , role. 
+Project Description 
+Building database to store data then using PHP get data and 
+response to Android devices. 
+Tool : PHP Storm  
+Framework : Codeigniter 
+Taken Project  
+Project Name 
+Messager 
+StratingDate_Finished Date 
+10/2014 
+11/2014 
+Team Size 
+1  person 
+My Role : Analysis requirement, find 
+data. Design layout. Develop application. Test and fix bug. 
+Project Description 
+Building some applications which have some beautiful 
+messages, then user can choose one of them and send to their 
+friends via SMS. 
+Tool : Eclipse 
+Taken Project  
+Project Name 
+Webview 
+StratingDate_Finished Date 
+12/2014 
+1/2015 
+Team Size 
+1 person 
+My Role : Analysis requirement. Develop application. Test and fix bug. 
+Project Description 
+Building some applications using webview. 
+Tool:  Eclipse. 
+Taken Project  
+Project Name 
+SoundClound Music 
+StratingDate_Finished Date 
+2/2015 
+present 
+Team Size 
+1 person 
+My Role : Analysis requirement. Using Soundclound API to 
+develop application. Test and fix bug. 
+Project Description 
+Building an music application base on Soundclound API, user 
+can search their favorite music songs and listen them. 
+Tool: Android Sutdio 
+Other Skills 
+Taken Project  
+Project Name 
+Download Video 
+StratingDate_Finished Date 
+9/2015 
+10/2015 
+Team Size 
+1 person 
+My Role : Analysis requirement. Design layout. Find data. Develop application. Test and fix bug. 
+Project Description 
+Building an application base on Webview which load some 
+video servers (Vimeo, Video Bash, FunnyOrDie) to capture 
+link video then user can download this video and manage it by 
+using download manager. 
+Tool: Android Sutdio 
+Main Libs : Donwload manager, Jsoup 
+Taken Project  
+Project Name 
+Youtube Video 
+StratingDate_Finished Date 
+11/2015 
+12/2015 
+Team Size 
+1 person 
+My Role : Analysis requirement. Design layout. Using 
+Youtube 
+API 
+to 
+develop application. Test and fix bug. 
+Project Description 
+Building an video application base on Youtube API V3, using 
+Json paser to parse data and using them to get Video 
+Infomation. 
+Tool: Android Sutdio 
+Taken Project  
+Project Name 
+Ringtone 
+StratingDate_Finished Date 
+12/2015 
+1/2016 
+Team Size 
+1 person 
+My Role : Analysis requirement. Design layout. Find data Test and fix bug. 
+Project Description 
+Building an Ringstone application which users listen music 
+then they can download and set it as ringstone for mobile. 
+Tool: Android Sutdio 
+Experience withWindow OS Sever 2003,2008. 
+Setup Configuration , Management Active Directory over Window Server 2003,2008. 
+Facility configuration DNS,DHCP services ,Mail Server ,setup control panel 
+management host ,Virtualization , Load balancing , Backup. 
+Knowledge of Virtualization Technology(Hyper V ,VMware) 
+Experience in Network :Router , Switch , Firewall. 
+Interpersonal Skills: 
+Enthusiastic, open minded, optimistic, caring and resourceful 
+Be exceptional flexibility and adaptability, organization minded 
+Having sense of responsibility, eagerness to learn and work 
+Able to work independently & teamwork. 

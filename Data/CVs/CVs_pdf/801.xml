@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="12" family="BAAAAA+DejaVuSans" color="#f99706"/>
+	<fontspec id="1" size="12" family="CAAAAA+DejaVuSans" color="#f99706"/>
+	<fontspec id="2" size="12" family="CAAAAA+DejaVuSans" color="#000009"/>
+	<fontspec id="3" size="12" family="CAAAAA+DejaVuSans" color="#0000ff"/>
+	<fontspec id="4" size="16" family="CharterBT" color="#6666ff"/>
+	<fontspec id="5" size="16" family="CharterBT" color="#000009"/>
+	<fontspec id="6" size="16" family="CharterBT" color="#000009"/>
+<text top="16" left="87" width="663" height="14" font="0"><b>Curriculum Vitae                                                                                            NGUYEN DANG HUYNH – </b></text>
+<text top="16" left="752" width="90" height="14" font="1">Data Specialist</text>
+<text top="39" left="357" width="107" height="14" font="2">                            </text>
+<text top="39" left="519" width="11" height="14" font="2">   </text>
+<text top="39" left="735" width="108" height="14" font="2">    Skype:ndhuynh</text>
+<text top="60" left="627" width="55" height="14" font="2">     Mail: <a href="mailto:huynhnd2.bda@gmail.com"> </a></text>
+<text top="60" left="683" width="161" height="14" font="3"><a href="mailto:huynhnd2.bda@gmail.com">huynhnd2.bda@gmail.com</a></text>
+<text top="81" left="519" width="4" height="14" font="3"> </text>
+<text top="81" left="573" width="268" height="14" font="2">             Phone/Whatsapp/: +84 988 961 573</text>
+<text top="101" left="195" width="103" height="14" font="3">                           </text>
+<text top="101" left="411" width="38" height="14" font="2">          </text>
+<text top="101" left="519" width="11" height="14" font="2">   </text>
+<text top="101" left="627" width="204" height="14" font="2">              Add: District 7,HCMC, VN</text>
+<text top="138" left="87" width="164" height="20" font="4">CAREER OBJECTIVES:</text>
+<text top="178" left="101" width="742" height="20" font="5">Contribute   to   the   applying   of   Big   Data   and   Deep   Learning   techniques   into   daily   life   through</text>
+<text top="201" left="101" width="129" height="20" font="5">enthusiasm works</text>
+<text top="242" left="87" width="135" height="20" font="4">TRACK RECORDS:</text>
+<text top="282" left="101" width="742" height="20" font="5">Worked as Big Data Analyst at FPT Telecom from 4/2017 to 5/2018, and as Business Analyst at Raffles</text>
+<text top="305" left="101" width="235" height="20" font="5">Vietnam Company in 2015­2016</text>
+<text top="346" left="101" width="742" height="20" font="5">Bachelor of Engineering at Ho Chi Minh City University of Technology (HCMUT­Vietnam) in Fair</text>
+<text top="369" left="101" width="49" height="20" font="5">degree</text>
+<text top="409" left="101" width="742" height="20" font="5">Post Graduate Certificate Program in Big Data Analytics and Optimization (CPEE) at International</text>
+<text top="432" left="101" width="742" height="20" font="5">School of Engineering (INSOFE­Bangalore­INDIA), a fully curriculum from Language Technologies</text>
+<text top="455" left="101" width="621" height="20" font="5">Institute (LTI) in the School of Computer Science at Carnegie Mellon Univerity (CMU)</text>
+<text top="495" left="87" width="231" height="20" font="4">ACHIEVEMENT AND SKILLSET:</text>
+<text top="536" left="101" width="463" height="20" font="5">Big Data Analyst at <b>FPT Telecom Joint Stock Company (FTEL)</b></text>
+<text top="536" left="681" width="160" height="20" font="6"><b>      </b>04/2017­05/2018</text>
+<text top="577" left="141" width="702" height="20" font="5">An<b>  </b>Engineer   of<b>  </b>Big   Data   team   with   3   members   serving   for  <b>FPT   Play</b>  project,   an   OTT</text>
+<text top="600" left="141" width="702" height="20" font="5">Entertainment   Movies   and   Television   cover   on   multiple   platforms   such   as   iOS,   Android,</text>
+<text top="622" left="141" width="197" height="20" font="5">SmartTV, Web and TV Box.</text>
+<text top="663" left="141" width="702" height="20" font="5">Taking care the log system and infrastructure on Linux / CentOS servers such as configurate the</text>
+<text top="686" left="141" width="658" height="20" font="5">computation cluster, optimize and fix bugs of log receiving services, from Kafka to Logstash</text>
+<text top="727" left="141" width="701" height="20" font="5">Extraction and deliver the data insight of Google Analytics, Data Studio together with PowerBI to</text>
+<text top="749" left="141" width="297" height="20" font="5">fulfil the business and marketing purpose</text>
+<text top="790" left="141" width="701" height="20" font="5">Using   Apache  Spark  framework   on  streaming,  analyzing  and  write  out   to PostgreSQL  and</text>
+<text top="813" left="141" width="231" height="20" font="5">manage this database thereafter</text>
+<text top="854" left="101" width="742" height="20" font="5">Big Data Analytics and Optimization program at  <b>International School of Engineering (INSOFE ­</b></text>
+<text top="876" left="101" width="47" height="20" font="6"><b>India)</b></text>
+<text top="876" left="681" width="53" height="20" font="6"><b>           </b></text>
+<text top="899" left="101" width="131" height="20" font="5">09/2016­03/2017</text>
+<text top="940" left="141" width="701" height="20" font="6"><b>P</b>rograming language on R, Python, Spark (Scala) of machine learning MLlib, and streaming on</text>
+<text top="962" left="141" width="702" height="20" font="5">near­real­time data with Spark Streaming and Kafka. Understanding and familiar with a variety</text>
+<text top="985" left="141" width="701" height="20" font="5">of structured, unstructured data, and their relevant tools to ingest such as Sqoop, Kafka, Flume;</text>
+<text top="1008" left="141" width="371" height="20" font="5">being a good user of automate workflows on Oozie.</text>
+<text top="1049" left="141" width="701" height="20" font="6"><b>C</b>apstone Project on processing target marketing and cross selling on large dataset of an e­</text>
+<text top="1071" left="141" width="702" height="20" font="5">commerce enterprise in US, using multi­classification approach on churn prediction and optimize</text>
+<text top="1094" left="141" width="701" height="20" font="5">product recommendation. Applying various tools and library on transforming, featuring and</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+<text top="16" left="87" width="663" height="14" font="0"><b>Curriculum Vitae                                                                                            NGUYEN DANG HUYNH – </b></text>
+<text top="16" left="752" width="90" height="14" font="1">Data Specialist</text>
+<text top="39" left="357" width="107" height="14" font="2">                            </text>
+<text top="39" left="519" width="11" height="14" font="2">   </text>
+<text top="39" left="735" width="108" height="14" font="2">    Skype:ndhuynh</text>
+<text top="60" left="627" width="55" height="14" font="2">     Mail: <a href="mailto:huynhnd2.bda@gmail.com"> </a></text>
+<text top="60" left="683" width="161" height="14" font="3"><a href="mailto:huynhnd2.bda@gmail.com">huynhnd2.bda@gmail.com</a></text>
+<text top="81" left="519" width="4" height="14" font="3"> </text>
+<text top="81" left="573" width="268" height="14" font="2">             Phone/Whatsapp/: +84 988 961 573</text>
+<text top="101" left="195" width="103" height="14" font="3">                           </text>
+<text top="101" left="411" width="38" height="14" font="2">          </text>
+<text top="101" left="519" width="11" height="14" font="2">   </text>
+<text top="101" left="627" width="204" height="14" font="2">              Add: District 7,HCMC, VN</text>
+<text top="138" left="141" width="701" height="20" font="5">creating key vital attribute to fix with business domain, and apply ensemble learning to build</text>
+<text top="160" left="141" width="164" height="20" font="5">stacking models on its.</text>
+<text top="201" left="141" width="701" height="20" font="5">Enthusiasm<b>  </b>and frequently applying of corpus, graph and NLP on text mining and sentiment</text>
+<text top="224" left="141" width="701" height="20" font="5">analysis, together with classification and regression algorithm in machine learning and deep</text>
+<text top="246" left="141" width="702" height="20" font="5">learning such as KNN, tree based model, SVM, H2O,RNN and CNN (using Keras). Understanding</text>
+<text top="269" left="141" width="701" height="20" font="5">deeply the pipe line to build a model and turn its hyper­parameter to come out with reasonable</text>
+<text top="292" left="141" width="63" height="20" font="5">accuracy</text>
+<text top="333" left="101" width="412" height="20" font="5">Business Analyst at <b>Raffles Vietnam Company Limited  </b></text>
+<text top="333" left="573" width="267" height="20" font="6"><b>                            </b>06/2015­05/2016</text>
+<text top="373" left="141" width="702" height="20" font="5">Work   and   interact   with   Client   focusing   on   Vietnam   country   and   frequently   on   Myanmar,</text>
+<text top="396" left="141" width="702" height="20" font="5">Cambodia   market,   to   offer   business   solution   follow   with   quoting,   technical   servicing   and</text>
+<text top="419" left="141" width="218" height="20" font="5">consulting on Building market</text>
+<text top="459" left="141" width="702" height="20" font="5">Having 6 months on­shore duration in Singapore market, and partitipatin in 3 projects with multi</text>
+<text top="482" left="141" width="701" height="20" font="5">national   partners     and   gain   a   strong   understanding   of   working   behaviors   and   cultures   of</text>
+<text top="505" left="141" width="293" height="20" font="5">Singaporeans and Japanese stakeholders</text>
+<text top="546" left="101" width="345" height="20" font="5">Personal lifelong learning and certificate skillset</text>
+<text top="546" left="519" width="43" height="20" font="6"><b>         </b></text>
+<text top="546" left="627" width="216" height="20" font="6"><b>                       </b>2016 ­ present</text>
+<text top="586" left="141" width="701" height="20" font="5">FPT Corporate University 2­month program on Internet of Things : a course conduct by senior</text>
+<text top="609" left="141" width="701" height="20" font="5">engineers / leaders from FPT corporation (FTEL, FTI, FIS, FSOFT) to cover a wide range domain</text>
+<text top="632" left="141" width="693" height="20" font="5">in IoT and ARM Embebed such as ESP, STM, Node­RED, Alexa and Lamda Serverless computing</text>
+<text top="673" left="141" width="702" height="20" font="5">AWS   Solution   Architect   @   Associate   Level   to   get   intouch   and   practicing   many   times   of</text>
+<text top="695" left="141" width="701" height="20" font="5">component from VPC, high availibity, bastion host, NAT gateway to EC2 instance management</text>
+<text top="718" left="141" width="308" height="20" font="5">together with backup and security solution</text>
+<text top="759" left="141" width="701" height="20" font="5">Linux System Admin Level on Centos and Redhat servers majoring to shell sripting (using python</text>
+<text top="782" left="141" width="338" height="20" font="5">2 and 3), storage, utilities and command line,..</text>
+<text top="822" left="141" width="701" height="20" font="5">Cognitive Class with IBM recognition Badge from Big Data and Hadoop ecosystem, Scala, Spark</text>
+<text top="845" left="141" width="270" height="20" font="5">and basic Crypto currency knowledge</text>
+<text top="886" left="87" width="177" height="20" font="4">RELEVANT ATTITUDES:</text>
+<text top="926" left="141" width="701" height="20" font="6"><b>A</b>pplying statistic and probability on daily life and enable to view facts under a logical and  </text>
+<text top="949" left="141" width="105" height="20" font="5">numerical lens</text>
+<text top="990" left="141" width="701" height="20" font="6"><b>H</b>onestly, truthfully and working toward the art­of­completion of any task given with high</text>
+<text top="1013" left="141" width="701" height="20" font="5">ambition and diligence; respecting the differences, and fast adaption to the updated tools on big</text>
+<text top="1035" left="141" width="102" height="20" font="5">data trending.</text>
+<text top="1076" left="141" width="701" height="20" font="6"><b>S</b>trong leadership and interaction skills on handling with group of people and colleagues, such as</text>
+<text top="1099" left="141" width="421" height="20" font="5">A Head of Class in University and captain in football team.</text>
+</page>
+</pdf2xml>

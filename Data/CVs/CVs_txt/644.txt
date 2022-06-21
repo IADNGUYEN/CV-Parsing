@@ -1,0 +1,49 @@
+Page 1 of 2 
+Curriculum Vitae 
+Personal Information 
+Full name:   
+PHAM DUC DUNG 
+Gender:    
+Male  
+Nationality:   
+Vietnamese  
+Place of birth:  
+Ho Chi Minh / Viet Nam  
+Date of Birth:  
+December 23, 1992 
+Marital status:  
+Single 
+Phone:  
+01656605728 
+Email: 
+phamducdung2312@gmail.com 
+Address :     
+9/3 Phan Boi Chau Street , 2 Ward, Binh Thanh District,  
+Ho Chi Minh City 
+Skills 
+Soft Skills 
+Team work or working independently efficiently 
+Carefulness, enthusiasm, high responsible, working high pressure  
+Be willing to gain experience from others 
+Programming Skills 
+Black Box Testing, Fundamental of Software Testing, Agile Software Testing and 
+Automation Testing 
+Write test requirement, test cases, execute test cases, find bug 
+Having knowledge in C++, SQL, Java, OOP, ASP.NET, HTML, Javascript, CSS, 
+AlloyUI, Bootstrap 
+Microsoft Office (Word, Excel, Power Point) 
+Software 
+Platforms: Windows 
+Others: Eclipse, Visual Studio, Selenium, TestArchitect 
+Experience 
+Software Tester at Logigear Company in 3 months 
+Page 2 of 2 
+Education 
+09/2010 – 09/2014 :    TON DUC THANG University 
+Major in Information Technology 
+09/2014 :  
+Graduated in TON DUC THANG University 
+English 
+English : TOEIC 660 
+Hobbies & Interests 
+Reading books, listen music, activities outside 

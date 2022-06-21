@@ -1,0 +1,167 @@
+DAO THANH DAT 
+99/9/15,  To Hieu Street, Hiep Tan Ward, Tan Phu District, HCMC 
+PERSONAL INFORMATION 
+Full name: Dao Thanh Dat 
+Date of Birth: 25/09/1993 
+Place of Birth: Lam Dong 
+Phone: 096.367.9865 
+Email: thanhdat2599@gmail.com 
+POSITION APPLIED 
+JAVA Software Engineer. 
+CAREER SUMMARY 
+Having nearly 2 years of JAVA Developer. 
+Strong knowledge in JAVA core and OOP.  
+Good understanding of Data Structures and coding standards. 
+Good team working and ability to perform well under pressure. 
+Responsibility, self-motivation, independence  
+Passion for Java and technology 
+WORK & EDUCATION 
+NashTech (Harvey Nash Vietnam) 
+TanBinh Distr, HCMC 
+Software engineer  
+2015  now 
+Ton Duc Thang University 
+Distr 7, HCMC 
+Student  Computer Science  
+2011 – 2015 
+JOB OBJECTIVE 
+To become a staff member working in an active, creative and professional environment. 
+To improve my knowledge and skills. 
+Having a long-term job. 
+LANGUAGES SKILLS 
+1: Beginning > 5: Expert 
+Foreign languages 
+Listening 
+Speaking 
+Reading 
+Writing 
+English 
+4 
+3 
+4 
+3 
+English for communication 
+Reading, writing documents and email. 
+I have experienced to work directly with foreigners customers (England, Italy, Sweden, Hong 
+Kong). 
+TECHNICAL SKILLS & KNOWLEDGE 
+Technical skills 
+Skill matrix (1: Beginning > 5: Expert) 
+1 
+2 
+3 
+4 
+5 
+JAVA 
+x 
+C#, ASP.NET 
+x 
+C/C++ 
+x 
+Android 
+x 
+PHP 
+x 
+Scala 
+x 
+Angular JS 
+x 
+Facebook Development 
+x 
+OOP 
+x 
+Spring Framework 
+x 
+Spring boot 
+x 
+JPA/Hibernate 
+x 
+Struts 
+x 
+JDBC 
+x 
+JSP/JSTL 
+x 
+Restful Web Service 
+x 
+SOAP 
+x 
+HTML 
+x 
+CSS 
+x 
+JavaScript/JQuery/Ajax 
+x 
+Bootstrap 
+x 
+XML Processing 
+x 
+JSON Processing 
+x 
+MSSQL 
+x 
+MySQL 
+x 
+PostgreSql 
+x 
+SQLite 
+x 
+Oracle 
+x 
+JUnit/ Mockito/Power Mockito 
+x 
+Automation Test 
+x 
+Tomcat Server 
+x 
+Jboss 
+X 
+Apache/Nginx 
+x 
+Hosting/VPS/Domain 
+x 
+Hadoop/Bigdata 
+x 
+Maven 
+x 
+Git/SVN 
+x 
+Eclipse/ Intellij Idea 
+x 
+PRODUCTS DEVELOPED 
+Project name: Project Database. 
+Environment: Java, Bootstrap, Spring MVC, Hibernate, SQL Server. 
+Tools used: Eclipse,  MS SQL Server Studio. 
+Description: A web application to help QAs  manage their job easier. 
+My Responsibilities:  Designing, developing, testing. 
+Project name: Internal Tool. 
+Environment: Java, J2ee, Struts, SQL Server, Jasper report. 
+Tools used: Eclipse,  MS SQL Server Studio. 
+Description: A web application to help accountants of company can manage, stats, order 
+new asset for company. 
+My Responsibilities:  coding for  new features, bug fixing and maintenance of the 
+application. 
+Project name: Open University (UK) 
+Environment: Java core, Servlet, SQL Server. 
+Tools used: Eclipse,  MS SQL Server Studio. 
+Description: System of University to manage students courses, time… 
+My Responsibilities: Designing, developing, testing for new features required. 
+Project name: Letter Engnie. 
+Environment: Java, Spring MVC, Spring Boot, Angular JS, Selenium. 
+Tools used: Intellij Idea, Source Tree. 
+Description:  A system to creating/manage  letters templates for insurance company.  
+My Responsibilities: Designing, developing for features,  building and writing 
+automation test for all system. 
+Project name: Finantix 
+Environment: Java core, Servlet, PostgreSql, Free Maker… 
+Tools used: Eclipse, pgAdmin. 
+Description:  A big system for financial solution company. 
+My Responsibilities: developing, bug fixing and maintenance of the system. 
+PROJECTS AT UNIVERSITY 
+Android: Alarm Clock App, Camera App with photo editor. 
+JAVA: Catering Online website 
+Scala web: Photo Sharing 
+asp.NET web: Photo Sharing, Site Checker with Scheduler. 
+PHP :  A site is the same as  phongvu.vn 
+HOBBIES 
+Watching movie, reading news and traveling. 

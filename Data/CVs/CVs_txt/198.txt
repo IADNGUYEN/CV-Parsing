@@ -1,0 +1,63 @@
+Curriculum Vitae
+Personal Details
+Full name:
+Cong-Dat Bui
+Gender:
+Male
+Date of Birth:
+03rd November 1996
+Email:
+dat96.it@gmail.com
+Phone:
++84 (0)915517772
+Address:
+Thoi Lai District, Can Tho, Vietnam
+Nationality:
+Vietnam
+Languages:
+Vietnamese, English
+Education
+09/2014 – 12/2018 Undergraduate degree in Information Technology, at Can Tho
+University (Can Tho, Viet Nam). GPA: 3.19/4.0
+Involved projects
+08/2018  12/2018 The seed sorter machine, build on Arduino and Clustering Algorithm in
+machine learning.
+01/2018  04/2018 The automatic robot based on Arduino and ESP8266 for control
+through the internet. (The annual project in Information Technology)
+2017
+Website for assessing Extracurricular Score of CTU Student using
+metadata approach (student research project).
+2017
+Scheduling software for a college (Coursework)
+2017
+Website for learning Japanese language (Coursework)
+Skills
+Software
+Git, Power Designer, Corel, Photoshop.
+Programming
+Python, PHP, C, Java, Javascript, Node-RED.
+Web
+HTML, CSS, Laravel, DotNetNuke.
+Database
+Microsoft SQL Server, MySQL.
+OS
+Linux, Windows
+Others
+Arduino, Raspberry Pi.
+Research interests
+❖
+Machine learning and its application
+❖
+Internet of Things
+Job Experience
+7/2018 – now
+Working at Liink Software and Services company (Web developer).
+Extracurriculum activities
+2017, 2018
+The supporter of Korean IT Volunteer program (Korea) at Can Tho
+University
+2016, 2017
+Voluntary blood donation
+2015
+The “Green summer” volunteer campaign
+Updated: May 2019

@@ -1,0 +1,559 @@
+RESUME 
+PERSONAL INFORMATION 
+Name 
+: 
+Tran Thong Thai 
+Sex 
+: 
+Male 
+Date of birth 
+: 
+September 20th, 1981 
+Native place 
+: 
+Vung Tau province, Vietnam 
+Marital status 
+: 
+Married 
+Address 
+:  
+1/9 ĐHT11 Street, Dong Hung Thuan Ward, District 12, HCM City,               
+Vietnam 
+Phone 
+: 
+(+84) 909 685 024 
+Email 
+: 
+thaiwhere@gmail.com 
+Health 
+: 
+Excellent. 
+Interests 
+: 
+Football, Table Tennis, Music……….. 
+CAREER OBJECTIVE 
+To further my career path by applying my studying and experience into working as well as the 
+success of the company in the computing industry 
+EDUCATION 
+2009-2011: Master of Science in Information & Computer Engineering, Chung Yuan 
+University, Taiwan. 
+1999-2004: Bachelor of Science in Information Technology, University of Science, Ho Chi 
+Minh City, Vietnam. 
+CERTIFICATE 
+English: TOEIC 640 (very good communication skill) 
+Chinese: Elementary 
+Microsoft Certificate: MCP (.NET Framework  Application Development Foundation) 
+BACKGROUND/KNOWLEDGE 
+Deeply understand about Design Patterns of GoF / SOLID Principles 
+Deeply understand about Win Form, Web Form, Generic Web Handler (.ashx), MVC, 
+Web Service, Win Service, Web API, MSMQ, LINQ, .NET Entity Framework, MS 
+Enterprise Application Blocks 
+Deeply understand about HTML, JavaScript, JQuery, Ajax, AngularJs, CSS 
+Deeply understand about Web Browsers/Engines, Browser Storages, Browser Fingerprint 
+Deeply understand about Obfuscated JavaScript, Encode/Decode, Encrypt/Decrypt, etc.. 
+Deeply understand about Asynchronous programming, Multiple threads, Load Balancing 
+Deeply understand about Thread Agents, Attacks, Preventions, and Security in Web Site 
+Experience in SQL Server Profiler, Store Procedure, Database design, indexing… 
+Experience in UML, Use Case Diagram, Class Diagram, Sequence Diagram, etc… 
+Experience in Software Architecture Documentation, Development Life Cycle / Software 
+Development Methodologies (SCRUM), Requirement Determination & Analysis 
+Experience in Source Code management, Deployment, Continue Integration (CI), 
+Refactor Code, Clean Code 
+Experience in Unit Testing: NUnit, QUnit  
+Experience in NoSQL (CouchBase) 
+Experience in Barcode technology 
+Knowledge of Microservice Architecture Pattern 
+Knowledge of IaaS, PaaS, SaaS 
+Other technologies: WPF, WCF, XML, XSLT, XACML, RabbitMQ, Bootstrap, Less, Lucene 
+.NET Search, Crystal Report 
+Other Languages:  Java Servlet, Visual Basic 6.0, Visual C++ 6.0 
+Databases:  MS Access, SQL Server, ORACLE, My SQL 
+Web Servers:  IIS, Apache Tomcat , Resin 
+Tools: Git, TortoiseSVN, StyleCop, FxCop, TFS, VSS, Fiddle, TOAD, Jenkins, JSHint, 
+Redmine, XMind, StartUML, MatLab, MathType, etc.. 
+Books: Clean Code book; Elements of Reusable Object-Oriented Software; Patterns and Best 
+Practices for Enterprise Integration; Agile Software Development, Principles, Patterns and 
+practices, etc… 
+QUALIFICATIONS/ EXPERIENCE (TOTAL: 13 YEARS) 
+Six years of working at Nexcel, at Quang Trung Software Park, in Ho Chi Minh City 
+(11–Jan–2011 ~ Now) as Senior .NET Developer/ Technical Architect / Project Leader 
+Project 
+Fraud Protection System (FPS) 
+Duration 
+3 years (working) 
+Position 
+Senior .NET Developer / Technical Architect / Project Leader 
+Description 
+* It’s a risk protection & management system by detecting the uniqueness of 
+end-user’s browser and producing statistics/evidence of accessing of end-users. 
+Therefore almost malicious users as well as robot users, etc….are detected and 
+traced in success.  The system is implemented based on Win platform, .NET 
+Framework 4.0 / Generic Web Handler (.ashx), Javascript, hosted in IIS 7.0 
+* Reference for more details about solution/technology of this system (FPS) at  
+https://panopticlick.eff.org/browser-uniqueness.pdf 
+https://panopticlick.eff.org/index.php?action=log&js=yes 
+https://www.iovation.com 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x64 PC/Server 
+Software environment 
+Window7, Window Server 2003 
+.NET Framework 4.0 
+SQL Server 2012 
+Source Code / Tasks management tool 
+Git 
+Jenkins 
+Redmine 
+Development tools 
+MS Visual Studio .NET 2010 / SQL Server 2012 
+XMind 
+StartUML 
+Specific technologies 
+Cross domain, Same-origin policy 
+Browser Unique Identification: Web browsers/engines, browser fingerprint 
+The third party Evercookie:  browser tagging technology 
+Flash cookie, Silverlight cookie, PNG cookie, File Storage cookie, HTML5 
+storages….. 
+Obfuscate javaScript, Encode/Decode, Encrypt/Decrypt, SHA1, RC4…. 
+Http handler, Generic Web handler (.ashx) 
+Load Balancing 
+ASP.NET MVC, Web Service, Win Service, MSMQ 
+MS Enterprise Application Blocks 
+Store procedure, LINQ 
+JavaScript, Ajax, JQuery, AngularJs, Bootstrap 3 
+HTML5, CSS, Less, JSHint 
+StyleCop, FXCop 
+Use Case Diagram, Sequence Diagram 
+Project 
+Special Project Units 
+Duration 
+6 months 
+Position 
+Senior .NET Developer / Technical Architect 
+Description 
+It’s a system to detect fraud transactions from user’s bets based on their betting 
+history and patterns. The system is implemented by .NET Framework MVC 4.0 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x64 PC/Server 
+Software environment 
+Window7, Window Server 2003 
+.NET Framework MVC 4.0 
+SQL Server 2008 
+Source Code / Tasks management tool 
+Git 
+Jenkins 
+Redmine 
+Development tools / methodology 
+Scrum methodology 
+MS Visual Studio .NET 2010 
+XMind 
+StartUML 
+Specific technologies 
+MVC 4.0, Web Form 
+MS Enterprise Application Block 
+Thread, Asynchronous programming 
+Javascript, Ajax, JQuery 
+HTML, CSS, Less, JSHint 
+StyleCop, FXCop 
+Project 
+XML Odds Feed 
+Duration 
+1 year 
+Position 
+Senior .NET Developer / Project Leader 
+Description 
+It’s a system to give odds values of betting systems. Provide the GUI to manage, 
+license for partners and grant the permissions to these partners to allow them to 
+manage the resources of a system. The system is implemented by .NET 
+Framework MVC 4.0 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x64 PC/Server 
+Software environment 
+Window7, Window Server 2003 
+.NET Framework MVC 4.0 
+SQL Server 2008 
+Source Code / Tasks management tool 
+TFS 
+GanttProject 
+Development tools 
+Couch Base 
+MS Visual Studio .NET 2010 
+XMind 
+Firebug 
+Specific technologies 
+MVC 4.0, Web Form 
+MS Enterprise Application Block 
+Javascript, Ajax, JQuery 
+Project 
+ExcelService 
+Duration 
+6 months  
+Position 
+Project Leader 
+Description 
+The ExcelService project is a system that based on WCF/WebService technology, 
+supports end-user the very outstanding features such as export/send email/cancel 
+an action/exporting of excel files from a datawarehouse system or a system 
+working so long 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x64 PC/Server 
+Software environment 
+Window7, Window Server 2003 
+.NET Framework 4.0 
+SQL Server 2008 
+Source Code / Tasks management tool 
+Microsoft Visual SourceSafe (VSS) 
+Workbrench 
+Development tools 
+MS Visual Studio .NET 2010 
+XMind 
+Specific technologies 
+.NET 4 Cancellation Framework 
+WCF/Web Service 
+Window Service 
+MS Enterprise Application Block 
+Javascript, Ajax, JQuery 
+Project 
+DataBank 
+Duration 
+6 months 
+Position 
+Senior .Net Developer 
+Description 
+The databank project is a datawarehouse system to retrieve/view data of all the 
+systems of the company. These are very big systems which contain a lot of tables 
+with more than ten million of rows. The system is implemented by .NET 
+Framework MVC 4.0 and the partitioning technology is applied for the database. 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x64 PC/Server 
+Software environment 
+Window7, Window Server 2003 
+.NET Framework MVC 4.0 
+SQL Server 2008 
+Source Code / Tasks management tool 
+TortoiseSVN 
+Development tools 
+MS Visual Studio .NET 2008 
+XMind 
+Specific technologies 
+MVC 4.0, Web Form 
+Window Service 
+MS Enterprise Application Block 
+Javascript, Ajax, JQuery 
+SQL Server Database Partitioning 
+Project 
+TeamLab 
+Duration 
+6 months 
+Position 
+Senior .Net Developer / Project Leader 
+Description 
+TeamLab is an platform for business collaboration and project management. 
+Features include: Projects, Documents, Milestones, Tasks, Reports, Events, Blogs, 
+Forums, Bookmarks, Wiki, Instant Messenger, Document Management, CRM and 
+more. 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x64 PC/Server 
+Software environment 
+Windows 7, Window Server 2003 
+.NET Framework 3.5 
+MySQL 
+IIS7, Window Services 
+Source Code / Tasks management tool 
+TortoiseSVN (Sub version) 
+Workbrench 
+Development tools 
+MS Visual Studio .NET 2008 
+TOAD 
+XMind 
+Mockup builder tool 
+Specific technologies 
+Lucene .NET Search 
+ASP.NET(C#) 
+Web Form, Widget, User Control, ….. 
+XML, Javascript, Ajax, JQuery 
+Project 
+Agent Site 
+Duration 
+6 months 
+Position 
+Senior .Net Developer 
+Description 
+Agent site is the system to manage the members of the betting websites such as 
+www.12bet.com, www.ibet888.net. It will trace every actions of each member as 
+well as show the sports which he/she betted in the system. Moreover it also 
+manages the budget of each member and show agent, master, super who each 
+member belongs to. 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x64 PC/Server 
+Software environment 
+Windows 7 
+.NET Framework 3.5 
+SQL Server 2008 
+IIS7 
+Source code management tool 
+TFS 
+Development tools 
+MS Visual Studio .NET 2008 
+XMind 
+Firebug 
+Specific technologies 
+ASP.NET(C#) 
+Web Form, User Control 
+XML, Javascript, Ajax, JQuery 
+SQL Server Database Partitioning 
+More than one year of part-time working at GSS Company in Taiwan (12/9/2009 ~ 
+22/12/2010) as a graduate research assistant of the projects, “Research on Classical Contract 
+Model of Software Outsourcing”, “Research and Development on Role-Based Filtering and 
+Transformation of XML documents” and some other projects such as: Hyperwise, ERP, PMIS 
+(Professional Management Information System) 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x86 PC/Server 
+Software environment 
+Windows XP Professional, Window Server 2003 
+.NET Framework, Java 
+Oracle 9i & 10g, SQL Server 2005, MySQL 
+Apache,  Tomcat 
+Development tools 
+MS Visual Studio .NET 2008 
+Visual Basic 6.0 
+Eclipse 
+MATLAB, MathType 
+XMind 
+TortoiseSVN (Sub version) 
+Specific technologies 
+ASP.NET MVC (C#), Win Form, Web Form 
+Java Servlet, J2EE, Spring, Struts, Hibernate 
+XML, Javascript, Ajax, JQuery 
+ClickOne deployment 
+BarCode 
+Two years of working at HarveyNash Company, in Ho Chi Minh City, Vietnam  (4/2007 ~ 
+3/2009) as Software Developer 
+Project 
+TA 
+Duration 
+1 year and 4 months 
+Position 
+Senior .Net Developer 
+Description 
+It is web-form application, the purpose is to manage the products are ordered 
+through the internet, manage the information of dealers, client and calculate to find 
+out the nearest dealers helping the clients have a nearest distance to come and 
+contact to these dealers. It is also help the administrator to total how many visitors 
+to visit the web site day by day…. 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x86 PC/Server 
+Software environment 
+Windows XP Professional 
+.NET Framework 2.0 
+MS SQL Server 2005 
+Development tools 
+MS Visual Studio .NET 2005 
+MS SQL Server 2005 
+Crystal Report 
+Specific technologies 
+ASP.NET 2.0 (C#) 
+Ajax, JQuery, Javascript 
+Client & 
+Product 
+Theodore Alexander (Canada…)  http://www.ta-instock.com 
+Project 
+CTT 
+Duration 
+3 months 
+Position 
+Developer 
+Description 
+It is web-form application, the purpose is to build a system that can create the 
+dynamic web pages (includes widgets such as: menu, image, text, role…) in the 
+runtime, the information of the web page is saved in the xml file. At the time that 
+creating a web page we can preview the result of the web page in advance. 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x86 PC/Server 
+Software environment 
+Windows XP Professional 
+.NET Framework 3.5 
+Development tools 
+MS Visual Studio .NET 2008 
+Specific technologies 
+ASP.NET MVC (C#) 
+Widget 
+XML, JQuery, Ajax, Javascript 
+Client 
+CTT (USA ) 
+Project 
+SilkPortal 
+Duration 
+6 months 
+Position 
+Developer 
+Description 
+It is web-form application; the purpose is to help the human resource manager to 
+manage the employee based on the time sheet, the leave management… 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x86 PC/Server 
+Software environment 
+Windows XP Professional 
+.NET Framework 2.0 
+MS SQL Server 2005 
+Development tools 
+MS Visual Studio .NET 2005 
+MS SQL Server 2005 
+Specific technologies 
+ASP.NET 2.0 (C#) 
+Visual Basic 6.0 
+Crystal Report 
+Ajax, Javascript 
+Client 
+Some clients in Vietnam 
+One year of working at CSC Company, Ho chi minh City, Vietnam (5/2006 ~ 4/2007) as 
+Software Developer 
+Project 
+Fusion 
+Duration 
+1 year 
+Position 
+Developer 
+Description 
+It is win-form application, the purpose of this project is to build a system that 
+manage the process, materials …. of house construction. By input the needed 
+information into the system, the result will show to us in advance the structure of 
+the house in preview as well as let we know what we need to do, what we need to 
+buy to build a house 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x86 PC/Server 
+Software environment 
+Windows XP Professional 
+.NET Framework 3.0 
+MS SQL Server 2005 
+Development tools 
+MS Visual Studio .NET 2005 
+MS SQL Server 2005 
+EA 
+NUnit 
+Specific technologies 
+WPF (Avalon) (.NET Framework 3.0) 
+Client 
+Mitek (USA) 
+Six months of working at Dolsoft company, in Ho chi Minh City, Vietnam (12/2005 to 5/2006) 
+as Software Developer 
+Project 
+CamSmart 
+Duration 
+6 months 
+Position 
+Developer 
+Description 
+It is win-form application, the purpose of this project is to build a system that can 
+capture people, things  as well as to define the object is a person or a thing 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x86 PC/Server 
+Software environment 
+MS Windows 20005 
+My SQL 
+Development tools  
+MS Visual Studio 6.0 
+My SQL 
+Specific technologies 
+Visual C++ 6.0 
+Client 
+USA 
+Almost 2 years of working at SGC Company in Ho Chi Minh city, Vietnam (From 2/2004 to 
+12/2005) as Associate Software Developer 
+Project 
+HandyCraft 
+Duration 
+10 months 
+Position 
+Developer 
+Description 
+It is win-form application, the purpose of this project is to build a system that can 
+sell, order, manage…. handy craft product 
+Technology 
+DEVELOPMENT ENVIRONMENT 
+Hardware environment 
+Intel x86 PC/Server 
+Software environment 
+MS Windows 2002 
+SQL Server 2000 
+Development tools  
+MS Visual Basic 6.0 
+SQL Server 2000 
+Crystal report 
+TEACHING EXPERIENCE (5 years) 
+Three years of experience in part-time teaching at Infoworld Computer School, Ho Chi Minh 
+City (01/9/2011 ~ Now) about subjects such as: Web Programming and Design, Software 
+Development Life Cycle / Software Development Methodologies, Requirement Determination 
+& Analysis 
+One year of experience in part-time teaching at University of Industrial, Ho chi minh City 
+(01/3/2011 ~ 10/12/2011) include subjects such as: Algorithm Analysis and Design, Basic 
+Programming 
+One year of experience in part-time teaching at University of Science, Ho chi minh City 
+(10/9/2007 ~ 10/9/2008) include subjects such as:  Basic Programming, Data Structure,  Web 
+Programming 
+THESIS/RESEARCH 
+Researching about “Access Control for XML”. To defend successfully my master’s thesis 
+with the subject “Role-based access control for web services using XSLT technologies” 
+Language & Database : ASP.NET (C#), WPF C#3.0, SQL Server 2005 
+Studying fields: Access control, XACML, RBAC, XML, XSLT, Web Service 
+Some of typical reference papers: 
+1- Core and Hierarchical Role-Based Access Control (RBAC) Profile of 
+XACML v2.0, OASIS Standard, Feb 2005.  
+2- eXtensible Access Control Markup Language (XACML) Version 2.0, 
+OASIS Standard, Feb 2005. 
+3- Proposed NIST Standard for Role-Based Access Control. ACM Transactions 
+on Information and System Security, Volume 4, No.3, August 2001, pp. 
+224-274  
+“Fine Grained Access Control for SOAP E-Services”, WWW-10, 2001. 
+Researching about “Search Engine” and some methods to improve searching result of search 
+engine. To defend successfully my bachelor’s thesis with the subject “Domain-Specific Web 
+Search with  Keyword Spices” 
+Language & Database : Java (servlet), Oracle 9i 
+Studying fields: Search engine, Domain-specific, keyword spices, Java servlet 
+technology. 
+Reference paper: http://www.ai.soc.i.kyoto-u.ac.jp/~ishida/pdf/ieeet04.pdf 
+OTHER RELEVANT SKILLS 
++ General skills: 
+Ability to work productively and efficiently under pressure. 
+Ability to work as an individual or as part of a team. 
+Ability to rapidly acquire a sound understanding of new concepts. 
+Ability to work carefully with details. Willing to work hard and make a positive contribution 
++ Management skills: estimating, planning, organizing, leading. 
++ Communication skills:  
+Group discussion leading, team working… 
+Being able to speaking, listening, reading, writing in English (good communication skill) 
+Being able to speaking, listening in Chinese (elementary) 
++ More skills:  
+To have experience in searching documents and new technologies by Google, Yahoo, … 
+Teaching subjects of computer science such as: database, algorithm, data structure, 
+programming languages, web-design, requirement determination 
+To the best of my knowledge, the information contained in this resume is true, and accurate in 
+details. 
+Date January 11th, 2017 
+Made by 
+Tran Thong Thai  

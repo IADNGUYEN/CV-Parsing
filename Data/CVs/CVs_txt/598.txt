@@ -1,0 +1,672 @@
+ 
+Mr Hoang Tam Le  
+Contact: 
+Mobile: +84 938 99 33 77 
+Email: lehoangtam@outlook.com 
+Education: 
+2008: Graduated from Faculty of Information 
+Technology  University of Science. 
+2008  now: Studies in statistics, data science, 
+data analysis, SQL, Java, C++, C# programming 
+... especially R. 
+2015: Master of Business Administration, 
+University of Finance & Marketing. 
+Perspective of success: 
+Keep walking, you will come. 
+It is better to deserve honors and not have 
+them than to have them and not deserve 
+them. 
+Doing the same thing over and over again 
+and expecting different results. 
+There is a will, there is a way. 
+Personal information:  
+Birthday: 09/12/1983 
+Address: No. 36, Tu Mo Street, Ward 7, Go Vap 
+District, Ho Chi Minh City, Vietnam. 
+Ambition: 
+Become a leading expert in R, SQL data 
+analyst in Vietnam. 
+Skill:  Leader.  Creation.  Negotiation, communication.  Work independently / group  Adapting to high pressure work.  Recruitment and management skills.  Training skills.  Business, customer, market analysis skills 
+Career goals: 
+Proficiency in all statistical methods R, SQL 
+related work. 
+Study and translate the latest statistical 
+methods in the world. 
+Programme my own statistical software for 
+Vietnam via R and C #, C ++, JAVA. 
+Work experience: 
+Experience in the field of statistics, data analysis, data science, programming, R, sales, 
+sales management and marketing:  Established Tin Nghia Company Limited (2008-2010) 
+Identify opportunities from the market with dozens of industrial parks, hundreds 
+of companies and hundreds of thousands of workers in Thuan An, Binh Duong. 
+This is a market that has a great demand for air travel. 
+Since then, we have built and developed a company that sells retail air tickets to 
+companies and employees in Binh Duong, agents at all levels. Ensure sales> 4 
+billion VND / month. 
+Establish a loyal customer database and maintain steady growth.  Sales Manager of En Viet Trading & Services Joint Stock Company (2010-
+2012) 
+Recruiting and training sales staff. 
+Planning for the sales team. 
+Planning and developing, expanding agent distribution system and major 
+customers in Ho Chi Minh City and Binh Duong. 
+Monitor the sales team in loyal customer care. 
+Develop and implement programs to ensure sales targets. 
+Evaluate, analyze and solve crises and risks. 
+Participate in brand building and development for the company.               
+http://vemaybaytructuyen.com/  Online customer development for Microheli Co., Ltd. (2012-2013) 
+Search for customer database sources using internal software system. 
+Analyze, evaluate, and select to develop new customers. 
+Supervise the implementation of the order, payment and delivery to customers.              
+http://heliwow.com/  Sales Manager of Viet Tra Co., Ltd. Korea (2013-now) 
+Planning for the sales team. 
+Planning and developing, expanding agent distribution network and key 
+customers in South Vietnam. 
+Supervise the sales team in customer care activities. 
+Develop and implement programs to ensure sales targets.  Teaching, researching and analyzing data of projects associated with 
+University of Finance and Marketing, Bac Lieu University, GIMO Co. Ltd, 
+THINH GIA HUY Co.Ltd, Import Export Company 2-9, Department of 
+Culture, Sports and Tourism of Binh Phuoc, Global Petroleum Bank, 
+Supermarket Coop ... (2013-now) 
+Project "Buying laptop behavior of students in Ho Chi Minh City" 
+Data analysis: descriptive statistics, plotting, Guttman's lambda 3, EFA with ML, 
+CFA, SEM with SPSS and AMOS software. 
+Project "Measuring the perceived value of voluntary health insurance in District 3" 
+Data analysis: descriptive statistics, plotting, coefficient Cronbach 'Alpha, PCA, 
+correlation, regression with SPSS software. 
+Project "Factors affecting the intention to choose Ca Mau City to work for students 
+of Bac Lieu University after graduation" 
+Data analysis: Assumptions of standard distribution, Histogram plot, Cronbach 
+'Alpha, PCA, correlation, regression, test hypothesis with SPSS software. 
+Project "Factors influencing customers' decision to buy meat at the supermarket 
+chain Co.opmart TP. Ho Chi Minh" 
+Data analysis:Histogram plot, Cronbach 'Alpha, Principal Component Analysis, 
+correlation analysis, multivariate regression analysis with SPSS software. 
+Project "Factors Affecting Employee Loyalty for Enterprises at 2-9 Dak Lak Import 
+Export Company Limited" 
+Data analysis: Assumptions of standard distribution, Histogram plot, Cronbach 
+'Alpha, PCA, Correlation, Regression, ANOVA, hypothesis testing with SPSS 
+software. 
+Project "Impacting the image of Binh Phuoc destination to the loyalty of visitors" 
+Data analysis: Assumptions of normal distribution, Histogram plot, Cronbach 
+'Alpha, PCA, correlation, regression, ANOVA, test of residual assumptions with 
+SPSS software. 
+Project "Factors affecting staff loyalty to the enterprise at THINH GIA HUY CO., 
+LTD" 
+Data Analysis: Standard Distribution Test, Histogram, Cronbach 'Alpha, PCA, 
+Correlation, Regression, ANOVA, test of residual assumptions with SPSS 
+software. 
+Project "Perception value of customers at Sai Gon Branch when using ATM card of 
+Global Petroleum Commercial Bank" 
+Data analysis: Descriptive statistics, Guttmann's lambda 3, Chi-square statistics, 
+Bartlett's test, KMO, EFA with ML, CFA, SEM with SPSS and AMOS. 
+Project "Factors Influencing Student's Smartphone Buying Decision" 
+Data analysis: descriptive statistics, Guttman's lambda 3, Chi-square statistics, 
+Bartlett's test, KMO, EFA with ML, CFA, SEM with Stata software. 
+Experience with R: 
+Bartlett Test and calculate the KMO coefficient: cortest.bartlett() in William Revelle's 
+psych package. The paf() function in Michael Chajewski's rela package. 
+Determine the number of factors retained: nScree() function in Gilles Raiche’ 
+nFactors package. 
+Find the appropriate number of factors: pca() function in the stats package to do 
+PCA and then plot the screeplot graph through the screeplot() function to find the 
+appropriate number of factors. 
+Factor analysis: factanal() in the stats package with promax rotation. 
+McDonald's Omega coefficient rating scale (The latest reliability method, first used 
+in Vietnam): omega() function for calculating McDonald's Omega in William 
+Revelle's psych package. 
+Total Variable Correlation Coefficient: item.total() function in Paul Bliese's multilevel 
+package. 
+CFA:  
+specify.model() function in the sem package for transmission to the 
+measurement model. 
+sem() function in the sem package of John Fox for CFA. 
+summary() function in the base package to display the results of the analysis. 
+standardizedCourific() function in the John Fox’ sem package to display the 
+normalization coefficient. 
+SEM analysis for the model: 
+lavaan :: sem () for SEM analysis. 
+lavaan :: summary() to display normalized and non-normalized results 
+lavaan::fitMeasures() to return all the fit measures  
+lavaan::modindices() to display modification indices 
+subset() in the base package to display the results that need to modify the 
+model. 
+Using Bootstrap: 
+lavaan::fitMeasures() and lavaan::bootstrapLavaan() function. 
+Show model: 
+semPaths() function in semPlot package 
+Multi-group analysis: 
+lavaan :: sem () with the wishart likelihood approach 
+Regression analysis: 
+lm() function 
+ANOVA 
+lm() and anova() fuction 
+Logistic regression analysis: 
+glm() and predict() function 
+PCA: 
+pca() and princomp() function 
+Diagram drawing: 
+Histogram: his() function 
+boxplot() function 
+Scatter: plot() function 
+Multivariate correlation diagram: cbind() and paire.pannels() in the psych 
+package. 
+Correlation coefficients: 
+Pesrson: cor() 
+Spearman: cor.test(x,y,method=”spearman”)  
+Kendall: cor.test(x,y,method=”kendall”) 
+Statistical description analysis: 
+describe() function in William Revelle's psych package  
+Standard distribution tests: shapiro.test () function.  
+T-test: t.test() function 
+Variance  test: var.test() 
+Wilcoxon  test: wilcox.test() 
+Proportional  test: prop.test() 
+Chi-square – test: chisq.test() 
+Fisher  test: fisher.test() 
+Basic analysis: A series of other fundamental analysis ...  Some programming R codes: 
+Input function from Excel file: 
+# Step 1. Save Excel file with .CSV extension 
+# Step 2. set working directory 
+# Default:  "C:/Users/Administrator/Desktop" 
+nhapLieu <- 
+function(duongDan="C:/Users/Administrator/Desktop/HANGLV",tenFile="Trung
+Gian.xlsx") 
+{ 
+library(rJava) 
+library(xlsxjars) 
+library(xlsx) 
+setwd(duongDan) 
+duLieu=read.xlsx(tenFile, 1)  
+attach(duLieu) 
+return(data.frame(duLieu)) 
+} 
+This function returns an object that matches the correlation coefficient interval 
+traVeDoiTuongPhuHop <- function(doiTuong1, 
+heSoTuongQuan1,heSoTuongQuan2) 
+{  
+doiTuong2 <- data.frame(doiTuong1) 
+heSoTuongQuan=cor(doiTuong2,doiTuong1) 
+n <- nrow(doiTuong2) 
+while(heSoTuongQuan < heSoTuongQuan1 | heSoTuongQuan > 
+heSoTuongQuan2) 
+{ 
+# Get 5 random positions 
+temp <- sample(1:n, 5, replace=F) 
+temp1 <- data.frame(temp)    
+# Get 5 random values from 1 to 5 
+temp3 <- sample(1:5, 5, replace=T) 
+temp4 <- data.frame(temp3) 
+doiTuong2[temp1[1,1],1] <- temp4[1,1] 
+doiTuong2[temp1[2,1],1] <- temp4[2,1] 
+doiTuong2[temp1[3,1],1] <- temp4[3,1] 
+doiTuong2[temp1[4,1],1] <- temp4[4,1] 
+doiTuong2[temp1[5,1],1] <- temp4[5,1] 
+heSoTuongQuan=cor(doiTuong2,doiTuong1) 
+} 
+return(doiTuong2) 
+} 
+This function returns a frame of interger numbers 
+traVeSoNguyen <- function(duLieu_f) 
+{    
+duLieu_f <- data.frame(duLieu_f) 
+duLieu2<-duLieu_f 
+nDong <- nrow(duLieu_f) 
+nCot <- ncol(duLieu_f) 
+for(i in 1:nDong) 
+{ 
+for(j in 1:nCot) 
+{ 
+if(duLieu_f[i,j] <= 1.8) 
+{duLieu2[i,j] <- 1 } 
+if(1.8 < duLieu_f[i,j] & duLieu_f[i,j] <= 2.6) 
+{duLieu2[i,j] <- 2 }   
+if(2.6 <duLieu_f[i,j] & duLieu_f[i,j] <= 3.4) 
+{duLieu2[i,j] <- 3 } 
+if(3.4 < duLieu_f[i,j] & duLieu_f[i,j] <= 4.2) 
+{duLieu2[i,j] <- 4  } 
+if(4.2 <duLieu_f[i,j]) 
+{duLieu2[i,j] <- 5 } 
+} 
+} 
+return(duLieu2) 
+} 
+This function generates the number of observable variables 
+taoRaSoLuongBienQuanSat <- function(doiTuong,n=3) 
+{ 
+temp <- data.frame(doiTuong) 
+for(i in 2:n) 
+{doiTuong2 <- data.frame(doiTuong,temp) 
+doiTuong <- doiTuong2 } 
+return(doiTuong) 
+} 
+This function edits random numbers 
+suaSoNgauNhien <- function(doiTuong1, soLuong = 10) 
+{ 
+doiTuong2 <- data.frame(doiTuong1) 
+n <- nrow(doiTuong2) 
+m <- ncol(doiTuong2) 
+for(j in 1:m) 
+{ 
+for(i in 1:soLuong) 
+{ 
+temp <- sample(1:n, 1, replace=F)   
+temp3 <- sample(1:5, 1, replace=T) 
+doiTuong2[temp,j] <- temp3 
+} 
+} 
+return(doiTuong2) 
+}  Data analysis project with R: "Smartphone purchase behavior of students 
+in Ho Chi Minh City" 
+Qualitative research: Combining theoretical background, previous research models 
+with group discussion techniques (group discussion with 3 groups of students from 
+different schools). From this result, build a formal questionnaire. 
+Quantitative research: interviewed 600 students from colleges in Ho Chi Minh City, 
+data processing and test model (EFA, Scale Reliability, CFA, SEM , Bootstrap, multi-
+group). With the support of packages on software R. 
+Processing methods: EFA, McDonald's Omega Reliability, CFA, SEM, Bootstrap, 
+Multi-group.  
+R Code has done on the project: 
+1. Run imput function 
+nhapLieu <- function(duongDan="C:/Users/DELL/Desktop/LUAN VAN 
+TAM",tenFile="DuLieu.xlsx") 
+{ 
+library(rJava) 
+library(xlsxjars) 
+library(xlsx) 
+setwd(duongDan) 
+duLieu=read.xlsx(tenFile, 1)  
+attach(duLieu) 
+return(data.frame(duLieu)) 
+} 
+dt1 <- nhapLieu() 
+2. Taking quantitative variables 
+dt2 <- dt1[,c(1:25)] 
+3. Describe the observed variables 
+library(psych) 
+describe(dt2) 
+4. Bartlett Test 
+library(psych) 
+cortest.bartlett(dt2) 
+5. Calculate the KMO coefficient 
+library(rela) 
+paf(as.matrix(dt2)) 
+6. Calculate the number of factors retained 
+6a. Using nScree() function 
+library(nFactors) 
+ev <- eigen(cor(dt2))  # Lay igenvalues 
+ap <- parallel(subject=nrow(dt2),var=ncol(dt2),rep=100,cent=.05,model= 
+"factors") 
+nS <- nScree(x=ev$values, aparallel=ap$eigen$qevpea) 
+plotnScree(nS)  
+nS 
+6b.Using pca() function  
+library(stats) 
+pca <- princomp(dt2, scores= TRUE, cor= TRUE) 
+screeplot(pca,type="line", main="Scree Plot") 
+7. EFA first  
+library(stats) 
+factanal(x=dt2, factors=6, rotation = "promax") 
+8. EFA second remove TimKiem4 
+library(stats) 
+dt3 <- dt2[,c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21,22,23,24,25)] 
+factanal(x=dt3, factors=6, rotation = "promax") 
+9. EFA third remove NhuCau6 
+library(stats) 
+dt4 <- dt2[,c(1,2,3,4,5,6,7,8,9,11,12,13,14,15,16,18,19,20,21,22,23,24,25)] 
+factanal(x=dt4, factors=6, rotation = "promax") 
+10. EFA fourth remove NhuCau5 
+library(stats) 
+dt5 <- dt2[,c(1,2,3,4,5,6,7,8,11,12,13,14,15,16,18,19,20,21,22,23,24,25)] 
+factanal(x=dt5, factors=6, rotation = "promax") 
+11. Reliability of the scales 
+library(psych) 
+marketing <- dt2[,c(1:4)] 
+moiTruong <- dt2[,c(11:13)] 
+nhuCau <- dt2[,c(5:8)] 
+timKiem <- dt2[,c(14:16)] 
+yDinh <- dt2[,c(18:20)] 
+quyetDinh <- dt2[,c(21:25)] 
+omega(m=marketing, nFactors=3, fm = "ml") 
+omega(m=moiTruong, nFactors=1, fm = "ml") 
+omega(m=nhuCau, nFactors=2, fm = "ml") 
+omega(m=timKiem, nFactors=1, fm = "ml") 
+omega(m=yDinh, nFactors=1, fm = "ml") 
+omega(m=quyetDinh, nFactors=3, fm = "ml") 
+library(multilevel) 
+item.total(marketing) 
+12. CFA 
+library(sem) 
+moHinh <- specify.model() 
+tuongQuan <- cov(dt5) 
+n <- nrow(dt5) 
+CFA1 <- sem(moHinh, tuongQuan, n) 
+summary(CFA1, conf.level=.90,fit.indices=c("GFI", "AGFI", "RMSEA", "NFI", 
+"NNFI", "CFI", "RNI", "IFI", "SRMR")) 
+standardizedCoefficients(CFA1) 
+13. Display CFA model 
+library(semPlot) 
+semPaths(CFA1, "std", color = list(lat = rgb(238, 213, 210, maxColorValue = 
+255), man = rgb(142, 229, 238, maxColorValue = 255)),mar = c(10, 5, 10, 5)) 
+14. SEM first 
+library(lavaan) 
+moHinhSEM1 <- ' 
+MARKETING =~ Marketing1 + Marketing2 + Marketing3 + Marketing4 
+QUYETDINH =~ QuyetDinh1 + QuyetDinh2 + QuyetDinh3 + QuyetDinh4 + 
+QuyetDinh5 
+NHUCAU    =~ NhuCau1 + NhuCau2 + NhuCau3 + NhuCau4  
+YDINH     =~ YDinh1 + YDinh2 + YDinh3  
+MOITRUONG =~ MoiTruong1 + MoiTruong2 + MoiTruong3 
+TIMKIEM   =~ TimKiem1 + TimKiem2 +TimKiem3 
+NHUCAU    ~  MARKETING + MOITRUONG 
+TIMKIEM   ~  NHUCAU 
+YDINH     ~ NHUCAU +TIMKIEM 
+QUYETDINH ~ YDINH 
+' 
+SEM1 <- lavaan::sem(moHinhSEM1, data = dt5, fixed.x=FALSE) 
+lavaan::fitMeasures(SEM1, c("chisq","df", "pvalue", "cfi", "gfi", "agfi", 
+"srmr","rmsea")) 
+lavaan::summary(SEM1, standardized=TRUE, rsq = TRUE) 
+15. modification model 
+library(lavaan) 
+MI1 <- lavaan::modindices(SEM1) 
+subset(MI1, mi>20) 
+16. SEM second 
+moHinhSEM2 <-' 
+MARKETING =~ Marketing1 + Marketing2 + Marketing3 + Marketing4 
+QUYETDINH =~ QuyetDinh1 + QuyetDinh2 + QuyetDinh3 + QuyetDinh4 + 
+QuyetDinh5 
+NHUCAU    =~ NhuCau1 + NhuCau2 + NhuCau3 + NhuCau4  
+YDINH     =~ YDinh1 + YDinh2 + YDinh3  
+MOITRUONG =~ MoiTruong1 + MoiTruong2 + MoiTruong3 
+TIMKIEM   =~ TimKiem1 + TimKiem2 +TimKiem3 
+NHUCAU    ~  MARKETING + MOITRUONG 
+TIMKIEM   ~  NHUCAU 
+YDINH     ~  TIMKIEM 
+QUYETDINH ~ YDINH 
+Marketing1 ~~ Marketing4 
+‘ 
+SEM2 <- lavaan::sem(moHinhSEM2, data = dt5, fixed.x=FALSE) 
+lavaan::fitMeasures(SEM2, c("chisq","df", "pvalue", "cfi", "gfi", "agfi", 
+"srmr","rmsea")) 
+lavaan::summary(SEM2, standardized=TRUE, rsq = TRUE) 
+17. Using bootstrap technique 
+T.orig <- lavaan::fitMeasures(SEM2, "chisq") 
+T.boot <- lavaan::bootstrapLavaan(SEM2, R=50, 
+type="bollen.stine",FUN=lavaan::fitMeasures, fit.measures="chisq") 
+pvalue.boot <- length(which(T.boot > T.orig))/length(T.boot) 
+pvalue.boot 
+18. Display SEM 
+library(semPlot) 
+semPaths(SEM2, "std", color = list(lat = rgb(245, 213, 118, maxColorValue = 
+255), man = rgb(155, 153, 175, maxColorValue = 255)),mar = c(10, 5, 10, 5)) 
+semPaths(SEM2, "std", color = list(lat = rgb(238, 213, 210, maxColorValue = 
+255), man = rgb(142, 229, 238, maxColorValue = 255)),mar = c(10, 5, 10, 5)) 
+semPaths(SEM2, "std", color = list(lat = rgb(245, 253, 118, maxColorValue = 
+255), man = rgb(155, 253, 175, maxColorValue = 255)),mar = c(10, 5, 10, 5)) 
+19. Multi-group analysis 
+library(lavaan) 
+model.s <- ' 
+MARKETING =~ Marketing1 + Marketing2 + Marketing3 + Marketing4 
+QUYETDINH =~ QuyetDinh1 + QuyetDinh2 + QuyetDinh3 + QuyetDinh4 + 
+QuyetDinh5 
+NHUCAU    =~ NhuCau1 + NhuCau2 + NhuCau3 + NhuCau4  
+YDINH     =~ YDinh1 + YDinh2 + YDinh3  
+MOITRUONG =~ MoiTruong1 + MoiTruong2 + MoiTruong3 
+TIMKIEM   =~ TimKiem1 + TimKiem2 +TimKiem3 
+NHUCAU    ~  MARKETING + MOITRUONG 
+Marketing1 ~~ Marketing4 
+‘ 
+dtDaNhom <- 
+dt1[,c(1,2,3,4,5,6,7,8,11,12,13,14,15,16,18,19,20,21,22,23,24,25,27)] 
+SEM_KB <- lavaan::sem(model.s, data=dtDaNhom, group="GioiTinh") 
+lavaan::summary(SEM_KB) 
+SEM_BB <- lavaan::sem(model.s, data=dtDaNhom, group="GioiTinh", 
+group.equal="regressions") 
+lavaan::summary(SEM_BB) 
+20. T ransmit to the CFA model at the analytical step 12 
+MARKETING > Marketing1, ma_lam1, NA 
+MARKETING > Marketing2, ma_lam2, NA 
+MARKETING > Marketing3, ma_lam3, NA 
+MARKETING > Marketing4, ma_lam4, NA 
+QUYETDINH > QuyetDinh1, qd_lam1, NA 
+QUYETDINH > QuyetDinh2, qd_lam2, NA 
+QUYETDINH > QuyetDinh3, qd_lam3, NA 
+QUYETDINH > QuyetDinh4, qd_lam4, NA 
+QUYETDINH > QuyetDinh5, qd_lam5, NA 
+NHUCAU > NhuCau1, nc_lam1, NA 
+NHUCAU > NhuCau2, nc_lam2, NA 
+NHUCAU > NhuCau3, nc_lam3, NA 
+NHUCAU > NhuCau4, nc_lam4, NA 
+YDINH > YDinh1, yd_lam1, NA 
+YDINH > YDinh2, yd_lam2, NA 
+YDINH > YDinh3, yd_lam3, NA 
+MOITRUONG > MoiTruong1, mt_lam1, NA 
+MOITRUONG > MoiTruong2, mt_lam2, NA 
+MOITRUONG > MoiTruong3, mt_lam3, NA 
+TIMKIEM > TimKiem1, tk_lam1, NA 
+TIMKIEM > TimKiem2, tk_lam2, NA 
+TIMKIEM > TimKiem3, tk_lam3, NA 
+Marketing1 <-> Marketing1, e1, NA 
+Marketing2 <-> Marketing2, e2, NA 
+Marketing3 <-> Marketing3, e3, NA 
+Marketing4 <-> Marketing4, e4, NA 
+QuyetDinh1 <-> QuyetDinh1, e5, NA 
+QuyetDinh2 <-> QuyetDinh2, e6, NA 
+QuyetDinh3 <-> QuyetDinh3, e7, NA 
+QuyetDinh4 <-> QuyetDinh4, e8, NA 
+QuyetDinh5 <-> QuyetDinh5, e9, NA 
+NhuCau1 <-> NhuCau1, e10, NA 
+NhuCau2 <-> NhuCau2, e11, NA 
+NhuCau3 <-> NhuCau3, e12, NA 
+NhuCau4 <-> NhuCau4, e13, NA 
+YDinh1 <-> YDinh1, e14, NA 
+YDinh2 <-> YDinh2, e15, NA 
+YDinh3 <-> YDinh3, e16, NA 
+MoiTruong1 <-> MoiTruong1, e17, NA 
+MoiTruong2 <-> MoiTruong2, e18, NA  
+MoiTruong3 <-> MoiTruong3, e19, NA 
+TimKiem1 <-> TimKiem1, e20, NA 
+TimKiem2 <-> TimKiem2, e21, NA 
+TimKiem3 <-> TimKiem3, e22, NA 
+MARKETING <-> MARKETING, NA, 1 
+QUYETDINH <-> QUYETDINH, NA, 1 
+NHUCAU <-> NHUCAU, NA, 1 
+YDINH <-> YDINH, NA, 1    
+MOITRUONG <-> MOITRUONG, NA, 1 
+TIMKIEM <-> TIMKIEM, NA, 1 
+MARKETING <-> QUYETDINH, M_Q, NA 
+MARKETING <-> NHUCAU, M_N, NA 
+MARKETING <-> YDINH, M_Y, NA 
+MARKETING <-> TIMKIEM, M_T, NA 
+MARKETING <-> MOITRUONG, M_M, NA 
+QUYETDINH <-> NHUCAU, Q_N, NA 
+QUYETDINH <-> YDINH, Q_Y, NA 
+QUYETDINH <-> TIMKIEM, Q_T, NA 
+QUYETDINH <-> MOITRUONG, Q_M, NA 
+YDINH <-> TIMKIEM, Y_T, NA 
+YDINH <-> MOITRUONG, Y_M, NA 
+YDINH <-> NHUCAU, Y_N, NA 
+NHUCAU <-> TIMKIEM, N_T, NA 
+NHUCAU <-> MOITRUONG, N_M, NA 
+TIMKIEM <-> MOITRUONG, T_M, NA 
+Marketing4<->Marketing1, m_m, NA  Study, apply the latest tatistical methods to R in projects: 
+1. “lavaan: An R Package for Structural Equation Modeling” 
+Authors:  Yves Rosseel, posted on JOURNAL OF STATISTICAL SOFTWARE, 
+Volume 48 Isue 2, May/2012. 
+Download: https://www.jstatsoft.org/article/view/v048i02/v48i02.pdf 
+2. “Using the lavaan package (in R) for latent variable modeling (SEM)” 
+Authors : Dr. William Revelle, Ph.D  Northwestern University posted on Stats 
+Make Me Cry  December/2013. 
+Web: http://www.statsmakemecry.com/smmctheblog/using-the-lavaan-
+package-in-r-for-latent-variable-modeling-sem 
+3. “R packages for Structural Equation Model: SEM with R” 
+Author: Pairach Piboonrungroj, PhD posted on Supply Chain Analytics with R: 
+August/2011. 
+Source: https://pairach.com/2011/08/13/r-packages-for-structural-equation-model/ 
+4. “R Tutorial Series” 
+Author: John M Quick: October/2011. 
+Source: http://rtutorialseries.blogspot.com/2011/10/r-tutorial-series-exploratory-
+factor.html 
+5. “A Rant About Uncorrelated Normal Random Variables” 
+Author: Jeffrey S. Rosenthal, 2005 
+Source: http://probability.ca/jeff/teaching/uncornor.html 
+6.  “Step out of the past: Stop using coefficient alpha; there are better ways to 
+calculate reliability.” 
+Author: Dr. Jon Starkweather June/2012 University of North Texas. 
+Source: https://www.unt.edu/ 
+7. “Examining Cronbach Alpha, Theta, Omega Reliability Coefficients According to 
+Sample Size” 
+Authors: Ilker Ercan, Berna Yazici, Deniz Sigirli, Bulent Ediz, Ismet Kan Uludag 
+University, Turkey, Anadolu University, Turkey. 
+Source: 
+http://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1144&context=jmas
+m 
+8. “A general approach to confirmatory maximum likelihood factor analysis” 
+Author: K. Jöreskog Psychometrika, 1969, vol. 34, issue 2, pages 183-202 
+Source: https://www.coursehero.com/file/p6gup5j/J%C3%B6reskog-K-G-1969-A-
+general-approach-to-confirmatory-maximum-likelihood/ 
+9. “Basic Concepts and Procedures of Confirmatory Factor Analysis” 
+Author: Connie D. Stapleton Texas A&M University, January 1997 
+Source: http://ericae.net/ft/tamu/Cfa.htm 
+10. “Determining the Number of Factors to Retain in EFA: Using the SPSS R-Menu v2.0 
+to Make More Judicious Estimations” 
+Author: Matthew Gordon Ray Courtney The University of Auckland (New Zealand) 
+posted on Practical Assessment, Research & Evaluation April 2013 Volume 18, ISSN 
+1531-7714 
+Source: http://pareonline.net/getvn.asp?v=18&n=8 
+11. “MINIMUM SAMPLE SIZE FOR CRONBACH’S COEFFICIENT ALPHA:   
+A MONTE-CARLO STUDY” 
+Author: Halil YURDUGÜL, ResearchGate Jan/2008 
+Source: 
+https://www.researchgate.net/profile/Halil_Yurduguel/publication/268809872_Mini
+mum_Sample_Size_for_Cronbach%27s_Coefficient_Alpha_A_Monte_Carlo_Stdy/link
+s/547747ac0cf205d1687a4ca1/Minimum-Sample-Size-for-Cronbachs-Coefficient-
+Alpha-A-Monte-Carlo-Stdy.pdf?origin=publication_detail 
+12.  “Recommended sample size for conducting exploratory factor analysis on 
+dichotomous data” 
+Author: Robert H. Pearson University of Northern Colorado August/2008 
+Source: 
+https://search.proquest.com/openview/83a194df51f5cb33985ceeae10d0872e/1?pq-
+origsite=gscholar&cbl=18750&diss=y 
+13. “Sample Size and Power Estimates for a Confirmatory Factor Analytic Model in 
+Exercise and Sport: A Monte Carlo Approach” 
+Authors: Nicholas D. Myers, Soyeon Ahn, and Ying Jin posted on Physical 
+Education, Recreation and Dance Vol. 82, No. 3, pp. 412–423 September/2011. 
+Source: 
+https://www.statmodel.com/download/Myers,%20Ahn,%20&%20Jin,%202011.pdf 
+14. “RONBACH’S α, REVELLE’S β, AND MCDONALD’S ωH:THEIR RELATIONS WITH 
+EACH OTHER AND TWO ALTERNATIVE CONCEPTUALIZATIONS OF RELIABILITY” 
+Authors: Richard E. Zinbarg, William Revelle, Iftah Yovel, Wen Li posted on 
+Psychometrika —vol. 70, no. 1, 123–133 March/2005 
+Source: 
+https://www.google.com.vn/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=
+rja&uact=8&ved=0ahUKEwi-
+9b7F6Y_VAhUBgrwKHWM_CKUQFggrMAE&url=http%3A%2F%2Fpersonality-
+project.org%2Frevelle%2Fpublications%2Fzinbarg.revelle.pmet.05.pdf&usg=AFQjC
+NEDBYoeN4eq3c7gQFhb6AZql7ht5w 
+15. “Bootstrap methods: another look at the jackknife”  
+Author: Bradley Efron, posted on Annals of Statistics Jan/1979  
+Source: https://projecteuclid.org/euclid.aos/1176344552 
+16. “Evaluation of Convergent and Discriminant Validity with Multitrait-Multimethod 
+Correlations” 
+Author: Tenko Raykov, posted on British Journal of Mathematical and Statistical 
+Psychology Jan/2011 
+Source: http://onlinelibrary.wiley.com/doi/10.1348/000711009X478616/abstract  Web Reference: 
+https://www.datacamp.com/  
+https://www.coursera.org/specializations/statistics 
+https://www.coursera.org/specializations/jhu-data-science 
+https://www.coursera.org/specializations/big-data 
+https://www.youtube.com/watch?v=V52baivx26w#t=0.638208 
+http://www.burns-stat.com/documents/tutorials/the-statistical-
+bootstrap-and-other-resampling-methods-2/ 
+http://www2.ntupsychology.net/~baguley/R%20code%20for%2
+0omega.R 
+http://crantastic.org/packages/MBESS 
+http://jeromyanglim.tumblr.com/post/33556941601/lavaan-
+cheat-sheet 
+https://www.rdocumentation.org/packages/semPlot/versions/1.0.
+1/topics/semPaths 
+http://sachaepskamp.com/semPlot/examples 
+http://lavaan.ugent.be/tutorial/sem.html 
+http://www.statmethods.net/advstats/factor.html 
+http://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=11
+44&context=jmasm 
+http://probability.ca/jeff/teaching/uncornor.html 
+https://stats.stackexchange.com/questions/612/is-pca-followed-
+by-a-rotation-such-as-varimax-still-pca 
+http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual 
+http://www.bioconductor.org/help/publications/books/r-
+programming-for-bioinformatics/ 
+http://www.statistiklabor.de/en/ExploreTheLab/StatLabR/index.h
+tml 
+http://it.unt.edu/research 
+http://www.statistiklabor.de/en/ExploreTheLab/StatLabR/index.h
+tml 
+http://people.stat.sc.edu/Hitchcock/chapter4_R_examples.txt 
+http://rtutorialseries.blogspot.com/2011/10/r-tutorial-series-
+exploratory-factor.html 
+http://personality-project.org/r/r.guide.html#alpha 
+http://personality-project.org/r/html/alpha.html 
+http://www.real-statistics.com/reliability/cronbachs-alpha/ 
+https://mran.microsoft.com/open/ 
+http://jeromyanglim.blogspot.com/2009/09/structural-equation-
+modelling-in-r.html 
+https://pairach.com/2011/08/13/r-packages-for-structural-
+equation-model/ 
+https://stats.stackexchange.com/questions/10996/r-package-for-
+multilevel-structural-equation-modeling 
+https://stats.stackexchange.com/questions/39182/omega-vs-
+alpha-reliability 
+http://statwiki.kolobkreations.com/index.php?title=Main_Page 
+http://www.statsmakemecry.com/smmctheblog/using-the-lavaan-
+package-in-r-for-latent-variable-modeling-sem 
+http://socserv.socsci.mcmaster.ca/jfox/Courses/soc761/index.ht
+ml#lecture-notes 
+http://www.amarkos.gr/research/lavaan/ 
+https://stat.ethz.ch/pipermail/r-help/2004-January/045065.html 
+https://www.methodsconsultants.com/ 
+https://cran.r-project.org/web/packages/lavaan/index.html 
+https://www.r-bloggers.com/about/ 
+http://www.statsdirect.com/help/default.htm#regression_and_co
+rrelation/pca.htm 
+https://stats.stackexchange.com/questions/129248/cronbachs-
+alpha-in-r 
+http://saeedsharif.com/tag/discriminant/ 
+https://stats.stackexchange.com/questions/39182/omega-vs-
+alpha-reliability 
+http://www.eviews.com/help/helpintro.html#page/EViews%209
+%20Help/factanal.061.01.html 
+https://support.quest.com/technical-
+documents/statistics/current/textbook/11#TOPIC-322250 
+https://www.statmodel.com/download/CDVC_LVM_BJMSP.pdf 
+http://online.fliphtml5.com/vifd/oqgc/#p=8 
+https://www.researchgate.net/publication/268809872_Minimum_
+Sample_Size_for_Cronbach's_Coefficient_Alpha_A_Monte_Carlo_St
+dy 
+http://davidakenny.net/cm/fit.htm 
+https://www.researchgate.net/publication/268809872_Minimum_
+Sample_Size_for_Cronbach's_Coefficient_Alpha_A_Monte_Carlo_St
+dy 
+http://pareonline.net/getvn.asp?v=18&n=8 
+http://sws.bu.edu/tabrown/cfabook.html 
+https://www.youtube.com/watch?v=LugDrs_nh70  Ability: 
+English: Reading, writing, speaking about work. 
+Study and read, apply new statistical techniques in the world 
+Debug in programming and data analysis with R and other programming    
+applications. 
+Use Rstudio, SPSS, Stata proficiently 
+Ability to use any statistical software 
+Ability to program: C #, JAVA, C ++, SQL ... 
+Apply the latest statistical methods 
+Large data processing. 
+Recruitment and training 
+Ability to analyze market, analyze business 
+Online Marketing Capabilities 
+Creativity in business 
+Search, build and develop new customer networks; 
+Proposing sales policies, gathering information, analyzing and proposing 
+types and quantities from time to time for the company to implement import/ 
+export plan. 
+Investigate the market, competitors, advise in time to have appropriate 
+business strategies, oriented to develop sustainable markets. 
+Ability to advise on products and services to the board of directors. 

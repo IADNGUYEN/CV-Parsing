@@ -1,0 +1,111 @@
+Page 1  
+LUONG TUAN KIET  
+CURRICULUM VITAE  
+Address: 41/3 Co Giang street,  
+Cau Ong Lanh ward, District 1, HCMC, Vietnam 70000  
+Email: luongtuankiet89@gmail.com  
+Tel: 0909.184.582  
+LUONG TUAN KIET  
+PERSIONAL DETAILS  Date of Birth: April, 23 1989  
+Gender: Male  
+Marital Status: Single  
+Ethnic Group: Vietnamese  
+Hobbies: Reading, Listen music, game, travel...  
+SKILLS   
+Skills  
+Level  
+Experience(year)  
+Asp.Net,Websevice (c#)  Good  
+1 
+Java  
+Good  
+2 
+IOS(swift)  
+Good  
+1  
+IOS(objective-c)  
+Good  
+0.5 
+android  
+Good  
+0.5  
+Php cake  
+Good  
+0.5  
+Sql server  
+Good  
+2  
+PostgresSql  
+Good  
+2  
+HTML and CSS 
+Good  
+1  
+ACCOMPLISHMENTS   Study at Bach Khoa University – C#, Java Technologies with the excellent 
+results.  
+Complete Military training Program for two years with excellent result 
+and receive the certificates of excellent solider from Chairman of 
+People's Committees and the chief of staff.  
+EXPERIENCE AND  INTEC VIET NAM COMPANY (JAPANESE COMPANIES) PROJECT  
+09/2013 to Now  
+Page 2  
+LUONG TUAN KIET  
+Responsibility:  
+Maintenance Web application, Create Unit test.   
+Develop Web application (Java, C#, ios, android).  
+Project  
+Language 
+Develop  
+Content Develop  
+Tadaloto  
+Java (IBATIS)  
+Building Web admin to manage all Stores, loto 
+number, clip advertise, pay money when the 
+customer wins  
+IOS (obj c)  
+Developing functions: lucky draw, Customer 
+Information, Award Information, push  
+Android  
+notification...  
+Excel marco  C#  
+Web appication which it use Excel to calculate. All 
+data is stored at excel  
+Ichimon  
+C#  
+Maintenance and develop SMTP Mail server. This is 
+the website which use to check knowledge of 
+staff   
+IOS (Swift)  
+Develop app for Iphone, functions includes: login, 
+answer question, push notification...  
+Zojirushi  
+PHP(Cake)  
+Develop Website sales. This is Company which it is 
+very famous in japan.  
+Contract 
+web  
+Java  
+(IBATIS)  
+Develop function: login, create contract, 
+payment... This website is used for manage 
+contract process.  
+Kurabancho  VB.Net  
+change languages from japanese to english. This is 
+winform app which is used for manage sales, 
+import and export of company.  
+ANOTHER SKILL  Relational database designer  Object oriented web developer  Software development process  System analysis & design  
++ Operating Systems : Windows XP, Win 7, Win 8, Win server 2002, 2008  
++ Software experiences:  Upload app to apple store, google play.   
+Page 3  
+LUONG TUAN KIET  MS Office 2003, 2007, 2010, 2013 Pro Plus  MS SQL Server 2005, 2008, 2012  SVN  3d max (good)  Cute FTP Professional 10  
+ADDITIONAL  + Character:  
+INFORMATION  Vivacious.  Determination  Sustain work’s pressure  Enthusiastically + Languages:  
+Languages  
+Level  
+English  
+Intermediate  
+Japanese  
+N4  
+Chinese  
+Good  
++ Expected Salary:in range of 600 USD/month depends on job.  

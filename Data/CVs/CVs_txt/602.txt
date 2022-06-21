@@ -1,0 +1,129 @@
+ 
+RÉSUMÉ 
+NAME:   
+PHAM TUAN SON 
+Mobile:                   0908 252627 
+Email:                     ptson.it@gmail.com 
+Address:                 21 Nguyen The Truyen, Tan Son Nhi Ward, Tan Phu            
+District, Ho Chi Minh 
+EXPERIENCE SUMMARY 
+10 years of experience in Software Development, Networking & Telecommunications and Research 
+Skillful in business analysis, designing, coding, testing, problem solving, troubleshooting and 
+documentation. 
+Good communication and team work also work well under pressure of work. 
+Be responsible and careful 
+TECHNICAL SKILLS 
+Programming languages:  
+o 
+C, C++, Java, Shell Script, Perl, PHP, JSP, HTML, XML 
+Database: PostgreSQL, MySQL, MSSQL 
+Tools: 
+o 
+Eclipse, NetBean, Visual Studio.NET, CVS, git, valgrind 
+Analysis method: UML, OOP 
+Operating system: Windows, Sun Solaris, Fedora Core, Ubuntu 
+Networking and telecommunication protocols/technologies:  
+o 
+TCP, UDP, DNS, FTP, SCTP, TELNET, HTTP, DHCP, IPv4, IPv6, SSH. RIP, OSPF 
+o 
+SIP, H248, MGCP 
+RELEVANT PROJECTS 
+PROJECTS 
+TECHNOLOGIES 
+In-memory data recovery (LAZADA) 
+(2015) 
+Project aims to recover data in memory in case the 
+server’s down and up. We combine the share memory 
+technique and memcached, an open source allows to 
+take memory from different parts of system and make 
+it accessible to areas where you have less than you 
+need. 
+Duties: 
+Design new data structures in order to 
+move cached data from heap to shared 
+memory. And then restore and  
+reconstruct the cached data from shared 
+memory when server’s down and up 
+C/C++ 
+Share memory and memcached 
+technique 
+Implement the new data structures to 
+store memcached data in share memory 
+Traffic Generation for VOIP system (TMA) 
+(2/2012 – 2015) 
+A number of tools, that simulate the clients, gateways, 
+gateway controller, call processing server using 
+various of telecom protocols (SIP, H.248, MGCP,...), 
+are used to test many components in VOIP system of 
+Nortel in the past, and now Genband. 
+Duties: 
+Be responsible for technical leader. 
+Add new features and fix bugs in the system. 
+Troubleshoot problems in system verification 
+labs. 
+C/C++, Java 
+Socket, Multi-threading 
+SIP, H.248, MGCP, STB 
+HTTP/HTTPS 
+Perl/Python scripts. 
+Core and GWC patching (TMA) 
+(1/2011 – 2/2012) 
+Nortel in the past and now Genband solution for 
+telecom system which combines the advantage of 
+VoIP and the traditional TDM network:  
+Converged networks are managed IP 
+core networks that can simultaneously 
+support real-time IP telephony, 
+multimedia and a range of data services 
+Uniquely placed to enable network 
+operators to adopt the new packet-based 
+network architecture without having to 
+restrict themselves 
+Includes call processing agents, 
+translations, routing, billing and services 
+software 
+Duties: 
+Implement the propagation patch from the 
+original patch for CORE and GWC 
+C/C++, Protel 
+VoIP (SIP, H.248…) 
+Proprietary technologies 
+Perl/Python scripts. 
+Building an  Anti-virus and Anti-spam system 
+for emails using grid technology (HCMUS) 
+(2009 – 2010) 
+Base on Globus Toolkits and some email support 
+tool, building a system that stores safe emails on 
+wide network. When the system receives user 
+emails, it will determine a suitable resource to 
+scan emails for spam or virus, then store them 
+Duties: 
+Design and implement whole system 
+Java 
+Qmail, ClamAV, SpamAssassin 
+Globus Toolkits 
+Building a distributed storage system using 
+grid technology (HCMUS) 
+(2007 – 2008) 
+Base on Storage Resource Broker tool, building a 
+system managing distributed data on wide network. 
+When users upload data to system, system will 
+determine a suitable resource to store data. The 
+system allows users to store and access data via web 
+interface. 
+JAVA, JSP  
+PostgreSQL 
+HTML, CSS 
+Storage Resource Broker, 
+Network Weather Service 
+Duties: 
+Design and implement whole system 
+EDUCATION 
+ñ 
+2005  2008 
+Master Degree of Computer Science 
+HCMC University of Sciences, Ho Chi Minh City, Vietnam 
+ñ 
+2000  2004 
+Bachelor Degree in Information Technology 
+HCMC University of of Sciences, Ho Chi Minh City, Vietnam 

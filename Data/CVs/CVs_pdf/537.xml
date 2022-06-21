@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1187" width="918">
+	<fontspec id="0" size="45" family="Oswald" color="#d2b0a0"/>
+	<fontspec id="1" size="15" family="Lato" color="#000000"/>
+	<fontspec id="2" size="12" family="Lato" color="#000000"/>
+	<fontspec id="3" size="16" family="Oswald" color="#000000"/>
+	<fontspec id="4" size="18" family="Oswald" color="#000000"/>
+	<fontspec id="5" size="15" family="Lato" color="#666666"/>
+	<fontspec id="6" size="15" family="Lato" color="#000000"/>
+	<fontspec id="7" size="18" family="Lato" color="#000000"/>
+	<fontspec id="8" size="17" family="Lato" color="#000000"/>
+	<fontspec id="9" size="17" family="Lato" color="#000000"/>
+	<fontspec id="10" size="15" family="Lato" color="#212121"/>
+	<fontspec id="11" size="45" family="Oswald" color="#000000"/>
+	<fontspec id="12" size="21" family="Lato" color="#000000"/>
+	<fontspec id="13" size="18" family="Oswald" color="#000000"/>
+<text top="374" left="47" width="258" height="61" font="0">C A R O L I N E  </text>
+<text top="438" left="47" width="151" height="61" font="0">L E W E Y</text>
+<text top="516" left="48" width="260" height="19" font="1">S O C I A L   M E D I A   M A N A G E R  </text>
+<text top="671" left="47" width="114" height="15" font="2">+ 4 4   7 7 0 0   9 5 3 0  </text>
+<text top="696" left="47" width="245" height="15" font="2">H E L L O @ C O U R T N E Y A D A M S . C O M  </text>
+<text top="721" left="47" width="232" height="15" font="2">W W W . C O U R T N E Y A D A M S . C O M  </text>
+<text top="621" left="47" width="80" height="22" font="3">C O N T A C T</text>
+<text top="343" left="394" width="127" height="25" font="4"><b>E D U C A T I O N  </b></text>
+<text top="410" left="420" width="344" height="19" font="5">UNIVERSITY OF SCIENCE  |  2013-2017 </text>
+<text top="431" left="420" width="74" height="19" font="5">PHYSICS</text>
+<text top="389" left="419" width="249" height="19" font="6"><b>UNDERGRADUATE STUDENT</b></text>
+<text top="131" left="420" width="389" height="22" font="7">With strong background of Mathematics,</text>
+<text top="157" left="420" width="436" height="22" font="7">Probability, Statistics and Computer Science I</text>
+<text top="183" left="420" width="397" height="22" font="7">am focusing on doing research in Machine</text>
+<text top="209" left="420" width="436" height="22" font="7">Learning, especially Neural Network, I also do</text>
+<text top="235" left="420" width="414" height="22" font="7">research in Data Topology. I extremely love</text>
+<text top="261" left="420" width="377" height="22" font="7">working on academic research and have</text>
+<text top="286" left="420" width="277" height="22" font="7">chances to work for industry.</text>
+<text top="94" left="394" width="102" height="25" font="4"><b>S U M M A R Y</b></text>
+<text top="749" left="393" width="148" height="25" font="4"><b>C E R T I F I C A T E S</b></text>
+<text top="792" left="402" width="436" height="21" font="8"><b>ENTROPY - DATA ANALYTICS COMPETITION </b></text>
+<text top="816" left="402" width="192" height="21" font="9">Qualification Round </text>
+<text top="839" left="402" width="46" height="21" font="8"><b>2017</b></text>
+<text top="882" left="403" width="173" height="19" font="6"><b>CAPSTONE DESIGN </b></text>
+<text top="904" left="403" width="186" height="19" font="1">Chungnam University<b> </b></text>
+<text top="925" left="403" width="42" height="19" font="6"><b>2016</b></text>
+<text top="510" left="393" width="79" height="25" font="4"><b>S K I L L S  </b></text>
+<text top="593" left="426" width="146" height="19" font="6"><b>COMPUTER VISION </b></text>
+<text top="572" left="426" width="419" height="19" font="6"><b>PYTHON: NUMPY, PANDAS, MATPLOTLIB, TENSORFLOW </b></text>
+<text top="635" left="426" width="326" height="19" font="6"><b>VISUALIZING HIGH DIMENSIONAL DATA SET</b></text>
+<text top="615" left="426" width="48" height="19" font="6"><b>LATEX</b></text>
+<text top="656" left="427" width="287" height="19" font="10"><b>NEURAL NETWORKS - DEEP LEARNING </b></text>
+<text top="494" left="83" width="229" height="61" font="11">L E   H U N G  </text>
+<text top="558" left="113" width="149" height="61" font="11">T H I N H</text>
+<text top="890" left="47" width="101" height="26" font="12">P h o n e :    </text>
+<text top="933" left="47" width="175" height="26" font="12">0 9 6 8   8 5 4   9 4 5</text>
+<text top="835" left="47" width="92" height="25" font="13">C O N T A C T</text>
+<text top="1013" left="46" width="76" height="26" font="12">e m a i l :</text>
+<text top="1055" left="46" width="269" height="26" font="12">t h i n h l h t 1 @ g m a i l . c o m</text>
+<text top="1031" left="394" width="111" height="25" font="4"><b>I N T E R E S T S</b></text>
+<text top="1070" left="442" width="160" height="19" font="10"><b>PURE MATHEMATICS </b></text>
+<text top="1104" left="442" width="156" height="19" font="10"><b>COMPUTER SCIENCE </b></text>
+</page>
+</pdf2xml>

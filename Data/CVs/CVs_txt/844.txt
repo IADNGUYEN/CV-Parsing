@@ -1,0 +1,121 @@
+SUMMARY 
+Have knowledge and desire to work on Data Science and Machine 
+Learning/Deep Learning. 
+EDUCATION 
+2014: Completed a free online offering of the course Machine Learning 
+provided by Stanford University through COURSERA INC. 
+2006-2010: Bachelor of Sciences and Master of Computer Science of 
+University Bordeaux 1. Overall results: Good. 
+2018: Deep Learning Specialization (deeplearning.ai) certificate 
+ACADEMIC PROJECTS 
+Xtranormal  Business intelligence  6 months internship 
+Project Description: Getting data from all sources, then building a data 
+warehouse and produce reports for the website Xtranormal. 
+Roles: Take all parts of the project but work the most on the part ETL 
+(implement scripts in Java or use Pentaho to get data from various sources of 
+data such as Google Analytics, customer’s databases ... ) 
+Skill Set Utilized: SimpleDB, PostgreSQL, MySQL, WebService, Google 
+Analytics, Pentaho, Java  
+Chain of acquisition/reconstruction for 3D laser scanner: software 
+Loom 3D in LaBRI  Laboratoire Bordelais de Recherche en 
+Informatique.  (http://liba2ri.free.fr/?page_id=21) 
+Project Description: Implement the reconstruction part using algorithm « Ball 
+Pivoting » of Bernardini and develop the software's interface. 
+Roles: Analyse and implement the algorithm « Ball Pivoting » 
+Skill Set Utilized: C/C++, Qt, OpenGL  
+Assignment Duration: 4 months + 2 months internship. 
+SELF-RESEARCH PROJECTS 
+Building a fun application which predicts the lottery numbers using 
+classification. 
+Building a tool to help the blinds on recognition cash (VND) using the 
+architecture as face recognition. (current) 
+DUONG NGUYEN 
+Tel: (+84)(0)1697458122 
+duong.nguyen.0885@gmail.com 
+Skills 
+Languages & Scripting:  
+Java/ JavaScript 
+Python 
+Platforms:  
+JSP/Servlet  
+RESTful web services 
+Scrapy Framework 
+Flask 
+Configuration Management 
+Tools:  
+CVS, Git, SVN 
+Development Tools:  
+Eclipse, Jupyter Notebook 
+Operating System:  
+Windows 
+Linux Ubuntu 
+MacOS 
+Others:  
+Amazon services (Kinesis, 
+Redshift, DynamoDB, EC2) 
+Logi Analytics 
+Libraries: 
+TensorFlow, Pandas, NLTK, 
+Matplotlib, Keras, Scikit-learn 
+Languages 
+English: Intermediate 
+French: Intermediate 
+REVELANT WORK EXPERIENCE 
+KMS, Ho Chi Minh, Vietnam 
+(07/2017 – present) 
+Title(s): 
+Machine Learning Engineer 
+Project: CV Parsing – Extract structure data from curriculum vitaes. 
+Role: Research and develop machine learning/deep learning algorithms on Computer Vision and 
+Natural Language Processing such as text classification, object detection, named entity 
+recognition. 
+Project Team Size: 5 
+Skill Set Utilized: Python, scikit-learn, Pandas, sklearn_crfsuite, Keras, tensorflow 
+Assignment Duration: 14 months 
+Cookie Monster, Ho Chi Minh, Vietnam  
+(12/2016  07/2017) 
+Title(s):  
+Algorithm Engineer 
+Project: Building software for a shipping company 
+Role: Research on algorithm, build services for clustering, route optimization. 
+Project Team Size: 6 
+Skill Set Utilized: Java, Python, JSprit, ekmeans 
+KMS, Ho Chi Minh, Vietnam 
+(04/2011 – 11/2016) 
+Title(s): 
+Senior software engineer: 01/2014 – 11/2016 
+Software engineer: 04/2011 – 12/2013 
+Project: qMap (QASymphony) 
+Project Description: Build a graphic visualizer for data of qTest Explorer (a product of 
+QASymphony) 
+Industry: Testing Management 
+Project Team Size: 5 
+Roles: Developer (Implemented REST API, Researched to improve comparing screens (images) 
+using phash) 
+Skill Set Utilized: Java, Hibernate, SpringBoots, JUnit, Gradle 
+Assignment Duration: 4 months 
+Project: ENGAGEcx 
+Project Description: ENGAGEcx™ is the world’s only Customer Engagement Execution 
+platform.  ENGAGEcx is designed from the ground up to deliver fully integrated, uniquely 
+personalized customer journeys; empower employees to play a critical role in the customer 
+experience; and analyze CX program performance in a single, easy to use application. With 
+nearly 10 years of research and development incorporated into the platform, ENGAGEcx enables 
+organizations of any size to integrate and consolidate customer interaction information across all 
+channels in order to deliver real-time, personalized touch points at every step of the customer 
+journey. 
+Industry: Customer Relationship Management 
+Project Team Size: 10 
+Roles: Developer 
+Skill Set Utilized: Play framework, Amazon services (Kinesis, S3, Redshift), Jboss, Logi 
+Analytics 
+Assignment Duration: 12 months 
+Project: OutStart/Kenexa/IBM: LMS 
+Project Description: LMS helps administrators and learners alike with streamlined interfaces 
+that make sure every operation is quickly and easily accessible. Administrators can administrate, 
+track, report, and deliver courses in support of classroom, offline, online and mobile learning.  
+Learners can select from multiple course offerings and monitor learning progress.  
+Industry: E-learning 
+Project Team Size: 15-20 
+Roles: Developer 
+Skill Set Utilized: Apache Tomcat, Java, JavaScript/Jquery, JSP/Servlet, REST 
+Assignment Duration: 36 months 

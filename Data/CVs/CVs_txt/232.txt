@@ -1,0 +1,96 @@
+CUONG TRAN
+cuong.tran@cs.rutgers.edu ⋄ 732-875-8648
+Department of Computer Science ⋄ Rutgers University
+OBJECTIVE
+I am looking for a full-time job in machine learning/computer vision related areas.
+RESEARCH INTEREST
+I have a broad interest in machine learning related topics area. For now, I focus on Copula and Transfer Learning.
+I also enjoy working with Graph and Combinatorial algorithms which are related to my teaching assistant job.
+EDUCATION
+Department of Computer Science, Rutgers University
+2013-current
+Graduate Student in Computer Science with a specialization in Machine Learning and Computer Vision
+GPA: 3.55/4.00
+Course work:Linear Programming, Machine Learning, Computer Vision, Data Mining, Advanced Algorithms,
+Introduction to Artiﬁcial Intelligence, Numerical Analysis, Pattern Recognition.
+SoICT, Hanoi University of Science and Technology
+August 2007 – June 2012
+B.S. in Computer Science
+Overall GPA: 7.58/10.0, convertible to 4 grade: 3.37/4.0 (based on VEF conversion table)
+Graduate grade: Good. Ranking: 15%
+Thesis: Intrusion Detection under Covariate Shift using modiﬁed classiﬁcation techniques
+Thesis Grade: 9.8/10. Best thesis mark (1/13)
+WORK EXPERIENCE
+Research Experience
+1. Transfer learning with Copula
+We employ the strength of copula to transfer the knowledge from the source domain to the target domain,
+thus improve the predictive performance of the target model.
+Research advisor: Prof. Vladimir Pavlovic, Rutgers University
+Jan, 2016- current
+2. Gaussian Process for Noisy Inputs with Ordering Constraints
+We studied the regression problem under uncertain input when some prior knowledge such as the ordering of
+the underlying true inputs is given. We developed a Bayesian learning framework to estimate the posterior
+of the underlying true inputs given the observed data under Gaussian Process framework. The proposed
+model showed promising results over the sea level dataset.
+Research advisor: Prof. Vladimir Pavlovic & Prof. Robert Kopp, Rutgers University
+Jan, 2014- Dec, 2015
+Teaching Experience
+1. CS 344- Design and Analysis of Algorithms
+Fall 2015, Spring 2016 , Spring 2017
+2. CS 512- Introduction to Data Structures and Algorithms
+This class is for graduate level. Fall 2016
+PUBLICATIONS
+Cuong Tran, Vladimir Pavlovic and Ognjen Rudovic , Unsupervised domain adaptation with copula models.
+IEEE International Workshop on Machine Learning for Signal Processing 2017
+Cuong Tran, Vladimir Pavlovic and Robert Kopp, Gaussian Process for Noisy Inputs with Ordering Con-
+straints. https://arxiv.org/abs/1507.00052
+Tran Dinh Cuong and Nguyen Giang, Intrusion Detection under Covariate Shift using modiﬁed Support
+Vector Machine and modiﬁed Backpropagation, Proceedings of the Third Symposium on Information and
+Communication Technology, pp 255-260, School of Information & Communication Technology, August 2012
+(ISBN: 978-1-4503-1232-5)
+TECHNICAL STRENGTHS
+Computer Languages
+Matlab (proﬁcient), C/C++ (proﬁcient), Java (good), R(good)
+Databases
+MySQL, Microsoft SQL
+Tools
+Netbeans, Microsoft Visual Studio, Matlab or Octave, LibSVM
+Operating Systems
+Windows, Linux (Ubuntu)
+MATHEMATICAL BACKGROUND
+Strong background in Statistics and Probability, Optimization, Numerical Analysis, Linear Algebra, Real Anal-
+ysis, Graph Theory
+Good background in Bayesian and Asymptotics Statistics, Functional Analysis, Abstract Algebra
+LEADERSHIP
+Leader of a group of about ﬁfty Catholic students involving activities for charity
+Leader of research groups for courses “Artiﬁcial Intelligence”, “Discrete Mathematics”, and “Network Security”
+HONOR AND AWARDS
+2007
+School Annual Scholarship for outstanding students
+2012
+Vietnam Education Foundation Fellowship 2013-a stipend of 54k $ received in two years.
+2015-2017
+Rutgers Teaching Assistantship
+2017
+Rutgers TA/GA Professional Development Fund Award- 925 $
+REFERENCES
+Prof. Vladimir Pavlovic– Research Supervisor
+Department of Computer Science
+Rutgers University
+Email: vladimir@cs.rutgers.edu
+Prof. Mary Jane Irwin – VEF Interviewer
+Evan Pugh Professor
+Department of Computer Sicence and Engineering
+The Pennsylvania State University
+Email: maryjaneirwin@vef.gov
+Website: http://www.cse.psu.edu/research/mdl/mji/
+Dr. Ognjen Rudovic – Research advisor
+Research Fellow
+MIT Media Lab
+Massachusetts Institute Of Technology
+Email: orudovic@mit.edu
+Prof. Edward Scheinerman – VEF interviewer
+Department of Applied Mathematics & Statistics
+Johns Hopkins University
+Email: ers@jhu.edu
+Wesbiste: Website:http://www.ams.jhu.edu/~ers/

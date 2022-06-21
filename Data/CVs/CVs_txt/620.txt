@@ -1,0 +1,49 @@
+Thu Le 
+2135 Little Orchard Street, Suite 35, San Jose, CA 95125 
+(310) 869-7430 leanhthu14@ucla.edu 
+QUALIFICATIONS SUMMARY 
+2+ years of experience in data management with Microsoft Excel. 
+1+ year of experience in MySQL, Python 
+Areas of expertise: MySQL, Microsoft Excel, data analysis. 
+Strong technical, problem solving, trouble shooting, analytical, critical thinking skills, attention to detail. 
+Proven ability to work as part of a fast-paced environment with excellent multitasking skills. 
+Excellent communication, teamwork, organizational, interpersonal skills and willing to learn new skills. 
+EDUCATION 
+University of California, Los Angeles  
+June 2017 
+Bachelor of Science, Mathematics of Computation  
+Focus Areas:  
+Python, Advanced Programming C++, 
+Real Analysis, Complex Analysis, Probability,  
+Mathematical Modelling, Applied Numerical Methods, Optimization, and Artificial Intelligence. 
+PROJECT 
+Sales Analysis of Dillard’s  
+June 2018  
+Analyzed hundreds of millions of purchase transactions recorded at Dillard's per year with  
+MySQL. Evaluated sales trends across stores and months to determine if there are specific  
+stores, departments, or times of year that were associated with better or worse sales performance. 
+Image Visualization/ GUI on PyImagePlot  
+June 2016 
+Designed an interface with Qt Designer for Image Visualization Program allowing users  
+choosing types of image montages/histograms. Leader Mehrdad Yazdani designed codes  
+in Python for each type of image montages/histograms. 
+CERTIFICATE 
+Databases and SQL for Data Science by IBM 
+July 2018 
+SKILLS 
+Programming: MySQL, Python, C++, Matlab, Common Lisp, and Microsoft Office. 
+Language: English, Vietnamese. 
+EXPERIENCE 
+De Anza College, Cupertino, CA 
+January 2014  April 2015 
+Senior Math Tutor 
+Helped supervisors train new tutors and provided tutors’ supports. 
+Instructed students study, note-taking, and test-taking skills. 
+Discussed with students lectures, working solutions to problems and strategies to solve assignments. 
+Prepared lesson plans for tutoring sessions according to students' needs and goals. 
+De Anza College, Cupertino, CA 
+August 2013  April 2015 
+Cashier Assistant/ Data Entry 
+Assisted supervisor to classify data and contact other departments.  
+Provided sufficient answers to questions via emails, phones, and in person. 
+Managed data with excellent Microsoft Excel skills, Microsoft Office. 

@@ -1,0 +1,80 @@
+OFFICE
+ENGLISH
+TEAM WORKING
+NGUYEN MANH
+TRUONG
+Petroleum Engineer
+
+PROFILE
+ Aug 01, 1993
+ Male
+ (+84) 169 79 89 113
+ nmtruong93@gmail.com
+ HCMC, Vietnam
+
+https://www.linkedin.com/profile/preview?loc
+ale=en_US&trk=prof-0-sb-preview-primary-butto
+n
+
+SKILLS
+
+TECHNICAL SKILL
+Backend: Java Core, J2EE, Spring, Hibernate
+Framework
+Frontend: HTML, CSS, JavaScript, BootStrap,
+Jquery, AngularJS.
+Database: MySQL, MS SQLServer, Postgre,
+Oracle.
+Aug 2012
+
+April 2017
+BACH KHOA UNIVERSITY (BKU)
+Major: Drilling and Production Engineering
+GPA: 8.35/10
+May 2018
+
+Present
+ROBERT BOSCH ENGINEERING AND BUSINESS
+SOLUTIONS VIETNAM (RBVH)
+Software Engineer  Research Logstash, Elastic Search and Kibana to
+build a project with main function is convert raw,
+unstructured data into structured data.  Using Java, Oracle, Elastic Search, javascript to
+develop a web application.
+Jan 2018
+
+April 2018
+FPT SOFTWARE
+Java Fresher  Buid a sale web using J2EE and MySQL.  CRUD products with postgreSQL using RESTFUL.  Familiarize with Machine Learning using Python:
+methods and algorithm in supervised learning,
+unsupervised learning. Do example with Diabetes,
+Iris and Titanic datasets on Ubuntu operating
+system
+Now 2016
+
+Jan 2017
+PETROLEUM PARTNERSHIP LIMITED COMPANY
+Business Development  Proposed new partner in Reservoir Simulation.  Project implementation: 2D seismic acquisition at
+An Chau trough  Leader in Recording team:
+manage 60 labors and 17 drivers (included
+Vietnamese, Thais and Frenches) to achieve
+targets and complete that project on time.
+Sept 2016
+
+Nov 2016
+CUU LONG JOINT OPERATING COMPANY (CLJOC)
+Internship  Internship at the Subsurface Department, CLJOC  Proficient in welltest, production analysis,
+reservoir simulation.
+Jan 2015
+
+Sept 2015
+BACH KHOA UNIVERSITY (BKU)
+Scientific Research
+Supervisor: Ta Quoc Dung, PhD – Dean of the
+Geology and Petroleum Engineering Faculty.  Leader of Scientific Research Group: Applied
+Geostatictis for Geological Modeling.  Unpublished Paper: “Applied Geostatictis for
+Reservoir Modeling to Determine Reserve of Gau
+Den field in Cuu Long Basin”
+
+EDUCATION
+
+WORK EXPERIENCE

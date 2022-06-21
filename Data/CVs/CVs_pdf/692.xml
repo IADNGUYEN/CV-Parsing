@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="15" family="HelveticaNeue" color="#414042"/>
+	<fontspec id="1" size="20" family="HelveticaNeue" color="#333333"/>
+	<fontspec id="2" size="18" family="HelveticaNeue" color="#414042"/>
+	<fontspec id="3" size="18" family="HelveticaNeue" color="#014675"/>
+	<fontspec id="4" size="20" family="FontAwesome" color="#014675"/>
+	<fontspec id="5" size="20" family="FontAwesome" color="#e29b46"/>
+	<fontspec id="6" size="15" family="HelveticaNeue" color="#337ab7"/>
+<text top="909" left="21" width="32" height="18" font="0">Java</text>
+<text top="946" left="21" width="53" height="18" font="0">Testers</text>
+<text top="983" left="21" width="83" height="18" font="0">SQL Server</text>
+<text top="332" left="74" width="196" height="24" font="1">Hang Tran Thi Thuy</text>
+<text top="332" left="73" width="196" height="24" font="1">Hang Tran Thi Thuy</text>
+<text top="396" left="21" width="78" height="21" font="2">Address </text>
+<text top="396" left="21" width="281" height="21" font="2">Address :: 6, Ward Linh Trung, Dist</text>
+<text top="416" left="21" width="231" height="21" font="2">Thu Duc, HCM city, VietNam</text>
+<text top="465" left="21" width="62" height="21" font="2">Phone </text>
+<text top="465" left="21" width="175" height="21" font="2">Phone :: 0372673392</text>
+<text top="515" left="21" width="54" height="21" font="2">Email:</text>
+<text top="515" left="21" width="272" height="21" font="2">Email: thuyhang2297@gmail.com</text>
+<text top="594" left="123" width="98" height="21" font="3">OBJECTIVE</text>
+<text top="643" left="21" width="302" height="18" font="0">Become a professional manual tester and</text>
+<text top="663" left="21" width="170" height="18" font="0">towards automation test</text>
+<text top="726" left="123" width="98" height="21" font="3">LANGUAGE</text>
+<text top="859" left="141" width="61" height="21" font="3">SKILLS</text>
+<text top="907" left="172" width="19" height="20" font="4"></text>
+<text top="908" left="191" width="5" height="21" font="3"> </text>
+<text top="907" left="196" width="19" height="20" font="4"></text>
+<text top="908" left="215" width="5" height="21" font="3"> </text>
+<text top="907" left="219" width="19" height="20" font="4"></text>
+<text top="908" left="239" width="5" height="21" font="3"> </text>
+<text top="907" left="243" width="19" height="20" font="4"></text>
+<text top="908" left="262" width="5" height="21" font="3"> </text>
+<text top="907" left="267" width="19" height="20" font="5"></text>
+<text top="945" left="172" width="19" height="20" font="4"></text>
+<text top="945" left="191" width="5" height="21" font="3"> </text>
+<text top="945" left="196" width="19" height="20" font="4"></text>
+<text top="945" left="215" width="5" height="21" font="3"> </text>
+<text top="945" left="219" width="19" height="20" font="4"></text>
+<text top="945" left="239" width="5" height="21" font="3"> </text>
+<text top="945" left="243" width="19" height="20" font="4"></text>
+<text top="945" left="262" width="5" height="21" font="3"> </text>
+<text top="945" left="267" width="19" height="20" font="5"></text>
+<text top="982" left="172" width="19" height="20" font="4"></text>
+<text top="982" left="191" width="5" height="21" font="3"> </text>
+<text top="982" left="196" width="19" height="20" font="4"></text>
+<text top="982" left="215" width="5" height="21" font="3"> </text>
+<text top="982" left="219" width="19" height="20" font="4"></text>
+<text top="982" left="239" width="5" height="21" font="3"> </text>
+<text top="982" left="243" width="19" height="20" font="5"></text>
+<text top="982" left="262" width="5" height="21" font="3"> </text>
+<text top="982" left="267" width="19" height="20" font="5"></text>
+<text top="775" left="21" width="66" height="21" font="2">English</text>
+<text top="775" left="21" width="66" height="21" font="2">English</text>
+<text top="774" left="133" width="100" height="22" font="2">Intermediate</text>
+<text top="795" left="21" width="84" height="21" font="2">Japanese</text>
+<text top="795" left="21" width="84" height="21" font="2">Japanese</text>
+<text top="794" left="133" width="75" height="22" font="2">Beginner</text>
+<text top="127" left="379" width="182" height="21" font="3">BASIC INFORMATION</text>
+<text top="420" left="379" width="123" height="21" font="3">EXPERIENCES</text>
+<text top="468" left="379" width="166" height="21" font="2">09/2018 - 01/2019</text>
+<text top="468" left="379" width="166" height="21" font="2">09/2018 - 01/2019</text>
+<text top="499" left="379" width="91" height="18" font="0">COMPANY </text>
+<text top="499" left="379" width="97" height="18" font="0">COMPANY ::</text>
+<text top="519" left="402" width="31" height="18" font="0">fsoft</text>
+<text top="551" left="379" width="88" height="18" font="0">POSITION </text>
+<text top="551" left="379" width="94" height="18" font="0">POSITION ::</text>
+<text top="571" left="402" width="40" height="18" font="0">tester</text>
+<text top="603" left="379" width="122" height="18" font="0">DESCRIPTION </text>
+<text top="603" left="379" width="129" height="18" font="0">DESCRIPTION ::</text>
+<text top="623" left="402" width="189" height="18" font="0">- Join fsoft's tester coursel</text>
+<text top="643" left="402" width="191" height="18" font="0">- Test on the actual project</text>
+<text top="663" left="402" width="233" height="18" font="0">- Analyze business requirements</text>
+<text top="684" left="402" width="237" height="18" font="0">- Write test design, write testcase</text>
+<text top="704" left="402" width="151" height="18" font="0">- Logbug, test report </text>
+<text top="724" left="402" width="445" height="18" font="0">-  PROJECT  JOIN:    HKS  PROJECT  -DICH  VU  CONG  DONG</text>
+<text top="744" left="402" width="72" height="18" font="0">TRI THUC</text>
+<text top="765" left="402" width="165" height="18" font="0">perform system testing</text>
+<text top="785" left="402" width="34" height="18" font="0"><a href="https://cl.fsoft.com.vn/hks/?fbclid=IwAR3-EI09RpBwDO29s1BwbasV3_gzMALOePUXXiTsRStv9fNrukq1-cj67CQ">Link </a></text>
+<text top="785" left="458" width="56" height="18" font="0"><a href="https://cl.fsoft.com.vn/hks/?fbclid=IwAR3-EI09RpBwDO29s1BwbasV3_gzMALOePUXXiTsRStv9fNrukq1-cj67CQ">system </a></text>
+<text top="785" left="537" width="9" height="18" font="0"><a href="https://cl.fsoft.com.vn/hks/?fbclid=IwAR3-EI09RpBwDO29s1BwbasV3_gzMALOePUXXiTsRStv9fNrukq1-cj67CQ">: </a></text>
+<text top="785" left="546" width="302" height="18" font="6"><a href="https://cl.fsoft.com.vn/hks/?fbclid=IwAR3-EI09RpBwDO29s1BwbasV3_gzMALOePUXXiTsRStv9fNrukq1-cj67CQ">https://cl.fsoft.com.vn/hks/?fbclid=IwAR3-</a></text>
+<text top="805" left="402" width="446" height="18" font="6"><a href="https://cl.fsoft.com.vn/hks/?fbclid=IwAR3-EI09RpBwDO29s1BwbasV3_gzMALOePUXXiTsRStv9fNrukq1-cj67CQ">EI09RpBwDO29s1BwbasV3_gzMALOePUXXiTsRStv9fNrukq1-</a></text>
+<text top="825" left="402" width="54" height="18" font="6"><a href="https://cl.fsoft.com.vn/hks/?fbclid=IwAR3-EI09RpBwDO29s1BwbasV3_gzMALOePUXXiTsRStv9fNrukq1-cj67CQ">cj67CQ</a></text>
+<text top="917" left="379" width="103" height="21" font="3">EDUCATION</text>
+<text top="966" left="379" width="138" height="18" font="0">SCHOOL NAME :</text>
+<text top="966" left="379" width="138" height="18" font="0">SCHOOL NAME :</text>
+<text top="986" left="413" width="189" height="18" font="0">Nong Lam HCM University</text>
+<text top="1012" left="379" width="52" height="18" font="0">TIME :</text>
+<text top="1012" left="379" width="52" height="18" font="0">TIME :</text>
+<text top="1032" left="413" width="134" height="18" font="0">09/2015 - 06/2019</text>
+<text top="1058" left="379" width="82" height="18" font="0">DEGREE :</text>
+<text top="1058" left="379" width="82" height="18" font="0">DEGREE :</text>
+<text top="1079" left="413" width="53" height="18" font="0">College</text>
+<text top="1104" left="379" width="71" height="18" font="0">MAJOR :</text>
+<text top="1104" left="379" width="71" height="18" font="0">MAJOR :</text>
+<text top="1125" left="413" width="242" height="18" font="0">Faculty of Information Technology</text>
+<text top="177" left="505" width="5" height="21" font="2">:</text>
+<text top="177" left="379" width="75" height="21" font="2">Birthday</text>
+<text top="177" left="379" width="75" height="21" font="2">Birthday</text>
+<text top="175" left="527" width="92" height="21" font="2">22/02/1997</text>
+<text top="202" left="505" width="5" height="21" font="2">:</text>
+<text top="202" left="379" width="97" height="21" font="2">Nationality</text>
+<text top="202" left="379" width="97" height="21" font="2">Nationality</text>
+<text top="200" left="527" width="142" height="21" font="2">Local Vietnamese</text>
+<text top="227" left="505" width="5" height="21" font="2">:</text>
+<text top="227" left="379" width="73" height="21" font="2">Job title</text>
+<text top="227" left="379" width="73" height="21" font="2">Job title</text>
+<text top="225" left="527" width="51" height="21" font="2">Tester</text>
+<text top="252" left="505" width="5" height="21" font="2">:</text>
+<text top="252" left="379" width="80" height="21" font="2">Job level</text>
+<text top="252" left="379" width="80" height="21" font="2">Job level</text>
+<text top="249" left="527" width="89" height="21" font="2">Entry Level</text>
+<text top="276" left="505" width="5" height="21" font="2">:</text>
+<text top="276" left="379" width="111" height="21" font="2">Experiences</text>
+<text top="276" left="379" width="111" height="21" font="2">Experiences</text>
+<text top="274" left="527" width="126" height="21" font="2">New graduation</text>
+<text top="301" left="505" width="5" height="21" font="2">:</text>
+<text top="301" left="379" width="66" height="21" font="2">Gender</text>
+<text top="301" left="379" width="66" height="21" font="2">Gender</text>
+<text top="299" left="527" width="58" height="21" font="2">Female</text>
+<text top="326" left="505" width="5" height="21" font="2">:</text>
+<text top="326" left="379" width="83" height="21" font="2">Maritality</text>
+<text top="326" left="379" width="83" height="21" font="2">Maritality</text>
+<text top="324" left="527" width="51" height="21" font="2">Single</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+</page>
+<outline>
+<item page="1">BASIC INFORMATION</item>
+<outline>
+<item page="1">Birthday :22/02/1997 Nationality :Local Vietnamese Job title :Tester Job level :Entry Level Experiences :New graduation Gender :Female Maritality :Single</item>
+</outline>
+<item page="1">Birthday</item>
+<item page="1">Nationality</item>
+<item page="1">Job title</item>
+<item page="1">Job level</item>
+<item page="1">Experiences</item>
+<item page="1">Gender</item>
+<item page="1">Hang Tran Thi Thuy</item>
+<outline>
+<item page="1">Maritality</item>
+<outline>
+<item page="1">EXPERIENCES</item>
+<outline>
+<item page="1">09/2018 - 01/2019</item>
+</outline>
+<item page="1">OBJECTIVE</item>
+<outline>
+<item page="1">DESCRIPTION :</item>
+</outline>
+<item page="1">LANGUAGE</item>
+<item page="1">SKILLS</item>
+<item page="1">EDUCATION</item>
+</outline>
+</outline>
+</outline>
+</pdf2xml>

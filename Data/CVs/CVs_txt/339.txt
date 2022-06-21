@@ -1,0 +1,84 @@
+ 62A Nguyen Duy Hieu, Thao
+Dien Ward, Dist 2, HCM City
+thinhhoang134@gmail.com
+0937553758
+Ho Chi Minh
+10/04/1996
+Single
+Viet Nam
+Description: This program allows user to use his voice to activate an
+application installed in his mobile device. The program uses Cloud
+Speech API published by Google to transform speech to text. Then, the
+application in the device having the most similar name to the generated
+text will be run.
+Description: This webpage is used for selling shoe. With the use-case
+diagram, Activity diagram, class diagram and database design, basic
+functions of a normal selling webpage is developed, which allow its
+owner to manage the sales and customer to search or select or order.
+Description: This program is a game that allows player to control a
+falling brick to an appropriate position. The game is also added with
+new modes such as time limited, brick changing instead of rotating.
+Hoang Thinh
+INFO
+INFO
+
+
+
+
+
+
+
+SKILLS
+SKILLS
+C#
+    
+HTML5
+    
+CSS
+    
+Python
+    
+Android
+    
+SQL
+    
+Oracle
+    
+LANGUAGES
+LANGUAGES
+English
+Good
+Vietnamese
+Native
+EDUCATION
+EDUCATION
+Advanced Educational Program of Information System
+Advanced Educational Program of Information System
+Student at University of Information Technology |  2014  Present
+EXPERIENCES
+EXPERIENCES
+Speech to text Application
+Speech to text Application
+Programming Language: Android
+|
+Tool: Android Studio
+|  10/ 2016  Present
+Shoe Store Webpage
+Shoe Store Webpage
+Programming Language: HTML5, CSS3, PHP
+|
+Tools: Chrome, Sublime text, XAMPP, SQL express
+|  10/ 2016  Present
+Tetris
+Tetris
+Programming Language: Python
+|
+Tool: Pycharm
+|  10/ 2016  Present
+ADDITIONAL INFORMATION
+ADDITIONAL INFORMATION
+Platform: 
+Platform: Windows, Linux, Android.
+Tools:
+Tools: Visual Studio, SQL server, Oracle Database, Pycharm, Android
+Studio, Sublime text.

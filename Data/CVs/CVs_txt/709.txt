@@ -1,0 +1,76 @@
+Dec 2013  Dec 2017
+FPT University
+Major: Software Engineering
+Embbedded System
+Sep 2016  Dec 2016
+FPT Software
+Developer
+Main responsibilities:  Writing unit test code to test source code from customer.  Create GUI for web browser, send and get data between MCU and
+web browser.  Create Navigation Data and send to MCU for execute
+Recognition and Gains:  Teamwork and soft-skill.  Organizing code and learning new code language.
+Language
+English, Japanese
+Computer
+C,C++, C#, Python, JavaScipt, HTML, PHP
+N/A
+N/A
+Bùi Quang Viễn
+Developer
+Date of birth:
+May 6, 1995
+Gender:
+Male
+Phone:
+0934102800
+Email:
+vienbq06051995@gmail.com
+Address:
+25, 5F, Binh Hung Hoa A, Binh Tan, Ho Chi Minh,
+Vietnam
+OBJECTIVE
+To gain a solid foundation in software engineering in a private corporate enviroment where my experience in
+analysis, developing and testing of software systems would highly contribute to the company project's success
+EDUCATION
+WORK EXPERIENCE
+SKILLS
+CERTIFICATIONS
+HONORS & AWARDS
+INTERESTS
+I like musicchallenges
+PROJECTS
+APMS
+(09/2017  12/2017)
+Customer
+FPT University  Capstone Project
+Description  This is a system that can help checking attendance and monitoring attendance
+using web browser
+Team size
+4
+My position
+Developer
+My responsibilities  Analysis and select suitable electronic components.  Development hardware and windows application  Design PCB board.  Review code  Optimize code  Bug Fixing
+Technologies used  Arduino IDE, C, C#
+FGA.ADAS
+(10/2016  12/2016)
+Customer
+FPT Software  FGA
+Description  This is a R&D project about autonomus car promoted from FGA
+Team size
+12
+My position
+Developer
+My responsibilities  Development.  Create GUI for web browser, get and send data between MCU and web Browser.  Create Navigation data and send to MCU for execute.  Review code  Optimize code  Bug Fixing
+Technologies used  Python, PHP, JavaScipt, HTML, C++
+CMA_LGUT
+(09/2016  09/2016)
+Customer
+LG
+Description  A project of LG contract with FPT as tthe third party to test their product.
+Team size
+10
+My position
+Developer
+My responsibilities  Review code.  Writing unit test code to test source code from customer.  Writing document about testing code.
+Technologies used
+C++, Qt
+© topcv.vn

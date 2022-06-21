@@ -1,0 +1,123 @@
+NGUYEN VAN MINH HOANG 
+Date of birth: October 231h , 1991     Gender: Male 
+Contact Address: 33/7 Tan Chanh Hiep, District 
+12, Ho Chi Minh City, Viet Nam 
+Mobile Phone: +84 907 226 973 
+Email: hoangnvm23@gmail.com  
+PERSONAL SUMARY  
+Graduate FPT University.  
+Major in Software Engineering  
+Major in Software Testing  
+Hands on experience in C++, C# .Net,  Core Java  
+Solid experience in analysis software requirement, create software design document,  
+design user interface, create test case/test script  
+Cohesive team worker, having strong analytical, problem solving and interpersonal skills.  
+Able to communicate in English  
+Beginning to use Japanese language 
+EDUCATION QUALIFICATION  
+2010 – 2015 : Bachelor in FPT University, Information Technology department, major in 
+Software Engineering 
+TECHNICAL SKILLS SET  
+Operating System: Windows Series, Linux.  
+Programming Language: C/C++, C# .Net, Java.  
+Databases: SQL Databases.  
+Development Tools: Eclipse, Net Beans, and Microsoft Visual Studio in Windows  
+Source Control: SVN, Git.  
+Testing Skill  
+Other Soft Skill: MS-Office. 
+KEY RESPONSIBILITIES HANDLED  
+Formulating and designing software system using scientific analysis and mathematical 
+models.  
+Developing the Code as per requirements.  
+Writing UI/Business validations for the owned use cases.  
+Unit testing and integration testing of owned use cases.  
+Analyzing software requirements to determine feasibility of design within time and cost 
+constraints.  
+Researching, designing, and developing computer software systems in communication 
+with hardware product development, for industrial, communications, applications, 
+applying principles and techniques of computer science, engineering, and mathematical 
+analysis.  
+Consulting with hardware engineers and other engineering staff to evaluate interface 
+between hardware and software and operational and performance requirements of overall 
+system.  
+Assigning work to programmers, designers, technologists and technicians and other 
+engineering personnel.  
+Training new members  
+WORK EXPERIENCE 
+May  2012 – June 2012: 
+FPT Software, HCM City, 
+Viet Nam 
+Project name: 
+NAKAMAP  
+Role: Tester  
+Hardware: Android Mobile Device (Smart phone)  
+Operating System:  Android  
+Team Size: 20  
+Customer: JAPAN 
+Responsibilities  
+Analyzing software requirement  
+Creating test case.  
+Testing for android applications.  
+July 2012 – September 
+2013: 
+FPT Software, HCM City, 
+Viet Nam 
+Project name: TOSHIBA 
+CLOUD SERVICE (TCS)  
+Role: Tester  
+Hardware: Television  
+Team Size: 80  
+Customer: JAPAN 
+Responsibilities  
+Analyzing software requirement  
+Creating test case.  
+Execute test on device ( television) 
+September 2013 – 
+November 2013: 
+FPT Software, HCM City, 
+Viet Nam 
+Project name: WEDDING 
+application  
+Role: Tester  
+Hardware: PC  
+Operating System:  Windows 7  
+Team Size: 30  
+Customer: JAPAN 
+Responsibilities  
+Analyzing software requirement  
+Creating test case.  
+Execute test  
+December 2013  
+The Avatar Mobility Inc, 
+HCM City, Viet Nam  
+Role: Tester  
+Hardware: PC, Ipad, Android device  
+Operating System:  Windows 7, Windows 8, iOS 6.x, 
+Project name: Wacom 
+Cloud Services 
+Android 4.3  
+Team Size: 10  
+Customer: JAPAN 
+Responsibilities  
+Analyzing software requirement  
+Creating test case.  
+Training for member  
+Assigning work to other tester.  
+Execute test  
+Jun 2015  Now  
+MCM Technologies  
+Role: Tester  
+Operating System:  Windows 7, Windows 8, iOS, Android  
+Team Size: 10  
+Customer: USA 
+Responsibilities  
+Analyzing software requirement  
+Control multi projects  
+Creating test case.  
+Execute test  
+Hobbies  
+Listening to music  
+Playing game  
+Reading book  
+Playing soccer  
+Reading news about technology 

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="23" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="1" size="14" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="2" size="16" family="TimesNewRomanPSMT" color="#000000"/>
+	<fontspec id="3" size="16" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="4" size="14" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="5" size="14" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="6" size="12" family="ArialMT" color="#000000"/>
+	<fontspec id="7" size="14" family="TimesNewRomanPS" color="#000000"/>
+	<fontspec id="8" size="14" family="ArialMT" color="#000000"/>
+<text top="28" left="392" width="139" height="22" font="0"><b>Che Viet Hai </b></text>
+<text top="53" left="54" width="810" height="13" font="1">(+84) 905858162                                           B dormitory, Ho Chi Minh University, Thu Duc                        cheviethai123@gmail.com </text>
+<text top="70" left="459" width="4" height="15" font="2"> </text>
+<text top="89" left="54" width="105" height="15" font="3"><b>EDUCATION </b></text>
+<text top="89" left="349" width="4" height="15" font="2"> </text>
+<text top="117" left="54" width="325" height="13" font="4"><b>University of Information Technology</b><i>, 2015-2019  </i></text>
+<text top="117" left="379" width="341" height="13" font="1">                                                                                           </text>
+<text top="117" left="720" width="140" height="13" font="4"><b>Ho Chi Minh, HCMC</b></text>
+<text top="117" left="860" width="4" height="13" font="1"> </text>
+<text top="132" left="62" width="10" height="13" font="6">• </text>
+<text top="133" left="82" width="377" height="13" font="1">GPA: 3.02/4.0. Bachelor of Science. Computer Science Major </text>
+<text top="148" left="62" width="10" height="13" font="6">• </text>
+<text top="149" left="82" width="739" height="13" font="1">Coursework: Advance Machine Learning, Data mining, Intro to Probability and Statics, Intro to Algorithm and Structure, </text>
+<text top="166" left="82" width="370" height="13" font="1">Nature Language Processing (NLP) CS 224N Stanford Uni.  </text>
+<text top="201" left="54" width="170" height="15" font="3"><b>WORK EXPERIENCE </b></text>
+<text top="228" left="54" width="745" height="13" font="4"><b>TMA Solution                                                                                                                                  Ho Chi Minh, Vietnam:<i> </i></b></text>
+<text top="228" left="800" width="60" height="13" font="1">Apr 2018 </text>
+<text top="245" left="54" width="139" height="13" font="5"><i>AI Engineer Part-Time</i></text>
+<text top="245" left="194" width="4" height="13" font="1"> </text>
+<text top="267" left="62" width="12" height="16" font="8">• </text>
+<text top="270" left="82" width="543" height="13" font="1">Work as NLP developer to create intelligent software and provide solution for NLP problems.  </text>
+<text top="285" left="62" width="12" height="16" font="8">• </text>
+<text top="288" left="82" width="607" height="13" font="1">Associate with Business Analyst to perform data collection of 8 leading RPA company in Southeast Asia. </text>
+<text top="304" left="62" width="12" height="16" font="8">• </text>
+<text top="307" left="82" width="689" height="13" font="1">Collaborate with Project Manager and Director to provide POC and demo for potential problem from existing customer. </text>
+<text top="322" left="62" width="12" height="16" font="8">• </text>
+<text top="325" left="82" width="785" height="13" font="1">Attend various skill-based trainings and career exploratory talks to deepen understanding of Vietnamese business, especially AI business </text>
+<text top="341" left="82" width="77" height="13" font="1">and relevant. </text>
+<text top="357" left="62" width="12" height="16" font="8">• </text>
+<text top="360" left="82" width="643" height="13" font="1">Contribute in building scraping system for Data Scientist team; built a system to scrap 500+ websites in 1 week. </text>
+<text top="375" left="62" width="12" height="16" font="8">• </text>
+<text top="378" left="82" width="677" height="13" font="1">Participate in first NLP team was created in TMA; conducted training, developed guidelines for newcomer and intern. </text>
+<text top="413" left="54" width="81" height="15" font="3"><b>PROJECT </b></text>
+<text top="440" left="54" width="684" height="13" font="4"><b>Curriculum Vitae (CV) Parser                                                                                                  Ho Chi Minh, Vietnam: </b></text>
+<text top="440" left="738" width="124" height="13" font="1">May 2018 – Jun 2018</text>
+<text top="440" left="863" width="4" height="13" font="4"><b> </b></text>
+<text top="456" left="62" width="12" height="16" font="8">• </text>
+<text top="459" left="82" width="761" height="13" font="1">Built a machine learning model to automatic reading meaning information from CV file in pdf format. Auto-parsing this information </text>
+<text top="475" left="82" width="152" height="13" font="1">into system or JSON file.  </text>
+<text top="490" left="62" width="12" height="16" font="8">• </text>
+<text top="493" left="82" width="743" height="13" font="1">Minimized labor work and increase efficiency in recruitment for HR apartment; conducted the system of TMA more advance and </text>
+<text top="510" left="82" width="248" height="13" font="1">identified candidate without human touch.  </text>
+<text top="525" left="62" width="12" height="16" font="8">• </text>
+<text top="528" left="82" width="756" height="13" font="1">Applied multiple NLP techniques and frameworks for getting best performance; crawled and clean 1500 CV from Vietnamwork for </text>
+<text top="545" left="82" width="100" height="13" font="1">training purpose. </text>
+<text top="560" left="62" width="12" height="16" font="8">• </text>
+<text top="563" left="82" width="365" height="13" font="1">Tested on 500 CV files and the accuracy obtained was 76.43%. </text>
+<text top="581" left="54" width="120" height="13" font="4"><b>Reading Allocation </b></text>
+<text top="581" left="590" width="159" height="13" font="4"><b>   Ho Chi Minh, Vietnam: </b></text>
+<text top="581" left="749" width="112" height="13" font="1">Jun 2018 – Present </text>
+<text top="596" left="62" width="12" height="16" font="8">• </text>
+<text top="599" left="82" width="756" height="13" font="1">A program was intended to use in Australia stock trading for verifying order from blocker. Automatic encrypts these order and send </text>
+<text top="616" left="82" width="148" height="13" font="1">them into trading system. </text>
+<text top="631" left="62" width="12" height="16" font="8">• </text>
+<text top="634" left="82" width="302" height="13" font="1">Boosted security and ensuring privacy for customer. </text>
+<text top="649" left="62" width="12" height="16" font="8">• </text>
+<text top="653" left="82" width="277" height="13" font="1">Prevent human error and reduce mindless work. </text>
+<text top="668" left="62" width="12" height="16" font="8">• </text>
+<text top="671" left="82" width="324" height="13" font="1">Ensured the security of the system and the maintenance. </text>
+<text top="689" left="54" width="683" height="13" font="4"><b>Nutritious Recommend System                                                                                                 Ho Chi Minh, Vietnam: </b></text>
+<text top="689" left="738" width="129" height="13" font="1">Feb 2018 – May 2018 </text>
+<text top="689" left="867" width="4" height="13" font="4"><b> </b></text>
+<text top="704" left="62" width="12" height="16" font="8">• </text>
+<text top="708" left="82" width="730" height="13" font="1">Built a unique storing system based on Ontology structure; facilitate to apply profound knowledge and solve complex problem. </text>
+<text top="723" left="62" width="12" height="16" font="8">• </text>
+<text top="726" left="82" width="437" height="13" font="1">Used a workflow technique to build efficiency Query file on Ontology data. </text>
+<text top="741" left="62" width="12" height="16" font="8">• </text>
+<text top="744" left="82" width="754" height="13" font="1">Visited 50+ leading website nutritious to examine personal health, nutritious ingredient, including eating habit to create score </text>
+<text top="760" left="82" width="166" height="13" font="1">sheet for food and nutrient. </text>
+<text top="776" left="62" width="12" height="16" font="8">• </text>
+<text top="779" left="82" width="743" height="13" font="1">Applied combination technique to ensuring the diverse of food and nutrient; nutritious recommend were extracted from 100 000+ </text>
+<text top="795" left="82" width="277" height="13" font="1">template menu based on customer’ information. </text>
+<text top="810" left="62" width="12" height="16" font="8">• </text>
+<text top="814" left="82" width="315" height="13" font="1">Processed Vietnamese problem in Ontology structure.  </text>
+<text top="849" left="54" width="342" height="15" font="3"><b>LEADERSHIP AND COMMUNITY SERVICE </b></text>
+<text top="876" left="54" width="675" height="13" font="4"><b>University Lab,</b><i> Leader of team NLP                  </i><b>                                                          Ho Chi Minh, Vietnam:<i> </i></b></text>
+<text top="876" left="729" width="135" height="13" font="1">Oct 2017 – May 2018 </text>
+<text top="891" left="62" width="12" height="16" font="8">• </text>
+<text top="894" left="82" width="605" height="13" font="1">Conducted plan for solving problem and manage workflow, responsibility of each member in NLP team.  </text>
+<text top="909" left="62" width="12" height="16" font="8">• </text>
+<text top="913" left="82" width="661" height="13" font="1">Led 5 members to build an A+ project in computer science lab and was offer to write Science Paper for the project. </text>
+<text top="928" left="62" width="12" height="16" font="8">• </text>
+<text top="928" left="82" width="384" height="16" font="1">Assessed progress, developed metrics to measure projects’ impact. </text>
+<text top="949" left="54" width="4" height="13" font="1"> </text>
+<text top="966" left="54" width="139" height="15" font="3"><b>CERTIFICATION </b></text>
+<text top="966" left="349" width="4" height="15" font="3"><b> </b></text>
+<text top="990" left="61" width="12" height="16" font="8">• </text>
+<text top="994" left="81" width="645" height="13" font="1">Machine Learning A-Z. Hands On Python &amp; R In Data Science                                                                       </text>
+<text top="994" left="727" width="75" height="13" font="4"><b>                    </b></text>
+<text top="994" left="802" width="58" height="13" font="1">Aug 2017</text>
+<text top="994" left="860" width="4" height="13" font="4"><b> </b></text>
+<text top="1009" left="61" width="12" height="16" font="8">• </text>
+<text top="1012" left="81" width="666" height="13" font="1">The Ultimate Hands-On Hadoop – Tame your Big Data                                                                                         </text>
+<text top="1012" left="748" width="56" height="13" font="4"><b>               </b></text>
+<text top="1012" left="804" width="57" height="13" font="1">Dec 2017</text>
+<text top="1012" left="861" width="4" height="13" font="4"><b> </b></text>
+<text top="1027" left="61" width="12" height="16" font="8">• </text>
+<text top="1030" left="81" width="227" height="13" font="1">RPA Developer Foundation Diploma </text>
+<text top="1030" left="324" width="4" height="13" font="1"> </text>
+<text top="1030" left="378" width="484" height="13" font="1">                                                                                                                 May 2018</text>
+<text top="1030" left="862" width="4" height="13" font="4"><b> </b></text>
+<text top="1045" left="61" width="12" height="16" font="8">• </text>
+<text top="1048" left="81" width="261" height="13" font="1">Deep Learning Specialization by Andrew Ng </text>
+<text top="1048" left="378" width="4" height="13" font="1"> </text>
+<text top="1048" left="432" width="429" height="13" font="1">                                                                                                          Jun 2018</text>
+<text top="1048" left="861" width="4" height="13" font="4"><b> </b></text>
+<text top="1084" left="54" width="116" height="15" font="3"><b>ADDITIONAL  </b></text>
+<text top="1084" left="302" width="4" height="15" font="3"><b> </b></text>
+<text top="1111" left="54" width="65" height="13" font="4"><b>Activities:</b></text>
+<text top="1111" left="119" width="284" height="13" font="1"> Worked as part-time job in Western restaurant.</text>
+<text top="1111" left="404" width="4" height="13" font="4"><b> </b></text>
+<text top="1128" left="54" width="43" height="13" font="4"><b>Skills: </b></text>
+<text top="1128" left="97" width="234" height="13" font="1">Python, Excel, Microsoft Word, Mail, NLP. </text>
+<text top="1146" left="54" width="60" height="13" font="4"><b>Interests:</b></text>
+<text top="1146" left="115" width="359" height="13" font="1"> basketball, traveling, international development, business.  </text>
+</page>
+</pdf2xml>

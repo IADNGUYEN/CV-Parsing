@@ -1,0 +1,104 @@
+CURRICULUM VITAE 
+PERSONAL INFORMATION   
+Full name 
+:  VU THANH TOAN 
+Gender 
+:  Male 
+Date of Birth 
+:  11/05/1991 
+Native Province :   198/42 Pham Van Chieu,Ward 9, GoVap District ,Ho Chi Minh city. 
+Health 
+:  Excellent. 
+Interests 
+:  Football, music, travel, game . 
+Character 
+:  Friendly, joyful, optimistic. 
+Current Address :  198/42 Pham Van Chieu,Ward 9, GoVap District ,Ho Chi Minh city. 
+Phone 
+:  0933818071 
+Email 
+:  vuthanhtoan1105@gmail.com 
+Position 
+: Tester 
+EDUCATION AND TRAINING 
+Year 
+Degree 
+Rank 
+University 
+07/2016 
+Completed courses  Fresher testing  
+Good 
+Forum testingvn.com 
+10/2015 
+Completed courses Android  
+Good 
+Nhat Nghe Center 
+2/2015 
+Bachelor of Science in Information  
+Technology  specialized in Software 
+Engineering 
+Good 
+FPT Aptech 
+FOREIGN LANGUAGES (ENGLISH) 
+Skills 
+Level 
+Reading 
+Good 
+Writing 
+Good 
+Speaking 
+Moderate 
+Listening 
+Moderate 
+OBJECTIVE: 
+Working in a professional, active and fairly competitive working environment and 
+having opportunities to get promotion. 
+Becoming a QC Leader in coming 3 years. 
+Becoming a PM in coming 5 years. 
+SKILLS 
+❖ Technical skills: 
+o Basic knowledge 
+Software development process 
+Software testing process 
+Software testing’s knowledge 
+Test case design techniques (for both White box and Black box Testing) 
+Website testing skill 
+Object Oriented Programming 
+Database analyzing and designing. 
+Document Analytics 
+Write Scenario,Write testcase. 
+o Programming languages: 
+Android( Webservice ,API) 
+o Database: 
+MS SQL Server 
+My SQL 
+… 
+❖ Soft skills: 
+Team working ability 
+Working under pressure ability and accomplish assigned task 
+Good at presentation 
+Capable of working and functioning independently 
+Listener, fast learner, hard working and committed to do a job well 
+Flexible, energetic, patient and able to work within a multi-cultural 
+environment 
+Excellent communication, especially in human relations 
+… 
+EXPERIENCE WORK 
+Have 1 year of work experience at Transcosmos Technologic art  company. 
+IMPLEMENTED PROJECTS 
+❖ Website Testing: 
+1. Project Sunstar 
+Position in this project: QC  
+Task:document analytics, write UT, write Scenario, write IT,execute 
+testcase, post bug, retest. 
+2. Project Token  
+Position in this project: QC  
+Task: Test layout, test IT 
+3. Project IDA  
+Position in this project: QC  
+Task:document analytics, write Scenario , write testcase , execute 
+testcase, post bug, retest. 
+4. Project Adobe Solution 
+Position in this project: QC  
+Task: update document, training Adobe Analytics , demo project used 
+Adobe Analytics. 

@@ -1,0 +1,80 @@
+Phuoc Quang PHI 
+Education 
+2015-2018: Master Degree in Ulsan University and Chung-Ang University. 
+2014-2015: Intensive German Language studying. 
+2006-2014: Engineering Degree in Advanced Materials from “Programme de Formation 
+d’Ingénieur d’Exellence au Vietnam (PFIEV)”, Bach Khoa University. 
+Languages 
+FLUENT 
+INTERMEDIATE 
+LEARNING 
+English: IELTS 7.5 
+French 
+Korean 
+Vietnamese 
+German 
+Japanese 
+Computational skills 
+_Linux: Compiling and setting up open source packages from source code. 
+_Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) and OCTA Multiscale 
+Simulation Package. 
+_Programming: Python, C++, Fortran.  
+Research experience 
+1. Build and test MnO2 electrode for supercapacitor. 
+2. Build high quality symmetric tilt grain boundary of f.c.c metals and silicon. 
+3. Extend LAMMPS with python for all-atom mixed-mode crack simulation. 
+4. Coarse-grained simulation of polymer brushes system using Dissipative Particle 
+Dynamics. 
+Publications (In preparations) 
+1. Applications of Conservation Integrals to Atomic Mixed-Mode Fracture of Grain 
+Boundaries in Crystalline Solids. 
+2. Tribological behaviors of Polymer-brushes (Details will be disclosed after publishing) 
+Hobbies: 
+Hiking, football, studying languages and literature. 
+Current  
+Address 
+Chung-Ang University, Building 209, Room 308, 84 
+Heukseok-ro,  Dongjak-gu, 156-756, Seoul, South Korea 
+Phone number   (+82) 010 4599 1845 
+Email 
+phuocdongxoai@gmail.com 
+Date of birth  
+03 May 1988 
+Nationality 
+Vietnam 
+Dear Sir/Madam, 
+I would like to express my desire to join TMA Solution as R&D engineer. 
+During my two and a half years in Korea, I have been exposed very early to research and academic writing 
+thanks to the encouragement of my Advisor, Professor Choi Seung Tae. Although I had been trained in 
+experimental methods during my undergraduate period, my main job here is to develop home-made 
+codes for MD simulation. My research topics were completely new to me, but because of that, I have 
+discovered my passion for programming and algorithms and learned valuable lessons about how to be a 
+successful researcher. 
+The first lesson is being brave to do new thing, not letting myself be intimidated by jargons. I found that 
+it’s much more efficient to focus on the problem and learn relevant skills than to be an expert in everything. 
+Finding out what expertise is required and how to obtain it is a better strategy than to study for the sake 
+of perfection. 
+The second lesson is putting an interesting question and not to get lost in the literature. “Finding the gap 
+in literature” is the first advice in every book on academic writing. But how to navigate through the endless 
+ocean of publications? I always feel thankful for the citation network. It allows beginner researcher to 
+have a big picture of the field and know where to “aim and shoot”. 
+The third lesson is the hiker’s attitude to research. Hiking is arduous and straining but a hiker will keep 
+going, step by step until he gets “up there”. Experiments or simulations, researchers may need to hike 
+thousands of small steps and be trialed with daunting failures until he finds something valuable.  
+One of important tasks I have accomplished is to extend the LAMMPS simulation package with Python 
+for crack simulation. This was a risky move as I was a novice in programing and most of our codes were in 
+Fortran and no one can assist me with the new programming language. But for future, Python is 
+indispensable. After several months of building and testing, the package was finished and used to obtain 
+accurate results in our simulations of fracture in metals. After that, I was encouraged to do simulation 
+with polymers which is also a completely new research area in our lab. Through literature survey and 
+learning the key aspects of such simulation, I developed my own code for simulation of the tribological 
+behavior of polymer brushes and nanoparticle. The results are used for my master thesis and will be 
+further developed for publications. 
+Apart from my research topics, I enjoy exploring data structures, parallel programming framework (MPI) 
+and machine learning in preparation for their future use. However, I have to wait for an opportunity in 
+the future to dedicate more time to them and apply them more thoroughly. 
+I believe that the lessons I have learned and applied myself can be applied again and again in the future 
+to overcome challenges no matter what the research field is.  
+Thank you for your time and consideration. 
+Sincerely, 
+Phi Quang Phuoc. 

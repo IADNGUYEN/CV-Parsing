@@ -1,0 +1,119 @@
+ 
+CURRICULUM VITAE 
+1 
+About Me 
+DATE OF BIRTH 
+Lê Thị Đài Trang 
+MY NAME 
+26/02/1994
+NGÀY SINH 
+GENDER 
+Nữ 
+ID CARD 
+079194001098 
+ADDRESS 
+311 Chợ Lớn P11 Q6 
+2 
+Contact 
+From 08/2012 to 08/2016 studied at 
+The Education University ,HCMUE  
+Bachelor of Information Technology  
+From 08/2015 to 01/2016 studied  
+Global Sofware Talent of FPT  
+Mail: TrangLTD1994@gmail.com 
+Phone:0938470563 
+ACADEMIC BACKGROUND 
+3 
+_ Used to study Java,C#, C, C++, PHP ,HTML, CSS,Symfony Language 
+_Join FPT trainning in August 2015 (Global Software Talent for Java Developer) 
+_02/2017-08/2017  Study Android at Computer Science Center  University of Science 
+_09/2016-07/2017 Work in AICT .  
+EXPERIENCE SUMMARY 
+4 
+EXPERIENCE BY PROJECTS 
+PROJECT 
+: MANAGE SOCCER TEAM(AREA:SCHOOL) 
+Kỹ năng 
+Flexible and able to work independently as well as a part of 
+team 
+Responsibility, honesty, friendly, funny, ambitious 
+Good at teamwork, researching 
+Soft Skills 
+Others 
+MS SQL Server 2005/2008/2012/2014, MySQL  
+Database 
+Used wordpress 
+Seo web 
+Language 
+Intermediate ( complete 6 course about communicaton in VUS) 
+I am learning Japanese and  completed 15 lessons marugoto A1 (in academic 
+transcript) 
+5 
+Period  
+: June 2014_July 2014 
+Position  
+: Programmer 
+Description 
+: Manage all membes in soccer team,Set rule for Contest Timetable(schedule),Set 
+Trigger,Manage  soccer teams.Use 3 Layouts Model 
+Responsibilities 
+:Build Database and Coding about Soccer Player 
+Languages/Tools/Utilities: Visual Studio 2010 C# ,MS SQL 2008  
+PROJECT 
+: MANAGE WEDDING DRESS STORE (AREA:SCHOOL) 
+Period  
+: June 2015_ August 2015 
+Position  
+: Programmer 
+Description 
+: Manage wedding store , supply some services(reserve restaurant , make up,..).  
+Responsibilities 
+:Build Database and Coding, design screen. 
+Design and code :_Manage product ,customer  
+(Insert update, delete , upload file, pagination) 
+_Manage booking service 
+_Build shopping cart 
+_Design template 
+Languages/Tools/Utilities: Jquery,Bootrap, SQL Server, ASP.NET MVC (visual studio 2013),LinQ ,OOP 
+PROJECT 
+: MANAGE HOTEL (AREA:SCHOOL) 
+Period  
+: May 15 to June-15 
+Position  
+: Programmer 
+Description 
+: Build a web manage hotel 
+Responsibilities 
+:Manage customer , manage hotel room, manage service, manage login, manage 
+chek in , check out   , design CDM ,PDM diagram  ,class Diagram  
+Languages/Tools/Utilities: Windown form C# ,MS SQL , Power Designer, Visio 
+PROJECT 
+: WEB (SMALL COMPANY) 
+Period  
+: July 16 to August-16 
+Position  
+: Programmer 
+Description 
+: Build a web Information 
+Responsibilities 
+:Build Web  
+Languages/Tools/Utilities: Wordpress Woocomerce 
+Project: http://thiensu.com.vn/ 
+Others: Use to test http://laorquideaspa.byethost5.com/wordpress/ 
+6 
+PROJECT 
+: ERP _ ORACLE FUSION(COMPANY) 
+Period  
+: November 16 to July-17  
+Position  
+: Test , setup, support 
+Description 
+: I joined ERP Project . It include AR,AP,INV,PO,FAH . It is an application of 
+Oraclecloud . I just work with INV ,PO. 
+Responsibilities 
+: Test , setup(small), support , OTBI,BI 
+I graduated in Information Technology of The Education University. Although I just have less 
+experience , I will always try to cultivate and learn. 
+Sincerely, 
+Trang  
+Lê Thị Đài Trang 

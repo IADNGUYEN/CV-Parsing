@@ -1,0 +1,258 @@
+ 
+Page 1 
+Curriculum Vitae 
+Personal Information 
+Full name: Toan Duc Le 
+Nationality: Vietnamese  
+Place of birth: Ho Chi Minh city / Viet Nam  
+Date of Birth: Jan 2nd 1986 
+Gender:   
+Male  
+Marital status: Married 
+Phone:  
+0983.299.991 and 012.235.6868.9 
+Email: ldtoan86@gmail.com 
+Languages: Vietnamese (Native), English (Normal) 
+Experience Summary 
+Software engineer:  5+ years of software design experience.  Strong experiences in HTML5, Css, Javascript, PHP, SQL, C++, C#, HTML, Matlab and 
+Java.  Knowledgeable of the Machine Learning system. The Stanford Natural Language 
+Processing platforms (Stanford NLP-Java) and Scikit Learning platforms (Python) for the big 
+data systems, the Hidden Markov Model (Matlab-HMM) algorithms for the Classification, the 
+Gabor Wavelet and image processing algorithms for the feature extraction.  Knowledgeable of the Selenium platform(Java,Python) for the data collected system.  Knowledgeable of the Xamarin cross-platform (C#), Cocos-2dx platform (C++), Android 
+native platform (Java), the Communication Interface between languages (C#,C++ and Java) 
+for the mobile development.  Knowledgeable of the Wordpress platforms (PHP, HTML5, Css, Javascript) for web 
+development.  Good at using Git, SVN, CVS; Mantis Bug Tracker; Jetbrains IDEs for Java, PHP, C#, C++ 
+development.  Experienced working in the star-up and out-source projects over 5 years.  Own one page on the machine learning in the Nation Technical Conference (REV-2012). 
+Hardware engineer:  8+ years of hardware design experiences.  Strong experiences in VHDL, Verilog, System Verilog, Perl, CShell, Tcl and Matlab.  Knowledgeable of hardware design.  Good at synthesis, STA, DFT and Tetramax and simulation VCS tools.  Experienced working in Renesas Vietnam Company (RVC) over 4 years.  Experienced working in Integrated Circuit Design Research & Education Center (ICDREC) 
+over 4 years.  Own two papers of hardware design in the IEEE Joint Conference International Conference 
+on Integrated Circuit Design and Technology (ICICDT-2016) and (ICICDT-2014) with the 
+Japan-VietNam technology coopations. 
+Page 2 
+Skills 
+Soft Skills 
+Team work and Careful: A project manager of the important projects in RVC and ICDREC 
+companies. The communication skills in convincing the team members to follow the 
+main-design flows. 
+Workaholic: Spend most the home and weekend time to finish projects with non-relaxing or 
+non-traveling actions. Always work from 8 AM to 24 PM in many years from student to now. 
+English: Can communicate to the customer in project context effectively. The 625-score 
+TOEIC level.  
+Writing paper: Own three technical papers. 
+Hard Skills 
+PHP, SQL, JavaScript, C++, C#, HTML, Css and Java. 
+Git, SVN, CVS. 
+JetBrain IDEs, Visual Studio IDE, Xamarin IDE, Linux IDEs.  
+Linux, Verilog, System Verilog, Perl, Tcl, CShell, Bash. 
+Education 
+2012: Student of master degree in Natural Science University, Ho Chi Minh City, Vietnam 
+2004 – 2008: Student in Natural Science University, Ho Chi Minh City, Vietnam 
+Working history 
+From 
+To 
+Company 
+Location 
+Title 
+12/2012 
+now 
+Integrated Circuit Design 
+Research & Education Center 
+Ho Chi Minh 
+City, Viet Nam 
+Hardware 
+Engineer 
+9/2008 
+11/2012 
+Renesas Design Vietnam 
+(Japan company) 
+Ho Chi Minh 
+City, Viet Nam 
+Hardware 
+Engineer 
+Project References 
+From Jun 2015 to now 
+Start-up project 
+Project 
+: Estate mobile & web app 
+Position  
+: Founder, main coder 
+Description 
+: Main features as below: 
++ Provice the real-clearly address messages which were posted by the house 
+owner. Avoid the trash, spam, trick messages from the estate agents. The trick 
+message in estate sites are popular and many house buyers are cheated by the 
+estate agents. 
++ Provice the analysis and synthesis data to the site users. Provice many kinds of 
+data which the Google and the enemy estate sites do not have. This is different 
+features of my site. 
+Page 3 
+Tool 
+: Using tools as below: 
++ Using Stanford NLP core platform (Machine Learning  SPIED and NER  
+Java) to detect the real-clearly address, to elinimate the agent messages, to 
+generate the new kinds of data which Google does not have. 
++ Using Selenium platform (Java) to collect the ad messages from tenth of the 
+estate sites, to collect the news from the daily news sites.  
+Responsibilities :  
+Determine the main features. 
+Investigate the design flow to make the system operation efficiently. Easy to delete/add 
+module, efficiently memory usage. 
+Code the in Java. 
+Selenium cores to collect data from the estate sites. Prepare the trained and test data for the 
+Standford NLP. Using Selenium to post the estate message to the estate sites. 
+Using Standford NLP to train, test, run. 
+Design web, and backend, using HTML, Js, Css, PHP, MySQL. 
+Design the simple UI web app, which display whole data. 
+(Url: www.nhadat3giay.com, www.toanlepro.com) 
+Results: 
+Status is continue. 
+Start to collect the large data and code the analysis core. 
+From Jun 2016 to July 2016 
+Start-up project 
+Project 
+: Brand-Influcencer Matching Core 
+Position  
+: Coder 
+Description 
+: Writing the feature core for the friend start-up project, the features as below: 
++ Brand owner provides the marketing campains which details are suitable to 
+the influencer data.  
++ Provice the analysis and synthesis data to the campain users.  
+Tool 
+: Using Scikit Learning core platform (Machine Learning  Python) to classify the 
+campain information and calculate the weight value. The weight value will match 
+the influencer data. 
+Responsibilities :  
+Code the in Python. 
+Demo: www.hiip.asia 
+Results: 
+Status is done.  
+From Aug 2015 to now 
+Integrated Circuit Design Research & Education Center          
+Project 
+: 3-phase Power Energy Measurement chip (PEM3 chip) 
+Position  
+: Project Manager  
+Description 
+: Design the 3-phase power-measurement chip 
+Responsibilities :  
+Monitor the deadlines, tasks and control the design flow. 
+Design the main module. 
+Write paper for IEEE Joint Conference ICICDT-2016 & 4S-2016. 
+Report to the Director. 
+Page 4 
+From Jan 2014 to Mar 2015 
+Integrated Circuit Design Research & Education Center          
+Project 
+: 1-phase Power Energy Measurement chip (PEM1 chip) 
+Position  
+: Project Manager  
+Description 
+: Design the 1-phase power-measurement chip 
+Responsibilities :  
+Monitor the deadlines, tasks and control the design flow 
+Design the main module 
+Write paper for IEEE Joint Conference 4S-2014/AVIC-2014. 
+Report to the Director. 
+From Jan 2014 to Jun 2015 
+Start-up project          
+Project 
+: Sale & Product management web app. 
+Position  
+: Founder, main coder. 
+Description 
+: Web app can monitors the finance, products, customers, bills, depths….Web 
+app contains Point Of Sale (POS) part and main control part. 
+Responsibilities :  
+Determine the main features which outstanding than existing products (www.kiotviet.vn, 
+www. suno.vn, www.haravan.com, www. maybanhang.net). 
+Design the UI, logic backend logic in HTML, JavaScript, CSS, PHP. 
+Using CodeIgniter engine. 
+Contain POS web app and Main Control web app. 
+Results:  
+Project is FAIL. 
+Project is huge. Not enough resources. And no one work for long time with no money. 
+From Jan 2013 to Dec 2013 
+Out-source project          
+Project 
+: Go Memo mobile app 
+Position  
+: Project manager and main coder 
+Description 
+: Design the calendar app 
+Responsibilities :  
+Monitor the deadlines 
+Design the UI, logic backend logic in C++. 
+Operate in iOS and Android. 
+Resolve feedback from the customers. 
+Report to the Customer. 
+From Dec 2012 to Dec 2013 
+Integrated Circuit Design Research & Education Center          
+Project 
+: Wireless 802.11n chip 
+Position  
+: Engineer 
+Description 
+: Design the 802.11n communication chip 
+Responsibilities :  
+Cooperate with the Kyushu University. 
+Design the controller module 
+Monitor and control the design flow 
+Report to the Manager. 
+Page 5 
+From Jan 2012 to Dec 2012 
+Master-degree thesis          
+Project 
+: Design the Face Expression Detection system 
+Position  
+: Main coder 
+Description 
+: Master project 
+Responsibilities :  
+Using Gabor-Wavelet, Canny, Face Detection, SUSAN algorithms to collect the Feature 
+Extraction data for the Classification. 
+Using HMM of MIT as classification module, the author of the HMM module is Kelvin 
+Murphy. 
+Data for test and train is Japanese Female Facial Expression database (JAFFE). 
+Accuracy is 85% 
+Write the paper for this thesis. 
+From Oct 2009 to Nov 2012 
+Renesas Design Vietnam                 
+Project 
+: Verification and design hardware IP 
+Position  
+: Engineer 
+Description 
+: Design and verification for communication IP 
+Responsibilities :  
+Write the design specification documents for IP design: the function specification documents, 
+the design detail specification documents and the interface specification documents based on 
+the Renesas design flowchart 
+Write RTL code and write test patterns based on VHDL, Verilog and System Verilog 
+language 
+Customize, optimize and debug the verification environments based on CShell, Perl, VHDL, 
+Verilog and Ruby languages 
+Study and run the verification tools 
+Make the verification documents: the strategy documents for verification, the function and 
+connection checklist test pattern documents 
+Make the verification reports: the RTL coverage documents, the test pattern coverage 
+documents, the functional coverage documents and the assertion coverage documents 
+From Oct 2008 to Oct 2009 
+Renesas Design Vietnam          
+Project 
+: Verification Flash Memory 
+Position  
+: Engineer 
+Description 
+: Architecture Verification of Flash Memory for MCU 
+Responsibilities :  
+Maintenance 128KB, 256KB, 512KB Flash MCU Memory. 
+Analyze and verify the architecture memory problems. 
+Maintenance and customize existing module using ESP-CV tool. 
+Making documents for describing the design bugs to customers. 
+Receive feedback from the customer. 
+Make bugs/problems reports for customers 
+Verify and design IP: CEC IP for HDMI standard, RCSR and EAVB IP for asynchronous data 
+transfer and many types of counters, timers 
+Page 6 
+Merit References 
+Page 7 

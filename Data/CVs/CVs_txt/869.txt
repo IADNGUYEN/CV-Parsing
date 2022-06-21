@@ -1,0 +1,115 @@
+VINH DANG 
+Cell phone: (+84) 906 307 800 
+Address: 42/29 Hoang Hoa Tham Street, Ward 7, Binh Thanh District, Ho Chi Minh City 
+Email: dangvinh14061994@gmail.com 
+Skype: phamdangvinh1406 
+Facebook: https://www.facebook.com/Dang.Typn 
+Introduction 
+Graduated at Mathematics and Computer Science faculty, I have strong 
+knowledge about mathematics and algorithm. With my passion about computer 
+vision, I make my ideas come true as a competent programmer. I am focusing on 
+image processing, pattern recognition and computational challenges. 
+Professional 
+Experience 
+Global Cybersoft (Vietnam) JSC / Embedded Computer Vision Engineer 
+August 2016 to present 
+Deep Learning Gait Recognition project 
+Research and replicate deep learning method to calculate human gait 
+signature, work on MATLAB combined with Python 
+Perform training and testing process based MatConvNet framework and 
+SVM method 
+Smart Traffic project 
+Member of Computer vision team, working on Python, develop and 
+maintain core source of Public Safety project 
+Research  Tesseract, handle and apply license plate recognition 
+algorithms to server 
+Develop homography module, support to calculate velocity of 
+transportation  
+Public Safety project 
+Key member of Computer vision team, working on Python with OpenCV 
+and Dlib libraries to develop the core module of the project 
+Develop camera calibration module, support to estimate object height, 
+velocity;  using linear algebra methods to solve geometry problem 
+Develop intra-tracking module, apply to track human, vehicle in video 
+Develop object detection module (human, face, vehicle), train the HOG 
+SVM and Haar cascade models  
+Building core server with Postgres database using Django framework 
+Global Cybersoft (Vietnam) JSC / Embedded Computer Vision Internship 
+June 2016 to July 2016 
+Office Assistance project 
+Member of computer vision team, working on C/C++ with OpenCV to 
+implement human tracking functions, communicate with backend team 
+Page 2 
+by using GRPC and POCO.    
+Apply Optical flow, CAM shift and Kernelized correlation filter algorithms 
+to improve tracking performance, support to develop PCA model for 
+training and matching human faces. 
+Research Convolution neural network with Caffe model to improve face 
+recognition problem. 
+Gait recognition project 
+Support to implement Optical flow energy mask for subtracting motion 
+foreground, using C/C++ and OpenCV library. 
+Technical  
+Skills 
+Foreign languages: English (TOEIC 600), Japanese (beginner). 
+Programming languages: C/C++, Python, Matlab, JavaScript. 
+Frameworks: OpenCV, Dlib, GRPC, POCO, Postgres SQL, SQLite, Django, 
+numpy, scikit-learn, keras, MatConvNet 
+Operation system: linux, windows 
+Domain specializations: digital image processing, computer vision, 
+machine learning 
+Version control: Mercurial, GIT, SVN 
+Software design tool: Astah, Pencil 
+Working management tool: Jira, Crucible, Wiki 
+Education 
+IC & IP Team (IC & IP Lab) 
+Faculty of Mathematics and Computer Science, VNUHCM  University of Science 
+Research student 
+June 2014 to August 2016 
+Conference paper: Classifying Vietnam Television videos based on detecting 
+and identifying VTV logo 
+(THE 10TH SCIENTIFIC CONFERENCE UNIVERSITY OF SCIENCE  VNUHCM) 
+Viet Nam National University  Ho Chi Minh City University of Science  
+Faculty of Mathematics and Computer Science 
+Honor class 
+August 2012 to August 2016 
+Thesis: Human detection and tracking in video 
+Using Histogram of Oriented Gradients feature with Cascade classifier to 
+detect human in real time videos, and apply Optical flow mess to 
+calculate averaged magnitude of direction vector to track the objects 
+Working on C/C++ with OpenCV, combined on Visual Studio 
+Course project: Image compression using Discrete Cosine Transform 
+Page 3 
+Implement DCT method to compress images 
+Writing on Matlab language 
+Course project: Survey of Integer factorization methods 
+Implement various methods to solve the problem of big integer 
+factorization 
+Writing on Matlab language. 
+Course project: An application for drawing and testing 2D geometric objects 
+Implement a small application based on Object oriented programming 
+Writing on C/C++ language, making GUI with Window Form 
+Course: An introduction to Bioinformatics Algorithms  From Computer Code 
+to Human Code 
+Solved many problems in the Rosaline website using Python 
+Reference link: http://rosalind.info/users/dangvinh14061994/ 
+Awards 
+Odon Vallet scholarship 2016 
+7th, 6th, 5th, 4th  and 1st  semester Encouraging Academic Scholarship 
+Thang Long Scholarship 
+Tran Thi Le Scholarship 
+References 
+Prof. The Bao Pham  
+Faculty of Mathematics and Computer Science University of Science 
+Vietnam National University – Ho Chi Minh City  
+227 Nguyen Van Cu Street, District 5,  Ho Chi Minh City, Vietnam  
+Mail: ptbao@hcmus.edu.vn  
+Tung Son Pham 
+Senior Engineer – Technical Architecture 
+Global Cybersoft (Vietnam) JSC   Ho Chi Minh City 
+Helios Building, Road 4, Quang Trung Software City,  Ho Chi Minh City, Vietnam 
+Mail: tungps@gcs-vn.com 
+Scanned by CamScanner
+Scanned by CamScanner
+Scanned by CamScanner
+Scanned by CamScanner

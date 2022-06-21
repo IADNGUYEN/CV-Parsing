@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="27" family="FPBUNJ+TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="1" size="18" family="FPBUNJ+TimesNewRoman,Bold" color="#000000"/>
+	<fontspec id="2" size="18" family="FPUVNL+TimesNewRoman" color="#000000"/>
+	<fontspec id="3" size="12" family="FPUVNL+TimesNewRoman" color="#000000"/>
+	<fontspec id="4" size="18" family="FPUVNL+TimesNewRoman" color="#0000ff"/>
+	<fontspec id="5" size="16" family="FPOMCF+Arial" color="#000000"/>
+	<fontspec id="6" size="21" family="FPUVNL+TimesNewRoman" color="#000000"/>
+	<fontspec id="7" size="18" family="FPELAU+Wingdings" color="#000000"/>
+	<fontspec id="8" size="18" family="FPOMCF+Arial" color="#000000"/>
+	<fontspec id="9" size="18" family="FPHHJB+Symbol" color="#000000"/>
+<text top="115" left="322" width="281" height="24" font="0"><b>CIRRICULUM VITAE </b></text>
+<text top="146" left="108" width="7" height="24" font="0"><b> </b></text>
+<text top="174" left="108" width="241" height="16" font="1"><b>PERSONAL INFORMATION </b></text>
+<text top="195" left="108" width="45" height="16" font="1"><b>Name</b></text>
+<text top="195" left="153" width="186" height="16" font="2">: Nguyễn Công Trí Dũng </text>
+<text top="216" left="108" width="86" height="16" font="1"><b>Nationality</b></text>
+<text top="215" left="194" width="104" height="16" font="2">: Vietnamese. </text>
+<text top="236" left="108" width="101" height="16" font="1"><b>Date of Birth</b></text>
+<text top="236" left="209" width="61" height="16" font="2">: April 4</text>
+<text top="232" left="270" width="12" height="11" font="3">th </text>
+<text top="236" left="282" width="54" height="16" font="2">, 1983. </text>
+<text top="236" left="378" width="5" height="16" font="2"> </text>
+<text top="236" left="432" width="106" height="16" font="1"><b>Place of Birth</b></text>
+<text top="236" left="538" width="252" height="16" font="2">: Binh Thuan Province – Vietnam. </text>
+<text top="257" left="108" width="58" height="16" font="1"><b>Gender</b></text>
+<text top="257" left="166" width="56" height="16" font="2">: Male. </text>
+<text top="257" left="270" width="5" height="16" font="2"> </text>
+<text top="257" left="324" width="5" height="16" font="2"> </text>
+<text top="257" left="378" width="5" height="16" font="2"> </text>
+<text top="257" left="432" width="108" height="16" font="1"><b>Marital status</b></text>
+<text top="257" left="540" width="72" height="16" font="2">: Married </text>
+<text top="278" left="108" width="106" height="16" font="1"><b>Mobile phone</b></text>
+<text top="277" left="214" width="120" height="16" font="2">: 0944-153-155. </text>
+<text top="277" left="378" width="5" height="16" font="2"> </text>
+<text top="278" left="432" width="46" height="16" font="1"><b>Email</b></text>
+<text top="277" left="478" width="10" height="16" font="2">: </text>
+<text top="277" left="487" width="219" height="16" font="4">nguyencongtridung@live.com</text>
+<text top="277" left="706" width="9" height="16" font="2">. </text>
+<text top="298" left="108" width="63" height="16" font="1"><b>Address</b></text>
+<text top="298" left="171" width="287" height="16" font="2">: Di An District, Binh Duong Province. </text>
+<text top="319" left="108" width="5" height="16" font="2"> </text>
+<text top="339" left="115" width="5" height="16" font="2"> </text>
+<text top="339" left="162" width="5" height="16" font="2"> </text>
+<text top="361" left="353" width="216" height="16" font="1"><b>KNOWLEDGE &amp; SKILLS </b></text>
+<text top="381" left="126" width="84" height="16" font="1"><b>Computer </b></text>
+<text top="402" left="126" width="15" height="16" font="5">● </text>
+<text top="402" left="153" width="133" height="16" font="2">Strong Language: </text>
+<text top="402" left="286" width="101" height="16" font="1"><b>C, C++, Java</b></text>
+<text top="402" left="386" width="5" height="16" font="2"> </text>
+<text top="423" left="126" width="15" height="16" font="5">● </text>
+<text top="422" left="153" width="115" height="16" font="2">Basic Language</text>
+<text top="423" left="268" width="6" height="16" font="1"><b>:</b></text>
+<text top="422" left="274" width="444" height="16" font="2"> C#, Python, Javascript, React Native, Android, HTML, CSS </text>
+<text top="443" left="126" width="15" height="16" font="5">● </text>
+<text top="443" left="153" width="235" height="16" font="2">Database: SQL server, MySQL. </text>
+<text top="464" left="126" width="15" height="16" font="5">● </text>
+<text top="464" left="153" width="418" height="16" font="2">IDE: Visual studio, Eclipse, Visual Code, Android studio </text>
+<text top="485" left="126" width="15" height="16" font="5">● </text>
+<text top="484" left="153" width="140" height="16" font="2">Editor: Notepad++ </text>
+<text top="505" left="126" width="15" height="16" font="5">● </text>
+<text top="505" left="153" width="188" height="16" font="2">Source control: Git, SVN </text>
+<text top="526" left="126" width="5" height="16" font="1"><b> </b></text>
+<text top="547" left="126" width="62" height="16" font="1"><b>English </b></text>
+<text top="568" left="126" width="15" height="16" font="5">● </text>
+<text top="567" left="153" width="262" height="16" font="2">Skills in reading reference material. </text>
+<text top="591" left="126" width="15" height="16" font="5">● </text>
+<text top="591" left="153" width="123" height="16" font="2">Business English</text>
+<text top="589" left="276" width="5" height="19" font="6">.</text>
+<text top="591" left="282" width="5" height="16" font="2"> </text>
+<text top="613" left="126" width="5" height="16" font="1"><b> </b></text>
+<text top="633" left="126" width="57" height="16" font="1"><b>Others </b></text>
+<text top="654" left="126" width="15" height="16" font="5">● </text>
+<text top="653" left="153" width="342" height="16" font="2">Dynamic, hard-working &amp; a good team player. </text>
+<text top="674" left="126" width="15" height="16" font="5">● </text>
+<text top="674" left="153" width="313" height="16" font="2">Trustworthy, enthusiastic &amp; responsibility. </text>
+<text top="695" left="126" width="15" height="16" font="5">● </text>
+<text top="695" left="153" width="289" height="16" font="2">Working in high-pressure environment. </text>
+<text top="715" left="108" width="5" height="16" font="2"> </text>
+<text top="736" left="108" width="5" height="16" font="2"> </text>
+<text top="757" left="368" width="186" height="16" font="1"><b>WORK EXPERIENCE </b></text>
+<text top="778" left="126" width="15" height="16" font="5">● </text>
+<text top="778" left="153" width="289" height="16" font="2">From 2017 to now: Shinkawa Vietnam. </text>
+<text top="797" left="162" width="16" height="18" font="7"></text>
+<text top="798" left="178" width="5" height="17" font="8"> </text>
+<text top="798" left="189" width="197" height="16" font="2">Years of work: 18 months. </text>
+<text top="818" left="162" width="16" height="18" font="7"></text>
+<text top="818" left="178" width="5" height="17" font="8"> </text>
+<text top="819" left="189" width="235" height="16" font="2">Current level: Senior developer. </text>
+<text top="838" left="162" width="16" height="18" font="7"></text>
+<text top="839" left="178" width="5" height="17" font="8"> </text>
+<text top="840" left="189" width="95" height="16" font="2">Main duties: </text>
+<text top="862" left="189" width="14" height="16" font="9"></text>
+<text top="861" left="202" width="5" height="17" font="8"> </text>
+<text top="862" left="216" width="283" height="16" font="2">Maintain the Wire Bonder application. </text>
+<text top="884" left="189" width="14" height="16" font="9"></text>
+<text top="883" left="202" width="5" height="17" font="8"> </text>
+<text top="884" left="216" width="223" height="16" font="2">Analysis Requirements Specs. </text>
+<text top="906" left="189" width="14" height="16" font="9"></text>
+<text top="905" left="202" width="5" height="17" font="8"> </text>
+<text top="906" left="216" width="278" height="16" font="2">Design test case, estimate and coding. </text>
+<text top="928" left="189" width="14" height="16" font="9"></text>
+<text top="927" left="202" width="5" height="17" font="8"> </text>
+<text top="928" left="216" width="219" height="16" font="2">Execute test cases by manual. </text>
+<text top="950" left="189" width="14" height="16" font="9"></text>
+<text top="949" left="202" width="5" height="17" font="8"> </text>
+<text top="950" left="216" width="387" height="16" font="2">Develop new feature depend on client’s requirement. </text>
+<text top="972" left="189" width="14" height="16" font="9"></text>
+<text top="971" left="202" width="5" height="17" font="8"> </text>
+<text top="972" left="216" width="548" height="16" font="2">Write tool export text from excel to support multi languages for application </text>
+<text top="992" left="115" width="5" height="16" font="2"> </text>
+<text top="992" left="331" width="5" height="16" font="2"> </text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="10" size="18" family="FPRWWL+TimesNewRoman,Italic" color="#000000"/>
+<text top="112" left="216" width="5" height="16" font="2"> </text>
+<text top="133" left="126" width="15" height="16" font="5">● </text>
+<text top="132" left="153" width="357" height="16" font="2">From 2012 to 2017: Gameloft Company Limited </text>
+<text top="152" left="162" width="16" height="18" font="7"></text>
+<text top="152" left="178" width="5" height="17" font="8"> </text>
+<text top="153" left="189" width="173" height="16" font="2">Years of work: 5 years. </text>
+<text top="172" left="162" width="16" height="18" font="7"></text>
+<text top="173" left="178" width="5" height="17" font="8"> </text>
+<text top="174" left="189" width="191" height="16" font="2">Current level: Supervisor. </text>
+<text top="193" left="162" width="16" height="18" font="7"></text>
+<text top="194" left="178" width="5" height="17" font="8"> </text>
+<text top="195" left="189" width="95" height="16" font="2">Main duties: </text>
+<text top="217" left="189" width="14" height="16" font="9"></text>
+<text top="216" left="202" width="5" height="17" font="8"> </text>
+<text top="217" left="216" width="267" height="16" font="2">Manage a team of 10 – 20 members. </text>
+<text top="239" left="189" width="14" height="16" font="9"></text>
+<text top="238" left="202" width="5" height="17" font="8"> </text>
+<text top="239" left="216" width="399" height="16" font="2">Develop several 2D Games for MRE, MIDP, Android. </text>
+<text top="261" left="189" width="14" height="16" font="9"></text>
+<text top="260" left="202" width="5" height="17" font="8"> </text>
+<text top="261" left="216" width="331" height="16" font="2">Fixed bugs and improve game’s performance </text>
+<text top="283" left="189" width="14" height="16" font="9"></text>
+<text top="282" left="202" width="5" height="17" font="8"> </text>
+<text top="283" left="216" width="192" height="16" font="2">Review code of members. </text>
+<text top="305" left="189" width="14" height="16" font="9"></text>
+<text top="304" left="202" width="5" height="17" font="8"> </text>
+<text top="305" left="216" width="178" height="16" font="2">Train for new members. </text>
+<text top="325" left="115" width="5" height="16" font="2"> </text>
+<text top="347" left="404" width="115" height="16" font="1"><b>EDUCATION </b></text>
+<text top="367" left="126" width="100" height="16" font="1"><b>2002 – 2005: </b></text>
+<text top="388" left="126" width="15" height="16" font="5">● </text>
+<text top="387" left="153" width="363" height="16" font="2">Student of HCMC University of Natural Sciences </text>
+<text top="408" left="126" width="15" height="16" font="5">● </text>
+<text top="408" left="153" width="311" height="16" font="2">Faculty: Information Technology (3-Year) </text>
+<text top="429" left="126" width="15" height="16" font="5">● </text>
+<text top="429" left="153" width="329" height="16" font="2">Major: Information Technology Department. </text>
+<text top="450" left="126" width="15" height="16" font="5">● </text>
+<text top="449" left="153" width="133" height="16" font="2">Status: Graduated </text>
+<text top="471" left="126" width="100" height="16" font="1"><b>2006 – 2009: </b></text>
+<text top="491" left="126" width="15" height="16" font="5">● </text>
+<text top="491" left="153" width="363" height="16" font="2">Student of HCMC University of Natural Sciences </text>
+<text top="512" left="126" width="15" height="16" font="5">● </text>
+<text top="512" left="153" width="357" height="16" font="2">Faculty: Information Technology (Fully-studied) </text>
+<text top="533" left="126" width="15" height="16" font="5">● </text>
+<text top="532" left="153" width="329" height="16" font="2">Major: Information Technology Department. </text>
+<text top="553" left="126" width="15" height="16" font="5">● </text>
+<text top="553" left="153" width="178" height="16" font="2">Status: Undergraduated. </text>
+<text top="577" left="108" width="7" height="24" font="0"><b> </b></text>
+<text top="637" left="810" width="5" height="16" font="10"><i> </i></text>
+</page>
+</pdf2xml>

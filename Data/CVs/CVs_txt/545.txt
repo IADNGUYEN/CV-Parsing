@@ -1,0 +1,39 @@
+ 
+IoT Engineer Fresher 
+I. 
+THÔNG TIN CÁ NHÂN 
+Họ và tên: Lương Xuân Chi  
+Ngày sinh: 17/06/1996 
+Địa chỉ: 7A/126 Thành Thái, phường 14, quận 10, Tp Hồ Chí Minh 
+Số điện thoại: 01664536649 
+Email: luongxuanchi1996@gmail.com 
+II. 
+HỌC VẤN 
+Hiện là sinh viên năm 4 ngành điện tử viễn thông trường đại 
+học Bách khoa (đang làm luận văn tốt nghiệp). 
+Đề tài luận văn tốt nghiệp: Smart Doorbell: một ứng dụng trong 
+lĩnh vực Smart Home. 
+Các môn học chính: vi xử lý, thiết kế hệ thống nhúng, lập trình 
+hệ thống nhúng,… 
+Điểm trung bình tích lũy ngành: 6.51 
+Chứng chỉ ngoại ngữ: TOEIC 560. 
+III. 
+MỤC TIÊU NGHỀ NGHIỆP 
+Tích lũy kiến thức và kinh nghiệm để trở thành một kĩ sư thiết kế hệ 
+thống nhúng có kinh nghiệm, làm chủ công nghệ IoT trong hệ thông 
+nhúng. 
+IV. 
+KỸ NĂNG 
+Sử dụng thành thạo tin học văn phòng 
+Sử dụng được các phần mềm thiết kế mạch như Altium, Orcad, 
+Allegro,.. 
+Biết lập trình C, 8051, AVR,PIC, Arduino,Arm, … 
+Biết sử dụng công cụ vẽ 3D Solidworks 
+Chăm chỉ, cẩn thận và có trách nhiệm 
+Có thể làm việc nhóm, làm việc độc lập 
+V. 
+KINH NGHIỆM:  Thực tập tại batfun electronics từ tháng 7-12 năm 2017, làm về 
+esp8266, levitron,.. 
+VI. 
+HOẠT ĐỘNG XÃ HỘI  Tham gia các công tác từ thiện, hoạt động xã hội 
+VII. SỞ THÍCH  Thích nghe nhạc, chơi game  Thích làm các ứng dụng từ vi điều khiển 

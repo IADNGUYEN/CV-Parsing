@@ -1,0 +1,203 @@
+Sept 2016  Jun 2019
+University of Brighton
+Major: Computer Sciences
+Degree classification: Second Class Honours (Upper Division)
+Sept 2015  Jun 2016
+University of Brighton
+Major: Construction Management (Level 4)
+Overall (on Level 4): 72
+Sept 2014  Jul 2015
+University of Brighton International College
+Major: Engineering
+Overall: 81/100
+Oct 2018  May 2019
+Students' Union
+Course Rep  Gather feedback from fellow students- Raise Issues on Course Board  Represent the views of students on their course regardless of their own
+personal beliefs/opinions  Feedback to fellow students on the outcomes of discussion with staff.
+Nov 2018  May 2019
+Study Groups
+Leader  Arrange meeting  Organize topic to discuss and study
+Dec 2018  Mar 2019
+UoB Games Society
+Member  Attend meeting, play games and make new friends  Organize and participate games tournament
+Oct 2015  Nov 2015
+UBIC  Mathematics Support
+Assistant  Support college student on Mathematics  Attend meeting and discuss new topic and exercises to teach students
+Trần Triều Vĩ
+Date of birth
+Mar 31, 1996
+Gender
+Male
+Phone
++84383599061
+Email
+tranuytrieuvi@protonmail.com
+Address
+No. 48, road 28, ward 10, district 6, Hochiminh City,
+Vietnam, 700000
+Website
+https://github.com/Chris8018
+EDUCATION
+ACTIVITIES
+Sep 2015
+University of Brighton International Scholarship
+Jul 2014
+University of Brighton International College Scholarship
+Mar 2014
+City Level Gift Student Certificate
+2018
+Gamification of Learning
+2018
+Gamification for Interactive Learning
+2014
+IELTS 5.5
+Programming languages
+Java, Python, Kotlin, JavaScript, Haskell, SQL
+OS
+Windows 10 Home, Ubuntu 16.04+
+Languages
+Vietnamese, English
+Office
+MS Office, Libre Office
+HONOURS & AWARDS
+CERTIFICATIONS
+SKILLS
+INTERESTS
+Martial art, video games, board games, piano, cooking
+PROJECTS
+BLE Web App
+(Dec 2018  Apr 2019)
+Customer
+n/a
+Description
+Research, experience and implement Web Bluetooth API
+Team size
+1
+My position
+Researcher
+My responsibilities  Analyse API's document  Logging the research  Create a working example  Debug  Review code  Optimize code
+Technologies used  Web Bluetooth API  Bluetooth 4.0+, BLE  HTML, CSS, JavaScript  Web Developer Tools  Git  Github Page  VS Code
+A.I. Music Generator
+(Mar 2019  May 2019)
+Customer
+n/a
+Description
+Implement LSTM to create new music that similar to what the A.I. learnt from
+Team size
+1
+My position
+Data Scientist
+My responsibilities  Gather data for training  Monitor training  Optimize training network algorithms  Debug
+Technologies used  Tensorflow, Keras  Python 3.5  Git
+Time Managing App
+(Jan 2019  Apr 2019)
+Customer
+n/a
+Description
+Tracking and scheduling time usage with time boxing technique
+Team size
+1
+My position
+Mobile Developer
+My responsibilities  Design and Analyst  Development  Review code  Optimize code  Debug
+Technologies used  Android SDK 19+  Java  Android Studio 3
+3D Scanning and Printing
+(Nov 2018  Jan 2019)
+Customer
+n/a
+Description
+Research and experience 3D scanning and printing technology
+Team size
+1
+My position
+Researcher
+My responsibilities  Research and implement  Gather image data  Review and choose the best 3D meshes  Clean 3D meshes  Debug
+Technologies used  MeshLab  3D printing  Photogrammetry  Sketchfab  C++, GLSL
+Date & Temperature Web Service
+(Mar 2018  May 2018)
+Customer
+n/a
+Description
+Implement a back-end server with Happstack to show temperature of a date
+Team size
+1
+My position
+Back-End Coder
+My responsibilities  Development  Review code  Optimize code  Debug
+Technologies used  Happstack web technology  Haskell  Cabal  Git
+Lost Island
+(Feb 2018  May 2018)
+Customer
+n/a
+Description
+Edutainment games to teach middle school pupils logic gates and binary
+numbers
+Team size
+5
+My position
+Game Programmer & Team Leader
+My responsibilities  Arrange meeting  Track development progress  Development  Review code  Optimize code  Debug
+Technologies used  Game-Maker 2  Game-Maker Language
+A.I. Adventure Game
+(Mar 2018  Apr 2018)
+Customer
+n/a
+Description
+Create a tree-based decision A.I. to survive in a text-based adventure game
+Team size
+1
+My position
+Artificial Intelligence Engineer
+My responsibilities  Design A.I. algorithm  Implement A.I.
+Technologies used  CLIPS  Git
+Sudoku Solver
+(Nov 2017  Dec 2017)
+Customer
+n/a
+Description
+Solve Sudoku
+Team size
+1
+My position
+Software Engineer
+My responsibilities  Development  Review code  Optimize code  Design solving algorithms  Debug
+Technologies used  Haskell  Cabal  Git
+Traffic Light Simulation
+Available on request.
+(Mar 2017  Apr 2017)
+Customer
+n/a
+Description
+Create traffic light simulation of a cross-road with buttons for pedestrian.
+Team size
+1
+My position
+Embedded Software Engineer
+My responsibilities  Development  Design and Analyst  Review code  Optimize code  Debug
+Technologies used  Arduino Mega 2560  C, Assembly  Arduino IDE
+Bus System
+(Oct 2016  Dec 2016)
+Customer
+n/a
+Description
+Design database for Lemon Bus system
+Team size
+1
+My position
+Database Analyst
+My responsibilities  Design and Analyst  Development  Debug
+Technologies used  SQL  MS Management Studio  MS Access
+Web Technology Learning Journey
+(Oct 2016  Dec 2016)
+Customer
+n/a
+Description
+Create basic static site to show what I have learnt about web technology
+Team size
+1
+My position
+Web Developer
+My responsibilities  Design and Analyst  Development  Review code  Optimize code  Debug
+Technologies used  HTML, CSS  Web Developer tool
+REFERENCES
+© topcv.vn

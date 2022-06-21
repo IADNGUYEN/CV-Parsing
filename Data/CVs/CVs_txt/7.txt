@@ -1,0 +1,105 @@
+NGUYỄN BẢO SƠN 
+Address: 184/34/2 Ly Chinh Thang, Ward 9, Dist 3, HCM City 
+E-mail: nguyenbson37@gmail.com 
+Phone number: +84 949 758 758 
+Personal Details 
+Full Name: 
+Nguyễn Bảo Sơn  
+Birthday: 
+03/07/1991 
+Gender:  
+Male 
+Interests: 
+Reading, travelling, listening to music, practicing Aikido 
+Objectives 
+My goal is to become a Senior Test Engineer in 2 years and a Leader in 3-5 years 
+Skill Overview 
+Technical Skills: 
+o Have knowledge in manual testing (Web, application and mobile application) 
+o Have knowledge in Test Plan and Control, Test Analysis and Design, Test 
+Implementation and Execution, Test Evaluation and Reporting 
+o Good understanding in testing design techniques such as Equivalence 
+Partitioning, Boundary Value Analysis, Decision Table Testing, State Transition 
+Testing and Use Case testing. 
+o Testing types and methodologies: Structural testing, Functional testing, Non- 
+functional testing, Maintenance testing, Experience testing  
+o Experienced at Software and Technologies such as MySQL, HTML, CSS, and 
+Word Press. 
+Other:  
+o Excellent problem solving skills 
+o Advance Use of Mircosoft Office Suite including Word, Excel, Power Point 
+o Good team work skills, communication and management skills.  
+o Ability to study and apply new technology quickly 
+o Good at Communicating and Writing Skills in English 
+Experience 
+Sep 2015   
+TestingVN Co,. Ltd Company 
+Oct 2015  
+Trainee 
+Project: Student Management 
+o Description:  This is the application for managing the information of students 
+such as personal details, subjects and marks. 
+o Responsibility: My roles include understanding requirements, test cases, 
+executing test cases, Q&A, finding and post bugs. 
+Mar 2015    
+Green Medical Equipment Co,. Ltd Company, Ho Chi Minh City 
+Sep 2015 
+Marketing and Sales Representative  
+My job is to support to launch up the new products and engage with the sales team to 
+push up a number of customers. 
+o English translation for Mr. Kim Cheol Ho, The Director of Company. 
+o Translate related documentary as well as help members of sales team in the 
+technical field. 
+o Analyzing, organizing, and following feedbacks from customers to company’s 
+manager. 
+o Building the relationships with customers from the shops, the private and general 
+clinics as well as the hospitals 
+o Marketing analysis for new products such as Biochemical Reagent, Lancets, 
+Rapid Tests, Glucose Monitor, and Electric Pulse Massager. 
+o Recommend a strategy to increase a number of customers 
+Skill gained:  
+o Soft skills including communication skills, time and task management, dealing 
+with people, professional behaviors, working under high pressure and adapting to 
+changes.  
+o Client focus  by communicating with customers, I learnt how to put their 
+satisfaction on the top priority and come up with the solutions filling their needs. 
+o Analytical skills and the ability to prioritize, plan and organize effectively. 
+Jun 2014    
+National Breeding Center for Southern Freshwater Aquaculture, Tien Giang         
+Oct 2014 
+Province 
+Graduation Project 
+Project: Genetic diversity and genetic parameters of the base population of red tilapia 
+o Description: 
+Based on the collected database, the quality of red tilapia’s 
+breeding is evaluated  
+o Responsibility:  Researching and understanding the project  Collecting the database  By R statistical program, coding to identify and fix the mistaken 
+values, and analyzing the database to get the final result  Component testing, integration testing  Present the final result 
+Jan 2013    
+International University Mastermind contest 
+Apr 2013  
+Team member 
+Project: IUP Bus 
+o Description: 
+This is the web application which is to look up bus routes in Ho Chi 
+Minh City 
+o Responsibility:  Analyzing the business flows  Researching and understanding the project  Designing a website  Graphical User Interface Testing (GUI Testing)  Present the final result.  
+Activities 
+Jan 2015    
+Volunteer at Huynh Mai Charity Group 
+Now  
+Jan 2015   
+Collaborator of Tedvn.com website 
+Jun 2015  Translate from English into Vietnamese for the videos from educational website 
+www.ted.com  Edit and paragraph the description for those videos 
+Jan 2010   
+Member of Social Work Team Club, organized the charity activities. 
+Jan 2013  
+Education and Qualifications 
+Nov 2015   
+Fresher Tester Certification provided by testingvn.com forum 
+Oct 2015 
+Sep 2009    
+International University, Vietnam National University, HCMC 
+Dec 2014 
+Graduated in Biotechnology Department with the overall GPA = 71.2 

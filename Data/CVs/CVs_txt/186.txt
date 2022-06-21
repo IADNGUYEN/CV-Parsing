@@ -1,0 +1,49 @@
+ 
+Hello 
+I’m LE DO MINH TAM 
+80/12 Cao Thang Street, Ward 4, District 3 
+Ho Chi Minh City, 700000 
+(+84) 966389788 
+ldmtam@gmail.com 
+Skills 
+Soft Skills 
+Good at self-studying, team working, presentations, communications 
+and social activities. 
+Capable to work in highly competitive and high pressure 
+enviroments. 
+English: can communicate to the customer in project context 
+effectively. 
+Technical Skills 
+Good at Data structure and Algorithm. 
+Have knowledge in Javascript framework such as ExpressJS, ReactJS. 
+Knowledgeable of Deep Learning with Python. 
+(For more details, please refer all my projects at: 
+https://github.com/ldmtam) 
+Projects 
+Fashion MNIST 
+Project description: use deep learning algorithm to solve Kaggle 
+fashion MNIST 
+Team size: 1 
+Framework: Keras 
+Accomplishments: get accuracy about ~90% on validation set. 
+Text sentiment API 
+Project description: train text sentiment model and build web API 
+interface. 
+Team size: 1 
+Framework: Keras, Flask 
+Accomplishments: get accuracy about ~77% on validation set and 
+web API interface for clients. 
+2 
+Experience 
+6/2016 – 8/2016 
+Personify Inc  Hoang Van Tru Street, Vietnam  Intern 
+Learning and solving problems related to AWS OpsWorks, XMPP and 
+Wowza. 
+Education 
+9/2013   4/2018 
+Bach Khoa University, Ho Chi Minh City  Engineer 
+GPA: 7.51/10 
+Certification 
+The Test of English for International Communication (TOEIC): 
+855/990. 
+AWS Technical Professional (Released November 2016). 

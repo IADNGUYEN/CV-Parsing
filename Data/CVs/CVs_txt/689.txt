@@ -1,0 +1,57 @@
+Che Viet Hai 
+(+84) 905858162                                           B dormitory, Ho Chi Minh University, Thu Duc                        cheviethai123@gmail.com 
+EDUCATION 
+University of Information Technology, 2015-2019                                                                                             Ho Chi Minh, HCMC 
+GPA: 3.02/4.0. Bachelor of Science. Computer Science Major 
+Coursework: Advance Machine Learning, Data mining, Intro to Probability and Statics, Intro to Algorithm and Structure, 
+Nature Language Processing (NLP) CS 224N Stanford Uni.  
+WORK EXPERIENCE 
+TMA Solution                                                                                                                                  Ho Chi Minh, Vietnam: Apr 2018 
+AI Engineer Part-Time 
+Work as NLP developer to create intelligent software and provide solution for NLP problems.  
+Associate with Business Analyst to perform data collection of 8 leading RPA company in Southeast Asia. 
+Collaborate with Project Manager and Director to provide POC and demo for potential problem from existing customer. 
+Attend various skill-based trainings and career exploratory talks to deepen understanding of Vietnamese business, especially AI business 
+and relevant. 
+Contribute in building scraping system for Data Scientist team; built a system to scrap 500+ websites in 1 week. 
+Participate in first NLP team was created in TMA; conducted training, developed guidelines for newcomer and intern. 
+PROJECT 
+Curriculum Vitae (CV) Parser                                                                                                  Ho Chi Minh, Vietnam: May 2018 – Jun 2018 
+Built a machine learning model to automatic reading meaning information from CV file in pdf format. Auto-parsing this information 
+into system or JSON file.  
+Minimized labor work and increase efficiency in recruitment for HR apartment; conducted the system of TMA more advance and 
+identified candidate without human touch.  
+Applied multiple NLP techniques and frameworks for getting best performance; crawled and clean 1500 CV from Vietnamwork for 
+training purpose. 
+Tested on 500 CV files and the accuracy obtained was 76.43%. 
+Reading Allocation 
+Ho Chi Minh, Vietnam: Jun 2018 – Present 
+A program was intended to use in Australia stock trading for verifying order from blocker. Automatic encrypts these order and send 
+them into trading system. 
+Boosted security and ensuring privacy for customer. 
+Prevent human error and reduce mindless work. 
+Ensured the security of the system and the maintenance. 
+Nutritious Recommend System                                                                                                 Ho Chi Minh, Vietnam: Feb 2018 – May 2018  
+Built a unique storing system based on Ontology structure; facilitate to apply profound knowledge and solve complex problem. 
+Used a workflow technique to build efficiency Query file on Ontology data. 
+Visited 50+ leading website nutritious to examine personal health, nutritious ingredient, including eating habit to create score 
+sheet for food and nutrient. 
+Applied combination technique to ensuring the diverse of food and nutrient; nutritious recommend were extracted from 100 000+ 
+template menu based on customer’ information. 
+Processed Vietnamese problem in Ontology structure.  
+LEADERSHIP AND COMMUNITY SERVICE 
+University Lab, Leader of team NLP                                                                            Ho Chi Minh, Vietnam: Oct 2017 – May 2018 
+Conducted plan for solving problem and manage workflow, responsibility of each member in NLP team.  
+Led 5 members to build an A+ project in computer science lab and was offer to write Science Paper for the project. 
+Assessed progress, developed metrics to measure projects’ impact. 
+CERTIFICATION 
+Machine Learning A-Z. Hands On Python & R In Data Science                                                                                           Aug 2017 
+The Ultimate Hands-On Hadoop – Tame your Big Data                                                                                                        Dec 2017 
+RPA Developer Foundation Diploma 
+May 2018 
+Deep Learning Specialization by Andrew Ng 
+Jun 2018 
+ADDITIONAL  
+Activities: Worked as part-time job in Western restaurant. 
+Skills: Python, Excel, Microsoft Word, Mail, NLP. 
+Interests: basketball, traveling, international development, business.  

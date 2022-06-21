@@ -1,0 +1,144 @@
+NGUYEN QUOC DAT 
+A: 4/4 group 63 Bach Dang ward, Hai Ba Trung dist., Hanoi 
+E: me@nqd.at 
+M: 090 341 54 93 
+Personal Information 
+Date of birth 
+August 27th, 1982 
+Gender 
+Male 
+Marriage status 
+Single 
+Current Location 
+Ho Chi Minh city, Vietnam 
+Carreer Objective 
+Position 
+Product Manager; Team Leader; Senior PHP Developer; Senior Front-End 
+Developer; 
+Desired salary 
+from $1,200 (negotiable) 
+Willing to relocate 
+Yes 
+Work location 
+Danang, Ho Chi Minh city, Hanoi 
+Career objective 
+I want to have a higher position and salary, depend on my work result. 
+Skills 
+Programming language 
+Expert: PHP; Also know: NodeJS, .NET platform; 
+Client language 
+Expert: CSS, (X)HTML, JavaScript; 
+Database system 
+Expert: MySQL; Also know: MongoDB, memcached; 
+Web server 
+Expert: Apache; Also know: lighttp, Nginx; 
+System analysis & design UML, Object-Oriented Programming, MVC Pattern; 
+Development 
+SEO, Database Optimization, Code Optimization, HTTP Optimization; 
+Other skills 
+Thinking Creatively, Project management, Business analysis and design, 
+can read English document, can speak English quite well; 
+Professional Experience 
+CHO TOT COMPANY LIMITED 
+JUN 2014 – TODAY 
+Product Specialist 
+ChoTot.vn 
+Top online marketplace in Vietnam – http://www.chotot.vn  
+Task 
+Product design, UX, Product Management 
+Platform 
+Self-built Platform 
+ELEVEN COMMUNICATIONS 
+DEC 2012 – FEB 2014 
+Product Manager 
+Projects 
+Task 
+Manage Technical Department; Build Facebook applications, small HTML game for 
+promotion campaign; Build Ai Ban Ai mua (C2C application for a Facebook group) 
+Clients 
+VNG, OPPO Mobile, HFF (Ho Chi Minh Football Federation), Jassens Cilag, Haagen-
+Dasz, Pearson, Wall Street English… 
+Platform 
+LAMP, CodeIgniter, PyroCMS, Wordpress, Facebook API 
+VDC ONLINE 
+JUL 2010 – NOV 2012 
+Team Leader – R&D Specialist 
+Buyme.vn 
+Online B2C Marketplace – http://buyme.vn  
+Platform 
+LAMP, Varnish, Sphinx, memcached 
+Task 
+Business analyze, design product flow, UX, setup development conventions, manage 
+Development team, platform optimize... 
+MegaShare 
+Online File Sharing Service – http://share.vnn.vn  
+Platform 
+LAMP, Varnish, Sphinx, memcached 
+Task 
+Project management 
+PEACESOFT SOLUTIONS CORPORATION 
+MAR 2008 – APR 2010 
+Technical Leader – Product Manager 
+ChoDienTu – Pro Estore 
+Online C2C Marketplace – http://chodientu.vn  
+Platform 
+LAMP, E4Portal™ 
+Task 
+Study and build base layer of ChoDienTu.vn, such as, Database access, Smart search, 
+Keyword system... Develop jQuery ajax modules; Build membership web services for 
+ChoDienTu.vn (http://chodientu.vn), Adnet.vn (http://adnet.vn), eBay.vn 
+(http://ebay.chodientu.vn); Manage Ajax development processes; Business analyze, 
+setup design standard checklist,manage Design team and Development team, 
+platform optimize... 
+4mua.vn 
+Online classified website – http://4mua.vn  
+Platform 
+LAMP, E4Portal™ 
+Task 
+CSS, HTML design; Front-End; SEO; Business analyzing and design; 
+QA Online 
+Online Fishery Quality Assurance application – Internal System 
+Client 
+Ministry of Agriculture and Rural Development (MARD) 
+Platform 
+.NET Platform, E4Portal.net™ 
+Task 
+Back-End developer, Front-End developer, Business analyse and design, Database 
+analyse and design; 
+Prizes & Awards 
+VDC ONLINE 
+Super Team 
+Group award 
+2011 
+Golden Light 
+Individual award 
+2011 
+UNIVERSITY OF CIVIL ENGINEERING 
+Prize B 
+Student Science Research Competition 
+2003 
+Prize C 
+Student Science Research Competition 
+2004 
+References 
+CHOTOT COMPANY LIMITED 
+Mr. Kelvin Vuong 
+Head of Product 
+0122 717 99 76 
+ELEVEN COMMUNICATIONS 
+Mr. Dang Quoc Cuong 
+Director 
+090 636 32 11 
+Mr. Pham Phuoc Nguyen Account Manager 
+093 803 33 28 
+PEACESOFT SOLUTIONS CORPORATION 
+Mr. Nguyen Huu Tuat 
+CTO; Vice General Directory; 
+090 424 17 59 
+Mr. Do Cong Dien 
+Ngan Luong’s Director 
+090 451 51 05  
+VDC ONLINE 
+Mr. Dang Thanh Hung 
+Chief of R&D Department  
+090 449 79 68 

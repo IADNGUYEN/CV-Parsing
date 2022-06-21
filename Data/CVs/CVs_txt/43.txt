@@ -1,0 +1,66 @@
+CAO THANG TECHNOLOGY COLLEGE
+OCT 2014  OCT 2017
+HTML, ASP.NET PROJECT
+APR 2016  MAY 2016
+WINDOWS PROJECT
+OCT 2016  NOV 2016
+PHP PROJECT
+OCT 2016  DEC 2016
+FPT SOFTWARE HCM
+JAN 2017  MAR 2017
+WINDOWS PROJECT (GRADUATION PROJECT)
+JUN 2017  JUL 2017
+ZINTECH TECHNOLOGY SOLUTION COMPANY
+NOV 2017  JUL 2018
+Objective  Seeking position of a PHP Developer where I would be able to put to use the knowledge
+gained in the practical experience and technical aptitude.  Challenging myself in the real work environment and improve weak skills
+
+Education
+Major: Information Technology  Software Engineering
+GPA (6 semesters): 7.18/10
+ Other Skills
+Subject when study at school:  C++, C#, HTML/CSS, Javascript, PHP, ASP.NET, Java.  DBMS: MSSQL, MySQL, Access.
+ Work Experience
+Website selling shoes online for admin and customers in HTML, ASP.Net language.  Analysis and design database, interface.  Code functions about sales, product, employee, customer management online,...
+Technologies used: Visual Studio 2012, SQL Server.
+Shoes store manager Software for admin in C# language.  Analysis and design database, interface.  Code functions reports; sales; product, employee, customer management for admin,...
+Technologies used: Visual Studio 2012, SQL Server.
+Remake website Viettelstore in PHP language.  Analysis and design database.  Code function home, category, product detail, search, news, admin page;... 
+Technologies used: Adobe Dreamweaver CS5, Wamp Server 2.1, Photoshop.
+Internship
+Learn about the MVC model and write basic functions.
+Shoes store manager Software for admin, salesman, customer in C# language.  Analysis, design and input database.  Code functions promotion; reports; sales, product, size and image management, employee
+memberships, inventory management; search; decentralization; edit information ...
+Technologies used: Visual Studio 2013, SQL Server, DotNetBar.
+Technical staff. Consulting, technical supporting customers for spa, restaurant, hotel,.. manager software. Edit basic function for software, project support, demo the solution. Design websites by wordpress, edit HTML, CSS. Learn PHP & mySQL in Nhat Nghe.
+ Sep 16, 1996
+
+Male
+
+
+
+685/36/7 Xo Viet Nghe Tinh,
+Ward 26, Binh Thanh District,
+Ho Chi Minh city
+
+[protected data]
+SKILLS
+communication
+Self-learning
+Seeking Infomation
+Problem solving
+Logical thinking and creative
+Teamwork
+Reading
+under pressure
+INTERESTS
+Music
+Traveling, exploring
+Meet, exchange friends
+Game challenge yourself
+Tran Duy Thanh Yen
+Tran Duy Thanh Yen
+PHP DEVELOPER
+© topcv.vn
+0932144032
+yentranduy1609@gmail.com

@@ -1,0 +1,24 @@
+CURRICULUM VITAE OF HOANG 
+DUC TRINH 
+Name: Hoang Duc Trinh 
+E-mail: Trinh7293@gmail.com 
+Phone Number : +84 1638155518 
+Address: Ha Noi, Viet Nam 
+Application for Fresher Computer vision/ Machinelearning researcher 
+EDUCATION HISTORY  2008  2011: study at Cao Bang Gifted High school at Cao Bang province , 
+took part in the team of national excellent student in Cao Bang of Physics.  2011  2016: study at faculty of Physic at HUS (Hanoi University of 
+Science),  
+in which:  2011  2012: study at ULIS (University of Language and International 
+Studies ) and pass the IELTS test of 6.0 point. (because I am study in 
+International standard program, so for curriculum in English at HUS, I had 
+to spend the first year for studying English and have 6.0 IELTS for the back 
+to HUS for continue studying).  2012  2016 : back to the HUS and graduated. 
+EXPERIMENT  09/2016 – 09/2017:  DTT technology group as front-end developer.  09/2017 – 04/2018: Leadsgen company of marketing as javascript game 
+developer.  05/2018  09/2018: Self-study about machine learning and deep-learning 
+SKILLS  HTML, CSS, JAVASCRIPT(ES6, React, react-native).  Python, C, C++, MySql.  Strong Intuition about deeplearning, machinelearning algorithm (linear 
+regression, Regularization algorithm, classifier).  Work on some self project of apply convolutional neural network on 
+computer vision as face recognition, pattern recognition 
+SPECIAL SKILLS  I am skilled in the logic analytical of code and have many ideal for the 
+product.  I learn very quickly and able to speak English fluently.  I have the inspiration, aggressive and enthusiasm of youth. 
+AIM OF THE FUTURE CAREER  I would like to work in an aggressive environment of programming.  Exploiting my skills, my strength of youth and my English ability 
+especially.  Become the best Data Scientist about AI and machine learning. 

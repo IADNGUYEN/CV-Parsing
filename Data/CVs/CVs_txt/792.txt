@@ -1,0 +1,51 @@
+Education
+Ho Chi Minh City University of Technology and
+Education [ Oct 2014  Dec 2018]
+Major: Computer Network  Advanced Networking Technology  Network Monitoring Systems  Network Programming  Unix/Linux Operating System  Networks Security
+Pymi.vn | https://pymi.vn [ Aug 2018  Oct 2018 ]
+Major: Python programing
+being join this course:  8/12 session
+TECHNICAL SKILLS  Language: Python, Shell  SCM: Git, GitLab, GitHub  OS: Centos, Ubuntu  Team communication: Slack  Editor: Atom, SublimeText  Python tools: virtualenv, pip, pep8, flake8, IPython, jupyter
+notebook  Basic Technical knowledge in system administration,
+network maintenance, hardware maintenance, operating
+systems  Network Tools: Wireshark, nmap, Metasploit, Hydra,
+NagiOS, Snort, DVWA, OpenDayLight, Mininet  Installing and configuring PROXY, DNS, DHCP, FTP, WEB,
+NIS, NFS, Samba, VLAN, NAT, VPN, ACL, firewall, IDS/IPS,
+routing, SNMP, ICMP, HTTP …  Building a Simple Software-Defined Networking Systemwith
+OpenDaylight Controller
+PROJECTS
+Diploma Project [ Feb 2018  Jul 2018 ]
+Computer Network: Software Defined Networking and Demo
+Teamwork: 2 people
+Status: completed
+Knowledge:  About Networking Defined Software, OpenFlow protocol
+Networking and
+infrastructure
+Python
+Reading English
+documentations
+Working alone or
+teamwork
+Contact information
+15/08/1995
+01668203818
+tranthingocanh1508@gmail.com
+District 9 Ho Chi Minh, Vietnam
+Skills
+References
+HCMC University of Technology and
+Education 
+Faculty Information Technology 
+Email: kcntt@hcmute.edu.vn
+Nguyen Viet Hung 
+DevOps senior, Python mentor
+pymi.vn 
+Mobile: +84 982090290
+Email: hvn@familug.org
+Tran Thi Ngoc Anh
+Software Engineer  Using OpenDaylight SDN controller with Mininet Emulator  Demo SDN: Routing, NAT, Firewall, Loadbalancing
+Computer Network Essay [ Sep 2018  Dec 2018]
+Embedded system: Turn A Raspberry Pi into a music player
+Teamwork: 2 people
+Status: doing
+© topcv.vn

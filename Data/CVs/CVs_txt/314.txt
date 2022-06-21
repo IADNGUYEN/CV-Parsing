@@ -1,0 +1,113 @@
+ 
+Page 1 of 4 
+PERSONAL INFORMATION 
+Name 
+Pham Sanh 
+Date of birth 
+November, 11th 1992 
+Gender 
+Male 
+Current Address 
+Tan Lap 2 Street, 9 District, Ho Chi Minh City. 
+CONTACT INFORMATION 
+Mobile 
+01672 466 461 
+E-Mail 
+phsanh01@gmail.com 
+EDUCATION 
+2010 – 2015 
+Communication Electronics Department,  
+Faculty of Electrical and Electronics Engineering, 
+University of Technical Education Ho Chi Minh City       
+(2010- 2015).  
+GPA: 7.43 
+Position 
+AUTOMATION TEST 
+ENGINEER 
+CURRICULUM VITAE 
+Page 2 of 4 
+PROFESSIONAL PROFILE 
+Personal Statement 
+Having good knowledge about: 
+Basic electronics, LED, DIODE, 
+Transistor, JFET. 
+Electronics for Communication. 
+Analog signal processing. 
+Digital signal processing. 
+Data communication and digital 
+information network. 
+Configure wifi, router. 
+Network, VoIP. 
+Programming skills: 
+Basic knowledge about C, C++. 
+Basic knowledge about Keil C software for 
+AT89S52. knowledge about VHDL 
+language in programing chip kit FPGA,  
+Know at using Protues to design electronic 
+board. 
+knowledge about VHDL language in 
+programing chip kit FPGA. 
+Using matlab language for electrical 
+telecommunications. 
+Being  proficient in using Microsoft Office (Word, 
+Excel, Power Point) 
+Being able to read and understand the documents 
+written in English.  
+Being able to speak English medium. 
+Good at taking advantage of information from 
+internet. 
+Skills Summary 
+Be able to work in group or individual efficiently. 
+Be able to work under high pressure. 
+Be responsible for job. 
+Have ability to make a plan for job. 
+Having ability to read, write, understand, find 
+information about electronics and 
+telecommunication in English. 
+Page 3 of 4 
+WORK EXPERIENCES 
+2010 – 2011 Project 1: DC power supply circuit 
+Project description:  
+Construct a circuit can convert 220V AC to +12V, 12V, 
+5V, 5V DC. 
+Scope of the project:  
+Design Software: Proteus, orcad 10.5 
+Do the actual circuit using basic electronic components.  
+2011 – 2012 Project 2: Amplifier audio circuit 
+Project description:  
+Construct a circuit can amplifier audio signal with 2 input 
+to control 2 loudspeakers (left and right). 
+Scope of the project:  
+Design Software: Proteus. 
+Do the actual circuit using basic electronic components 
+and intergrated circuits (IC LA4440, LM358).  
+2012 – 2013 Project 3: Counting circuit products 
+Project description:  
+Counting circuit products using count product. 
+Scope of the project:  
+Design Software: Proteus, Keil C. 
+Do the actual circuit using basic electronic components 
+and intergrated circuits (IC AT89S52). 
+2013 – 2014 Project 4: Design radio circuit  
+Project description:  
+Design radio circuit with range frequently from 80MHz to 
+110MHz. 
+Scope of the project:  
+Design Software: Multisim 12, Proteus, Orcad 10.5. 
+Simulation Software: Multisim 12. 
+Page 4 of 4 
+Present –1/2015  Project 5: Visible Light Communication 
+Project description: 
+Instead of using fiber optic cable to transmit signals, 
+visible light communication will improve speed. 
+Aplication in communication with speed from 1 Mbps to 
+10 Gbps.  
+Scope of the project: 
+Software: ISE Xilinx, using  VHDL language. 
+Hardware: Kit FPGA Spartan 3E. 
+INTERESTS 
+Listen to music, playing soccer, relax and meet my friends. 
+Watching news on TV to know what happened in Vietnam or around the 
+world. 
+Surfing Internet to get the information and chat with friends, relatives, such as 
+yahoo, facebook. 

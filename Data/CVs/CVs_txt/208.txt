@@ -1,0 +1,110 @@
+1      
+Y VUONG QUOC PHAM 
+49, Street 19, 
+District 2, Ho Chi Minh City. 
+(+84) 935-980-622 | ypham@cmail.carleton.ca 
+EDUCATION            
+Bachelor of Computer Science, Computer and Internet Security, Co-op option           
+From 2015 to 2018           
+Carleton University, Ottawa, ON           
+2 Year Undergraduate, CGPA 9.45/12(B+)              
+AVAILABILITY           
+Available at anytime.           
+RELEVANT SKILLS, EXPERICENCES AND ACCOMPLISHMENTS.           
+Technical Skills:           
+Programmed in Javascript, C++ and Java to design and develop programs, 
+applications and games over 2 years.           
+Smoothly using some debugging tools such as using GDB, Valgrind in Linux operating 
+system, command line debugger, IntelliJ IDEA in Java.            
+High knowledge in advanced data structures and algorithms. Example: Design and 
+implementation list, tree, map, table, etc. as the run time complexity, memory space 
+and correctness’ requirements.         
+Designed and implementation of web-based applications (Javascript, Node.js, HTML, 
+MongoDB, RESTful API). 
+Communication Skills:           
+Listened and communicated with tutorial assistances to understand and solve 
+problems successfully.           
+2      
+Shared and communicated through communications technologies such as blog, e- 
+portfolio, mail etc.         
+Discussed with teammates to build up ideas, strategies in e-sport; Encouraged 
+teammates and always had positive attitude while under pressure.       
+Analytical Skills       
+Focused on the details to demonstrate and solve problems by highlighting important 
+notes.       
+Sought different points of view to solve problems or discover better solutions.       
+Adaptability Skills       
+Able to work independently or as a team.       
+Having good time management skills such as well-organized schedules, so that could 
+meet deadlines even carrying out multiple stacks, works.       
+Learnt from mistakes and accepted feedbacks to get better results in the future.       
+Focused on core concepts and fraction of syntax to quickly adapt and learn new 
+programming languages.       
+3      
+RECORD OF GRADES       
+Y Pham 
+Carleton University      
+Bachelor of Computer Science with 2 years standing. Internet and 
+Computer Security.       
+Cumulative Grade Point Average:  9.45 /12       
+Number of Academic (4 month) Terms Completed: 4       
+Co-op (4 Month) Work Terms Completed: 0        
+Graduation Date: 2020        
+Course Number       
+Course Name       
+Letter Grade       
+MATH 1002A       
+Calculus and Introductory Analysis I       
+A-       
+Year One:        
+COMP 1005       
+Introduction to computer science I       
+A       
+ESL 1900       
+English as a Second Language       
+B+       
+ECON 1000       
+Introduction to Economics       
+B       
+PHIL 1200       
+The meaning of life       
+B+       
+PSYC 1001       
+Introduction to Psychology       
+B       
+MATH 1104       
+Linear Algebra for Engineering or Science       
+A+       
+COMP 1006       
+Introduction to computer science II       
+A-       
+COMP 1805       
+Discrete Structures I       
+B+       
+Year Two:        
+STAT 2507       
+Introduction to Statistical Modeling I       
+A       
+4      
+MATH 2008       
+Intermediate Calculus       
+A       
+COMP 2401       
+Introduction to Systems Programming       
+C-       
+BUSI 1001       
+Principles of Financial Accounting       
+B+       
+COMP 2402       
+Abstract Data Types and Algorithms       
+A+       
+COMP 2404       
+Introduction to Software Engineering       
+B+ 
+COMP 2406       
+Fundamentals of Web applications       
+A 
+BUSI 1002       
+Management Accounting        
+B+ 
+Year Three:        

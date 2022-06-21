@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.90.1">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="42" family="BAAAAA+DejaVuSans" color="#0000ff"/>
+	<fontspec id="1" size="22" family="CAAAAA+LiberationSerif" color="#0000ff"/>
+	<fontspec id="2" size="16" family="CAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="3" size="16" family="DAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="4" size="16" family="EAAAAA+LiberationSerif" color="#000000"/>
+	<fontspec id="5" size="16" family="Symbol" color="#000000"/>
+	<fontspec id="6" size="16" family="GAAAAA+OpenSymbol" color="#000000"/>
+	<fontspec id="7" size="13" family="HAAAAA+LiberationSans" color="#000000"/>
+	<fontspec id="8" size="13" family="IAAAAA+LiberationSans" color="#000000"/>
+<text top="88" left="281" width="330" height="49" font="0">Curriculum Vitae</text>
+<text top="178" left="135" width="193" height="25" font="1"><b>Personal Information</b></text>
+<text top="216" left="168" width="211" height="18" font="2"><b>Full name: Nguyen Van Hong</b></text>
+<text top="244" left="168" width="79" height="18" font="2"><b>Nationality</b></text>
+<text top="244" left="247" width="9" height="18" font="3">: </text>
+<text top="244" left="263" width="76" height="18" font="4"><i>Vietnamese</i></text>
+<text top="244" left="339" width="4" height="18" font="3"> </text>
+<text top="272" left="168" width="101" height="18" font="2"><b>Place of birth:</b></text>
+<text top="272" left="269" width="4" height="18" font="3"> </text>
+<text top="272" left="273" width="61" height="18" font="4"><i>Tay Ninh</i></text>
+<text top="272" left="334" width="4" height="18" font="3"> </text>
+<text top="272" left="338" width="70" height="18" font="4"><i>/ Viet Nam</i></text>
+<text top="272" left="409" width="4" height="18" font="3"> </text>
+<text top="272" left="450" width="177" height="18" font="2"><b>Date of Birth: 12/03/1992</b></text>
+<text top="300" left="168" width="59" height="18" font="2"><b>Gender:</b></text>
+<text top="300" left="227" width="8" height="18" font="3">  </text>
+<text top="300" left="263" width="34" height="18" font="4"><i>Male</i></text>
+<text top="300" left="297" width="4" height="18" font="3"> </text>
+<text top="300" left="387" width="4" height="18" font="3"> </text>
+<text top="300" left="450" width="109" height="18" font="2"><b>Marital status: </b></text>
+<text top="300" left="559" width="41" height="18" font="4"><i>Single</i></text>
+<text top="328" left="168" width="49" height="18" font="2"><b>Phone:</b></text>
+<text top="328" left="218" width="4" height="18" font="3"> </text>
+<text top="328" left="263" width="91" height="18" font="3">01656363703</text>
+<text top="328" left="450" width="42" height="18" font="2"><b>Email</b></text>
+<text top="328" left="492" width="217" height="18" font="3">:nguyenhong12392@gmail.com </text>
+<text top="356" left="168" width="82" height="18" font="2"><b>Languages:</b></text>
+<text top="356" left="250" width="4" height="18" font="3"> </text>
+<text top="356" left="254" width="258" height="18" font="4"><i>Vietnamese (Native), English (Normal)</i></text>
+<text top="416" left="135" width="195" height="25" font="1"><b>Experience Summary</b></text>
+<text top="467" left="162" width="8" height="21" font="5">•</text>
+<text top="469" left="189" width="377" height="18" font="3">I’m new graduate so I don’t have real work’s experience </text>
+<text top="492" left="162" width="8" height="21" font="5">•</text>
+<text top="494" left="189" width="327" height="18" font="3">In the learning process., i have done some project</text>
+<text top="517" left="162" width="8" height="21" font="5">•</text>
+<text top="519" left="189" width="211" height="18" font="3">Manage group and create event.</text>
+<text top="579" left="135" width="49" height="25" font="1"><b>Skills</b></text>
+<text top="629" left="135" width="15" height="16" font="6"></text>
+<text top="628" left="162" width="69" height="18" font="3">Soft Skills</text>
+<text top="670" left="162" width="8" height="21" font="5">•</text>
+<text top="672" left="189" width="388" height="18" font="3">Single Working :I can work alone with high concentration.</text>
+<text top="695" left="162" width="8" height="21" font="5">•</text>
+<text top="697" left="189" width="501" height="18" font="3">Teamwork:I don’t think that I really have teamwork skill.I need improve it. </text>
+<text top="720" left="162" width="8" height="21" font="5">•</text>
+<text top="722" left="189" width="512" height="18" font="3">English: read,write and translate documents.Communication by English isn’t </text>
+<text top="741" left="189" width="163" height="18" font="3">good,but it is improving.</text>
+<text top="764" left="162" width="8" height="21" font="5">•</text>
+<text top="766" left="189" width="267" height="18" font="3">Reading, understand and use technology</text>
+<text top="789" left="162" width="8" height="21" font="5">•</text>
+<text top="791" left="189" width="35" height="18" font="3">Code</text>
+<text top="813" left="135" width="15" height="16" font="6"></text>
+<text top="812" left="162" width="132" height="18" font="3">Programming Skills</text>
+<text top="854" left="162" width="8" height="21" font="5">•</text>
+<text top="856" left="189" width="42" height="18" font="3">JAVA</text>
+<text top="879" left="162" width="8" height="21" font="5">•</text>
+<text top="881" left="189" width="65" height="18" font="3">Hibernate</text>
+<text top="904" left="162" width="8" height="21" font="5">•</text>
+<text top="906" left="189" width="177" height="18" font="3">A part Spring frame works</text>
+<text top="929" left="162" width="8" height="21" font="5">•</text>
+<text top="931" left="189" width="80" height="18" font="3">JSP,JSF,ZK</text>
+<text top="954" left="162" width="8" height="21" font="5">•</text>
+<text top="956" left="189" width="98" height="18" font="3">SQL SERVER</text>
+<text top="1011" left="135" width="15" height="16" font="6"></text>
+<text top="1009" left="162" width="59" height="18" font="3">Software</text>
+<text top="1052" left="162" width="8" height="21" font="5">•</text>
+<text top="1054" left="189" width="136" height="18" font="3">Platforms: Windows</text>
+<text top="1077" left="162" width="8" height="21" font="5">•</text>
+<text top="1079" left="189" width="101" height="18" font="3">Others: Eclipse</text>
+<text top="1194" left="660" width="36" height="15" font="7"><b>Page </b></text>
+<text top="1194" left="696" width="8" height="15" font="8">1</text>
+<text top="1194" left="704" width="20" height="15" font="7"><b> of </b></text>
+<text top="1194" left="724" width="8" height="15" font="8">2</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="9" size="15" family="DAAAAA+LiberationSerif" color="#000000"/>
+<text top="66" left="135" width="93" height="25" font="1"><b>Education</b></text>
+<text top="123" left="162" width="8" height="21" font="5">•</text>
+<text top="125" left="189" width="434" height="18" font="3">2010 – 2015: Nong Lam University, Ho Chi Minh City, Vietnam </text>
+<text top="185" left="135" width="65" height="25" font="1"><b>Project</b></text>
+<text top="214" left="162" width="8" height="21" font="5">•</text>
+<text top="216" left="189" width="260" height="18" font="3">Translate software: java core,collection</text>
+<text top="235" left="162" width="8" height="21" font="5">•</text>
+<text top="237" left="189" width="292" height="18" font="3">Website share video:jsp,css,html5,jqueryUI.</text>
+<text top="255" left="162" width="8" height="21" font="5">•</text>
+<text top="257" left="189" width="332" height="18" font="3">Library 3D(not complete):Web GL,JavaScript,AR</text>
+<text top="276" left="162" width="8" height="21" font="5">•</text>
+<text top="278" left="189" width="303" height="18" font="3">Website MusicOnline:hibernate,ZK,css,html5</text>
+<text top="297" left="162" width="8" height="21" font="5">•</text>
+<text top="298" left="189" width="297" height="18" font="3">Feedback:jsf-primeface,hibernate,spring orm</text>
+<text top="317" left="162" width="8" height="21" font="5">•</text>
+<text top="319" left="189" width="545" height="18" font="3">ManagerSport (completing…):Hibernate,Steam AIP,Banking API,Restfull,Spring </text>
+<text top="338" left="189" width="59" height="18" font="3">Security.</text>
+<text top="394" left="135" width="139" height="25" font="1"><b>A bit for myself</b></text>
+<text top="430" left="189" width="8" height="21" font="5">•</text>
+<text top="432" left="216" width="45" height="18" font="3">Hobby</text>
+<text top="451" left="216" width="383" height="18" font="3">+Reading book(technology,story,paper,documents,anime)</text>
+<text top="479" left="218" width="102" height="18" font="3">+Writing story.</text>
+<text top="507" left="218" width="362" height="18" font="3">+Music( jazz,pop-ballad…,listen and song-but so sad).</text>
+<text top="535" left="218" width="134" height="18" font="3">+Playing volleyball,</text>
+<text top="536" left="352" width="4" height="17" font="9"> </text>
+<text top="535" left="356" width="119" height="18" font="3">badminton,esport.</text>
+<text top="563" left="218" width="267" height="18" font="3">+Watching discovery,wild life channels.</text>
+<text top="591" left="218" width="92" height="18" font="3">+Travel alone</text>
+<text top="618" left="189" width="8" height="21" font="5">•</text>
+<text top="620" left="216" width="57" height="18" font="3">Reviews</text>
+<text top="648" left="216" width="441" height="18" font="3">+sociable, communication,easy intergration with new environment</text>
+<text top="676" left="216" width="9" height="18" font="3">+</text>
+<text top="678" left="225" width="4" height="17" font="9"> </text>
+<text top="676" left="229" width="135" height="18" font="3">concentrating on job</text>
+<text top="704" left="216" width="9" height="18" font="3">+</text>
+<text top="706" left="225" width="4" height="17" font="9"> </text>
+<text top="704" left="229" width="178" height="18" font="3">interesting new technology</text>
+<text top="732" left="216" width="121" height="18" font="3">+like competition,</text>
+<text top="733" left="337" width="4" height="17" font="9"> </text>
+<text top="732" left="341" width="63" height="18" font="3">challenge</text>
+<text top="760" left="216" width="191" height="18" font="3">+frankly share my viewpoint</text>
+<text top="1194" left="660" width="36" height="15" font="7"><b>Page </b></text>
+<text top="1194" left="696" width="8" height="15" font="8">2</text>
+<text top="1194" left="704" width="20" height="15" font="7"><b> of </b></text>
+<text top="1194" left="724" width="8" height="15" font="8">2</text>
+</page>
+</pdf2xml>

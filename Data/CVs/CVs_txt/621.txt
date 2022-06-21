@@ -1,0 +1,98 @@
+   
+NGUYEN THANH THUC  
+313/31 Quang Trung street, Go Vap District, Ho Chi Minh City  
+Phone: 0902706779    
+Email: thanhthuc041293@gmail.com  
+Date of birth: 04/12/1993  
+MY OBJECTIVE  
+Amaris is the excellent working environment, great opportunity to get ahead and develop 
+myself, especial to improve my technical skill and knowledge about mobile programing. This is 
+also friendly working place to improve my communication skill in English. 
+SUMMARY  
+Almost 1-year experiment of working from 4/2016 to current time. I have strong, in-deep 
+knowledge about develop iOS application. I have experienced and familiar with 
+Swift/Objective-C. 
+PROFESSIONAL EXPERIENCE   
+iOS Developer, 04/2016 to present. Working as iOS developer of mobile team at FPT software 
+Ho Chi Minh from 04/2016 up to now, with three project, all this projects were succeed. 
+May 2016  
+FHoken project: This is sale product, i join to this project to learn about business, learn how to 
+design layout for iOS product, learn how to implement layout flow using Interface Builder, Auto 
+layout and UIKit. 
+Responsibility:  
+o Joining to learn about product business. 
+o Implement layout flow for product. 
+o Implement some small business logic. 
+June-August 2016  
+NFCLock project about security by software method for stored data into SD card, this card was 
+owned by iOS device. In this project, we implement three methods for data security: by GPS, 
+by Time and by password.  
+Responsibility:  
+o Writing SRS document. 
+o Joining analyze customer requirement. 
+o Joining implement layout flow for home screen (with more cool animation), 
+setting screen, change mode screen, and popup set mode screen. All most layout 
+in this project be done by me, I really make a great UI for this product. 
+o Using nal library (this is private library from Toshiba Inc.) to communicate 
+between iPhone Bluetooth and Card Reader (SD Card use to read/write data to 
+SD Card). 
+o Implement 3 security method according with business logic:  
+Using Apple map to view place, choose GPS for GPS mode setting, set 
+rule for GPS mode. 
+Choosing time, set rule for time mode setting. 
+Set password, set rule for password mode setting. 
+o Design and write test (unit test). 
+o Maintain product. 
+Technology: 
+o Core animation. 
+o Core Bluetooth. 
+o Persistence 
+o Multithreading (GCD/NSOperationQueue). 
+o Push notification. 
+o Unit test. 
+September  November 2016  
+PartyPrint project, this project to serve user can take photo, choose, valid, review and upload 
+image file to server (this image use to print for user) via LAN network. 
+Responsibility: 
+o Writing SRS, SDS document. 
+o Joining analyze customer requirement. 
+o Joining implement layout flow for: home screen (this screen can be change depend 
+on status of network), choose image screen, preview image screen, sent image 
+screen. Some pretty animation in this screens 
+o Using Alamofire to make convenience to transfer image data by stream. 
+o Working with image handling: cached image, compress image, change image 
+dimension 
+o Working with user permission when use camera, photo. 
+o Load API setting from server and handle use case depend on business logic, depend 
+on status of app lifecycle.  
+o Working with Exif image: valid Exif image according time to determine whether if 
+this photo can be allowed to select or send, keep this Exif image on server same with 
+original Exif image. 
+o Testing for product. 
+o Maintain product. 
+Technology:  
+o Core animation 
+o Core image 
+o Apple photos framework 
+o Persistence 
+o ARC 
+o REST API (working with XML format) 
+o Alamofire  
+o NSURLSession and NSURLConnection 
+o Multithreading (GCD/NSOperationQueue) 
+o Push notification 
+o Unit test 
+TECHNICAL SKILLS  
+Programming Languages: Swift, Objective–C, C/C++, Java, C#, HTML/CSS, Javascripts, 
+SQL. (strong with Swift/Objective-C, C/C++)  
+Operation Systems: macOS, Windows, Ubuntu.  
+Development Tools: Xcode, Eclipse, Visual Studio.  
+Version Control: GIT, Subversion.  
+SOFT SKILLS  
+Good communication skill in English 
+EDUCATION  
+2011-2016: Ho Chi Minh University of Technology.    
+Major: Computer Science.  
+CERTIFICATE  
+TOEIC 550 
+My github:  https://github.com/thanhthucbkinfo?tab=repositories 
